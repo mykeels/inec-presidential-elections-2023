@@ -1,0 +1,26 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KADUNA,JEMA'A,,BUKA BAKWA / WAZIRI,18/07/06/021,,true
+KADUNA,JEMA'A,,FADA ZANKAN / ZANKAN UNDER MANGO TREE,18/07/06/025,,true
+KADUNA,JEMA'A,,FARIN HAWA / UNG. SOMI,18/07/06/023,,true
+KADUNA,JEMA'A,,NINTE / GADA BIYU OPEN SPACE,18/07/06/022,,true
+KADUNA,JEMA'A,,UNG. GWAMNA II / HAYIN RANDA,18/07/06/024,,true
+KADUNA,JEMA'A,,NINTE I./ SARKIN NINTE I.,18/07/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21598/pu/53135/53135-1677593941.pdf,true
+KADUNA,JEMA'A,,ZANKAN MANTE/ SABO MANTE,18/07/06/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21598/pu/53143/53143-1677488956.pdf,false
+KADUNA,JEMA'A,,MADAKI GOLKOFA/ L.E.A. PRY. SCH.,18/07/06/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21598/pu/53142/53142-1677480748.pdf,false
+KADUNA,JEMA'A,,ARAK II./ ANDAHA (AKWA),18/07/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21598/pu/53134/53134-1677480456.pdf,false
+KADUNA,JEMA'A,,GWALKOFA U/GWAMNA/ GWALKOFA U/GWAMNA,18/07/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21598/pu/53131/53131-1677480085.pdf,false
+KADUNA,JEMA'A,,NINTE II./ S/ZANKAN,18/07/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21598/pu/53136/53136-1677479844.pdf,false
+KADUNA,JEMA'A,,SARKI ARUSUWA/ KOFAR ATIKU LABARAN,18/07/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21598/pu/53138/53138-1677479524.pdf,false
+KADUNA,JEMA'A,,UNG. ANJO/ UNG. ANJO,18/07/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21598/pu/53140/53140-1677479449.pdf,false
+KADUNA,JEMA'A,,FADAN HAKIMI II./ FADAN HAKIMI II.,18/07/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21598/pu/53129/53129-1677479119.pdf,false
+KADUNA,JEMA'A,,ARAK I./ HAYIN GADA,18/07/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21598/pu/53133/53133-1677478697.pdf,false
+KADUNA,JEMA'A,,FADAN HAKIMI I./ FADAN HAKIMI I.,18/07/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21598/pu/53128/53128-1677478509.pdf,false
+KADUNA,JEMA'A,,NINDEM II/ ISIYAKU BAHAGO,18/07/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21598/pu/53127/53127-1677478182.pdf,false
+KADUNA,JEMA'A,,NINDEM I/ KOFAR DAGACHI,18/07/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21598/pu/53126/53126-1677477900.pdf,false
+KADUNA,JEMA'A,,KIBAM/SARKI ABAM GARI/ SARKIN GARI,18/07/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21598/pu/53141/53141-1677477147.pdf,false
+KADUNA,JEMA'A,,GWALKOFA II. U/IBO/ KOFAR ALH. TOFA,18/07/06/007,https://docs.inecelectionresults.net/elections/1292/1677447625-53132.pdf,false
+KADUNA,JEMA'A,,UNG. GWAMNA/ UNG. GWAMNA,18/07/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/06/pu/014/014-1677428769.pdf,false
+KADUNA,JEMA'A,,FARIN HAWA/ FARIN HAWA,18/07/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/06/pu/012/012-1677428780.pdf,false
+KADUNA,JEMA'A,,ANGOLA U/MAKERA/ ANGOLA U/MAKERA,18/07/06/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/06/pu/019/019-1677428716.pdf,false
+KADUNA,JEMA'A,,ZANKAN U/SARKI/ KOFAR DAGACHIN ZANKAN,18/07/06/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/06/pu/020/020-1677428520.pdf,false
+KADUNA,JEMA'A,,HAKIMIN GODOGODO II./ KOFAR BABA IBRAHIM,18/07/06/005,,false

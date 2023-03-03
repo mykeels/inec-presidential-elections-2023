@@ -1,0 +1,154 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KADUNA,IGABI,,ABUJA ROAD,18/04/12/005,,true
+KADUNA,IGABI,,UNG. SARKI RIGASA I,18/04/12/003,,true
+KADUNA,IGABI,,SADAU,18/04/12/001,,true
+KADUNA,IGABI,,UNG. SARKI RIGASA II,18/04/12/004,,true
+KADUNA,IGABI,,MAKARANTA I,18/04/12/002,,true
+KADUNA,IGABI,,UNG. ABDUL DAN CIRANI,18/04/12/032,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145804/145804-1677499993.pdf,false
+KADUNA,IGABI,,UNG. SAMAILA,18/04/12/044,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145816/145816-1677490606.pdf,false
+KADUNA,IGABI,,SARKIN BORI SULE,18/04/12/045,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145817/145817-1677490327.pdf,false
+KADUNA,IGABI,,RIJIYA,18/04/12/151,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145923/145923-1677487242.pdf,false
+KADUNA,IGABI,,TRANSFORMER I,18/04/12/147,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145919/145919-1677480836.pdf,false
+KADUNA,IGABI,,UNG. ALFA,18/04/12/142,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145914/145914-1677479960.pdf,false
+KADUNA,IGABI,,UNG. KIBIYA,18/04/12/148,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145920/145920-1677478244.pdf,false
+KADUNA,IGABI,,POLY FARM,18/04/12/145,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145917/145917-1677477266.pdf,false
+KADUNA,IGABI,,ARMA YA'U,18/04/12/108,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145880/145880-1677467849.pdf,false
+KADUNA,IGABI,,UNG. MAIGORO,18/04/12/104,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145876/145876-1677467296.pdf,false
+KADUNA,IGABI,,SERVICE,18/04/12/150,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145922/145922-1677466161.pdf,false
+KADUNA,IGABI,,JAMBULO,18/04/12/149,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145921/145921-1677465100.pdf,false
+KADUNA,IGABI,,SHONGA,18/04/12/132,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145904/145904-1677464818.pdf,false
+KADUNA,IGABI,,"UNG. KALGO, ZAGE ZAGI",18/04/12/113,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145885/145885-1677463760.pdf,false
+KADUNA,IGABI,,LEA PRI. SCH. DANMANI,18/04/12/144,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145916/145916-1677463761.pdf,false
+KADUNA,IGABI,,UNG. KUDU,18/04/12/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/52719/52719-1677463285.pdf,false
+KADUNA,IGABI,,ZAGE-ZAGI II,18/04/12/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/52718/52718-1677463155.pdf,false
+KADUNA,IGABI,,PRI. HEALTH CARE,18/04/12/133,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145905/145905-1677463134.pdf,false
+KADUNA,IGABI,,UNG. MALAM JAMILU,18/04/12/118,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145890/145890-1677462899.pdf,false
+KADUNA,IGABI,,MIYATTI ALLAH I,18/04/12/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/52717/52717-1677462877.pdf,false
+KADUNA,IGABI,,UNG. TANKIN RUWA,18/04/12/140,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145912/145912-1677462781.pdf,false
+KADUNA,IGABI,,GSS MAKARFI ROAD CHANCHANGI BLOCK,18/04/12/117,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145889/145889-1677462558.pdf,false
+KADUNA,IGABI,,UNG. MASHI GWARI II,18/04/12/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/52715/52715-1677462340.pdf,false
+KADUNA,IGABI,,ZAGE-ZAGI,18/04/12/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/52716/52716-1677462267.pdf,false
+KADUNA,IGABI,,MIYATTI ALLAH II,18/04/12/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/52720/52720-1677461757.pdf,false
+KADUNA,IGABI,,LAST BUS STOP ADARAWA,18/04/12/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/52711/52711-1677461684.pdf,false
+KADUNA,IGABI,,KWANAR DANFULANI,18/04/12/128,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145900/145900-1677461519.pdf,false
+KADUNA,IGABI,,MASHI GWARI III,18/04/12/100,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145872/145872-1677460953.pdf,false
+KADUNA,IGABI,,LEA PRI. LOKOJA ROAD II,18/04/12/099,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145871/145871-1677460676.pdf,false
+KADUNA,IGABI,,UNG. MAI LUNGU,18/04/12/098,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145870/145870-1677460488.pdf,false
+KADUNA,IGABI,,UNG. DAUDA,18/04/12/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/52713/52713-1677460171.pdf,false
+KADUNA,IGABI,,UNG. MAI GIDAN KWARI,18/04/12/094,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145866/145866-1677460172.pdf,false
+KADUNA,IGABI,,SHARIA COURT,18/04/12/084,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145856/145856-1677458458.pdf,false
+KADUNA,IGABI,,UNG. MALAM BELLO I,18/04/12/055,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145827/145827-1677457961.pdf,false
+KADUNA,IGABI,,MAGISTRATE COURT,18/04/12/083,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145855/145855-1677457795.pdf,false
+KADUNA,IGABI,,UNG. KWATA,18/04/12/110,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145882/145882-1677457553.pdf,false
+KADUNA,IGABI,,"UNG. MOHAMMED YOLA, MIYETTI ALLAH",18/04/12/130,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145902/145902-1677457464.pdf,false
+KADUNA,IGABI,,MAI GORA,18/04/12/122,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145894/145894-1677457411.pdf,false
+KADUNA,IGABI,,LEA PRI. SCH. BOKON DAJI,18/04/12/134,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145906/145906-1677456411.pdf,false
+KADUNA,IGABI,,UNG. YAHAYA,18/04/12/153,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145925/145925-1677456286.pdf,false
+KADUNA,IGABI,,UNG. DOGARI,18/04/12/152,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145924/145924-1677456221.pdf,false
+KADUNA,IGABI,,UNG. DAN ALEWA,18/04/12/136,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145908/145908-1677455848.pdf,false
+KADUNA,IGABI,,RICHIFA,18/04/12/135,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145907/145907-1677455159.pdf,false
+KADUNA,IGABI,,UNG. GARBA SECRETARY,18/04/12/139,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145911/145911-1677454384.pdf,false
+KADUNA,IGABI,,YAZUFA,18/04/12/131,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145903/145903-1677454260.pdf,false
+KADUNA,IGABI,,UNG. MUSA DAN-KAMA,18/04/12/096,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145868/145868-1677453747.pdf,false
+KADUNA,IGABI,,UNG. ATIKU,18/04/12/091,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145863/145863-1677453446.pdf,false
+KADUNA,IGABI,,UNG. GARBA WAZIRI,18/04/12/126,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145898/145898-1677453056.pdf,false
+KADUNA,IGABI,,UNG. BILYA I,18/04/12/051,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145823/145823-1677452371.pdf,false
+KADUNA,IGABI,,UNG. DAN SOKOTO,18/04/12/095,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145867/145867-1677452265.pdf,false
+KADUNA,IGABI,,UNG. YARMAMA,18/04/12/109,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145881/145881-1677452045.pdf,false
+KADUNA,IGABI,,NAT. PRI. HEALTH CARE II DANMANI,18/04/12/103,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145875/145875-1677451943.pdf,false
+KADUNA,IGABI,,UNG. MASHI GWARI VI,18/04/12/106,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145878/145878-1677451689.pdf,false
+KADUNA,IGABI,,UNG. GANGARIDA,18/04/12/058,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21572/pu/145830/145830-1677451602.pdf,false
+KADUNA,IGABI,,LAST BUS STOP III,18/04/12/081,https://docs.inecelectionresults.net/elections/1292/1677451441-145853.pdf,false
+KADUNA,IGABI,,ABUJA ROAD III,18/04/12/050,https://docs.inecelectionresults.net/elections/1292/1677451005-145822.pdf,false
+KADUNA,IGABI,,UNG. BILYA II,18/04/12/052,https://docs.inecelectionresults.net/elections/1292/1677450787-145824.pdf,false
+KADUNA,IGABI,,ABUJA ROAD / JAMMA'A ROAD,18/04/12/053,https://docs.inecelectionresults.net/elections/1292/1677450648-145825.pdf,false
+KADUNA,IGABI,,BABA SANI,18/04/12/059,https://docs.inecelectionresults.net/elections/1292/1677450068-145831.pdf,false
+KADUNA,IGABI,,UNG. MAI KWAI,18/04/12/060,https://docs.inecelectionresults.net/elections/1292/1677449995-145832.pdf,false
+KADUNA,IGABI,,UNG. KURAMA,18/04/12/072,https://docs.inecelectionresults.net/elections/1292/1677448657-145844.pdf,false
+KADUNA,IGABI,,UNG. SANI DAN GWARI,18/04/12/089,https://docs.inecelectionresults.net/elections/1292/1677448612-145861.pdf,false
+KADUNA,IGABI,,RUGAN - FULANI,18/04/12/141,https://docs.inecelectionresults.net/elections/1292/1677448518-145913.pdf,false
+KADUNA,IGABI,,UNG.MALAMAWA,18/04/12/073,https://docs.inecelectionresults.net/elections/1292/1677448040-145845.pdf,false
+KADUNA,IGABI,,KUDAN,18/04/12/121,https://docs.inecelectionresults.net/elections/1292/1677447752-145893.pdf,false
+KADUNA,IGABI,,TSAMIYA TARA (9),18/04/12/112,https://docs.inecelectionresults.net/elections/1292/1677447628-145884.pdf,false
+KADUNA,IGABI,,UNG. WAZIRI,18/04/12/075,https://docs.inecelectionresults.net/elections/1292/1677447611-145847.pdf,false
+KADUNA,IGABI,,UNG. DAN-MASANI I,18/04/12/061,https://docs.inecelectionresults.net/elections/1292/1677447493-145833.pdf,false
+KADUNA,IGABI,,UNG. MAIWADA,18/04/12/127,https://docs.inecelectionresults.net/elections/1292/1677447448-145899.pdf,false
+KADUNA,IGABI,,UNG. SULE DAN BORI,18/04/12/086,https://docs.inecelectionresults.net/elections/1292/1677447199-145858.pdf,false
+KADUNA,IGABI,,LAST BUS STOP II,18/04/12/080,https://docs.inecelectionresults.net/elections/1292/1677447064-145852.pdf,false
+KADUNA,IGABI,,LAST BUS STOP IV,18/04/12/082,https://docs.inecelectionresults.net/elections/1292/1677447034-145854.pdf,false
+KADUNA,IGABI,,MIYATTI ALLAH TRANSFORMER,18/04/12/124,https://docs.inecelectionresults.net/elections/1292/1677446884-145896.pdf,false
+KADUNA,IGABI,,UNG. WAZIRI III,18/04/12/077,https://docs.inecelectionresults.net/elections/1292/1677446490-145849.pdf,false
+KADUNA,IGABI,,UNG. IBRAHIM ABUBAKAR,18/04/12/069,https://docs.inecelectionresults.net/elections/1292/1677446313-145841.pdf,false
+KADUNA,IGABI,,UNG. NASIRU,18/04/12/062,https://docs.inecelectionresults.net/elections/1292/1677445062-145834.pdf,false
+KADUNA,IGABI,,FARIN GIDA,18/04/12/071,https://docs.inecelectionresults.net/elections/1292/1677444982-145843.pdf,false
+KADUNA,IGABI,,UBE PRI. SCH. ZAGE ZAGI,18/04/12/123,https://docs.inecelectionresults.net/elections/1292/1677438351-145895.pdf,false
+KADUNA,IGABI,,UNG. MALAM BELLO II,18/04/12/056,https://docs.inecelectionresults.net/elections/1292/1677437588-145828.pdf,false
+KADUNA,IGABI,,SHAGO - GOMA,18/04/12/101,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/101/101-1677428715.pdf,false
+KADUNA,IGABI,,UNG.MAL. LABARAN,18/04/12/074,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/074/074-1677428453.pdf,false
+KADUNA,IGABI,,KUDANDAN,18/04/12/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/024/024-1677426778.pdf,false
+KADUNA,IGABI,,UNG. ALI ABUJA ROAD,18/04/12/025,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/025/025-1677425838.pdf,false
+KADUNA,IGABI,,UNG. DANMADAMI II,18/04/12/026,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/026/026-1677425092.pdf,false
+KADUNA,IGABI,,H/DAN MADAMI II,18/04/12/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/022/022-1677422252.pdf,false
+KADUNA,IGABI,,UNG. WAZIRI,18/04/12/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/010/010-1677419852.pdf,false
+KADUNA,IGABI,,UNG. DANMAZARI,18/04/12/048,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/048/048-1677418846.pdf,false
+KADUNA,IGABI,,H/DAN MADAMI I,18/04/12/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/021/021-1677418151.pdf,false
+KADUNA,IGABI,,KWANAN HATSARI,18/04/12/042,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/042/042-1677417719.pdf,false
+KADUNA,IGABI,,UNG. SARKIN SAMARI MAKERA,18/04/12/043,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/043/043-1677416915.pdf,false
+KADUNA,IGABI,,UNG. ABDULWAHAB,18/04/12/046,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/046/046-1677416185.pdf,false
+KADUNA,IGABI,,UNG. IDI,18/04/12/120,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/120/120-1677415158.pdf,false
+KADUNA,IGABI,,HAYIN TARO-TARO,18/04/12/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/023/023-1677415070.pdf,false
+KADUNA,IGABI,,UNG. SARKIN KABILU I,18/04/12/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/007/007-1677414895.pdf,false
+KADUNA,IGABI,,YAN KIFI II,18/04/12/028,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/028/028-1677414425.pdf,false
+KADUNA,IGABI,,MAL. MUHAMMAD TEACHER,18/04/12/029,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/029/029-1677413622.pdf,false
+KADUNA,IGABI,,UNG. LIKO,18/04/12/146,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/146/146-1677412628.pdf,false
+KADUNA,IGABI,,UNG. KUTUNGARE,18/04/12/125,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/125/125-1677412070.pdf,false
+KADUNA,IGABI,,UNG. DAUDA,18/04/12/111,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/111/111-1677411363.pdf,false
+KADUNA,IGABI,,UNG. MASHI GWARI I,18/04/12/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/014/014-1677410688.pdf,false
+KADUNA,IGABI,,KWANAN SHANONO,18/04/12/129,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/129/129-1677409581.pdf,false
+KADUNA,IGABI,,UNG. DAN MADAMI,18/04/12/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/012/012-1677408288.pdf,false
+KADUNA,IGABI,,UNG. TUKUR MAI TAYA,18/04/12/040,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/040/040-1677407724.pdf,false
+KADUNA,IGABI,,"GSS MAKARFI ROAD, ADMIN BLOCK",18/04/12/116,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/116/116-1677406486.pdf,false
+KADUNA,IGABI,,UNG. ADO GWARAM,18/04/12/143,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/143/143-1677406432.pdf,false
+KADUNA,IGABI,,UNG. MAGAJI,18/04/12/038,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/038/038-1677405891.pdf,false
+KADUNA,IGABI,,UNG. BAUSHE,18/04/12/039,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/039/039-1677405237.pdf,false
+KADUNA,IGABI,,KWANAN BUSHARA,18/04/12/115,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/115/115-1677405114.pdf,false
+KADUNA,IGABI,,UNG. SARKIN MASHI,18/04/12/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/006/006-1677404465.pdf,false
+KADUNA,IGABI,,UNG. SHAWAI I,18/04/12/036,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/036/036-1677404408.pdf,false
+KADUNA,IGABI,,UNG. ALH. HAMIDU,18/04/12/047,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/047/047-1677403514.pdf,false
+KADUNA,IGABI,,UNG.ALI MAI ITACE,18/04/12/041,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/041/041-1677403381.pdf,false
+KADUNA,IGABI,,UNG. SHAWAI II,18/04/12/037,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/037/037-1677403351.pdf,false
+KADUNA,IGABI,,YAN KILISHI,18/04/12/119,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/119/119-1677402413.pdf,false
+KADUNA,IGABI,,UNG. TURAKI,18/04/12/085,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/085/085-1677401416.pdf,false
+KADUNA,IGABI,,KARSHEN BOLA,18/04/12/035,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/035/035-1677401276.pdf,false
+KADUNA,IGABI,,UNG. DALLATU MORI,18/04/12/031,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/031/031-1677398468.pdf,false
+KADUNA,IGABI,,DANMANI / LEA PRI. SCH. GATE,18/04/12/137,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/137/137-1677398450.pdf,false
+KADUNA,IGABI,,SARKI KORAU,18/04/12/063,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/063/063-1677397812.pdf,false
+KADUNA,IGABI,,UNG. RAKIYA JIMETA,18/04/12/064,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/064/064-1677391346.pdf,false
+KADUNA,IGABI,,UNG. MUSA BALA,18/04/12/070,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/070/070-1677374724.pdf,false
+KADUNA,IGABI,,ABUJA ROAD V,18/04/12/054,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/12/pu/054/054-1677362804.pdf,false
+KADUNA,IGABI,,UNG. YAKUBU,18/04/12/079,,false
+KADUNA,IGABI,,LEA GAZAMA I,18/04/12/065,,false
+KADUNA,IGABI,,LEA GAZAMA II,18/04/12/066,,false
+KADUNA,IGABI,,UNG. MALAM BELLO III,18/04/12/057,,false
+KADUNA,IGABI,,PRI. HEALTH CARE MIYETTI ALLAH I,18/04/12/114,,false
+KADUNA,IGABI,,MAL. LAWAL MAI ALMAJIRAI,18/04/12/067,,false
+KADUNA,IGABI,,UNG. WAZIRI II,18/04/12/076,,false
+KADUNA,IGABI,,UNG. WAKILI,18/04/12/090,,false
+KADUNA,IGABI,,UNG. ABDULAZEEZ ISA,18/04/12/105,,false
+KADUNA,IGABI,,TURAKIN MASHI,18/04/12/068,,false
+KADUNA,IGABI,,RAFIN YAN TIFA,18/04/12/087,,false
+KADUNA,IGABI,,UNG. GARBA MAI GANDA,18/04/12/092,,false
+KADUNA,IGABI,,UNG. WAZIRI IV,18/04/12/078,,false
+KADUNA,IGABI,,UNG. LAWAL TEACHER,18/04/12/097,,false
+KADUNA,IGABI,,RIMAYE,18/04/12/102,,false
+KADUNA,IGABI,,UNG. DANYARO,18/04/12/107,,false
+KADUNA,IGABI,,UNG. LADI WUDIL,18/04/12/088,,false
+KADUNA,IGABI,,DAN MARKA TAURARO,18/04/12/093,,false
+KADUNA,IGABI,,UNG. SAMAILA  TAKWA,18/04/12/138,,false
+KADUNA,IGABI,,UNG. DAHIRU,18/04/12/034,,false
+KADUNA,IGABI,,ABUJA ROAD II,18/04/12/049,,false
+KADUNA,IGABI,,UNG. SARKI IBRAHIM,18/04/12/030,,false
+KADUNA,IGABI,,YAN KIFI I,18/04/12/027,,false
+KADUNA,IGABI,,UNG. LEMA,18/04/12/033,,false
+KADUNA,IGABI,,UNG. SARKI KABILU II,18/04/12/008,,false
+KADUNA,IGABI,,UNG. KWATE,18/04/12/009,,false

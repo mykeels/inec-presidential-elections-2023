@@ -1,0 +1,56 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KADUNA,KADUNA SOUTH,,PBI IBRAHIM TAIWO ROAD,18/10/07/022,,true
+KADUNA,KADUNA SOUTH,,PC 10 MAKARFI ROAD,18/10/07/021,,true
+KADUNA,KADUNA SOUTH,,PG. 4 IBRAHIM TAIWO ROAD,18/10/07/020,,true
+KADUNA,KADUNA SOUTH,,ASIBITIN YARA,18/10/07/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53983/result_114788_1677589097_thumb.jpg,false
+KADUNA,KADUNA SOUTH,,PT 10 NUMAN ROAD,18/10/07/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53982/result_114787_1677589818_thumb.jpg,false
+KADUNA,KADUNA SOUTH,,PR 6 IGABI ROAD,18/10/07/017,,true
+KADUNA,KADUNA SOUTH,,PM 2 MAKARFI ROAD,18/10/07/016,,true
+KADUNA,KADUNA SOUTH,,KV 96 FULANI ROAD,18/10/07/015,,true
+KADUNA,KADUNA SOUTH,,GH 1 FULANI ROAD,18/10/07/014,,true
+KADUNA,KADUNA SOUTH,,KV 126 BASHAMA ROAD,18/10/07/013,,true
+KADUNA,KADUNA SOUTH,,KV 143 BASHAMA,18/10/07/012,,true
+KADUNA,KADUNA SOUTH,,KV 158 KACHIYA ROAD,18/10/07/011,,true
+KADUNA,KADUNA SOUTH,,KX 70 HAUSAWA ROAD,18/10/07/010,,true
+KADUNA,KADUNA SOUTH,,GB 10 RICHIFA/BASIMA RD,18/10/07/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53973/result_114778_1677588607_thumb.jpg,false
+KADUNA,KADUNA SOUTH,,KZ 7A LERE STREET,18/10/07/008,,true
+KADUNA,KADUNA SOUTH,,GH 3 LERE STREET,18/10/07/007,,true
+KADUNA,KADUNA SOUTH,,GH 9 FULANI ROAD,18/10/07/006,,true
+KADUNA,KADUNA SOUTH,,KZ 30 HAUSAWA ROAD,18/10/07/005,,true
+KADUNA,KADUNA SOUTH,,KX 80 HAUSAWA ROAD,18/10/07/004,,true
+KADUNA,KADUNA SOUTH,,KX 41 LERE STREET,18/10/07/003,,true
+KADUNA,KADUNA SOUTH,,KX 48 HAUSAWA ROAD,18/10/07/002,,true
+KADUNA,KADUNA SOUTH,,GD 17 BASHAMA ROAD,18/10/07/001,,true
+KADUNA,KADUNA SOUTH,,GO 6 HAUSAWA ROAD,18/10/07/042,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54006/result_114811_1677588112_thumb.jpg,false
+KADUNA,KADUNA SOUTH,,NO.56 KATAGUN ROAD I.,18/10/07/031,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53995/result_114800_1677588377_thumb.jpg,false
+KADUNA,KADUNA SOUTH,,K2 30 HAUSAWA ROAD I,18/10/07/046,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642078/result_114815_1677589946_thumb.jpg,false
+KADUNA,KADUNA SOUTH,,PC 10 MAKARFI ROAD I,18/10/07/051,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642083/result_114820_1677590189_thumb.jpg,false
+KADUNA,KADUNA SOUTH,,KV 8 SOBA STREET,18/10/07/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53990/result_114795_1677587222_thumb.jpg,false
+KADUNA,KADUNA SOUTH,,G06 HAUSAWA ROAD I,18/10/07/055,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,KADUNA SOUTH,,NO.56 KATAGUN ROAD II,18/10/07/032,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53996/result_114801_1677589053_thumb.jpg,false
+KADUNA,KADUNA SOUTH,,KY 4 IGABI ROAD,18/10/07/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53994/result_114799_1677589511_thumb.jpg,false
+KADUNA,KADUNA SOUTH,,GD 17 BASHAMA ROAD I,18/10/07/045,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642077/result_114814_1677589514_thumb.jpg,false
+KADUNA,KADUNA SOUTH,,KY MASHI/ ZANGO ROAD,18/10/07/041,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,KADUNA SOUTH,,KY 5 BIMA ROAD,18/10/07/040,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54004/result_114809_1677587547_thumb.jpg,false
+KADUNA,KADUNA SOUTH,,KY 4 IGABI ROAD I,18/10/07/053,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642085/result_114822_1677589333_thumb.jpg,false
+KADUNA,KADUNA SOUTH,,KY 11 KAJE ROAD,18/10/07/044,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54008/result_114813_1677590918_thumb.jpg,false
+KADUNA,KADUNA SOUTH,,KV 80 HAUSAWA ROAD,18/10/07/034,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3458/ward/21635/pu/54089/54089-1677464333.pdf,false
+KADUNA,KADUNA SOUTH,,GM 10 HAUSAWA ROAD,18/10/07/035,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3458/ward/21635/pu/54090/54090-1677461554.pdf,false
+KADUNA,KADUNA SOUTH,,KY MASHI/ZANGO ROAD I,18/10/07/054,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3458/ward/21635/pu/146683/146683-1677461543.pdf,false
+KADUNA,KADUNA SOUTH,,KV 121 IGABI ROAD,18/10/07/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3458/ward/21635/pu/54080/54080-1677460944.pdf,false
+KADUNA,KADUNA SOUTH,,KV 126 BASHAMA ROAD I,18/10/07/049,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3458/ward/21635/pu/146678/146678-1677460419.pdf,false
+KADUNA,KADUNA SOUTH,,KV 34 SHETIMA ROAD,18/10/07/043,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3458/ward/21635/pu/54098/54098-1677459692.pdf,false
+KADUNA,KADUNA SOUTH,,KV 143 BASHAMA ROAD I,18/10/07/048,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3458/ward/21635/pu/146677/146677-1677458955.pdf,false
+KADUNA,KADUNA SOUTH,,KV 158 KACHIYA ROAD I,18/10/07/047,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3458/ward/21635/pu/146676/146676-1677458814.pdf,false
+KADUNA,KADUNA SOUTH,,KY 18 KAJE/ ZANGO ROAD,18/10/07/036,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3458/ward/21635/pu/54091/54091-1677456887.pdf,false
+KADUNA,KADUNA SOUTH,,KV 181 IGABI ROAD,18/10/07/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3458/ward/21635/pu/54079/54079-1677455978.pdf,false
+KADUNA,KADUNA SOUTH,,FB I IBRAHIM TAIWO RD I,18/10/07/052,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3458/ward/21635/pu/146681/146681-1677455894.pdf,false
+KADUNA,KADUNA SOUTH,,KAJE ROAD,18/10/07/039,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3458/ward/21635/pu/54094/54094-1677453693.pdf,false
+KADUNA,KADUNA SOUTH,,PH 19 IGABI ROAD,18/10/07/029,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3458/ward/21635/pu/54084/54084-1677453398.pdf,false
+KADUNA,KADUNA SOUTH,,PW 10 SOBA STREET,18/10/07/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3458/ward/21635/pu/54083/54083-1677453282.pdf,false
+KADUNA,KADUNA SOUTH,,KV 21 MAKARFI ROAD,18/10/07/023,https://docs.inecelectionresults.net/elections/1292/1677450589-54078.pdf,false
+KADUNA,KADUNA SOUTH,,KV 12 KAJE ROAD,18/10/07/033,https://docs.inecelectionresults.net/elections/1292/1677450416-54088.pdf,false
+KADUNA,KADUNA SOUTH,,ASIBITIN YARA I,18/10/07/050,https://docs.inecelectionresults.net/elections/1292/1677449523-146679.pdf,false
+KADUNA,KADUNA SOUTH,,PT. 20 NUMAN ROAD,18/10/07/027,https://docs.inecelectionresults.net/elections/1292/1677447530-54082.pdf,false
+KADUNA,KADUNA SOUTH,,KY 2 KATAGUM/ SHETIMA ROAD,18/10/07/038,https://docs.inecelectionresults.net/elections/1292/1677447345-54093.pdf,false
+KADUNA,KADUNA SOUTH,,KY 2 SHETIMA ROAD,18/10/07/037,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/07/pu/037/037-1677361791.pdf,false
