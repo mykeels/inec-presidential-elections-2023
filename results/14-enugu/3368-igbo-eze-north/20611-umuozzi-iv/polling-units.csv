@@ -1,0 +1,14 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+ENUGU,IGBO EZE NORTH,,EHA INYI HEALTH CENTRE,14/08/14/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635022/result_158580_1677605232_thumb.jpg,false
+ENUGU,IGBO EZE NORTH,,UMUDE VILLAGE HALL,14/08/14/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+ENUGU,IGBO EZE NORTH,,MODEL PRY SCH OGWURUGWU INYI,14/08/14/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635020/result_158578_1677603464_thumb.jpg,false
+ENUGU,IGBO EZE NORTH,,OFU ONICHA HALL,14/08/14/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635019/result_158577_1677603000_thumb.jpg,false
+ENUGU,IGBO EZE NORTH,,UMUALUMU HALL,14/08/14/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635018/result_158576_1677602772_thumb.jpg,false
+ENUGU,IGBO EZE NORTH,,A.P.S. AKPA INYI II,14/08/14/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+ENUGU,IGBO EZE NORTH,,C.P.S. AMAOBA INYI,14/08/14/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40327/result_158574_1677601476_thumb.jpg,false
+ENUGU,IGBO EZE NORTH,,C.P.S. AMOBA INYI,14/08/14/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3368/ward/20611/pu/40331/40331-1677601034.pdf,true
+ENUGU,IGBO EZE NORTH,,A.P.S. AKPA INYI I,14/08/14/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40325/result_158572_1677600942_thumb.jpg,false
+ENUGU,IGBO EZE NORTH,,U.P.S. AMACHI,14/08/14/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40324/result_158571_1677600800_thumb.jpg,false
+ENUGU,IGBO EZE NORTH,,U.P.S. AMAUBE,14/08/14/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40323/result_158570_1677600485_thumb.jpg,false
+ENUGU,IGBO EZE NORTH,,C.P.S. AMAUBE INYI II,14/08/14/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3368/ward/20611/pu/40337/40337-1677600276.pdf,false
+ENUGU,IGBO EZE NORTH,,OGBODU HALL,14/08/14/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false

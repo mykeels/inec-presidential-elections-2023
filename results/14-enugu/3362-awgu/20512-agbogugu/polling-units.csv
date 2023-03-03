@@ -1,0 +1,22 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+ENUGU,AWGU,,OYE  MARKET SQUARE AMOFIA II,14/02/04/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20512/pu/39075/39075-1677710051.pdf,true
+ENUGU,AWGU,,OBODO AKPU  SQUARE,14/02/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39054/result_156759_1677678545_thumb.jpg,true
+ENUGU,AWGU,,OBODO UMUANEBE SQUARE,14/02/04/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39053/result_156758_1677678479_thumb.jpg,false
+ENUGU,AWGU,,OBODO NDIAGBO SQUARE II,14/02/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39052/result_156757_1677678414_thumb.jpg,false
+ENUGU,AWGU,,OBODO NDIAGBO SQUARE I,14/02/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39051/result_156756_1677678337_thumb.jpg,false
+ENUGU,AWGU,,SHIKAGHOM PRIMARY SCHOOL I,14/02/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39050/result_156755_1677677969_thumb.jpg,false
+ENUGU,AWGU,,SHIKAGHOM PRIMARY SCH. II,14/02/04/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20512/pu/39073/39073-1677677363.pdf,true
+ENUGU,AWGU,,OHUMAGU PRIMARY SCHOOL,14/02/04/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20512/pu/39072/39072-1677677205.pdf,true
+ENUGU,AWGU,,NDIUGWU VILLAGE HALL,14/02/04/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20512/pu/39070/39070-1677676676.pdf,true
+ENUGU,AWGU,,ONU OHA OGBO SQUARE,14/02/04/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39049/result_156754_1677675758_thumb.jpg,false
+ENUGU,AWGU,,OYE MARKET AMOFIA I,14/02/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39048/result_156753_1677675683_thumb.jpg,false
+ENUGU,AWGU,,TOWN SCHOOL AMOFIA,14/02/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39047/result_156752_1677675624_thumb.jpg,false
+ENUGU,AWGU,,OBODO UMUOKWOLO,14/02/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39046/result_156751_1677675531_thumb.jpg,false
+ENUGU,AWGU,,OBINAGU VILLAGE HALL,14/02/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39045/result_156750_1677675447_thumb.jpg,false
+ENUGU,AWGU,,UMUONWO HALL,14/02/04/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20512/pu/39069/39069-1677673255.pdf,true
+ENUGU,AWGU,,OBODO UMUJIOKE  SQUARE,14/02/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20512/pu/39068/39068-1677671945.pdf,false
+ENUGU,AWGU,,OBODO EZE  SQUARE,14/02/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20512/pu/39067/39067-1677670043.pdf,false
+ENUGU,AWGU,,OBODO AGU  SQUARE,14/02/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20512/pu/39066/39066-1677669208.pdf,false
+ENUGU,AWGU,,OBODO UGWUAJI SQUARE,14/02/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20512/pu/39065/39065-1677667447.pdf,false
+ENUGU,AWGU,,NDIAGBO  VILLAGE HALL,14/02/04/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20512/pu/39071/39071-1677610011.pdf,true
+ENUGU,AWGU,,UMUONA OBINAGU VILLAGE SQUARE,14/02/04/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39064/result_156769_1677605648_thumb.jpg,false

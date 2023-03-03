@@ -1,0 +1,8 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+ENUGU,EZEAGU,,OBODO ENUGU NEKE SQUARE,14/06/15/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20572/pu/141981/141981-1677624390.pdf,true
+ENUGU,EZEAGU,,NKWO OYOFO SQUARE III,14/06/15/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20572/pu/39970/39970-1677624271.pdf,true
+ENUGU,EZEAGU,,OBODOCHA SQUARE III,14/06/15/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20572/pu/39969/39969-1677624164.pdf,true
+ENUGU,EZEAGU,,OBODOCHA SQUARE I,14/06/15/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20572/pu/39967/39967-1677624055.pdf,true
+ENUGU,EZEAGU,,NKWO OYOFO SQUARE II,14/06/15/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20572/pu/39966/39966-1677623951.pdf,true
+ENUGU,EZEAGU,,NKWO OYOFO SQUARE I,14/06/15/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20572/pu/39965/39965-1677623861.pdf,false
+ENUGU,EZEAGU,,OBODOCHA SQUARE II,14/06/15/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/15/pu/004/004-1677361257.pdf,false

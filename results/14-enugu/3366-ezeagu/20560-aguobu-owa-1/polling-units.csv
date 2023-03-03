@@ -1,0 +1,11 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+ENUGU,EZEAGU,,OBODO ISI AKPU VILLAGE SQUARE,14/06/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20560/pu/39881/39881-1677602414.pdf,true
+ENUGU,EZEAGU,,AFOR UGWU MKT SQUARE,14/06/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20560/pu/141971/141971-1677601995.pdf,false
+ENUGU,EZEAGU,,OBODO OKPOYO TOWN HALL,14/06/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20560/pu/39879/39879-1677601290.pdf,true
+ENUGU,EZEAGU,,C.S. AGUOBU-OWA,14/06/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20560/pu/39878/39878-1677600504.pdf,false
+ENUGU,EZEAGU,,C.P.S. OBODO NGWU,14/06/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20560/pu/39877/39877-1677600336.pdf,false
+ENUGU,EZEAGU,,OBODO EKETEKE SQUARE,14/06/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20560/pu/39876/39876-1677600091.pdf,false
+ENUGU,EZEAGU,,OBODO AGUNOCHI,14/06/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20560/pu/39875/39875-1677599435.pdf,false
+ENUGU,EZEAGU,,C.P.S.  OZOM,14/06/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20560/pu/39874/39874-1677597918.pdf,true
+ENUGU,EZEAGU,,EKE MARKET SQUARE,14/06/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39863/result_158045_1677597019_thumb.jpg,false
+ENUGU,EZEAGU,,P.S. OBODO NGWU II,14/06/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/03/pu/008/008-1677364607.pdf,false

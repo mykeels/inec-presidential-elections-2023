@@ -1,0 +1,11 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+ENUGU,EZEAGU,,C.P.S. OGULOGU II,14/06/20/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20577/pu/40013/40013-1677614259.pdf,false
+ENUGU,EZEAGU,,C.P.S. OGULOGU I,14/06/20/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20577/pu/40012/40012-1677614181.pdf,false
+ENUGU,EZEAGU,,C.P.S AWENE OLO III,14/06/20/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20577/pu/40011/40011-1677614014.pdf,false
+ENUGU,EZEAGU,,C.P.S AWENE OLO II,14/06/20/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20577/pu/40010/40010-1677613905.pdf,false
+ENUGU,EZEAGU,,C.P.S AWENE OLO I,14/06/20/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20577/pu/40009/40009-1677613565.pdf,true
+ENUGU,EZEAGU,,C.P.S. EZEMA OLO IV,14/06/20/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20577/pu/40008/40008-1677613469.pdf,false
+ENUGU,EZEAGU,,C.P.S. EZEMA OLO III,14/06/20/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20577/pu/40007/40007-1677613366.pdf,true
+ENUGU,EZEAGU,,C.P.S. EZEMA OLO II,14/06/20/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20577/pu/40006/40006-1677613187.pdf,false
+ENUGU,EZEAGU,,C.P.S. EZEMA OLO I,14/06/20/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/20/pu/001/001-1677394184.pdf,false
+ENUGU,EZEAGU,,C.P.S. AWENE OLO IV,14/06/20/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/20/pu/010/010-1677381763.pdf,false
