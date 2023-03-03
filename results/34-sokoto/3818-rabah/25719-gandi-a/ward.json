@@ -17,5 +17,7 @@
   "ward_id": 25719,
   "created_at": "2020-07-15T17:38:09.030Z",
   "updated_at": "2020-07-15T17:38:09.030Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "SOKOTO",
+  "lga_name": "RABAH"
 }
