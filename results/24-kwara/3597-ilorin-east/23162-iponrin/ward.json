@@ -17,5 +17,7 @@
   "ward_id": 23162,
   "created_at": "2020-07-15T17:31:40.165Z",
   "updated_at": "2020-07-15T17:31:40.165Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "KWARA",
+  "lga_name": "ILORIN EAST"
 }
