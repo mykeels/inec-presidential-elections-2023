@@ -1,0 +1,12 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KATSINA,RIMI,FARDAMI,FARDAMI - FARDAMI PRI.SCHOOL,20/30/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/69296/result_136295_1677668293_thumb.jpg,false
+KATSINA,RIMI,FARDAMI,MAKWALLA - MAKWALLA,20/30/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/69300/result_136299_1677602296_thumb.jpg,true
+KATSINA,RIMI,FARDAMI,GABASAWA,20/30/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/648135/result_136304_1677598572_thumb.jpg,false
+KATSINA,RIMI,FARDAMI,GUNKI - GUNKI,20/30/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3545/ward/22583/pu/69993/69993-1677526109.pdf,false
+KATSINA,RIMI,FARDAMI,TOKAWA - TOKAWA,20/30/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3545/ward/22583/pu/69996/69996-1677525840.pdf,false
+KATSINA,RIMI,FARDAMI,YAKASAI - YAKASAI,20/30/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3545/ward/22583/pu/69994/69994-1677519578.pdf,false
+KATSINA,RIMI,FARDAMI,HOSPITAL MAKWALLA,20/30/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3545/ward/22583/pu/152871/152871-1677518181.pdf,false
+KATSINA,RIMI,FARDAMI,YAR KWANA,20/30/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3545/ward/22583/pu/152869/152869-1677516311.pdf,false
+KATSINA,RIMI,FARDAMI,BAI PRI.SCHOOL,20/30/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3545/ward/22583/pu/69990/69990-1677514378.pdf,false
+KATSINA,RIMI,FARDAMI,KOFAR FADA GALADIMA,20/30/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3545/ward/22583/pu/152870/152870-1677513022.pdf,false
+KATSINA,RIMI,FARDAMI,YAN-ABU YAN-ABU,20/30/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3545/ward/22583/pu/69992/69992-1677512828.pdf,false

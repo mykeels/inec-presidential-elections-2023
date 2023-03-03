@@ -1,0 +1,15 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KATSINA,MUSAWA,KIRA,FARAS - FARAS,20/29/04/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/69125/result_136066_1677518282_thumb.jpg,false
+KATSINA,MUSAWA,KIRA,YAR KANYA - DANDALI,20/29/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/69122/result_136063_1677520243_thumb.jpg,false
+KATSINA,MUSAWA,KIRA,KAKAR - PRI.SCHOOL,20/29/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/69118/result_136059_1677519221_thumb.jpg,false
+KATSINA,MUSAWA,KIRA,S/GARIN KIRA - DANDALI,20/29/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/69126/result_136067_1677520524_thumb.jpg,false
+KATSINA,MUSAWA,KIRA,KIRA - KIRA PRI SCHOOL,20/29/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/69117/result_136058_1677520446_thumb.jpg,true
+KATSINA,MUSAWA,KIRA,GANUWA - DISPENSARY,20/29/04/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/69121/result_136062_1677609833_thumb.jpg,false
+KATSINA,MUSAWA,KIRA,DAURAWA - PRI.SCHOOL,20/29/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/69119/result_136060_1677609516_thumb.jpg,false
+KATSINA,MUSAWA,KIRA,KIRA I-KIRA PRI SCH,20/29/04/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/648102/result_136068_1677519789_thumb.jpg,true
+KATSINA,MUSAWA,KIRA,GANUWA II -DISPENSARY,20/29/04/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/648104/result_136070_1677519997_thumb.jpg,true
+KATSINA,MUSAWA,KIRA,DORAYI TSAMIYA,20/29/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/69123/result_136064_1677518805_thumb.jpg,true
+KATSINA,MUSAWA,KIRA,CIKIN DUWAZU - PRI.SCHOOL,20/29/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/69124/result_136065_1677517645_thumb.jpg,false
+KATSINA,MUSAWA,KIRA,UNG.ZAGI - FARWAND DISO,20/29/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/69120/result_136061_1677517974_thumb.jpg,false
+KATSINA,MUSAWA,KIRA,KIRA II PRIMARY SCH.,20/29/04/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/648103/result_136069_1677518407_thumb.jpg,false
+KATSINA,MUSAWA,KIRA,YARKANYA II DANDALI,20/29/04/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/648105/result_136071_1677518691_thumb.jpg,false

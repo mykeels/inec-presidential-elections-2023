@@ -1,0 +1,14 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KATSINA,SANDAMU,KWASARAWA,FATAU TAWA II/K/ATIKU,20/33/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3548/ward/22608/pu/70257/70257-1677703609.pdf,true
+KATSINA,SANDAMU,KWASARAWA,INGAWA/PRI. SCH.,20/33/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3548/ward/22608/pu/152978/152978-1677623387.pdf,false
+KATSINA,SANDAMU,KWASARAWA,"KWASARAWA HALILU/PRI. SCH. ""B""",20/33/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3548/ward/22608/pu/152979/152979-1677623082.pdf,true
+KATSINA,SANDAMU,KWASARAWA,KWASARAWA HALILU/PRI.SCHOOL,20/33/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/69558/result_136666_1677621673_thumb.jpg,false
+KATSINA,SANDAMU,KWASARAWA,DAN GAU II/PRI.SCHOOL,20/33/03/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/69556/result_136664_1677621059_thumb.jpg,false
+KATSINA,SANDAMU,KWASARAWA,GUDAU/K/G. M/UNG,20/33/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3548/ward/22608/pu/70258/70258-1677594328.pdf,true
+KATSINA,SANDAMU,KWASARAWA,FATAU TAWA I/B/RIJIYA,20/33/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3548/ward/22608/pu/70256/70256-1677593178.pdf,true
+KATSINA,SANDAMU,KWASARAWA,KWASARAWA YA'U/B/TAFKI,20/33/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3548/ward/22608/pu/70255/70255-1677592820.pdf,true
+KATSINA,SANDAMU,KWASARAWA,INGAWA/K/ILU,20/33/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3548/ward/22608/pu/70249/70249-1677592329.pdf,true
+KATSINA,SANDAMU,KWASARAWA,DAN GAU I/PRI.SCHOOL,20/33/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3548/ward/22608/pu/70250/70250-1677591385.pdf,false
+KATSINA,SANDAMU,KWASARAWA,KWASARAWA YA'U/B/TAFKI/PRI. SCH.,20/33/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3548/ward/22608/pu/152980/152980-1677490058.pdf,false
+KATSINA,SANDAMU,KWASARAWA,KWASARAWA WAKILI/PRI.SCHOOL,20/33/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/33/ward/03/pu/006/006-1677391199.pdf,false
+KATSINA,SANDAMU,KWASARAWA,KOKOFI/PRI.SCHOOL,20/33/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/33/ward/03/pu/004/004-1677376511.pdf,false

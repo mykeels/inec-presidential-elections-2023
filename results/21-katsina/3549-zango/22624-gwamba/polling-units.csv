@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KATSINA,ZANGO,GWAMBA,GWAMBA BAGAU B/MASALLACI,20/34/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/69723/result_136884_1677782467_thumb.jpg,false
+KATSINA,ZANGO,GWAMBA,UNGUWAR DUMA K/MAIGARI I,20/34/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/34/ward/08/pu/005/005-1677371028.pdf,false
+KATSINA,ZANGO,GWAMBA,UNGUWAR KANYA K/MAIGARI III,20/34/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/34/ward/08/pu/007/007-1677374945.pdf,false
+KATSINA,ZANGO,GWAMBA,UNGUWAR KANYA K/MAIGARI II,20/34/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/34/ward/08/pu/006/006-1677373172.pdf,false
+KATSINA,ZANGO,GWAMBA,GARBA BATURE GIDIN KANYA,20/34/08/008,,false
+KATSINA,ZANGO,GWAMBA,GARBA SANNA K/MAIGARI,20/34/08/009,,false
+KATSINA,ZANGO,GWAMBA,KOMO HABE I K/MAIGARI,20/34/08/003,,false
+KATSINA,ZANGO,GWAMBA,KOMO HABE   II K/MAIGARI,20/34/08/004,,false
+KATSINA,ZANGO,GWAMBA,GWAMBA DANTAFI K/MAIGARI,20/34/08/002,,false

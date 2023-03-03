@@ -1,0 +1,13 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KATSINA,KURFI,WURMA 'B',LAMBO - LAMBO,20/22/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/68215/result_134837_1677648254_thumb.jpg,true
+KATSINA,KURFI,WURMA 'B',TAMU PRIMARY SCHOOL,20/22/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/647779/result_134848_1677647951_thumb.jpg,false
+KATSINA,KURFI,WURMA 'B',LAMBO 'B' - LAMBO,20/22/10/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/68225/result_134847_1677647769_thumb.jpg,false
+KATSINA,KURFI,WURMA 'B',FARINDUTSE - FARIN DUTSE,20/22/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/68224/result_134846_1677647603_thumb.jpg,false
+KATSINA,KURFI,WURMA 'B',GUMBA - GUMBA,20/22/10/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/68223/result_134845_1677647430_thumb.jpg,false
+KATSINA,KURFI,WURMA 'B',CHIKAWA - CHIKAWA,20/22/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/68222/result_134844_1677645680_thumb.jpg,false
+KATSINA,KURFI,WURMA 'B',BALAGAWA - BALAGAWA,20/22/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/68221/result_134843_1677645496_thumb.jpg,false
+KATSINA,KURFI,WURMA 'B',YALLE - YALLE,20/22/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/68220/result_134842_1677645314_thumb.jpg,false
+KATSINA,KURFI,WURMA 'B',FANDOGARI - FANDOGARI,20/22/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/68219/result_134841_1677645114_thumb.jpg,false
+KATSINA,KURFI,WURMA 'B',TAMU - TAMU,20/22/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/68218/result_134840_1677644844_thumb.jpg,false
+KATSINA,KURFI,WURMA 'B',BEGUWA BEGUWA,20/22/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/68217/result_134839_1677603524_thumb.jpg,false
+KATSINA,KURFI,WURMA 'B',SUDA - SUDA,20/22/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/68216/result_134838_1677602894_thumb.jpg,false

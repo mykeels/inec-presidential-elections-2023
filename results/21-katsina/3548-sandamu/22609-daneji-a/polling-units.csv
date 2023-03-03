@@ -1,0 +1,14 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KATSINA,SANDAMU,DANEJI 'A',JARKUKA III/K.G. M/UNG,20/33/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3548/ward/22609/pu/70268/70268-1677563723.pdf,true
+KATSINA,SANDAMU,DANEJI 'A',RIJIYAR TSAMIYA II/K.G. M/UNG,20/33/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3548/ward/22609/pu/70260/70260-1677485819.pdf,false
+KATSINA,SANDAMU,DANEJI 'A',RIJIYAR TSAMIYAIII/K.G. M/UNG,20/33/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3548/ward/22609/pu/70261/70261-1677485063.pdf,false
+KATSINA,SANDAMU,DANEJI 'A',JARKUKA I/K.G. M/UNG,20/33/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3548/ward/22609/pu/70262/70262-1677484300.pdf,false
+KATSINA,SANDAMU,DANEJI 'A',BABATAWA I/S/GARIN BABA LAI,20/33/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3548/ward/22609/pu/70264/70264-1677481831.pdf,false
+KATSINA,SANDAMU,DANEJI 'A',BABATAWAII/S/GARIN BABA LAI,20/33/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3548/ward/22609/pu/70265/70265-1677481418.pdf,false
+KATSINA,SANDAMU,DANEJI 'A',BELA I/K/G. M/UNG,20/33/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3548/ward/22609/pu/70266/70266-1677480885.pdf,false
+KATSINA,SANDAMU,DANEJI 'A',BELA II/YAMMACIN BELA,20/33/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3548/ward/22609/pu/70267/70267-1677480416.pdf,false
+KATSINA,SANDAMU,DANEJI 'A',"RIJIYAR TSAMIYA I/PRI. SCH. ""B""",20/33/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3548/ward/22609/pu/152981/152981-1677479896.pdf,false
+KATSINA,SANDAMU,DANEJI 'A',JARKUKA I/OPEN SPACE,20/33/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3548/ward/22609/pu/152983/152983-1677479563.pdf,false
+KATSINA,SANDAMU,DANEJI 'A',RIJIYAR TSAMIYA II/OPEN SPACE,20/33/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3548/ward/22609/pu/152982/152982-1677479231.pdf,false
+KATSINA,SANDAMU,DANEJI 'A',JARKUA II/K.G. M/UNG,20/33/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3548/ward/22609/pu/70263/70263-1677478725.pdf,false
+KATSINA,SANDAMU,DANEJI 'A',RIJIYAR TSAMIYA I/PRI.SCHOOL,20/33/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/33/ward/04/pu/001/001-1677397826.pdf,false

@@ -1,0 +1,13 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KATSINA,MANI,KWATTA,GAWON MALA PRI.SCHOOL,20/26/07/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/68780/result_135609_1677609581_thumb.jpg,false
+KATSINA,MANI,KWATTA,KWANAR LAKA KOFAR GIDAN MAI UNGUWA,20/26/07/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/647975/result_135613_1677609420_thumb.jpg,false
+KATSINA,MANI,KWATTA,UNG.TUDU - K/UNGUWA,20/26/07/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/68781/result_135610_1677609230_thumb.jpg,false
+KATSINA,MANI,KWATTA,KWATTA MAKAURACHI - K/UNG,20/26/07/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/68774/result_135603_1677609044_thumb.jpg,false
+KATSINA,MANI,KWATTA,KWATTA - KWATTA PRI.SCHOOL,20/26/07/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/68773/result_135602_1677607801_thumb.jpg,true
+KATSINA,MANI,KWATTA,WASAKAWA - PRI.SHOOL,20/26/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3541/ward/22539/pu/69472/69472-1677606750.pdf,true
+KATSINA,MANI,KWATTA,KWATTA CENTRE K/G MAI UNGUWA,20/26/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3541/ward/22539/pu/152699/152699-1677606335.pdf,true
+KATSINA,MANI,KWATTA,DANFAU - G/UNG,20/26/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3541/ward/22539/pu/69474/69474-1677605969.pdf,true
+KATSINA,MANI,KWATTA,CHARAMBI - PRI.SCHOOL,20/26/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3541/ward/22539/pu/69473/69473-1677605589.pdf,true
+KATSINA,MANI,KWATTA,DOROWA KOFAR GIDAN MAI UNGUWA,20/26/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3541/ward/22539/pu/152700/152700-1677605362.pdf,true
+KATSINA,MANI,KWATTA,KWALKODAU PRI.SCHOOL,20/26/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3541/ward/22539/pu/69470/69470-1677604886.pdf,true
+KATSINA,MANI,KWATTA,TSAMIYAR YARA - G/UNG,20/26/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3541/ward/22539/pu/69471/69471-1677604528.pdf,false

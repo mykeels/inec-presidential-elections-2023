@@ -1,0 +1,14 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KATSINA,MANI,MACHIKA,WADIGAWA KOFAR GIDAN MAI UNGUWA,20/26/08/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/647978/result_135626_1677612431_thumb.jpg,false
+KATSINA,MANI,MACHIKA,DOKATOR FULANI/WURJUNO PRI.SCHOOL,20/26/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/68786/result_135618_1677612005_thumb.jpg,false
+KATSINA,MANI,MACHIKA,MACHIKA PRI.SCHOOL I,20/26/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/68782/result_135614_1677611430_thumb.jpg,false
+KATSINA,MANI,MACHIKA,RUGAR ZANNUWA/ZANGO PRI. SCH,20/26/08/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/647977/result_135625_1677610803_thumb.jpg,false
+KATSINA,MANI,MACHIKA,TABALLAWA/ZANGO PRI.SCHOOL,20/26/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/68790/result_135622_1677610278_thumb.jpg,false
+KATSINA,MANI,MACHIKA,ANIYAWA/WADIGAWA/KANGARTSHA/MAIGASHI PRI.SCHOOL,20/26/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/68788/result_135620_1677610161_thumb.jpg,true
+KATSINA,MANI,MACHIKA,MACHIKA PRI.SCHOOL II,20/26/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/68783/result_135615_1677608934_thumb.jpg,false
+KATSINA,MANI,MACHIKA,BADAWA/SJIDDA - K/YAMMA,20/26/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/68787/result_135619_1677608569_thumb.jpg,false
+KATSINA,MANI,MACHIKA,MACHIKA HEALTH CLINIC,20/26/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/647976/result_135624_1677608306_thumb.jpg,false
+KATSINA,MANI,MACHIKA,MADACHIYA CHINCE - KUKAR/KUMANDAR,20/26/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/68785/result_135617_1677607592_thumb.jpg,true
+KATSINA,MANI,MACHIKA,TABALLAWA/ZANGO PRI.SCHOOL,20/26/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3541/ward/22540/pu/69479/69479-1677606182.pdf,true
+KATSINA,MANI,MACHIKA,BADAWA/SABON GARIN JIDDA - JIDDA,20/26/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3541/ward/22540/pu/69486/69486-1677605445.pdf,true
+KATSINA,MANI,MACHIKA,KIJIBTA - PRI.SCHOOL,20/26/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3541/ward/22540/pu/69484/69484-1677604767.pdf,true
