@@ -17,5 +17,7 @@
   "ward_id": 20863,
   "created_at": "2020-07-15T17:25:55.578Z",
   "updated_at": "2020-07-15T17:25:55.578Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "GOMBE",
+  "lga_name": "FUNAKAYE"
 }

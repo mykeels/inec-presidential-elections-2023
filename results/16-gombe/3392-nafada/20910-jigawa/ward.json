@@ -17,5 +17,7 @@
   "ward_id": 20910,
   "created_at": "2020-07-15T17:26:02.024Z",
   "updated_at": "2020-07-15T17:26:02.024Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "GOMBE",
+  "lga_name": "NAFADA"
 }

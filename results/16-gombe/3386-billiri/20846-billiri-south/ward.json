@@ -17,5 +17,7 @@
   "ward_id": 20846,
   "created_at": "2020-07-15T17:25:53.312Z",
   "updated_at": "2020-07-15T17:25:53.312Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "GOMBE",
+  "lga_name": "BILLIRI"
 }
