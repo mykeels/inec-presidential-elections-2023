@@ -1,0 +1,12 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+NIGER,EDATTI,SAKPE,KATAMBA - BOLOGI  I,26/07/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87351/result_72484_1677529918_thumb.jpg,true
+NIGER,EDATTI,SAKPE,FADA,26/07/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87346/result_72479_1677529708_thumb.jpg,true
+NIGER,EDATTI,SAKPE,MAFOGI,26/07/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87350/result_72483_1677529315_thumb.jpg,true
+NIGER,EDATTI,SAKPE,GUDUKO,26/07/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/10/pu/004/004-1677422945.pdf,false
+NIGER,EDATTI,SAKPE,KATABA - BOLOGI  II,26/07/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/10/pu/009/009-1677420960.pdf,false
+NIGER,EDATTI,SAKPE,TAKO-MAN,26/07/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/10/pu/011/011-1677419704.pdf,false
+NIGER,EDATTI,SAKPE,ZHINGANTI,26/07/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/10/pu/006/006-1677394382.pdf,false
+NIGER,EDATTI,SAKPE,SAKPE  I,26/07/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/10/pu/001/001-1677392726.pdf,false
+NIGER,EDATTI,SAKPE,SAKPE  II,26/07/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/10/pu/002/002-1677391288.pdf,false
+NIGER,EDATTI,SAKPE,K/ESHATA,26/07/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/10/pu/005/005-1677371403.pdf,false
+NIGER,EDATTI,SAKPE,TSWATAGI,26/07/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/10/pu/010/010-1677366746.pdf,false

@@ -1,0 +1,19 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+NIGER,EDATTI,ENAGI,NAGYA,26/07/01/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87252/result_72374_1677577524_thumb.jpg,false
+NIGER,EDATTI,ENAGI,WADATA,26/07/01/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87255/result_72377_1677577733_thumb.jpg,false
+NIGER,EDATTI,ENAGI,BUKUGI,26/07/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87251/result_72373_1677577457_thumb.jpg,true
+NIGER,EDATTI,ENAGI,EMI-SWANSUN,26/07/01/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87254/result_72376_1677577646_thumb.jpg,true
+NIGER,EDATTI,ENAGI,EMI - BIMA,26/07/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87249/result_72371_1677577130_thumb.jpg,false
+NIGER,EDATTI,ENAGI,SAFO,26/07/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87250/result_72372_1677577390_thumb.jpg,false
+NIGER,EDATTI,ENAGI,GOGATA,26/07/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87253/result_72375_1677577582_thumb.jpg,true
+NIGER,EDATTI,ENAGI,KUSODU,26/07/01/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3647/ward/23742/pu/88351/88351-1677583142.pdf,false
+NIGER,EDATTI,ENAGI,EDOGI-LUKO PRIMARY SCHOOL,26/07/01/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3647/ward/23742/pu/163583/163583-1677583022.pdf,false
+NIGER,EDATTI,ENAGI,GORIBATA,26/07/01/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3647/ward/23742/pu/88350/88350-1677582447.pdf,false
+NIGER,EDATTI,ENAGI,M/GIWA,26/07/01/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3647/ward/23742/pu/88349/88349-1677582199.pdf,false
+NIGER,EDATTI,ENAGI,NTIFIN GI,26/07/01/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3647/ward/23742/pu/88348/88348-1677582037.pdf,true
+NIGER,EDATTI,ENAGI,EFU-UMARUZAN,26/07/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3647/ward/23742/pu/88347/88347-1677581833.pdf,true
+NIGER,EDATTI,ENAGI,NWOGI,26/07/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3647/ward/23742/pu/88346/88346-1677581139.pdf,true
+NIGER,EDATTI,ENAGI,DIKO - TAKO,26/07/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3647/ward/23742/pu/88345/88345-1677580851.pdf,true
+NIGER,EDATTI,ENAGI,EDOGI,26/07/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3647/ward/23742/pu/88344/88344-1677580584.pdf,true
+NIGER,EDATTI,ENAGI,NDAGBE,26/07/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3647/ward/23742/pu/88336/88336-1677577179.pdf,false
+NIGER,EDATTI,ENAGI,EMI - GABI,26/07/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3647/ward/23742/pu/88335/88335-1677576913.pdf,false

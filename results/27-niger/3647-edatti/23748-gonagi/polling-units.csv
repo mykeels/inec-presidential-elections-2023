@@ -1,0 +1,16 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+NIGER,EDATTI,GONAGI,KOKO,26/07/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3647/ward/23748/pu/88410/88410-1677600872.pdf,false
+NIGER,EDATTI,GONAGI,GONDAGI,26/07/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3647/ward/23748/pu/88406/88406-1677600116.pdf,false
+NIGER,EDATTI,GONAGI,GATA - LILE,26/07/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3647/ward/23748/pu/88403/88403-1677599629.pdf,false
+NIGER,EDATTI,GONAGI,GONAGI  II,26/07/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3647/ward/23748/pu/88402/88402-1677590066.pdf,true
+NIGER,EDATTI,GONAGI,EZHIGI CENTRAL,26/07/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3647/ward/23748/pu/163593/163593-1677569852.pdf,true
+NIGER,EDATTI,GONAGI,MUNGOROTA KANTIGI,26/07/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3647/ward/23748/pu/163592/163592-1677569499.pdf,true
+NIGER,EDATTI,GONAGI,GATA TSADU,26/07/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3647/ward/23748/pu/163591/163591-1677569041.pdf,true
+NIGER,EDATTI,GONAGI,EMI-GBA,26/07/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3647/ward/23748/pu/88412/88412-1677567929.pdf,true
+NIGER,EDATTI,GONAGI,EZHIGI,26/07/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3647/ward/23748/pu/88411/88411-1677530519.pdf,false
+NIGER,EDATTI,GONAGI,LACIN,26/07/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3647/ward/23748/pu/88409/88409-1677529772.pdf,false
+NIGER,EDATTI,GONAGI,GATA- WADATA,26/07/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3647/ward/23748/pu/88408/88408-1677528558.pdf,false
+NIGER,EDATTI,GONAGI,NDALADA,26/07/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3647/ward/23748/pu/88407/88407-1677528079.pdf,false
+NIGER,EDATTI,GONAGI,KANTIGI,26/07/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3647/ward/23748/pu/88405/88405-1677527537.pdf,false
+NIGER,EDATTI,GONAGI,GONAGI  I,26/07/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3647/ward/23748/pu/88401/88401-1677526348.pdf,false
+NIGER,EDATTI,GONAGI,CINGINI,26/07/07/004,,false

@@ -1,0 +1,18 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+NIGER,GBAKO,GBADAFU,EVUNGI,26/08/06/003,,true
+NIGER,GBAKO,GBADAFU,DINGI PRY. SCHOOL,26/08/06/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658907/result_72590_1677601467_thumb.jpg,false
+NIGER,GBAKO,GBADAFU,SHESHIKO PRY. SCHOOL,26/08/06/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658906/result_72589_1677601381_thumb.jpg,false
+NIGER,GBAKO,GBADAFU,ZACHITA,26/08/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87435/result_72584_1677601132_thumb.jpg,false
+NIGER,GBAKO,GBADAFU,BIRAMAFU,26/08/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+NIGER,GBAKO,GBADAFU,ELAGI,26/08/06/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87437/result_72586_1677601014_thumb.jpg,false
+NIGER,GBAKO,GBADAFU,KUSOKO,26/08/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87429/result_72578_1677600795_thumb.jpg,false
+NIGER,GBAKO,GBADAFU,KANKO GANA,26/08/06/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87430/result_72579_1677600834_thumb.jpg,false
+NIGER,GBAKO,GBADAFU,WUYA SUMMAN,26/08/06/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87428/result_72577_1677599372_thumb.jpg,false
+NIGER,GBAKO,GBADAFU,GBADAFU,26/08/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3648/ward/23757/pu/88513/88513-1677483335.pdf,false
+NIGER,GBAKO,GBADAFU,KUSORUKPA,26/08/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/06/pu/009/009-1677421354.pdf,false
+NIGER,GBAKO,GBADAFU,SWAJIYATSU,26/08/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/06/pu/014/014-1677417625.pdf,false
+NIGER,GBAKO,GBADAFU,PATIGI - LIMAN,26/08/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/06/pu/008/008-1677403965.pdf,false
+NIGER,GBAKO,GBADAFU,KPEBEGI BY TRANSFORMER,26/08/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/06/pu/015/015-1677402879.pdf,false
+NIGER,GBAKO,GBADAFU,TSADZA,26/08/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/06/pu/007/007-1677401253.pdf,false
+NIGER,GBAKO,GBADAFU,PATITAGI,26/08/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/06/pu/010/010-1677397265.pdf,false
+NIGER,GBAKO,GBADAFU,GBANGUBA,26/08/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/06/pu/012/012-1677396640.pdf,false

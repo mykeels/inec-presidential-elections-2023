@@ -1,0 +1,17 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+NIGER,SHIRORO,KATO,U.B.E PRI.SCH LAYI,26/22/09/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+NIGER,SHIRORO,KATO,BUJIKO,26/22/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+NIGER,SHIRORO,KATO,KOCHI,26/22/09/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/659732/result_75316_1677577357_thumb.jpg,false
+NIGER,SHIRORO,KATO,GBANKURU,26/22/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/659726/result_75310_1677576652_thumb.jpg,false
+NIGER,SHIRORO,KATO,KATO,26/22/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/89336/result_75304_1677577740_thumb.jpg,false
+NIGER,SHIRORO,KATO,KUNU,26/22/09/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/659731/result_75315_1677577157_thumb.jpg,false
+NIGER,SHIRORO,KATO,GUWA,26/22/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/89335/result_75303_1677575730_thumb.jpg,false
+NIGER,SHIRORO,KATO,LAWO,26/22/09/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/659729/result_75313_1677576723_thumb.jpg,false
+NIGER,SHIRORO,KATO,LASHIN,26/22/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/89338/result_75306_1677576710_thumb.jpg,false
+NIGER,SHIRORO,KATO,MAIKAKAKI,26/22/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/89339/result_75307_1677576842_thumb.jpg,false
+NIGER,SHIRORO,KATO,LUWA,26/22/09/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/659730/result_75314_1677577228_thumb.jpg,false
+NIGER,SHIRORO,KATO,NDAWETO,26/22/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/659725/result_75309_1677575411_thumb.jpg,false
+NIGER,SHIRORO,KATO,KAMATA,26/22/09/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/659733/result_75317_1677577169_thumb.jpg,false
+NIGER,SHIRORO,KATO,GIJIWA,26/22/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/09/pu/001/001-1677392937.pdf,false
+NIGER,SHIRORO,KATO,SAYIDNA,26/22/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/09/pu/007/007-1677379672.pdf,false
+NIGER,SHIRORO,KATO,KOFAR PADA KASA,26/22/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/09/pu/004/004-1677376866.pdf,false

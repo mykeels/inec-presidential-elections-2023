@@ -1,0 +1,11 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+NIGER,WUSHISHI,AKARE,AKARE DISPENSARY,26/25/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/89618/result_75855_1677578388_thumb.jpg,false
+NIGER,WUSHISHI,AKARE,BANGI,26/25/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/89620/result_75857_1677578526_thumb.jpg,false
+NIGER,WUSHISHI,AKARE,KPAKARA STATION  I,26/25/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/005/005-1677415903.pdf,false
+NIGER,WUSHISHI,AKARE,KPAKARA STATION  II,26/25/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/006/006-1677414965.pdf,false
+NIGER,WUSHISHI,AKARE,AKARE GIRIN,26/25/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/008/008-1677414528.pdf,false
+NIGER,WUSHISHI,AKARE,KPAKARA GARI,26/25/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/007/007-1677414218.pdf,false
+NIGER,WUSHISHI,AKARE,CHEJI,26/25/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/004/004-1677412551.pdf,false
+NIGER,WUSHISHI,AKARE,BAKO CHEJI,26/25/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/009/009-1677411371.pdf,false
+NIGER,WUSHISHI,AKARE,AKARE KAMPANI,26/25/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/002/002-1677410694.pdf,false
+NIGER,WUSHISHI,AKARE,YAKAJI CHWATA PRY. SCH,26/25/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/010/010-1677408162.pdf,false

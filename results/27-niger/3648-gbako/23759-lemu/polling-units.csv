@@ -1,0 +1,12 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+NIGER,GBAKO,LEMU,EWANKO,26/08/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87446/result_72600_1677521014_thumb.jpg,true
+NIGER,GBAKO,LEMU,SARKIN ALBASA,26/08/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,true
+NIGER,GBAKO,LEMU,MAMMATI,26/08/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,true
+NIGER,GBAKO,LEMU,MAJIN PRIMARY SCHOOL,26/08/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658910/result_72607_1677520619_thumb.jpg,true
+NIGER,GBAKO,LEMU,MAGI WORO,26/08/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87450/result_72604_1677519963_thumb.jpg,true
+NIGER,GBAKO,LEMU,LEMU - TIFIKENCHI,26/08/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87448/result_72602_1677519712_thumb.jpg,true
+NIGER,GBAKO,LEMU,JSS LEMU,26/08/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87447/result_72601_1677519518_thumb.jpg,true
+NIGER,GBAKO,LEMU,TAKO DZUKO,26/08/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87452/result_72606_1677520356_thumb.jpg,true
+NIGER,GBAKO,LEMU,EMIWOROGI,26/08/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,true
+NIGER,GBAKO,LEMU,DASA - MASALACHI,26/08/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,true
+NIGER,GBAKO,LEMU,YABATAGI,26/08/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87445/result_72599_1677517150_thumb.jpg,true

@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+NIGER,GURARA,KABO,KABO PRIMARY SCHOOL  I,26/09/05/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87511/result_72719_1677524786_thumb.jpg,false
+NIGER,GURARA,KABO,IWA PRIMARY SCHOOL,26/09/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87510/result_72718_1677524971_thumb.jpg,true
+NIGER,GURARA,KABO,KABO PRIMARY SCHOOL  II,26/09/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87512/result_72720_1677524603_thumb.jpg,false
+NIGER,GURARA,KABO,KOFAR GIDAN HAKIMIN KABO,26/09/05/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87513/result_72721_1677524349_thumb.jpg,false
+NIGER,GURARA,KABO,SHANU PRIMARY SCHOOL,26/09/05/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87514/result_72722_1677524065_thumb.jpg,false
+NIGER,GURARA,KABO,GUFANA PRIMARY SCHOOL,26/09/05/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658964/result_72723_1677523804_thumb.jpg,false
+NIGER,GURARA,KABO,CHIMBI PRIMARY SCHOOL,26/09/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658965/result_72724_1677523450_thumb.jpg,true
+NIGER,GURARA,KABO,GUSUN PRIMARY SCHOOL,26/09/05/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658966/result_72725_1677523229_thumb.jpg,false
+NIGER,GURARA,KABO,ZABEIDNA PRIMARY SCHOOL,26/09/05/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658967/result_72726_1677522840_thumb.jpg,false

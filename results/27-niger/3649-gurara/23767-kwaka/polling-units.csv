@@ -1,0 +1,13 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+NIGER,GURARA,KWAKA,LAIBA VILLAGE,26/09/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87519/result_72731_1677538743_thumb.jpg,true
+NIGER,GURARA,KWAKA,ANG KADARA,26/09/06/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658969/result_72735_1677537947_thumb.jpg,true
+NIGER,GURARA,KWAKA,BURUM PRIMARY SCHOOL,26/09/06/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87515/result_72727_1677539420_thumb.jpg,true
+NIGER,GURARA,KWAKA,WAGU PRIMARY SCHOOL,26/09/06/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658972/result_72738_1677535772_thumb.jpg,true
+NIGER,GURARA,KWAKA,FYAKUCHI VILLAGE,26/09/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87516/result_72728_1677539253_thumb.jpg,false
+NIGER,GURARA,KWAKA,GWACIPE PRIMARY SCHOOL,26/09/06/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87517/result_72729_1677539109_thumb.jpg,false
+NIGER,GURARA,KWAKA,TUCHI PRIMARY SCHOOL,26/09/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87521/result_72733_1677538341_thumb.jpg,true
+NIGER,GURARA,KWAKA,KWAKA PRIMARY SCHOOL,26/09/06/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87518/result_72730_1677538950_thumb.jpg,false
+NIGER,GURARA,KWAKA,LAHU PRIMARY SCHOOL,26/09/06/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87520/result_72732_1677538556_thumb.jpg,false
+NIGER,GURARA,KWAKA,FURUSHE PRIMARY SCHOOL,26/09/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658971/result_72737_1677537439_thumb.jpg,true
+NIGER,GURARA,KWAKA,FYAKUCHI VILLAGE II,26/09/06/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658968/result_72734_1677538194_thumb.jpg,false
+NIGER,GURARA,KWAKA,MALLAM KARO,26/09/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658970/result_72736_1677537781_thumb.jpg,false

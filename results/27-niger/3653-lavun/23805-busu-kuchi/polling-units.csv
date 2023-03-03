@@ -1,0 +1,25 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+NIGER,LAVUN,BUSU/KUCHI,DOKOGI,26/13/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3653/ward/23805/pu/88979/88979-1677596508.pdf,false
+NIGER,LAVUN,BUSU/KUCHI,MARKET SQUARE KOSO,26/13/01/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3653/ward/23805/pu/163969/163969-1677593246.pdf,true
+NIGER,LAVUN,BUSU/KUCHI,BABBAH PRI.SCHOOL,26/13/01/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3653/ward/23805/pu/163970/163970-1677593031.pdf,true
+NIGER,LAVUN,BUSU/KUCHI,GBANCHITAKO,26/13/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87882/result_73385_1677583268_thumb.jpg,true
+NIGER,LAVUN,BUSU/KUCHI,AMGBASA,26/13/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/87881/result_73384_1677582572_thumb.jpg,false
+NIGER,LAVUN,BUSU/KUCHI,KUSO NDALEGBO,26/13/01/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3653/ward/23805/pu/163968/163968-1677592327.pdf,true
+NIGER,LAVUN,BUSU/KUCHI,LAGUN PRI.SCHOOL TOKPA,26/13/01/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3653/ward/23805/pu/163967/163967-1677592064.pdf,false
+NIGER,LAVUN,BUSU/KUCHI,VILLAGE SQUARE GOGOGI,26/13/01/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3653/ward/23805/pu/163966/163966-1677591825.pdf,false
+NIGER,LAVUN,BUSU/KUCHI,RURAL HOSPITAL BUSU,26/13/01/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3653/ward/23805/pu/163965/163965-1677591546.pdf,false
+NIGER,LAVUN,BUSU/KUCHI,ZAKARI,26/13/01/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3653/ward/23805/pu/163964/163964-1677591313.pdf,true
+NIGER,LAVUN,BUSU/KUCHI,KOSO,26/13/01/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3653/ward/23805/pu/88985/88985-1677591191.pdf,true
+NIGER,LAVUN,BUSU/KUCHI,BUSU TAKO,26/13/01/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3653/ward/23805/pu/88984/88984-1677590915.pdf,false
+NIGER,LAVUN,BUSU/KUCHI,BUSUTIFIN,26/13/01/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3653/ward/23805/pu/88983/88983-1677590776.pdf,true
+NIGER,LAVUN,BUSU/KUCHI,TWAKI,26/13/01/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3653/ward/23805/pu/88982/88982-1677590368.pdf,true
+NIGER,LAVUN,BUSU/KUCHI,BOKANGI,26/13/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3653/ward/23805/pu/88981/88981-1677590193.pdf,true
+NIGER,LAVUN,BUSU/KUCHI,TAKPA,26/13/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3653/ward/23805/pu/88980/88980-1677589909.pdf,true
+NIGER,LAVUN,BUSU/KUCHI,ETSU - ZAGI,26/13/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3653/ward/23805/pu/88978/88978-1677589668.pdf,true
+NIGER,LAVUN,BUSU/KUCHI,JIKANAGI,26/13/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3653/ward/23805/pu/88977/88977-1677589526.pdf,true
+NIGER,LAVUN,BUSU/KUCHI,KPANJE,26/13/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3653/ward/23805/pu/88976/88976-1677588753.pdf,false
+NIGER,LAVUN,BUSU/KUCHI,GBADAGBAZU,26/13/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3653/ward/23805/pu/88975/88975-1677588366.pdf,true
+NIGER,LAVUN,BUSU/KUCHI,KUCHI WORO TIFIN,26/13/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3653/ward/23805/pu/88973/88973-1677587925.pdf,true
+NIGER,LAVUN,BUSU/KUCHI,KUCHI GBAKO,26/13/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3653/ward/23805/pu/88972/88972-1677587566.pdf,true
+NIGER,LAVUN,BUSU/KUCHI,KUPAFU,26/13/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/01/pu/003/003-1677404354.pdf,false
+NIGER,LAVUN,BUSU/KUCHI,KUCHI  WORO TAKO,26/13/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/01/pu/006/006-1677401432.pdf,false
