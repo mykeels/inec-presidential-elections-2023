@@ -17,5 +17,7 @@
   "ward_id": 21899,
   "created_at": "2020-07-15T17:28:30.007Z",
   "updated_at": "2020-07-15T17:28:30.007Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "KANO",
+  "lga_name": "DOGUWA"
 }

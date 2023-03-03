@@ -17,5 +17,7 @@
   "ward_id": 22081,
   "created_at": "2020-07-15T17:28:55.322Z",
   "updated_at": "2020-07-15T17:28:55.322Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "KANO",
+  "lga_name": "MADOBI"
 }

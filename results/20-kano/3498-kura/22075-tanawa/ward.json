@@ -17,5 +17,7 @@
   "ward_id": 22075,
   "created_at": "2020-07-15T17:28:54.457Z",
   "updated_at": "2020-07-15T17:28:54.457Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "KANO",
+  "lga_name": "KURA"
 }

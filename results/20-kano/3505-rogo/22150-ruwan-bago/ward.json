@@ -17,5 +17,7 @@
   "ward_id": 22150,
   "created_at": "2020-07-15T17:29:05.024Z",
   "updated_at": "2020-07-15T17:29:05.024Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "KANO",
+  "lga_name": "ROGO"
 }

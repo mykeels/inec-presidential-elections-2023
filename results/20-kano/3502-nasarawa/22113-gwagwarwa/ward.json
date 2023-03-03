@@ -17,5 +17,7 @@
   "ward_id": 22113,
   "created_at": "2020-07-15T17:28:59.810Z",
   "updated_at": "2020-07-15T17:28:59.810Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "KANO",
+  "lga_name": "NASARAWA"
 }
