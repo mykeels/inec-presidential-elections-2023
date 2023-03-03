@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+TARABA,DONGA,GYATTA AURE,NOMADIC  PRIMARY SCH,34/03/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3832/ward/25867/pu/175125/175125-1677607684.pdf,true
+TARABA,DONGA,GYATTA AURE,"POWER STATION,DONGA",34/03/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3832/ward/25867/pu/175124/175124-1677606914.pdf,true
+TARABA,DONGA,GYATTA AURE,"RIJIYA, BAKIN RIJIYA",34/03/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3832/ward/25867/pu/115202/115202-1677606050.pdf,true
+TARABA,DONGA,GYATTA AURE,"MASSALACHI, KOFAR MASSALLACHI",34/03/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3832/ward/25867/pu/115201/115201-1677605765.pdf,true
+TARABA,DONGA,GYATTA AURE,"MUSA LAFIYA, KOFAR MUSA LAFIYA",34/03/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3832/ward/25867/pu/115200/115200-1677605063.pdf,true
+TARABA,DONGA,GYATTA AURE,"LIMAN, KOFAR LIMAN",34/03/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3832/ward/25867/pu/115199/115199-1677604845.pdf,true
+TARABA,DONGA,GYATTA AURE,"CHURCH III, DAUDA KWANCHA PRIMARY SCHOOL",34/03/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3832/ward/25867/pu/115198/115198-1677603678.pdf,false
+TARABA,DONGA,GYATTA AURE,"CHURCH II, DAUDA KWANCHA PRIMARY SCHOOL",34/03/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3832/ward/25867/pu/115197/115197-1677603554.pdf,false
+TARABA,DONGA,GYATTA AURE,"CHURCH I, DAUDA KWANCHA PRIMARY SCHOOL",34/03/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3832/ward/25867/pu/115196/115196-1677601394.pdf,true

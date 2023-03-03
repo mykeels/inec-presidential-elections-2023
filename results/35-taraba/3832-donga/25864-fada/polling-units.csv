@@ -1,0 +1,12 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+TARABA,DONGA,FADA,KANTI III OPEN SPACE,34/03/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3832/ward/25864/pu/175098/175098-1677674314.pdf,false
+TARABA,DONGA,FADA,"FADA II, KOFAR GARA DONGA",34/03/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3832/ward/25864/pu/115161/115161-1677673746.pdf,true
+TARABA,DONGA,FADA,"FADA I, DISTRICT OFFICE DONGA",34/03/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3832/ward/25864/pu/115160/115160-1677672439.pdf,false
+TARABA,DONGA,FADA,OPEN SPACE RICE MILL,34/03/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3832/ward/25864/pu/175099/175099-1677671571.pdf,false
+TARABA,DONGA,FADA,FADA IV OPEN SPACE,34/03/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3832/ward/25864/pu/175097/175097-1677669112.pdf,true
+TARABA,DONGA,FADA,FADA III OPEN SPACE,34/03/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3832/ward/25864/pu/175096/175096-1677667357.pdf,false
+TARABA,DONGA,FADA,"MAKERI, KOFAR MAKERI DONGA",34/03/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3832/ward/25864/pu/115164/115164-1677606527.pdf,true
+TARABA,DONGA,FADA,"KANTI II, BAKIN KANTI",34/03/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3832/ward/25864/pu/115163/115163-1677605810.pdf,true
+TARABA,DONGA,FADA,"SAMBO, KAFIN SAMBO",34/03/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3832/ward/25864/pu/115166/115166-1677604887.pdf,true
+TARABA,DONGA,FADA,RICE MILL RICE MILL,34/03/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/03/pu/006/006-1677361694.pdf,false
+TARABA,DONGA,FADA,"KANTI I, BAKIN KANTI",34/03/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/03/pu/003/003-1677359832.pdf,false

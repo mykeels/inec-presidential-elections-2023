@@ -1,0 +1,14 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+TARABA,DONGA,BIKADARKO,"KADARKO II, KOFAR SARKIN KADARKO",34/03/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3832/ward/25868/pu/115205/115205-1677609398.pdf,false
+TARABA,DONGA,BIKADARKO,"SABON GIDA, S/GIDA PRIMARY SCHOOL",34/03/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3832/ward/25868/pu/115206/115206-1677608812.pdf,false
+TARABA,DONGA,BIKADARKO,"TENDEGA, TENDEGA PRIMARY SCHOOL",34/03/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3832/ward/25868/pu/115207/115207-1677607888.pdf,false
+TARABA,DONGA,BIKADARKO,"UTIRE, UTIRE PRIMARY SCHOOL",34/03/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3832/ward/25868/pu/115208/115208-1677607246.pdf,true
+TARABA,DONGA,BIKADARKO,TENDEGA MARKET SQUARE,34/03/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3832/ward/25868/pu/175126/175126-1677606903.pdf,true
+TARABA,DONGA,BIKADARKO,"ANKUGHPRIMARY SCHOOL,KADARKO",34/03/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3832/ward/25868/pu/175129/175129-1677606017.pdf,true
+TARABA,DONGA,BIKADARKO,"TYOMON OPEN MARKET,UTIRE",34/03/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3832/ward/25868/pu/175130/175130-1677605792.pdf,true
+TARABA,DONGA,BIKADARKO,ANDODTSEA MARKET SQUARE,34/03/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3832/ward/25868/pu/175132/175132-1677605105.pdf,true
+TARABA,DONGA,BIKADARKO,"KADARKO I, KADARKO PRIMARY SCHOOL",34/03/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3832/ward/25868/pu/115204/115204-1677602164.pdf,true
+TARABA,DONGA,BIKADARKO,GBASHIPRIMARY SCHOOL,34/03/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/07/pu/008/008-1677401404.pdf,false
+TARABA,DONGA,BIKADARKO,MARKET SQUARE SABON GIDA,34/03/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/07/pu/009/009-1677401081.pdf,false
+TARABA,DONGA,BIKADARKO,MARKET SQURAE OPEN SPACE KADARKO,34/03/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/07/pu/012/012-1677395027.pdf,false
+TARABA,DONGA,BIKADARKO,"BORKONO, BORKONO PRIMARY SCHOOL",34/03/07/001,,false

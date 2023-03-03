@@ -1,0 +1,17 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+TARABA,GASHAKA,GANGUMI,"AFENGI, AFENGI",34/04/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114146/result_58830_1677609624_thumb.jpg,false
+TARABA,GASHAKA,GANGUMI,"GANGUMI II, KOFAI",34/04/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114148/result_58832_1677609554_thumb.jpg,false
+TARABA,GASHAKA,GANGUMI,"GANGTI, GANGTI",34/04/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114149/result_58833_1677609507_thumb.jpg,false
+TARABA,GASHAKA,GANGUMI,GANGUMI MARKET SQUARE,34/04/02/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/671208/result_58842_1677595210_thumb.jpg,false
+TARABA,GASHAKA,GANGUMI,"GARIN TIV, GARIN TIV",34/04/02/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114153/result_58837_1677594470_thumb.jpg,false
+TARABA,GASHAKA,GANGUMI,TYO-ZER OPEN SPACE,34/04/02/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/671209/result_58843_1677594407_thumb.jpg,false
+TARABA,GASHAKA,GANGUMI,"GANG BONG I, GANG BONG",34/04/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+TARABA,GASHAKA,GANGUMI,"KEME, KEME",34/04/02/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114155/result_58839_1677594281_thumb.jpg,false
+TARABA,GASHAKA,GANGUMI,"GANG BONG II, GANG BONG",34/04/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114151/result_58835_1677594151_thumb.jpg,false
+TARABA,GASHAKA,GANGUMI,"GANGUMI IORMBA, GANGUMI IORMBA",34/04/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114152/result_58836_1677594064_thumb.jpg,false
+TARABA,GASHAKA,GANGUMI,NASAMU KOBAJE OPEN SPACE,34/04/02/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/671211/result_58845_1677593707_thumb.jpg,false
+TARABA,GASHAKA,GANGUMI,"KWAGIR, KWAGIRI PRIMARY SCHOOL",34/04/02/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114156/result_58840_1677593591_thumb.jpg,false
+TARABA,GASHAKA,GANGUMI,"KARE, KARE",34/04/02/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114154/result_58838_1677593417_thumb.jpg,false
+TARABA,GASHAKA,GANGUMI,GANGUMI I PRIMARY SCHOOL,34/04/02/002,,false
+TARABA,GASHAKA,GANGUMI,GANGUMI MATERNITY CLINIC,34/04/02/012,,false
+TARABA,GASHAKA,GANGUMI,MADAKI OPEN SPACE,34/04/02/015,,false
