@@ -1,0 +1,17 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+ANAMBRA,ANAMBRA EAST,EZIAGULU-OTU,UMURIABOR I,04/03/04/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/8771/result_165323_1677502022_thumb.jpg,true
+ANAMBRA,ANAMBRA EAST,EZIAGULU-OTU,UMURIABOR II,04/03/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/8772/result_165324_1677493216_thumb.jpg,true
+ANAMBRA,ANAMBRA EAST,EZIAGULU-OTU,OGBUOKA I,04/03/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/8774/result_165326_1677517274_thumb.jpg,true
+ANAMBRA,ANAMBRA EAST,EZIAGULU-OTU,AKPATA SQUARE I,04/03/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/8767/result_165319_1677490560_thumb.jpg,true
+ANAMBRA,ANAMBRA EAST,EZIAGULU-OTU,AKPATA SQUARE II,04/03/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/8768/result_165320_1677491029_thumb.jpg,true
+ANAMBRA,ANAMBRA EAST,EZIAGULU-OTU,UMUANEVILI I,04/03/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/8769/result_165321_1677502591_thumb.jpg,true
+ANAMBRA,ANAMBRA EAST,EZIAGULU-OTU,OGBOLIOGBO,04/03/04/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/8778/result_165330_1677506558_thumb.jpg,true
+ANAMBRA,ANAMBRA EAST,EZIAGULU-OTU,UMUANEVILI II,04/03/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/8770/result_165322_1677516305_thumb.jpg,true
+ANAMBRA,ANAMBRA EAST,EZIAGULU-OTU,ITILIBE SQUARE,04/03/04/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3174/ward/18299/pu/8791/8791-1677461559.pdf,false
+ANAMBRA,ANAMBRA EAST,EZIAGULU-OTU,OGBUOKA II,04/03/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/04/pu/009/009-1677397707.pdf,false
+ANAMBRA,ANAMBRA EAST,EZIAGULU-OTU,NWANNEKA PRY. SCHOOL II,04/03/04/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/04/pu/015/015-1677389557.pdf,false
+ANAMBRA,ANAMBRA EAST,EZIAGULU-OTU,AKPAIYIAGBA,04/03/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/04/pu/007/007-1677388938.pdf,false
+ANAMBRA,ANAMBRA EAST,EZIAGULU-OTU,IYIAKMA,04/03/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/04/pu/013/013-1677388950.pdf,false
+ANAMBRA,ANAMBRA EAST,EZIAGULU-OTU,NEW SITE II,04/03/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/04/pu/011/011-1677388016.pdf,false
+ANAMBRA,ANAMBRA EAST,EZIAGULU-OTU,NWANNEKA PRY. SCHOOL I,04/03/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/04/pu/014/014-1677387704.pdf,false
+ANAMBRA,ANAMBRA EAST,EZIAGULU-OTU,NEW SITE I,04/03/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/04/pu/010/010-1677387055.pdf,false

@@ -1,0 +1,12 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+ANAMBRA,DUNUKOFIA,UMUDIOKA  I,OKPURU UMUEZEKWO II,04/08/11/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/9895/result_166653_1677518381_thumb.jpg,true
+ANAMBRA,DUNUKOFIA,UMUDIOKA  I,UMUEZEKWO HALL I,04/08/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3179/ward/18384/pu/9901/9901-1677520942.pdf,false
+ANAMBRA,DUNUKOFIA,UMUDIOKA  I,UMUEZEKWO HALL II,04/08/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3179/ward/18384/pu/9902/9902-1677520410.pdf,false
+ANAMBRA,DUNUKOFIA,UMUDIOKA  I,OKPURU UMUEZEKWO I,04/08/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3179/ward/18384/pu/9903/9903-1677519874.pdf,false
+ANAMBRA,DUNUKOFIA,UMUDIOKA  I,URUWOWELLE SQUARE I,04/08/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3179/ward/18384/pu/9905/9905-1677504243.pdf,false
+ANAMBRA,DUNUKOFIA,UMUDIOKA  I,URUWOWELLE SQUARE II,04/08/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3179/ward/18384/pu/9906/9906-1677503191.pdf,false
+ANAMBRA,DUNUKOFIA,UMUDIOKA  I,URUAGU  C/S I,04/08/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3179/ward/18384/pu/9907/9907-1677502130.pdf,false
+ANAMBRA,DUNUKOFIA,UMUDIOKA  I,ILOUGWU VILLAGE HALL I,04/08/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/11/pu/010/010-1677411790.pdf,false
+ANAMBRA,DUNUKOFIA,UMUDIOKA  I,ILOUGWU VILLAGE HALL II,04/08/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/11/pu/011/011-1677406292.pdf,false
+ANAMBRA,DUNUKOFIA,UMUDIOKA  I,ABOR  P/S,04/08/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/11/pu/009/009-1677396307.pdf,false
+ANAMBRA,DUNUKOFIA,UMUDIOKA  I,URUAGU  C/S II,04/08/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/11/pu/008/008-1677375034.pdf,false

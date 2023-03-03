@@ -1,0 +1,11 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+ANAMBRA,AWKA SOUTH,NISE  II,NGENE NKWO SQUARE I,04/07/18/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3178/ward/18371/pu/9762/9762-1677584036.pdf,false
+ANAMBRA,AWKA SOUTH,NISE  II,UMUEZEOKPALA SQUARE,04/07/18/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3178/ward/18371/pu/9768/9768-1677582173.pdf,false
+ANAMBRA,AWKA SOUTH,NISE  II,NGENE NKWO SQUARE II,04/07/18/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3178/ward/18371/pu/9763/9763-1677581807.pdf,true
+ANAMBRA,AWKA SOUTH,NISE  II,EZI EZENWAKA SQUARE I,04/07/18/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3178/ward/18371/pu/9760/9760-1677581468.pdf,true
+ANAMBRA,AWKA SOUTH,NISE  II,UMUAZU HALL III,04/07/18/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/18/pu/010/010-1677415096.pdf,false
+ANAMBRA,AWKA SOUTH,NISE  II,UMUNONO HALL II,04/07/18/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/18/pu/008/008-1677414530.pdf,false
+ANAMBRA,AWKA SOUTH,NISE  II,UMUNONO HALL I,04/07/18/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/18/pu/007/007-1677413415.pdf,false
+ANAMBRA,AWKA SOUTH,NISE  II,UMUAZU HALL II,04/07/18/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/18/pu/006/006-1677412563.pdf,false
+ANAMBRA,AWKA SOUTH,NISE  II,UMUAZU HALL I,04/07/18/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/18/pu/005/005-1677411947.pdf,false
+ANAMBRA,AWKA SOUTH,NISE  II,EZI EZENWAKA SQUARE II,04/07/18/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/18/pu/002/002-1677410987.pdf,false

@@ -1,0 +1,16 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+ANAMBRA,ANAMBRA WEST,OLUMBANASA-INOMA,UKWALLA TOWH HALL,04/04/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3175/ward/18315/pu/9017/9017-1677597902.pdf,true
+ANAMBRA,ANAMBRA WEST,OLUMBANASA-INOMA,ALLAH PUBLIC SQUARE II,04/04/05/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/9020/result_165599_1677579824_thumb.jpg,true
+ANAMBRA,ANAMBRA WEST,OLUMBANASA-INOMA,EDEPU VILLAGE SQUARE,04/04/05/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/9014/result_165593_1677579104_thumb.jpg,true
+ANAMBRA,ANAMBRA WEST,OLUMBANASA-INOMA,OMADELU PUBLIC SQUARE,04/04/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/9015/result_165594_1677578908_thumb.jpg,true
+ANAMBRA,ANAMBRA WEST,OLUMBANASA-INOMA,"NEW TOWN HALL, INNOMA",04/04/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3175/ward/18315/pu/9026/9026-1677537294.pdf,false
+ANAMBRA,ANAMBRA WEST,OLUMBANASA-INOMA,UKWALLA PUBLIC SQUARE II,04/04/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3175/ward/18315/pu/9028/9028-1677536946.pdf,false
+ANAMBRA,ANAMBRA WEST,OLUMBANASA-INOMA,ICHALLA ALLAH,04/04/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3175/ward/18315/pu/9025/9025-1677536569.pdf,false
+ANAMBRA,ANAMBRA WEST,OLUMBANASA-INOMA,UKWALLA PUBLIC SQUARE I,04/04/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3175/ward/18315/pu/9022/9022-1677533488.pdf,false
+ANAMBRA,ANAMBRA WEST,OLUMBANASA-INOMA,OWELLE PUBLIC SQUARE I,04/04/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3175/ward/18315/pu/9021/9021-1677531594.pdf,false
+ANAMBRA,ANAMBRA WEST,OLUMBANASA-INOMA,OBANUGBO PUBLIC SQUARE,04/04/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3175/ward/18315/pu/9020/9020-1677531311.pdf,false
+ANAMBRA,ANAMBRA WEST,OLUMBANASA-INOMA,ONUGWA PUBLIC SQUARE,04/04/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3175/ward/18315/pu/9019/9019-1677530939.pdf,false
+ANAMBRA,ANAMBRA WEST,OLUMBANASA-INOMA,ALLAH PUBLIC SQUARE I,04/04/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3175/ward/18315/pu/9018/9018-1677529849.pdf,false
+ANAMBRA,ANAMBRA WEST,OLUMBANASA-INOMA,OWELLE PUBLIC SQUARE II,04/04/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3175/ward/18315/pu/9027/9027-1677528548.pdf,false
+ANAMBRA,ANAMBRA WEST,OLUMBANASA-INOMA,INNOMA TOWN HALL,04/04/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/05/pu/002/002-1677419533.pdf,false
+ANAMBRA,ANAMBRA WEST,OLUMBANASA-INOMA,OWELLE TOWN HALL,04/04/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/05/pu/001/001-1677418502.pdf,false
