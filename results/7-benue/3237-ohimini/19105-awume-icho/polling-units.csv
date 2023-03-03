@@ -1,0 +1,6 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BENUE,OHIMINI,AWUME ICHO,CLASS ROOM/EJULE PRIMARY SCHOOL,07/17/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/21413/result_181861_1677676657_thumb.jpg,false
+BENUE,OHIMINI,AWUME ICHO,CLASS ROOM/AKPUTULO PRIMARY SCHOOL,07/17/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3237/ward/19105/pu/21421/21421-1677673620.pdf,true
+BENUE,OHIMINI,AWUME ICHO,OPEN SPACE/OLAIGA - OPEN SPACE,07/17/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/21417/result_181865_1677673396_thumb.jpg,false
+BENUE,OHIMINI,AWUME ICHO,CLASS ROOM/OTOLI PRIMARY SCHOOL,07/17/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3237/ward/19105/pu/21422/21422-1677672096.pdf,false
+BENUE,OHIMINI,AWUME ICHO,CLASS ROOM/ONDO/OLABE PRIMARY SCHOOL,07/17/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3237/ward/19105/pu/21423/21423-1677671457.pdf,true
