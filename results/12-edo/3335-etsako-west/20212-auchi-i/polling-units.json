@@ -26,6 +26,7 @@
     "pu_code_string": "120902003",
     "state_name": "EDO",
     "lga_name": "ETSAKO  WEST",
+    "ward_name": "AUCHI I",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "120902020",
     "state_name": "EDO",
     "lga_name": "ETSAKO  WEST",
+    "ward_name": "AUCHI I",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "120902007",
     "state_name": "EDO",
     "lga_name": "ETSAKO  WEST",
+    "ward_name": "AUCHI I",
     "document": {
       "external": false,
       "status": 1,
@@ -149,6 +152,7 @@
     "pu_code_string": "120902012",
     "state_name": "EDO",
     "lga_name": "ETSAKO  WEST",
+    "ward_name": "AUCHI I",
     "document": {
       "external": false,
       "status": 1,
@@ -187,6 +191,7 @@
     "pu_code_string": "120902001",
     "state_name": "EDO",
     "lga_name": "ETSAKO  WEST",
+    "ward_name": "AUCHI I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -217,6 +222,7 @@
     "pu_code_string": "120902006",
     "state_name": "EDO",
     "lga_name": "ETSAKO  WEST",
+    "ward_name": "AUCHI I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -247,6 +253,7 @@
     "pu_code_string": "120902011",
     "state_name": "EDO",
     "lga_name": "ETSAKO  WEST",
+    "ward_name": "AUCHI I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -277,6 +284,7 @@
     "pu_code_string": "120902008",
     "state_name": "EDO",
     "lga_name": "ETSAKO  WEST",
+    "ward_name": "AUCHI I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -307,6 +315,7 @@
     "pu_code_string": "120902016",
     "state_name": "EDO",
     "lga_name": "ETSAKO  WEST",
+    "ward_name": "AUCHI I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -337,6 +346,7 @@
     "pu_code_string": "120902013",
     "state_name": "EDO",
     "lga_name": "ETSAKO  WEST",
+    "ward_name": "AUCHI I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -367,6 +377,7 @@
     "pu_code_string": "120902021",
     "state_name": "EDO",
     "lga_name": "ETSAKO  WEST",
+    "ward_name": "AUCHI I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -397,6 +408,7 @@
     "pu_code_string": "120902018",
     "state_name": "EDO",
     "lga_name": "ETSAKO  WEST",
+    "ward_name": "AUCHI I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -427,6 +439,7 @@
     "pu_code_string": "120902004",
     "state_name": "EDO",
     "lga_name": "ETSAKO  WEST",
+    "ward_name": "AUCHI I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -457,6 +470,7 @@
     "pu_code_string": "120902009",
     "state_name": "EDO",
     "lga_name": "ETSAKO  WEST",
+    "ward_name": "AUCHI I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -487,6 +501,7 @@
     "pu_code_string": "120902014",
     "state_name": "EDO",
     "lga_name": "ETSAKO  WEST",
+    "ward_name": "AUCHI I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -517,6 +532,7 @@
     "pu_code_string": "120902019",
     "state_name": "EDO",
     "lga_name": "ETSAKO  WEST",
+    "ward_name": "AUCHI I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -547,6 +563,7 @@
     "pu_code_string": "120902002",
     "state_name": "EDO",
     "lga_name": "ETSAKO  WEST",
+    "ward_name": "AUCHI I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -577,6 +594,7 @@
     "pu_code_string": "120902017",
     "state_name": "EDO",
     "lga_name": "ETSAKO  WEST",
+    "ward_name": "AUCHI I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -607,6 +625,7 @@
     "pu_code_string": "120902022",
     "state_name": "EDO",
     "lga_name": "ETSAKO  WEST",
+    "ward_name": "AUCHI I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -637,6 +656,7 @@
     "pu_code_string": "120902005",
     "state_name": "EDO",
     "lga_name": "ETSAKO  WEST",
+    "ward_name": "AUCHI I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -667,6 +687,7 @@
     "pu_code_string": "120902010",
     "state_name": "EDO",
     "lga_name": "ETSAKO  WEST",
+    "ward_name": "AUCHI I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -697,6 +718,7 @@
     "pu_code_string": "120902015",
     "state_name": "EDO",
     "lga_name": "ETSAKO  WEST",
+    "ward_name": "AUCHI I",
     "old_documents": [],
     "has_old_documents": false
   }

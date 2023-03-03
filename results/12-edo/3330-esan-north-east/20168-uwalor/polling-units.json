@@ -26,6 +26,7 @@
     "pu_code_string": "120409011",
     "state_name": "EDO",
     "lga_name": "ESAN NORTH EAST",
+    "ward_name": "UWALOR",
     "document": {
       "external": true,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "120409010",
     "state_name": "EDO",
     "lga_name": "ESAN NORTH EAST",
+    "ward_name": "UWALOR",
     "document": {
       "external": true,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "120409009",
     "state_name": "EDO",
     "lga_name": "ESAN NORTH EAST",
+    "ward_name": "UWALOR",
     "document": {
       "external": true,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "120409008",
     "state_name": "EDO",
     "lga_name": "ESAN NORTH EAST",
+    "ward_name": "UWALOR",
     "document": {
       "external": true,
       "status": 1,
@@ -178,6 +182,7 @@
     "pu_code_string": "120409001",
     "state_name": "EDO",
     "lga_name": "ESAN NORTH EAST",
+    "ward_name": "UWALOR",
     "document": {
       "external": true,
       "status": 1,
@@ -233,6 +238,7 @@
     "pu_code_string": "120409004",
     "state_name": "EDO",
     "lga_name": "ESAN NORTH EAST",
+    "ward_name": "UWALOR",
     "document": {
       "external": true,
       "status": 1,
@@ -271,6 +277,7 @@
     "pu_code_string": "120409003",
     "state_name": "EDO",
     "lga_name": "ESAN NORTH EAST",
+    "ward_name": "UWALOR",
     "document": {
       "external": true,
       "status": 1,
@@ -309,6 +316,7 @@
     "pu_code_string": "120409002",
     "state_name": "EDO",
     "lga_name": "ESAN NORTH EAST",
+    "ward_name": "UWALOR",
     "document": {
       "external": true,
       "status": 1,
@@ -347,6 +355,7 @@
     "pu_code_string": "120409007",
     "state_name": "EDO",
     "lga_name": "ESAN NORTH EAST",
+    "ward_name": "UWALOR",
     "document": {
       "external": false,
       "status": 1,
@@ -385,6 +394,7 @@
     "pu_code_string": "120409006",
     "state_name": "EDO",
     "lga_name": "ESAN NORTH EAST",
+    "ward_name": "UWALOR",
     "document": {
       "external": false,
       "status": 1,
@@ -423,6 +433,7 @@
     "pu_code_string": "120409005",
     "state_name": "EDO",
     "lga_name": "ESAN NORTH EAST",
+    "ward_name": "UWALOR",
     "document": {
       "external": false,
       "status": 1,

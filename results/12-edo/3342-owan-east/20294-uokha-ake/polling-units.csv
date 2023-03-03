@@ -1,16 +1,16 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EDO,OWAN EAST,,"OWA VILLAGE SQUARE,  AKE",12/16/05/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/015/015-1677417745.pdf,false
-EDO,OWAN EAST,,"OTUGO GRAMMAR SCHOOL,  AKE",12/16/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/014/014-1677417371.pdf,false
-EDO,OWAN EAST,,"AKE IGBORO,  AKE",12/16/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/013/013-1677417062.pdf,false
-EDO,OWAN EAST,,OPEN SPACE BY AKE MARKET,12/16/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/012/012-1677416595.pdf,false
-EDO,OWAN EAST,,"HEALTH CENTRE, AKE",12/16/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/011/011-1677416201.pdf,false
-EDO,OWAN EAST,,"AKE PRIMARY SCHOOL,  AKE  II",12/16/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/010/010-1677415101.pdf,false
-EDO,OWAN EAST,,"AKE PRIMARY SCHOOL,  AKE I",12/16/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/009/009-1677414497.pdf,false
-EDO,OWAN EAST,,"LAWANI CAMP,  UOKHA",12/16/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/008/008-1677413624.pdf,false
-EDO,OWAN EAST,,"OPEN FIELD EWEKA P/SCHOOL,  UOKHA",12/16/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/007/007-1677413101.pdf,false
-EDO,OWAN EAST,,"EWEKA PRIMARY SCHOOL,  UOKHA  II",12/16/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/006/006-1677412532.pdf,false
-EDO,OWAN EAST,,"EWEKA PRIMARY SCHOOL,  UOKHA  I",12/16/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/005/005-1677411785.pdf,false
-EDO,OWAN EAST,,"SPACE NEAR Y. MATERNITY,  UOKHA",12/16/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/004/004-1677411390.pdf,false
-EDO,OWAN EAST,,"UOKHA MATERNITY (FIELD), UOKHA",12/16/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/003/003-1677410996.pdf,false
-EDO,OWAN EAST,,"ODION PRIMARY SCHOOL,  UOKHA  II",12/16/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/002/002-1677410474.pdf,false
-EDO,OWAN EAST,,"ODION PRIMARY SCHOOL,  UOKHA  I",12/16/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/001/001-1677409875.pdf,false
+EDO,OWAN EAST,UOKHA/AKE,"OWA VILLAGE SQUARE,  AKE",12/16/05/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/015/015-1677417745.pdf,false
+EDO,OWAN EAST,UOKHA/AKE,"OTUGO GRAMMAR SCHOOL,  AKE",12/16/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/014/014-1677417371.pdf,false
+EDO,OWAN EAST,UOKHA/AKE,"AKE IGBORO,  AKE",12/16/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/013/013-1677417062.pdf,false
+EDO,OWAN EAST,UOKHA/AKE,OPEN SPACE BY AKE MARKET,12/16/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/012/012-1677416595.pdf,false
+EDO,OWAN EAST,UOKHA/AKE,"HEALTH CENTRE, AKE",12/16/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/011/011-1677416201.pdf,false
+EDO,OWAN EAST,UOKHA/AKE,"AKE PRIMARY SCHOOL,  AKE  II",12/16/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/010/010-1677415101.pdf,false
+EDO,OWAN EAST,UOKHA/AKE,"AKE PRIMARY SCHOOL,  AKE I",12/16/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/009/009-1677414497.pdf,false
+EDO,OWAN EAST,UOKHA/AKE,"LAWANI CAMP,  UOKHA",12/16/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/008/008-1677413624.pdf,false
+EDO,OWAN EAST,UOKHA/AKE,"OPEN FIELD EWEKA P/SCHOOL,  UOKHA",12/16/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/007/007-1677413101.pdf,false
+EDO,OWAN EAST,UOKHA/AKE,"EWEKA PRIMARY SCHOOL,  UOKHA  II",12/16/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/006/006-1677412532.pdf,false
+EDO,OWAN EAST,UOKHA/AKE,"EWEKA PRIMARY SCHOOL,  UOKHA  I",12/16/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/005/005-1677411785.pdf,false
+EDO,OWAN EAST,UOKHA/AKE,"SPACE NEAR Y. MATERNITY,  UOKHA",12/16/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/004/004-1677411390.pdf,false
+EDO,OWAN EAST,UOKHA/AKE,"UOKHA MATERNITY (FIELD), UOKHA",12/16/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/003/003-1677410996.pdf,false
+EDO,OWAN EAST,UOKHA/AKE,"ODION PRIMARY SCHOOL,  UOKHA  II",12/16/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/002/002-1677410474.pdf,false
+EDO,OWAN EAST,UOKHA/AKE,"ODION PRIMARY SCHOOL,  UOKHA  I",12/16/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/001/001-1677409875.pdf,false

@@ -26,6 +26,7 @@
     "pu_code_string": "120801011",
     "state_name": "EDO",
     "lga_name": "ETSAKO EAST",
+    "ward_name": "AGENEBODE",
     "document": {
       "external": true,
       "status": 1,
@@ -73,6 +74,7 @@
     "pu_code_string": "120801021",
     "state_name": "EDO",
     "lga_name": "ETSAKO EAST",
+    "ward_name": "AGENEBODE",
     "document": {
       "external": true,
       "status": 1,
@@ -120,6 +122,7 @@
     "pu_code_string": "120801019",
     "state_name": "EDO",
     "lga_name": "ETSAKO EAST",
+    "ward_name": "AGENEBODE",
     "document": {
       "external": true,
       "status": 1,
@@ -167,6 +170,7 @@
     "pu_code_string": "120801001",
     "state_name": "EDO",
     "lga_name": "ETSAKO EAST",
+    "ward_name": "AGENEBODE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -197,6 +201,7 @@
     "pu_code_string": "120801006",
     "state_name": "EDO",
     "lga_name": "ETSAKO EAST",
+    "ward_name": "AGENEBODE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -227,6 +232,7 @@
     "pu_code_string": "120801003",
     "state_name": "EDO",
     "lga_name": "ETSAKO EAST",
+    "ward_name": "AGENEBODE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -257,6 +263,7 @@
     "pu_code_string": "120801016",
     "state_name": "EDO",
     "lga_name": "ETSAKO EAST",
+    "ward_name": "AGENEBODE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -287,6 +294,7 @@
     "pu_code_string": "120801008",
     "state_name": "EDO",
     "lga_name": "ETSAKO EAST",
+    "ward_name": "AGENEBODE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -317,6 +325,7 @@
     "pu_code_string": "120801013",
     "state_name": "EDO",
     "lga_name": "ETSAKO EAST",
+    "ward_name": "AGENEBODE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -347,6 +356,7 @@
     "pu_code_string": "120801018",
     "state_name": "EDO",
     "lga_name": "ETSAKO EAST",
+    "ward_name": "AGENEBODE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -377,6 +387,7 @@
     "pu_code_string": "120801004",
     "state_name": "EDO",
     "lga_name": "ETSAKO EAST",
+    "ward_name": "AGENEBODE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -407,6 +418,7 @@
     "pu_code_string": "120801009",
     "state_name": "EDO",
     "lga_name": "ETSAKO EAST",
+    "ward_name": "AGENEBODE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -437,6 +449,7 @@
     "pu_code_string": "120801014",
     "state_name": "EDO",
     "lga_name": "ETSAKO EAST",
+    "ward_name": "AGENEBODE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -467,6 +480,7 @@
     "pu_code_string": "120801002",
     "state_name": "EDO",
     "lga_name": "ETSAKO EAST",
+    "ward_name": "AGENEBODE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -497,6 +511,7 @@
     "pu_code_string": "120801007",
     "state_name": "EDO",
     "lga_name": "ETSAKO EAST",
+    "ward_name": "AGENEBODE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -527,6 +542,7 @@
     "pu_code_string": "120801012",
     "state_name": "EDO",
     "lga_name": "ETSAKO EAST",
+    "ward_name": "AGENEBODE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -557,6 +573,7 @@
     "pu_code_string": "120801017",
     "state_name": "EDO",
     "lga_name": "ETSAKO EAST",
+    "ward_name": "AGENEBODE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -587,6 +604,7 @@
     "pu_code_string": "120801005",
     "state_name": "EDO",
     "lga_name": "ETSAKO EAST",
+    "ward_name": "AGENEBODE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -617,6 +635,7 @@
     "pu_code_string": "120801010",
     "state_name": "EDO",
     "lga_name": "ETSAKO EAST",
+    "ward_name": "AGENEBODE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -647,6 +666,7 @@
     "pu_code_string": "120801015",
     "state_name": "EDO",
     "lga_name": "ETSAKO EAST",
+    "ward_name": "AGENEBODE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -677,6 +697,7 @@
     "pu_code_string": "120801020",
     "state_name": "EDO",
     "lga_name": "ETSAKO EAST",
+    "ward_name": "AGENEBODE",
     "old_documents": [],
     "has_old_documents": false
   }

@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EDO,ETSAKO  WEST,,IDEGUN / UKPEKO - AMAH - UNITY P/S  IDEGUN,12/09/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/35020/result_153808_1677706636_thumb.jpg,false
-EDO,ETSAKO  WEST,,"IMIEFOM/UMHEN - IYOKE  P/S, EWARE",12/09/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/35025/result_153813_1677706525_thumb.jpg,false
-EDO,ETSAKO  WEST,,"IGHUKU PRY SCH, AMAH - EKUOZOR CAMP",12/09/08/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/632984/result_153820_1677600343_thumb.jpg,false
-EDO,ETSAKO  WEST,,OPEN SPACE BY UGHELE/OARE PALACE QTRS,12/09/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/632982/result_153818_1677599764_thumb.jpg,false
-EDO,ETSAKO  WEST,,OPEN SPACE BY ALH ABDUL-MUMIN JUBRI QTRS IDEGUN,12/09/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/632981/result_153817_1677599014_thumb.jpg,false
-EDO,ETSAKO  WEST,,"AMAH/IGBO/ORIAFO - IGHUKU P/S,  AMAH II",12/09/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/35028/result_153816_1677598657_thumb.jpg,false
-EDO,ETSAKO  WEST,,"AMAH/IGBO/ORIAFO - IGHUKU  P/S, AMAH I",12/09/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/35027/result_153815_1677598291_thumb.jpg,false
-EDO,ETSAKO  WEST,,"IMIAMOBOR/IMIAIDA/UYAKI - IYOKE P/S,  EWARE",12/09/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/35026/result_153814_1677597693_thumb.jpg,false
-EDO,ETSAKO  WEST,,"IBHIOBA - IBHIOBA PRMARY SCHOOL,  IBHIOBA",12/09/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/35024/result_153812_1677596823_thumb.jpg,false
-EDO,ETSAKO  WEST,,"OTTEH/IGHIRA - OGIEMUDU  P/S, EWORA",12/09/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/35023/result_153811_1677596514_thumb.jpg,false
-EDO,ETSAKO  WEST,,"OVUGHU/ALIMOGIZA - OGIEMUDU  P/S, EWORA",12/09/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/35022/result_153810_1677595699_thumb.jpg,false
-EDO,ETSAKO  WEST,,OPEN SPACE UPPER AMAH AKPOLO/ IFELOA QTRS -,12/09/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/08/pu/012/012-1677419102.pdf,false
-EDO,ETSAKO  WEST,,IDEGUN/UKEPKO - AMAH - UNITY  P/S IDEGUN,12/09/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/08/pu/002/002-1677412925.pdf,false
+EDO,ETSAKO  WEST,ANWAIN,IDEGUN / UKPEKO - AMAH - UNITY P/S  IDEGUN,12/09/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/35020/result_153808_1677706636_thumb.jpg,false
+EDO,ETSAKO  WEST,ANWAIN,"IMIEFOM/UMHEN - IYOKE  P/S, EWARE",12/09/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/35025/result_153813_1677706525_thumb.jpg,false
+EDO,ETSAKO  WEST,ANWAIN,"IGHUKU PRY SCH, AMAH - EKUOZOR CAMP",12/09/08/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/632984/result_153820_1677600343_thumb.jpg,false
+EDO,ETSAKO  WEST,ANWAIN,OPEN SPACE BY UGHELE/OARE PALACE QTRS,12/09/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/632982/result_153818_1677599764_thumb.jpg,false
+EDO,ETSAKO  WEST,ANWAIN,OPEN SPACE BY ALH ABDUL-MUMIN JUBRI QTRS IDEGUN,12/09/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/632981/result_153817_1677599014_thumb.jpg,false
+EDO,ETSAKO  WEST,ANWAIN,"AMAH/IGBO/ORIAFO - IGHUKU P/S,  AMAH II",12/09/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/35028/result_153816_1677598657_thumb.jpg,false
+EDO,ETSAKO  WEST,ANWAIN,"AMAH/IGBO/ORIAFO - IGHUKU  P/S, AMAH I",12/09/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/35027/result_153815_1677598291_thumb.jpg,false
+EDO,ETSAKO  WEST,ANWAIN,"IMIAMOBOR/IMIAIDA/UYAKI - IYOKE P/S,  EWARE",12/09/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/35026/result_153814_1677597693_thumb.jpg,false
+EDO,ETSAKO  WEST,ANWAIN,"IBHIOBA - IBHIOBA PRMARY SCHOOL,  IBHIOBA",12/09/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/35024/result_153812_1677596823_thumb.jpg,false
+EDO,ETSAKO  WEST,ANWAIN,"OTTEH/IGHIRA - OGIEMUDU  P/S, EWORA",12/09/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/35023/result_153811_1677596514_thumb.jpg,false
+EDO,ETSAKO  WEST,ANWAIN,"OVUGHU/ALIMOGIZA - OGIEMUDU  P/S, EWORA",12/09/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/35022/result_153810_1677595699_thumb.jpg,false
+EDO,ETSAKO  WEST,ANWAIN,OPEN SPACE UPPER AMAH AKPOLO/ IFELOA QTRS -,12/09/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/08/pu/012/012-1677419102.pdf,false
+EDO,ETSAKO  WEST,ANWAIN,IDEGUN/UKEPKO - AMAH - UNITY  P/S IDEGUN,12/09/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/08/pu/002/002-1677412925.pdf,false

@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EDO,IGUEBEN,,"EBELLE, IDUMU-OWU P/S I",12/10/06/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/35109/result_153973_1677601003_thumb.jpg,false
-EDO,IGUEBEN,,"OPEN SPACE BY MAGISTRATE COURT, EBELLE",12/10/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/633203/result_153983_1677596430_thumb.jpg,false
-EDO,IGUEBEN,,"OLOGHE P/S II, OLOGHE",12/10/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/633202/result_153982_1677595880_thumb.jpg,false
-EDO,IGUEBEN,,"EBELLE, IDUMU-OWU P/S III",12/10/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/06/pu/003/003-1677406676.pdf,false
-EDO,IGUEBEN,,"EGUARE - EBELLE,  EGUARE P/S",12/10/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/06/pu/008/008-1677402034.pdf,false
-EDO,IGUEBEN,,"OKUTA, OKUTA P/S I",12/10/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/06/pu/005/005-1677401287.pdf,false
-EDO,IGUEBEN,,"OLOGHE, OLOGHE P/S",12/10/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/06/pu/007/007-1677400810.pdf,false
-EDO,IGUEBEN,,"OKUTA EBELLE COMMUNITY HALL, EBELLE",12/10/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/06/pu/009/009-1677400792.pdf,false
-EDO,IGUEBEN,,"EBELLE, IDUMU-OWU P/S II",12/10/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/06/pu/002/002-1677400595.pdf,false
-EDO,IGUEBEN,,"EBELLE, IDUMU-OWU P/S IV",12/10/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/06/pu/004/004-1677400077.pdf,false
-EDO,IGUEBEN,,"OKUTA, OKUTA P/S II",12/10/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/06/pu/006/006-1677395259.pdf,false
-EDO,IGUEBEN,,"OPEN SPACE BY ABATTOIR NEAR MARKET, EBELLE",12/10/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/06/pu/012/012-1677394819.pdf,false
+EDO,IGUEBEN,OWU/ OKUTA/ EGUARE EBELLE,"EBELLE, IDUMU-OWU P/S I",12/10/06/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/35109/result_153973_1677601003_thumb.jpg,false
+EDO,IGUEBEN,OWU/ OKUTA/ EGUARE EBELLE,"OPEN SPACE BY MAGISTRATE COURT, EBELLE",12/10/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/633203/result_153983_1677596430_thumb.jpg,false
+EDO,IGUEBEN,OWU/ OKUTA/ EGUARE EBELLE,"OLOGHE P/S II, OLOGHE",12/10/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/633202/result_153982_1677595880_thumb.jpg,false
+EDO,IGUEBEN,OWU/ OKUTA/ EGUARE EBELLE,"EBELLE, IDUMU-OWU P/S III",12/10/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/06/pu/003/003-1677406676.pdf,false
+EDO,IGUEBEN,OWU/ OKUTA/ EGUARE EBELLE,"EGUARE - EBELLE,  EGUARE P/S",12/10/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/06/pu/008/008-1677402034.pdf,false
+EDO,IGUEBEN,OWU/ OKUTA/ EGUARE EBELLE,"OKUTA, OKUTA P/S I",12/10/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/06/pu/005/005-1677401287.pdf,false
+EDO,IGUEBEN,OWU/ OKUTA/ EGUARE EBELLE,"OLOGHE, OLOGHE P/S",12/10/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/06/pu/007/007-1677400810.pdf,false
+EDO,IGUEBEN,OWU/ OKUTA/ EGUARE EBELLE,"OKUTA EBELLE COMMUNITY HALL, EBELLE",12/10/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/06/pu/009/009-1677400792.pdf,false
+EDO,IGUEBEN,OWU/ OKUTA/ EGUARE EBELLE,"EBELLE, IDUMU-OWU P/S II",12/10/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/06/pu/002/002-1677400595.pdf,false
+EDO,IGUEBEN,OWU/ OKUTA/ EGUARE EBELLE,"EBELLE, IDUMU-OWU P/S IV",12/10/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/06/pu/004/004-1677400077.pdf,false
+EDO,IGUEBEN,OWU/ OKUTA/ EGUARE EBELLE,"OKUTA, OKUTA P/S II",12/10/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/06/pu/006/006-1677395259.pdf,false
+EDO,IGUEBEN,OWU/ OKUTA/ EGUARE EBELLE,"OPEN SPACE BY ABATTOIR NEAR MARKET, EBELLE",12/10/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/06/pu/012/012-1677394819.pdf,false

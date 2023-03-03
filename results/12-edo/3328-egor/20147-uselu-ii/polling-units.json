@@ -26,6 +26,7 @@
     "pu_code_string": "120208003",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": true,
       "status": 1,
@@ -81,6 +82,7 @@
     "pu_code_string": "120208002",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": true,
       "status": 1,
@@ -136,6 +138,7 @@
     "pu_code_string": "120208005",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": true,
       "status": 1,
@@ -191,6 +194,7 @@
     "pu_code_string": "120208007",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": true,
       "status": 1,
@@ -246,6 +250,7 @@
     "pu_code_string": "120208006",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": true,
       "status": 1,
@@ -301,6 +306,7 @@
     "pu_code_string": "120208004",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": true,
       "status": 1,
@@ -356,6 +362,7 @@
     "pu_code_string": "120208001",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": true,
       "status": 1,
@@ -427,6 +434,7 @@
     "pu_code_string": "120208024",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": true,
       "status": 1,
@@ -498,6 +506,7 @@
     "pu_code_string": "120208052",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -536,6 +545,7 @@
     "pu_code_string": "120208039",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -574,6 +584,7 @@
     "pu_code_string": "120208027",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -612,6 +623,7 @@
     "pu_code_string": "120208018",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -650,6 +662,7 @@
     "pu_code_string": "120208032",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -688,6 +701,7 @@
     "pu_code_string": "120208030",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -726,6 +740,7 @@
     "pu_code_string": "120208020",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -764,6 +779,7 @@
     "pu_code_string": "120208043",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -802,6 +818,7 @@
     "pu_code_string": "120208009",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -840,6 +857,7 @@
     "pu_code_string": "120208008",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -878,6 +896,7 @@
     "pu_code_string": "120208044",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -916,6 +935,7 @@
     "pu_code_string": "120208042",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -954,6 +974,7 @@
     "pu_code_string": "120208050",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -992,6 +1013,7 @@
     "pu_code_string": "120208040",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -1030,6 +1052,7 @@
     "pu_code_string": "120208038",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -1068,6 +1091,7 @@
     "pu_code_string": "120208037",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -1106,6 +1130,7 @@
     "pu_code_string": "120208036",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -1144,6 +1169,7 @@
     "pu_code_string": "120208026",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -1182,6 +1208,7 @@
     "pu_code_string": "120208023",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -1220,6 +1247,7 @@
     "pu_code_string": "120208025",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -1258,6 +1286,7 @@
     "pu_code_string": "120208015",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -1296,6 +1325,7 @@
     "pu_code_string": "120208029",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -1334,6 +1364,7 @@
     "pu_code_string": "120208014",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -1372,6 +1403,7 @@
     "pu_code_string": "120208047",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -1410,6 +1442,7 @@
     "pu_code_string": "120208045",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -1448,6 +1481,7 @@
     "pu_code_string": "120208046",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -1486,6 +1520,7 @@
     "pu_code_string": "120208053",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -1524,6 +1559,7 @@
     "pu_code_string": "120208017",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -1562,6 +1598,7 @@
     "pu_code_string": "120208013",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -1600,6 +1637,7 @@
     "pu_code_string": "120208049",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -1638,6 +1676,7 @@
     "pu_code_string": "120208022",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -1676,6 +1715,7 @@
     "pu_code_string": "120208011",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -1714,6 +1754,7 @@
     "pu_code_string": "120208010",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -1752,6 +1793,7 @@
     "pu_code_string": "120208041",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -1790,6 +1832,7 @@
     "pu_code_string": "120208016",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -1828,6 +1871,7 @@
     "pu_code_string": "120208034",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -1866,6 +1910,7 @@
     "pu_code_string": "120208031",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -1904,6 +1949,7 @@
     "pu_code_string": "120208035",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -1942,6 +1988,7 @@
     "pu_code_string": "120208048",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -1980,6 +2027,7 @@
     "pu_code_string": "120208028",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -2018,6 +2066,7 @@
     "pu_code_string": "120208051",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -2056,6 +2105,7 @@
     "pu_code_string": "120208012",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -2094,6 +2144,7 @@
     "pu_code_string": "120208019",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -2132,6 +2183,7 @@
     "pu_code_string": "120208033",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,
@@ -2170,6 +2222,7 @@
     "pu_code_string": "120208021",
     "state_name": "EDO",
     "lga_name": "EGOR",
+    "ward_name": "USELU II",
     "document": {
       "external": false,
       "status": 1,

@@ -26,6 +26,7 @@
     "pu_code_string": "121701001",
     "state_name": "EDO",
     "lga_name": "OWAN WEST",
+    "ward_name": "OZALLA",
     "document": {
       "external": true,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "121701006",
     "state_name": "EDO",
     "lga_name": "OWAN WEST",
+    "ward_name": "OZALLA",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "121701004",
     "state_name": "EDO",
     "lga_name": "OWAN WEST",
+    "ward_name": "OZALLA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -132,6 +135,7 @@
     "pu_code_string": "121701009",
     "state_name": "EDO",
     "lga_name": "OWAN WEST",
+    "ward_name": "OZALLA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -162,6 +166,7 @@
     "pu_code_string": "121701003",
     "state_name": "EDO",
     "lga_name": "OWAN WEST",
+    "ward_name": "OZALLA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -192,6 +197,7 @@
     "pu_code_string": "121701002",
     "state_name": "EDO",
     "lga_name": "OWAN WEST",
+    "ward_name": "OZALLA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -222,6 +228,7 @@
     "pu_code_string": "121701008",
     "state_name": "EDO",
     "lga_name": "OWAN WEST",
+    "ward_name": "OZALLA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -252,6 +259,7 @@
     "pu_code_string": "121701007",
     "state_name": "EDO",
     "lga_name": "OWAN WEST",
+    "ward_name": "OZALLA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -282,6 +290,7 @@
     "pu_code_string": "121701005",
     "state_name": "EDO",
     "lga_name": "OWAN WEST",
+    "ward_name": "OZALLA",
     "old_documents": [],
     "has_old_documents": false
   }

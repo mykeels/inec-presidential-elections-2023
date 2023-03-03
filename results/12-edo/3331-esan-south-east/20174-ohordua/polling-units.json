@@ -26,6 +26,7 @@
     "pu_code_string": "120504008",
     "state_name": "EDO",
     "lga_name": "ESAN SOUTH EAST",
+    "ward_name": "OHORDUA",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "120504005",
     "state_name": "EDO",
     "lga_name": "ESAN SOUTH EAST",
+    "ward_name": "OHORDUA",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "120504003",
     "state_name": "EDO",
     "lga_name": "ESAN SOUTH EAST",
+    "ward_name": "OHORDUA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -132,6 +135,7 @@
     "pu_code_string": "120504010",
     "state_name": "EDO",
     "lga_name": "ESAN SOUTH EAST",
+    "ward_name": "OHORDUA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -162,6 +166,7 @@
     "pu_code_string": "120504001",
     "state_name": "EDO",
     "lga_name": "ESAN SOUTH EAST",
+    "ward_name": "OHORDUA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -192,6 +197,7 @@
     "pu_code_string": "120504006",
     "state_name": "EDO",
     "lga_name": "ESAN SOUTH EAST",
+    "ward_name": "OHORDUA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -222,6 +228,7 @@
     "pu_code_string": "120504011",
     "state_name": "EDO",
     "lga_name": "ESAN SOUTH EAST",
+    "ward_name": "OHORDUA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -252,6 +259,7 @@
     "pu_code_string": "120504004",
     "state_name": "EDO",
     "lga_name": "ESAN SOUTH EAST",
+    "ward_name": "OHORDUA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -282,6 +290,7 @@
     "pu_code_string": "120504009",
     "state_name": "EDO",
     "lga_name": "ESAN SOUTH EAST",
+    "ward_name": "OHORDUA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -312,6 +321,7 @@
     "pu_code_string": "120504002",
     "state_name": "EDO",
     "lga_name": "ESAN SOUTH EAST",
+    "ward_name": "OHORDUA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -342,6 +352,7 @@
     "pu_code_string": "120504007",
     "state_name": "EDO",
     "lga_name": "ESAN SOUTH EAST",
+    "ward_name": "OHORDUA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -372,6 +383,7 @@
     "pu_code_string": "120504012",
     "state_name": "EDO",
     "lga_name": "ESAN SOUTH EAST",
+    "ward_name": "OHORDUA",
     "old_documents": [],
     "has_old_documents": false
   }

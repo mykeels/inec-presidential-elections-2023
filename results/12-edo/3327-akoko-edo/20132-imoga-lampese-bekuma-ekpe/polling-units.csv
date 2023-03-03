@@ -1,21 +1,21 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EDO,AKOKO EDO,,"LAMPESE,  AFORO QRTS.",12/01/03/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-EDO,AKOKO EDO,,"IMOGA,  LEPPER SETTLEMENT",12/01/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/009/009-1677425951.pdf,false
-EDO,AKOKO EDO,,"IMOGA, IMOGA PRIMARY SCHOOL",12/01/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/010/010-1677424688.pdf,false
-EDO,AKOKO EDO,,"LAMPESE, UKILEKPE P.S.",12/01/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/002/002-1677423762.pdf,false
-EDO,AKOKO EDO,,"IMOGA,  BY CHIEF OBANILU'S COMP.",12/01/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/011/011-1677423524.pdf,false
-EDO,AKOKO EDO,,"LAMPESE, BY OLORIEGBE COMP.",12/01/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/006/006-1677422302.pdf,false
-EDO,AKOKO EDO,,"ELEKPI, BY CHIEF OKONDON",12/01/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/007/007-1677421079.pdf,false
-EDO,AKOKO EDO,,"LAMPESE IKPAKUMU, HALLELUJAH OPEN SPACE",12/01/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/015/015-1677419833.pdf,false
-EDO,AKOKO EDO,,"EKPE, BY DISPENSARY",12/01/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/013/013-1677419639.pdf,false
-EDO,AKOKO EDO,,"EKPE, KEKPUME P.S",12/01/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/012/012-1677408433.pdf,false
-EDO,AKOKO EDO,,"IMOGA, UMAR P/S",12/01/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/008/008-1677407508.pdf,false
-EDO,AKOKO EDO,,"LAMPESE, LAMPESE MKT. SQ.",12/01/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/001/001-1677406145.pdf,false
-EDO,AKOKO EDO,,"LAMPESE,  AFORO QTRS",12/01/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/004/004-1677417077.pdf,false
-EDO,AKOKO EDO,,"OPEN SPACE BY IMOGA, LAWANSON.",12/01/03/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/020/020-1677416210.pdf,false
-EDO,AKOKO EDO,,"LAMPESE, CHIEF UDUZELI'S OPEN SPACE",12/01/03/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/016/016-1677415075.pdf,false
-EDO,AKOKO EDO,,"LAMPESE, UKE P/S.",12/01/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/005/005-1677413860.pdf,false
-EDO,AKOKO EDO,,"EKPE,  AHOR P/S.",12/01/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/014/014-1677412918.pdf,false
-EDO,AKOKO EDO,,"OPEN SPACE, IMOGA OLD MARKET",12/01/03/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/019/019-1677412185.pdf,false
-EDO,AKOKO EDO,,"LAMPESE, IZAZI QUARTERS OPEN SPACE",12/01/03/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/017/017-1677411056.pdf,false
-EDO,AKOKO EDO,,"IMOGA, OKUTU PRIMARY SCHOOL",12/01/03/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/018/018-1677404985.pdf,false
+EDO,AKOKO EDO,IMOGA/ LAMPESE/ BEKUMA/ EKPE,"LAMPESE,  AFORO QRTS.",12/01/03/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+EDO,AKOKO EDO,IMOGA/ LAMPESE/ BEKUMA/ EKPE,"IMOGA,  LEPPER SETTLEMENT",12/01/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/009/009-1677425951.pdf,false
+EDO,AKOKO EDO,IMOGA/ LAMPESE/ BEKUMA/ EKPE,"IMOGA, IMOGA PRIMARY SCHOOL",12/01/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/010/010-1677424688.pdf,false
+EDO,AKOKO EDO,IMOGA/ LAMPESE/ BEKUMA/ EKPE,"LAMPESE, UKILEKPE P.S.",12/01/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/002/002-1677423762.pdf,false
+EDO,AKOKO EDO,IMOGA/ LAMPESE/ BEKUMA/ EKPE,"IMOGA,  BY CHIEF OBANILU'S COMP.",12/01/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/011/011-1677423524.pdf,false
+EDO,AKOKO EDO,IMOGA/ LAMPESE/ BEKUMA/ EKPE,"LAMPESE, BY OLORIEGBE COMP.",12/01/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/006/006-1677422302.pdf,false
+EDO,AKOKO EDO,IMOGA/ LAMPESE/ BEKUMA/ EKPE,"ELEKPI, BY CHIEF OKONDON",12/01/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/007/007-1677421079.pdf,false
+EDO,AKOKO EDO,IMOGA/ LAMPESE/ BEKUMA/ EKPE,"LAMPESE IKPAKUMU, HALLELUJAH OPEN SPACE",12/01/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/015/015-1677419833.pdf,false
+EDO,AKOKO EDO,IMOGA/ LAMPESE/ BEKUMA/ EKPE,"EKPE, BY DISPENSARY",12/01/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/013/013-1677419639.pdf,false
+EDO,AKOKO EDO,IMOGA/ LAMPESE/ BEKUMA/ EKPE,"EKPE, KEKPUME P.S",12/01/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/012/012-1677408433.pdf,false
+EDO,AKOKO EDO,IMOGA/ LAMPESE/ BEKUMA/ EKPE,"IMOGA, UMAR P/S",12/01/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/008/008-1677407508.pdf,false
+EDO,AKOKO EDO,IMOGA/ LAMPESE/ BEKUMA/ EKPE,"LAMPESE, LAMPESE MKT. SQ.",12/01/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/001/001-1677406145.pdf,false
+EDO,AKOKO EDO,IMOGA/ LAMPESE/ BEKUMA/ EKPE,"LAMPESE,  AFORO QTRS",12/01/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/004/004-1677417077.pdf,false
+EDO,AKOKO EDO,IMOGA/ LAMPESE/ BEKUMA/ EKPE,"OPEN SPACE BY IMOGA, LAWANSON.",12/01/03/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/020/020-1677416210.pdf,false
+EDO,AKOKO EDO,IMOGA/ LAMPESE/ BEKUMA/ EKPE,"LAMPESE, CHIEF UDUZELI'S OPEN SPACE",12/01/03/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/016/016-1677415075.pdf,false
+EDO,AKOKO EDO,IMOGA/ LAMPESE/ BEKUMA/ EKPE,"LAMPESE, UKE P/S.",12/01/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/005/005-1677413860.pdf,false
+EDO,AKOKO EDO,IMOGA/ LAMPESE/ BEKUMA/ EKPE,"EKPE,  AHOR P/S.",12/01/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/014/014-1677412918.pdf,false
+EDO,AKOKO EDO,IMOGA/ LAMPESE/ BEKUMA/ EKPE,"OPEN SPACE, IMOGA OLD MARKET",12/01/03/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/019/019-1677412185.pdf,false
+EDO,AKOKO EDO,IMOGA/ LAMPESE/ BEKUMA/ EKPE,"LAMPESE, IZAZI QUARTERS OPEN SPACE",12/01/03/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/017/017-1677411056.pdf,false
+EDO,AKOKO EDO,IMOGA/ LAMPESE/ BEKUMA/ EKPE,"IMOGA, OKUTU PRIMARY SCHOOL",12/01/03/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/018/018-1677404985.pdf,false

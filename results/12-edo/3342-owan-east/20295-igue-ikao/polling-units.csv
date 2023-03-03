@@ -1,17 +1,17 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EDO,OWAN EAST,,"UTHO VILLAGE SQUAR,  IKAO I",12/16/06/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/36361/result_156132_1677669801_thumb.jpg,false
-EDO,OWAN EAST,,"SADIKU IGBIRA CAMP,  IGUE-OKE",12/16/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/002/002-1677412234.pdf,false
-EDO,OWAN EAST,,IGUE SALE SECONDARY SCHOOL IGUE SALE,12/16/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/015/015-1677410393.pdf,false
-EDO,OWAN EAST,,"INUMAI PRIMARY SCHOOL,  IKAO  I",12/16/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/007/007-1677400641.pdf,false
-EDO,OWAN EAST,,IGBIRA CAMP IGUE - SALE II,12/16/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/016/016-1677397576.pdf,false
-EDO,OWAN EAST,,"EWEYA P/SCHOOL,  IGUE-SALE",12/16/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/004/004-1677394641.pdf,false
-EDO,OWAN EAST,,"INUMAI PRIMARY SCHOOL,  IKAO    III",12/16/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/009/009-1677394284.pdf,false
-EDO,OWAN EAST,,"IGBIRA CAMP,  IGUE-SALE",12/16/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/014/014-1677392426.pdf,false
-EDO,OWAN EAST,,"UTHO VILLAGE SQUARE,  IKAO II",12/16/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/013/013-1677392041.pdf,false
-EDO,OWAN EAST,,"IGBIRA CAMP,  IGUE-SALE",12/16/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/006/006-1677391885.pdf,false
-EDO,OWAN EAST,,"INUMAI PRIMARY SCHOOL,  IKAO   II",12/16/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/008/008-1677391592.pdf,false
-EDO,OWAN EAST,,"ANAMA P/SCHOOL,  IGUE-OKE",12/16/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/001/001-1677391468.pdf,false
-EDO,OWAN EAST,,"MARKET SQUARE,  IGUE-SALE",12/16/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/005/005-1677390800.pdf,false
-EDO,OWAN EAST,,"INUMAI PRIMARY SCHOO, L IKAO     IV",12/16/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/010/010-1677389953.pdf,false
-EDO,OWAN EAST,,"ATEMONOKHAI PRIMARY SCHOOL,  IKAO",12/16/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/011/011-1677388546.pdf,false
-EDO,OWAN EAST,,"NEAR COCOA STORE,  IGUE-OKE",12/16/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/003/003-1677378017.pdf,false
+EDO,OWAN EAST,IGUE/IKAO,"UTHO VILLAGE SQUAR,  IKAO I",12/16/06/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/36361/result_156132_1677669801_thumb.jpg,false
+EDO,OWAN EAST,IGUE/IKAO,"SADIKU IGBIRA CAMP,  IGUE-OKE",12/16/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/002/002-1677412234.pdf,false
+EDO,OWAN EAST,IGUE/IKAO,IGUE SALE SECONDARY SCHOOL IGUE SALE,12/16/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/015/015-1677410393.pdf,false
+EDO,OWAN EAST,IGUE/IKAO,"INUMAI PRIMARY SCHOOL,  IKAO  I",12/16/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/007/007-1677400641.pdf,false
+EDO,OWAN EAST,IGUE/IKAO,IGBIRA CAMP IGUE - SALE II,12/16/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/016/016-1677397576.pdf,false
+EDO,OWAN EAST,IGUE/IKAO,"EWEYA P/SCHOOL,  IGUE-SALE",12/16/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/004/004-1677394641.pdf,false
+EDO,OWAN EAST,IGUE/IKAO,"INUMAI PRIMARY SCHOOL,  IKAO    III",12/16/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/009/009-1677394284.pdf,false
+EDO,OWAN EAST,IGUE/IKAO,"IGBIRA CAMP,  IGUE-SALE",12/16/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/014/014-1677392426.pdf,false
+EDO,OWAN EAST,IGUE/IKAO,"UTHO VILLAGE SQUARE,  IKAO II",12/16/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/013/013-1677392041.pdf,false
+EDO,OWAN EAST,IGUE/IKAO,"IGBIRA CAMP,  IGUE-SALE",12/16/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/006/006-1677391885.pdf,false
+EDO,OWAN EAST,IGUE/IKAO,"INUMAI PRIMARY SCHOOL,  IKAO   II",12/16/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/008/008-1677391592.pdf,false
+EDO,OWAN EAST,IGUE/IKAO,"ANAMA P/SCHOOL,  IGUE-OKE",12/16/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/001/001-1677391468.pdf,false
+EDO,OWAN EAST,IGUE/IKAO,"MARKET SQUARE,  IGUE-SALE",12/16/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/005/005-1677390800.pdf,false
+EDO,OWAN EAST,IGUE/IKAO,"INUMAI PRIMARY SCHOO, L IKAO     IV",12/16/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/010/010-1677389953.pdf,false
+EDO,OWAN EAST,IGUE/IKAO,"ATEMONOKHAI PRIMARY SCHOOL,  IKAO",12/16/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/011/011-1677388546.pdf,false
+EDO,OWAN EAST,IGUE/IKAO,"NEAR COCOA STORE,  IGUE-OKE",12/16/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/003/003-1677378017.pdf,false

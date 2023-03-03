@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EDO,ESAN SOUTH EAST,,IDUMU - IYASELE/ ID UROMI- IYASELE PRY SCHOOL II,12/05/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/632745/result_153021_1677686132_thumb.jpg,false
-EDO,ESAN SOUTH EAST,,EGUA-OLIHA I/EGUA  II/IDUMOBO/UHOMOEBHO- UHOMOEBHO PRIMARY SCHOOL,12/05/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/008/008-1677372848.pdf,false
-EDO,ESAN SOUTH EAST,,ID. AGBOR/OGBOKPA-ID AGBOR PRI. SCHOOL,12/05/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/007/007-1677372747.pdf,false
-EDO,ESAN SOUTH EAST,,IDINWE I/II - IDINWE PRI. SCHOOL,12/05/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/006/006-1677371921.pdf,false
-EDO,ESAN SOUTH EAST,,IDUMU-IYASELE/ID. UROMI-ID. IYASELE PRI. SCHOOL,12/05/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/004/004-1677371905.pdf,false
-EDO,ESAN SOUTH EAST,,IDINSELU/IDINEGBON-EGUARE PRI/SCHOOL I,12/05/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/002/002-1677371103.pdf,false
-EDO,ESAN SOUTH EAST,,"IDUMUAHU - IDUMU-AHU TOWN HALL, UHOMHOEBHO",12/05/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/012/012-1677370821.pdf,false
-EDO,ESAN SOUTH EAST,,UWABHURU/ABHURU/KWALE CAMP-ABHURU PR.SCH,12/05/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/005/005-1677370383.pdf,false
-EDO,ESAN SOUTH EAST,,OKPO/IKHEKHE - UHOMOEBHO PRIMARY SCHOOL,12/05/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/009/009-1677368141.pdf,false
-EDO,ESAN SOUTH EAST,,IDINSELU/IDINEGBON - EGUARE PRI. SCHOOL II,12/05/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/003/003-1677367561.pdf,false
-EDO,ESAN SOUTH EAST,,EGUARE/IDUMIJIE-EGUARE P/SCHOOL,12/05/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/001/001-1677366004.pdf,false
-EDO,ESAN SOUTH EAST,,IDUMAN/ID. EKA - EWATTO GRAMM. SCHOOL,12/05/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/010/010-1677363982.pdf,false
+EDO,ESAN SOUTH EAST,EWATTO,IDUMU - IYASELE/ ID UROMI- IYASELE PRY SCHOOL II,12/05/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/632745/result_153021_1677686132_thumb.jpg,false
+EDO,ESAN SOUTH EAST,EWATTO,EGUA-OLIHA I/EGUA  II/IDUMOBO/UHOMOEBHO- UHOMOEBHO PRIMARY SCHOOL,12/05/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/008/008-1677372848.pdf,false
+EDO,ESAN SOUTH EAST,EWATTO,ID. AGBOR/OGBOKPA-ID AGBOR PRI. SCHOOL,12/05/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/007/007-1677372747.pdf,false
+EDO,ESAN SOUTH EAST,EWATTO,IDINWE I/II - IDINWE PRI. SCHOOL,12/05/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/006/006-1677371921.pdf,false
+EDO,ESAN SOUTH EAST,EWATTO,IDUMU-IYASELE/ID. UROMI-ID. IYASELE PRI. SCHOOL,12/05/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/004/004-1677371905.pdf,false
+EDO,ESAN SOUTH EAST,EWATTO,IDINSELU/IDINEGBON-EGUARE PRI/SCHOOL I,12/05/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/002/002-1677371103.pdf,false
+EDO,ESAN SOUTH EAST,EWATTO,"IDUMUAHU - IDUMU-AHU TOWN HALL, UHOMHOEBHO",12/05/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/012/012-1677370821.pdf,false
+EDO,ESAN SOUTH EAST,EWATTO,UWABHURU/ABHURU/KWALE CAMP-ABHURU PR.SCH,12/05/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/005/005-1677370383.pdf,false
+EDO,ESAN SOUTH EAST,EWATTO,OKPO/IKHEKHE - UHOMOEBHO PRIMARY SCHOOL,12/05/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/009/009-1677368141.pdf,false
+EDO,ESAN SOUTH EAST,EWATTO,IDINSELU/IDINEGBON - EGUARE PRI. SCHOOL II,12/05/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/003/003-1677367561.pdf,false
+EDO,ESAN SOUTH EAST,EWATTO,EGUARE/IDUMIJIE-EGUARE P/SCHOOL,12/05/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/001/001-1677366004.pdf,false
+EDO,ESAN SOUTH EAST,EWATTO,IDUMAN/ID. EKA - EWATTO GRAMM. SCHOOL,12/05/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/010/010-1677363982.pdf,false
