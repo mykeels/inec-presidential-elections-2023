@@ -1,0 +1,36 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+NASARAWA,LAFIA,AGYARAGUN TOFA,BUKAN ASHARA,25/08/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3635/ward/23603/pu/86808/86808-1677774476.pdf,true
+NASARAWA,LAFIA,AGYARAGUN TOFA,BUKAR TAMBARI,25/08/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3635/ward/23603/pu/86796/86796-1677769171.pdf,true
+NASARAWA,LAFIA,AGYARAGUN TOFA,UNG. DANJUMA,25/08/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3635/ward/23603/pu/86798/86798-1677768953.pdf,true
+NASARAWA,LAFIA,AGYARAGUN TOFA,KAYARDA  KOFAR SARKI,25/08/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3635/ward/23603/pu/86810/86810-1677768787.pdf,true
+NASARAWA,LAFIA,AGYARAGUN TOFA,MADAGWA WATTA,25/08/02/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3635/ward/23603/pu/86812/86812-1677768607.pdf,true
+NASARAWA,LAFIA,AGYARAGUN TOFA,UNG. ALH. YAKUBU I,25/08/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3635/ward/23603/pu/86801/86801-1677768305.pdf,true
+NASARAWA,LAFIA,AGYARAGUN TOFA,BUKAR MAGAYAKI,25/08/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3635/ward/23603/pu/86797/86797-1677768153.pdf,true
+NASARAWA,LAFIA,AGYARAGUN TOFA,UNG. UBANDOMA,25/08/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3635/ward/23603/pu/86800/86800-1677767925.pdf,true
+NASARAWA,LAFIA,AGYARAGUN TOFA,UNG.ALH.YAHAYA,25/08/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3635/ward/23603/pu/86804/86804-1677767165.pdf,true
+NASARAWA,LAFIA,AGYARAGUN TOFA,UNG. ALH. YAKUBU - OP,25/08/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3635/ward/23603/pu/86803/86803-1677766885.pdf,true
+NASARAWA,LAFIA,AGYARAGUN TOFA,UNG. ALH. YAKUBU II,25/08/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3635/ward/23603/pu/86802/86802-1677766680.pdf,true
+NASARAWA,LAFIA,AGYARAGUN TOFA,TUDUN WADA,25/08/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3635/ward/23603/pu/86809/86809-1677766362.pdf,true
+NASARAWA,LAFIA,AGYARAGUN TOFA,BUKAN ALLU - OP,25/08/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3635/ward/23603/pu/86807/86807-1677765981.pdf,true
+NASARAWA,LAFIA,AGYARAGUN TOFA,BUKAN BURGA,25/08/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3635/ward/23603/pu/86806/86806-1677765268.pdf,true
+NASARAWA,LAFIA,AGYARAGUN TOFA,UNG. ALH. SAIDU,25/08/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3635/ward/23603/pu/86811/86811-1677764909.pdf,true
+NASARAWA,LAFIA,AGYARAGUN TOFA,BUKAN BUZU,25/08/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3635/ward/23603/pu/86805/86805-1677764633.pdf,true
+NASARAWA,LAFIA,AGYARAGUN TOFA,UNG. UBANDOMA,25/08/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85710/result_43569_1677501928_thumb.jpg,true
+NASARAWA,LAFIA,AGYARAGUN TOFA,K/KALACI,25/08/02/029,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/657462/result_43594_1677503611_thumb.jpg,false
+NASARAWA,LAFIA,AGYARAGUN TOFA,K/WAZIRI (OP),25/08/02/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/657459/result_43591_1677497056_thumb.jpg,false
+NASARAWA,LAFIA,AGYARAGUN TOFA,MARARABA KAYARDA - OP,25/08/02/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85727/result_43586_1677498628_thumb.jpg,false
+NASARAWA,LAFIA,AGYARAGUN TOFA,KAYARDA (VIEWING CENTRE),25/08/02/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85729/result_43588_1677500659_thumb.jpg,false
+NASARAWA,LAFIA,AGYARAGUN TOFA,UNG. PAMPO (OP),25/08/02/031,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/657464/result_43596_1677503696_thumb.jpg,false
+NASARAWA,LAFIA,AGYARAGUN TOFA,TUDUN OKPU - OP,25/08/02/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85728/result_43587_1677499097_thumb.jpg,false
+NASARAWA,LAFIA,AGYARAGUN TOFA,KOFAR PAMA,25/08/02/033,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/657466/result_43598_1677504011_thumb.jpg,false
+NASARAWA,LAFIA,AGYARAGUN TOFA,KOFAR SARKI II,25/08/02/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85726/result_43585_1677500857_thumb.jpg,false
+NASARAWA,LAFIA,AGYARAGUN TOFA,SABON KAYARDA,25/08/02/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85724/result_43583_1677500356_thumb.jpg,false
+NASARAWA,LAFIA,AGYARAGUN TOFA,TUDUN ABOSHON - OP,25/08/02/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85730/result_43589_1677496045_thumb.jpg,false
+NASARAWA,LAFIA,AGYARAGUN TOFA,LGEA PRIM. SCH. TUDUN WADA,25/08/02/035,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/657468/result_43600_1677502838_thumb.jpg,false
+NASARAWA,LAFIA,AGYARAGUN TOFA,K/LAMBA,25/08/02/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/657461/result_43593_1677503805_thumb.jpg,false
+NASARAWA,LAFIA,AGYARAGUN TOFA,LGEA PRIM. SCH. KAYARDA,25/08/02/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/657467/result_43599_1677502562_thumb.jpg,false
+NASARAWA,LAFIA,AGYARAGUN TOFA,LGEA PRIM. SCH. AGYARAGU,25/08/02/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/657463/result_43595_1677502720_thumb.jpg,false
+NASARAWA,LAFIA,AGYARAGUN TOFA,KOFAR SARKI I,25/08/02/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85725/result_43584_1677500075_thumb.jpg,false
+NASARAWA,LAFIA,AGYARAGUN TOFA,KOFAR ASIRI,25/08/02/032,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/657465/result_43597_1677503109_thumb.jpg,false
+NASARAWA,LAFIA,AGYARAGUN TOFA,GJSS BUKAN TAMBARI,25/08/02/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/657458/result_43590_1677495311_thumb.jpg,true
+NASARAWA,LAFIA,AGYARAGUN TOFA,EGUSI MARKET,25/08/02/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/657460/result_43592_1677495820_thumb.jpg,true

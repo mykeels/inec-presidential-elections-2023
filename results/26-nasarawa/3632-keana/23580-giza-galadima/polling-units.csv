@@ -1,0 +1,11 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+NASARAWA,KEANA,GIZA GALADIMA,KOFAN SARKI UMARU,25/05/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85510/result_43121_1677524246_thumb.jpg,true
+NASARAWA,KEANA,GIZA GALADIMA,KOFAN SARKI ORUME,25/05/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,true
+NASARAWA,KEANA,GIZA GALADIMA,"LGEA PRIMARY SCHOOL, KPALEV",25/05/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3632/ward/23580/pu/86606/86606-1677526130.pdf,false
+NASARAWA,KEANA,GIZA GALADIMA,KOFAN ISEKE,25/05/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3632/ward/23580/pu/86600/86600-1677525815.pdf,false
+NASARAWA,KEANA,GIZA GALADIMA,KOFAN MADAKI  AGBO,25/05/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/003/003-1677424635.pdf,false
+NASARAWA,KEANA,GIZA GALADIMA,KOFAN MAMMAN,25/05/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/005/005-1677416612.pdf,false
+NASARAWA,KEANA,GIZA GALADIMA,KOFAN ALH ABDUL OP,25/05/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/009/009-1677412940.pdf,false
+NASARAWA,KEANA,GIZA GALADIMA,LGEA PRIMARY SCHOOL GIZA WEST (A),25/05/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/006/006-1677411997.pdf,false
+NASARAWA,KEANA,GIZA GALADIMA,LGEA PRIMARY SCHOOL GIZA WEST (B),25/05/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/007/007-1677406998.pdf,false
+NASARAWA,KEANA,GIZA GALADIMA,LGEA PRIMARY SCHOOL GIZA WEST (C),25/05/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/010/010-1677391447.pdf,false

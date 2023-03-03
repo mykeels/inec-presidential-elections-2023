@@ -1,0 +1,13 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+NASARAWA,AKWANGA,NINGO / BOHAR,BOHAR SARKI,25/01/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3628/ward/23539/pu/86159/86159-1677607174.pdf,true
+NASARAWA,AKWANGA,NINGO / BOHAR,KACHUNGBO PLAY GROUND,25/01/11/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/656502/result_42116_1677579316_thumb.jpg,false
+NASARAWA,AKWANGA,NINGO / BOHAR,NGACHE,25/01/11/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85094/result_42113_1677578535_thumb.jpg,false
+NASARAWA,AKWANGA,NINGO / BOHAR,NINGO SEMBE,25/01/11/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/656503/result_42117_1677579465_thumb.jpg,false
+NASARAWA,AKWANGA,NINGO / BOHAR,NGAMBRE,25/01/11/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85093/result_42112_1677578209_thumb.jpg,false
+NASARAWA,AKWANGA,NINGO / BOHAR,NGAH NGUN PLAY GROUND,25/01/11/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/656501/result_42115_1677579140_thumb.jpg,false
+NASARAWA,AKWANGA,NINGO / BOHAR,GBUZU PLAY GROUND,25/01/11/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/656507/result_42121_1677580133_thumb.jpg,false
+NASARAWA,AKWANGA,NINGO / BOHAR,NINGO,25/01/11/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85091/result_42110_1677577192_thumb.jpg,false
+NASARAWA,AKWANGA,NINGO / BOHAR,NGA-DAMESHI (OP),25/01/11/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/656504/result_42118_1677579620_thumb.jpg,false
+NASARAWA,AKWANGA,NINGO / BOHAR,TABU,25/01/11/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85092/result_42111_1677577885_thumb.jpg,false
+NASARAWA,AKWANGA,NINGO / BOHAR,NGRE PLAY GROUND,25/01/11/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/656506/result_42120_1677579973_thumb.jpg,false
+NASARAWA,AKWANGA,NINGO / BOHAR,KOFAR MAIANGWAN NGA RUWA,25/01/11/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/656505/result_42119_1677579808_thumb.jpg,false

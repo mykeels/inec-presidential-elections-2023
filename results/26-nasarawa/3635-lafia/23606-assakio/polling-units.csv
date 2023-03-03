@@ -1,0 +1,34 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+NASARAWA,LAFIA,ASSAKIO,SUM PRI.SCHOOL - ASSAKIO PB,25/08/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3635/ward/23606/pu/86860/86860-1677761812.pdf,false
+NASARAWA,LAFIA,ASSAKIO,AKUNI PRI.SCHOOL - PB,25/08/05/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85784/result_43687_1677547027_thumb.jpg,false
+NASARAWA,LAFIA,ASSAKIO,LOWER BENUE,25/08/05/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/657531/result_43689_1677546882_thumb.jpg,false
+NASARAWA,LAFIA,ASSAKIO,PHC SABON GIDA,25/08/05/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/657532/result_43690_1677546753_thumb.jpg,false
+NASARAWA,LAFIA,ASSAKIO,OPAMBE (II) OWARA,25/08/05/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/657533/result_43691_1677546640_thumb.jpg,false
+NASARAWA,LAFIA,ASSAKIO,OTOJI OTONU,25/08/05/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/657534/result_43692_1677546479_thumb.jpg,false
+NASARAWA,LAFIA,ASSAKIO,OPAMBE (I) OLEYE,25/08/05/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/657535/result_43693_1677546317_thumb.jpg,false
+NASARAWA,LAFIA,ASSAKIO,OGYEBE,25/08/05/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/657536/result_43694_1677546155_thumb.jpg,false
+NASARAWA,LAFIA,ASSAKIO,ABO-MIRI,25/08/05/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/657537/result_43695_1677545999_thumb.jpg,false
+NASARAWA,LAFIA,ASSAKIO,OTOKOLO,25/08/05/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/657538/result_43696_1677545713_thumb.jpg,false
+NASARAWA,LAFIA,ASSAKIO,ODADU,25/08/05/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/657539/result_43697_1677545424_thumb.jpg,false
+NASARAWA,LAFIA,ASSAKIO,OKPE,25/08/05/029,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/657540/result_43698_1677545261_thumb.jpg,true
+NASARAWA,LAFIA,ASSAKIO,AKAMA ASHIGOGO (OP),25/08/05/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/657541/result_43699_1677545048_thumb.jpg,true
+NASARAWA,LAFIA,ASSAKIO,AGYE,25/08/05/031,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/657542/result_43700_1677544600_thumb.jpg,false
+NASARAWA,LAFIA,ASSAKIO,ONDA,25/08/05/033,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+NASARAWA,LAFIA,ASSAKIO,OWUNO,25/08/05/032,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/657543/result_43701_1677543869_thumb.jpg,false
+NASARAWA,LAFIA,ASSAKIO,ASSAKIO  GARAGE,25/08/05/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85785/result_43688_1677543725_thumb.jpg,false
+NASARAWA,LAFIA,ASSAKIO,GIDAN GAMBO - OP,25/08/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85776/result_43679_1677543366_thumb.jpg,false
+NASARAWA,LAFIA,ASSAKIO,KOFAR AKIKA,25/08/05/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85772/result_43675_1677509053_thumb.jpg,false
+NASARAWA,LAFIA,ASSAKIO,READING ROOM - PB II,25/08/05/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85768/result_43671_1677508678_thumb.jpg,false
+NASARAWA,LAFIA,ASSAKIO,DISPENSARY - PB,25/08/05/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85774/result_43677_1677503090_thumb.jpg,true
+NASARAWA,LAFIA,ASSAKIO,READING ROOM - PB I,25/08/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85767/result_43670_1677575357_thumb.jpg,false
+NASARAWA,LAFIA,ASSAKIO,DISPENSARY,25/08/05/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85775/result_43678_1677574042_thumb.jpg,false
+NASARAWA,LAFIA,ASSAKIO,GIDAN NYITSE - OP,25/08/05/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85782/result_43685_1677572808_thumb.jpg,false
+NASARAWA,LAFIA,ASSAKIO,KOFAR SARKI - OP,25/08/05/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85770/result_43673_1677574984_thumb.jpg,false
+NASARAWA,LAFIA,ASSAKIO,TUNGA GIDAN ABASHIYA - OP,25/08/05/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85778/result_43681_1677573579_thumb.jpg,false
+NASARAWA,LAFIA,ASSAKIO,GIDAN CHIA - OP,25/08/05/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85783/result_43686_1677572629_thumb.jpg,false
+NASARAWA,LAFIA,ASSAKIO,ASHIGOGO PRI.SCHOOL - PB,25/08/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85773/result_43676_1677574213_thumb.jpg,false
+NASARAWA,LAFIA,ASSAKIO,TUNGA PRI.SCHOOL - PB,25/08/05/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85777/result_43680_1677573796_thumb.jpg,false
+NASARAWA,LAFIA,ASSAKIO,GIDAN AKAAVE - OP,25/08/05/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85779/result_43682_1677573321_thumb.jpg,false
+NASARAWA,LAFIA,ASSAKIO,KOFAR MADAKI - OP,25/08/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85769/result_43672_1677575145_thumb.jpg,false
+NASARAWA,LAFIA,ASSAKIO,S/GIDA/KOFAR SARKI - OP,25/08/05/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85780/result_43683_1677573179_thumb.jpg,false
+NASARAWA,LAFIA,ASSAKIO,SABON GIDA PRI.SCHOOL - PB,25/08/05/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/85781/result_43684_1677572976_thumb.jpg,false
