@@ -1,0 +1,11 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,WARAWA,YANGIZO,ALIMAWA,19/43/15/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64674/result_130033_1677501454_thumb.jpg,false
+KANO,WARAWA,YANGIZO,'YANGIZO I,19/43/15/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64680/result_130039_1677503569_thumb.jpg,false
+KANO,WARAWA,YANGIZO,GIWARAN ALITINI II,19/43/15/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64677/result_130036_1677505085_thumb.jpg,true
+KANO,WARAWA,YANGIZO,GIWARAN BAGINAWA (GIWARAN BAGINAWA PRIMARY SCHOOL),19/43/15/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646516/result_130042_1677504463_thumb.jpg,false
+KANO,WARAWA,YANGIZO,'YANGIZO II,19/43/15/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64681/result_130040_1677504195_thumb.jpg,false
+KANO,WARAWA,YANGIZO,GIWARAN ALITINI I,19/43/15/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64676/result_130035_1677517462_thumb.jpg,true
+KANO,WARAWA,YANGIZO,GIWARAN JIJIYAWA II,19/43/15/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64679/result_130038_1677503609_thumb.jpg,false
+KANO,WARAWA,YANGIZO,'YANGIZO III,19/43/15/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64682/result_130041_1677504009_thumb.jpg,false
+KANO,WARAWA,YANGIZO,BUROMAWA,19/43/15/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64675/result_130034_1677516364_thumb.jpg,true
+KANO,WARAWA,YANGIZO,GIWARAN JIJIYAWA I,19/43/15/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64678/result_130037_1677503036_thumb.jpg,true

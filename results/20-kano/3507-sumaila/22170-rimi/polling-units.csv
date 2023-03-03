@@ -1,0 +1,24 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,SUMAILA,RIMI,TUKUDA PRIMARY SCHOOL,19/36/08/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22170/pu/150618/150618-1677594174.pdf,false
+KANO,SUMAILA,RIMI,RIMI LIBRARY VI,19/36/08/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22170/pu/150617/150617-1677594066.pdf,true
+KANO,SUMAILA,RIMI,RIMI LIBRARY V,19/36/08/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22170/pu/150616/150616-1677593942.pdf,true
+KANO,SUMAILA,RIMI,RIMI GABAS PRI SCH III,19/36/08/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22170/pu/150615/150615-1677593790.pdf,false
+KANO,SUMAILA,RIMI,TUKUDA,19/36/08/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22170/pu/63525/63525-1677593613.pdf,false
+KANO,SUMAILA,RIMI,TASAYA,19/36/08/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22170/pu/63524/63524-1677593454.pdf,true
+KANO,SUMAILA,RIMI,RUWAN RINJI,19/36/08/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22170/pu/63523/63523-1677593290.pdf,true
+KANO,SUMAILA,RIMI,RIMI YAMMA IV,19/36/08/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22170/pu/63522/63522-1677593134.pdf,true
+KANO,SUMAILA,RIMI,RIMI YAMMA III,19/36/08/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22170/pu/63521/63521-1677593018.pdf,true
+KANO,SUMAILA,RIMI,RIMI YAMMA II,19/36/08/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22170/pu/63520/63520-1677592875.pdf,true
+KANO,SUMAILA,RIMI,RIMI YAMMA I,19/36/08/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22170/pu/63519/63519-1677592711.pdf,true
+KANO,SUMAILA,RIMI,RIMI LIBRARY III,19/36/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22170/pu/63517/63517-1677592396.pdf,true
+KANO,SUMAILA,RIMI,RIMI LIBRARY II,19/36/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22170/pu/63516/63516-1677592189.pdf,false
+KANO,SUMAILA,RIMI,RIMI LIBRARY I,19/36/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22170/pu/63515/63515-1677591908.pdf,true
+KANO,SUMAILA,RIMI,RIMI GABAS 'B' PRIMARY SCHOOL II,19/36/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22170/pu/63514/63514-1677591652.pdf,true
+KANO,SUMAILA,RIMI,RIMI GABAS 'A' PRIMARY SCHOOL I,19/36/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22170/pu/63513/63513-1677591210.pdf,false
+KANO,SUMAILA,RIMI,KWALELE,19/36/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22170/pu/63512/63512-1677590436.pdf,true
+KANO,SUMAILA,RIMI,JAFURA,19/36/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22170/pu/63511/63511-1677581481.pdf,true
+KANO,SUMAILA,RIMI,FARIN DUTSE PRIMARY SCHOOL,19/36/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22170/pu/63510/63510-1677579896.pdf,true
+KANO,SUMAILA,RIMI,DAKUMBAL 'B' PRIMARY SCHOOL II,19/36/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22170/pu/63509/63509-1677579668.pdf,true
+KANO,SUMAILA,RIMI,DAKUMBAL 'A'  PRIMARY SCHOOL I,19/36/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22170/pu/63508/63508-1677579363.pdf,true
+KANO,SUMAILA,RIMI,AWAYA,19/36/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22170/pu/63507/63507-1677578492.pdf,false
+KANO,SUMAILA,RIMI,RIMI LIBRARY IV,19/36/08/012,,false

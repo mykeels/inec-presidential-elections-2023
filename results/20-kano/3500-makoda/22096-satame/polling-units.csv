@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,MAKODA,SATAME,YALLADA GARI II,19/29/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62165/result_126349_1677507556_thumb.jpg,true
+KANO,MAKODA,SATAME,YALLADA GARI I,19/29/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62164/result_126348_1677505489_thumb.jpg,false
+KANO,MAKODA,SATAME,JIGAWA SATAME,19/29/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62161/result_126345_1677506592_thumb.jpg,false
+KANO,MAKODA,SATAME,YAN GOTO,19/29/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62163/result_126347_1677507214_thumb.jpg,true
+KANO,MAKODA,SATAME,SATAME,19/29/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62162/result_126346_1677507016_thumb.jpg,false
+KANO,MAKODA,SATAME,DAWAN KAYA,19/29/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62160/result_126344_1677505730_thumb.jpg,false
+KANO,MAKODA,SATAME,YAKIJI,19/29/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645342/result_126352_1677505629_thumb.jpg,true
+KANO,MAKODA,SATAME,YALLADA GARI III,19/29/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645341/result_126351_1677507875_thumb.jpg,false
+KANO,MAKODA,SATAME,SATAME II,19/29/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645340/result_126350_1677505030_thumb.jpg,false

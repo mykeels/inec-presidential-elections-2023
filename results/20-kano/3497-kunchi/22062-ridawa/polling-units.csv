@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,KUNCHI,RIDAWA,RIDAWA GARI,19/26/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3497/ward/22062/pu/61801/61801-1677614990.pdf,true
+KANO,KUNCHI,RIDAWA,RIDAWA CIKIN GARI,19/26/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3497/ward/22062/pu/61800/61800-1677614127.pdf,false
+KANO,KUNCHI,RIDAWA,RIGAR GALADIMA,19/26/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3497/ward/22062/pu/61799/61799-1677613575.pdf,false
+KANO,KUNCHI,RIDAWA,RIDAWA KWARI,19/26/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3497/ward/22062/pu/61798/61798-1677613048.pdf,false
+KANO,KUNCHI,RIDAWA,KWARI HARDU,19/26/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3497/ward/22062/pu/61797/61797-1677612646.pdf,false
+KANO,KUNCHI,RIDAWA,JANHUWA,19/26/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3497/ward/22062/pu/61796/61796-1677611273.pdf,false
+KANO,KUNCHI,RIDAWA,GISHARE,19/26/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3497/ward/22062/pu/61795/61795-1677610529.pdf,false
+KANO,KUNCHI,RIDAWA,GALADIMAWA,19/26/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3497/ward/22062/pu/61794/61794-1677609013.pdf,false

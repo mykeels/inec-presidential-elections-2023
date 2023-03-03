@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,MAKODA,DURMA,UNGUWAR SOLAI II,19/29/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62082/result_126250_1677507629_thumb.jpg,false
+KANO,MAKODA,DURMA,DURMA CIKIN GARI II,19/29/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62080/result_126248_1677507133_thumb.jpg,false
+KANO,MAKODA,DURMA,UNGUWAR SOLAI I,19/29/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62081/result_126249_1677507353_thumb.jpg,false
+KANO,MAKODA,DURMA,UNGUWAR ADAMU II,19/29/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62085/result_126253_1677508594_thumb.jpg,false
+KANO,MAKODA,DURMA,UNGUWAR CHIROMA,19/29/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62083/result_126251_1677507851_thumb.jpg,true
+KANO,MAKODA,DURMA,DURMA CIKIN GARI I,19/29/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62079/result_126247_1677506945_thumb.jpg,false
+KANO,MAKODA,DURMA,WANGO,19/29/02/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62086/result_126254_1677508761_thumb.jpg,false
+KANO,MAKODA,DURMA,UNGUWAR CHIROMA II,19/29/02/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645324/result_126255_1677508938_thumb.jpg,false
+KANO,MAKODA,DURMA,UNGUWAR ADAMU I,19/29/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62084/result_126252_1677508321_thumb.jpg,true

@@ -1,0 +1,11 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,SHANONO,KOKIYA,KAZAGA II,19/35/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3506/ward/22158/pu/150580/150580-1677703466.pdf,true
+KANO,SHANONO,KOKIYA,UNGUWAR ADI,19/35/06/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63254/result_127964_1677594340_thumb.jpg,false
+KANO,SHANONO,KOKIYA,KOKIYA CHIKIN GARI I,19/35/06/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63251/result_127961_1677594182_thumb.jpg,false
+KANO,SHANONO,KOKIYA,KIYAWA,19/35/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63250/result_127960_1677594087_thumb.jpg,false
+KANO,SHANONO,KOKIYA,GUDAN-TUWO UNGUWAR KASIM,19/35/06/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63248/result_127958_1677593915_thumb.jpg,false
+KANO,SHANONO,KOKIYA,GUDAN-TUWO II,19/35/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63247/result_127957_1677593822_thumb.jpg,false
+KANO,SHANONO,KOKIYA,GUDAN-TUWO I,19/35/06/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KANO,SHANONO,KOKIYA,KOKIYA CHIKIN GARI II,19/35/06/007,,false
+KANO,SHANONO,KOKIYA,UNGUWAR KWARI,19/35/06/008,,false
+KANO,SHANONO,KOKIYA,KAZAGA,19/35/06/004,,false

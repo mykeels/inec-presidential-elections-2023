@@ -1,0 +1,14 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,KUNCHI,KUNCHI,KUNCHI QUR'ANIC PRI SCHOOL,19/26/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3497/ward/22060/pu/149946/149946-1677610064.pdf,false
+KANO,KUNCHI,KUNCHI,TAURA FULANI,19/26/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3497/ward/22060/pu/61782/61782-1677609804.pdf,false
+KANO,KUNCHI,KUNCHI,TAURA IDI,19/26/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3497/ward/22060/pu/61781/61781-1677609557.pdf,false
+KANO,KUNCHI,KUNCHI,TAURA TUDU NAWALA,19/26/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3497/ward/22060/pu/61780/61780-1677609366.pdf,true
+KANO,KUNCHI,KUNCHI,SANTARAWA,19/26/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3497/ward/22060/pu/61779/61779-1677609005.pdf,false
+KANO,KUNCHI,KUNCHI,SODAWA MAKAURATA,19/26/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3497/ward/22060/pu/61778/61778-1677608867.pdf,false
+KANO,KUNCHI,KUNCHI,SODAWA P.S.,19/26/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3497/ward/22060/pu/61777/61777-1677608395.pdf,false
+KANO,KUNCHI,KUNCHI,SODAWA GARI,19/26/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3497/ward/22060/pu/61776/61776-1677608144.pdf,true
+KANO,KUNCHI,KUNCHI,KUNCHI P.S. I,19/26/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3497/ward/22060/pu/61774/61774-1677607107.pdf,true
+KANO,KUNCHI,KUNCHI,KUNCHI C/GARI,19/26/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3497/ward/22060/pu/61773/61773-1677606721.pdf,true
+KANO,KUNCHI,KUNCHI,DAN DAKAU CIKIN GARI,19/26/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3497/ward/22060/pu/61771/61771-1677605748.pdf,true
+KANO,KUNCHI,KUNCHI,DUKU CIKIN GARI,19/26/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3497/ward/22060/pu/61772/61772-1677589805.pdf,true
+KANO,KUNCHI,KUNCHI,KUNCHI P.S. II,19/26/05/005,,false

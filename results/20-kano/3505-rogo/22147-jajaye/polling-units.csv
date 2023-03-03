@@ -1,0 +1,15 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,ROGO,JAJAYE,AREWAWA,19/34/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3505/ward/22147/pu/63181/63181-1677609295.pdf,false
+KANO,ROGO,JAJAYE,PRI. SCH.,19/34/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3505/ward/22147/pu/150526/150526-1677609156.pdf,false
+KANO,ROGO,JAJAYE,K/KUDU,19/34/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3505/ward/22147/pu/150524/150524-1677609024.pdf,false
+KANO,ROGO,JAJAYE,K/FADA,19/34/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3505/ward/22147/pu/150523/150523-1677608892.pdf,true
+KANO,ROGO,JAJAYE,G.J.S.S BARBAJI,19/34/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3505/ward/22147/pu/150522/150522-1677608681.pdf,false
+KANO,ROGO,JAJAYE,TASAWA,19/34/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3505/ward/22147/pu/63188/63188-1677608350.pdf,false
+KANO,ROGO,JAJAYE,SAGWANDARE,19/34/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3505/ward/22147/pu/63187/63187-1677608259.pdf,false
+KANO,ROGO,JAJAYE,MADATAI,19/34/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3505/ward/22147/pu/63186/63186-1677608161.pdf,false
+KANO,ROGO,JAJAYE,JAJAYE CIKIN GARI II,19/34/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3505/ward/22147/pu/63185/63185-1677607356.pdf,true
+KANO,ROGO,JAJAYE,JAJAYE CIKIN GARI I,19/34/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3505/ward/22147/pu/63184/63184-1677607213.pdf,true
+KANO,ROGO,JAJAYE,BARBAJI,19/34/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3505/ward/22147/pu/63183/63183-1677607041.pdf,true
+KANO,ROGO,JAJAYE,BAKARI,19/34/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3505/ward/22147/pu/63182/63182-1677606862.pdf,true
+KANO,ROGO,JAJAYE,ISLM. BAKARI,19/34/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/34/ward/05/pu/009/009-1677399606.pdf,false
+KANO,ROGO,JAJAYE,ISLAMIYYA,19/34/05/013,,false

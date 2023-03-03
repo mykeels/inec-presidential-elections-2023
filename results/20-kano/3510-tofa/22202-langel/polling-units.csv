@@ -1,0 +1,11 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,TOFA,LANGEL,"YANDADI ,OPEN SPACE I",19/39/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22202/pu/64041/64041-1677651254.pdf,false
+KANO,TOFA,LANGEL,"LAUNAWA, ISLAMIYYA PRIMARY SCHOOL",19/39/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22202/pu/64040/64040-1677650220.pdf,true
+KANO,TOFA,LANGEL,"LANGEL C/GARI, PRIMARY SCHOOL I",19/39/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22202/pu/64038/64038-1677649222.pdf,false
+KANO,TOFA,LANGEL,"JAMA'AR ZAILANI, OPEN SPACE",19/39/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22202/pu/64037/64037-1677581449.pdf,true
+KANO,TOFA,LANGEL,"LANGEL C/GARI, PRIMARY SCHOOL II",19/39/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/39/ward/09/pu/003/003-1677400535.pdf,false
+KANO,TOFA,LANGEL,GOV'T JUNIOR SEC SCH LANGEL,19/39/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/39/ward/09/pu/007/007-1677361411.pdf,false
+KANO,TOFA,LANGEL,YANDADI OPEN SPACE IV,19/39/09/009,,false
+KANO,TOFA,LANGEL,"YANDADI, OPEN SPACE II",19/39/09/006,,false
+KANO,TOFA,LANGEL,JAMA'AR ZAILANI PRI. SCH.,19/39/09/010,,false
+KANO,TOFA,LANGEL,YANDADI OPEN SPACE III,19/39/09/008,,false

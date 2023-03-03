@@ -1,0 +1,48 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,UNGOGO,TUDUN FULANI,GADAN,19/42/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64480/result_129739_1677796778_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,CHIROMAWA,19/42/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64478/result_129737_1677771598_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,YANKIFI A,19/42/08/020,https://docs.inecelectionresults.net/elections/1292/1677762733-64587.pdf,true
+KANO,UNGOGO,TUDUN FULANI,YANKIFI IX (A),19/42/08/047,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3513/ward/22237/pu/151147/151147-1677757617.pdf,false
+KANO,UNGOGO,TUDUN FULANI,RUBUDI,19/42/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3513/ward/22237/pu/64579/64579-1677757438.pdf,false
+KANO,UNGOGO,TUDUN FULANI,JAMADI IV,19/42/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64488/result_129747_1677547915_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,SABUWAR GADAN I,19/42/08/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64490/result_129749_1677547645_thumb.jpg,true
+KANO,UNGOGO,TUDUN FULANI,SABUWAR GADAN II,19/42/08/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64491/result_129750_1677547160_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,TUDUN FULANI I,19/42/08/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64492/result_129751_1677547030_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,TUDUN FULANI II,19/42/08/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64493/result_129752_1677546916_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,TUDUN FULANI III,19/42/08/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64494/result_129753_1677546809_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,TUDUN FULANI IV,19/42/08/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64495/result_129754_1677546696_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,WAIKA,19/42/08/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64496/result_129755_1677546528_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,YANKIFI II,19/42/08/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64498/result_129757_1677546200_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,YANKIFI III,19/42/08/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64499/result_129758_1677545991_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,YANKIFI IV,19/42/08/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64500/result_129759_1677545879_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,YANKIFI V,19/42/08/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64501/result_129760_1677545722_thumb.jpg,true
+KANO,UNGOGO,TUDUN FULANI,YANKIFI VI,19/42/08/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64502/result_129761_1677545562_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,YANKIFI VII,19/42/08/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64503/result_129762_1677545377_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,YANKIFI VIII,19/42/08/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64504/result_129763_1677545258_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,YANKIFI IX,19/42/08/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64505/result_129764_1677545117_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,CHIROMAWA (A),19/42/08/029,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646417/result_129765_1677544981_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,DABARO (A),19/42/08/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646418/result_129766_1677544493_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,GADAN (A),19/42/08/031,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KANO,UNGOGO,TUDUN FULANI,JAJIRA C/GARI (A),19/42/08/032,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646420/result_129768_1677544261_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,JAMADI I (A),19/42/08/033,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646421/result_129769_1677544113_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,JAMADI II (A),19/42/08/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646422/result_129770_1677543927_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,JAMADI III,19/42/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64487/result_129746_1677543543_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,JAMADI II,19/42/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64486/result_129745_1677543213_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,JAMADI I,19/42/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64485/result_129744_1677543006_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,JAJIRA F/LIMAWA,19/42/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64484/result_129743_1677542853_thumb.jpg,true
+KANO,UNGOGO,TUDUN FULANI,JAJIRA GOBIRAWA,19/42/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64483/result_129742_1677542721_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,JAJIRA C/GARI,19/42/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64482/result_129741_1677542545_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,YADAU,19/42/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64481/result_129740_1677542383_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,DABARO,19/42/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64479/result_129738_1677541169_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,YANKIFI VII (A),19/42/08/045,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646433/result_129781_1677541026_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,YANKIFI IV (A),19/42/08/042,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646430/result_129778_1677540739_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,YANKIFI V (A),19/42/08/043,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646431/result_129779_1677540621_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,JAMADI III (A),19/42/08/035,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646423/result_129771_1677540352_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,SABUWAR GADAN II (A),19/42/08/036,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,true
+KANO,UNGOGO,TUDUN FULANI,BAJALLABE,19/42/08/037,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646425/result_129773_1677539908_thumb.jpg,false
+KANO,UNGOGO,TUDUN FULANI,TUDUN FULANI II (A),19/42/08/038,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3513/ward/22237/pu/151138/151138-1677538484.pdf,false
+KANO,UNGOGO,TUDUN FULANI,TUDUN FULANI IV (A),19/42/08/039,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3513/ward/22237/pu/151139/151139-1677538288.pdf,false
+KANO,UNGOGO,TUDUN FULANI,YANKIFI II (A),19/42/08/040,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3513/ward/22237/pu/151140/151140-1677537815.pdf,false
+KANO,UNGOGO,TUDUN FULANI,YANKIFI III (A),19/42/08/041,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3513/ward/22237/pu/151141/151141-1677537554.pdf,false
+KANO,UNGOGO,TUDUN FULANI,YANKIFI VI (A),19/42/08/044,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3513/ward/22237/pu/151144/151144-1677536076.pdf,false
+KANO,UNGOGO,TUDUN FULANI,YANKIFI VIII (A),19/42/08/046,,false

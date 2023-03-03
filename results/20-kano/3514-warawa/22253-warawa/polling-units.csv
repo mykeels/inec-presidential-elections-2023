@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,WARAWA,WARAWA,DUSHE II,19/43/13/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64664/result_130017_1677512734_thumb.jpg,false
+KANO,WARAWA,WARAWA,JALAWA I,19/43/13/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64665/result_130018_1677512454_thumb.jpg,false
+KANO,WARAWA,WARAWA,JALAWA III (JALAWA ISLAMIYYA),19/43/13/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646510/result_130022_1677517502_thumb.jpg,false
+KANO,WARAWA,WARAWA,WARAWA I,19/43/13/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64667/result_130020_1677518303_thumb.jpg,true
+KANO,WARAWA,WARAWA,WARAWA III (WARAWA PRIMARY SCHOOL),19/43/13/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646511/result_130023_1677516693_thumb.jpg,false
+KANO,WARAWA,WARAWA,WARAWA IV (WARAWA PRIMARY SCHOOL),19/43/13/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646512/result_130024_1677517394_thumb.jpg,true
+KANO,WARAWA,WARAWA,JALAWA II,19/43/13/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64666/result_130019_1677511796_thumb.jpg,true
+KANO,WARAWA,WARAWA,WARAWA II,19/43/13/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64668/result_130021_1677517855_thumb.jpg,false
+KANO,WARAWA,WARAWA,DUSHE I,19/43/13/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64663/result_130016_1677513155_thumb.jpg,false

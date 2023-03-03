@@ -1,0 +1,15 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,MAKODA,MAITSIDAU,TUKUN M/TSIDAU I,19/29/07/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62141/result_126319_1677507513_thumb.jpg,true
+KANO,MAKODA,MAITSIDAU,MAITSIDAU GARI II,19/29/07/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62138/result_126316_1677508501_thumb.jpg,true
+KANO,MAKODA,MAITSIDAU,RIGA DUBU,19/29/07/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62140/result_126318_1677508899_thumb.jpg,true
+KANO,MAKODA,MAITSIDAU,UNGUWAR WAZIRI II,19/29/07/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62144/result_126322_1677509344_thumb.jpg,true
+KANO,MAKODA,MAITSIDAU,UNGUWAR WAZIRI I,19/29/07/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62143/result_126321_1677509104_thumb.jpg,false
+KANO,MAKODA,MAITSIDAU,MAITSIDAU GARI IV,19/29/07/010,,true
+KANO,MAKODA,MAITSIDAU,MAITSIDAU GARI I,19/29/07/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62137/result_126315_1677506829_thumb.jpg,true
+KANO,MAKODA,MAITSIDAU,YANTSERE,19/29/07/009,,false
+KANO,MAKODA,MAITSIDAU,TUKUN M/TSIDAU II,19/29/07/006,,false
+KANO,MAKODA,MAITSIDAU,UNGUWAR DOMA I,19/29/07/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645336/result_126326_1677509723_thumb.jpg,false
+KANO,MAKODA,MAITSIDAU,MAITSIDAU GARI V,19/29/07/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645335/result_126325_1677507350_thumb.jpg,true
+KANO,MAKODA,MAITSIDAU,MAITSIDAU GARI III,19/29/07/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62139/result_126317_1677507230_thumb.jpg,true
+KANO,MAKODA,MAITSIDAU,UNGUWAR DOMA II,19/29/07/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645337/result_126327_1677509912_thumb.jpg,true
+KANO,MAKODA,MAITSIDAU,UNGUWAR WAZIRI III,19/29/07/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645338/result_126328_1677510049_thumb.jpg,true

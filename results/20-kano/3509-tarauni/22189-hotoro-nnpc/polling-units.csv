@@ -1,0 +1,46 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,TARAUNI,HOTORO (NNPC),HOTORO NNPC IV,19/38/06/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3509/ward/22189/pu/63903/63903-1677816626.pdf,true
+KANO,TARAUNI,HOTORO (NNPC),HOTORO NNPC II,19/38/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3509/ward/22189/pu/63901/63901-1677816331.pdf,true
+KANO,TARAUNI,HOTORO (NNPC),HOTORO NNPC I,19/38/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3509/ward/22189/pu/63900/63900-1677816191.pdf,true
+KANO,TARAUNI,HOTORO (NNPC),GINDIN MANGWARO IV,19/38/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3509/ward/22189/pu/63899/63899-1677815940.pdf,true
+KANO,TARAUNI,HOTORO (NNPC),GINDIN MANGWARO III,19/38/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3509/ward/22189/pu/63898/63898-1677815781.pdf,true
+KANO,TARAUNI,HOTORO (NNPC),"MARADIN PRIMARY SCHOOL, MARADIN III (FILIN MARADIN III)",19/38/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3509/ward/22189/pu/63888/63888-1677815231.pdf,true
+KANO,TARAUNI,HOTORO (NNPC),GGASSS ADO MUSA NA-MAITUWO I,19/38/06/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646084/result_128745_1677545993_thumb.jpg,true
+KANO,TARAUNI,HOTORO (NNPC),POLICE OUT POST II,19/38/06/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63818/result_128744_1677545785_thumb.jpg,true
+KANO,TARAUNI,HOTORO (NNPC),POLICE OUT POST I,19/38/06/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63817/result_128743_1677545634_thumb.jpg,true
+KANO,TARAUNI,HOTORO (NNPC),"OPP. EURO BANK, LIMAWA QUARTERS III (LIMAWA GIDAN MAI UNGUWA III)",19/38/06/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63816/result_128742_1677545502_thumb.jpg,true
+KANO,TARAUNI,HOTORO (NNPC),OPP. EURO BANK LIMAWA QUARTERS II (LIMAWA GIDAN MAI UNGUWA II),19/38/06/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63815/result_128741_1677545357_thumb.jpg,true
+KANO,TARAUNI,HOTORO (NNPC),OPP. EURO BANK LIMAWA QUARTERS I (LIMAWA GIDAN MAI UNGUWA I),19/38/06/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63814/result_128740_1677545207_thumb.jpg,true
+KANO,TARAUNI,HOTORO (NNPC),HOTORO NNPC III,19/38/06/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63812/result_128738_1677544715_thumb.jpg,true
+KANO,TARAUNI,HOTORO (NNPC),GINDIN MANGWARO II,19/38/06/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63807/result_128733_1677543127_thumb.jpg,true
+KANO,TARAUNI,HOTORO (NNPC),GINDIN MANGWARO I,19/38/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63806/result_128732_1677543021_thumb.jpg,true
+KANO,TARAUNI,HOTORO (NNPC),FILIN YANAWAKI,19/38/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63805/result_128731_1677542919_thumb.jpg,true
+KANO,TARAUNI,HOTORO (NNPC),FILIN YANAWAKI,19/38/06/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,true
+KANO,TARAUNI,HOTORO (NNPC),FILIN YANAWAKI,19/38/06/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63803/result_128729_1677542725_thumb.jpg,true
+KANO,TARAUNI,HOTORO (NNPC),FILIN YANAWAKI,19/38/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63802/result_128728_1677542616_thumb.jpg,true
+KANO,TARAUNI,HOTORO (NNPC),"DANMARKE PRIMARY SCHOOL, WALAWAI I (FILIN WALAWAI I)",19/38/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63800/result_128726_1677542443_thumb.jpg,true
+KANO,TARAUNI,HOTORO (NNPC),"MARADIN PRIMARY SCHOOL, MARADIN IV (FILIN MARADIN IV)",19/38/06/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63799/result_128725_1677542275_thumb.jpg,true
+KANO,TARAUNI,HOTORO (NNPC),"MARADIN PRIMARY SCHOOL, MARADIN II (FILIN MARADIN II)",19/38/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63797/result_128723_1677541456_thumb.jpg,true
+KANO,TARAUNI,HOTORO (NNPC),"MARADIN PRIMARY SCHOOL, MARADIN I (FILIN MARADIN I)",19/38/06/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63796/result_128722_1677541201_thumb.jpg,true
+KANO,TARAUNI,HOTORO (NNPC),"MATERNITY HEALTH CENTER IV, WALAWAI",19/38/06/032,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3509/ward/22189/pu/150804/150804-1677594349.pdf,true
+KANO,TARAUNI,HOTORO (NNPC),"MATERNITY HEALTH CENTER III, WALAWAI",19/38/06/031,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3509/ward/22189/pu/150803/150803-1677594226.pdf,true
+KANO,TARAUNI,HOTORO (NNPC),"MATERNITY HEALTH CENTER II, WALAWAI",19/38/06/030,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3509/ward/22189/pu/150802/150802-1677594167.pdf,true
+KANO,TARAUNI,HOTORO (NNPC),"MATERNITY HEALTH CENTER I, WALAWAI",19/38/06/029,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3509/ward/22189/pu/150801/150801-1677594089.pdf,true
+KANO,TARAUNI,HOTORO (NNPC),GGASSS ADO MUSA NA-MAITUWO V,19/38/06/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3509/ward/22189/pu/150800/150800-1677594010.pdf,true
+KANO,TARAUNI,HOTORO (NNPC),GGASSS ADO MUSA NA-MAITUWO IV,19/38/06/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3509/ward/22189/pu/150799/150799-1677593902.pdf,true
+KANO,TARAUNI,HOTORO (NNPC),GGASSS ADO MUSA NA-MAITUWO III,19/38/06/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3509/ward/22189/pu/150798/150798-1677593805.pdf,true
+KANO,TARAUNI,HOTORO (NNPC),GGASSS ADO MUSA NA-MAITUWO II,19/38/06/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3509/ward/22189/pu/150797/150797-1677593718.pdf,true
+KANO,TARAUNI,HOTORO (NNPC),"ABDULLAHI GANDUJE PRI. SCH. IV, LIMAWA",19/38/06/039,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646099/result_128760_1677572182_thumb.jpg,false
+KANO,TARAUNI,HOTORO (NNPC),POLICE OUTPOST IV,19/38/06/045,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646105/result_128766_1677571509_thumb.jpg,false
+KANO,TARAUNI,HOTORO (NNPC),HOTORO NNPC VII,19/38/06/042,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646102/result_128763_1677571895_thumb.jpg,false
+KANO,TARAUNI,HOTORO (NNPC),POLICE OUT-POST III,19/38/06/044,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646104/result_128765_1677571606_thumb.jpg,false
+KANO,TARAUNI,HOTORO (NNPC),"MATERNITY HEALTH CENTER VI, WALAWAI",19/38/06/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646094/result_128755_1677572632_thumb.jpg,false
+KANO,TARAUNI,HOTORO (NNPC),"ABDULLAHI GANDUJE PRI. SCH. III, LIMAWA",19/38/06/038,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646098/result_128759_1677572276_thumb.jpg,false
+KANO,TARAUNI,HOTORO (NNPC),HOTORO NNPC V,19/38/06/040,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646100/result_128761_1677572091_thumb.jpg,false
+KANO,TARAUNI,HOTORO (NNPC),"MATERNITY HEALTH CENTER VII, WALAWAI",19/38/06/035,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646095/result_128756_1677572533_thumb.jpg,false
+KANO,TARAUNI,HOTORO (NNPC),"ABDULLAHI GANDUJE PRI. SCH. I, LIMAWA",19/38/06/036,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646096/result_128757_1677572385_thumb.jpg,false
+KANO,TARAUNI,HOTORO (NNPC),HOTORO NNPC VIII,19/38/06/043,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646103/result_128764_1677571747_thumb.jpg,false
+KANO,TARAUNI,HOTORO (NNPC),HOTORO NNPC VI,19/38/06/041,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646101/result_128762_1677571998_thumb.jpg,false
+KANO,TARAUNI,HOTORO (NNPC),"ABDULLAHI GANDUJE PRI. SCH. II, LIMAWA",19/38/06/037,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646097/result_128758_1677571380_thumb.jpg,true
+KANO,TARAUNI,HOTORO (NNPC),"MATERNITY HEALTH CENTER V, WALAAWI",19/38/06/033,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646093/result_128754_1677566587_thumb.jpg,false
+KANO,TARAUNI,HOTORO (NNPC),"DANMARKE PRIMARY SCHOOL, WALAWAI II (FILIN WALAWAI II)",19/38/06/006,,false

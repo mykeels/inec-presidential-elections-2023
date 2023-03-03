@@ -1,0 +1,16 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,SUMAILA,GARFA,GARFA C/GARI PRI. SCH IV,19/36/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22165/pu/150603/150603-1677591273.pdf,false
+KANO,SUMAILA,GARFA,GARFA C/GARI PRI. SCH III,19/36/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22165/pu/150602/150602-1677591124.pdf,true
+KANO,SUMAILA,GARFA,FARADACHI S/GARI PRI. SCH.,19/36/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22165/pu/150601/150601-1677590937.pdf,false
+KANO,SUMAILA,GARFA,ALFINDI IV,19/36/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22165/pu/150600/150600-1677590808.pdf,true
+KANO,SUMAILA,GARFA,ALFINDI III,19/36/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22165/pu/150599/150599-1677590641.pdf,true
+KANO,SUMAILA,GARFA,SIRA,19/36/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22165/pu/63444/63444-1677590504.pdf,true
+KANO,SUMAILA,GARFA,GARFA CIKIN GARI PRIMARY SCHOOL I,19/36/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22165/pu/63442/63442-1677590305.pdf,true
+KANO,SUMAILA,GARFA,GANDAN,19/36/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22165/pu/63441/63441-1677590181.pdf,true
+KANO,SUMAILA,GARFA,"FARADACHI, TSOHON GARI",19/36/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22165/pu/63440/63440-1677590012.pdf,true
+KANO,SUMAILA,GARFA,"FARADACHI, SABON GARI",19/36/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22165/pu/63439/63439-1677589833.pdf,true
+KANO,SUMAILA,GARFA,BAFFARU,19/36/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22165/pu/63438/63438-1677589683.pdf,true
+KANO,SUMAILA,GARFA,ALFINDI II,19/36/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22165/pu/63437/63437-1677582316.pdf,false
+KANO,SUMAILA,GARFA,ALFINDI I,19/36/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22165/pu/63436/63436-1677582104.pdf,false
+KANO,SUMAILA,GARFA,AGALAWA,19/36/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22165/pu/63435/63435-1677581873.pdf,true
+KANO,SUMAILA,GARFA,GARFA CIKIN GARI PRIMARY SCHOOL II,19/36/03/009,,false

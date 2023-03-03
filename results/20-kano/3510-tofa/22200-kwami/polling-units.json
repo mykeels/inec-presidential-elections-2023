@@ -1,0 +1,322 @@
+[
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f5793c440353badb1d1ac",
+    "state_id": 20,
+    "state": "5f0eb6e16dda22674979bf35",
+    "lga_id": 3510,
+    "ward_id": 22200,
+    "state_constituency_id": 519,
+    "state_constituency": "5f0f373e93d20b39ceee21ba",
+    "federal_constituency_id": 173,
+    "federal_constituency": "5f0f37fd2d77c83a06f0f3b2",
+    "senatorial_district_id": 120,
+    "senatorial_district": "5f0f395a970bd83a6f453a20",
+    "name": "RINJI, K. MAI UNGUWA",
+    "code": "004",
+    "pu_code": "19/39/07/004",
+    "old_name": "",
+    "polling_unit_id": 64023,
+    "created_at": "2020-07-15T19:22:59.257Z",
+    "updated_at": "2023-02-23T21:01:50.916Z",
+    "__v": 0,
+    "pu_code_string": "193907004",
+    "state_name": "KANO",
+    "lga_name": "TOFA",
+    "ward_name": "KWAMI",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe6751d74638649a13d450",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63933/result_128978_1677502966_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T20:42:57.062Z"
+    },
+    "old_documents": [
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdcc67764de23f78b237e7",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22200/pu/64023/64023-1677577260.pdf",
+        "size": 34980,
+        "updated_at": "2023-02-28T20:42:57.062Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f5793c440353badb1d1aa",
+    "state_id": 20,
+    "state": "5f0eb6e16dda22674979bf35",
+    "lga_id": 3510,
+    "ward_id": 22200,
+    "state_constituency_id": 519,
+    "state_constituency": "5f0f373e93d20b39ceee21ba",
+    "federal_constituency_id": 173,
+    "federal_constituency": "5f0f37fd2d77c83a06f0f3b2",
+    "senatorial_district_id": 120,
+    "senatorial_district": "5f0f395a970bd83a6f453a20",
+    "name": "KWAMI, PRIMARY SCHOOL II",
+    "code": "002",
+    "pu_code": "19/39/07/002",
+    "old_name": "",
+    "polling_unit_id": 64021,
+    "created_at": "2020-07-15T19:22:59.129Z",
+    "updated_at": "2023-02-23T21:01:50.736Z",
+    "__v": 0,
+    "pu_code_string": "193907002",
+    "state_name": "KANO",
+    "lga_name": "TOFA",
+    "ward_name": "KWAMI",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe630ad74638649a1348b8",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63931/result_128976_1677502674_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T20:24:42.889Z"
+    },
+    "old_documents": [
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdca4c764de23f78b2336d",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22200/pu/64021/64021-1677576728.pdf",
+        "size": 33971,
+        "updated_at": "2023-02-28T09:33:01.049Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdca4c764de23f78b2336d",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22200/pu/64021/64021-1677576728.pdf",
+        "size": 33971,
+        "updated_at": "2023-02-28T20:24:42.889Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdca4d764de23f78b23384",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22200/pu/64021/64021-1677576728.pdf",
+        "size": 33971,
+        "updated_at": "2023-02-28T20:24:42.889Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f5793c440353badb1d1ad",
+    "state_id": 20,
+    "state": "5f0eb6e16dda22674979bf35",
+    "lga_id": 3510,
+    "ward_id": 22200,
+    "state_constituency_id": 519,
+    "state_constituency": "5f0f373e93d20b39ceee21ba",
+    "federal_constituency_id": 173,
+    "federal_constituency": "5f0f37fd2d77c83a06f0f3b2",
+    "senatorial_district_id": 120,
+    "senatorial_district": "5f0f395a970bd83a6f453a20",
+    "name": "RUGA, PRIMARY SCHOOL",
+    "code": "005",
+    "pu_code": "19/39/07/005",
+    "old_name": "",
+    "polling_unit_id": 64024,
+    "created_at": "2020-07-15T19:22:59.322Z",
+    "updated_at": "2023-02-23T21:01:51.004Z",
+    "__v": 0,
+    "pu_code_string": "193907005",
+    "state_name": "KANO",
+    "lga_name": "TOFA",
+    "ward_name": "KWAMI",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe46f439df295eae1bc7a4",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63934/result_128979_1677503197_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T18:24:52.902Z"
+    },
+    "old_documents": [
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdcd58764de23f78b23a51",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22200/pu/64024/64024-1677577543.pdf",
+        "size": 35660,
+        "updated_at": "2023-02-28T18:24:52.902Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f5793c440353badb1d1ab",
+    "state_id": 20,
+    "state": "5f0eb6e16dda22674979bf35",
+    "lga_id": 3510,
+    "ward_id": 22200,
+    "state_constituency_id": 519,
+    "state_constituency": "5f0f373e93d20b39ceee21ba",
+    "federal_constituency_id": 173,
+    "federal_constituency": "5f0f37fd2d77c83a06f0f3b2",
+    "senatorial_district_id": 120,
+    "senatorial_district": "5f0f395a970bd83a6f453a20",
+    "name": "KWAMI C/GARI, PRIMARY SCHOOL",
+    "code": "003",
+    "pu_code": "19/39/07/003",
+    "old_name": "",
+    "polling_unit_id": 64022,
+    "created_at": "2020-07-15T19:22:59.196Z",
+    "updated_at": "2023-02-23T21:01:50.829Z",
+    "__v": 0,
+    "pu_code_string": "193907003",
+    "state_name": "KANO",
+    "lga_name": "TOFA",
+    "ward_name": "KWAMI",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe429639df295eae1b349e",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63932/result_128977_1677502817_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T18:06:14.398Z"
+    },
+    "old_documents": [
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fa9548ae6e9b065f485872",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/39/ward/07/pu/003/003-1677366554.pdf",
+        "size": 34561,
+        "updated_at": "2023-02-28T09:54:00.011Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fa9548ae6e9b065f4858ac",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/39/ward/07/pu/003/003-1677366554.pdf",
+        "size": 34561,
+        "updated_at": "2023-02-28T09:54:00.011Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fa9548ae6e9b065f4858ac",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/39/ward/07/pu/003/003-1677366554.pdf",
+        "size": 34561,
+        "updated_at": "2023-02-28T09:54:01.029Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdcf38764de23f78b23f35",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22200/pu/64022/64022-1677578001.pdf",
+        "size": 34735,
+        "updated_at": "2023-02-28T09:54:01.029Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdcf38764de23f78b23f35",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22200/pu/64022/64022-1677578001.pdf",
+        "size": 34735,
+        "updated_at": "2023-02-28T18:06:14.398Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdcf39764de23f78b23f54",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22200/pu/64022/64022-1677578001.pdf",
+        "size": 34735,
+        "updated_at": "2023-02-28T18:06:14.398Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f5793c440353badb1d1a9",
+    "state_id": 20,
+    "state": "5f0eb6e16dda22674979bf35",
+    "lga_id": 3510,
+    "ward_id": 22200,
+    "state_constituency_id": 519,
+    "state_constituency": "5f0f373e93d20b39ceee21ba",
+    "federal_constituency_id": 173,
+    "federal_constituency": "5f0f37fd2d77c83a06f0f3b2",
+    "senatorial_district_id": 120,
+    "senatorial_district": "5f0f395a970bd83a6f453a20",
+    "name": "GUDDA, PRIMARY SCHOOL I",
+    "code": "001",
+    "pu_code": "19/39/07/001",
+    "old_name": "",
+    "polling_unit_id": 64020,
+    "created_at": "2020-07-15T19:22:59.069Z",
+    "updated_at": "2023-02-23T21:01:50.654Z",
+    "__v": 0,
+    "pu_code_string": "193907001",
+    "state_name": "KANO",
+    "lga_name": "TOFA",
+    "ward_name": "KWAMI",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe3bb86f2c3d5c2e711f2b",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63930/result_128975_1677502447_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T17:36:56.769Z"
+    },
+    "old_documents": [
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fcadc596f1c881a54be622",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22200/pu/64020/64020-1677503904.pdf",
+        "size": 71316,
+        "updated_at": "2023-02-28T17:12:25.958Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcd88d8f41741d1230ed45",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63930/result_128975_1677502447_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:12:25.958Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcd88d8f41741d1230ed45",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63930/result_128975_1677502447_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:36:56.769Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe35f9d86c3a5b6d10e533",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63930/result_128975_1677502447_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:36:56.769Z"
+      }
+    ],
+    "has_old_documents": true
+  }
+]

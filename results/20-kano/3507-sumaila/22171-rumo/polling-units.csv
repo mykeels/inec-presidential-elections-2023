@@ -1,0 +1,14 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,SUMAILA,RUMO,RIYI PRIMARY SCHOOL,19/36/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22171/pu/150620/150620-1677593019.pdf,true
+KANO,SUMAILA,RUMO,RUMO JAFURA PRI SCH III,19/36/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22171/pu/150619/150619-1677592836.pdf,true
+KANO,SUMAILA,RUMO,TSUGUNAMA,19/36/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22171/pu/63536/63536-1677592512.pdf,true
+KANO,SUMAILA,RUMO,SIRA,19/36/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22171/pu/63535/63535-1677592284.pdf,true
+KANO,SUMAILA,RUMO,RUMO JAFURA 'A' PRIMARY SCHOOL II,19/36/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22171/pu/63534/63534-1677592007.pdf,false
+KANO,SUMAILA,RUMO,RUMO JAFURA 'A' PRIMARY SCHOOL I,19/36/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22171/pu/63533/63533-1677591770.pdf,false
+KANO,SUMAILA,RUMO,LAMA,19/36/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22171/pu/63531/63531-1677591380.pdf,false
+KANO,SUMAILA,RUMO,DUNDUMAWA,19/36/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22171/pu/63529/63529-1677590952.pdf,true
+KANO,SUMAILA,RUMO,DUBO,19/36/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22171/pu/63528/63528-1677580767.pdf,true
+KANO,SUMAILA,RUMO,BUNTURU/TSIDA,19/36/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22171/pu/63527/63527-1677580079.pdf,true
+KANO,SUMAILA,RUMO,BAURE,19/36/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22171/pu/63526/63526-1677578877.pdf,false
+KANO,SUMAILA,RUMO,RIYI,19/36/09/007,,false
+KANO,SUMAILA,RUMO,JISAI,19/36/09/005,,false

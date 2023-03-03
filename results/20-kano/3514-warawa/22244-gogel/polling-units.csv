@@ -1,0 +1,8 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,WARAWA,GOGEL,YAMATAWA,19/43/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64593/result_129926_1677509493_thumb.jpg,false
+KANO,WARAWA,GOGEL,GOGEL II,19/43/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64590/result_129923_1677507859_thumb.jpg,false
+KANO,WARAWA,GOGEL,GOGEL III,19/43/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64591/result_129924_1677513908_thumb.jpg,true
+KANO,WARAWA,GOGEL,GOGEL I,19/43/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64589/result_129922_1677506431_thumb.jpg,false
+KANO,WARAWA,GOGEL,KARABE,19/43/04/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64592/result_129925_1677508297_thumb.jpg,false
+KANO,WARAWA,GOGEL,GOGEL VETERINARY,19/43/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646490/result_129927_1677508989_thumb.jpg,false
+KANO,WARAWA,GOGEL,DAKATSALLE,19/43/04/001,,false

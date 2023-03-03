@@ -1,0 +1,17 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,MAKODA,KOGUNA,CHIDARI I,19/29/05/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62115/result_126289_1677508072_thumb.jpg,true
+KANO,MAKODA,KOGUNA,WARBA I,19/29/05/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62124/result_126298_1677513140_thumb.jpg,true
+KANO,MAKODA,KOGUNA,UNGUWAR BATURE,19/29/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62123/result_126297_1677511450_thumb.jpg,true
+KANO,MAKODA,KOGUNA,KOGUNA GARI I,19/29/05/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62118/result_126292_1677509609_thumb.jpg,true
+KANO,MAKODA,KOGUNA,BABBAKA,19/29/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62114/result_126288_1677517983_thumb.jpg,true
+KANO,MAKODA,KOGUNA,KUNKURAI II,19/29/05/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62121/result_126295_1677510987_thumb.jpg,false
+KANO,MAKODA,KOGUNA,SABON RUWA,19/29/05/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62122/result_126296_1677511254_thumb.jpg,true
+KANO,MAKODA,KOGUNA,KUNKURAI I,19/29/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62120/result_126294_1677510297_thumb.jpg,true
+KANO,MAKODA,KOGUNA,CHIDARI III,19/29/05/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645330/result_126300_1677514277_thumb.jpg,false
+KANO,MAKODA,KOGUNA,UNGUWAR CHIROMA I,19/29/05/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KANO,MAKODA,KOGUNA,SABON RUWA II,19/29/05/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KANO,MAKODA,KOGUNA,WARBA II,19/29/05/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62125/result_126299_1677514046_thumb.jpg,true
+KANO,MAKODA,KOGUNA,KOGUNA GARI II,19/29/05/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62119/result_126293_1677509956_thumb.jpg,true
+KANO,MAKODA,KOGUNA,CHILAWA,19/29/05/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62117/result_126291_1677509226_thumb.jpg,true
+KANO,MAKODA,KOGUNA,UNGUWAR CHIROMA II,19/29/05/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645333/result_126303_1677515391_thumb.jpg,false
+KANO,MAKODA,KOGUNA,CHIDARI II,19/29/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62116/result_126290_1677508701_thumb.jpg,true

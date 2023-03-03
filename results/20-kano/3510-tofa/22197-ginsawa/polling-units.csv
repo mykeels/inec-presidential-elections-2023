@@ -1,0 +1,6 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,TOFA,GINSAWA,"GINSAWA DANDALI, HEALTH POST I",19/39/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22197/pu/64003/64003-1677638395.pdf,true
+KANO,TOFA,GINSAWA,GINSAWA C/GARI-GINDIN TSAMIYA,19/39/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63912/result_128953_1677500483_thumb.jpg,true
+KANO,TOFA,GINSAWA,"GINSAWA DANDALI, HEALTH POST II",19/39/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63914/result_128955_1677583600_thumb.jpg,false
+KANO,TOFA,GINSAWA,"MAKAURATA, PRIMARY SCHOOL",19/39/04/004,,false
+KANO,TOFA,GINSAWA,MAKAURATA PRI. SCH. II,19/39/04/005,,false

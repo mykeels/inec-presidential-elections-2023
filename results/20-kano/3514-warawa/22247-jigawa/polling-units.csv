@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,WARAWA,JIGAWA,GADDIMA,19/43/07/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64608/result_129948_1677517064_thumb.jpg,false
+KANO,WARAWA,JIGAWA,MAJAWA,19/43/07/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64612/result_129952_1677517291_thumb.jpg,false
+KANO,WARAWA,JIGAWA,TOKEN,19/43/07/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64614/result_129954_1677518301_thumb.jpg,false
+KANO,WARAWA,JIGAWA,JIGAWA II,19/43/07/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64610/result_129950_1677517341_thumb.jpg,false
+KANO,WARAWA,JIGAWA,LITAU/GANJIKAR,19/43/07/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64611/result_129951_1677516900_thumb.jpg,false
+KANO,WARAWA,JIGAWA,JIGAWA I,19/43/07/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64609/result_129949_1677516935_thumb.jpg,false
+KANO,WARAWA,JIGAWA,AMANA CITY ISLAMIYYA,19/43/07/008,,false
+KANO,WARAWA,JIGAWA,MARAYA NAIRA,19/43/07/006,,false
+KANO,WARAWA,JIGAWA,LARABAR GADAR SARKI ISLAMIYYA,19/43/07/009,,false

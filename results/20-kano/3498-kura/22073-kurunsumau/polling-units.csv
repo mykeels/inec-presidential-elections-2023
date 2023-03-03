@@ -1,0 +1,39 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,KURA,KURUNSUMAU,AUZINAWA  II,19/27/08/030,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22073/pu/149985/149985-1677669387.pdf,true
+KANO,KURA,KURUNSUMAU,GGASS IRSHADU,19/27/08/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22073/pu/149982/149982-1677669253.pdf,false
+KANO,KURA,KURUNSUMAU,KADANE II,19/27/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22073/pu/61975/61975-1677669144.pdf,false
+KANO,KURA,KURUNSUMAU,AZOREN CHIKIN II,19/27/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22073/pu/61970/61970-1677592898.pdf,true
+KANO,KURA,KURUNSUMAU,GWANJAWA I,19/27/08/003,,true
+KANO,KURA,KURUNSUMAU,AZOREN CHIKIN I,19/27/08/001,,false
+KANO,KURA,KURUNSUMAU,IRSHADU ISLAMIYA,19/27/08/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22073/pu/149979/149979-1677594545.pdf,true
+KANO,KURA,KURUNSUMAU,KADANE III,19/27/08/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22073/pu/149983/149983-1677593594.pdf,true
+KANO,KURA,KURUNSUMAU,RIMI MODEL III,19/27/08/035,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22073/pu/149990/149990-1677593447.pdf,true
+KANO,KURA,KURUNSUMAU,TANKIN MAGE,19/27/08/032,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22073/pu/149987/149987-1677592423.pdf,false
+KANO,KURA,KURUNSUMAU,RIMI I,19/27/08/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22073/pu/61982/61982-1677592279.pdf,true
+KANO,KURA,KURUNSUMAU,KURI III,19/27/08/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22073/pu/61981/61981-1677592052.pdf,false
+KANO,KURA,KURUNSUMAU,KURI I,19/27/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22073/pu/61979/61979-1677592009.pdf,false
+KANO,KURA,KURUNSUMAU,KURUN SUMAU ACHIKI,19/27/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22073/pu/61978/61978-1677591505.pdf,true
+KANO,KURA,KURUNSUMAU,UNGUWAR GANDU,19/27/08/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22073/pu/61989/61989-1677591208.pdf,false
+KANO,KURA,KURUNSUMAU,KURUNSUMAU  II,19/27/08/029,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22073/pu/149984/149984-1677590948.pdf,true
+KANO,KURA,KURUNSUMAU,RIMI MODEL II,19/27/08/034,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22073/pu/149989/149989-1677590229.pdf,true
+KANO,KURA,KURUNSUMAU,TAKALMA,19/27/08/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22073/pu/61988/61988-1677589524.pdf,true
+KANO,KURA,KURUNSUMAU,SANI MARSHAL II,19/27/08/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22073/pu/149978/149978-1677582455.pdf,false
+KANO,KURA,KURUNSUMAU,MAKERA FARFARU,19/27/08/031,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22073/pu/149986/149986-1677581906.pdf,true
+KANO,KURA,KURUNSUMAU,KURUN SUMAU AUZINAWA,19/27/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22073/pu/61977/61977-1677581523.pdf,true
+KANO,KURA,KURUNSUMAU,TAFASA I,19/27/08/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22073/pu/61986/61986-1677581071.pdf,true
+KANO,KURA,KURUNSUMAU,TAFASA III,19/27/08/036,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22073/pu/149991/149991-1677580265.pdf,true
+KANO,KURA,KURUNSUMAU,MUNAZZAMA COE,19/27/08/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22073/pu/149980/149980-1677579639.pdf,true
+KANO,KURA,KURUNSUMAU,MUNAZZAMA COE II,19/27/08/026,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/08/pu/026/026-1677424810.pdf,false
+KANO,KURA,KURUNSUMAU,SANI MARSHAL,19/27/08/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/08/pu/017/017-1677421660.pdf,false
+KANO,KURA,KURUNSUMAU,RIMI MODEL I,19/27/08/033,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/08/pu/033/033-1677420404.pdf,false
+KANO,KURA,KURUNSUMAU,GWANJAWA II,19/27/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/08/pu/004/004-1677419380.pdf,false
+KANO,KURA,KURUNSUMAU,RIMI III,19/27/08/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/08/pu/016/016-1677413052.pdf,false
+KANO,KURA,KURUNSUMAU,RIMI II,19/27/08/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/08/pu/015/015-1677406617.pdf,false
+KANO,KURA,KURUNSUMAU,KURUN SUMAU,19/27/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/08/pu/008/008-1677404843.pdf,false
+KANO,KURA,KURUNSUMAU,YALWA,19/27/08/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/08/pu/022/022-1677404060.pdf,false
+KANO,KURA,KURUNSUMAU,GWANJAWA,19/27/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/08/pu/005/005-1677402221.pdf,false
+KANO,KURA,KURUNSUMAU,TAFASA IV,19/27/08/037,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/08/pu/037/037-1677398050.pdf,false
+KANO,KURA,KURUNSUMAU,KURI II,19/27/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/08/pu/012/012-1677369837.pdf,false
+KANO,KURA,KURUNSUMAU,KADANE I,19/27/08/006,,false
+KANO,KURA,KURUNSUMAU,TAFASA II,19/27/08/019,,false
+KANO,KURA,KURUNSUMAU,TAKALMA II,19/27/08/038,,false

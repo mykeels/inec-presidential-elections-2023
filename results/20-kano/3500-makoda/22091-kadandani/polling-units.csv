@@ -1,0 +1,17 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,MAKODA,KADANDANI,KADANDANI GARI I,19/29/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62107/result_126279_1677791111_thumb.jpg,false
+KANO,MAKODA,KADANDANI,GAWON BATURE III,19/29/04/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645328/result_126286_1677790911_thumb.jpg,false
+KANO,MAKODA,KADANDANI,JUYIN HAZO I,19/29/04/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62104/result_126276_1677786456_thumb.jpg,false
+KANO,MAKODA,KADANDANI,SABARU RADE,19/29/04/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62110/result_126282_1677520970_thumb.jpg,true
+KANO,MAKODA,KADANDANI,KADANDANI GARI II,19/29/04/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,true
+KANO,MAKODA,KADANDANI,JUYIN HAZO II,19/29/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62105/result_126277_1677520613_thumb.jpg,true
+KANO,MAKODA,KADANDANI,GAWON BATURE II,19/29/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62103/result_126275_1677514613_thumb.jpg,false
+KANO,MAKODA,KADANDANI,UNGUWAR BIYU,19/29/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62101/result_126273_1677514493_thumb.jpg,true
+KANO,MAKODA,KADANDANI,LUGGE,19/29/04/010,,false
+KANO,MAKODA,KADANDANI,BADE GARI,19/29/04/001,,true
+KANO,MAKODA,KADANDANI,JUYIN HAZO III,19/29/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62106/result_126278_1677513194_thumb.jpg,true
+KANO,MAKODA,KADANDANI,GAWON BATURE I,19/29/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62102/result_126274_1677514557_thumb.jpg,false
+KANO,MAKODA,KADANDANI,TAILAFIYA,19/29/04/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62111/result_126283_1677513481_thumb.jpg,false
+KANO,MAKODA,KADANDANI,UNGUWAR KUSA I,19/29/04/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62112/result_126284_1677595368_thumb.jpg,false
+KANO,MAKODA,KADANDANI,SABARU RADE II,19/29/04/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645329/result_126287_1677513653_thumb.jpg,true
+KANO,MAKODA,KADANDANI,UNGUWAR KUSA II,19/29/04/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62113/result_126285_1677593807_thumb.jpg,false

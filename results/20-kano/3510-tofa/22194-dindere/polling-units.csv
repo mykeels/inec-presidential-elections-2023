@@ -1,0 +1,6 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,TOFA,DINDERE,DINDERE PRIMARY SCHOOL,19/39/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22194/pu/63988/63988-1677594416.pdf,false
+KANO,TOFA,DINDERE,DINDERE PRI. SCH II,19/39/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22194/pu/150903/150903-1677593325.pdf,true
+KANO,TOFA,DINDERE,YALWA HEALTH POST II,19/39/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22194/pu/63991/63991-1677592549.pdf,true
+KANO,TOFA,DINDERE,YALWA HEALTH POST I,19/39/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22194/pu/63990/63990-1677591888.pdf,false
+KANO,TOFA,DINDERE,SIRE HEALTH POST,19/39/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22194/pu/63989/63989-1677590090.pdf,true

@@ -1,0 +1,19 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,KURA,DALILI,RAKAUNA I,19/27/01/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22066/pu/61860/61860-1677590796.pdf,true
+KANO,KURA,DALILI,FEGIN DANDA III,19/27/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/01/pu/007/007-1677386917.pdf,false
+KANO,KURA,DALILI,FEGIN YAWO,19/27/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/01/pu/008/008-1677386141.pdf,false
+KANO,KURA,DALILI,GORUBAWA I,19/27/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/01/pu/010/010-1677384759.pdf,false
+KANO,KURA,DALILI,FEGIN DANDA IV,19/27/01/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/01/pu/016/016-1677384292.pdf,false
+KANO,KURA,DALILI,FEGIN DANDA II,19/27/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/01/pu/006/006-1677384229.pdf,false
+KANO,KURA,DALILI,"HADEJIA, JAMA'AR R. D& A.",19/27/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/01/pu/013/013-1677384231.pdf,false
+KANO,KURA,DALILI,SABON GARIN DALILI,19/27/01/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/01/pu/017/017-1677383858.pdf,false
+KANO,KURA,DALILI,GORUBAWA IV,19/27/01/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/01/pu/018/018-1677379032.pdf,false
+KANO,KURA,DALILI,DALILI S/GARI,19/27/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/01/pu/004/004-1677382693.pdf,false
+KANO,KURA,DALILI,BAUREN TANKO,19/27/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/01/pu/003/003-1677381156.pdf,false
+KANO,KURA,DALILI,AZOREN WAJE I,19/27/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/01/pu/001/001-1677382227.pdf,false
+KANO,KURA,DALILI,G.G.S.S. KURA,19/27/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/01/pu/009/009-1677381838.pdf,false
+KANO,KURA,DALILI,GORUBAWA II,19/27/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/01/pu/011/011-1677381523.pdf,false
+KANO,KURA,DALILI,AZOREN WAJE II,19/27/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/01/pu/002/002-1677380268.pdf,false
+KANO,KURA,DALILI,FEGIN DANDA I,19/27/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/01/pu/005/005-1677380235.pdf,false
+KANO,KURA,DALILI,GORUBAWA III`,19/27/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/01/pu/012/012-1677378739.pdf,false
+KANO,KURA,DALILI,RAKAUNA II,19/27/01/015,,false

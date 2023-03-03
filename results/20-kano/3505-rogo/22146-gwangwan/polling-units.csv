@@ -1,0 +1,19 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,ROGO,GWANGWAN,ISL. SCHOOL,19/34/04/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3505/ward/22146/pu/150520/150520-1677615682.pdf,false
+KANO,ROGO,GWANGWAN,BARI ISLAMIYYA,19/34/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3505/ward/22146/pu/150514/150514-1677615642.pdf,false
+KANO,ROGO,GWANGWAN,MAKARANTA,19/34/04/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3505/ward/22146/pu/150519/150519-1677615530.pdf,false
+KANO,ROGO,GWANGWAN,GIDAN LIMAN,19/34/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3505/ward/22146/pu/150516/150516-1677615427.pdf,false
+KANO,ROGO,GWANGWAN,HORE,19/34/04/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3505/ward/22146/pu/150518/150518-1677615317.pdf,true
+KANO,ROGO,GWANGWAN,KOFAR FADA,19/34/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3505/ward/22146/pu/150515/150515-1677615302.pdf,false
+KANO,ROGO,GWANGWAN,GWAN GWAN,19/34/04/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3505/ward/22146/pu/150517/150517-1677615117.pdf,false
+KANO,ROGO,GWANGWAN,Y/BARI,19/34/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3505/ward/22146/pu/63180/63180-1677611271.pdf,false
+KANO,ROGO,GWANGWAN,HORE,19/34/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3505/ward/22146/pu/63178/63178-1677611013.pdf,false
+KANO,ROGO,GWANGWAN,GWANGWAN II,19/34/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3505/ward/22146/pu/63177/63177-1677610919.pdf,false
+KANO,ROGO,GWANGWAN,D/GWANGWAN,19/34/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3505/ward/22146/pu/63174/63174-1677610693.pdf,false
+KANO,ROGO,GWANGWAN,D/BARI,19/34/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3505/ward/22146/pu/63173/63173-1677610594.pdf,false
+KANO,ROGO,GWANGWAN,BARI III,19/34/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3505/ward/22146/pu/63172/63172-1677610501.pdf,false
+KANO,ROGO,GWANGWAN,BARI II,19/34/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3505/ward/22146/pu/63171/63171-1677610390.pdf,false
+KANO,ROGO,GWANGWAN,BARI I,19/34/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3505/ward/22146/pu/63170/63170-1677610268.pdf,false
+KANO,ROGO,GWANGWAN,GWANGWAN I,19/34/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/34/ward/04/pu/007/007-1677368605.pdf,false
+KANO,ROGO,GWANGWAN,UNGUWA GORA,19/34/04/010,,false
+KANO,ROGO,GWANGWAN,D.NAWA GWANGWAN,19/34/04/006,,false

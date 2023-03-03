@@ -1,0 +1,16 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,SUMAILA,KANAWA,KANAWA C/GARI PRI. SCH V,19/36/05/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22167/pu/150609/150609-1677591193.pdf,true
+KANO,SUMAILA,KANAWA,KANAWA C/GARI PRI. SCH IV,19/36/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22167/pu/150608/150608-1677590925.pdf,false
+KANO,SUMAILA,KANAWA,TISHA,19/36/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22167/pu/63472/63472-1677590452.pdf,true
+KANO,SUMAILA,KANAWA,KANAWA KUDU,19/36/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22167/pu/63470/63470-1677590090.pdf,true
+KANO,SUMAILA,KANAWA,"KANAWA, CIKIN GARI PRIMARY SCHOOL II",19/36/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22167/pu/63469/63469-1677589836.pdf,true
+KANO,SUMAILA,KANAWA,"KANAWA, CIKIN GARI PRIMARY SCHOOL I",19/36/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22167/pu/63468/63468-1677589565.pdf,true
+KANO,SUMAILA,KANAWA,JALI,19/36/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22167/pu/63466/63466-1677582061.pdf,true
+KANO,SUMAILA,KANAWA,"DINGAMU, PRIMARY SCHOOL II",19/36/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22167/pu/63465/63465-1677581761.pdf,true
+KANO,SUMAILA,KANAWA,"DINGAMU, PRIMARY SCHOOL I",19/36/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22167/pu/63464/63464-1677581451.pdf,true
+KANO,SUMAILA,KANAWA,"BANGO, C/GARI PRIMARY SCHOOL",19/36/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3507/ward/22167/pu/63462/63462-1677578695.pdf,false
+KANO,SUMAILA,KANAWA,BUNABUS,19/36/05/002,,false
+KANO,SUMAILA,KANAWA,YANBAWA,19/36/05/012,,false
+KANO,SUMAILA,KANAWA,KANAWA C/GARI PRI. SCH III,19/36/05/013,,false
+KANO,SUMAILA,KANAWA,KAWO,19/36/05/010,,false
+KANO,SUMAILA,KANAWA,JUDAN,19/36/05/006,,false

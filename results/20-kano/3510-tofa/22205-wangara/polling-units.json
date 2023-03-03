@@ -1,0 +1,562 @@
+[
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 2,
+    "is_accredited": 1,
+    "_id": "63f78b04b3695239c61b7fea",
+    "state_id": 20,
+    "state": "5f0eb6e16dda22674979bf35",
+    "lga_id": 3510,
+    "ward_id": 22205,
+    "state_constituency_id": 519,
+    "state_constituency": "5f0f373e93d20b39ceee21ba",
+    "federal_constituency_id": 173,
+    "federal_constituency": "5f0f37fd2d77c83a06f0f3b2",
+    "senatorial_district_id": 120,
+    "senatorial_district": "5f0f395a970bd83a6f453a20",
+    "name": "ISLAMIYYA PRI. SCH. WANGARA",
+    "code": "008",
+    "pu_code": "19/39/12/008",
+    "old_name": "",
+    "polling_unit_id": 150935,
+    "created_at": "2023-02-23T15:49:24.697Z",
+    "updated_at": "2023-02-23T22:13:27.761Z",
+    "__v": 0,
+    "pu_code_string": "193912008",
+    "state_name": "KANO",
+    "lga_name": "TOFA",
+    "ward_name": "WANGARA",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fee754c6e83b6b3f404c20",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646223/result_129052_1677497430_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-03-01T05:49:08.745Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcd6158f41741d12308f6b",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646223/result_129052_1677497430_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T09:21:02.177Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcd6158f41741d12308f6b",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646223/result_129052_1677497430_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T09:21:03.212Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc77e764de23f78b1fc39",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22205/pu/150935/150935-1677573402.pdf",
+        "size": 10495680,
+        "updated_at": "2023-02-28T09:21:03.212Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc77e764de23f78b1fc39",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22205/pu/150935/150935-1677573402.pdf",
+        "size": 10495680,
+        "updated_at": "2023-02-28T13:56:20.683Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc77f764de23f78b1ff23",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22205/pu/150935/150935-1677573402.pdf",
+        "size": 10495680,
+        "updated_at": "2023-02-28T13:56:20.683Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc77f764de23f78b1ff23",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22205/pu/150935/150935-1677573402.pdf",
+        "size": 10495680,
+        "updated_at": "2023-02-28T17:21:54.210Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe0804c43294524a48d164",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646223/result_129052_1677497430_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:21:54.210Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe0804c43294524a48d164",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646223/result_129052_1677497430_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:49:08.745Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe38326f2c3d5c2e70991c",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646223/result_129052_1677497430_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:49:08.745Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f5796c440353badb1d1dd",
+    "state_id": 20,
+    "state": "5f0eb6e16dda22674979bf35",
+    "lga_id": 3510,
+    "ward_id": 22205,
+    "state_constituency_id": 519,
+    "state_constituency": "5f0f373e93d20b39ceee21ba",
+    "federal_constituency_id": 173,
+    "federal_constituency": "5f0f37fd2d77c83a06f0f3b2",
+    "senatorial_district_id": 120,
+    "senatorial_district": "5f0f395a970bd83a6f453a20",
+    "name": "WANGARA C/GAR, PRIMARY SCHOOL I",
+    "code": "003",
+    "pu_code": "19/39/12/003",
+    "old_name": "",
+    "polling_unit_id": 64072,
+    "created_at": "2020-07-15T19:23:02.588Z",
+    "updated_at": "2023-02-23T21:01:55.777Z",
+    "__v": 0,
+    "pu_code_string": "193912003",
+    "state_name": "KANO",
+    "lga_name": "TOFA",
+    "ward_name": "WANGARA",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe740e5e25666708796b7f",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63982/result_129047_1677496210_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T21:37:18.633Z"
+    },
+    "old_documents": [
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74c764de23f78b1b374",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22205/pu/64072/64072-1677564631.pdf",
+        "size": 10317544,
+        "updated_at": "2023-02-28T09:20:13.414Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74c764de23f78b1b374",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22205/pu/64072/64072-1677564631.pdf",
+        "size": 10317544,
+        "updated_at": "2023-02-28T21:37:18.633Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74d764de23f78b1b55f",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22205/pu/64072/64072-1677564631.pdf",
+        "size": 10317544,
+        "updated_at": "2023-02-28T21:37:18.633Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f5796c440353badb1d1dc",
+    "state_id": 20,
+    "state": "5f0eb6e16dda22674979bf35",
+    "lga_id": 3510,
+    "ward_id": 22205,
+    "state_constituency_id": 519,
+    "state_constituency": "5f0f373e93d20b39ceee21ba",
+    "federal_constituency_id": 173,
+    "federal_constituency": "5f0f37fd2d77c83a06f0f3b2",
+    "senatorial_district_id": 120,
+    "senatorial_district": "5f0f395a970bd83a6f453a20",
+    "name": "TABABNI, K. MAI UNGUWA",
+    "code": "002",
+    "pu_code": "19/39/12/002",
+    "old_name": "",
+    "polling_unit_id": 64071,
+    "created_at": "2020-07-15T19:23:02.521Z",
+    "updated_at": "2023-02-23T21:01:55.690Z",
+    "__v": 0,
+    "pu_code_string": "193912002",
+    "state_name": "KANO",
+    "lga_name": "TOFA",
+    "ward_name": "WANGARA",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe66b5d74638649a13c0b3",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63981/result_129046_1677498503_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T20:40:21.871Z"
+    },
+    "old_documents": [
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74b764de23f78b1b280",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22205/pu/64071/64071-1677564473.pdf",
+        "size": 10206973,
+        "updated_at": "2023-02-28T09:20:12.853Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74b764de23f78b1b280",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22205/pu/64071/64071-1677564473.pdf",
+        "size": 10206973,
+        "updated_at": "2023-02-28T20:40:21.871Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74c764de23f78b1b46f",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22205/pu/64071/64071-1677564473.pdf",
+        "size": 10206973,
+        "updated_at": "2023-02-28T20:40:21.871Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f5796c440353badb1d1e1",
+    "state_id": 20,
+    "state": "5f0eb6e16dda22674979bf35",
+    "lga_id": 3510,
+    "ward_id": 22205,
+    "state_constituency_id": 519,
+    "state_constituency": "5f0f373e93d20b39ceee21ba",
+    "federal_constituency_id": 173,
+    "federal_constituency": "5f0f37fd2d77c83a06f0f3b2",
+    "senatorial_district_id": 120,
+    "senatorial_district": "5f0f395a970bd83a6f453a20",
+    "name": "ZANGON - KAMFA ZANGO",
+    "code": "007",
+    "pu_code": "19/39/12/007",
+    "old_name": "",
+    "polling_unit_id": 64076,
+    "created_at": "2020-07-15T19:23:02.839Z",
+    "updated_at": "2023-02-23T21:01:56.121Z",
+    "__v": 0,
+    "pu_code_string": "193912007",
+    "state_name": "KANO",
+    "lga_name": "TOFA",
+    "ward_name": "WANGARA",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe6642d74638649a13b1f2",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63986/result_129051_1677495220_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T20:38:26.358Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe42af39df295eae1b37c5",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63986/result_129051_1677492238_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T20:38:26.358Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f5796c440353badb1d1db",
+    "state_id": 20,
+    "state": "5f0eb6e16dda22674979bf35",
+    "lga_id": 3510,
+    "ward_id": 22205,
+    "state_constituency_id": 519,
+    "state_constituency": "5f0f373e93d20b39ceee21ba",
+    "federal_constituency_id": 173,
+    "federal_constituency": "5f0f37fd2d77c83a06f0f3b2",
+    "senatorial_district_id": 120,
+    "senatorial_district": "5f0f395a970bd83a6f453a20",
+    "name": "FAKO, FAKO OPEN SPACE",
+    "code": "001",
+    "pu_code": "19/39/12/001",
+    "old_name": "",
+    "polling_unit_id": 64070,
+    "created_at": "2020-07-15T19:23:02.465Z",
+    "updated_at": "2023-02-23T21:01:55.571Z",
+    "__v": 0,
+    "pu_code_string": "193912001",
+    "state_name": "KANO",
+    "lga_name": "TOFA",
+    "ward_name": "WANGARA",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe648dd74638649a1379d8",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63980/result_129045_1677495568_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T20:31:09.319Z"
+    },
+    "old_documents": [
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc77f764de23f78b20083",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22205/pu/64070/64070-1677573750.pdf",
+        "size": 11070670,
+        "updated_at": "2023-02-28T09:21:04.811Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc77f764de23f78b20083",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22205/pu/64070/64070-1677573750.pdf",
+        "size": 11070670,
+        "updated_at": "2023-02-28T20:31:09.319Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc780764de23f78b2037e",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22205/pu/64070/64070-1677573750.pdf",
+        "size": 11070670,
+        "updated_at": "2023-02-28T20:31:09.319Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f5796c440353badb1d1df",
+    "state_id": 20,
+    "state": "5f0eb6e16dda22674979bf35",
+    "lga_id": 3510,
+    "ward_id": 22205,
+    "state_constituency_id": 519,
+    "state_constituency": "5f0f373e93d20b39ceee21ba",
+    "federal_constituency_id": 173,
+    "federal_constituency": "5f0f37fd2d77c83a06f0f3b2",
+    "senatorial_district_id": 120,
+    "senatorial_district": "5f0f395a970bd83a6f453a20",
+    "name": "WANGARA C/GAR, PRIMARY SCHOOL III",
+    "code": "005",
+    "pu_code": "19/39/12/005",
+    "old_name": "",
+    "polling_unit_id": 64074,
+    "created_at": "2020-07-15T19:23:02.711Z",
+    "updated_at": "2023-02-23T21:01:55.996Z",
+    "__v": 0,
+    "pu_code_string": "193912005",
+    "state_name": "KANO",
+    "lga_name": "TOFA",
+    "ward_name": "WANGARA",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe622ed74638649a132e24",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63984/result_129049_1677496841_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T20:21:02.586Z"
+    },
+    "old_documents": [
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74d764de23f78b1b561",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22205/pu/64074/64074-1677564980.pdf",
+        "size": 10490920,
+        "updated_at": "2023-02-28T09:20:14.626Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74d764de23f78b1b561",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22205/pu/64074/64074-1677564980.pdf",
+        "size": 10490920,
+        "updated_at": "2023-02-28T20:21:02.586Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74e764de23f78b1b75a",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22205/pu/64074/64074-1677564980.pdf",
+        "size": 10490920,
+        "updated_at": "2023-02-28T20:21:02.586Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f5796c440353badb1d1de",
+    "state_id": 20,
+    "state": "5f0eb6e16dda22674979bf35",
+    "lga_id": 3510,
+    "ward_id": 22205,
+    "state_constituency_id": 519,
+    "state_constituency": "5f0f373e93d20b39ceee21ba",
+    "federal_constituency_id": 173,
+    "federal_constituency": "5f0f37fd2d77c83a06f0f3b2",
+    "senatorial_district_id": 120,
+    "senatorial_district": "5f0f395a970bd83a6f453a20",
+    "name": "WANGARA C/GAR, PRIMARY SCHOOL II",
+    "code": "004",
+    "pu_code": "19/39/12/004",
+    "old_name": "",
+    "polling_unit_id": 64073,
+    "created_at": "2020-07-15T19:23:02.641Z",
+    "updated_at": "2023-02-23T21:01:55.856Z",
+    "__v": 0,
+    "pu_code_string": "193912004",
+    "state_name": "KANO",
+    "lga_name": "TOFA",
+    "ward_name": "WANGARA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63fe468439df295eae1bb994",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22205/pu/64073/64073-1677608558.pdf",
+      "size": 8663082,
+      "updated_at": "2023-02-28T18:23:00.671Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe08f23c40b21e3b502827",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63983/result_129048_1677586715_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T18:23:00.671Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f5796c440353badb1d1e0",
+    "state_id": 20,
+    "state": "5f0eb6e16dda22674979bf35",
+    "lga_id": 3510,
+    "ward_id": 22205,
+    "state_constituency_id": 519,
+    "state_constituency": "5f0f373e93d20b39ceee21ba",
+    "federal_constituency_id": 173,
+    "federal_constituency": "5f0f37fd2d77c83a06f0f3b2",
+    "senatorial_district_id": 120,
+    "senatorial_district": "5f0f395a970bd83a6f453a20",
+    "name": "YANDADI- YANKUNI",
+    "code": "006",
+    "pu_code": "19/39/12/006",
+    "old_name": "",
+    "polling_unit_id": 64075,
+    "created_at": "2020-07-15T19:23:02.780Z",
+    "updated_at": "2023-02-23T21:01:56.057Z",
+    "__v": 0,
+    "pu_code_string": "193912006",
+    "state_name": "KANO",
+    "lga_name": "TOFA",
+    "ward_name": "WANGARA",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe39b46f2c3d5c2e70d37f",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63985/result_129050_1677498105_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T17:28:20.665Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcd7288f41741d1230b891",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63985/result_129050_1677498105_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T09:20:14.261Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcd7288f41741d1230b891",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63985/result_129050_1677498105_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T09:20:15.473Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74e764de23f78b1b6b6",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22205/pu/64075/64075-1677565262.pdf",
+        "size": 9640734,
+        "updated_at": "2023-02-28T09:20:15.473Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74e764de23f78b1b6b6",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22205/pu/64075/64075-1677565262.pdf",
+        "size": 9640734,
+        "updated_at": "2023-02-28T14:32:52.720Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74f764de23f78b1b8be",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22205/pu/64075/64075-1677565262.pdf",
+        "size": 9640734,
+        "updated_at": "2023-02-28T14:32:52.720Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74f764de23f78b1b8be",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22205/pu/64075/64075-1677565262.pdf",
+        "size": 9640734,
+        "updated_at": "2023-02-28T17:28:20.665Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe1094570c70541229ca7a",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63985/result_129050_1677498105_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:28:20.665Z"
+      }
+    ],
+    "has_old_documents": true
+  }
+]

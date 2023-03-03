@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,TOFA,YARIMAWA,FEGIN KANKARA - PRIMARY SCHOOL,19/39/15/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22208/pu/64094/64094-1677698160.pdf,true
+KANO,TOFA,YARIMAWA,HAYEWA HEALTH POST II,19/39/15/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22208/pu/150938/150938-1677659470.pdf,true
+KANO,TOFA,YARIMAWA,GGSS FEGIN KANKARA,19/39/15/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22208/pu/150937/150937-1677658641.pdf,false
+KANO,TOFA,YARIMAWA,YARIMAWA C/GARI - KAMFA,19/39/15/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22208/pu/64098/64098-1677657899.pdf,true
+KANO,TOFA,YARIMAWA,SANTAR DANKAKA - PRIMARY SCHOOL,19/39/15/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64007/result_129074_1677583407_thumb.jpg,false
+KANO,TOFA,YARIMAWA,KAJURE - GINDIN BISHIYA,19/39/15/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22208/pu/64096/64096-1677582296.pdf,false
+KANO,TOFA,YARIMAWA,HAYEWA - HEALTH POST,19/39/15/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22208/pu/64095/64095-1677581884.pdf,true
+KANO,TOFA,YARIMAWA,"DAN AMAR,  GIDAN SHANU",19/39/15/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22208/pu/64093/64093-1677581610.pdf,true

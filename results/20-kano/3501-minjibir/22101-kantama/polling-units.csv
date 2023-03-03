@@ -1,0 +1,12 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,MINJIBIR,KANTAMA,GARKE PRIMARYSCHOOL III,19/30/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3501/ward/22101/pu/150066/150066-1677712723.pdf,false
+KANO,MINJIBIR,KANTAMA,"GARKE, PRIMARY SCHOOL II",19/30/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3501/ward/22101/pu/62292/62292-1677712604.pdf,false
+KANO,MINJIBIR,KANTAMA,"GARKE, PRIMARY SCHOOL I",19/30/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3501/ward/22101/pu/62291/62291-1677712495.pdf,false
+KANO,MINJIBIR,KANTAMA,"LARABAWA, PRIMARY SCHOOL",19/30/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3501/ward/22101/pu/62299/62299-1677697792.pdf,true
+KANO,MINJIBIR,KANTAMA,"KANTAMA, CHIROMA PRIMARY SCHOOL II",19/30/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3501/ward/22101/pu/62298/62298-1677697621.pdf,true
+KANO,MINJIBIR,KANTAMA,"KANTAMA, CHIROMA PRIMARY SCHOOL I",19/30/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3501/ward/22101/pu/62297/62297-1677697075.pdf,true
+KANO,MINJIBIR,KANTAMA,"KANTAMA, CIKIN GARI PRIMARY SCHOOL II",19/30/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3501/ward/22101/pu/62296/62296-1677696347.pdf,true
+KANO,MINJIBIR,KANTAMA,"KANTAMA, CIKIN GARI PRIMARY SCHOOL I",19/30/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3501/ward/22101/pu/62295/62295-1677695965.pdf,true
+KANO,MINJIBIR,KANTAMA,"KACHI SHIRWA, PRIMARY SCHOOL I",19/30/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3501/ward/22101/pu/62294/62294-1677695805.pdf,true
+KANO,MINJIBIR,KANTAMA,"GERANYA, PRIMARY SCHOOL",19/30/03/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62200/result_126399_1677535964_thumb.jpg,false
+KANO,MINJIBIR,KANTAMA,KANTAMA CIKIN GARIPRIMARY SCHOOL III,19/30/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645355/result_126407_1677535769_thumb.jpg,true

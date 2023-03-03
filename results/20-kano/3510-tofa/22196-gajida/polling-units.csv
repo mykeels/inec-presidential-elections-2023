@@ -1,0 +1,8 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,TOFA,GAJIDA,GAJIDA PRI. SCH II,19/39/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22196/pu/150910/150910-1677620874.pdf,true
+KANO,TOFA,GAJIDA,GOV'T JUNIOR SEC. SCH BUGAYAWA,19/39/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22196/pu/150908/150908-1677620682.pdf,true
+KANO,TOFA,GAJIDA,"JARKASA, KOFAR G. MAI UNGUWA",19/39/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22196/pu/64001/64001-1677620485.pdf,true
+KANO,TOFA,GAJIDA,DAGURIBA/HISSATA-K MAI UNGUWA,19/39/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22196/pu/63999/63999-1677620237.pdf,false
+KANO,TOFA,GAJIDA,BUGAYAWA TURAKI,19/39/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22196/pu/63998/63998-1677619985.pdf,false
+KANO,TOFA,GAJIDA,GAJIDA DISPENSARY,19/39/03/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646197/result_128951_1677497292_thumb.jpg,true
+KANO,TOFA,GAJIDA,"GAJIDA, PRIMARY SCHOOL",19/39/03/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63910/result_128948_1677497465_thumb.jpg,true

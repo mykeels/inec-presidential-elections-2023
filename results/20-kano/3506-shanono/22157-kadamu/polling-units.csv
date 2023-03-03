@@ -1,0 +1,15 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,SHANONO,KADAMU,YANGABO I,19/35/05/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KANO,SHANONO,KADAMU,RIGGA,19/35/05/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KANO,SHANONO,KADAMU,MARGA II,19/35/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63239/result_127951_1677596593_thumb.jpg,false
+KANO,SHANONO,KADAMU,MARGA I,19/35/05/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63238/result_127950_1677596448_thumb.jpg,false
+KANO,SHANONO,KADAMU,KUNDILA CHIKIN GARI,19/35/05/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63237/result_127949_1677596277_thumb.jpg,false
+KANO,SHANONO,KADAMU,YANGABO II,19/35/05/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63243/result_127955_1677595339_thumb.jpg,false
+KANO,SHANONO,KADAMU,KAUYEN KUKA,19/35/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63236/result_127948_1677594995_thumb.jpg,false
+KANO,SHANONO,KADAMU,KADAMU CHIKIN GARI II,19/35/05/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63235/result_127947_1677594569_thumb.jpg,false
+KANO,SHANONO,KADAMU,KADAMU CHIKIN GARI I,19/35/05/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63234/result_127946_1677594224_thumb.jpg,false
+KANO,SHANONO,KADAMU,JIGAWA,19/35/05/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63233/result_127945_1677593768_thumb.jpg,false
+KANO,SHANONO,KADAMU,GIRGAM,19/35/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63232/result_127944_1677593030_thumb.jpg,false
+KANO,SHANONO,KADAMU,DOGON MARKE,19/35/05/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63231/result_127943_1677592821_thumb.jpg,false
+KANO,SHANONO,KADAMU,DANKINJI,19/35/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63230/result_127942_1677592129_thumb.jpg,false
+KANO,SHANONO,KADAMU,RINJI,19/35/05/012,,false

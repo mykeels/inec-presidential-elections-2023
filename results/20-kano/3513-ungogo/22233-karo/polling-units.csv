@@ -1,0 +1,11 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,UNGOGO,KARO,WACENI,19/42/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3513/ward/22233/pu/64516/64516-1677748723.pdf,true
+KANO,UNGOGO,KARO,TARDA II,19/42/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3513/ward/22233/pu/64515/64515-1677748609.pdf,false
+KANO,UNGOGO,KARO,TARDA I,19/42/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3513/ward/22233/pu/64514/64514-1677748482.pdf,false
+KANO,UNGOGO,KARO,MINUKA,19/42/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3513/ward/22233/pu/64513/64513-1677748362.pdf,false
+KANO,UNGOGO,KARO,KARO (A),19/42/04/007,https://docs.inecelectionresults.net/elections/1292/1677689156-151080.pdf,true
+KANO,UNGOGO,KARO,WACENI (A),19/42/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3513/ward/22233/pu/151083/151083-1677656444.pdf,true
+KANO,UNGOGO,KARO,MINCIKA A,19/42/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3513/ward/22233/pu/151082/151082-1677656328.pdf,true
+KANO,UNGOGO,KARO,KARO (B),19/42/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3513/ward/22233/pu/151081/151081-1677656175.pdf,true
+KANO,UNGOGO,KARO,KARO,19/42/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3513/ward/22233/pu/64512/64512-1677655783.pdf,true
+KANO,UNGOGO,KARO,BAGUJAN,19/42/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3513/ward/22233/pu/64511/64511-1677655589.pdf,true

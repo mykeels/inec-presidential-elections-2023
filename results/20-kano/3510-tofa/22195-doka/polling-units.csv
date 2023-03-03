@@ -1,0 +1,11 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,TOFA,DOKA,FARIN RUWA KOFAR MAI UNGUWA II,19/39/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22195/pu/150907/150907-1677601681.pdf,false
+KANO,TOFA,DOKA,"GOV""T GIRL'S SEC. SCH. DOKA",19/39/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22195/pu/150906/150906-1677594343.pdf,false
+KANO,TOFA,DOKA,DOKA CIKIN GARI PRI. SCH V,19/39/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22195/pu/150905/150905-1677593523.pdf,true
+KANO,TOFA,DOKA,DOKA CIKIN GARI PRI. SCH. IV,19/39/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22195/pu/150904/150904-1677592758.pdf,true
+KANO,TOFA,DOKA,"DOKA CIKIN GARI, PRIMARY SCHOOL III",19/39/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63905/result_128939_1677583356_thumb.jpg,true
+KANO,TOFA,DOKA,FARUN-RUWA-K MAI UNGUWA,19/39/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63906/result_128940_1677584399_thumb.jpg,true
+KANO,TOFA,DOKA,KATSALLE-BAKIN KWALTA,19/39/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63907/result_128941_1677585451_thumb.jpg,false
+KANO,TOFA,DOKA,"DOKA CIKIN GARI, PRIMARY SCHOOL II",19/39/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22195/pu/63994/63994-1677582186.pdf,true
+KANO,TOFA,DOKA,"DOKA CIKIN GARI, PRIMARY SCHOOL I",19/39/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22195/pu/63993/63993-1677580852.pdf,true
+KANO,TOFA,DOKA,BECHE/ GINDIN BISHIYA`,19/39/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3510/ward/22195/pu/63992/63992-1677580205.pdf,true

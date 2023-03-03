@@ -1,0 +1,16 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,WUDIL,LAJAWA,SAGAME PRIMARY SCHOOL II,19/44/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3515/ward/22262/pu/151247/151247-1677603746.pdf,true
+KANO,WUDIL,LAJAWA,LAJAWA PRIMARY SCHOOL III,19/44/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3515/ward/22262/pu/151246/151246-1677603648.pdf,true
+KANO,WUDIL,LAJAWA,YANDUWATSU - PRIMARY SCHOOL,19/44/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3515/ward/22262/pu/64876/64876-1677603496.pdf,true
+KANO,WUDIL,LAJAWA,YANDOJI - PRIMARY SCHOOL II,19/44/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3515/ward/22262/pu/64875/64875-1677603298.pdf,false
+KANO,WUDIL,LAJAWA,YANDOJI - PRIMARY SCHOOL I,19/44/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3515/ward/22262/pu/64874/64874-1677603182.pdf,true
+KANO,WUDIL,LAJAWA,TSOHO GARU - PRIMARY SCHOOL,19/44/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3515/ward/22262/pu/64873/64873-1677603065.pdf,true
+KANO,WUDIL,LAJAWA,YANDAMA - PRIMARY SCHOOL,19/44/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3515/ward/22262/pu/64872/64872-1677602936.pdf,false
+KANO,WUDIL,LAJAWA,SAGAME - PRIMARY SCHOOL,19/44/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3515/ward/22262/pu/64871/64871-1677602838.pdf,true
+KANO,WUDIL,LAJAWA,MAZARE - PRIMARY SCHOOL,19/44/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3515/ward/22262/pu/64870/64870-1677602723.pdf,false
+KANO,WUDIL,LAJAWA,DADIN KOWA - OPEN SPACE,19/44/07/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KANO,WUDIL,LAJAWA,MAKERA DISPENSARY,19/44/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3515/ward/22262/pu/64869/64869-1677602620.pdf,false
+KANO,WUDIL,LAJAWA,LAJAWA - PRIMARY SCHOOL II,19/44/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3515/ward/22262/pu/64868/64868-1677602482.pdf,true
+KANO,WUDIL,LAJAWA,LAJAWA - PRIMARY SCHOOL I,19/44/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3515/ward/22262/pu/64867/64867-1677602375.pdf,false
+KANO,WUDIL,LAJAWA,KAUYAWA - PRIMARY SCHOOL II,19/44/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3515/ward/22262/pu/64866/64866-1677602279.pdf,false
+KANO,WUDIL,LAJAWA,KAUYAWA - PRIMARY SCHOOL I,19/44/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3515/ward/22262/pu/64865/64865-1677602189.pdf,false

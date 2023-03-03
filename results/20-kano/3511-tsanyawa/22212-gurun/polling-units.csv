@@ -1,0 +1,20 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,TSANYAWA,GURUN,JAMA A,19/40/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3511/ward/22212/pu/64134/64134-1677603383.pdf,true
+KANO,TSANYAWA,GURUN,NASARAWA III,19/40/04/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3511/ward/22212/pu/150950/150950-1677603264.pdf,true
+KANO,TSANYAWA,GURUN,S. NASARA KABAGIWA I ISLAMIYYA SCHOOL (S. NASARA KABAGIWA I),19/40/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3511/ward/22212/pu/64138/64138-1677603021.pdf,true
+KANO,TSANYAWA,GURUN,DUTSIN GIWA MAHUTA I (DUTSIN GIWA MAHUTA I),19/40/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3511/ward/22212/pu/64130/64130-1677602924.pdf,false
+KANO,TSANYAWA,GURUN,BABBAR KOFA I ISLAMIYYA PRI. SCH. (BABBAR KOFA I),19/40/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/40/ward/04/pu/001/001-1677418760.pdf,false
+KANO,TSANYAWA,GURUN,DUTSIN GIWA MAHUTA III,19/40/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/40/ward/04/pu/005/005-1677406533.pdf,false
+KANO,TSANYAWA,GURUN,NASARAWA II PRIMARY SCHOOL (NASARAWA II),19/40/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/40/ward/04/pu/009/009-1677404833.pdf,false
+KANO,TSANYAWA,GURUN,RUGAR GIZARI,19/40/04/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/40/ward/04/pu/017/017-1677404191.pdf,false
+KANO,TSANYAWA,GURUN,NASARAWA I,19/40/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/40/ward/04/pu/008/008-1677403990.pdf,false
+KANO,TSANYAWA,GURUN,CIKIN GARI GURUN II,19/40/04/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/40/ward/04/pu/016/016-1677403913.pdf,false
+KANO,TSANYAWA,GURUN,YAN AWAKI,19/40/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/40/ward/04/pu/014/014-1677403849.pdf,false
+KANO,TSANYAWA,GURUN,GURUN CHIKIN GARI,19/40/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/40/ward/04/pu/006/006-1677403719.pdf,false
+KANO,TSANYAWA,GURUN,MAHUTA,19/40/04/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/40/ward/04/pu/015/015-1677403261.pdf,false
+KANO,TSANYAWA,GURUN,U. RIMI GIZARI (U. RIMI GIZARI),19/40/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/40/ward/04/pu/013/013-1677403264.pdf,false
+KANO,TSANYAWA,GURUN,SAUYA PRIMARY SCHOOL (SAUYA),19/40/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/40/ward/04/pu/010/010-1677402935.pdf,false
+KANO,TSANYAWA,GURUN,BABBAR KOFA II ISLAMIYYA PRI. SCH. (BABBAR KOFA II),19/40/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/40/ward/04/pu/002/002-1677402698.pdf,false
+KANO,TSANYAWA,GURUN,DUTSIN GIWA MAHUTA II,19/40/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/40/ward/04/pu/004/004-1677402188.pdf,false
+KANO,TSANYAWA,GURUN,S. NASARA KABAGIWA II,19/40/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/40/ward/04/pu/012/012-1677373264.pdf,false
+KANO,TSANYAWA,GURUN,HAYIN GURUN,19/40/04/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/40/ward/04/pu/019/019-1677367180.pdf,false

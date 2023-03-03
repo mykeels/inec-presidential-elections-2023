@@ -1,0 +1,6 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,WARAWA,AMARAWA,JIGAWA II,19/43/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646486/result_129904_1677507864_thumb.jpg,true
+KANO,WARAWA,AMARAWA,AMARAWA,19/43/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64572/result_129900_1677500863_thumb.jpg,true
+KANO,WARAWA,AMARAWA,TADATTI,19/43/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/43/ward/01/pu/003/003-1677420132.pdf,false
+KANO,WARAWA,AMARAWA,AMARAWA II,19/43/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/43/ward/01/pu/004/004-1677369390.pdf,false
+KANO,WARAWA,AMARAWA,JIGAWA,19/43/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/43/ward/01/pu/002/002-1677368139.pdf,false

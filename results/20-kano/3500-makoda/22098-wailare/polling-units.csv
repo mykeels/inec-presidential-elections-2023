@@ -1,0 +1,12 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,MAKODA,WAILARE,GAGARAWA,19/29/11/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645345/result_126370_1677517471_thumb.jpg,false
+KANO,MAKODA,WAILARE,DEBERU,19/29/11/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62175/result_126363_1677519477_thumb.jpg,true
+KANO,MAKODA,WAILARE,LIFI DAWA,19/29/11/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62176/result_126364_1677519548_thumb.jpg,true
+KANO,MAKODA,WAILARE,WAILARE GARI I,19/29/11/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62178/result_126366_1677519675_thumb.jpg,true
+KANO,MAKODA,WAILARE,RIMI,19/29/11/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62177/result_126365_1677519610_thumb.jpg,true
+KANO,MAKODA,WAILARE,DAMBAWA II,19/29/11/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645344/result_126369_1677517396_thumb.jpg,false
+KANO,MAKODA,WAILARE,WAILARE GARI II,19/29/11/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62179/result_126367_1677519742_thumb.jpg,true
+KANO,MAKODA,WAILARE,WAILARE GARI IV,19/29/11/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645346/result_126371_1677517533_thumb.jpg,false
+KANO,MAKODA,WAILARE,WAILARE GARI III (KAURA WAJIBI),19/29/11/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/173863/result_126368_1677517667_thumb.jpg,true
+KANO,MAKODA,WAILARE,DANBAWA,19/29/11/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62174/result_126362_1677508578_thumb.jpg,true
+KANO,MAKODA,WAILARE,WAILARE GARI V,19/29/11/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645347/result_126372_1677517598_thumb.jpg,false

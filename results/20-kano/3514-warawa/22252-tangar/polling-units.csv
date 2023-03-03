@@ -1,0 +1,16 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,WARAWA,TANGAR,CHARKA,19/43/12/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3514/ward/22252/pu/64739/64739-1677785086.pdf,true
+KANO,WARAWA,TANGAR,HAYIN WAZO,19/43/12/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64654/result_130006_1677646030_thumb.jpg,false
+KANO,WARAWA,TANGAR,TANAGAR III (TANAGAR VETERINARY),19/43/12/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646509/result_130015_1677518785_thumb.jpg,false
+KANO,WARAWA,TANGAR,RIGAR GABAS,19/43/12/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64658/result_130010_1677517871_thumb.jpg,false
+KANO,WARAWA,TANGAR,MARAYAR ROGO,19/43/12/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64657/result_130009_1677517582_thumb.jpg,false
+KANO,WARAWA,TANGAR,YALMA,19/43/12/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64662/result_130014_1677518696_thumb.jpg,false
+KANO,WARAWA,TANGAR,JILAWA,19/43/12/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64655/result_130007_1677516494_thumb.jpg,false
+KANO,WARAWA,TANGAR,TANAGAR I,19/43/12/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64659/result_130011_1677518100_thumb.jpg,false
+KANO,WARAWA,TANGAR,DANFARI I,19/43/12/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64650/result_130002_1677512127_thumb.jpg,false
+KANO,WARAWA,TANGAR,DANTSAWA,19/43/12/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64652/result_130004_1677512980_thumb.jpg,false
+KANO,WARAWA,TANGAR,HALADAWA,19/43/12/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64653/result_130005_1677513338_thumb.jpg,false
+KANO,WARAWA,TANGAR,WARKAI RUGAR YAMMA,19/43/12/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64661/result_130013_1677518558_thumb.jpg,false
+KANO,WARAWA,TANGAR,DANFARI II,19/43/12/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64651/result_130003_1677512652_thumb.jpg,false
+KANO,WARAWA,TANGAR,TANAGAR II,19/43/12/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64660/result_130012_1677518520_thumb.jpg,false
+KANO,WARAWA,TANGAR,KARGAWA,19/43/12/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64656/result_130008_1677516879_thumb.jpg,false

@@ -1,0 +1,12 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,KUNCHI,SHAMAKAWA,TANGET GARI,19/26/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3497/ward/22063/pu/61812/61812-1677662230.pdf,true
+KANO,KUNCHI,SHAMAKAWA,TANGEL/TUWAWA,19/26/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3497/ward/22063/pu/61811/61811-1677662116.pdf,true
+KANO,KUNCHI,SHAMAKAWA,SHAMAIKAWA CIKIN GARI,19/26/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3497/ward/22063/pu/61810/61810-1677662097.pdf,true
+KANO,KUNCHI,SHAMAKAWA,MAKERA,19/26/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3497/ward/22063/pu/61809/61809-1677662001.pdf,false
+KANO,KUNCHI,SHAMAKAWA,INGAWA,19/26/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3497/ward/22063/pu/61808/61808-1677661962.pdf,false
+KANO,KUNCHI,SHAMAKAWA,KUNYAWA PRI. SCHOOL,19/26/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3497/ward/22063/pu/61807/61807-1677661863.pdf,true
+KANO,KUNCHI,SHAMAKAWA,KUNYAWA GARI,19/26/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3497/ward/22063/pu/61806/61806-1677661803.pdf,false
+KANO,KUNCHI,SHAMAKAWA,GWALAIDADA C/GARI,19/26/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3497/ward/22063/pu/61805/61805-1677661718.pdf,true
+KANO,KUNCHI,SHAMAKAWA,GWALAIDADA PRIMARY SCHOOL,19/26/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61712/result_125792_1677535378_thumb.jpg,true
+KANO,KUNCHI,SHAMAKAWA,BAJE CIKIN GARI,19/26/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61711/result_125791_1677533935_thumb.jpg,false
+KANO,KUNCHI,SHAMAKAWA,BARGUMAWA,19/26/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61710/result_125790_1677533623_thumb.jpg,false

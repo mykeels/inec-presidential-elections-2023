@@ -1,0 +1,25 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,KURA,KARFI,YAKASAI,19/27/05/016,https://docs.inecelectionresults.net/elections/1292/1677684764-61936.pdf,true
+KANO,KURA,KARFI,GIDAN SARKI (RIGA I),19/27/05/013,,true
+KANO,KURA,KARFI,NECCO CAMP,19/27/05/012,,true
+KANO,KURA,KARFI,KONA III,19/27/05/010,,true
+KANO,KURA,KARFI,IMAWA II,19/27/05/007,,true
+KANO,KURA,KARFI,BAWA (BAWA GANGARE),19/27/05/003,,true
+KANO,KURA,KARFI,CEDIYA (RIGA II),19/27/05/014,,true
+KANO,KURA,KARFI,BAURE (UNGUWAR BAURE),19/27/05/015,,true
+KANO,KURA,KARFI,MAKERA (KONA II),19/27/05/009,,true
+KANO,KURA,KARFI,BAURE CHIKI,19/27/05/004,,true
+KANO,KURA,KARFI,KANKARE (KONA I),19/27/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22070/pu/61928/61928-1677582375.pdf,true
+KANO,KURA,KARFI,KANYA (GIDAN DAN KAUYE),19/27/05/005,,true
+KANO,KURA,KARFI,ZANGO,19/27/05/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22070/pu/61938/61938-1677517702.pdf,false
+KANO,KURA,KARFI,ZANGO GARI,19/27/05/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22070/pu/61937/61937-1677517323.pdf,false
+KANO,KURA,KARFI,KWARIN DANGANA,19/27/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22070/pu/61931/61931-1677515019.pdf,false
+KANO,KURA,KARFI,IMAWA I,19/27/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22070/pu/61926/61926-1677513490.pdf,false
+KANO,KURA,KARFI,SABUWAR MAKARANTA (AGALAWA),19/27/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22070/pu/61921/61921-1677513065.pdf,false
+KANO,KURA,KARFI,YAKASAI II,19/27/05/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22070/pu/149967/149967-1677512163.pdf,false
+KANO,KURA,KARFI,IMAWA III,19/27/05/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22070/pu/149963/149963-1677511990.pdf,false
+KANO,KURA,KARFI,BAWA,19/27/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22070/pu/61922/61922-1677510933.pdf,false
+KANO,KURA,KARFI,MAKERA,19/27/05/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22070/pu/149964/149964-1677510199.pdf,false
+KANO,KURA,KARFI,RIGA III,19/27/05/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22070/pu/149965/149965-1677509526.pdf,false
+KANO,KURA,KARFI,ZANGO II,19/27/05/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/024/024-1677391637.pdf,false
+KANO,KURA,KARFI,GIDAN RUWA,19/27/05/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/022/022-1677389624.pdf,false

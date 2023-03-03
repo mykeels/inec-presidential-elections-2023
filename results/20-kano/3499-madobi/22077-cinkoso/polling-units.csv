@@ -1,0 +1,8 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,MADOBI,CINKOSO,AGALAWA I,19/28/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61934/result_126069_1677486674_thumb.jpg,true
+KANO,MADOBI,CINKOSO,"CINKOSO, KWARI II",19/28/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61937/result_126072_1677485432_thumb.jpg,true
+KANO,MADOBI,CINKOSO,"CINKOSO, KWARI III",19/28/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61938/result_126073_1677486441_thumb.jpg,true
+KANO,MADOBI,CINKOSO,"CINKOSO, KWARI I",19/28/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61936/result_126071_1677486555_thumb.jpg,true
+KANO,MADOBI,CINKOSO,AGALAWA II,19/28/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61935/result_126070_1677486793_thumb.jpg,true
+KANO,MADOBI,CINKOSO,"CINKOSO, TUDUN MAGAJI I",19/28/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61932/result_126067_1677485863_thumb.jpg,true
+KANO,MADOBI,CINKOSO,"CINKOSO, TUDUN MAGAJI II",19/28/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61933/result_126068_1677588577_thumb.jpg,false

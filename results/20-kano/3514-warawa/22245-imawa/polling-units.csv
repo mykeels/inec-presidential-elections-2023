@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,WARAWA,IMAWA,IMAWA III,19/43/05/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646492/result_129935_1677506858_thumb.jpg,false
+KANO,WARAWA,IMAWA,GIDAN DALADA,19/43/05/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64595/result_129929_1677514342_thumb.jpg,false
+KANO,WARAWA,IMAWA,IMAWA,19/43/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64596/result_129930_1677504109_thumb.jpg,false
+KANO,WARAWA,IMAWA,FAGOJI,19/43/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64594/result_129928_1677501469_thumb.jpg,false
+KANO,WARAWA,IMAWA,MAHAKA,19/43/05/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64598/result_129932_1677500748_thumb.jpg,false
+KANO,WARAWA,IMAWA,IMAWA II,19/43/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646491/result_129934_1677506541_thumb.jpg,true
+KANO,WARAWA,IMAWA,KANTA,19/43/05/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/64597/result_129931_1677504550_thumb.jpg,false
+KANO,WARAWA,IMAWA,KANTA ISLAMIYYA,19/43/05/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/646493/result_129936_1677507026_thumb.jpg,true
+KANO,WARAWA,IMAWA,WANGARA,19/43/05/006,,false

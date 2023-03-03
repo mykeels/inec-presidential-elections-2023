@@ -1,0 +1,17 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,MAKODA,JIBGA,SABAWA,19/29/03/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645327/result_126271_1677513714_thumb.jpg,true
+KANO,MAKODA,JIBGA,BARE BARI II,19/29/03/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62088/result_126257_1677511771_thumb.jpg,false
+KANO,MAKODA,JIBGA,JIBGA GARI I,19/29/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62091/result_126260_1677512192_thumb.jpg,false
+KANO,MAKODA,JIBGA,JIBGAR FULANI,19/29/03/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62090/result_126259_1677512017_thumb.jpg,false
+KANO,MAKODA,JIBGA,MAKYAKUS II,19/29/03/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62095/result_126264_1677512751_thumb.jpg,false
+KANO,MAKODA,JIBGA,YANBAWA,19/29/03/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62098/result_126267_1677513083_thumb.jpg,false
+KANO,MAKODA,JIBGA,BARE BARI I,19/29/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62087/result_126256_1677511439_thumb.jpg,false
+KANO,MAKODA,JIBGA,JIBGA GARI II,19/29/03/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62092/result_126261_1677512370_thumb.jpg,false
+KANO,MAKODA,JIBGA,UNGUWAR GALADIMA I,19/29/03/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62096/result_126265_1677512843_thumb.jpg,false
+KANO,MAKODA,JIBGA,BAREBARI III,19/29/03/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KANO,MAKODA,JIBGA,KAUYEN BANGO,19/29/03/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645326/result_126270_1677513400_thumb.jpg,false
+KANO,MAKODA,JIBGA,UNGUWAR GALADIMA II,19/29/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62097/result_126266_1677512980_thumb.jpg,false
+KANO,MAKODA,JIBGA,MAKYAKUS I,19/29/03/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62094/result_126263_1677512638_thumb.jpg,true
+KANO,MAKODA,JIBGA,YARTAGUWA,19/29/03/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62099/result_126268_1677513192_thumb.jpg,true
+KANO,MAKODA,JIBGA,KELAWE,19/29/03/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62093/result_126262_1677512532_thumb.jpg,true
+KANO,MAKODA,JIBGA,GAMBARAWA,19/29/03/003,,false

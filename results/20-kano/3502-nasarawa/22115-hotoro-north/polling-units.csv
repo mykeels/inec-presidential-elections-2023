@@ -1,0 +1,37 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,NASARAWA,HOTORO NORTH,GOVT. SEC. SCH. HOTORO NORTH III,19/31/06/031,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3502/ward/22115/pu/150279/150279-1677689559.pdf,true
+KANO,NASARAWA,HOTORO NORTH,HOTORON FULANI SPS III,19/31/06/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3502/ward/22115/pu/150276/150276-1677689111.pdf,true
+KANO,NASARAWA,HOTORO NORTH,HOTORON FULANI SPS II,19/31/06/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645563/result_126996_1677688825_thumb.jpg,false
+KANO,NASARAWA,HOTORO NORTH,"HOTORO NORTH, PRIMARY SCHOOL XI",19/31/06/011,https://docs.inecelectionresults.net/elections/1292/1677687427-62671.pdf,true
+KANO,NASARAWA,HOTORO NORTH,WALALAMBE NOMADIC SPS I,19/31/06/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645559/result_126992_1677685671_thumb.jpg,false
+KANO,NASARAWA,HOTORO NORTH,WALALAMBE,19/31/06/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62583/result_126985_1677679701_thumb.jpg,false
+KANO,NASARAWA,HOTORO NORTH,"HOTORO NORTH, PRIMARY SCHOOL VII",19/31/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62574/result_126976_1677679493_thumb.jpg,false
+KANO,NASARAWA,HOTORO NORTH,"WURO BAGGA, PRIMARY SCHOOL",19/31/06/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KANO,NASARAWA,HOTORO NORTH,RAUDA KEYI,19/31/06/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62582/result_126984_1677677533_thumb.jpg,false
+KANO,NASARAWA,HOTORO NORTH,"HOTORO NORTH, PRIMARY SCHOOL IX",19/31/06/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62576/result_126978_1677677410_thumb.jpg,false
+KANO,NASARAWA,HOTORO NORTH,"WURO BAGGA, PRIMARY SCHOOL",19/31/06/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62585/result_126987_1677677123_thumb.jpg,false
+KANO,NASARAWA,HOTORO NORTH,HOTORON FULANI SPS I,19/31/06/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645562/result_126995_1677676954_thumb.jpg,false
+KANO,NASARAWA,HOTORO NORTH,"LADANAI, UNG MALAMAI",19/31/06/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62581/result_126983_1677676797_thumb.jpg,false
+KANO,NASARAWA,HOTORO NORTH,"HOTORO NORTH, PRIMARY SCHOOL X",19/31/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62577/result_126979_1677676701_thumb.jpg,false
+KANO,NASARAWA,HOTORO NORTH,YANDODO II,19/31/06/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62587/result_126989_1677676552_thumb.jpg,false
+KANO,NASARAWA,HOTORO NORTH,"HOTORO NORTH, PRIMARY SCHOOL I",19/31/06/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62568/result_126970_1677676457_thumb.jpg,false
+KANO,NASARAWA,HOTORO NORTH,"HOTORO NORTH, PRIMARY SCHOOL II",19/31/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62569/result_126971_1677676376_thumb.jpg,false
+KANO,NASARAWA,HOTORO NORTH,TINSHAMA TRANSFORMER LAYIN CUSTOM I,19/31/06/035,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645571/result_127004_1677676257_thumb.jpg,false
+KANO,NASARAWA,HOTORO NORTH,"HOTORO NORTH, PRIMARY SCHOOL V",19/31/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62572/result_126974_1677495769_thumb.jpg,false
+KANO,NASARAWA,HOTORO NORTH,"HOTORO NORTH, PRIMARY SCHOOL III",19/31/06/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62570/result_126972_1677493693_thumb.jpg,false
+KANO,NASARAWA,HOTORO NORTH,GOVT. SEC. SCH. HOTORO NORTH II,19/31/06/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645566/result_126999_1677494492_thumb.jpg,false
+KANO,NASARAWA,HOTORO NORTH,TINSHAMA TRANSFORMER LAYIN CUSTOM II,19/31/06/036,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645572/result_127005_1677494547_thumb.jpg,false
+KANO,NASARAWA,HOTORO NORTH,LADANAI PRI. SCH. I,19/31/06/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645557/result_126990_1677494131_thumb.jpg,false
+KANO,NASARAWA,HOTORO NORTH,LADANAI PRI. SCH. II,19/31/06/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645558/result_126991_1677494448_thumb.jpg,false
+KANO,NASARAWA,HOTORO NORTH,NURUL HUDA COMM. SEC. SCH. T/BOKA  I,19/31/06/033,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645569/result_127002_1677492080_thumb.jpg,false
+KANO,NASARAWA,HOTORO NORTH,GOVT. SEC. SCH. HOTORO NORTH IV,19/31/06/032,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645568/result_127001_1677495068_thumb.jpg,false
+KANO,NASARAWA,HOTORO NORTH,WALALAMBE NOMADIC SPS II,19/31/06/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645560/result_126993_1677493628_thumb.jpg,false
+KANO,NASARAWA,HOTORO NORTH,"HOTORO NORTH, PRIMARY SCHOOL XII",19/31/06/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62579/result_126981_1677494120_thumb.jpg,false
+KANO,NASARAWA,HOTORO NORTH,"HOTORO NORTH, PRIMARY SCHOOL VI",19/31/06/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62573/result_126975_1677494479_thumb.jpg,false
+KANO,NASARAWA,HOTORO NORTH,"HOTORO NORTH, PRIMARY SCHOOL VIII",19/31/06/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62575/result_126977_1677494679_thumb.jpg,true
+KANO,NASARAWA,HOTORO NORTH,YANDODO I,19/31/06/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62586/result_126988_1677494021_thumb.jpg,true
+KANO,NASARAWA,HOTORO NORTH,GOVT. SEC. SCH. HOTORO NORTH I,19/31/06/029,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645565/result_126998_1677496130_thumb.jpg,true
+KANO,NASARAWA,HOTORO NORTH,"HOTORO NORTH, PRIMARY SCHOOL XIII",19/31/06/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62580/result_126982_1677493618_thumb.jpg,true
+KANO,NASARAWA,HOTORO NORTH,"HOTORO NORTH, PRIMARY SCHOOL IV",19/31/06/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62571/result_126973_1677490555_thumb.jpg,true
+KANO,NASARAWA,HOTORO NORTH,NOMADIC PRI. SCH. WURO BAGGA,19/31/06/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645561/result_126994_1677492439_thumb.jpg,true
+KANO,NASARAWA,HOTORO NORTH,NURUL HUDA COMM. SEC. SCH. T/BOKA  II,19/31/06/034,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/31/ward/06/pu/034/034-1677359857.pdf,false

@@ -1,0 +1,17 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,MADOBI,RIKADAWA,JIRGWAI IV,19/28/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3499/ward/22086/pu/62151/62151-1677703891.pdf,false
+KANO,MADOBI,RIKADAWA,RIKADAWA SAKO III,19/28/11/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3499/ward/22086/pu/150028/150028-1677702497.pdf,false
+KANO,MADOBI,RIKADAWA,RIKADAAWA KALO III,19/28/11/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3499/ward/22086/pu/150027/150027-1677702375.pdf,false
+KANO,MADOBI,RIKADAWA,RIKADAWA SAKO IV,19/28/11/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3499/ward/22086/pu/150029/150029-1677702156.pdf,true
+KANO,MADOBI,RIKADAWA,JIRGWAI III,19/28/11/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62058/result_126217_1677603078_thumb.jpg,false
+KANO,MADOBI,RIKADAWA,JEDAWA/CIKAWA TUDU II,19/28/11/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KANO,MADOBI,RIKADAWA,JIRGWAI I,19/28/11/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62056/result_126215_1677600950_thumb.jpg,false
+KANO,MADOBI,RIKADAWA,JEDAWA/CIKAWA KWARI II,19/28/11/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62055/result_126214_1677600860_thumb.jpg,false
+KANO,MADOBI,RIKADAWA,JEDAWA/CIKAWA KWARI I,19/28/11/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KANO,MADOBI,RIKADAWA,JEDAWA/CIKAWA TUDU,19/28/11/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62053/result_126212_1677600341_thumb.jpg,false
+KANO,MADOBI,RIKADAWA,UNGUWAR DAWA/BODE,19/28/11/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62052/result_126211_1677600264_thumb.jpg,false
+KANO,MADOBI,RIKADAWA,RIKADAWA SAKO II,19/28/11/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62051/result_126210_1677600191_thumb.jpg,false
+KANO,MADOBI,RIKADAWA,RIKADAWA SAKO I,19/28/11/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62050/result_126209_1677594101_thumb.jpg,false
+KANO,MADOBI,RIKADAWA,RIKADAWA KALO II,19/28/11/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62049/result_126208_1677593814_thumb.jpg,false
+KANO,MADOBI,RIKADAWA,RIKADAWA KALO I,19/28/11/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/62048/result_126207_1677593607_thumb.jpg,false
+KANO,MADOBI,RIKADAWA,JIRGWAI II,19/28/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/28/ward/11/pu/010/010-1677369121.pdf,false

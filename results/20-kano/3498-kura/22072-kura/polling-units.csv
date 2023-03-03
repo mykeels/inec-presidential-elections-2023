@@ -1,0 +1,21 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,KURA,KURA,MOHA II,19/27/07/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22072/pu/149976/149976-1677661237.pdf,false
+KANO,KURA,KURA,NUFAWA II,19/27/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22072/pu/61966/61966-1677661153.pdf,false
+KANO,KURA,KURA,LIMAMAI II,19/27/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22072/pu/61963/61963-1677661055.pdf,false
+KANO,KURA,KURA,ALKALAWA I,19/27/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22072/pu/61956/61956-1677660956.pdf,false
+KANO,KURA,KURA,KWARIN NA GWANGWAN II,19/27/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22072/pu/61961/61961-1677593704.pdf,true
+KANO,KURA,KURA,MOHA,19/27/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22072/pu/61964/61964-1677593238.pdf,true
+KANO,KURA,KURA,ALKALAWA V,19/27/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22072/pu/149972/149972-1677592058.pdf,false
+KANO,KURA,KURA,NUFAWA I,19/27/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22072/pu/61965/61965-1677591811.pdf,false
+KANO,KURA,KURA,LIMAMAI I,19/27/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3498/ward/22072/pu/61962/61962-1677516358.pdf,false
+KANO,KURA,KURA,LIMAMAI III,19/27/07/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/07/pu/018/018-1677425264.pdf,false
+KANO,KURA,KURA,DIRIMIN ALEWA,19/27/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/07/pu/004/004-1677419631.pdf,false
+KANO,KURA,KURA,NUFAWA III,19/27/07/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/07/pu/020/020-1677413005.pdf,false
+KANO,KURA,KURA,RIMIN DADDO,19/27/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/07/pu/012/012-1677403042.pdf,false
+KANO,KURA,KURA,DIRIMIN ALEWA II,19/27/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/07/pu/016/016-1677386510.pdf,false
+KANO,KURA,KURA,TSIGAI,19/27/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/07/pu/013/013-1677386355.pdf,false
+KANO,KURA,KURA,ALKALAWA III,19/27/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/07/pu/003/003-1677378029.pdf,false
+KANO,KURA,KURA,KWARIN NA GWANGWAN I,19/27/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/07/pu/005/005-1677370672.pdf,false
+KANO,KURA,KURA,ALKALAWA II,19/27/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/07/pu/002/002-1677368543.pdf,false
+KANO,KURA,KURA,ALKALAWA IV,19/27/07/014,,false
+KANO,KURA,KURA,KWARIN NAGWANGWAN,19/27/07/017,,false

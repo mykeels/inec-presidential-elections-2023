@@ -1,0 +1,11 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,RIMIN GADO,ZANGO DAN ABDU,ZANGO CIKIN GARI PRIMARY SCHOOL III,19/33/12/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63033/result_127661_1677530045_thumb.jpg,true
+KANO,RIMIN GADO,ZANGO DAN ABDU,KADANI OPEN SPACE,19/33/12/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/63026/result_127654_1677529770_thumb.jpg,true
+KANO,RIMIN GADO,ZANGO DAN ABDU,"DUWATSU, OPEN SPACE",19/33/12/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3504/ward/22142/pu/63118/63118-1677602913.pdf,false
+KANO,RIMIN GADO,ZANGO DAN ABDU,RINJIN SHIRI PRI. SCH. II,19/33/12/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3504/ward/22142/pu/150495/150495-1677602606.pdf,false
+KANO,RIMIN GADO,ZANGO DAN ABDU,"ZANGO, CIKIN GARI PRIMARY SCHOOL II",19/33/12/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3504/ward/22142/pu/63125/63125-1677594029.pdf,false
+KANO,RIMIN GADO,ZANGO DAN ABDU,"UNGUWAR YAMMA, DISPENSARY II",19/33/12/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3504/ward/22142/pu/63123/63123-1677592949.pdf,true
+KANO,RIMIN GADO,ZANGO DAN ABDU,"UNGUWAR YAMMA, DISPENSARY I",19/33/12/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3504/ward/22142/pu/63122/63122-1677592692.pdf,true
+KANO,RIMIN GADO,ZANGO DAN ABDU,"RINJIN SHIRI, PRIMARY SCHOOL",19/33/12/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3504/ward/22142/pu/63121/63121-1677592277.pdf,true
+KANO,RIMIN GADO,ZANGO DAN ABDU,KUKUNI DISPENSARY,19/33/12/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3504/ward/22142/pu/63120/63120-1677591719.pdf,true
+KANO,RIMIN GADO,ZANGO DAN ABDU,"ZANGO, CIKIN GARI PRIMARY SCHOOL I",19/33/12/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/33/ward/12/pu/007/007-1677364548.pdf,false
