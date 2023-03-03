@@ -1,0 +1,15 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+ANAMBRA,NJIKOKA,NIMO  IV,OBEAGU EZI NWOBODO SQAURE,04/13/18/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3184/ward/18461/pu/121956/121956-1677685070.pdf,false
+ANAMBRA,NJIKOKA,NIMO  IV,AMAOKOLO SQUARE II,04/13/18/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3184/ward/18461/pu/11101/11101-1677684749.pdf,false
+ANAMBRA,NJIKOKA,NIMO  IV,AMAOKOLO SQUARE I,04/13/18/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3184/ward/18461/pu/11100/11100-1677684358.pdf,true
+ANAMBRA,NJIKOKA,NIMO  IV,NKWOYE OJI SQUARE I,04/13/18/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3184/ward/18461/pu/11098/11098-1677684013.pdf,false
+ANAMBRA,NJIKOKA,NIMO  IV,NWAFOR UMUDUNU SQUARE III,04/13/18/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3184/ward/18461/pu/11097/11097-1677683688.pdf,false
+ANAMBRA,NJIKOKA,NIMO  IV,NWAFOR UMUDUNU SQUARE II,04/13/18/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3184/ward/18461/pu/11096/11096-1677682060.pdf,false
+ANAMBRA,NJIKOKA,NIMO  IV,NWAFOR UMUDUNU SQUARE I,04/13/18/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3184/ward/18461/pu/11095/11095-1677681531.pdf,false
+ANAMBRA,NJIKOKA,NIMO  IV,IDEMILI SQUARE II,04/13/18/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3184/ward/18461/pu/11094/11094-1677680976.pdf,false
+ANAMBRA,NJIKOKA,NIMO  IV,ATUKPOLUM KINDERGATEN II,04/13/18/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3184/ward/18461/pu/11092/11092-1677680522.pdf,false
+ANAMBRA,NJIKOKA,NIMO  IV,ATUKPOLUM KINDERGATEN I,04/13/18/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3184/ward/18461/pu/11091/11091-1677678334.pdf,false
+ANAMBRA,NJIKOKA,NIMO  IV,EGBENGWU P/S I,04/13/18/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3184/ward/18461/pu/11089/11089-1677676065.pdf,false
+ANAMBRA,NJIKOKA,NIMO  IV,NKWOYE OJI SQUARE II,04/13/18/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/18/pu/011/011-1677407251.pdf,false
+ANAMBRA,NJIKOKA,NIMO  IV,IDEMILI SQUARE I,04/13/18/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/18/pu/005/005-1677406277.pdf,false
+ANAMBRA,NJIKOKA,NIMO  IV,EGBENGWU P/S II,04/13/18/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/18/pu/002/002-1677364499.pdf,false

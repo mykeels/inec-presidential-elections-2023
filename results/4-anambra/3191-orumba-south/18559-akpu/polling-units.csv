@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+ANAMBRA,ORUMBA  SOUTH,AKPU,EZIBE ILOEKWE GROUND,04/20/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3191/ward/18559/pu/12529/12529-1677679446.pdf,true
+ANAMBRA,ORUMBA  SOUTH,AKPU,EZIBE AMBROSE OKEKE SQUARE,04/20/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3191/ward/18559/pu/12530/12530-1677679471.pdf,false
+ANAMBRA,ORUMBA  SOUTH,AKPU,"PRY. SCHOOL, AKPU",04/20/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3191/ward/18559/pu/12528/12528-1677679395.pdf,false
+ANAMBRA,ORUMBA  SOUTH,AKPU,EZIBE ONUIGBO SQUARE,04/20/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3191/ward/18559/pu/12527/12527-1677678200.pdf,false
+ANAMBRA,ORUMBA  SOUTH,AKPU,AKPU TOWN HALL II,04/20/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3191/ward/18559/pu/12526/12526-1677678166.pdf,false
+ANAMBRA,ORUMBA  SOUTH,AKPU,AKPU TOWN HALL I,04/20/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3191/ward/18559/pu/12525/12525-1677678140.pdf,false
+ANAMBRA,ORUMBA  SOUTH,AKPU,"NKWO MARKET, AKPU II",04/20/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3191/ward/18559/pu/12524/12524-1677678135.pdf,false
+ANAMBRA,ORUMBA  SOUTH,AKPU,"NKWO MARKET, AKPU I",04/20/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3191/ward/18559/pu/12523/12523-1677678060.pdf,true

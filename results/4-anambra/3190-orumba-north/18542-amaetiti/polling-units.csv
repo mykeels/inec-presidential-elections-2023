@@ -1,0 +1,4 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+ANAMBRA,ORUMBA NORTH,AMAETITI,ENUKO VILLAGE,04/19/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3190/ward/18542/pu/12310/12310-1677681317.pdf,true
+ANAMBRA,ORUMBA NORTH,AMAETITI,OBINETITI AMAETITI,04/19/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/03/pu/002/002-1677420902.pdf,false
+ANAMBRA,ORUMBA NORTH,AMAETITI,"CENTRAL SCHOOL, AMAETITI",04/19/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/03/pu/001/001-1677416895.pdf,false

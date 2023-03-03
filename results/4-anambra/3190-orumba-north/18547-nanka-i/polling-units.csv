@@ -1,0 +1,22 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+ANAMBRA,ORUMBA NORTH,NANKA  I,PRIMARY SCHOOL NKWOAGU NANKA,04/19/08/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3190/ward/18547/pu/122406/122406-1677689789.pdf,true
+ANAMBRA,ORUMBA NORTH,NANKA  I,UMUEZEOKE HALL,04/19/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3190/ward/18547/pu/12372/12372-1677689334.pdf,true
+ANAMBRA,ORUMBA NORTH,NANKA  I,"LOWER STD, IFITE",04/19/08/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3190/ward/18547/pu/12383/12383-1677599429.pdf,false
+ANAMBRA,ORUMBA NORTH,NANKA  I,"COMM. HIGH SCHOOL, AGBILIGBA II",04/19/08/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3190/ward/18547/pu/12379/12379-1677598785.pdf,false
+ANAMBRA,ORUMBA NORTH,NANKA  I,AGBILIGBA HALL,04/19/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3190/ward/18547/pu/12376/12376-1677597775.pdf,false
+ANAMBRA,ORUMBA NORTH,NANKA  I,AGUDO CUSTOMARY COURT,04/19/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3190/ward/18547/pu/12377/12377-1677595102.pdf,false
+ANAMBRA,ORUMBA NORTH,NANKA  I,AMOKWE SQUARE,04/19/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3190/ward/18547/pu/12366/12366-1677575092.pdf,true
+ANAMBRA,ORUMBA NORTH,NANKA  I,EGBEBELU HALL (COMM. BANK),04/19/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3190/ward/18547/pu/12373/12373-1677574428.pdf,true
+ANAMBRA,ORUMBA NORTH,NANKA  I,OPEN SPACE AT IFITE NANKA I BEHIND ST. ANTHONY CATHOLIC CHURCH NANKA,04/19/08/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3190/ward/18547/pu/122407/122407-1677572582.pdf,true
+ANAMBRA,ORUMBA NORTH,NANKA  I,SECURITY HALL NANKA I,04/19/08/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3190/ward/18547/pu/122408/122408-1677571881.pdf,true
+ANAMBRA,ORUMBA NORTH,NANKA  I,"CENTRAL SCHOOL, IFITE",04/19/08/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/08/pu/016/016-1677406317.pdf,false
+ANAMBRA,ORUMBA NORTH,NANKA  I,"COMM. HIGH SCHOOL, AGBILIGBA I",04/19/08/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/08/pu/013/013-1677400630.pdf,false
+ANAMBRA,ORUMBA NORTH,NANKA  I,ETTI VILLAGE HALL II,04/19/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/08/pu/005/005-1677396356.pdf,false
+ANAMBRA,ORUMBA NORTH,NANKA  I,"ST. JUDE'S KDT, UMUDALA",04/19/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/08/pu/009/009-1677395953.pdf,false
+ANAMBRA,ORUMBA NORTH,NANKA  I,UMUEZEAGBANARI SQUARE,04/19/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/08/pu/002/002-1677394228.pdf,false
+ANAMBRA,ORUMBA NORTH,NANKA  I,UMUDALA HALL,04/19/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/08/pu/010/010-1677393892.pdf,false
+ANAMBRA,ORUMBA NORTH,NANKA  I,ISIGWU NWAGU CENTRAL SCHOOL II,04/19/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/08/pu/006/006-1677393411.pdf,false
+ANAMBRA,ORUMBA NORTH,NANKA  I,ISIGWU NWAGU CENTRAL SCHOOL I,04/19/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/08/pu/003/003-1677393317.pdf,false
+ANAMBRA,ORUMBA NORTH,NANKA  I,ETTI VILLAGE HALL I,04/19/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/08/pu/004/004-1677392483.pdf,false
+ANAMBRA,ORUMBA NORTH,NANKA  I,OKAA AGBILIGBA HALL,04/19/08/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/08/pu/015/015-1677391999.pdf,false
+ANAMBRA,ORUMBA NORTH,NANKA  I,UBA HALL,04/19/08/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/08/pu/017/017-1677369363.pdf,false

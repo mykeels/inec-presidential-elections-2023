@@ -1,0 +1,14 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+ANAMBRA,IHALA,OKIJA  IV,UMUATUEGWU P/S,04/12/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3183/ward/18434/pu/10760/10760-1677631210.pdf,true
+ANAMBRA,IHALA,OKIJA  IV,OBOM AGUEZE UMUOFOR,04/12/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3183/ward/18434/pu/10767/10767-1677620948.pdf,true
+ANAMBRA,IHALA,OKIJA  IV,OKIJA C/SCH.,04/12/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3183/ward/18434/pu/10764/10764-1677619457.pdf,true
+ANAMBRA,IHALA,OKIJA  IV,UMUOFOR VILLAGE HALL I,04/12/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3183/ward/18434/pu/10761/10761-1677618094.pdf,true
+ANAMBRA,IHALA,OKIJA  IV,OBOM OHUKABIA,04/12/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3183/ward/18434/pu/10759/10759-1677617029.pdf,false
+ANAMBRA,IHALA,OKIJA  IV,OKIJA P/S,04/12/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3183/ward/18434/pu/10758/10758-1677615947.pdf,false
+ANAMBRA,IHALA,OKIJA  IV,UHUOBO COMM. SCHOOL,04/12/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3183/ward/18434/pu/10757/10757-1677615286.pdf,false
+ANAMBRA,IHALA,OKIJA  IV,C.S.S OKIJA I,04/12/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3183/ward/18434/pu/10756/10756-1677602695.pdf,true
+ANAMBRA,IHALA,OKIJA  IV,UMUOFOR VILLAGE HALL II,04/12/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/11/pu/011/011-1677368294.pdf,false
+ANAMBRA,IHALA,OKIJA  IV,OBOM UHUDUM,04/12/11/007,,false
+ANAMBRA,IHALA,OKIJA  IV,UMUATUEGWU,04/12/11/010,,false
+ANAMBRA,IHALA,OKIJA  IV,C.S.S OKIJA II,04/12/11/008,,false
+ANAMBRA,IHALA,OKIJA  IV,OBUM ODUGA,04/12/11/013,,false

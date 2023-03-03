@@ -1,0 +1,14 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+ANAMBRA,NJIKOKA,NIMO  III,CENTRAL SCHOOL II,04/13/17/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3184/ward/18460/pu/11088/11088-1677677768.pdf,false
+ANAMBRA,NJIKOKA,NIMO  III,CENTRAL SCHOOL I,04/13/17/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3184/ward/18460/pu/11087/11087-1677677699.pdf,true
+ANAMBRA,NJIKOKA,NIMO  III,UGWU OYE II,04/13/17/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3184/ward/18460/pu/11086/11086-1677677636.pdf,false
+ANAMBRA,NJIKOKA,NIMO  III,UGWU OYE I,04/13/17/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3184/ward/18460/pu/11085/11085-1677677576.pdf,false
+ANAMBRA,NJIKOKA,NIMO  III,EZIRA P/S II,04/13/17/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3184/ward/18460/pu/11084/11084-1677677502.pdf,false
+ANAMBRA,NJIKOKA,NIMO  III,EZIRA P/S I,04/13/17/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3184/ward/18460/pu/11083/11083-1677677431.pdf,false
+ANAMBRA,NJIKOKA,NIMO  III,OBODO URUEZEABALCHI I,04/13/17/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3184/ward/18460/pu/11081/11081-1677677362.pdf,false
+ANAMBRA,NJIKOKA,NIMO  III,ST. MICHAEL'S ONYIUKE II,04/13/17/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3184/ward/18460/pu/11078/11078-1677677303.pdf,false
+ANAMBRA,NJIKOKA,NIMO  III,ST. MICHAEL'S ONYIUKE I,04/13/17/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3184/ward/18460/pu/11077/11077-1677677199.pdf,false
+ANAMBRA,NJIKOKA,NIMO  III,IFITE ENU P/S II,04/13/17/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/17/pu/004/004-1677402567.pdf,false
+ANAMBRA,NJIKOKA,NIMO  III,IFITE ENU P/S I,04/13/17/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/17/pu/003/003-1677381634.pdf,false
+ANAMBRA,NJIKOKA,NIMO  III,OBODO URUEZEABALCHI II,04/13/17/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/17/pu/006/006-1677375595.pdf,false
+ANAMBRA,NJIKOKA,NIMO  III,OLILE EZI OBIAMALU SQUARE,04/13/17/013,,false
