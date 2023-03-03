@@ -17,5 +17,7 @@
   "ward_id": 23985,
   "created_at": "2020-07-15T17:33:43.955Z",
   "updated_at": "2020-07-15T17:33:43.955Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "OGUN",
+  "lga_name": "ADO ODO-OTA"
 }

@@ -17,5 +17,7 @@
   "ward_id": 24093,
   "created_at": "2020-07-15T17:33:59.528Z",
   "updated_at": "2020-07-15T17:33:59.528Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "OGUN",
+  "lga_name": "IMEKO/AFON"
 }

@@ -17,5 +17,7 @@
   "ward_id": 24085,
   "created_at": "2020-07-15T17:33:58.384Z",
   "updated_at": "2020-07-15T17:33:58.384Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "OGUN",
+  "lga_name": "IKENNE"
 }

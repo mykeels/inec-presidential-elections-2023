@@ -17,5 +17,7 @@
   "ward_id": 24182,
   "created_at": "2020-07-15T17:34:12.568Z",
   "updated_at": "2020-07-15T17:34:12.568Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "OGUN",
+  "lga_name": "SAGAMU"
 }

@@ -17,5 +17,7 @@
   "ward_id": 24031,
   "created_at": "2020-07-15T17:33:50.633Z",
   "updated_at": "2020-07-15T17:33:50.633Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "OGUN",
+  "lga_name": "IFO"
 }
