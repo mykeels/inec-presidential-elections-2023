@@ -1,0 +1,11 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+RIVERS,TAI,KOROKORO,"UEKEN TOWN HALL, UEKEN",32/23/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3806/ward/25589/pu/173836/173836-1677670484.pdf,false
+RIVERS,TAI,KOROKORO,KOROKORO MODEL HEALTH CENTER KOROKORO,32/23/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3806/ward/25589/pu/173834/173834-1677670107.pdf,false
+RIVERS,TAI,KOROKORO,TOWN SQUARE OPEN SPACE UEKEN III,32/23/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3806/ward/25589/pu/111833/111833-1677669359.pdf,true
+RIVERS,TAI,KOROKORO,"TOWN SQUARE OPEN SPACE, UEKEN II",32/23/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3806/ward/25589/pu/111832/111832-1677668823.pdf,false
+RIVERS,TAI,KOROKORO,"TOWN SQUARE OPEN SPACE, UEKEN I",32/23/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3806/ward/25589/pu/111831/111831-1677668463.pdf,false
+RIVERS,TAI,KOROKORO,"TOWN SQUARE OPEN SPACE, KOROKORO",32/23/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3806/ward/25589/pu/111830/111830-1677664066.pdf,false
+RIVERS,TAI,KOROKORO,"UEKEN HEALTH CENTER, UEKEN",32/23/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3806/ward/25589/pu/173835/173835-1677663662.pdf,true
+RIVERS,TAI,KOROKORO,"C.P.S I CLASS ROOM, KOROKORO",32/23/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3806/ward/25589/pu/111829/111829-1677599547.pdf,false
+RIVERS,TAI,KOROKORO,"C.S.S KOROKORO CLASS ROOM, KOROKORO",32/23/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3806/ward/25589/pu/111828/111828-1677593946.pdf,true
+RIVERS,TAI,KOROKORO,"GBENE GINIWA SQUARE OPEN SPACE, KOPOKORO",32/23/03/001,,false
