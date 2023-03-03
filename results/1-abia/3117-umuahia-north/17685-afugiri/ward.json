@@ -17,5 +17,7 @@
   "ward_id": 17685,
   "created_at": "2020-07-15T17:18:08.732Z",
   "updated_at": "2020-07-15T17:18:08.732Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "ABIA",
+  "lga_name": "UMUAHIA NORTH"
 }
