@@ -1,0 +1,13 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+TARABA,IBI,DAMPAR III,TAPGA PHC CLINIC   DAMPAR III,34/06/03/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/671365/result_59331_1677662406_thumb.jpg,false
+TARABA,IBI,DAMPAR III,TAPGA ANGAS  OPEN SPACE  DAMPAR III,34/06/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/671364/result_59330_1677662280_thumb.jpg,false
+TARABA,IBI,DAMPAR III,BADA KOSHI OPEN SPACE   DAMPAR III,34/06/03/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/671363/result_59329_1677662163_thumb.jpg,false
+TARABA,IBI,DAMPAR III,NAHUTA PRIMARY SCHOOL.  DAMPAR III,34/06/03/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/671362/result_59328_1677662115_thumb.jpg,false
+TARABA,IBI,DAMPAR III,IRAKI I PRIMARY SCHOOL  DAMPAR III,34/06/03/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/671361/result_59327_1677662035_thumb.jpg,false
+TARABA,IBI,DAMPAR III,"TABGA, TABGA PRIMARY SCHOOL",34/06/03/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114488/result_59326_1677661975_thumb.jpg,false
+TARABA,IBI,DAMPAR III,"MAJE BIYU, MAJE BIYU",34/06/03/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114487/result_59325_1677661799_thumb.jpg,false
+TARABA,IBI,DAMPAR III,"KOTSO BABBA, KOTSO BABBA",34/06/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114486/result_59324_1677661715_thumb.jpg,false
+TARABA,IBI,DAMPAR III,"KOGIN WASE, KOGIN WASE PRIMARY SCHOOL",34/06/03/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114485/result_59323_1677661516_thumb.jpg,false
+TARABA,IBI,DAMPAR III,"DANWASE, DANWASE",34/06/03/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114484/result_59322_1677661409_thumb.jpg,false
+TARABA,IBI,DAMPAR III,"DAN GIWA II, KOFAN MAIANGUWA",34/06/03/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114483/result_59321_1677660783_thumb.jpg,false
+TARABA,IBI,DAMPAR III,"DAN GIWA I, GIDAN DAN GIWA",34/06/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114482/result_59320_1677660704_thumb.jpg,false

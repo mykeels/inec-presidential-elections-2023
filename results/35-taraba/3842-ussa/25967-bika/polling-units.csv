@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+TARABA,USSA,BIKA,"KWENDAK, KWENDAK",34/13/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3842/ward/25967/pu/116408/116408-1677687063.pdf,true
+TARABA,USSA,BIKA,YIAPPAN RECREATIONAL CENTER,34/13/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3842/ward/25967/pu/176149/176149-1677682056.pdf,false
+TARABA,USSA,BIKA,RIYEIN RECREATIONAL CENTRE,34/13/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3842/ward/25967/pu/176148/176148-1677681216.pdf,false
+TARABA,USSA,BIKA,"KOFAR SHIAKI, KOFAR SHIAKI",34/13/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3842/ward/25967/pu/116409/116409-1677679760.pdf,false
+TARABA,USSA,BIKA,GOVERNMENT DAY SECONDARY SCH BIKA,34/13/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3842/ward/25967/pu/176150/176150-1677678289.pdf,false
+TARABA,USSA,BIKA,KOFAR KWE BIKA KWE BIKA,34/13/01/002,,false
+TARABA,USSA,BIKA,"KOFAR ANDETUR, KOFAR ANDETUR",34/13/01/001,,false
+TARABA,USSA,BIKA,"AKATSOPRIMARY SCHOOL, BIKA GARBA",34/13/01/008,,false
+TARABA,USSA,BIKA,"(UBE PRIMARY SCHOOL,BIKA GABA)",34/13/01/009,,false

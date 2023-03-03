@@ -1,0 +1,14 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+TARABA,KURMI,ASHUKU/ENEME,"ADOBE, ADOBE TOWN HALL",34/09/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3838/ward/25927/pu/115958/115958-1677689395.pdf,true
+TARABA,KURMI,ASHUKU/ENEME,GOVERNMENT DAY SECONDARY SCHOOL ENEME,34/09/03/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+TARABA,KURMI,ASHUKU/ENEME,ASHUKU PRIMARY SCHOOL,34/09/03/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/671796/result_60142_1677688393_thumb.jpg,false
+TARABA,KURMI,ASHUKU/ENEME,ASHUKU DISPENSARY,34/09/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/671795/result_60141_1677688268_thumb.jpg,false
+TARABA,KURMI,ASHUKU/ENEME,"NAMA GANGARE, KOFAR MAI ANGUWA",34/09/03/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114868/result_60140_1677688164_thumb.jpg,false
+TARABA,KURMI,ASHUKU/ENEME,"NAMA BABA II/ABONBIYA, ABONBIYA VILLAGE",34/09/03/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114867/result_60139_1677687897_thumb.jpg,false
+TARABA,KURMI,ASHUKU/ENEME,"NAMA BABA I, KOFAR WAKILI",34/09/03/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114866/result_60138_1677687770_thumb.jpg,false
+TARABA,KURMI,ASHUKU/ENEME,"KARA RUWA, KOFAR MAI ANGUWA",34/09/03/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+TARABA,KURMI,ASHUKU/ENEME,"GUNDUMA, KOFAR REKA",34/09/03/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114864/result_60136_1677687430_thumb.jpg,false
+TARABA,KURMI,ASHUKU/ENEME,"GIDAN MAIGURU, KOFAR MAI UNGUWA",34/09/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114863/result_60135_1677687167_thumb.jpg,false
+TARABA,KURMI,ASHUKU/ENEME,"APIKONI, KOFAR MAI UNGUWA",34/09/03/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114862/result_60134_1677686948_thumb.jpg,false
+TARABA,KURMI,ASHUKU/ENEME,"ASHUKU I, ASHIKU TOWN HALL",34/09/03/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114861/result_60133_1677686303_thumb.jpg,false
+TARABA,KURMI,ASHUKU/ENEME,"AMBWE/MBISU, AMBWE,MBISU TOWN HALL",34/09/03/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114860/result_60132_1677685957_thumb.jpg,false

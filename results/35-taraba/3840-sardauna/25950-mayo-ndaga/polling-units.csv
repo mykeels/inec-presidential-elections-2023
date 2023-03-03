@@ -1,0 +1,38 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+TARABA,SARDAUNA,MAYO-NDAGA,"BARIKI, DEV. AREA OFFICE",34/11/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3840/ward/25950/pu/116202/116202-1677795629.pdf,true
+TARABA,SARDAUNA,MAYO-NDAGA,GJSS KILAYANG,34/11/06/037,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/671976/result_60582_1677769105_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,FADA PRIMARY SCHOOL,34/11/06/035,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/671974/result_60580_1677768932_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,TIKE MAYO NDAGA VILLAGE,34/11/06/033,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/671972/result_60578_1677768368_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,NJAWAI MARKET SQUARE,34/11/06/032,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/671971/result_60577_1677768267_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,NJAWAI DISPENSARY,34/11/06/031,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/671970/result_60576_1677768167_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,KARA QUARTERS KAN-IYAKA,34/11/06/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/671969/result_60575_1677768085_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,KAN- IYAKA MARKET SQUARE,34/11/06/029,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/671968/result_60574_1677767948_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,GASHIRI DISPENSARY,34/11/06/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/671967/result_60573_1677767811_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,GDSS MAYO NDAGA,34/11/06/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/671966/result_60572_1677767642_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,"TIKOBI, TIKOBI PRIMARY SCHOOL",34/11/06/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115128/result_60571_1677767553_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,"TUDUN WADA, SPECIAL PRIMARY SCHOOL, M/NDAGA",34/11/06/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115126/result_60569_1677767293_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,"TANGABO, TANGABO PRIMARY SCHOOL",34/11/06/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115125/result_60568_1677767100_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,"PAPA, PAPA PRIMARY SCHOOL",34/11/06/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115123/result_60566_1677765926_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,"NJEKE, NJEKE PRIMARY SCHOOL",34/11/06/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115122/result_60565_1677765777_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,"NJAWAI, NJAWAI PRIMARY SCHOOL",34/11/06/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115121/result_60564_1677765438_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,"MAYO BALI, MAYO-BALI PRIMARY SCHOOL",34/11/06/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115120/result_60563_1677765244_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,"MAYO WURBO, MAYO-WURBO PRIMARY SCHOOL",34/11/06/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115119/result_60562_1677765102_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,"MADAKI, UNG. HAUSAWA M/NDAGA",34/11/06/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115118/result_60561_1677764976_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,"LUGGATARI, SABON LAYI LUGGA",34/11/06/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115117/result_60560_1677764904_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,"LIYAM, LIYAM VILLAGE",34/11/06/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115116/result_60559_1677764789_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,"KUMA, KUMA PRIMARY SCHOOL",34/11/06/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115115/result_60558_1677764706_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,"KILAYANG, KILAYANG PRIMARY SCHOOL",34/11/06/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115114/result_60557_1677764344_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,"KAN-IYAKA II, KAN-IYAKA PRIMARY SCHOOL",34/11/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115113/result_60556_1677764095_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,"KAN-IYAKA I, KAN-IYAKA PRIMARY SCHOOL",34/11/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115112/result_60555_1677763927_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,"JABU, JABU PRIMARY SCHOOL",34/11/06/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115111/result_60554_1677763746_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,"HURUMGORA, HURUM GORA PRIMARY SCHOOL",34/11/06/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115110/result_60553_1677763562_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,"GIKAU, GIKAU PRIMARY SCHOOL",34/11/06/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115108/result_60551_1677762468_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,"GASHIRI, GASHIRI PRIMARY SCHOOL",34/11/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115107/result_60550_1677762266_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,"FADA, PHC. DISPENSARY",34/11/06/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115106/result_60549_1677762075_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,"DUNDERE, DUNDERE PRIMARY SCHOOL",34/11/06/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115105/result_60548_1677761923_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,"BUNDI, BUNDI PRIMARY SCHOOL",34/11/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115104/result_60547_1677761754_thumb.jpg,false
+TARABA,SARDAUNA,MAYO-NDAGA,PAPA DISPENSARY,34/11/06/036,,false
+TARABA,SARDAUNA,MAYO-NDAGA,MAKONLA NDOTTIJO MAYO NDAGA,34/11/06/034,,false
+TARABA,SARDAUNA,MAYO-NDAGA,"GONO, GONO VILLAGE",34/11/06/007,,false
+TARABA,SARDAUNA,MAYO-NDAGA,"SHIRIP, SHIRIP PRIMARY SCHOOL",34/11/06/022,,false
+TARABA,SARDAUNA,MAYO-NDAGA,"TEM PETEL, TEM PETEL PRIMARY SCHOOL",34/11/06/025,,false

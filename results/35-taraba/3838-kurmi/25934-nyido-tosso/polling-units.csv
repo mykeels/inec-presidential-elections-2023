@@ -1,0 +1,14 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+TARABA,KURMI,NYIDO/TOSSO,MUBI PRIMARY SCHOOL,34/09/10/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/671827/result_60241_1677765550_thumb.jpg,false
+TARABA,KURMI,NYIDO/TOSSO,MUBI DISPENSARY,34/09/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/671826/result_60240_1677765478_thumb.jpg,false
+TARABA,KURMI,NYIDO/TOSSO,MAI ROGO PRIMARY SCHOOL,34/09/10/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/671825/result_60239_1677765402_thumb.jpg,false
+TARABA,KURMI,NYIDO/TOSSO,KUFAI BAWURO PRIMARY SCHOOL,34/09/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/671824/result_60238_1677765316_thumb.jpg,false
+TARABA,KURMI,NYIDO/TOSSO,"TOSSO, KOFAR DAKASHI",34/09/10/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114936/result_60237_1677765190_thumb.jpg,true
+TARABA,KURMI,NYIDO/TOSSO,"MUBI TOSSO, KASUWA",34/09/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114935/result_60236_1677765110_thumb.jpg,false
+TARABA,KURMI,NYIDO/TOSSO,"NYIDO II, KOFAR MAIANGUWA",34/09/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114934/result_60235_1677765009_thumb.jpg,false
+TARABA,KURMI,NYIDO/TOSSO,"NYIDO I, K/MAGAJI ALU",34/09/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114933/result_60234_1677764877_thumb.jpg,false
+TARABA,KURMI,NYIDO/TOSSO,"NAKA GBARA, KASUWA",34/09/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114932/result_60233_1677764779_thumb.jpg,false
+TARABA,KURMI,NYIDO/TOSSO,"KUFAI SOUTH, KOFAR ADAMU MAINASARA",34/09/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114931/result_60232_1677764685_thumb.jpg,false
+TARABA,KURMI,NYIDO/TOSSO,"KUFAI, KOFAR MAI ANGUWAALI",34/09/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114930/result_60231_1677764603_thumb.jpg,false
+TARABA,KURMI,NYIDO/TOSSO,"DANBEKI, G.MANGORO/K.MANTI",34/09/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114929/result_60230_1677763646_thumb.jpg,false
+TARABA,KURMI,NYIDO/TOSSO,"CHIBONG, KOFAR MAIANGWA",34/09/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114928/result_60229_1677763543_thumb.jpg,true

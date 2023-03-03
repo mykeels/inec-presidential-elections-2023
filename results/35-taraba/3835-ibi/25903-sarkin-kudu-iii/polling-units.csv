@@ -1,0 +1,15 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+TARABA,IBI,SARKIN KUDU III,"UZER, UZER PRIMARY SCHOOL",34/06/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114547/result_59436_1677609667_thumb.jpg,true
+TARABA,IBI,SARKIN KUDU III,"TOR KANGE I, TOR KANGE",34/06/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114545/result_59434_1677609607_thumb.jpg,false
+TARABA,IBI,SARKIN KUDU III,"TOR KANGE II, KOFAR GARBA WANZAMI",34/06/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114546/result_59435_1677609473_thumb.jpg,true
+TARABA,IBI,SARKIN KUDU III,"TOR ADI, TOR ADI",34/06/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114544/result_59433_1677609361_thumb.jpg,false
+TARABA,IBI,SARKIN KUDU III,"SULE AGO, GURBIN DUTSE",34/06/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114543/result_59432_1677609180_thumb.jpg,true
+TARABA,IBI,SARKIN KUDU III,"GISHIRIN HASSAN, GISHIRIN HASSAN DISPENSARY",34/06/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114542/result_59431_1677608013_thumb.jpg,false
+TARABA,IBI,SARKIN KUDU III,"DOOSHIMA, DOOSHIMA PRIMARY SCHOOL",34/06/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114541/result_59430_1677607922_thumb.jpg,false
+TARABA,IBI,SARKIN KUDU III,"BAKAAN, KOFAR BAKAAN",34/06/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/114540/result_59429_1677607826_thumb.jpg,true
+TARABA,IBI,SARKIN KUDU III,UZER NYON PRIMARY SCHOOL SARKIN KUDU III,34/06/10/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/671417/result_59442_1677607666_thumb.jpg,false
+TARABA,IBI,SARKIN KUDU III,SWEDE PRIMARY SCHOOL.  SARKIN KUDU III,34/06/10/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+TARABA,IBI,SARKIN KUDU III,ORASOO PRIMARY SCHOOL  SARKIN KUDU III,34/06/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3835/ward/25903/pu/175365/175365-1677607137.pdf,true
+TARABA,IBI,SARKIN KUDU III,DOSHIMA PRIMARY SCHOOL  SARKIN KUDU III,34/06/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3835/ward/25903/pu/175364/175364-1677606048.pdf,true
+TARABA,IBI,SARKIN KUDU III,DOSHIMA PRIMARY SCHOOL  SARKIN KUDU III,34/06/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3835/ward/25903/pu/175363/175363-1677605244.pdf,true
+TARABA,IBI,SARKIN KUDU III,BAKANPRIMARY SCHOOL  SARKIN KUDU III,34/06/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3835/ward/25903/pu/175362/175362-1677605035.pdf,true

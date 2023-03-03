@@ -1,0 +1,11 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+TARABA,SARDAUNA,NDUM-YAJI,"GAM, GAM VILLAGE",34/11/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3840/ward/25952/pu/116242/116242-1677769138.pdf,true
+TARABA,SARDAUNA,NDUM-YAJI,SAHKAKA DISPENSARY,34/11/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/671994/result_60621_1677765608_thumb.jpg,false
+TARABA,SARDAUNA,NDUM-YAJI,TEP KWAR DISPENSARY,34/11/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/671993/result_60620_1677764897_thumb.jpg,false
+TARABA,SARDAUNA,NDUM-YAJI,"WARKAKA, WARKAKA PRIMARY SCHOOL",34/11/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115149/result_60619_1677764561_thumb.jpg,false
+TARABA,SARDAUNA,NDUM-YAJI,"TEP KWAR, TEP PRIMARY SCHOOL",34/11/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115148/result_60618_1677764395_thumb.jpg,false
+TARABA,SARDAUNA,NDUM-YAJI,"TEP BABAL, TEP NING GABAL",34/11/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115147/result_60617_1677764104_thumb.jpg,false
+TARABA,SARDAUNA,NDUM-YAJI,"SAHKAKA, SAHKAKA PRIMARY SCHOOL",34/11/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115146/result_60616_1677762621_thumb.jpg,false
+TARABA,SARDAUNA,NDUM-YAJI,"MAGAM/MIN, NDUM YAJI PRIMARY SCHOOL",34/11/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115145/result_60615_1677762452_thumb.jpg,false
+TARABA,SARDAUNA,NDUM-YAJI,"KIM, NDUM-YAJI PRIMARY SCHOOL",34/11/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115144/result_60614_1677762275_thumb.jpg,false
+TARABA,SARDAUNA,NDUM-YAJI,MAGAM DISPENSARY,34/11/08/010,,false
