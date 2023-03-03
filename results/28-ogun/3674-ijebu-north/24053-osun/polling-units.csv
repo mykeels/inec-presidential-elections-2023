@@ -1,0 +1,30 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+OGUN,IJEBU NORTH,OSUN,ABEKU EAST  II,27/09/04/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/91415/result_78799_1677537127_thumb.jpg,true
+OGUN,IJEBU NORTH,OSUN,OPEN SPACE AT TEMIDIRE ABA TUNTUN,27/09/04/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/661172/result_78806_1677536011_thumb.jpg,true
+OGUN,IJEBU NORTH,OSUN,ABEKU (TOGEDENGBE),27/09/04/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/91419/result_78803_1677535730_thumb.jpg,true
+OGUN,IJEBU NORTH,OSUN,BAOKU  VILLAGE SQUARE,27/09/04/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/661171/result_78805_1677535544_thumb.jpg,true
+OGUN,IJEBU NORTH,OSUN,AGBORO VILLAGE,27/09/04/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/91413/result_78797_1677534983_thumb.jpg,true
+OGUN,IJEBU NORTH,OSUN,ABEKU EAST  I,27/09/04/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/91414/result_78798_1677534797_thumb.jpg,true
+OGUN,IJEBU NORTH,OSUN,TEMIDIRE VILLAGE,27/09/04/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/91417/result_78801_1677534147_thumb.jpg,true
+OGUN,IJEBU NORTH,OSUN,TIGIWA VILLAGE,27/09/04/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/91412/result_78796_1677533788_thumb.jpg,true
+OGUN,IJEBU NORTH,OSUN,TISABA VILLAGE,27/09/04/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/91411/result_78795_1677533228_thumb.jpg,true
+OGUN,IJEBU NORTH,OSUN,IDEKAN CAMP,27/09/04/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/91410/result_78794_1677532756_thumb.jpg,true
+OGUN,IJEBU NORTH,OSUN,ABEKU EAST II,27/09/04/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3674/ward/24053/pu/92504/92504-1677578839.pdf,false
+OGUN,IJEBU NORTH,OSUN,ERIGBORO VILLAGE,27/09/04/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3674/ward/24053/pu/92502/92502-1677578688.pdf,false
+OGUN,IJEBU NORTH,OSUN,LAOKA OSOKO VILLAGE,27/09/04/026,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/04/pu/026/026-1677408518.pdf,false
+OGUN,IJEBU NORTH,OSUN,L.G. SCHOOL APOJE,27/09/04/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/04/pu/015/015-1677402096.pdf,false
+OGUN,IJEBU NORTH,OSUN,R.C.M. SCHOOL IDAGOLU,27/09/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/04/pu/003/003-1677399972.pdf,false
+OGUN,IJEBU NORTH,OSUN,L.G. SCH. EGAMORO,27/09/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/04/pu/005/005-1677399402.pdf,false
+OGUN,IJEBU NORTH,OSUN,"L.G. OUT SCHOOL, AKINLADE, OBISAN",27/09/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/04/pu/013/013-1677398426.pdf,false
+OGUN,IJEBU NORTH,OSUN,ST. PETER'S SCH. AGUNBOYE,27/09/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/04/pu/008/008-1677397116.pdf,false
+OGUN,IJEBU NORTH,OSUN,"ST. GEORGE PRY. R.C.M. SCHOOL, TOGUNBERO",27/09/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/04/pu/012/012-1677396259.pdf,false
+OGUN,IJEBU NORTH,OSUN,"ST. GEORGE'S SCH., APARAKI",27/09/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/04/pu/004/004-1677395402.pdf,false
+OGUN,IJEBU NORTH,OSUN,IMOPA MARKET  I,27/09/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/04/pu/001/001-1677394944.pdf,false
+OGUN,IJEBU NORTH,OSUN,ODOOSUN VILLAGE,27/09/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/04/pu/006/006-1677393075.pdf,false
+OGUN,IJEBU NORTH,OSUN,DAMDOLA VILLAGE,27/09/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/04/pu/014/014-1677392063.pdf,false
+OGUN,IJEBU NORTH,OSUN,IMOPA MARKET  II,27/09/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/04/pu/002/002-1677391044.pdf,false
+OGUN,IJEBU NORTH,OSUN,ST. STEPHEN'S SCH. ASIGIDI,27/09/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/04/pu/007/007-1677390332.pdf,false
+OGUN,IJEBU NORTH,OSUN,"OSHOKO COMMUNITY PRY  SCHOOL , OSHOKO",27/09/04/029,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/04/pu/029/029-1677390207.pdf,false
+OGUN,IJEBU NORTH,OSUN,OLORUNMODI VILLAGE I,27/09/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/04/pu/010/010-1677388938.pdf,false
+OGUN,IJEBU NORTH,OSUN,OLORUNMODI VILLAGE II,27/09/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/04/pu/011/011-1677388062.pdf,false
+OGUN,IJEBU NORTH,OSUN,ARAROMI ADEKANBI,27/09/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/04/pu/009/009-1677387497.pdf,false
