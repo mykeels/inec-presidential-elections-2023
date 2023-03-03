@@ -17,5 +17,7 @@
   "ward_id": 21407,
   "created_at": "2020-07-15T17:27:17.246Z",
   "updated_at": "2020-07-15T17:27:17.246Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "JIGAWA",
+  "lga_name": "KAUGAMA"
 }
