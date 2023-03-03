@@ -1,0 +1,12 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f39a54d89fc3a883de336",
+  "state_id": 30,
+  "state": "5f0eb6e16dda22674979bf3f",
+  "name": "OSOGBO",
+  "code": "30",
+  "lga_id": 3733,
+  "created_at": "2020-07-15T17:15:17.349Z",
+  "updated_at": "2020-07-15T17:15:17.349Z",
+  "__v": 0
+}

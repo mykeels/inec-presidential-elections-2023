@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3dc18f77bb3acad0a569",
+  "state_id": 26,
+  "state": "5f0eb6e16dda22674979bf3b",
+  "lga_id": 3636,
+  "lga": "5f0f399f4d89fc3a883de2d5",
+  "state_constituency_id": 690,
+  "state_constituency": "5f0f374993d20b39ceee2264",
+  "federal_constituency_id": 350,
+  "federal_constituency": "5f0f38082d77c83a06f0f462",
+  "senatorial_district_id": 109,
+  "senatorial_district": "5f0f3957970bd83a6f453a16",
+  "name": "NASARAWA EAST",
+  "code": "08",
+  "old_name": "",
+  "ward_id": 23622,
+  "created_at": "2020-07-15T17:32:49.215Z",
+  "updated_at": "2020-07-15T17:32:49.215Z",
+  "__v": 0
+}

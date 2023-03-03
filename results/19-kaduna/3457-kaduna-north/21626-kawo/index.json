@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3c948f77bb3acad09d9d",
+  "state_id": 19,
+  "state": "5f0eb6e16dda22674979bf34",
+  "lga_id": 3457,
+  "lga": "5f0f39914d89fc3a883de222",
+  "state_constituency_id": 471,
+  "state_constituency": "5f0f373b93d20b39ceee218b",
+  "federal_constituency_id": 148,
+  "federal_constituency": "5f0f37fc2d77c83a06f0f399",
+  "senatorial_district_id": 54,
+  "senatorial_district": "5f0f3954970bd83a6f4539ea",
+  "name": "KAWO",
+  "code": "10",
+  "old_name": "",
+  "ward_id": 21626,
+  "created_at": "2020-07-15T17:27:48.575Z",
+  "updated_at": "2020-07-15T17:27:48.575Z",
+  "__v": 0
+}

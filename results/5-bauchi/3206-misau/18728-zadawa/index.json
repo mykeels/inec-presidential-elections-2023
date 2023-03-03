@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3aea8f77bb3acad0924b",
+  "state_id": 5,
+  "state": "5f0eb6e16dda22674979bf26",
+  "lga_id": 3206,
+  "lga": "5f0f39814d89fc3a883de127",
+  "state_constituency_id": 122,
+  "state_constituency": "5f0f372193d20b39ceee202e",
+  "federal_constituency_id": 45,
+  "federal_constituency": "5f0f37f62d77c83a06f0f33d",
+  "senatorial_district_id": 15,
+  "senatorial_district": "5f0f3952970bd83a6f4539c7",
+  "name": "ZADAWA",
+  "code": "01",
+  "old_name": "",
+  "ward_id": 18728,
+  "created_at": "2020-07-15T17:20:42.946Z",
+  "updated_at": "2020-07-15T17:20:42.946Z",
+  "__v": 0
+}

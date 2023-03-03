@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3ce58f77bb3acad09fc4",
+  "state_id": 20,
+  "state": "5f0eb6e16dda22674979bf35",
+  "lga_id": 3508,
+  "lga": "5f0f39964d89fc3a883de255",
+  "state_constituency_id": 521,
+  "state_constituency": "5f0f373e93d20b39ceee21bc",
+  "federal_constituency_id": 184,
+  "federal_constituency": "5f0f37fe2d77c83a06f0f3bd",
+  "senatorial_district_id": 121,
+  "senatorial_district": "5f0f395a970bd83a6f453a21",
+  "name": "FALALI",
+  "code": "04",
+  "old_name": "",
+  "ward_id": 22177,
+  "created_at": "2020-07-15T17:29:09.210Z",
+  "updated_at": "2020-07-15T17:29:09.210Z",
+  "__v": 0
+}

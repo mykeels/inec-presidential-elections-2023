@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3b0e8f77bb3acad09331",
+  "state_id": 7,
+  "state": "5f0eb6e16dda22674979bf28",
+  "lga_id": 3225,
+  "lga": "5f0f39834d89fc3a883de13a",
+  "state_constituency_id": 169,
+  "state_constituency": "5f0f372493d20b39ceee205d",
+  "federal_constituency_id": 58,
+  "federal_constituency": "5f0f37f72d77c83a06f0f34a",
+  "senatorial_district_id": 21,
+  "senatorial_district": "5f0f3952970bd83a6f4539cd",
+  "name": "MBAA VARAKAA",
+  "code": "07",
+  "old_name": "",
+  "ward_id": 18958,
+  "created_at": "2020-07-15T17:21:18.125Z",
+  "updated_at": "2020-07-15T17:21:18.125Z",
+  "__v": 0
+}

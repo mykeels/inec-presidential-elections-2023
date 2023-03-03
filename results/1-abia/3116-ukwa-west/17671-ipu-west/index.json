@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3a4e8f77bb3acad08e2a",
+  "state_id": 1,
+  "state": "5f0eb6e06dda22674979bf22",
+  "lga_id": 3116,
+  "lga": "5f0f397b4d89fc3a883de0cd",
+  "state_constituency_id": 23,
+  "state_constituency": "5f0f371a93d20b39ceee1fcb",
+  "federal_constituency_id": 9,
+  "federal_constituency": "5f0f37f32d77c83a06f0f319",
+  "senatorial_district_id": 111,
+  "senatorial_district": "5f0f3958970bd83a6f453a18",
+  "name": "IPU WEST",
+  "code": "06",
+  "old_name": "",
+  "ward_id": 17671,
+  "created_at": "2020-07-15T17:18:06.805Z",
+  "updated_at": "2020-07-15T17:18:06.805Z",
+  "__v": 0
+}

@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3a8f8f77bb3acad08fda",
+  "state_id": 3,
+  "state": "5f0eb6e06dda22674979bf24",
+  "lga_id": 3157,
+  "lga": "5f0f397e4d89fc3a883de0f6",
+  "state_constituency_id": 96,
+  "state_constituency": "5f0f371f93d20b39ceee2014",
+  "federal_constituency_id": 36,
+  "federal_constituency": "5f0f37f52d77c83a06f0f334",
+  "senatorial_district_id": 13,
+  "senatorial_district": "5f0f3952970bd83a6f4539c5",
+  "name": "ENWANG 1",
+  "code": "01",
+  "old_name": "",
+  "ward_id": 18103,
+  "created_at": "2020-07-15T17:19:11.408Z",
+  "updated_at": "2020-07-15T17:19:11.408Z",
+  "__v": 0
+}

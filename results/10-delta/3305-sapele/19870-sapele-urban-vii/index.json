@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3b938f77bb3acad096c1",
+  "state_id": 10,
+  "state": "5f0eb6e16dda22674979bf2b",
+  "lga_id": 3305,
+  "lga": "5f0f39884d89fc3a883de18a",
+  "state_constituency_id": 264,
+  "state_constituency": "5f0f372b93d20b39ceee20bc",
+  "federal_constituency_id": 90,
+  "federal_constituency": "5f0f37f82d77c83a06f0f366",
+  "senatorial_district_id": 29,
+  "senatorial_district": "5f0f3953970bd83a6f4539d1",
+  "name": "SAPELE  URBAN  VII",
+  "code": "07",
+  "old_name": "",
+  "ward_id": 19870,
+  "created_at": "2020-07-15T17:23:31.599Z",
+  "updated_at": "2020-07-15T17:23:31.599Z",
+  "__v": 0
+}

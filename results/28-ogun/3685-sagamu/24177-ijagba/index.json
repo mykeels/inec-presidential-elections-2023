@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3e138f77bb3acad0a794",
+  "state_id": 28,
+  "state": "5f0eb6e16dda22674979bf3d",
+  "lga_id": 3685,
+  "lga": "5f0f39a24d89fc3a883de306",
+  "state_constituency_id": 741,
+  "state_constituency": "5f0f374c93d20b39ceee2297",
+  "federal_constituency_id": 268,
+  "federal_constituency": "5f0f38032d77c83a06f0f410",
+  "senatorial_district_id": 74,
+  "senatorial_district": "5f0f3955970bd83a6f4539fa",
+  "name": "IJAGBA",
+  "code": "07",
+  "old_name": "",
+  "ward_id": 24177,
+  "created_at": "2020-07-15T17:34:11.846Z",
+  "updated_at": "2020-07-15T17:34:11.846Z",
+  "__v": 0
+}

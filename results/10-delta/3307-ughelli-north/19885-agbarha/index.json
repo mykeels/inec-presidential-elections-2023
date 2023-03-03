@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3b958f77bb3acad096d0",
+  "state_id": 10,
+  "state": "5f0eb6e16dda22674979bf2b",
+  "lga_id": 3307,
+  "lga": "5f0f39884d89fc3a883de18c",
+  "state_constituency_id": 266,
+  "state_constituency": "5f0f372b93d20b39ceee20be",
+  "federal_constituency_id": 92,
+  "federal_constituency": "5f0f37f82d77c83a06f0f368",
+  "senatorial_district_id": 29,
+  "senatorial_district": "5f0f3953970bd83a6f4539d1",
+  "name": "AGBARHA",
+  "code": "01",
+  "old_name": "",
+  "ward_id": 19885,
+  "created_at": "2020-07-15T17:23:33.749Z",
+  "updated_at": "2020-07-15T17:23:33.749Z",
+  "__v": 0
+}

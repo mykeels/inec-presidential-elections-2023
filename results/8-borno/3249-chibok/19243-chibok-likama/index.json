@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3b368f77bb3acad0944e",
+  "state_id": 8,
+  "state": "5f0eb6e16dda22674979bf29",
+  "lga_id": 3249,
+  "lga": "5f0f39844d89fc3a883de152",
+  "state_constituency_id": 198,
+  "state_constituency": "5f0f372693d20b39ceee207a",
+  "federal_constituency_id": 70,
+  "federal_constituency": "5f0f37f72d77c83a06f0f354",
+  "senatorial_district_id": 25,
+  "senatorial_district": "5f0f3953970bd83a6f4539cf",
+  "name": "CHIBOK LIKAMA",
+  "code": "02",
+  "old_name": "",
+  "ward_id": 19243,
+  "created_at": "2020-07-15T17:21:58.458Z",
+  "updated_at": "2020-07-15T17:21:58.458Z",
+  "__v": 0
+}

@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3b588f77bb3acad0952d",
+  "state_id": 8,
+  "state": "5f0eb6e16dda22674979bf29",
+  "lga_id": 3268,
+  "lga": "5f0f39854d89fc3a883de165",
+  "state_constituency_id": 218,
+  "state_constituency": "5f0f372893d20b39ceee208e",
+  "federal_constituency_id": 369,
+  "federal_constituency": "5f0f38092d77c83a06f0f470",
+  "senatorial_district_id": 113,
+  "senatorial_district": "5f0f3958970bd83a6f453a1a",
+  "name": "NDUFU",
+  "code": "06",
+  "old_name": "",
+  "ward_id": 19466,
+  "created_at": "2020-07-15T17:22:32.210Z",
+  "updated_at": "2020-07-15T17:22:32.210Z",
+  "__v": 0
+}

@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3c2e8f77bb3acad09aed",
+  "state_id": 17,
+  "state": "5f0eb6e16dda22674979bf32",
+  "lga_id": 3395,
+  "lga": "5f0f398d4d89fc3a883de1e4",
+  "state_constituency_id": 397,
+  "state_constituency": "5f0f373493d20b39ceee2141",
+  "federal_constituency_id": 134,
+  "federal_constituency": "5f0f37fb2d77c83a06f0f38e",
+  "senatorial_district_id": 47,
+  "senatorial_district": "5f0f3954970bd83a6f4539e3",
+  "name": "NGURU-NWEKE",
+  "code": "04",
+  "old_name": "",
+  "ward_id": 20938,
+  "created_at": "2020-07-15T17:26:06.371Z",
+  "updated_at": "2020-07-15T17:26:06.371Z",
+  "__v": 0
+}

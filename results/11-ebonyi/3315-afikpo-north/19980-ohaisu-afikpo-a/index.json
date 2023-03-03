@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3ba38f77bb3acad0972f",
+  "state_id": 11,
+  "state": "5f0eb6e16dda22674979bf2c",
+  "lga_id": 3315,
+  "lga": "5f0f39884d89fc3a883de194",
+  "state_constituency_id": 278,
+  "state_constituency": "5f0f372c93d20b39ceee20ca",
+  "federal_constituency_id": 99,
+  "federal_constituency": "5f0f37f92d77c83a06f0f36f",
+  "senatorial_district_id": 34,
+  "senatorial_district": "5f0f3953970bd83a6f4539d6",
+  "name": "OHAISU AFIKPO A",
+  "code": "08",
+  "old_name": "",
+  "ward_id": 19980,
+  "created_at": "2020-07-15T17:23:47.107Z",
+  "updated_at": "2020-07-15T17:23:47.107Z",
+  "__v": 0
+}

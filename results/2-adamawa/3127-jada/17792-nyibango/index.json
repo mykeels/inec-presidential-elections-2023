@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3a608f77bb3acad08ea3",
+  "state_id": 2,
+  "state": "5f0eb6e06dda22674979bf23",
+  "lga_id": 3127,
+  "lga": "5f0f397c4d89fc3a883de0d8",
+  "state_constituency_id": 40,
+  "state_constituency": "5f0f371c93d20b39ceee1fdc",
+  "federal_constituency_id": 12,
+  "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+  "senatorial_district_id": 6,
+  "senatorial_district": "5f0f3952970bd83a6f4539c0",
+  "name": "NYIBANGO",
+  "code": "10",
+  "old_name": "",
+  "ward_id": 17792,
+  "created_at": "2020-07-15T17:18:24.208Z",
+  "updated_at": "2020-07-15T17:18:24.208Z",
+  "__v": 0
+}

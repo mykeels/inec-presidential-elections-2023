@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3afd8f77bb3acad092cf",
+  "state_id": 6,
+  "state": "5f0eb6e16dda22674979bf27",
+  "lga_id": 3217,
+  "lga": "5f0f39824d89fc3a883de132",
+  "state_constituency_id": 146,
+  "state_constituency": "5f0f372393d20b39ceee2046",
+  "federal_constituency_id": 52,
+  "federal_constituency": "5f0f37f62d77c83a06f0f344",
+  "senatorial_district_id": 17,
+  "senatorial_district": "5f0f3952970bd83a6f4539c9",
+  "name": "OTAKEME",
+  "code": "12",
+  "old_name": "",
+  "ward_id": 18860,
+  "created_at": "2020-07-15T17:21:01.542Z",
+  "updated_at": "2020-07-15T17:21:01.542Z",
+  "__v": 0
+}

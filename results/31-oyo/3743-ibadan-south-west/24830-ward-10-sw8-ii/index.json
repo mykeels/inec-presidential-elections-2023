@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3e788f77bb3acad0aa21",
+  "state_id": 31,
+  "state": "5f0eb6e16dda22674979bf40",
+  "lga_id": 3743,
+  "lga": "5f0f39a54d89fc3a883de340",
+  "state_constituency_id": 817,
+  "state_constituency": "5f0f375193d20b39ceee22e3",
+  "federal_constituency_id": 299,
+  "federal_constituency": "5f0f38052d77c83a06f0f42f",
+  "senatorial_district_id": 84,
+  "senatorial_district": "5f0f3956970bd83a6f453a04",
+  "name": "WARD 10 SW8 II",
+  "code": "10",
+  "old_name": "",
+  "ward_id": 24830,
+  "created_at": "2020-07-15T17:35:52.409Z",
+  "updated_at": "2020-07-15T17:35:52.409Z",
+  "__v": 0
+}

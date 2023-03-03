@@ -1,0 +1,12 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f39ab4d89fc3a883de39c",
+  "state_id": 35,
+  "state": "5f0eb6e26dda22674979bf44",
+  "name": "IBI",
+  "code": "06",
+  "lga_id": 3835,
+  "created_at": "2020-07-15T17:15:23.715Z",
+  "updated_at": "2020-07-15T17:15:23.715Z",
+  "__v": 0
+}

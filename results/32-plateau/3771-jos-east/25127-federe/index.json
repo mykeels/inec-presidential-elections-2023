@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3ea68f77bb3acad0ab4a",
+  "state_id": 32,
+  "state": "5f0eb6e16dda22674979bf41",
+  "lga_id": 3771,
+  "lga": "5f0f39a74d89fc3a883de35c",
+  "state_constituency_id": 840,
+  "state_constituency": "5f0f375393d20b39ceee22fa",
+  "federal_constituency_id": 352,
+  "federal_constituency": "5f0f38082d77c83a06f0f464",
+  "senatorial_district_id": 124,
+  "senatorial_district": "5f0f395a970bd83a6f453a24",
+  "name": "FEDERE",
+  "code": "01",
+  "old_name": "",
+  "ward_id": 25127,
+  "created_at": "2020-07-15T17:36:38.487Z",
+  "updated_at": "2020-07-15T17:36:38.487Z",
+  "__v": 0
+}

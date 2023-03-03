@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3b5e8f77bb3acad0955b",
+  "state_id": 9,
+  "state": "5f0eb6e16dda22674979bf2a",
+  "lga_id": 3272,
+  "lga": "5f0f39864d89fc3a883de169",
+  "state_constituency_id": 223,
+  "state_constituency": "5f0f372893d20b39ceee2093",
+  "federal_constituency_id": 77,
+  "federal_constituency": "5f0f37f82d77c83a06f0f35b",
+  "senatorial_district_id": 119,
+  "senatorial_district": "5f0f3959970bd83a6f453a1f",
+  "name": "OBAN",
+  "code": "07",
+  "old_name": "",
+  "ward_id": 19512,
+  "created_at": "2020-07-15T17:22:38.934Z",
+  "updated_at": "2020-07-15T17:22:38.934Z",
+  "__v": 0
+}

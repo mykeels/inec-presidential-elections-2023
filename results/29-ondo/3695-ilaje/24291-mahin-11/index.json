@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3e278f77bb3acad0a806",
+  "state_id": 29,
+  "state": "5f0eb6e16dda22674979bf3e",
+  "lga_id": 3695,
+  "lga": "5f0f39a24d89fc3a883de310",
+  "state_constituency_id": 765,
+  "state_constituency": "5f0f374e93d20b39ceee22af",
+  "federal_constituency_id": 275,
+  "federal_constituency": "5f0f38032d77c83a06f0f417",
+  "senatorial_district_id": 78,
+  "senatorial_district": "5f0f3955970bd83a6f4539fe",
+  "name": "MAHIN 11",
+  "code": "04",
+  "old_name": "",
+  "ward_id": 24291,
+  "created_at": "2020-07-15T17:34:31.034Z",
+  "updated_at": "2020-07-15T17:34:31.034Z",
+  "__v": 0
+}

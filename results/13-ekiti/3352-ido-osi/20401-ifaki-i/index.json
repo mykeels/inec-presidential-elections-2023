@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3be08f77bb3acad098d4",
+  "state_id": 13,
+  "state": "5f0eb6e16dda22674979bf2e",
+  "lga_id": 3352,
+  "lga": "5f0f398b4d89fc3a883de1b9",
+  "state_constituency_id": 334,
+  "state_constituency": "5f0f372f93d20b39ceee2102",
+  "federal_constituency_id": 111,
+  "federal_constituency": "5f0f37f92d77c83a06f0f379",
+  "senatorial_district_id": 38,
+  "senatorial_district": "5f0f3953970bd83a6f4539da",
+  "name": "IFAKI I",
+  "code": "03",
+  "old_name": "",
+  "ward_id": 20401,
+  "created_at": "2020-07-15T17:24:48.282Z",
+  "updated_at": "2020-07-15T17:24:48.282Z",
+  "__v": 0
+}

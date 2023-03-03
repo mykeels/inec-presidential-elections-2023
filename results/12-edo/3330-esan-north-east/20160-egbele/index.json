@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3bbe8f77bb3acad097e3",
+  "state_id": 12,
+  "state": "5f0eb6e16dda22674979bf2d",
+  "lga_id": 3330,
+  "lga": "5f0f39894d89fc3a883de1a3",
+  "state_constituency_id": 303,
+  "state_constituency": "5f0f372d93d20b39ceee20e3",
+  "federal_constituency_id": 102,
+  "federal_constituency": "5f0f37f92d77c83a06f0f371",
+  "senatorial_district_id": 35,
+  "senatorial_district": "5f0f3953970bd83a6f4539d7",
+  "name": "EGBELE",
+  "code": "01",
+  "old_name": "",
+  "ward_id": 20160,
+  "created_at": "2020-07-15T17:24:14.787Z",
+  "updated_at": "2020-07-15T17:24:14.787Z",
+  "__v": 0
+}

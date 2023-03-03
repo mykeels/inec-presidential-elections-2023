@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3e678f77bb3acad0a9ab",
+  "state_id": 30,
+  "state": "5f0eb6e16dda22674979bf3f",
+  "lga_id": 3733,
+  "lga": "5f0f39a54d89fc3a883de336",
+  "state_constituency_id": 785,
+  "state_constituency": "5f0f374f93d20b39ceee22c3",
+  "federal_constituency_id": 278,
+  "federal_constituency": "5f0f38032d77c83a06f0f41a",
+  "senatorial_district_id": 79,
+  "senatorial_district": "5f0f3955970bd83a6f4539ff",
+  "name": "ALAGBA",
+  "code": "07",
+  "old_name": "",
+  "ward_id": 24712,
+  "created_at": "2020-07-15T17:35:35.384Z",
+  "updated_at": "2020-07-15T17:35:35.384Z",
+  "__v": 0
+}

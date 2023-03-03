@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3f3b8f77bb3acad0af1a",
+  "state_id": 36,
+  "state": "5f0eb6e26dda22674979bf45",
+  "lga_id": 3854,
+  "lga": "5f0f39ac4d89fc3a883de3af",
+  "state_constituency_id": 959,
+  "state_constituency": "5f0f375b93d20b39ceee2371",
+  "federal_constituency_id": 331,
+  "federal_constituency": "5f0f38072d77c83a06f0f44f",
+  "senatorial_district_id": 98,
+  "senatorial_district": "5f0f3956970bd83a6f453a0f",
+  "name": "LAFIYA LOI-LOI",
+  "code": "08",
+  "old_name": "",
+  "ward_id": 26103,
+  "created_at": "2020-07-15T17:39:07.275Z",
+  "updated_at": "2020-07-15T17:39:07.275Z",
+  "__v": 0
+}

@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3be28f77bb3acad098e3",
+  "state_id": 13,
+  "state": "5f0eb6e16dda22674979bf2e",
+  "lga_id": 3353,
+  "lga": "5f0f398b4d89fc3a883de1ba",
+  "state_constituency_id": 336,
+  "state_constituency": "5f0f373093d20b39ceee2104",
+  "federal_constituency_id": 112,
+  "federal_constituency": "5f0f37fa2d77c83a06f0f37a",
+  "senatorial_district_id": 39,
+  "senatorial_district": "5f0f3953970bd83a6f4539db",
+  "name": "ODO OWA",
+  "code": "07",
+  "old_name": "",
+  "ward_id": 20416,
+  "created_at": "2020-07-15T17:24:50.430Z",
+  "updated_at": "2020-07-15T17:24:50.430Z",
+  "__v": 0
+}

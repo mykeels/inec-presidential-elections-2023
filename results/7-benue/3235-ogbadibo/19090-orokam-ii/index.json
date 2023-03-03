@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3b208f77bb3acad093b5",
+  "state_id": 7,
+  "state": "5f0eb6e16dda22674979bf28",
+  "lga_id": 3235,
+  "lga": "5f0f39834d89fc3a883de144",
+  "state_constituency_id": 182,
+  "state_constituency": "5f0f372593d20b39ceee206a",
+  "federal_constituency_id": 56,
+  "federal_constituency": "5f0f37f62d77c83a06f0f348",
+  "senatorial_district_id": 22,
+  "senatorial_district": "5f0f3953970bd83a6f4539ce",
+  "name": "OROKAM II",
+  "code": "12",
+  "old_name": "",
+  "ward_id": 19090,
+  "created_at": "2020-07-15T17:21:36.873Z",
+  "updated_at": "2020-07-15T17:21:36.873Z",
+  "__v": 0
+}

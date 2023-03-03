@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3e228f77bb3acad0a7e6",
+  "state_id": 29,
+  "state": "5f0eb6e16dda22674979bf3e",
+  "lga_id": 3692,
+  "lga": "5f0f39a24d89fc3a883de30d",
+  "state_constituency_id": 761,
+  "state_constituency": "5f0f374e93d20b39ceee22ab",
+  "federal_constituency_id": 275,
+  "federal_constituency": "5f0f38032d77c83a06f0f417",
+  "senatorial_district_id": 78,
+  "senatorial_district": "5f0f3955970bd83a6f4539fe",
+  "name": "APOI II",
+  "code": "02",
+  "old_name": "",
+  "ward_id": 24259,
+  "created_at": "2020-07-15T17:34:26.309Z",
+  "updated_at": "2020-07-15T17:34:26.309Z",
+  "__v": 0
+}

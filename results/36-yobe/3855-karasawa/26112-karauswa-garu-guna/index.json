@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3f3c8f77bb3acad0af23",
+  "state_id": 36,
+  "state": "5f0eb6e26dda22674979bf45",
+  "lga_id": 3855,
+  "lga": "5f0f39ac4d89fc3a883de3b0",
+  "state_constituency_id": 960,
+  "state_constituency": "5f0f375b93d20b39ceee2372",
+  "federal_constituency_id": 335,
+  "federal_constituency": "5f0f38072d77c83a06f0f453",
+  "senatorial_district_id": 98,
+  "senatorial_district": "5f0f3956970bd83a6f453a0f",
+  "name": "KARAUSWA GARU GUNA",
+  "code": "07",
+  "old_name": "",
+  "ward_id": 26112,
+  "created_at": "2020-07-15T17:39:08.567Z",
+  "updated_at": "2020-07-15T17:39:08.567Z",
+  "__v": 0
+}

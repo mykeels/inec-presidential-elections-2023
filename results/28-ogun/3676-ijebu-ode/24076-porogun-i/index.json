@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3e058f77bb3acad0a72f",
+  "state_id": 28,
+  "state": "5f0eb6e16dda22674979bf3d",
+  "lga_id": 3676,
+  "lga": "5f0f39a14d89fc3a883de2fd",
+  "state_constituency_id": 738,
+  "state_constituency": "5f0f374c93d20b39ceee2294",
+  "federal_constituency_id": 267,
+  "federal_constituency": "5f0f38032d77c83a06f0f40f",
+  "senatorial_district_id": 74,
+  "senatorial_district": "5f0f3955970bd83a6f4539fa",
+  "name": "POROGUN  I",
+  "code": "06",
+  "old_name": "",
+  "ward_id": 24076,
+  "created_at": "2020-07-15T17:33:57.090Z",
+  "updated_at": "2020-07-15T17:33:57.090Z",
+  "__v": 0
+}

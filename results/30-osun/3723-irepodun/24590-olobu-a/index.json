@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3e538f77bb3acad0a931",
+  "state_id": 30,
+  "state": "5f0eb6e16dda22674979bf3f",
+  "lga_id": 3723,
+  "lga": "5f0f39a44d89fc3a883de32c",
+  "state_constituency_id": 782,
+  "state_constituency": "5f0f374f93d20b39ceee22c0",
+  "federal_constituency_id": 278,
+  "federal_constituency": "5f0f38032d77c83a06f0f41a",
+  "senatorial_district_id": 79,
+  "senatorial_district": "5f0f3955970bd83a6f4539ff",
+  "name": "OLOBU 'A'",
+  "code": "01",
+  "old_name": "",
+  "ward_id": 24590,
+  "created_at": "2020-07-15T17:35:15.416Z",
+  "updated_at": "2020-07-15T17:35:15.416Z",
+  "__v": 0
+}

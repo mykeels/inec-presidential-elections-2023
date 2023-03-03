@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3be88f77bb3acad0990f",
+  "state_id": 13,
+  "state": "5f0eb6e16dda22674979bf2e",
+  "lga_id": 3357,
+  "lga": "5f0f398b4d89fc3a883de1be",
+  "state_constituency_id": 342,
+  "state_constituency": "5f0f373093d20b39ceee210a",
+  "federal_constituency_id": 108,
+  "federal_constituency": "5f0f37f92d77c83a06f0f376",
+  "senatorial_district_id": 39,
+  "senatorial_district": "5f0f3953970bd83a6f4539db",
+  "name": "IGEDE   II",
+  "code": "06",
+  "old_name": "",
+  "ward_id": 20460,
+  "created_at": "2020-07-15T17:24:56.496Z",
+  "updated_at": "2020-07-15T17:24:56.496Z",
+  "__v": 0
+}

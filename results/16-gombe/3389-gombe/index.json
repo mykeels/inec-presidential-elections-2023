@@ -1,0 +1,12 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f398d4d89fc3a883de1de",
+  "state_id": 16,
+  "state": "5f0eb6e16dda22674979bf31",
+  "name": "GOMBE",
+  "code": "06",
+  "lga_id": 3389,
+  "created_at": "2020-07-15T17:14:53.290Z",
+  "updated_at": "2020-07-15T17:14:53.290Z",
+  "__v": 0
+}

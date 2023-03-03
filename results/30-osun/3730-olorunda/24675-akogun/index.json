@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3e628f77bb3acad0a986",
+  "state_id": 30,
+  "state": "5f0eb6e16dda22674979bf3f",
+  "lga_id": 3730,
+  "lga": "5f0f39a54d89fc3a883de333",
+  "state_constituency_id": 784,
+  "state_constituency": "5f0f374f93d20b39ceee22c2",
+  "federal_constituency_id": 278,
+  "federal_constituency": "5f0f38032d77c83a06f0f41a",
+  "senatorial_district_id": 79,
+  "senatorial_district": "5f0f3955970bd83a6f4539ff",
+  "name": "AKOGUN",
+  "code": "03",
+  "old_name": "",
+  "ward_id": 24675,
+  "created_at": "2020-07-15T17:35:30.009Z",
+  "updated_at": "2020-07-15T17:35:30.009Z",
+  "__v": 0
+}

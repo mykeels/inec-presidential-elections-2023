@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3daf8f77bb3acad0a4ed",
+  "state_id": 25,
+  "state": "5f0eb6e16dda22674979bf3a",
+  "lga_id": 3625,
+  "lga": "5f0f399e4d89fc3a883de2ca",
+  "state_constituency_id": 670,
+  "state_constituency": "5f0f374793d20b39ceee2250",
+  "federal_constituency_id": 245,
+  "federal_constituency": "5f0f38012d77c83a06f0f3f9",
+  "senatorial_district_id": 70,
+  "senatorial_district": "5f0f3955970bd83a6f4539f6",
+  "name": "ILASAMAJA",
+  "code": "05",
+  "old_name": "",
+  "ward_id": 23498,
+  "created_at": "2020-07-15T17:32:31.106Z",
+  "updated_at": "2020-07-15T17:32:31.106Z",
+  "__v": 0
+}

@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3d9a8f77bb3acad0a46d",
+  "state_id": 25,
+  "state": "5f0eb6e16dda22674979bf3a",
+  "lga_id": 3615,
+  "lga": "5f0f399e4d89fc3a883de2c0",
+  "state_constituency_id": 649,
+  "state_constituency": "5f0f374693d20b39ceee223b",
+  "federal_constituency_id": 232,
+  "federal_constituency": "5f0f38012d77c83a06f0f3ec",
+  "senatorial_district_id": 68,
+  "senatorial_district": "5f0f3955970bd83a6f4539f4",
+  "name": "ILASAN HOUSING ESTATE",
+  "code": "03",
+  "old_name": "",
+  "ward_id": 23370,
+  "created_at": "2020-07-15T17:32:10.020Z",
+  "updated_at": "2020-07-15T17:32:10.020Z",
+  "__v": 0
+}

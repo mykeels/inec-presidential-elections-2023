@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3d518f77bb3acad0a288",
+  "state_id": 23,
+  "state": "5f0eb6e16dda22674979bf38",
+  "lga_id": 3573,
+  "lga": "5f0f399b4d89fc3a883de296",
+  "state_constituency_id": 589,
+  "state_constituency": "5f0f374293d20b39ceee21ff",
+  "federal_constituency_id": 375,
+  "federal_constituency": "5f0f38092d77c83a06f0f476",
+  "senatorial_district_id": 66,
+  "senatorial_district": "5f0f3955970bd83a6f4539f2",
+  "name": "ENJEMA  IV",
+  "code": "09",
+  "old_name": "",
+  "ward_id": 22885,
+  "created_at": "2020-07-15T17:30:57.370Z",
+  "updated_at": "2020-07-15T17:30:57.370Z",
+  "__v": 0
+}

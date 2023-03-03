@@ -1,0 +1,12 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f39a14d89fc3a883de2ff",
+  "state_id": 28,
+  "state": "5f0eb6e16dda22674979bf3d",
+  "name": "IMEKO/AFON",
+  "code": "13",
+  "lga_id": 3678,
+  "created_at": "2020-07-15T17:15:13.951Z",
+  "updated_at": "2020-07-15T17:15:13.951Z",
+  "__v": 0
+}

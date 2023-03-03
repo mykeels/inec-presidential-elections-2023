@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3ee88f77bb3acad0acef",
+  "state_id": 33,
+  "state": "5f0eb6e16dda22674979bf42",
+  "lga_id": 3803,
+  "lga": "5f0f39a94d89fc3a883de37c",
+  "state_constituency_id": 886,
+  "state_constituency": "5f0f375693d20b39ceee2328",
+  "federal_constituency_id": 306,
+  "federal_constituency": "5f0f38052d77c83a06f0f436",
+  "senatorial_district_id": 89,
+  "senatorial_district": "5f0f3956970bd83a6f453a07",
+  "name": "DIEPIRI",
+  "code": "03",
+  "old_name": "",
+  "ward_id": 25548,
+  "created_at": "2020-07-15T17:37:44.428Z",
+  "updated_at": "2020-07-15T17:37:44.428Z",
+  "__v": 0
+}

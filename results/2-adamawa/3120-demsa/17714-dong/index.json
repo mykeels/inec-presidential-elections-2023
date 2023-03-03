@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3a558f77bb3acad08e55",
+  "state_id": 2,
+  "state": "5f0eb6e06dda22674979bf23",
+  "lga_id": 3120,
+  "lga": "5f0f397c4d89fc3a883de0d1",
+  "state_constituency_id": 32,
+  "state_constituency": "5f0f371b93d20b39ceee1fd4",
+  "federal_constituency_id": 10,
+  "federal_constituency": "5f0f37f32d77c83a06f0f31a",
+  "senatorial_district_id": 6,
+  "senatorial_district": "5f0f3952970bd83a6f4539c0",
+  "name": "DONG",
+  "code": "05",
+  "old_name": "",
+  "ward_id": 17714,
+  "created_at": "2020-07-15T17:18:13.100Z",
+  "updated_at": "2020-07-15T17:18:13.100Z",
+  "__v": 0
+}

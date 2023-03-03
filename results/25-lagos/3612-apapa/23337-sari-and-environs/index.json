@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3d958f77bb3acad0a44c",
+  "state_id": 25,
+  "state": "5f0eb6e16dda22674979bf3a",
+  "lga_id": 3612,
+  "lga": "5f0f399d4d89fc3a883de2bd",
+  "state_constituency_id": 644,
+  "state_constituency": "5f0f374693d20b39ceee2236",
+  "federal_constituency_id": 233,
+  "federal_constituency": "5f0f38012d77c83a06f0f3ed",
+  "senatorial_district_id": 68,
+  "senatorial_district": "5f0f3955970bd83a6f4539f4",
+  "name": "SARI AND ENVIRONS",
+  "code": "10",
+  "old_name": "",
+  "ward_id": 23337,
+  "created_at": "2020-07-15T17:32:05.321Z",
+  "updated_at": "2020-07-15T17:32:05.321Z",
+  "__v": 0
+}

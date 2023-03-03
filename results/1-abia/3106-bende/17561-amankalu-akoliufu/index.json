@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3a3c8f77bb3acad08dbc",
+  "state_id": 1,
+  "state": "5f0eb6e06dda22674979bf22",
+  "lga_id": 3106,
+  "lga": "5f0f397b4d89fc3a883de0c3",
+  "state_constituency_id": 8,
+  "state_constituency": "5f0f371993d20b39ceee1fbc",
+  "federal_constituency_id": 4,
+  "federal_constituency": "5f0f37f32d77c83a06f0f314",
+  "senatorial_district_id": 2,
+  "senatorial_district": "5f0f3952970bd83a6f4539be",
+  "name": "AMANKALU/AKOLIUFU",
+  "code": "01",
+  "old_name": "",
+  "ward_id": 17561,
+  "created_at": "2020-07-15T17:17:48.123Z",
+  "updated_at": "2020-07-15T17:17:48.123Z",
+  "__v": 0
+}

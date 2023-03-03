@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3c698f77bb3acad09c80",
+  "state_id": 18,
+  "state": "5f0eb6e16dda22674979bf33",
+  "lga_id": 3431,
+  "lga": "5f0f398f4d89fc3a883de208",
+  "state_constituency_id": 434,
+  "state_constituency": "5f0f373893d20b39ceee2166",
+  "federal_constituency_id": 140,
+  "federal_constituency": "5f0f37fb2d77c83a06f0f392",
+  "senatorial_district_id": 51,
+  "senatorial_district": "5f0f3954970bd83a6f4539e7",
+  "name": "KADIRA",
+  "code": "06",
+  "old_name": "",
+  "ward_id": 21341,
+  "created_at": "2020-07-15T17:27:05.332Z",
+  "updated_at": "2020-07-15T17:27:05.332Z",
+  "__v": 0
+}

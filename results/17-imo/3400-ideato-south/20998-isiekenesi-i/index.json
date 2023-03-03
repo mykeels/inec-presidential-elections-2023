@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3c398f77bb3acad09b29",
+  "state_id": 17,
+  "state": "5f0eb6e16dda22674979bf32",
+  "lga_id": 3400,
+  "lga": "5f0f398e4d89fc3a883de1e9",
+  "state_constituency_id": 402,
+  "state_constituency": "5f0f373593d20b39ceee2146",
+  "federal_constituency_id": 130,
+  "federal_constituency": "5f0f37fb2d77c83a06f0f38a",
+  "senatorial_district_id": 48,
+  "senatorial_district": "5f0f3954970bd83a6f4539e4",
+  "name": "ISIEKENESI I",
+  "code": "03",
+  "old_name": "",
+  "ward_id": 20998,
+  "created_at": "2020-07-15T17:26:17.371Z",
+  "updated_at": "2020-07-15T17:26:17.371Z",
+  "__v": 0
+}

@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3d828f77bb3acad0a3c6",
+  "state_id": 24,
+  "state": "5f0eb6e16dda22674979bf39",
+  "lga_id": 3601,
+  "lga": "5f0f399d4d89fc3a883de2b2",
+  "state_constituency_id": 626,
+  "state_constituency": "5f0f374493d20b39ceee2224",
+  "federal_constituency_id": 222,
+  "federal_constituency": "5f0f38002d77c83a06f0f3e2",
+  "senatorial_district_id": 106,
+  "senatorial_district": "5f0f3957970bd83a6f453a14",
+  "name": "ALLA",
+  "code": "01",
+  "old_name": "",
+  "ward_id": 23203,
+  "created_at": "2020-07-15T17:31:46.131Z",
+  "updated_at": "2020-07-15T17:31:46.131Z",
+  "__v": 0
+}

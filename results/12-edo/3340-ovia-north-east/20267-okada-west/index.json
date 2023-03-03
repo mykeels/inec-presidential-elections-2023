@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3bcd8f77bb3acad0984e",
+  "state_id": 12,
+  "state": "5f0eb6e16dda22674979bf2d",
+  "lga_id": 3340,
+  "lga": "5f0f398a4d89fc3a883de1ad",
+  "state_constituency_id": 318,
+  "state_constituency": "5f0f372e93d20b39ceee20f2",
+  "federal_constituency_id": 366,
+  "federal_constituency": "5f0f38082d77c83a06f0f46e",
+  "senatorial_district_id": 37,
+  "senatorial_district": "5f0f3953970bd83a6f4539d9",
+  "name": "OKADA WEST",
+  "code": "01",
+  "old_name": "",
+  "ward_id": 20267,
+  "created_at": "2020-07-15T17:24:29.591Z",
+  "updated_at": "2020-07-15T17:24:29.591Z",
+  "__v": 0
+}

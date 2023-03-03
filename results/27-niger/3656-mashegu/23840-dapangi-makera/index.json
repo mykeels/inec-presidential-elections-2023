@@ -1,0 +1,21 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3de28f77bb3acad0a643",
+  "state_id": 27,
+  "state": "5f0eb6e16dda22674979bf3c",
+  "lga_id": 3656,
+  "lga": "5f0f39a04d89fc3a883de2e9",
+  "state_constituency_id": 716,
+  "state_constituency": "5f0f374a93d20b39ceee227e",
+  "federal_constituency_id": 258,
+  "federal_constituency": "5f0f38022d77c83a06f0f406",
+  "senatorial_district_id": 71,
+  "senatorial_district": "5f0f3955970bd83a6f4539f7",
+  "name": "DAPANGI/MAKERA",
+  "code": "02",
+  "old_name": "",
+  "ward_id": 23840,
+  "created_at": "2020-07-15T17:33:22.978Z",
+  "updated_at": "2020-07-15T17:33:22.978Z",
+  "__v": 0
+}
