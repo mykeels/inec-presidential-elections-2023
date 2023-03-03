@@ -1,0 +1,12 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+OGUN,EWEKORO,MOSAN,PRY. SCHOOL SIGO OPALOLA,27/06/08/005,,true
+OGUN,EWEKORO,MOSAN,PRY. SCHOOL MOSAN,27/06/08/003,,true
+OGUN,EWEKORO,MOSAN,OPEN SPACE AT OSUPORI VILLAGE SQUARE,27/06/08/002,,true
+OGUN,EWEKORO,MOSAN,PRY. SCHOOL IGBIN OJO,27/06/08/009,,true
+OGUN,EWEKORO,MOSAN,PRY. SCHOOL OTEYI OLOKUTA,27/06/08/004,,true
+OGUN,EWEKORO,MOSAN,ISALE STATION  II,27/06/08/008,,true
+OGUN,EWEKORO,MOSAN,IGBIN AROWOSEGBE VILLAGE,27/06/08/011,,true
+OGUN,EWEKORO,MOSAN,TEEMU VILLAGE,27/06/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/08/pu/010/010-1677401242.pdf,false
+OGUN,EWEKORO,MOSAN,ISALE STATION  I,27/06/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/08/pu/007/007-1677398748.pdf,false
+OGUN,EWEKORO,MOSAN,WASIMI ORILE,27/06/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/08/pu/006/006-1677397553.pdf,false
+OGUN,EWEKORO,MOSAN,OPEN SPACE AT ADE-AGBA VILLAGE SQUARE,27/06/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/08/pu/001/001-1677390393.pdf,false
