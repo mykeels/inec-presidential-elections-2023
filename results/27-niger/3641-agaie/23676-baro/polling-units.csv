@@ -1,0 +1,19 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+NIGER,AGAIE,BARO,ZAGO,26/01/01/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86534/result_71042_1677765145_thumb.jpg,false
+NIGER,AGAIE,BARO,MAKWAGI,26/01/01/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86533/result_71041_1677765022_thumb.jpg,false
+NIGER,AGAIE,BARO,LAKAN-EKAGI,26/01/01/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86531/result_71039_1677764762_thumb.jpg,false
+NIGER,AGAIE,BARO,GUREGI,26/01/01/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86530/result_71038_1677764660_thumb.jpg,false
+NIGER,AGAIE,BARO,KOROKA KPASA,26/01/01/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86529/result_71037_1677764505_thumb.jpg,false
+NIGER,AGAIE,BARO,KIBBAN,26/01/01/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86528/result_71036_1677764363_thumb.jpg,false
+NIGER,AGAIE,BARO,KAKPI,26/01/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86527/result_71035_1677764243_thumb.jpg,false
+NIGER,AGAIE,BARO,EVUNTAGI,26/01/01/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86526/result_71034_1677764051_thumb.jpg,false
+NIGER,AGAIE,BARO,ESSUN,26/01/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86525/result_71033_1677763764_thumb.jpg,false
+NIGER,AGAIE,BARO,BAWALAGI,26/01/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86524/result_71032_1677763632_thumb.jpg,false
+NIGER,AGAIE,BARO,BARO II,26/01/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86523/result_71031_1677763466_thumb.jpg,false
+NIGER,AGAIE,BARO,BARO I,26/01/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86522/result_71030_1677763201_thumb.jpg,false
+NIGER,AGAIE,BARO,AKWANO,26/01/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86521/result_71029_1677763069_thumb.jpg,false
+NIGER,AGAIE,BARO,LOGUMA,26/01/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/01/pu/012/012-1677369644.pdf,false
+NIGER,AGAIE,BARO,TIMIGI PRIMARY SCHOOL,26/01/01/016,,false
+NIGER,AGAIE,BARO,ESSUN PRIMARY SCHOOL,26/01/01/017,,false
+NIGER,AGAIE,BARO,KOLONJI PRIMARY SCHOOL,26/01/01/015,,false
+NIGER,AGAIE,BARO,ZAGO-TAKO,26/01/01/018,,false

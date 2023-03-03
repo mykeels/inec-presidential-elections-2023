@@ -1,0 +1,20 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+NIGER,BORGU,BABANNA,KPANGBAN SAIBE,26/04/01/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658436/result_71544_1677582126_thumb.jpg,false
+NIGER,BORGU,BABANNA,AUDU FARI,26/04/01/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658442/result_71550_1677582688_thumb.jpg,false
+NIGER,BORGU,BABANNA,KERENJI,26/04/01/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658441/result_71549_1677582601_thumb.jpg,false
+NIGER,BORGU,BABANNA,IMILE SEUGBE,26/04/01/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658443/result_71551_1677582749_thumb.jpg,false
+NIGER,BORGU,BABANNA,DANGBORU,26/04/01/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658440/result_71548_1677582533_thumb.jpg,false
+NIGER,BORGU,BABANNA,SWALA ZEB,26/04/01/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658439/result_71547_1677582448_thumb.jpg,false
+NIGER,BORGU,BABANNA,SAMINAKA,26/04/01/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658437/result_71545_1677582219_thumb.jpg,false
+NIGER,BORGU,BABANNA,KWASARE,26/04/01/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658438/result_71546_1677582366_thumb.jpg,false
+NIGER,BORGU,BABANNA,GBEJIN,26/04/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3644/ward/23711/pu/87950/87950-1677582866.pdf,false
+NIGER,BORGU,BABANNA,KAPUBARA,26/04/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3644/ward/23711/pu/87949/87949-1677582359.pdf,true
+NIGER,BORGU,BABANNA,BABANNA GANDU,26/04/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3644/ward/23711/pu/87948/87948-1677582248.pdf,true
+NIGER,BORGU,BABANNA,MARAMI Z.E.B.,26/04/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3644/ward/23711/pu/87947/87947-1677582128.pdf,true
+NIGER,BORGU,BABANNA,KBENYA,26/04/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3644/ward/23711/pu/87946/87946-1677582029.pdf,true
+NIGER,BORGU,BABANNA,DEKARA,26/04/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3644/ward/23711/pu/87945/87945-1677581879.pdf,true
+NIGER,BORGU,BABANNA,KUBLE,26/04/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3644/ward/23711/pu/87944/87944-1677581752.pdf,true
+NIGER,BORGU,BABANNA,YAGWASO,26/04/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3644/ward/23711/pu/87943/87943-1677581630.pdf,true
+NIGER,BORGU,BABANNA,GARONJI,26/04/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3644/ward/23711/pu/87942/87942-1677581499.pdf,true
+NIGER,BORGU,BABANNA,BABANNA DISPENSARY,26/04/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3644/ward/23711/pu/87941/87941-1677580847.pdf,true
+NIGER,BORGU,BABANNA,BABANNA Z.E.B.,26/04/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3644/ward/23711/pu/87940/87940-1677580636.pdf,true

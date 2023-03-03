@@ -1,0 +1,13 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+NIGER,AGAIE,EKOSSA,EMI-NAKORDI,26/01/04/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658280/result_71084_1677600656_thumb.jpg,false
+NIGER,AGAIE,EKOSSA,NUHU LAFARMA PRIMARY SCHOOL,26/01/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86557/result_71078_1677599476_thumb.jpg,false
+NIGER,AGAIE,EKOSSA,EMI KPOKPOTA I,26/01/04/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658279/result_71083_1677599231_thumb.jpg,false
+NIGER,AGAIE,EKOSSA,ISIYAKU PRIMARY SCHOOL I.,26/01/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658278/result_71082_1677597357_thumb.jpg,false
+NIGER,AGAIE,EKOSSA,EMI DZWAFU,26/01/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+NIGER,AGAIE,EKOSSA,EMI KPOKPOTA,26/01/04/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86556/result_71077_1677595109_thumb.jpg,false
+NIGER,AGAIE,EKOSSA,EMI FULAKO I,26/01/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86553/result_71074_1677594575_thumb.jpg,false
+NIGER,AGAIE,EKOSSA,YAKATCHA YABUZUMA,26/01/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86558/result_71079_1677594026_thumb.jpg,false
+NIGER,AGAIE,EKOSSA,KPOTUN WORO,26/01/04/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86560/result_71081_1677593510_thumb.jpg,false
+NIGER,AGAIE,EKOSSA,WALI SULEIMAN,26/01/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86559/result_71080_1677590718_thumb.jpg,false
+NIGER,AGAIE,EKOSSA,EMI FULAKO II,26/01/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86554/result_71075_1677591610_thumb.jpg,false
+NIGER,AGAIE,EKOSSA,ISIYAKU PRIMARY SCHOOL,26/01/04/004,,false

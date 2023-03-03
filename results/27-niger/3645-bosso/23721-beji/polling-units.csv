@@ -1,0 +1,19 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+NIGER,BOSSO,BEJI,ANG. KUKA,26/05/01/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86965/result_71751_1677524253_thumb.jpg,true
+NIGER,BOSSO,BEJI,MUTUM DAYA,26/05/01/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86964/result_71750_1677524169_thumb.jpg,false
+NIGER,BOSSO,BEJI,GIDAN ZAUNA,26/05/01/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86963/result_71749_1677524091_thumb.jpg,false
+NIGER,BOSSO,BEJI,ANG. BINNI,26/05/01/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86962/result_71748_1677523633_thumb.jpg,false
+NIGER,BOSSO,BEJI,ANG. BARIKUTA,26/05/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86961/result_71747_1677523469_thumb.jpg,false
+NIGER,BOSSO,BEJI,OPEN SPACE SABON GARI,26/05/01/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658541/result_71752_1677569604_thumb.jpg,false
+NIGER,BOSSO,BEJI,JIGBEYI,26/05/01/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86960/result_71746_1677522978_thumb.jpg,false
+NIGER,BOSSO,BEJI,KAMPANI BABANGANA,26/05/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86958/result_71744_1677522776_thumb.jpg,false
+NIGER,BOSSO,BEJI,BEJI GARI,26/05/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86959/result_71745_1677522854_thumb.jpg,false
+NIGER,BOSSO,BEJI,BEJI PRIMARY SCHOOL  II,26/05/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86957/result_71743_1677522608_thumb.jpg,false
+NIGER,BOSSO,BEJI,BEJI PRIMARY SCHOOL I,26/05/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86956/result_71742_1677522494_thumb.jpg,false
+NIGER,BOSSO,BEJI,ANG NUPAWA,26/05/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/86955/result_71741_1677522234_thumb.jpg,false
+NIGER,BOSSO,BEJI,OPEN SPACE ANG. MALL. IDI,26/05/01/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658546/result_71757_1677573560_thumb.jpg,false
+NIGER,BOSSO,BEJI,U.B.E PRIMARY SCH. CHIPASSE,26/05/01/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658547/result_71758_1677573892_thumb.jpg,false
+NIGER,BOSSO,BEJI,U.B.E PRIMARY SCHOOL GUNGEL,26/05/01/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658544/result_71755_1677573374_thumb.jpg,false
+NIGER,BOSSO,BEJI,OPEN SPACE ANG SHABA,26/05/01/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658543/result_71754_1677573282_thumb.jpg,false
+NIGER,BOSSO,BEJI,BEJI SECONDARY SCHOOL,26/05/01/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658542/result_71753_1677573203_thumb.jpg,false
+NIGER,BOSSO,BEJI,OPEN SPACE ANG. DOMA,26/05/01/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658545/result_71756_1677573486_thumb.jpg,false
