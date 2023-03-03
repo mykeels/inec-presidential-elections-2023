@@ -1,8 +1,8 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,GARKI,,MAIGAGGAFA PRI. SCH. MAIGAGGAFA,17/07/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/01/pu/004/004-1677399751.pdf,false
-JIGAWA,GARKI,,POLLING SHEAD D/KUKA-DOGUWAR KUKA,17/07/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/01/pu/005/005-1677399218.pdf,false
-JIGAWA,GARKI,,MAIWANDO PRI. SCH. MAIWANDO,17/07/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/01/pu/003/003-1677398423.pdf,false
-JIGAWA,GARKI,,BUDURU PRI. SCH.BUDURU,17/07/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/01/pu/001/001-1677396687.pdf,false
-JIGAWA,GARKI,,GURARRAJI PRI. SCH. GURARRAJI,17/07/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/01/pu/002/002-1677396662.pdf,false
-JIGAWA,GARKI,,POLLING SHADE AT JAFTAWA,17/07/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/01/pu/007/007-1677396186.pdf,false
-JIGAWA,GARKI,,POLLING SHEAD KOYOMA- KOYOMA,17/07/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/01/pu/006/006-1677393619.pdf,false
+JIGAWA,GARKI,BUDURU,MAIGAGGAFA PRI. SCH. MAIGAGGAFA,17/07/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/01/pu/004/004-1677399751.pdf,false
+JIGAWA,GARKI,BUDURU,POLLING SHEAD D/KUKA-DOGUWAR KUKA,17/07/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/01/pu/005/005-1677399218.pdf,false
+JIGAWA,GARKI,BUDURU,MAIWANDO PRI. SCH. MAIWANDO,17/07/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/01/pu/003/003-1677398423.pdf,false
+JIGAWA,GARKI,BUDURU,BUDURU PRI. SCH.BUDURU,17/07/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/01/pu/001/001-1677396687.pdf,false
+JIGAWA,GARKI,BUDURU,GURARRAJI PRI. SCH. GURARRAJI,17/07/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/01/pu/002/002-1677396662.pdf,false
+JIGAWA,GARKI,BUDURU,POLLING SHADE AT JAFTAWA,17/07/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/01/pu/007/007-1677396186.pdf,false
+JIGAWA,GARKI,BUDURU,POLLING SHEAD KOYOMA- KOYOMA,17/07/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/01/pu/006/006-1677393619.pdf,false

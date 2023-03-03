@@ -1,16 +1,16 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,GARKI,,SIYORI PRI. SCH./SIYORI  II,17/07/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/002/002-1677410610.pdf,false
-JIGAWA,GARKI,,UNBONO PS II,17/07/11/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/014/014-1677409478.pdf,false
-JIGAWA,GARKI,,DAN KAKA ISLAMIYYA,17/07/11/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/015/015-1677407649.pdf,false
-JIGAWA,GARKI,,POLLING SHADE - RUBUNJI,17/07/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/012/012-1677407434.pdf,false
-JIGAWA,GARKI,,BATAKASHI/BATA KASHI,17/07/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/010/010-1677406536.pdf,false
-JIGAWA,GARKI,,G/MALAMAI /G / MALAMAI,17/07/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/011/011-1677406224.pdf,false
-JIGAWA,GARKI,,GIDAN MAZA PRI. SCH./GIDAN MAZA  II,17/07/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/007/007-1677404827.pdf,false
-JIGAWA,GARKI,,UNBONO PRI. SCH/UNBONO  II,17/07/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/009/009-1677404396.pdf,false
-JIGAWA,GARKI,,UNBONO PRI. SCH/UNBONO  I,17/07/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/008/008-1677403544.pdf,false
-JIGAWA,GARKI,,GIDAN MAZA PRI. SCH./GIDAN MAZA  I,17/07/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/006/006-1677402367.pdf,false
-JIGAWA,GARKI,,GIDAN BAKI PRI. SCH./GIDAN BAKI,17/07/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/005/005-1677399112.pdf,false
-JIGAWA,GARKI,,GIDAN GASHI PRI. SCH./GIDAN GASHI,17/07/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/004/004-1677396290.pdf,false
-JIGAWA,GARKI,,MAIGATARI PRI. SCH./MAIGATARI,17/07/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/003/003-1677395315.pdf,false
-JIGAWA,GARKI,,SIYORI PRI. SCH./SIYORI  I,17/07/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/001/001-1677392996.pdf,false
-JIGAWA,GARKI,,JSS SIYORI,17/07/11/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/013/013-1677392326.pdf,false
+JIGAWA,GARKI,SIYORI,SIYORI PRI. SCH./SIYORI  II,17/07/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/002/002-1677410610.pdf,false
+JIGAWA,GARKI,SIYORI,UNBONO PS II,17/07/11/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/014/014-1677409478.pdf,false
+JIGAWA,GARKI,SIYORI,DAN KAKA ISLAMIYYA,17/07/11/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/015/015-1677407649.pdf,false
+JIGAWA,GARKI,SIYORI,POLLING SHADE - RUBUNJI,17/07/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/012/012-1677407434.pdf,false
+JIGAWA,GARKI,SIYORI,BATAKASHI/BATA KASHI,17/07/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/010/010-1677406536.pdf,false
+JIGAWA,GARKI,SIYORI,G/MALAMAI /G / MALAMAI,17/07/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/011/011-1677406224.pdf,false
+JIGAWA,GARKI,SIYORI,GIDAN MAZA PRI. SCH./GIDAN MAZA  II,17/07/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/007/007-1677404827.pdf,false
+JIGAWA,GARKI,SIYORI,UNBONO PRI. SCH/UNBONO  II,17/07/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/009/009-1677404396.pdf,false
+JIGAWA,GARKI,SIYORI,UNBONO PRI. SCH/UNBONO  I,17/07/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/008/008-1677403544.pdf,false
+JIGAWA,GARKI,SIYORI,GIDAN MAZA PRI. SCH./GIDAN MAZA  I,17/07/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/006/006-1677402367.pdf,false
+JIGAWA,GARKI,SIYORI,GIDAN BAKI PRI. SCH./GIDAN BAKI,17/07/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/005/005-1677399112.pdf,false
+JIGAWA,GARKI,SIYORI,GIDAN GASHI PRI. SCH./GIDAN GASHI,17/07/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/004/004-1677396290.pdf,false
+JIGAWA,GARKI,SIYORI,MAIGATARI PRI. SCH./MAIGATARI,17/07/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/003/003-1677395315.pdf,false
+JIGAWA,GARKI,SIYORI,SIYORI PRI. SCH./SIYORI  I,17/07/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/001/001-1677392996.pdf,false
+JIGAWA,GARKI,SIYORI,JSS SIYORI,17/07/11/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/013/013-1677392326.pdf,false

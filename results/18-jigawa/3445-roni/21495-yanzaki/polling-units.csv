@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,RONI,,GIDAN MAIUNGUWA/GUMUMA,17/24/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/10/pu/004/004-1677418898.pdf,false
-JIGAWA,RONI,,GIDAN MAIUNGUWA/YANZAKI,17/24/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/10/pu/010/010-1677412301.pdf,false
-JIGAWA,RONI,,GIDAN MAIUNGUWA/DOGAL,17/24/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/10/pu/002/002-1677409346.pdf,false
-JIGAWA,RONI,,GIDAN DAWA CIKIN GARI/GIDAN DAWA,17/24/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/10/pu/003/003-1677406021.pdf,false
-JIGAWA,RONI,,"GIDAN S/FULANI/UNG, SARA",17/24/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/10/pu/009/009-1677405724.pdf,false
-JIGAWA,RONI,,GIDAN MAIUNGUWA/JANGEFE II,17/24/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/10/pu/006/006-1677405328.pdf,false
-JIGAWA,RONI,,GIDAN SARKIN FULANI/UNG. DINYA,17/24/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/10/pu/007/007-1677404976.pdf,false
-JIGAWA,RONI,,GIDAN MAIUNGUWA/JANGEFE I,17/24/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/10/pu/005/005-1677401278.pdf,false
-JIGAWA,RONI,,DAGE CIKIN GARI/DAGE,17/24/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/10/pu/001/001-1677398350.pdf,false
-JIGAWA,RONI,,U/DINYA DANDALI/UNG.DINYA,17/24/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/10/pu/008/008-1677396652.pdf,false
-JIGAWA,RONI,,KAROFIN-TSAMIYA/K-TSAMIYA,17/24/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/10/pu/011/011-1677394128.pdf,false
+JIGAWA,RONI,YANZAKI,GIDAN MAIUNGUWA/GUMUMA,17/24/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/10/pu/004/004-1677418898.pdf,false
+JIGAWA,RONI,YANZAKI,GIDAN MAIUNGUWA/YANZAKI,17/24/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/10/pu/010/010-1677412301.pdf,false
+JIGAWA,RONI,YANZAKI,GIDAN MAIUNGUWA/DOGAL,17/24/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/10/pu/002/002-1677409346.pdf,false
+JIGAWA,RONI,YANZAKI,GIDAN DAWA CIKIN GARI/GIDAN DAWA,17/24/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/10/pu/003/003-1677406021.pdf,false
+JIGAWA,RONI,YANZAKI,"GIDAN S/FULANI/UNG, SARA",17/24/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/10/pu/009/009-1677405724.pdf,false
+JIGAWA,RONI,YANZAKI,GIDAN MAIUNGUWA/JANGEFE II,17/24/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/10/pu/006/006-1677405328.pdf,false
+JIGAWA,RONI,YANZAKI,GIDAN SARKIN FULANI/UNG. DINYA,17/24/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/10/pu/007/007-1677404976.pdf,false
+JIGAWA,RONI,YANZAKI,GIDAN MAIUNGUWA/JANGEFE I,17/24/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/10/pu/005/005-1677401278.pdf,false
+JIGAWA,RONI,YANZAKI,DAGE CIKIN GARI/DAGE,17/24/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/10/pu/001/001-1677398350.pdf,false
+JIGAWA,RONI,YANZAKI,U/DINYA DANDALI/UNG.DINYA,17/24/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/10/pu/008/008-1677396652.pdf,false
+JIGAWA,RONI,YANZAKI,KAROFIN-TSAMIYA/K-TSAMIYA,17/24/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/10/pu/011/011-1677394128.pdf,false

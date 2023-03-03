@@ -1,8 +1,8 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,YANKWASHI,,OPEN SPACE/MAGAMI,17/27/07/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51656/result_111004_1677678952_thumb.jpg,false
-JIGAWA,YANKWASHI,,OPEN SPACE/KUDA KUDU,17/27/07/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51655/result_111003_1677678796_thumb.jpg,false
-JIGAWA,YANKWASHI,,KUDA AREWA /PRIMARY  SCHOOL,17/27/07/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51654/result_111002_1677678653_thumb.jpg,false
-JIGAWA,YANKWASHI,,OPEN SPACE/KIYE,17/27/07/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51653/result_111001_1677678403_thumb.jpg,false
-JIGAWA,YANKWASHI,,OPEN SPACE/JAMA'AR MALLAM BALA,17/27/07/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51657/result_111005_1677620068_thumb.jpg,false
-JIGAWA,YANKWASHI,,KUDA WALAWA,17/27/07/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51658/result_111006_1677619813_thumb.jpg,false
-JIGAWA,YANKWASHI,,KAWAYE /PRIMARY  SCHOOL,17/27/07/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+JIGAWA,YANKWASHI,KUDA,OPEN SPACE/MAGAMI,17/27/07/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51656/result_111004_1677678952_thumb.jpg,false
+JIGAWA,YANKWASHI,KUDA,OPEN SPACE/KUDA KUDU,17/27/07/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51655/result_111003_1677678796_thumb.jpg,false
+JIGAWA,YANKWASHI,KUDA,KUDA AREWA /PRIMARY  SCHOOL,17/27/07/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51654/result_111002_1677678653_thumb.jpg,false
+JIGAWA,YANKWASHI,KUDA,OPEN SPACE/KIYE,17/27/07/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51653/result_111001_1677678403_thumb.jpg,false
+JIGAWA,YANKWASHI,KUDA,OPEN SPACE/JAMA'AR MALLAM BALA,17/27/07/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51657/result_111005_1677620068_thumb.jpg,false
+JIGAWA,YANKWASHI,KUDA,KUDA WALAWA,17/27/07/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51658/result_111006_1677619813_thumb.jpg,false
+JIGAWA,YANKWASHI,KUDA,KAWAYE /PRIMARY  SCHOOL,17/27/07/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false

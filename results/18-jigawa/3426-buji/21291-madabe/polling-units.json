@@ -26,6 +26,7 @@
     "pu_code_string": "170509006",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "MADABE",
     "document": null,
     "old_documents": [
       {
@@ -66,6 +67,7 @@
     "pu_code_string": "170509003",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "MADABE",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -97,6 +99,7 @@
     "pu_code_string": "170509002",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "MADABE",
     "document": {
       "external": false,
       "status": 1,
@@ -135,6 +138,7 @@
     "pu_code_string": "170509001",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "MADABE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -165,6 +169,7 @@
     "pu_code_string": "170509004",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "MADABE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -195,6 +200,7 @@
     "pu_code_string": "170509005",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "MADABE",
     "old_documents": [],
     "has_old_documents": false
   }

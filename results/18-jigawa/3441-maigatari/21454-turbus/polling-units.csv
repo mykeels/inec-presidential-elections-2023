@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,MAIGATARI,,TAKARDA PRI. SCH. TAKARDA,17/20/11/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50879/result_110001_1677620201_thumb.jpg,false
-JIGAWA,MAIGATARI,,KUKA YASKUN KALU PRI. SCH./KUKAYASKUN KALU,17/20/11/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-JIGAWA,MAIGATARI,,TURBUS PRI. SCH. II,17/20/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/11/pu/011/011-1677406339.pdf,false
-JIGAWA,MAIGATARI,,HARDO MANU/HARDO MANU,17/20/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/11/pu/008/008-1677406232.pdf,false
-JIGAWA,MAIGATARI,,MAIDA GARI/MAIDA,17/20/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/11/pu/010/010-1677405701.pdf,false
-JIGAWA,MAIGATARI,,KABARA PRI. SCH. KABARA,17/20/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/11/pu/007/007-1677404972.pdf,false
-JIGAWA,MAIGATARI,,KAMA GARIN LOTO P.S  KAMA,17/20/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/11/pu/005/005-1677404289.pdf,false
-JIGAWA,MAIGATARI,,DAWAR GADA PRI. SCH. DAWAR GADA,17/20/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/11/pu/004/004-1677403196.pdf,false
-JIGAWA,MAIGATARI,,LAWAN JANA/LAWAN JANA,17/20/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/11/pu/003/003-1677403029.pdf,false
-JIGAWA,MAIGATARI,,MEHASSAN PRI. SCH. MEHASSAN,17/20/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/11/pu/002/002-1677402940.pdf,false
-JIGAWA,MAIGATARI,,TURBUS PRI. SCH. TURBUS,17/20/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/11/pu/001/001-1677402642.pdf,false
+JIGAWA,MAIGATARI,TURBUS,TAKARDA PRI. SCH. TAKARDA,17/20/11/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50879/result_110001_1677620201_thumb.jpg,false
+JIGAWA,MAIGATARI,TURBUS,KUKA YASKUN KALU PRI. SCH./KUKAYASKUN KALU,17/20/11/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+JIGAWA,MAIGATARI,TURBUS,TURBUS PRI. SCH. II,17/20/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/11/pu/011/011-1677406339.pdf,false
+JIGAWA,MAIGATARI,TURBUS,HARDO MANU/HARDO MANU,17/20/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/11/pu/008/008-1677406232.pdf,false
+JIGAWA,MAIGATARI,TURBUS,MAIDA GARI/MAIDA,17/20/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/11/pu/010/010-1677405701.pdf,false
+JIGAWA,MAIGATARI,TURBUS,KABARA PRI. SCH. KABARA,17/20/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/11/pu/007/007-1677404972.pdf,false
+JIGAWA,MAIGATARI,TURBUS,KAMA GARIN LOTO P.S  KAMA,17/20/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/11/pu/005/005-1677404289.pdf,false
+JIGAWA,MAIGATARI,TURBUS,DAWAR GADA PRI. SCH. DAWAR GADA,17/20/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/11/pu/004/004-1677403196.pdf,false
+JIGAWA,MAIGATARI,TURBUS,LAWAN JANA/LAWAN JANA,17/20/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/11/pu/003/003-1677403029.pdf,false
+JIGAWA,MAIGATARI,TURBUS,MEHASSAN PRI. SCH. MEHASSAN,17/20/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/11/pu/002/002-1677402940.pdf,false
+JIGAWA,MAIGATARI,TURBUS,TURBUS PRI. SCH. TURBUS,17/20/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/11/pu/001/001-1677402642.pdf,false

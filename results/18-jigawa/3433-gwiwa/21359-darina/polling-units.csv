@@ -1,9 +1,9 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,GWIWA,,SHADA PRI. SCH. SHADA,17/12/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21359/pu/49819/49819-1677580617.pdf,true
-JIGAWA,GWIWA,,KETAI GARI DANDALI/KATAI,17/12/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/03/pu/003/003-1677405555.pdf,false
-JIGAWA,GWIWA,,MARAGANTA PRI SCH. II,17/12/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/03/pu/007/007-1677404110.pdf,false
-JIGAWA,GWIWA,,DARINA HABE CIKIN GARI/DARINA HABE,17/12/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/03/pu/001/001-1677394048.pdf,false
-JIGAWA,GWIWA,,MARAGANTA PRI. SCH. MARANGANTA,17/12/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/03/pu/004/004-1677391743.pdf,false
-JIGAWA,GWIWA,,UNG. GANJI CLINIC,17/12/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/03/pu/008/008-1677379364.pdf,false
-JIGAWA,GWIWA,,UNG/GANJI CIKIN GARI/ UNG/GANJI,17/12/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/03/pu/006/006-1677378024.pdf,false
-JIGAWA,GWIWA,,GASAKAE G/MAIUNGUWA/GASAKAE,17/12/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/03/pu/002/002-1677377760.pdf,false
+JIGAWA,GWIWA,DARINA,SHADA PRI. SCH. SHADA,17/12/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21359/pu/49819/49819-1677580617.pdf,true
+JIGAWA,GWIWA,DARINA,KETAI GARI DANDALI/KATAI,17/12/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/03/pu/003/003-1677405555.pdf,false
+JIGAWA,GWIWA,DARINA,MARAGANTA PRI SCH. II,17/12/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/03/pu/007/007-1677404110.pdf,false
+JIGAWA,GWIWA,DARINA,DARINA HABE CIKIN GARI/DARINA HABE,17/12/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/03/pu/001/001-1677394048.pdf,false
+JIGAWA,GWIWA,DARINA,MARAGANTA PRI. SCH. MARANGANTA,17/12/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/03/pu/004/004-1677391743.pdf,false
+JIGAWA,GWIWA,DARINA,UNG. GANJI CLINIC,17/12/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/03/pu/008/008-1677379364.pdf,false
+JIGAWA,GWIWA,DARINA,UNG/GANJI CIKIN GARI/ UNG/GANJI,17/12/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/03/pu/006/006-1677378024.pdf,false
+JIGAWA,GWIWA,DARINA,GASAKAE G/MAIUNGUWA/GASAKAE,17/12/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/03/pu/002/002-1677377760.pdf,false

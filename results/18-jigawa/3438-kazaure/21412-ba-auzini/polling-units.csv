@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,KAZAURE,,Sabaru Gabas/Bakin Masallacin Juma'a,17/17/01/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640046/result_109375_1677501307_thumb.jpg,true
-JIGAWA,KAZAURE,,LAMINGA/LAMINGA,17/17/01/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50402/result_109372_1677498103_thumb.jpg,true
-JIGAWA,KAZAURE,,GIZO PRI. SCH. / GIZO,17/17/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50398/result_109368_1677493499_thumb.jpg,true
-JIGAWA,KAZAURE,,KAFIN CHIROMA/KAFIN CHIROMA,17/17/01/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50400/result_109370_1677495743_thumb.jpg,true
-JIGAWA,KAZAURE,,BA'AUZINI PRI. SCH./BA'AUZUNI,17/17/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50395/result_109365_1677504966_thumb.jpg,true
-JIGAWA,KAZAURE,,GALLU TUDU/KORAMI,17/17/01/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50404/result_109374_1677499643_thumb.jpg,true
-JIGAWA,KAZAURE,,GALLU PRI. SCH/ GALLU,17/17/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50397/result_109367_1677491935_thumb.jpg,true
-JIGAWA,KAZAURE,,BADADO/BADADO,17/17/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50396/result_109366_1677494710_thumb.jpg,true
-JIGAWA,KAZAURE,,TODARYA PRI. SCH. / TODARYA,17/17/01/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50403/result_109373_1677498751_thumb.jpg,true
-JIGAWA,KAZAURE,,GOJE HABE/GOJE,17/17/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50399/result_109369_1677493241_thumb.jpg,true
-JIGAWA,KAZAURE,,KWANKWARAMI PRI. SCH  KWANKWARAMI,17/17/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50401/result_109371_1677496491_thumb.jpg,false
+JIGAWA,KAZAURE,BA'AUZINI,Sabaru Gabas/Bakin Masallacin Juma'a,17/17/01/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640046/result_109375_1677501307_thumb.jpg,true
+JIGAWA,KAZAURE,BA'AUZINI,LAMINGA/LAMINGA,17/17/01/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50402/result_109372_1677498103_thumb.jpg,true
+JIGAWA,KAZAURE,BA'AUZINI,GIZO PRI. SCH. / GIZO,17/17/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50398/result_109368_1677493499_thumb.jpg,true
+JIGAWA,KAZAURE,BA'AUZINI,KAFIN CHIROMA/KAFIN CHIROMA,17/17/01/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50400/result_109370_1677495743_thumb.jpg,true
+JIGAWA,KAZAURE,BA'AUZINI,BA'AUZINI PRI. SCH./BA'AUZUNI,17/17/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50395/result_109365_1677504966_thumb.jpg,true
+JIGAWA,KAZAURE,BA'AUZINI,GALLU TUDU/KORAMI,17/17/01/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50404/result_109374_1677499643_thumb.jpg,true
+JIGAWA,KAZAURE,BA'AUZINI,GALLU PRI. SCH/ GALLU,17/17/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50397/result_109367_1677491935_thumb.jpg,true
+JIGAWA,KAZAURE,BA'AUZINI,BADADO/BADADO,17/17/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50396/result_109366_1677494710_thumb.jpg,true
+JIGAWA,KAZAURE,BA'AUZINI,TODARYA PRI. SCH. / TODARYA,17/17/01/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50403/result_109373_1677498751_thumb.jpg,true
+JIGAWA,KAZAURE,BA'AUZINI,GOJE HABE/GOJE,17/17/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50399/result_109369_1677493241_thumb.jpg,true
+JIGAWA,KAZAURE,BA'AUZINI,KWANKWARAMI PRI. SCH  KWANKWARAMI,17/17/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50401/result_109371_1677496491_thumb.jpg,false

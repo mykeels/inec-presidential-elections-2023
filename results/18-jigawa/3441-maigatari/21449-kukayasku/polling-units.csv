@@ -1,20 +1,20 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,MAIGATARI,,BABBAR DANIYA PRI. SCH BABAR DANIYA,17/20/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3441/ward/21449/pu/50903/50903-1677784898.pdf,true
-JIGAWA,MAIGATARI,,KATIKA PRI. SCH. KATIKA II,17/20/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3441/ward/21449/pu/50901/50901-1677783361.pdf,true
-JIGAWA,MAIGATARI,,ALAGARNO PRI. SCH. ALAGARNO,17/20/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/016/016-1677409813.pdf,false
-JIGAWA,MAIGATARI,,TALLBARI PRI. SCH. TALLBARI,17/20/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/007/007-1677409133.pdf,false
-JIGAWA,MAIGATARI,,KATIKA PRI. SCH. KATIKA I,17/20/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/010/010-1677408847.pdf,false
-JIGAWA,MAIGATARI,,KANGARWA PRI. SCH. KANGARWA,17/20/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/012/012-1677407847.pdf,false
-JIGAWA,MAIGATARI,,GANGARA/GANGARA,17/20/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/003/003-1677406633.pdf,false
-JIGAWA,MAIGATARI,,DANKALGO PRI. SCH. DANKALGO,17/20/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/005/005-1677405019.pdf,false
-JIGAWA,MAIGATARI,,KUKAYASKU PRI. SCH. KUKA YASKU I,17/20/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/001/001-1677403781.pdf,false
-JIGAWA,MAIGATARI,,BAKAWA,17/20/06/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/019/019-1677402877.pdf,false
-JIGAWA,MAIGATARI,,DAN SAMBO PRI. SCH. DAN SAMBO,17/20/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/008/008-1677402379.pdf,false
-JIGAWA,MAIGATARI,,LALLASHI PRI. SCH. LALLASHI,17/20/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/004/004-1677402344.pdf,false
-JIGAWA,MAIGATARI,,MALAM ABA/MALAM ABA,17/20/06/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/018/018-1677401076.pdf,false
-JIGAWA,MAIGATARI,,GARIN KOSAU PRI. SCH. GARIN KOSAU,17/20/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/006/006-1677400952.pdf,false
-JIGAWA,MAIGATARI,,TARANA/TARANA,17/20/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/015/015-1677399074.pdf,false
-JIGAWA,MAIGATARI,,MAITUKUFA PRI. SCH. MAITUKUFA,17/20/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/014/014-1677398342.pdf,false
-JIGAWA,MAIGATARI,,KUKA YASKU PRI. SCH. KUKA YASKU II,17/20/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/002/002-1677398049.pdf,false
-JIGAWA,MAIGATARI,,KAYA JUMU PRI. SCH. KAYA JUMU,17/20/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/009/009-1677397178.pdf,false
-JIGAWA,MAIGATARI,,GARIN HARU/GARIN HARU,17/20/06/017,,false
+JIGAWA,MAIGATARI,KUKAYASKU,BABBAR DANIYA PRI. SCH BABAR DANIYA,17/20/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3441/ward/21449/pu/50903/50903-1677784898.pdf,true
+JIGAWA,MAIGATARI,KUKAYASKU,KATIKA PRI. SCH. KATIKA II,17/20/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3441/ward/21449/pu/50901/50901-1677783361.pdf,true
+JIGAWA,MAIGATARI,KUKAYASKU,ALAGARNO PRI. SCH. ALAGARNO,17/20/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/016/016-1677409813.pdf,false
+JIGAWA,MAIGATARI,KUKAYASKU,TALLBARI PRI. SCH. TALLBARI,17/20/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/007/007-1677409133.pdf,false
+JIGAWA,MAIGATARI,KUKAYASKU,KATIKA PRI. SCH. KATIKA I,17/20/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/010/010-1677408847.pdf,false
+JIGAWA,MAIGATARI,KUKAYASKU,KANGARWA PRI. SCH. KANGARWA,17/20/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/012/012-1677407847.pdf,false
+JIGAWA,MAIGATARI,KUKAYASKU,GANGARA/GANGARA,17/20/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/003/003-1677406633.pdf,false
+JIGAWA,MAIGATARI,KUKAYASKU,DANKALGO PRI. SCH. DANKALGO,17/20/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/005/005-1677405019.pdf,false
+JIGAWA,MAIGATARI,KUKAYASKU,KUKAYASKU PRI. SCH. KUKA YASKU I,17/20/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/001/001-1677403781.pdf,false
+JIGAWA,MAIGATARI,KUKAYASKU,BAKAWA,17/20/06/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/019/019-1677402877.pdf,false
+JIGAWA,MAIGATARI,KUKAYASKU,DAN SAMBO PRI. SCH. DAN SAMBO,17/20/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/008/008-1677402379.pdf,false
+JIGAWA,MAIGATARI,KUKAYASKU,LALLASHI PRI. SCH. LALLASHI,17/20/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/004/004-1677402344.pdf,false
+JIGAWA,MAIGATARI,KUKAYASKU,MALAM ABA/MALAM ABA,17/20/06/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/018/018-1677401076.pdf,false
+JIGAWA,MAIGATARI,KUKAYASKU,GARIN KOSAU PRI. SCH. GARIN KOSAU,17/20/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/006/006-1677400952.pdf,false
+JIGAWA,MAIGATARI,KUKAYASKU,TARANA/TARANA,17/20/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/015/015-1677399074.pdf,false
+JIGAWA,MAIGATARI,KUKAYASKU,MAITUKUFA PRI. SCH. MAITUKUFA,17/20/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/014/014-1677398342.pdf,false
+JIGAWA,MAIGATARI,KUKAYASKU,KUKA YASKU PRI. SCH. KUKA YASKU II,17/20/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/002/002-1677398049.pdf,false
+JIGAWA,MAIGATARI,KUKAYASKU,KAYA JUMU PRI. SCH. KAYA JUMU,17/20/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/009/009-1677397178.pdf,false
+JIGAWA,MAIGATARI,KUKAYASKU,GARIN HARU/GARIN HARU,17/20/06/017,,false

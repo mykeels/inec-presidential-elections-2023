@@ -1,11 +1,11 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,MAIGATARI,,KWANAR MADANA/KWANAR MADANA,17/20/07/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50821/result_109927_1677659547_thumb.jpg,false
-JIGAWA,MAIGATARI,,MADANA PRI. SCH. II MADANA,17/20/07/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640182/result_109933_1677659306_thumb.jpg,false
-JIGAWA,MAIGATARI,,TSIRYA PRI. SCH. TSIRYA,17/20/07/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50824/result_109930_1677659179_thumb.jpg,false
-JIGAWA,MAIGATARI,,KADAITA/KADAITA,17/20/07/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50826/result_109932_1677655336_thumb.jpg,false
-JIGAWA,MAIGATARI,,MALAM KWAYAM/MALAM KWAYAM,17/20/07/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50823/result_109929_1677630223_thumb.jpg,false
-JIGAWA,MAIGATARI,,MAIFARI/MAIFARI,17/20/07/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50822/result_109928_1677629291_thumb.jpg,false
-JIGAWA,MAIGATARI,,OPP. VILLAGE HEAD HOUSE (DAKIDO/DAKIDO) II,17/20/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/07/pu/010/010-1677418229.pdf,false
-JIGAWA,MAIGATARI,,GINDIN KURA/GINDIN KURA,17/20/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/07/pu/007/007-1677416456.pdf,false
-JIGAWA,MAIGATARI,,MADANA PRI. SCH.  MADANA,17/20/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/07/pu/001/001-1677411577.pdf,false
-JIGAWA,MAIGATARI,,DAKIDO/DAKIDO,17/20/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/07/pu/002/002-1677373053.pdf,false
+JIGAWA,MAIGATARI,MADANA,KWANAR MADANA/KWANAR MADANA,17/20/07/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50821/result_109927_1677659547_thumb.jpg,false
+JIGAWA,MAIGATARI,MADANA,MADANA PRI. SCH. II MADANA,17/20/07/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640182/result_109933_1677659306_thumb.jpg,false
+JIGAWA,MAIGATARI,MADANA,TSIRYA PRI. SCH. TSIRYA,17/20/07/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50824/result_109930_1677659179_thumb.jpg,false
+JIGAWA,MAIGATARI,MADANA,KADAITA/KADAITA,17/20/07/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50826/result_109932_1677655336_thumb.jpg,false
+JIGAWA,MAIGATARI,MADANA,MALAM KWAYAM/MALAM KWAYAM,17/20/07/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50823/result_109929_1677630223_thumb.jpg,false
+JIGAWA,MAIGATARI,MADANA,MAIFARI/MAIFARI,17/20/07/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50822/result_109928_1677629291_thumb.jpg,false
+JIGAWA,MAIGATARI,MADANA,OPP. VILLAGE HEAD HOUSE (DAKIDO/DAKIDO) II,17/20/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/07/pu/010/010-1677418229.pdf,false
+JIGAWA,MAIGATARI,MADANA,GINDIN KURA/GINDIN KURA,17/20/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/07/pu/007/007-1677416456.pdf,false
+JIGAWA,MAIGATARI,MADANA,MADANA PRI. SCH.  MADANA,17/20/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/07/pu/001/001-1677411577.pdf,false
+JIGAWA,MAIGATARI,MADANA,DAKIDO/DAKIDO,17/20/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/07/pu/002/002-1677373053.pdf,false

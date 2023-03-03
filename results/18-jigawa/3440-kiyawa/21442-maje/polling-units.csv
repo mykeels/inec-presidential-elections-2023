@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,KIYAWA,,ALA'AR KIMBA OPEN SPACE,17/19/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3440/ward/21442/pu/144972/144972-1677752163.pdf,false
-JIGAWA,KIYAWA,,TURHO GABAS PRI. SCH.,17/19/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3440/ward/21442/pu/50817/50817-1677752046.pdf,false
-JIGAWA,KIYAWA,,MIYAWA/DUMBAL,17/19/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3440/ward/21442/pu/50815/50815-1677751845.pdf,false
-JIGAWA,KIYAWA,,MAJE CIKIN GARI PRI. SCH.,17/19/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3440/ward/21442/pu/50814/50814-1677751667.pdf,false
-JIGAWA,KIYAWA,,TURHO  YAMMA CIKIN GARI,17/19/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3440/ward/21442/pu/50816/50816-1677751534.pdf,false
-JIGAWA,KIYAWA,,ALA'AR KIMBA,17/19/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3440/ward/21442/pu/50813/50813-1677751406.pdf,false
-JIGAWA,KIYAWA,,KAGARA PRI. SCH.,17/19/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3440/ward/21442/pu/50812/50812-1677751325.pdf,true
-JIGAWA,KIYAWA,,KACHALLARI/BAGEL,17/19/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3440/ward/21442/pu/50811/50811-1677751203.pdf,true
-JIGAWA,KIYAWA,,HADDORI CIKIN GARI PRI. SCH.,17/19/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3440/ward/21442/pu/50810/50810-1677751086.pdf,true
-JIGAWA,KIYAWA,,GIDAN KAYA,17/19/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3440/ward/21442/pu/50809/50809-1677751011.pdf,false
-JIGAWA,KIYAWA,,GALADIMAWA/KARABE,17/19/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3440/ward/21442/pu/50808/50808-1677750908.pdf,true
-JIGAWA,KIYAWA,,ABARAWA PRIMARY SCHOOL,17/19/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3440/ward/21442/pu/50807/50807-1677750768.pdf,false
+JIGAWA,KIYAWA,MAJE,ALA'AR KIMBA OPEN SPACE,17/19/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3440/ward/21442/pu/144972/144972-1677752163.pdf,false
+JIGAWA,KIYAWA,MAJE,TURHO GABAS PRI. SCH.,17/19/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3440/ward/21442/pu/50817/50817-1677752046.pdf,false
+JIGAWA,KIYAWA,MAJE,MIYAWA/DUMBAL,17/19/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3440/ward/21442/pu/50815/50815-1677751845.pdf,false
+JIGAWA,KIYAWA,MAJE,MAJE CIKIN GARI PRI. SCH.,17/19/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3440/ward/21442/pu/50814/50814-1677751667.pdf,false
+JIGAWA,KIYAWA,MAJE,TURHO  YAMMA CIKIN GARI,17/19/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3440/ward/21442/pu/50816/50816-1677751534.pdf,false
+JIGAWA,KIYAWA,MAJE,ALA'AR KIMBA,17/19/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3440/ward/21442/pu/50813/50813-1677751406.pdf,false
+JIGAWA,KIYAWA,MAJE,KAGARA PRI. SCH.,17/19/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3440/ward/21442/pu/50812/50812-1677751325.pdf,true
+JIGAWA,KIYAWA,MAJE,KACHALLARI/BAGEL,17/19/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3440/ward/21442/pu/50811/50811-1677751203.pdf,true
+JIGAWA,KIYAWA,MAJE,HADDORI CIKIN GARI PRI. SCH.,17/19/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3440/ward/21442/pu/50810/50810-1677751086.pdf,true
+JIGAWA,KIYAWA,MAJE,GIDAN KAYA,17/19/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3440/ward/21442/pu/50809/50809-1677751011.pdf,false
+JIGAWA,KIYAWA,MAJE,GALADIMAWA/KARABE,17/19/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3440/ward/21442/pu/50808/50808-1677750908.pdf,true
+JIGAWA,KIYAWA,MAJE,ABARAWA PRIMARY SCHOOL,17/19/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3440/ward/21442/pu/50807/50807-1677750768.pdf,false

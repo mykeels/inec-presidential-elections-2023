@@ -26,6 +26,7 @@
     "pu_code_string": "172101003",
     "state_name": "JIGAWA",
     "lga_name": "MALAM MADORI",
+    "ward_name": "ARKI",
     "document": {
       "external": true,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "172101001",
     "state_name": "JIGAWA",
     "lga_name": "MALAM MADORI",
+    "ward_name": "ARKI",
     "document": {
       "external": true,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "172101014",
     "state_name": "JIGAWA",
     "lga_name": "MALAM MADORI",
+    "ward_name": "ARKI",
     "document": {
       "external": true,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "172101009",
     "state_name": "JIGAWA",
     "lga_name": "MALAM MADORI",
+    "ward_name": "ARKI",
     "document": {
       "external": true,
       "status": 1,
@@ -178,6 +182,7 @@
     "pu_code_string": "172101006",
     "state_name": "JIGAWA",
     "lga_name": "MALAM MADORI",
+    "ward_name": "ARKI",
     "document": {
       "external": true,
       "status": 1,
@@ -216,6 +221,7 @@
     "pu_code_string": "172101010",
     "state_name": "JIGAWA",
     "lga_name": "MALAM MADORI",
+    "ward_name": "ARKI",
     "document": {
       "external": true,
       "status": 1,
@@ -254,6 +260,7 @@
     "pu_code_string": "172101005",
     "state_name": "JIGAWA",
     "lga_name": "MALAM MADORI",
+    "ward_name": "ARKI",
     "document": {
       "external": true,
       "status": 1,
@@ -292,6 +299,7 @@
     "pu_code_string": "172101007",
     "state_name": "JIGAWA",
     "lga_name": "MALAM MADORI",
+    "ward_name": "ARKI",
     "document": {
       "external": false,
       "status": 1,
@@ -330,6 +338,7 @@
     "pu_code_string": "172101008",
     "state_name": "JIGAWA",
     "lga_name": "MALAM MADORI",
+    "ward_name": "ARKI",
     "document": {
       "external": false,
       "status": 1,
@@ -368,6 +377,7 @@
     "pu_code_string": "172101011",
     "state_name": "JIGAWA",
     "lga_name": "MALAM MADORI",
+    "ward_name": "ARKI",
     "document": {
       "external": false,
       "status": 1,
@@ -406,6 +416,7 @@
     "pu_code_string": "172101002",
     "state_name": "JIGAWA",
     "lga_name": "MALAM MADORI",
+    "ward_name": "ARKI",
     "document": {
       "external": false,
       "status": 1,
@@ -444,6 +455,7 @@
     "pu_code_string": "172101012",
     "state_name": "JIGAWA",
     "lga_name": "MALAM MADORI",
+    "ward_name": "ARKI",
     "document": {
       "external": false,
       "status": 1,
@@ -482,6 +494,7 @@
     "pu_code_string": "172101004",
     "state_name": "JIGAWA",
     "lga_name": "MALAM MADORI",
+    "ward_name": "ARKI",
     "document": {
       "external": false,
       "status": 1,
@@ -520,6 +533,7 @@
     "pu_code_string": "172101013",
     "state_name": "JIGAWA",
     "lga_name": "MALAM MADORI",
+    "ward_name": "ARKI",
     "old_documents": [],
     "has_old_documents": false
   }

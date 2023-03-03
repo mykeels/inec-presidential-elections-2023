@@ -1,22 +1,22 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,RINGIM,,JSS CHAI-CHAI,17/23/01/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21476/pu/145058/145058-1677501935.pdf,false
-JIGAWA,RINGIM,,DIGAWAR HAUSAWA K/MAI UNGUWA,17/23/01/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21476/pu/51194/51194-1677501555.pdf,false
-JIGAWA,RINGIM,,DAURAWA PRI. SCH.  DAURAWA YAMMA,17/23/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21476/pu/51191/51191-1677499232.pdf,false
-JIGAWA,RINGIM,,DAURAWA PRI. SCH.  DAURAWA GABAS,17/23/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21476/pu/51190/51190-1677498825.pdf,false
-JIGAWA,RINGIM,,KOFAR MAI UNGUWA/AURAMON HAYI/GIDAN DINYA,17/23/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21476/pu/51189/51189-1677497661.pdf,false
-JIGAWA,RINGIM,,KOFAR MAI UNGUWA/GIDAN ARA/DAGAZAU,17/23/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21476/pu/51188/51188-1677497306.pdf,false
-JIGAWA,RINGIM,,KOFAR MAI UNGUWA/YANDUTSE KAWARI,17/23/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21476/pu/51187/51187-1677496908.pdf,false
-JIGAWA,RINGIM,,KWANDARAI PRI. SCH.  KWANDARAI,17/23/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21476/pu/51186/51186-1677495533.pdf,false
-JIGAWA,RINGIM,,JAUGA PRI. SCH.  JAUGA/GIJA,17/23/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21476/pu/51183/51183-1677493974.pdf,false
-JIGAWA,RINGIM,,GORA KOFAR KUDU/GORA KUDU/AREWA,17/23/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21476/pu/51182/51182-1677492942.pdf,false
-JIGAWA,RINGIM,,KUNA PRI. SCH. KUNA/DOSA,17/23/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21476/pu/51181/51181-1677492508.pdf,false
-JIGAWA,RINGIM,,CHAI-CHAI PRI. SCH.  CHAI-CHAI GABAS,17/23/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21476/pu/51179/51179-1677489385.pdf,false
-JIGAWA,RINGIM,,MALAMAWA PRI. SCH.  MALAMAWAR KALE,17/23/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21476/pu/51184/51184-1677487405.pdf,false
-JIGAWA,RINGIM,,GIDAN KUTUMBI/G/YAKO/G/DAMINA,17/23/01/015,,false
-JIGAWA,RINGIM,,OPEN SHED JAUGA,17/23/01/020,,false
-JIGAWA,RINGIM,,CHAI-CHAI SEN. SEC. SCH.,17/23/01/018,,false
-JIGAWA,RINGIM,,GIDAN SANI PRI. SCH.  GIDAN SANI II,17/23/01/021,,false
-JIGAWA,RINGIM,,GIDAN SANI PRI. SCH.  GIDAN SANI,17/23/01/014,,false
-JIGAWA,RINGIM,,CHAI-CHAI PRI. SCH.  CHAI-CHAI YAMMA,17/23/01/002,,false
-JIGAWA,RINGIM,,KOFAR MAI UNGUWA/GIDAN KUTUMBI/G/YAKO/G/DAMINA,17/23/01/007,,false
-JIGAWA,RINGIM,,CHAI-CHAI PRI. SCH.  CHAI-CHAI GABAS II,17/23/01/017,,false
+JIGAWA,RINGIM,CHAI-CHAI,JSS CHAI-CHAI,17/23/01/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21476/pu/145058/145058-1677501935.pdf,false
+JIGAWA,RINGIM,CHAI-CHAI,DIGAWAR HAUSAWA K/MAI UNGUWA,17/23/01/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21476/pu/51194/51194-1677501555.pdf,false
+JIGAWA,RINGIM,CHAI-CHAI,DAURAWA PRI. SCH.  DAURAWA YAMMA,17/23/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21476/pu/51191/51191-1677499232.pdf,false
+JIGAWA,RINGIM,CHAI-CHAI,DAURAWA PRI. SCH.  DAURAWA GABAS,17/23/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21476/pu/51190/51190-1677498825.pdf,false
+JIGAWA,RINGIM,CHAI-CHAI,KOFAR MAI UNGUWA/AURAMON HAYI/GIDAN DINYA,17/23/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21476/pu/51189/51189-1677497661.pdf,false
+JIGAWA,RINGIM,CHAI-CHAI,KOFAR MAI UNGUWA/GIDAN ARA/DAGAZAU,17/23/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21476/pu/51188/51188-1677497306.pdf,false
+JIGAWA,RINGIM,CHAI-CHAI,KOFAR MAI UNGUWA/YANDUTSE KAWARI,17/23/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21476/pu/51187/51187-1677496908.pdf,false
+JIGAWA,RINGIM,CHAI-CHAI,KWANDARAI PRI. SCH.  KWANDARAI,17/23/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21476/pu/51186/51186-1677495533.pdf,false
+JIGAWA,RINGIM,CHAI-CHAI,JAUGA PRI. SCH.  JAUGA/GIJA,17/23/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21476/pu/51183/51183-1677493974.pdf,false
+JIGAWA,RINGIM,CHAI-CHAI,GORA KOFAR KUDU/GORA KUDU/AREWA,17/23/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21476/pu/51182/51182-1677492942.pdf,false
+JIGAWA,RINGIM,CHAI-CHAI,KUNA PRI. SCH. KUNA/DOSA,17/23/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21476/pu/51181/51181-1677492508.pdf,false
+JIGAWA,RINGIM,CHAI-CHAI,CHAI-CHAI PRI. SCH.  CHAI-CHAI GABAS,17/23/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21476/pu/51179/51179-1677489385.pdf,false
+JIGAWA,RINGIM,CHAI-CHAI,MALAMAWA PRI. SCH.  MALAMAWAR KALE,17/23/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21476/pu/51184/51184-1677487405.pdf,false
+JIGAWA,RINGIM,CHAI-CHAI,GIDAN KUTUMBI/G/YAKO/G/DAMINA,17/23/01/015,,false
+JIGAWA,RINGIM,CHAI-CHAI,OPEN SHED JAUGA,17/23/01/020,,false
+JIGAWA,RINGIM,CHAI-CHAI,CHAI-CHAI SEN. SEC. SCH.,17/23/01/018,,false
+JIGAWA,RINGIM,CHAI-CHAI,GIDAN SANI PRI. SCH.  GIDAN SANI II,17/23/01/021,,false
+JIGAWA,RINGIM,CHAI-CHAI,GIDAN SANI PRI. SCH.  GIDAN SANI,17/23/01/014,,false
+JIGAWA,RINGIM,CHAI-CHAI,CHAI-CHAI PRI. SCH.  CHAI-CHAI YAMMA,17/23/01/002,,false
+JIGAWA,RINGIM,CHAI-CHAI,KOFAR MAI UNGUWA/GIDAN KUTUMBI/G/YAKO/G/DAMINA,17/23/01/007,,false
+JIGAWA,RINGIM,CHAI-CHAI,CHAI-CHAI PRI. SCH.  CHAI-CHAI GABAS II,17/23/01/017,,false

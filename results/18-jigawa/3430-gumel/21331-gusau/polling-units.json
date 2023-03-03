@@ -26,6 +26,7 @@
     "pu_code_string": "170907018",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "GUSAU",
     "document": {
       "external": false,
       "status": 1,
@@ -89,6 +90,7 @@
     "pu_code_string": "170907006",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "GUSAU",
     "document": null,
     "old_documents": [
       {
@@ -129,6 +131,7 @@
     "pu_code_string": "170907009",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "GUSAU",
     "document": {
       "external": true,
       "status": 1,
@@ -167,6 +170,7 @@
     "pu_code_string": "170907016",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "GUSAU",
     "document": {
       "external": false,
       "status": 1,
@@ -205,6 +209,7 @@
     "pu_code_string": "170907003",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "GUSAU",
     "document": {
       "external": false,
       "status": 1,
@@ -243,6 +248,7 @@
     "pu_code_string": "170907001",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "GUSAU",
     "document": {
       "external": false,
       "status": 1,
@@ -281,6 +287,7 @@
     "pu_code_string": "170907002",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "GUSAU",
     "document": {
       "external": false,
       "status": 1,
@@ -319,6 +326,7 @@
     "pu_code_string": "170907010",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "GUSAU",
     "document": {
       "external": false,
       "status": 1,
@@ -357,6 +365,7 @@
     "pu_code_string": "170907004",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "GUSAU",
     "document": {
       "external": false,
       "status": 1,
@@ -395,6 +404,7 @@
     "pu_code_string": "170907017",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "GUSAU",
     "document": {
       "external": false,
       "status": 1,
@@ -433,6 +443,7 @@
     "pu_code_string": "170907005",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "GUSAU",
     "document": {
       "external": false,
       "status": 1,
@@ -471,6 +482,7 @@
     "pu_code_string": "170907008",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "GUSAU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -501,6 +513,7 @@
     "pu_code_string": "170907013",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "GUSAU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -531,6 +544,7 @@
     "pu_code_string": "170907011",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "GUSAU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -561,6 +575,7 @@
     "pu_code_string": "170907014",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "GUSAU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -591,6 +606,7 @@
     "pu_code_string": "170907007",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "GUSAU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -621,6 +637,7 @@
     "pu_code_string": "170907012",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "GUSAU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -651,6 +668,7 @@
     "pu_code_string": "170907015",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "GUSAU",
     "old_documents": [],
     "has_old_documents": false
   }

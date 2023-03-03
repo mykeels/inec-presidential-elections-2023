@@ -1,30 +1,30 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,DUTSE,,KWAIMAWA CIKIN GARI,17/06/10/029,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/144494/144494-1677776772.pdf,false
-JIGAWA,DUTSE,,KWADIYA,17/06/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/49142/49142-1677776406.pdf,false
-JIGAWA,DUTSE,,MADOBI YAMMA SEC. SCHOOL,17/06/10/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/144492/144492-1677775214.pdf,false
-JIGAWA,DUTSE,,MADOBI GABAS OPEN SPACE,17/06/10/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/144491/144491-1677775144.pdf,false
-JIGAWA,DUTSE,,KUHO PRI. SCHOOL II,17/06/10/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/144487/144487-1677775074.pdf,false
-JIGAWA,DUTSE,,BARANDA YAMMA,17/06/10/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/49149/49149-1677774984.pdf,false
-JIGAWA,DUTSE,,SABON GARIN HARA,17/06/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/49146/49146-1677774922.pdf,true
-JIGAWA,DUTSE,,MADOBI GABAS PRI. SCH.,17/06/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/49144/49144-1677774849.pdf,true
-JIGAWA,DUTSE,,KWAIMAWA  PRI. SCH.,17/06/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/49143/49143-1677774782.pdf,false
-JIGAWA,DUTSE,,KATANGAR LAFIYA PRI. SCH,17/06/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/49140/49140-1677774703.pdf,false
-JIGAWA,DUTSE,,JIGAWAR DOLE,17/06/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/49137/49137-1677774639.pdf,false
-JIGAWA,DUTSE,,JANGARA,17/06/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/49136/49136-1677774569.pdf,false
-JIGAWA,DUTSE,,HAMMAYAYI  I,17/06/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/49134/49134-1677774488.pdf,false
-JIGAWA,DUTSE,,DUBENI,17/06/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/49133/49133-1677774431.pdf,true
-JIGAWA,DUTSE,,KAWAYE PRI SCH,17/06/10/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/144493/144493-1677685150.pdf,false
-JIGAWA,DUTSE,,DILAKE PRI SCHOOL,17/06/10/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/144485/144485-1677685002.pdf,false
-JIGAWA,DUTSE,,HAMMAYAYI  II,17/06/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/49135/49135-1677684449.pdf,false
-JIGAWA,DUTSE,,INUWA DUTSE PRI. SCHOOL,17/06/10/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/023/023-1677402591.pdf,false
-JIGAWA,DUTSE,,KUHO PRI. SCH,17/06/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/010/010-1677394644.pdf,false
-JIGAWA,DUTSE,,KWAIMAWA,17/06/10/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/019/019-1677371096.pdf,false
-JIGAWA,DUTSE,,KAFIN JIBA,17/06/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/008/008-1677366403.pdf,false
-JIGAWA,DUTSE,,BARANDA PRI. SCH.,17/06/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/001/001-1677360625.pdf,false
-JIGAWA,DUTSE,,MOBILE BASE PRI SCHOOL,17/06/10/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/024/024-1677359033.pdf,false
-JIGAWA,DUTSE,,SHARI FAI,17/06/10/016,,false
-JIGAWA,DUTSE,,KARGO PRI. SCHOOL,17/06/10/021,,false
-JIGAWA,DUTSE,,MADOBI YAMMA PRI. SCH.,17/06/10/014,,false
-JIGAWA,DUTSE,,KARGO,17/06/10/007,,false
-JIGAWA,DUTSE,,SUMORE PRI. SCH.,17/06/10/017,,false
-JIGAWA,DUTSE,,KWAIMAWA PRI. SCHOOL II,17/06/10/025,,false
+JIGAWA,DUTSE,MADOBI,KWAIMAWA CIKIN GARI,17/06/10/029,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/144494/144494-1677776772.pdf,false
+JIGAWA,DUTSE,MADOBI,KWADIYA,17/06/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/49142/49142-1677776406.pdf,false
+JIGAWA,DUTSE,MADOBI,MADOBI YAMMA SEC. SCHOOL,17/06/10/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/144492/144492-1677775214.pdf,false
+JIGAWA,DUTSE,MADOBI,MADOBI GABAS OPEN SPACE,17/06/10/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/144491/144491-1677775144.pdf,false
+JIGAWA,DUTSE,MADOBI,KUHO PRI. SCHOOL II,17/06/10/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/144487/144487-1677775074.pdf,false
+JIGAWA,DUTSE,MADOBI,BARANDA YAMMA,17/06/10/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/49149/49149-1677774984.pdf,false
+JIGAWA,DUTSE,MADOBI,SABON GARIN HARA,17/06/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/49146/49146-1677774922.pdf,true
+JIGAWA,DUTSE,MADOBI,MADOBI GABAS PRI. SCH.,17/06/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/49144/49144-1677774849.pdf,true
+JIGAWA,DUTSE,MADOBI,KWAIMAWA  PRI. SCH.,17/06/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/49143/49143-1677774782.pdf,false
+JIGAWA,DUTSE,MADOBI,KATANGAR LAFIYA PRI. SCH,17/06/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/49140/49140-1677774703.pdf,false
+JIGAWA,DUTSE,MADOBI,JIGAWAR DOLE,17/06/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/49137/49137-1677774639.pdf,false
+JIGAWA,DUTSE,MADOBI,JANGARA,17/06/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/49136/49136-1677774569.pdf,false
+JIGAWA,DUTSE,MADOBI,HAMMAYAYI  I,17/06/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/49134/49134-1677774488.pdf,false
+JIGAWA,DUTSE,MADOBI,DUBENI,17/06/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/49133/49133-1677774431.pdf,true
+JIGAWA,DUTSE,MADOBI,KAWAYE PRI SCH,17/06/10/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/144493/144493-1677685150.pdf,false
+JIGAWA,DUTSE,MADOBI,DILAKE PRI SCHOOL,17/06/10/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/144485/144485-1677685002.pdf,false
+JIGAWA,DUTSE,MADOBI,HAMMAYAYI  II,17/06/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21302/pu/49135/49135-1677684449.pdf,false
+JIGAWA,DUTSE,MADOBI,INUWA DUTSE PRI. SCHOOL,17/06/10/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/023/023-1677402591.pdf,false
+JIGAWA,DUTSE,MADOBI,KUHO PRI. SCH,17/06/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/010/010-1677394644.pdf,false
+JIGAWA,DUTSE,MADOBI,KWAIMAWA,17/06/10/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/019/019-1677371096.pdf,false
+JIGAWA,DUTSE,MADOBI,KAFIN JIBA,17/06/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/008/008-1677366403.pdf,false
+JIGAWA,DUTSE,MADOBI,BARANDA PRI. SCH.,17/06/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/001/001-1677360625.pdf,false
+JIGAWA,DUTSE,MADOBI,MOBILE BASE PRI SCHOOL,17/06/10/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/024/024-1677359033.pdf,false
+JIGAWA,DUTSE,MADOBI,SHARI FAI,17/06/10/016,,false
+JIGAWA,DUTSE,MADOBI,KARGO PRI. SCHOOL,17/06/10/021,,false
+JIGAWA,DUTSE,MADOBI,MADOBI YAMMA PRI. SCH.,17/06/10/014,,false
+JIGAWA,DUTSE,MADOBI,KARGO,17/06/10/007,,false
+JIGAWA,DUTSE,MADOBI,SUMORE PRI. SCH.,17/06/10/017,,false
+JIGAWA,DUTSE,MADOBI,KWAIMAWA PRI. SCHOOL II,17/06/10/025,,false

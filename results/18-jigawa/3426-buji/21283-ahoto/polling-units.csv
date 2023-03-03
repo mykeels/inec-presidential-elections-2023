@@ -1,10 +1,10 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,BUJI,,KOFAR FADA AHOTO YAMMA BUGAWA,17/05/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/002/002-1677386321.pdf,false
-JIGAWA,BUJI,,DISPENSARY TIJIYO GABAS YAMMA,17/05/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/005/005-1677385109.pdf,false
-JIGAWA,BUJI,,K/GIDAN MAIUNGUWA ABORE,17/05/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/007/007-1677383699.pdf,false
-JIGAWA,BUJI,,PRI. SCH. AHOTO AREWA,17/05/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/001/001-1677381688.pdf,false
-JIGAWA,BUJI,,AHOTO YAMMA,17/05/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/009/009-1677381014.pdf,false
-JIGAWA,BUJI,,K/GIDAN MAI-ANGUWA ALAGARNO,17/05/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/008/008-1677379840.pdf,false
-JIGAWA,BUJI,,KOFAR G/MAIUNGUWA SHUWARI,17/05/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/003/003-1677379244.pdf,false
-JIGAWA,BUJI,,K/GIDAN MAI-UNGUWA TIJIYO JUBARI/GOMARI,17/05/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/006/006-1677370872.pdf,false
-JIGAWA,BUJI,,KOFAR G/MAIUNGUWA DOGON MARKE C/MANDARI,17/05/01/004,,false
+JIGAWA,BUJI,AHOTO,KOFAR FADA AHOTO YAMMA BUGAWA,17/05/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/002/002-1677386321.pdf,false
+JIGAWA,BUJI,AHOTO,DISPENSARY TIJIYO GABAS YAMMA,17/05/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/005/005-1677385109.pdf,false
+JIGAWA,BUJI,AHOTO,K/GIDAN MAIUNGUWA ABORE,17/05/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/007/007-1677383699.pdf,false
+JIGAWA,BUJI,AHOTO,PRI. SCH. AHOTO AREWA,17/05/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/001/001-1677381688.pdf,false
+JIGAWA,BUJI,AHOTO,AHOTO YAMMA,17/05/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/009/009-1677381014.pdf,false
+JIGAWA,BUJI,AHOTO,K/GIDAN MAI-ANGUWA ALAGARNO,17/05/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/008/008-1677379840.pdf,false
+JIGAWA,BUJI,AHOTO,KOFAR G/MAIUNGUWA SHUWARI,17/05/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/003/003-1677379244.pdf,false
+JIGAWA,BUJI,AHOTO,K/GIDAN MAI-UNGUWA TIJIYO JUBARI/GOMARI,17/05/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/006/006-1677370872.pdf,false
+JIGAWA,BUJI,AHOTO,KOFAR G/MAIUNGUWA DOGON MARKE C/MANDARI,17/05/01/004,,false

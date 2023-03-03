@@ -26,6 +26,7 @@
     "pu_code_string": "171903014",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "FAKI",
     "document": {
       "external": true,
       "status": 1,
@@ -113,6 +114,7 @@
     "pu_code_string": "171903021",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "FAKI",
     "document": {
       "external": true,
       "status": 1,
@@ -160,6 +162,7 @@
     "pu_code_string": "171903013",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "FAKI",
     "document": {
       "external": true,
       "status": 1,
@@ -207,6 +210,7 @@
     "pu_code_string": "171903017",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "FAKI",
     "document": {
       "external": true,
       "status": 1,
@@ -262,6 +266,7 @@
     "pu_code_string": "171903018",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "FAKI",
     "document": {
       "external": true,
       "status": 1,
@@ -309,6 +314,7 @@
     "pu_code_string": "171903020",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "FAKI",
     "document": {
       "external": true,
       "status": 1,
@@ -356,6 +362,7 @@
     "pu_code_string": "171903010",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "FAKI",
     "document": {
       "external": true,
       "status": 1,
@@ -403,6 +410,7 @@
     "pu_code_string": "171903006",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "FAKI",
     "document": {
       "external": true,
       "status": 1,
@@ -450,6 +458,7 @@
     "pu_code_string": "171903019",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "FAKI",
     "document": {
       "external": true,
       "status": 1,
@@ -497,6 +506,7 @@
     "pu_code_string": "171903003",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "FAKI",
     "document": {
       "external": true,
       "status": 1,
@@ -552,6 +562,7 @@
     "pu_code_string": "171903005",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "FAKI",
     "document": {
       "external": true,
       "status": 1,
@@ -599,6 +610,7 @@
     "pu_code_string": "171903022",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "FAKI",
     "document": {
       "external": true,
       "status": 1,
@@ -646,6 +658,7 @@
     "pu_code_string": "171903002",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "FAKI",
     "document": {
       "external": true,
       "status": 1,
@@ -701,6 +714,7 @@
     "pu_code_string": "171903016",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "FAKI",
     "document": {
       "external": true,
       "status": 1,
@@ -756,6 +770,7 @@
     "pu_code_string": "171903007",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "FAKI",
     "document": {
       "external": true,
       "status": 1,
@@ -803,6 +818,7 @@
     "pu_code_string": "171903001",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "FAKI",
     "document": {
       "external": true,
       "status": 1,
@@ -850,6 +866,7 @@
     "pu_code_string": "171903009",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "FAKI",
     "document": {
       "external": true,
       "status": 1,
@@ -897,6 +914,7 @@
     "pu_code_string": "171903015",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "FAKI",
     "document": {
       "external": true,
       "status": 1,
@@ -984,6 +1002,7 @@
     "pu_code_string": "171903011",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "FAKI",
     "document": {
       "external": true,
       "status": 1,
@@ -1031,6 +1050,7 @@
     "pu_code_string": "171903004",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "FAKI",
     "document": {
       "external": true,
       "status": 1,
@@ -1078,6 +1098,7 @@
     "pu_code_string": "171903008",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "FAKI",
     "document": {
       "external": true,
       "status": 1,
@@ -1149,6 +1170,7 @@
     "pu_code_string": "171903012",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "FAKI",
     "old_documents": [],
     "has_old_documents": false
   }

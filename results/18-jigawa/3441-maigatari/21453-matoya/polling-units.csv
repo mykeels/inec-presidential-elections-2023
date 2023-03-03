@@ -1,21 +1,21 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,MAIGATARI,,MATOYA PRI. SCH. MATOYA,17/20/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50855/result_109976_1677614875_thumb.jpg,false
-JIGAWA,MAIGATARI,,KOGON GIWA PRI. SCH. KOGON GIWA,17/20/10/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50869/result_109990_1677614703_thumb.jpg,false
-JIGAWA,MAIGATARI,,TSANI PRI. SCH. TSANI TATTARI,17/20/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50860/result_109981_1677614424_thumb.jpg,false
-JIGAWA,MAIGATARI,,HARDO GAGA/HARDO GAGA,17/20/10/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-JIGAWA,MAIGATARI,,GARIN LADAN PRI. SCH. GARIN LADAN,17/20/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50858/result_109979_1677579287_thumb.jpg,false
-JIGAWA,MAIGATARI,,HARDO HARUNA/HARDO HARUNA,17/20/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/10/pu/009/009-1677412164.pdf,false
-JIGAWA,MAIGATARI,,KANDAWAN BURA,17/20/10/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/10/pu/019/019-1677411208.pdf,false
-JIGAWA,MAIGATARI,,GARIN DAUDA/GARIN DAUDA,17/20/10/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/10/pu/017/017-1677410647.pdf,false
-JIGAWA,MAIGATARI,,DAGUMA PRI. SCH.  DAGUMA,17/20/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/10/pu/005/005-1677410138.pdf,false
-JIGAWA,MAIGATARI,,KANKARAN SHATIMA PRI. SCH. KANKARAN  II,17/20/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/10/pu/008/008-1677407782.pdf,false
-JIGAWA,MAIGATARI,,KANKARAN SHATIMA PRI. SCH. KANKARAN  I,17/20/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/10/pu/007/007-1677407083.pdf,false
-JIGAWA,MAIGATARI,,GARMAKA PRI. SCH GARMAKA,17/20/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/10/pu/013/013-1677406184.pdf,false
-JIGAWA,MAIGATARI,,MATOYA PRI. SCH. II,17/20/10/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/10/pu/020/020-1677405141.pdf,false
-JIGAWA,MAIGATARI,,TATTARI,17/20/10/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/10/pu/018/018-1677404194.pdf,false
-JIGAWA,MAIGATARI,,MATSATSAGI PRI. SCH.  MATSATSAGI,17/20/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/10/pu/002/002-1677401069.pdf,false
-JIGAWA,MAIGATARI,,RAGO PRI. SCH. RAGO,17/20/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/10/pu/010/010-1677400952.pdf,false
-JIGAWA,MAIGATARI,,HARDO MILIYAN/HARDO MILIYAN,17/20/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/10/pu/003/003-1677399825.pdf,false
-JIGAWA,MAIGATARI,,GAREWA/GAREWA,17/20/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/10/pu/014/014-1677399170.pdf,false
-JIGAWA,MAIGATARI,,HARDO BALE PRI. SCH.  HARDO BALE,17/20/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/10/pu/012/012-1677373206.pdf,false
-JIGAWA,MAIGATARI,,ALHAIZAI/ALHAIZAI,17/20/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/10/pu/011/011-1677369452.pdf,false
+JIGAWA,MAIGATARI,MATOYA,MATOYA PRI. SCH. MATOYA,17/20/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50855/result_109976_1677614875_thumb.jpg,false
+JIGAWA,MAIGATARI,MATOYA,KOGON GIWA PRI. SCH. KOGON GIWA,17/20/10/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50869/result_109990_1677614703_thumb.jpg,false
+JIGAWA,MAIGATARI,MATOYA,TSANI PRI. SCH. TSANI TATTARI,17/20/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50860/result_109981_1677614424_thumb.jpg,false
+JIGAWA,MAIGATARI,MATOYA,HARDO GAGA/HARDO GAGA,17/20/10/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+JIGAWA,MAIGATARI,MATOYA,GARIN LADAN PRI. SCH. GARIN LADAN,17/20/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50858/result_109979_1677579287_thumb.jpg,false
+JIGAWA,MAIGATARI,MATOYA,HARDO HARUNA/HARDO HARUNA,17/20/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/10/pu/009/009-1677412164.pdf,false
+JIGAWA,MAIGATARI,MATOYA,KANDAWAN BURA,17/20/10/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/10/pu/019/019-1677411208.pdf,false
+JIGAWA,MAIGATARI,MATOYA,GARIN DAUDA/GARIN DAUDA,17/20/10/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/10/pu/017/017-1677410647.pdf,false
+JIGAWA,MAIGATARI,MATOYA,DAGUMA PRI. SCH.  DAGUMA,17/20/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/10/pu/005/005-1677410138.pdf,false
+JIGAWA,MAIGATARI,MATOYA,KANKARAN SHATIMA PRI. SCH. KANKARAN  II,17/20/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/10/pu/008/008-1677407782.pdf,false
+JIGAWA,MAIGATARI,MATOYA,KANKARAN SHATIMA PRI. SCH. KANKARAN  I,17/20/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/10/pu/007/007-1677407083.pdf,false
+JIGAWA,MAIGATARI,MATOYA,GARMAKA PRI. SCH GARMAKA,17/20/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/10/pu/013/013-1677406184.pdf,false
+JIGAWA,MAIGATARI,MATOYA,MATOYA PRI. SCH. II,17/20/10/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/10/pu/020/020-1677405141.pdf,false
+JIGAWA,MAIGATARI,MATOYA,TATTARI,17/20/10/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/10/pu/018/018-1677404194.pdf,false
+JIGAWA,MAIGATARI,MATOYA,MATSATSAGI PRI. SCH.  MATSATSAGI,17/20/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/10/pu/002/002-1677401069.pdf,false
+JIGAWA,MAIGATARI,MATOYA,RAGO PRI. SCH. RAGO,17/20/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/10/pu/010/010-1677400952.pdf,false
+JIGAWA,MAIGATARI,MATOYA,HARDO MILIYAN/HARDO MILIYAN,17/20/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/10/pu/003/003-1677399825.pdf,false
+JIGAWA,MAIGATARI,MATOYA,GAREWA/GAREWA,17/20/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/10/pu/014/014-1677399170.pdf,false
+JIGAWA,MAIGATARI,MATOYA,HARDO BALE PRI. SCH.  HARDO BALE,17/20/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/10/pu/012/012-1677373206.pdf,false
+JIGAWA,MAIGATARI,MATOYA,ALHAIZAI/ALHAIZAI,17/20/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/10/pu/011/011-1677369452.pdf,false

@@ -1,20 +1,20 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,KAFIN HAUSA,,DANDALIN BARNAWA,17/15/03/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21392/pu/144753/144753-1677746488.pdf,true
-JIGAWA,KAFIN HAUSA,,PRIMARY SCHOOL / CHIYAYI,17/15/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21392/pu/50220/50220-1677738595.pdf,false
-JIGAWA,KAFIN HAUSA,,PRIMARY SCHOOL KWARMAJAWA,17/15/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21392/pu/50225/50225-1677736578.pdf,true
-JIGAWA,KAFIN HAUSA,,PRIMARY SCHOOL SABARA,17/15/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21392/pu/50227/50227-1677689355.pdf,false
-JIGAWA,KAFIN HAUSA,,PRIMARY SCHOOL / ADIN,17/15/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50124/result_109006_1677595991_thumb.jpg,false
-JIGAWA,KAFIN HAUSA,,VILLAGE CENTRE / AZAUNA,17/15/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21392/pu/50218/50218-1677566413.pdf,true
-JIGAWA,KAFIN HAUSA,,PRIMARY SCHOOL / BAUSHE,17/15/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21392/pu/50219/50219-1677561867.pdf,true
-JIGAWA,KAFIN HAUSA,,PRIMARY SCHOOL / GAFAYA,17/15/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/03/pu/007/007-1677396486.pdf,false
-JIGAWA,KAFIN HAUSA,,VILLAGE CENTRE / AMADA,17/15/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/03/pu/003/003-1677404762.pdf,false
-JIGAWA,KAFIN HAUSA,,VILLAGE CENTRE / WUI - WUI,17/15/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/03/pu/014/014-1677404539.pdf,false
-JIGAWA,KAFIN HAUSA,,PRIMARY SCHOOL / ALAGARNO,17/15/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/03/pu/002/002-1677402816.pdf,false
-JIGAWA,KAFIN HAUSA,,VILLAGE CENTRE / KATIRJE,17/15/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/03/pu/009/009-1677400767.pdf,false
-JIGAWA,KAFIN HAUSA,,PRIMARY SCHOOL / Z / KAFI,17/15/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/03/pu/015/015-1677400679.pdf,false
-JIGAWA,KAFIN HAUSA,,RAMFA PRIMARY SCHOOL II,17/15/03/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/03/pu/019/019-1677394467.pdf,false
-JIGAWA,KAFIN HAUSA,,PRIMARY SCHOOL RAMFA,17/15/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/03/pu/012/012-1677394191.pdf,false
-JIGAWA,KAFIN HAUSA,,VILLAGE CENTRE / KURUBO,17/15/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/03/pu/010/010-1677384210.pdf,false
-JIGAWA,KAFIN HAUSA,,VILLAGE CENTRE/MADAWA,17/15/03/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/03/pu/016/016-1677381575.pdf,false
-JIGAWA,KAFIN HAUSA,,GAFAYA PS II,17/15/03/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/03/pu/017/017-1677371441.pdf,false
-JIGAWA,KAFIN HAUSA,,VILLAGE CENTRE / KALETA,17/15/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/03/pu/008/008-1677363446.pdf,false
+JIGAWA,KAFIN HAUSA,GAFAYA,DANDALIN BARNAWA,17/15/03/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21392/pu/144753/144753-1677746488.pdf,true
+JIGAWA,KAFIN HAUSA,GAFAYA,PRIMARY SCHOOL / CHIYAYI,17/15/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21392/pu/50220/50220-1677738595.pdf,false
+JIGAWA,KAFIN HAUSA,GAFAYA,PRIMARY SCHOOL KWARMAJAWA,17/15/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21392/pu/50225/50225-1677736578.pdf,true
+JIGAWA,KAFIN HAUSA,GAFAYA,PRIMARY SCHOOL SABARA,17/15/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21392/pu/50227/50227-1677689355.pdf,false
+JIGAWA,KAFIN HAUSA,GAFAYA,PRIMARY SCHOOL / ADIN,17/15/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50124/result_109006_1677595991_thumb.jpg,false
+JIGAWA,KAFIN HAUSA,GAFAYA,VILLAGE CENTRE / AZAUNA,17/15/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21392/pu/50218/50218-1677566413.pdf,true
+JIGAWA,KAFIN HAUSA,GAFAYA,PRIMARY SCHOOL / BAUSHE,17/15/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21392/pu/50219/50219-1677561867.pdf,true
+JIGAWA,KAFIN HAUSA,GAFAYA,PRIMARY SCHOOL / GAFAYA,17/15/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/03/pu/007/007-1677396486.pdf,false
+JIGAWA,KAFIN HAUSA,GAFAYA,VILLAGE CENTRE / AMADA,17/15/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/03/pu/003/003-1677404762.pdf,false
+JIGAWA,KAFIN HAUSA,GAFAYA,VILLAGE CENTRE / WUI - WUI,17/15/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/03/pu/014/014-1677404539.pdf,false
+JIGAWA,KAFIN HAUSA,GAFAYA,PRIMARY SCHOOL / ALAGARNO,17/15/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/03/pu/002/002-1677402816.pdf,false
+JIGAWA,KAFIN HAUSA,GAFAYA,VILLAGE CENTRE / KATIRJE,17/15/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/03/pu/009/009-1677400767.pdf,false
+JIGAWA,KAFIN HAUSA,GAFAYA,PRIMARY SCHOOL / Z / KAFI,17/15/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/03/pu/015/015-1677400679.pdf,false
+JIGAWA,KAFIN HAUSA,GAFAYA,RAMFA PRIMARY SCHOOL II,17/15/03/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/03/pu/019/019-1677394467.pdf,false
+JIGAWA,KAFIN HAUSA,GAFAYA,PRIMARY SCHOOL RAMFA,17/15/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/03/pu/012/012-1677394191.pdf,false
+JIGAWA,KAFIN HAUSA,GAFAYA,VILLAGE CENTRE / KURUBO,17/15/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/03/pu/010/010-1677384210.pdf,false
+JIGAWA,KAFIN HAUSA,GAFAYA,VILLAGE CENTRE/MADAWA,17/15/03/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/03/pu/016/016-1677381575.pdf,false
+JIGAWA,KAFIN HAUSA,GAFAYA,GAFAYA PS II,17/15/03/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/03/pu/017/017-1677371441.pdf,false
+JIGAWA,KAFIN HAUSA,GAFAYA,VILLAGE CENTRE / KALETA,17/15/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/03/pu/008/008-1677363446.pdf,false

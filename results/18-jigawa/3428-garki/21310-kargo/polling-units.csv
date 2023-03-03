@@ -1,20 +1,20 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,GARKI,,NASAKAR PS,17/07/07/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639794/result_107815_1677770964_thumb.jpg,false
-JIGAWA,GARKI,,GALADIMAWA PRI.SCH/GALADIMAWA,17/07/07/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49159/result_107807_1677770841_thumb.jpg,false
-JIGAWA,GARKI,,KOGURAN PRI. SCH./KOGURAN,17/07/07/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49163/result_107811_1677770621_thumb.jpg,false
-JIGAWA,GARKI,,GIDAN DOGO PRI. SCH./GIDAN DOGO,17/07/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/006/006-1677409675.pdf,false
-JIGAWA,GARKI,,KARGO PRI. SCH. /KARGO  I,17/07/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/001/001-1677409205.pdf,false
-JIGAWA,GARKI,,DUNKUMI PRI. SCH/DUNKAUMI,17/07/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/005/005-1677408846.pdf,false
-JIGAWA,GARKI,,PHC KARGO,17/07/07/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/018/018-1677408607.pdf,false
-JIGAWA,GARKI,,MASHEME PRI. SCH/MASHEME,17/07/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/012/012-1677408339.pdf,false
-JIGAWA,GARKI,,UNG BAKO PS PHC  UNG BAKO,17/07/07/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/019/019-1677406010.pdf,false
-JIGAWA,GARKI,,GIYAYYA NOMADIC PS,17/07/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/014/014-1677405199.pdf,false
-JIGAWA,GARKI,,UNG. BAKO PRI. SCH./ UNGUWAR BAKO,17/07/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/003/003-1677404386.pdf,false
-JIGAWA,GARKI,,SSS KARGO,17/07/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/017/017-1677402250.pdf,false
-JIGAWA,GARKI,,KARGO JSS,17/07/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/016/016-1677400162.pdf,false
-JIGAWA,GARKI,,KARGO PRI. SCH. /KARGO  II,17/07/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/002/002-1677399900.pdf,false
-JIGAWA,GARKI,,KAYA PRI. SCH/KAYA  I,17/07/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/009/009-1677399215.pdf,false
-JIGAWA,GARKI,,TANKARI PRI. SCH/TANKARI,17/07/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/008/008-1677398460.pdf,false
-JIGAWA,GARKI,,POLLING SHADE - DUHUWAR DINYA,17/07/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/013/013-1677397720.pdf,false
-JIGAWA,GARKI,,NASAKAR PRI. SCH./NASAKAR,17/07/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/004/004-1677397269.pdf,false
-JIGAWA,GARKI,,KAYA PRI. SCH/KAYA  II,17/07/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/010/010-1677396388.pdf,false
+JIGAWA,GARKI,KARGO,NASAKAR PS,17/07/07/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639794/result_107815_1677770964_thumb.jpg,false
+JIGAWA,GARKI,KARGO,GALADIMAWA PRI.SCH/GALADIMAWA,17/07/07/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49159/result_107807_1677770841_thumb.jpg,false
+JIGAWA,GARKI,KARGO,KOGURAN PRI. SCH./KOGURAN,17/07/07/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49163/result_107811_1677770621_thumb.jpg,false
+JIGAWA,GARKI,KARGO,GIDAN DOGO PRI. SCH./GIDAN DOGO,17/07/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/006/006-1677409675.pdf,false
+JIGAWA,GARKI,KARGO,KARGO PRI. SCH. /KARGO  I,17/07/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/001/001-1677409205.pdf,false
+JIGAWA,GARKI,KARGO,DUNKUMI PRI. SCH/DUNKAUMI,17/07/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/005/005-1677408846.pdf,false
+JIGAWA,GARKI,KARGO,PHC KARGO,17/07/07/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/018/018-1677408607.pdf,false
+JIGAWA,GARKI,KARGO,MASHEME PRI. SCH/MASHEME,17/07/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/012/012-1677408339.pdf,false
+JIGAWA,GARKI,KARGO,UNG BAKO PS PHC  UNG BAKO,17/07/07/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/019/019-1677406010.pdf,false
+JIGAWA,GARKI,KARGO,GIYAYYA NOMADIC PS,17/07/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/014/014-1677405199.pdf,false
+JIGAWA,GARKI,KARGO,UNG. BAKO PRI. SCH./ UNGUWAR BAKO,17/07/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/003/003-1677404386.pdf,false
+JIGAWA,GARKI,KARGO,SSS KARGO,17/07/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/017/017-1677402250.pdf,false
+JIGAWA,GARKI,KARGO,KARGO JSS,17/07/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/016/016-1677400162.pdf,false
+JIGAWA,GARKI,KARGO,KARGO PRI. SCH. /KARGO  II,17/07/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/002/002-1677399900.pdf,false
+JIGAWA,GARKI,KARGO,KAYA PRI. SCH/KAYA  I,17/07/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/009/009-1677399215.pdf,false
+JIGAWA,GARKI,KARGO,TANKARI PRI. SCH/TANKARI,17/07/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/008/008-1677398460.pdf,false
+JIGAWA,GARKI,KARGO,POLLING SHADE - DUHUWAR DINYA,17/07/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/013/013-1677397720.pdf,false
+JIGAWA,GARKI,KARGO,NASAKAR PRI. SCH./NASAKAR,17/07/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/004/004-1677397269.pdf,false
+JIGAWA,GARKI,KARGO,KAYA PRI. SCH/KAYA  II,17/07/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/010/010-1677396388.pdf,false

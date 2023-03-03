@@ -1,10 +1,10 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,YANKWASHI,,GWARTA ISLAMIYA,17/27/04/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640409/result_110978_1677672799_thumb.jpg,false
-JIGAWA,YANKWASHI,,OPEN SPACE/WAILAWO,17/27/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51637/result_110977_1677672696_thumb.jpg,false
-JIGAWA,YANKWASHI,,OPEN SPACE/UNGUWAR ARAB,17/27/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51636/result_110976_1677672603_thumb.jpg,false
-JIGAWA,YANKWASHI,,SHADAMAI / PRI. SCH.,17/27/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51635/result_110975_1677672470_thumb.jpg,false
-JIGAWA,YANKWASHI,,OPEN SPACE/RAUDA LOKON DUTSE,17/27/04/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51634/result_110974_1677672071_thumb.jpg,false
-JIGAWA,YANKWASHI,,OPEN SPACE/RAUDA YAN GANDU,17/27/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51633/result_110973_1677671944_thumb.jpg,false
-JIGAWA,YANKWASHI,,RAUDA GABAS/ PRI. SCH.,17/27/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51632/result_110972_1677671821_thumb.jpg,false
-JIGAWA,YANKWASHI,,OPEN SPACE/GWARTA KARAMA,17/27/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51631/result_110971_1677671668_thumb.jpg,false
-JIGAWA,YANKWASHI,,GWARTA BABBA PRI. SCH./GWARTA BABBA,17/27/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51630/result_110970_1677671567_thumb.jpg,false
+JIGAWA,YANKWASHI,GWARTA,GWARTA ISLAMIYA,17/27/04/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640409/result_110978_1677672799_thumb.jpg,false
+JIGAWA,YANKWASHI,GWARTA,OPEN SPACE/WAILAWO,17/27/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51637/result_110977_1677672696_thumb.jpg,false
+JIGAWA,YANKWASHI,GWARTA,OPEN SPACE/UNGUWAR ARAB,17/27/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51636/result_110976_1677672603_thumb.jpg,false
+JIGAWA,YANKWASHI,GWARTA,SHADAMAI / PRI. SCH.,17/27/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51635/result_110975_1677672470_thumb.jpg,false
+JIGAWA,YANKWASHI,GWARTA,OPEN SPACE/RAUDA LOKON DUTSE,17/27/04/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51634/result_110974_1677672071_thumb.jpg,false
+JIGAWA,YANKWASHI,GWARTA,OPEN SPACE/RAUDA YAN GANDU,17/27/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51633/result_110973_1677671944_thumb.jpg,false
+JIGAWA,YANKWASHI,GWARTA,RAUDA GABAS/ PRI. SCH.,17/27/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51632/result_110972_1677671821_thumb.jpg,false
+JIGAWA,YANKWASHI,GWARTA,OPEN SPACE/GWARTA KARAMA,17/27/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51631/result_110971_1677671668_thumb.jpg,false
+JIGAWA,YANKWASHI,GWARTA,GWARTA BABBA PRI. SCH./GWARTA BABBA,17/27/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51630/result_110970_1677671567_thumb.jpg,false

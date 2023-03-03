@@ -26,6 +26,7 @@
     "pu_code_string": "172006013",
     "state_name": "JIGAWA",
     "lga_name": "MAIGATARI",
+    "ward_name": "KUKAYASKU",
     "document": {
       "external": false,
       "status": 1,
@@ -73,6 +74,7 @@
     "pu_code_string": "172006011",
     "state_name": "JIGAWA",
     "lga_name": "MAIGATARI",
+    "ward_name": "KUKAYASKU",
     "document": {
       "external": false,
       "status": 1,
@@ -136,6 +138,7 @@
     "pu_code_string": "172006016",
     "state_name": "JIGAWA",
     "lga_name": "MAIGATARI",
+    "ward_name": "KUKAYASKU",
     "document": {
       "external": false,
       "status": 1,
@@ -174,6 +177,7 @@
     "pu_code_string": "172006007",
     "state_name": "JIGAWA",
     "lga_name": "MAIGATARI",
+    "ward_name": "KUKAYASKU",
     "document": {
       "external": false,
       "status": 1,
@@ -212,6 +216,7 @@
     "pu_code_string": "172006010",
     "state_name": "JIGAWA",
     "lga_name": "MAIGATARI",
+    "ward_name": "KUKAYASKU",
     "document": {
       "external": false,
       "status": 1,
@@ -250,6 +255,7 @@
     "pu_code_string": "172006012",
     "state_name": "JIGAWA",
     "lga_name": "MAIGATARI",
+    "ward_name": "KUKAYASKU",
     "document": {
       "external": false,
       "status": 1,
@@ -288,6 +294,7 @@
     "pu_code_string": "172006003",
     "state_name": "JIGAWA",
     "lga_name": "MAIGATARI",
+    "ward_name": "KUKAYASKU",
     "document": {
       "external": false,
       "status": 1,
@@ -326,6 +333,7 @@
     "pu_code_string": "172006005",
     "state_name": "JIGAWA",
     "lga_name": "MAIGATARI",
+    "ward_name": "KUKAYASKU",
     "document": {
       "external": false,
       "status": 1,
@@ -364,6 +372,7 @@
     "pu_code_string": "172006001",
     "state_name": "JIGAWA",
     "lga_name": "MAIGATARI",
+    "ward_name": "KUKAYASKU",
     "document": {
       "external": false,
       "status": 1,
@@ -402,6 +411,7 @@
     "pu_code_string": "172006019",
     "state_name": "JIGAWA",
     "lga_name": "MAIGATARI",
+    "ward_name": "KUKAYASKU",
     "document": {
       "external": false,
       "status": 1,
@@ -440,6 +450,7 @@
     "pu_code_string": "172006008",
     "state_name": "JIGAWA",
     "lga_name": "MAIGATARI",
+    "ward_name": "KUKAYASKU",
     "document": {
       "external": false,
       "status": 1,
@@ -478,6 +489,7 @@
     "pu_code_string": "172006004",
     "state_name": "JIGAWA",
     "lga_name": "MAIGATARI",
+    "ward_name": "KUKAYASKU",
     "document": {
       "external": false,
       "status": 1,
@@ -516,6 +528,7 @@
     "pu_code_string": "172006018",
     "state_name": "JIGAWA",
     "lga_name": "MAIGATARI",
+    "ward_name": "KUKAYASKU",
     "document": {
       "external": false,
       "status": 1,
@@ -554,6 +567,7 @@
     "pu_code_string": "172006006",
     "state_name": "JIGAWA",
     "lga_name": "MAIGATARI",
+    "ward_name": "KUKAYASKU",
     "document": {
       "external": false,
       "status": 1,
@@ -592,6 +606,7 @@
     "pu_code_string": "172006015",
     "state_name": "JIGAWA",
     "lga_name": "MAIGATARI",
+    "ward_name": "KUKAYASKU",
     "document": {
       "external": false,
       "status": 1,
@@ -630,6 +645,7 @@
     "pu_code_string": "172006014",
     "state_name": "JIGAWA",
     "lga_name": "MAIGATARI",
+    "ward_name": "KUKAYASKU",
     "document": {
       "external": false,
       "status": 1,
@@ -668,6 +684,7 @@
     "pu_code_string": "172006002",
     "state_name": "JIGAWA",
     "lga_name": "MAIGATARI",
+    "ward_name": "KUKAYASKU",
     "document": {
       "external": false,
       "status": 1,
@@ -706,6 +723,7 @@
     "pu_code_string": "172006009",
     "state_name": "JIGAWA",
     "lga_name": "MAIGATARI",
+    "ward_name": "KUKAYASKU",
     "document": {
       "external": false,
       "status": 1,
@@ -744,6 +762,7 @@
     "pu_code_string": "172006017",
     "state_name": "JIGAWA",
     "lga_name": "MAIGATARI",
+    "ward_name": "KUKAYASKU",
     "old_documents": [],
     "has_old_documents": false
   }

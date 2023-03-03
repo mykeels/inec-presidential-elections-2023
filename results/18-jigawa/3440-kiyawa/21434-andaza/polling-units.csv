@@ -1,17 +1,17 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,KIYAWA,,ANDAZA DISPENSARY,17/19/02/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640132/result_109687_1677510052_thumb.jpg,true
-JIGAWA,KIYAWA,,MABARA GABAS PRI. SCH.,17/19/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50627/result_109678_1677511576_thumb.jpg,true
-JIGAWA,KIYAWA,,LANCHERI/TSOTSAWA/YELDEWA,17/19/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50626/result_109677_1677511808_thumb.jpg,false
-JIGAWA,KIYAWA,,GIDAN TAURA/BARKA,17/19/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50624/result_109675_1677511966_thumb.jpg,true
-JIGAWA,KIYAWA,,ANDAZA CIKIN GARI PRI. SCH. I,17/19/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50621/result_109672_1677512321_thumb.jpg,true
-JIGAWA,KIYAWA,,ANDAZA NEW PRI. SCHOOL,17/19/02/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640127/result_109682_1677510976_thumb.jpg,true
-JIGAWA,KIYAWA,,GIDAN TAURA OPEN SPACE,17/19/02/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640130/result_109685_1677510528_thumb.jpg,true
-JIGAWA,KIYAWA,,YOLAL PRI. SCH.,17/19/02/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50628/result_109679_1677511448_thumb.jpg,true
-JIGAWA,KIYAWA,,GDSS ANDAZA,17/19/02/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640128/result_109683_1677510849_thumb.jpg,true
-JIGAWA,KIYAWA,,DUHUWA DISPENSARY,17/19/02/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640129/result_109684_1677510646_thumb.jpg,true
-JIGAWA,KIYAWA,,ANDAZA CIKIN GARI YAMMA,17/19/02/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50630/result_109681_1677511045_thumb.jpg,true
-JIGAWA,KIYAWA,,ZURARA/RABA,17/19/02/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50629/result_109680_1677511251_thumb.jpg,true
-JIGAWA,KIYAWA,,ANDAZA CIKIN GARI PRI. SCH. II,17/19/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50622/result_109673_1677512212_thumb.jpg,true
-JIGAWA,KIYAWA,,ANDAZA ISLAMIYYA YAMMA,17/19/02/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640131/result_109686_1677510426_thumb.jpg,true
-JIGAWA,KIYAWA,,DUHUWA WAJE/GANDUJE PRI. SCH.,17/19/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50623/result_109674_1677512116_thumb.jpg,true
-JIGAWA,KIYAWA,,KABOBI/BOKO,17/19/02/005,,false
+JIGAWA,KIYAWA,ANDAZA,ANDAZA DISPENSARY,17/19/02/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640132/result_109687_1677510052_thumb.jpg,true
+JIGAWA,KIYAWA,ANDAZA,MABARA GABAS PRI. SCH.,17/19/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50627/result_109678_1677511576_thumb.jpg,true
+JIGAWA,KIYAWA,ANDAZA,LANCHERI/TSOTSAWA/YELDEWA,17/19/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50626/result_109677_1677511808_thumb.jpg,false
+JIGAWA,KIYAWA,ANDAZA,GIDAN TAURA/BARKA,17/19/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50624/result_109675_1677511966_thumb.jpg,true
+JIGAWA,KIYAWA,ANDAZA,ANDAZA CIKIN GARI PRI. SCH. I,17/19/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50621/result_109672_1677512321_thumb.jpg,true
+JIGAWA,KIYAWA,ANDAZA,ANDAZA NEW PRI. SCHOOL,17/19/02/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640127/result_109682_1677510976_thumb.jpg,true
+JIGAWA,KIYAWA,ANDAZA,GIDAN TAURA OPEN SPACE,17/19/02/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640130/result_109685_1677510528_thumb.jpg,true
+JIGAWA,KIYAWA,ANDAZA,YOLAL PRI. SCH.,17/19/02/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50628/result_109679_1677511448_thumb.jpg,true
+JIGAWA,KIYAWA,ANDAZA,GDSS ANDAZA,17/19/02/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640128/result_109683_1677510849_thumb.jpg,true
+JIGAWA,KIYAWA,ANDAZA,DUHUWA DISPENSARY,17/19/02/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640129/result_109684_1677510646_thumb.jpg,true
+JIGAWA,KIYAWA,ANDAZA,ANDAZA CIKIN GARI YAMMA,17/19/02/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50630/result_109681_1677511045_thumb.jpg,true
+JIGAWA,KIYAWA,ANDAZA,ZURARA/RABA,17/19/02/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50629/result_109680_1677511251_thumb.jpg,true
+JIGAWA,KIYAWA,ANDAZA,ANDAZA CIKIN GARI PRI. SCH. II,17/19/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50622/result_109673_1677512212_thumb.jpg,true
+JIGAWA,KIYAWA,ANDAZA,ANDAZA ISLAMIYYA YAMMA,17/19/02/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640131/result_109686_1677510426_thumb.jpg,true
+JIGAWA,KIYAWA,ANDAZA,DUHUWA WAJE/GANDUJE PRI. SCH.,17/19/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50623/result_109674_1677512116_thumb.jpg,true
+JIGAWA,KIYAWA,ANDAZA,KABOBI/BOKO,17/19/02/005,,false

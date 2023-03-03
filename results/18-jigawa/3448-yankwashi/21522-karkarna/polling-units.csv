@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,YANKWASHI,,JUNIOR SCI SEC SCH KARKARNA,17/27/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640415/result_110999_1677612178_thumb.jpg,false
-JIGAWA,YANKWASHI,,KARKARNA YAMMA  /PRIMARY  SCHOOL II,17/27/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640413/result_110998_1677611991_thumb.jpg,false
-JIGAWA,YANKWASHI,,SENIOR SEC SCH KARKARNA II,17/27/06/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640412/result_110997_1677611831_thumb.jpg,false
-JIGAWA,YANKWASHI,,SENIOR SEC SCH KARKARNA I,17/27/06/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640414/result_110996_1677611697_thumb.jpg,false
-JIGAWA,YANKWASHI,,MODEL  SCH KARKARNA,17/27/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640411/result_110995_1677611487_thumb.jpg,false
-JIGAWA,YANKWASHI,,SHARIA COURT KARKARNA,17/27/06/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640410/result_110994_1677611289_thumb.jpg,false
-JIGAWA,YANKWASHI,,OPEN SPACE/GINDIN DUTSE,17/27/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51651/result_110993_1677610575_thumb.jpg,false
-JIGAWA,YANKWASHI,,OPEN SPACE/RUMAWA,17/27/06/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51650/result_110992_1677610404_thumb.jpg,false
-JIGAWA,YANKWASHI,,KARKARNA YAMMA  /PRIMARY  SCHOOL,17/27/06/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51649/result_110991_1677610254_thumb.jpg,false
-JIGAWA,YANKWASHI,,KARKARNA GABAS  /PRIMARY  SCHOOL,17/27/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51648/result_110990_1677610079_thumb.jpg,false
-JIGAWA,YANKWASHI,,KARKARNA AREWA /PRIMARY  SCHOOL,17/27/06/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51647/result_110989_1677609411_thumb.jpg,false
+JIGAWA,YANKWASHI,KARKARNA,JUNIOR SCI SEC SCH KARKARNA,17/27/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640415/result_110999_1677612178_thumb.jpg,false
+JIGAWA,YANKWASHI,KARKARNA,KARKARNA YAMMA  /PRIMARY  SCHOOL II,17/27/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640413/result_110998_1677611991_thumb.jpg,false
+JIGAWA,YANKWASHI,KARKARNA,SENIOR SEC SCH KARKARNA II,17/27/06/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640412/result_110997_1677611831_thumb.jpg,false
+JIGAWA,YANKWASHI,KARKARNA,SENIOR SEC SCH KARKARNA I,17/27/06/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640414/result_110996_1677611697_thumb.jpg,false
+JIGAWA,YANKWASHI,KARKARNA,MODEL  SCH KARKARNA,17/27/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640411/result_110995_1677611487_thumb.jpg,false
+JIGAWA,YANKWASHI,KARKARNA,SHARIA COURT KARKARNA,17/27/06/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640410/result_110994_1677611289_thumb.jpg,false
+JIGAWA,YANKWASHI,KARKARNA,OPEN SPACE/GINDIN DUTSE,17/27/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51651/result_110993_1677610575_thumb.jpg,false
+JIGAWA,YANKWASHI,KARKARNA,OPEN SPACE/RUMAWA,17/27/06/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51650/result_110992_1677610404_thumb.jpg,false
+JIGAWA,YANKWASHI,KARKARNA,KARKARNA YAMMA  /PRIMARY  SCHOOL,17/27/06/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51649/result_110991_1677610254_thumb.jpg,false
+JIGAWA,YANKWASHI,KARKARNA,KARKARNA GABAS  /PRIMARY  SCHOOL,17/27/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51648/result_110990_1677610079_thumb.jpg,false
+JIGAWA,YANKWASHI,KARKARNA,KARKARNA AREWA /PRIMARY  SCHOOL,17/27/06/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51647/result_110989_1677609411_thumb.jpg,false

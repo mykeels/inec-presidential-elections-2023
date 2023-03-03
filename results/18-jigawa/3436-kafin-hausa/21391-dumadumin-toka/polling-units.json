@@ -26,6 +26,7 @@
     "pu_code_string": "171502003",
     "state_name": "JIGAWA",
     "lga_name": "KAFIN HAUSA",
+    "ward_name": "DUMADUMIN TOKA",
     "document": {
       "external": true,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "171502008",
     "state_name": "JIGAWA",
     "lga_name": "KAFIN HAUSA",
+    "ward_name": "DUMADUMIN TOKA",
     "document": {
       "external": true,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "171502002",
     "state_name": "JIGAWA",
     "lga_name": "KAFIN HAUSA",
+    "ward_name": "DUMADUMIN TOKA",
     "document": {
       "external": true,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "171502010",
     "state_name": "JIGAWA",
     "lga_name": "KAFIN HAUSA",
+    "ward_name": "DUMADUMIN TOKA",
     "document": {
       "external": true,
       "status": 1,
@@ -203,6 +207,7 @@
     "pu_code_string": "171502005",
     "state_name": "JIGAWA",
     "lga_name": "KAFIN HAUSA",
+    "ward_name": "DUMADUMIN TOKA",
     "document": {
       "external": false,
       "status": 1,
@@ -241,6 +246,7 @@
     "pu_code_string": "171502011",
     "state_name": "JIGAWA",
     "lga_name": "KAFIN HAUSA",
+    "ward_name": "DUMADUMIN TOKA",
     "document": {
       "external": false,
       "status": 1,
@@ -279,6 +285,7 @@
     "pu_code_string": "171502007",
     "state_name": "JIGAWA",
     "lga_name": "KAFIN HAUSA",
+    "ward_name": "DUMADUMIN TOKA",
     "document": {
       "external": false,
       "status": 1,
@@ -317,6 +324,7 @@
     "pu_code_string": "171502013",
     "state_name": "JIGAWA",
     "lga_name": "KAFIN HAUSA",
+    "ward_name": "DUMADUMIN TOKA",
     "document": {
       "external": false,
       "status": 1,
@@ -355,6 +363,7 @@
     "pu_code_string": "171502012",
     "state_name": "JIGAWA",
     "lga_name": "KAFIN HAUSA",
+    "ward_name": "DUMADUMIN TOKA",
     "document": {
       "external": false,
       "status": 1,
@@ -393,6 +402,7 @@
     "pu_code_string": "171502004",
     "state_name": "JIGAWA",
     "lga_name": "KAFIN HAUSA",
+    "ward_name": "DUMADUMIN TOKA",
     "document": {
       "external": false,
       "status": 1,
@@ -431,6 +441,7 @@
     "pu_code_string": "171502006",
     "state_name": "JIGAWA",
     "lga_name": "KAFIN HAUSA",
+    "ward_name": "DUMADUMIN TOKA",
     "document": {
       "external": false,
       "status": 1,
@@ -469,6 +480,7 @@
     "pu_code_string": "171502001",
     "state_name": "JIGAWA",
     "lga_name": "KAFIN HAUSA",
+    "ward_name": "DUMADUMIN TOKA",
     "document": {
       "external": false,
       "status": 1,
@@ -507,6 +519,7 @@
     "pu_code_string": "171502009",
     "state_name": "JIGAWA",
     "lga_name": "KAFIN HAUSA",
+    "ward_name": "DUMADUMIN TOKA",
     "document": {
       "external": false,
       "status": 1,

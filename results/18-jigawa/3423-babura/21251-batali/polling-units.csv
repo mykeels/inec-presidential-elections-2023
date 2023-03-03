@@ -1,16 +1,16 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,BABURA,,GANGARA/GANGARA HANWARE,17/02/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48267/result_106675_1677617995_thumb.jpg,false
-JIGAWA,BABURA,,RIJIYAR DANZANGO/MIDIRIN TINBAU,17/02/02/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48273/result_106681_1677617738_thumb.jpg,false
-JIGAWA,BABURA,,JAMMUTUM PRI. SCH. JAMMUTUM,17/02/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48269/result_106677_1677617426_thumb.jpg,false
-JIGAWA,BABURA,,MALAMAWA PRI. SCH. MALAMAWA,17/02/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/007/007-1677428218.pdf,false
-JIGAWA,BABURA,,KURTA FULANI/KURTA KANAWA,17/02/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/006/006-1677426897.pdf,false
-JIGAWA,BABURA,,BATALI PRI. SCH. II,17/02/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/013/013-1677425271.pdf,false
-JIGAWA,BABURA,,GANGARA HANWARE II,17/02/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/014/014-1677424168.pdf,false
-JIGAWA,BABURA,,JAN MUTUM PRI SCH II,17/02/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/015/015-1677419631.pdf,false
-JIGAWA,BABURA,,KANDI PRI. SCH./ KANDI,17/02/02/005,,false
-JIGAWA,BABURA,,UNGUWAR GANJI/UNGUWAR GANJI,17/02/02/010,,false
-JIGAWA,BABURA,,HAMMADI/HAMMADI,17/02/02/003,,false
-JIGAWA,BABURA,,BATALI PRI. SCH. BATALI,17/02/02/001,,false
-JIGAWA,BABURA,,YARKIRYA PRI. SCH. YARKIRYA,17/02/02/011,,false
-JIGAWA,BABURA,,TASAWA/TASAWAR KANDI,17/02/02/009,,false
-JIGAWA,BABURA,,MAISHEKA/ZUNTU,17/02/02/012,,false
+JIGAWA,BABURA,BATALI,GANGARA/GANGARA HANWARE,17/02/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48267/result_106675_1677617995_thumb.jpg,false
+JIGAWA,BABURA,BATALI,RIJIYAR DANZANGO/MIDIRIN TINBAU,17/02/02/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48273/result_106681_1677617738_thumb.jpg,false
+JIGAWA,BABURA,BATALI,JAMMUTUM PRI. SCH. JAMMUTUM,17/02/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48269/result_106677_1677617426_thumb.jpg,false
+JIGAWA,BABURA,BATALI,MALAMAWA PRI. SCH. MALAMAWA,17/02/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/007/007-1677428218.pdf,false
+JIGAWA,BABURA,BATALI,KURTA FULANI/KURTA KANAWA,17/02/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/006/006-1677426897.pdf,false
+JIGAWA,BABURA,BATALI,BATALI PRI. SCH. II,17/02/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/013/013-1677425271.pdf,false
+JIGAWA,BABURA,BATALI,GANGARA HANWARE II,17/02/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/014/014-1677424168.pdf,false
+JIGAWA,BABURA,BATALI,JAN MUTUM PRI SCH II,17/02/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/015/015-1677419631.pdf,false
+JIGAWA,BABURA,BATALI,KANDI PRI. SCH./ KANDI,17/02/02/005,,false
+JIGAWA,BABURA,BATALI,UNGUWAR GANJI/UNGUWAR GANJI,17/02/02/010,,false
+JIGAWA,BABURA,BATALI,HAMMADI/HAMMADI,17/02/02/003,,false
+JIGAWA,BABURA,BATALI,BATALI PRI. SCH. BATALI,17/02/02/001,,false
+JIGAWA,BABURA,BATALI,YARKIRYA PRI. SCH. YARKIRYA,17/02/02/011,,false
+JIGAWA,BABURA,BATALI,TASAWA/TASAWAR KANDI,17/02/02/009,,false
+JIGAWA,BABURA,BATALI,MAISHEKA/ZUNTU,17/02/02/012,,false

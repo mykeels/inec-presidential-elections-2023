@@ -26,6 +26,7 @@
     "pu_code_string": "170503006",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "CHURBUN",
     "document": null,
     "old_documents": [
       {
@@ -66,6 +67,7 @@
     "pu_code_string": "170503001",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "CHURBUN",
     "document": null,
     "old_documents": [
       {
@@ -106,6 +108,7 @@
     "pu_code_string": "170503011",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "CHURBUN",
     "document": {
       "external": false,
       "status": 1,
@@ -144,6 +147,7 @@
     "pu_code_string": "170503010",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "CHURBUN",
     "document": {
       "external": false,
       "status": 1,
@@ -182,6 +186,7 @@
     "pu_code_string": "170503004",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "CHURBUN",
     "document": {
       "external": false,
       "status": 1,
@@ -220,6 +225,7 @@
     "pu_code_string": "170503002",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "CHURBUN",
     "document": {
       "external": false,
       "status": 1,
@@ -258,6 +264,7 @@
     "pu_code_string": "170503008",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "CHURBUN",
     "document": {
       "external": false,
       "status": 1,
@@ -296,6 +303,7 @@
     "pu_code_string": "170503007",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "CHURBUN",
     "document": {
       "external": false,
       "status": 1,
@@ -334,6 +342,7 @@
     "pu_code_string": "170503012",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "CHURBUN",
     "document": {
       "external": false,
       "status": 1,
@@ -372,6 +381,7 @@
     "pu_code_string": "170503009",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "CHURBUN",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -402,6 +412,7 @@
     "pu_code_string": "170503005",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "CHURBUN",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -432,6 +443,7 @@
     "pu_code_string": "170503003",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "CHURBUN",
     "old_documents": [],
     "has_old_documents": false
   }

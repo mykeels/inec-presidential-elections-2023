@@ -1,18 +1,18 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,BIRNIWA,,KOFAR MAIGARI/ ANTURU/FULANI DALLA,17/04/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3425/ward/21275/pu/48799/48799-1677523323.pdf,false
-JIGAWA,BIRNIWA,,KOFAR MAIGARI/MAJANNA/MASHANWA,17/04/04/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3425/ward/21275/pu/48809/48809-1677518726.pdf,false
-JIGAWA,BIRNIWA,,KOFAR MAIGARI/KANTARI/BARAUDI/CHI UWA,17/04/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/04/pu/014/014-1677427016.pdf,false
-JIGAWA,BIRNIWA,,JSS DIGINSA/DIGINSA BAKIN KASUWA,17/04/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/04/pu/003/003-1677419842.pdf,false
-JIGAWA,BIRNIWA,,KOFAR FADA DIGINSA KOFAR FADA,17/04/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/04/pu/001/001-1677418637.pdf,false
-JIGAWA,BIRNIWA,,TSANGAYA/DIGINSA TSANGAYA,17/04/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/04/pu/004/004-1677418002.pdf,false
-JIGAWA,BIRNIWA,,KOFAR MAIGARI/MARA/GARI KARAMI/FUL-DUF,17/04/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/04/pu/013/013-1677417812.pdf,false
-JIGAWA,BIRNIWA,,DIGINSA KOFAR FADA,17/04/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/04/pu/002/002-1677411796.pdf,false
-JIGAWA,BIRNIWA,,KISHIWADE PRI. SCH/KISHINDE/JATORI,17/04/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/04/pu/011/011-1677405440.pdf,false
-JIGAWA,BIRNIWA,,KOFAR MAIGARI/ ANTAUWA,17/04/04/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/04/pu/017/017-1677402730.pdf,false
-JIGAWA,BIRNIWA,,KOFAR MAIGARI/ARI ADAM,17/04/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/04/pu/010/010-1677400264.pdf,false
-JIGAWA,BIRNIWA,,KOFAR MAIGARI/ KWAGGA/MAIZARIYA,17/04/04/007,,false
-JIGAWA,BIRNIWA,,BARBURAMI PRI. SCH/ BARBURAM,17/04/04/012,,false
-JIGAWA,BIRNIWA,,SUMBURTU PRI. SCH/ SUMBURTU/FULANI,17/04/04/005,,false
-JIGAWA,BIRNIWA,,KOFAR MAIGARI/ABARI CILIN/ADAM,17/04/04/008,,false
-JIGAWA,BIRNIWA,,KUZO YARA PRI SCH./KUZO-YARA/GALLIMA G.,17/04/04/015,,false
-JIGAWA,BIRNIWA,,KOFAR MAIGARI/CHILARO/FULANI DIGINSA,17/04/04/009,,false
+JIGAWA,BIRNIWA,DIGINSA,KOFAR MAIGARI/ ANTURU/FULANI DALLA,17/04/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3425/ward/21275/pu/48799/48799-1677523323.pdf,false
+JIGAWA,BIRNIWA,DIGINSA,KOFAR MAIGARI/MAJANNA/MASHANWA,17/04/04/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3425/ward/21275/pu/48809/48809-1677518726.pdf,false
+JIGAWA,BIRNIWA,DIGINSA,KOFAR MAIGARI/KANTARI/BARAUDI/CHI UWA,17/04/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/04/pu/014/014-1677427016.pdf,false
+JIGAWA,BIRNIWA,DIGINSA,JSS DIGINSA/DIGINSA BAKIN KASUWA,17/04/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/04/pu/003/003-1677419842.pdf,false
+JIGAWA,BIRNIWA,DIGINSA,KOFAR FADA DIGINSA KOFAR FADA,17/04/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/04/pu/001/001-1677418637.pdf,false
+JIGAWA,BIRNIWA,DIGINSA,TSANGAYA/DIGINSA TSANGAYA,17/04/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/04/pu/004/004-1677418002.pdf,false
+JIGAWA,BIRNIWA,DIGINSA,KOFAR MAIGARI/MARA/GARI KARAMI/FUL-DUF,17/04/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/04/pu/013/013-1677417812.pdf,false
+JIGAWA,BIRNIWA,DIGINSA,DIGINSA KOFAR FADA,17/04/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/04/pu/002/002-1677411796.pdf,false
+JIGAWA,BIRNIWA,DIGINSA,KISHIWADE PRI. SCH/KISHINDE/JATORI,17/04/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/04/pu/011/011-1677405440.pdf,false
+JIGAWA,BIRNIWA,DIGINSA,KOFAR MAIGARI/ ANTAUWA,17/04/04/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/04/pu/017/017-1677402730.pdf,false
+JIGAWA,BIRNIWA,DIGINSA,KOFAR MAIGARI/ARI ADAM,17/04/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/04/pu/010/010-1677400264.pdf,false
+JIGAWA,BIRNIWA,DIGINSA,KOFAR MAIGARI/ KWAGGA/MAIZARIYA,17/04/04/007,,false
+JIGAWA,BIRNIWA,DIGINSA,BARBURAMI PRI. SCH/ BARBURAM,17/04/04/012,,false
+JIGAWA,BIRNIWA,DIGINSA,SUMBURTU PRI. SCH/ SUMBURTU/FULANI,17/04/04/005,,false
+JIGAWA,BIRNIWA,DIGINSA,KOFAR MAIGARI/ABARI CILIN/ADAM,17/04/04/008,,false
+JIGAWA,BIRNIWA,DIGINSA,KUZO YARA PRI SCH./KUZO-YARA/GALLIMA G.,17/04/04/015,,false
+JIGAWA,BIRNIWA,DIGINSA,KOFAR MAIGARI/CHILARO/FULANI DIGINSA,17/04/04/009,,false

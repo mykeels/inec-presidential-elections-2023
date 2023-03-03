@@ -1,11 +1,11 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,AUYO,,"KATAUDI PRY SCH, KATAUDI 'B'",17/01/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48184/result_106564_1677605914_thumb.jpg,false
-JIGAWA,AUYO,,JAMAAR GABAS K. FADA JAMAAR GABAS,17/01/04/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48183/result_106563_1677605565_thumb.jpg,false
-JIGAWA,AUYO,,ATAKAJIYA K. FADA ATAKAJIYA,17/01/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48182/result_106562_1677604730_thumb.jpg,false
-JIGAWA,AUYO,,MAJE PRI. SCH. MAJE HAUSAWA/FUL,17/01/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48181/result_106561_1677604000_thumb.jpg,false
-JIGAWA,AUYO,,AYAMASKUKA K. FADA AYAMASKUKA,17/01/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48180/result_106560_1677602724_thumb.jpg,false
-JIGAWA,AUYO,,KATAUDI PRI. SCH. KATAUDI 'A',17/01/04/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48179/result_106559_1677602079_thumb.jpg,false
-JIGAWA,AUYO,,ATURA K. FADA ATURA JAMAAR AYAN,17/01/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48178/result_106558_1677601250_thumb.jpg,false
-JIGAWA,AUYO,,DAWAYA K. FADA DAWAYA/MAINARI,17/01/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48177/result_106557_1677600626_thumb.jpg,false
-JIGAWA,AUYO,,"GASTIFI K. FADA , GASTIFI VILLAGE",17/01/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-JIGAWA,AUYO,,AYAN PRI. SCH AYAN,17/01/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48175/result_106555_1677599882_thumb.jpg,false
+JIGAWA,AUYO,AYAN,"KATAUDI PRY SCH, KATAUDI 'B'",17/01/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48184/result_106564_1677605914_thumb.jpg,false
+JIGAWA,AUYO,AYAN,JAMAAR GABAS K. FADA JAMAAR GABAS,17/01/04/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48183/result_106563_1677605565_thumb.jpg,false
+JIGAWA,AUYO,AYAN,ATAKAJIYA K. FADA ATAKAJIYA,17/01/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48182/result_106562_1677604730_thumb.jpg,false
+JIGAWA,AUYO,AYAN,MAJE PRI. SCH. MAJE HAUSAWA/FUL,17/01/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48181/result_106561_1677604000_thumb.jpg,false
+JIGAWA,AUYO,AYAN,AYAMASKUKA K. FADA AYAMASKUKA,17/01/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48180/result_106560_1677602724_thumb.jpg,false
+JIGAWA,AUYO,AYAN,KATAUDI PRI. SCH. KATAUDI 'A',17/01/04/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48179/result_106559_1677602079_thumb.jpg,false
+JIGAWA,AUYO,AYAN,ATURA K. FADA ATURA JAMAAR AYAN,17/01/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48178/result_106558_1677601250_thumb.jpg,false
+JIGAWA,AUYO,AYAN,DAWAYA K. FADA DAWAYA/MAINARI,17/01/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48177/result_106557_1677600626_thumb.jpg,false
+JIGAWA,AUYO,AYAN,"GASTIFI K. FADA , GASTIFI VILLAGE",17/01/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+JIGAWA,AUYO,AYAN,AYAN PRI. SCH AYAN,17/01/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48175/result_106555_1677599882_thumb.jpg,false

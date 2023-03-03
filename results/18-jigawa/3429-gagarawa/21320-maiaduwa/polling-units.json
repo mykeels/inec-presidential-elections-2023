@@ -26,6 +26,7 @@
     "pu_code_string": "170806002",
     "state_name": "JIGAWA",
     "lga_name": "GAGARAWA",
+    "ward_name": "MAIADUWA",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "170806003",
     "state_name": "JIGAWA",
     "lga_name": "GAGARAWA",
+    "ward_name": "MAIADUWA",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "170806010",
     "state_name": "JIGAWA",
     "lga_name": "GAGARAWA",
+    "ward_name": "MAIADUWA",
     "document": {
       "external": false,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "170806005",
     "state_name": "JIGAWA",
     "lga_name": "GAGARAWA",
+    "ward_name": "MAIADUWA",
     "document": {
       "external": false,
       "status": 1,
@@ -178,6 +182,7 @@
     "pu_code_string": "170806007",
     "state_name": "JIGAWA",
     "lga_name": "GAGARAWA",
+    "ward_name": "MAIADUWA",
     "document": {
       "external": false,
       "status": 1,
@@ -216,6 +221,7 @@
     "pu_code_string": "170806008",
     "state_name": "JIGAWA",
     "lga_name": "GAGARAWA",
+    "ward_name": "MAIADUWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -246,6 +252,7 @@
     "pu_code_string": "170806001",
     "state_name": "JIGAWA",
     "lga_name": "GAGARAWA",
+    "ward_name": "MAIADUWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -276,6 +283,7 @@
     "pu_code_string": "170806006",
     "state_name": "JIGAWA",
     "lga_name": "GAGARAWA",
+    "ward_name": "MAIADUWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -306,6 +314,7 @@
     "pu_code_string": "170806004",
     "state_name": "JIGAWA",
     "lga_name": "GAGARAWA",
+    "ward_name": "MAIADUWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -336,6 +345,7 @@
     "pu_code_string": "170806009",
     "state_name": "JIGAWA",
     "lga_name": "GAGARAWA",
+    "ward_name": "MAIADUWA",
     "old_documents": [],
     "has_old_documents": false
   }

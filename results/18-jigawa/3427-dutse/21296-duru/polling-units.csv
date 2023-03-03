@@ -1,27 +1,27 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,DUTSE,,DURU DISENSARY,17/06/04/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639690/result_107515_1677606303_thumb.jpg,false
-JIGAWA,DUTSE,,DUTSEN DURU,17/06/04/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639689/result_107514_1677606191_thumb.jpg,false
-JIGAWA,DUTSE,,ARIRI,17/06/04/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48955/result_107513_1677606022_thumb.jpg,false
-JIGAWA,DUTSE,,ZANGO FADO PRI. SCH.  II,17/06/04/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48954/result_107512_1677605925_thumb.jpg,false
-JIGAWA,DUTSE,,ZANGO FADO PRI. SCH.  I,17/06/04/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48953/result_107511_1677605671_thumb.jpg,false
-JIGAWA,DUTSE,,YARGABA PRI. SCH. II,17/06/04/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48952/result_107510_1677605562_thumb.jpg,false
-JIGAWA,DUTSE,,YARGABA PRI. SCH.  I,17/06/04/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48951/result_107509_1677605471_thumb.jpg,false
-JIGAWA,DUTSE,,YANJAJIN KANAWA,17/06/04/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48950/result_107508_1677605088_thumb.jpg,false
-JIGAWA,DUTSE,,KATURJE PRI. SCH.,17/06/04/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48949/result_107507_1677604938_thumb.jpg,false
-JIGAWA,DUTSE,,WANGARA PRI. SCH.  II,17/06/04/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-JIGAWA,DUTSE,,WANGARA PRI. SCH.  I,17/06/04/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48947/result_107505_1677603389_thumb.jpg,false
-JIGAWA,DUTSE,,TSATSTSUGON,17/06/04/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48946/result_107504_1677602753_thumb.jpg,false
-JIGAWA,DUTSE,,TUNGARE PRI. SCH.,17/06/04/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48945/result_107503_1677602103_thumb.jpg,false
-JIGAWA,DUTSE,,DUHUWAJO/DAHORA,17/06/04/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48944/result_107502_1677601561_thumb.jpg,false
-JIGAWA,DUTSE,,SAMANI PRI SCH,17/06/04/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48943/result_107501_1677600900_thumb.jpg,false
-JIGAWA,DUTSE,,KULLUN KOTA,17/06/04/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48942/result_107500_1677600119_thumb.jpg,false
-JIGAWA,DUTSE,,KUNDIN BARE-BARI,17/06/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-JIGAWA,DUTSE,,KIRORO,17/06/04/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48940/result_107498_1677599355_thumb.jpg,false
-JIGAWA,DUTSE,,JAMAAR GIDE,17/06/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48939/result_107497_1677598918_thumb.jpg,false
-JIGAWA,DUTSE,,HAMADAWA,17/06/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-JIGAWA,DUTSE,,GORIN,17/06/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48937/result_107495_1677597818_thumb.jpg,false
-JIGAWA,DUTSE,,GIDAN DUGUS,17/06/04/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-JIGAWA,DUTSE,,DURU PRY SCH,17/06/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48935/result_107493_1677596560_thumb.jpg,false
-JIGAWA,DUTSE,,DUHUWA,17/06/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48934/result_107492_1677596241_thumb.jpg,false
-JIGAWA,DUTSE,,DARAU N. MUSA,17/06/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48933/result_107491_1677595850_thumb.jpg,false
-JIGAWA,DUTSE,,DARAU PRI. SCH.,17/06/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+JIGAWA,DUTSE,DURU,DURU DISENSARY,17/06/04/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639690/result_107515_1677606303_thumb.jpg,false
+JIGAWA,DUTSE,DURU,DUTSEN DURU,17/06/04/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639689/result_107514_1677606191_thumb.jpg,false
+JIGAWA,DUTSE,DURU,ARIRI,17/06/04/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48955/result_107513_1677606022_thumb.jpg,false
+JIGAWA,DUTSE,DURU,ZANGO FADO PRI. SCH.  II,17/06/04/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48954/result_107512_1677605925_thumb.jpg,false
+JIGAWA,DUTSE,DURU,ZANGO FADO PRI. SCH.  I,17/06/04/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48953/result_107511_1677605671_thumb.jpg,false
+JIGAWA,DUTSE,DURU,YARGABA PRI. SCH. II,17/06/04/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48952/result_107510_1677605562_thumb.jpg,false
+JIGAWA,DUTSE,DURU,YARGABA PRI. SCH.  I,17/06/04/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48951/result_107509_1677605471_thumb.jpg,false
+JIGAWA,DUTSE,DURU,YANJAJIN KANAWA,17/06/04/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48950/result_107508_1677605088_thumb.jpg,false
+JIGAWA,DUTSE,DURU,KATURJE PRI. SCH.,17/06/04/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48949/result_107507_1677604938_thumb.jpg,false
+JIGAWA,DUTSE,DURU,WANGARA PRI. SCH.  II,17/06/04/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+JIGAWA,DUTSE,DURU,WANGARA PRI. SCH.  I,17/06/04/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48947/result_107505_1677603389_thumb.jpg,false
+JIGAWA,DUTSE,DURU,TSATSTSUGON,17/06/04/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48946/result_107504_1677602753_thumb.jpg,false
+JIGAWA,DUTSE,DURU,TUNGARE PRI. SCH.,17/06/04/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48945/result_107503_1677602103_thumb.jpg,false
+JIGAWA,DUTSE,DURU,DUHUWAJO/DAHORA,17/06/04/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48944/result_107502_1677601561_thumb.jpg,false
+JIGAWA,DUTSE,DURU,SAMANI PRI SCH,17/06/04/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48943/result_107501_1677600900_thumb.jpg,false
+JIGAWA,DUTSE,DURU,KULLUN KOTA,17/06/04/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48942/result_107500_1677600119_thumb.jpg,false
+JIGAWA,DUTSE,DURU,KUNDIN BARE-BARI,17/06/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+JIGAWA,DUTSE,DURU,KIRORO,17/06/04/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48940/result_107498_1677599355_thumb.jpg,false
+JIGAWA,DUTSE,DURU,JAMAAR GIDE,17/06/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48939/result_107497_1677598918_thumb.jpg,false
+JIGAWA,DUTSE,DURU,HAMADAWA,17/06/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+JIGAWA,DUTSE,DURU,GORIN,17/06/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48937/result_107495_1677597818_thumb.jpg,false
+JIGAWA,DUTSE,DURU,GIDAN DUGUS,17/06/04/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+JIGAWA,DUTSE,DURU,DURU PRY SCH,17/06/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48935/result_107493_1677596560_thumb.jpg,false
+JIGAWA,DUTSE,DURU,DUHUWA,17/06/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48934/result_107492_1677596241_thumb.jpg,false
+JIGAWA,DUTSE,DURU,DARAU N. MUSA,17/06/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48933/result_107491_1677595850_thumb.jpg,false
+JIGAWA,DUTSE,DURU,DARAU PRI. SCH.,17/06/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false

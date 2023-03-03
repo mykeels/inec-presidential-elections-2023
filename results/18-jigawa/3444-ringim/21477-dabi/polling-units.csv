@@ -1,24 +1,24 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,RINGIM,,DABI PRI. SCH. DABI TSAKIYA II,17/23/02/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21477/pu/145061/145061-1677453521.pdf,false
-JIGAWA,RINGIM,,KOFAR MAIUNGUWA/TINTI,17/23/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21477/pu/51204/51204-1677453029.pdf,false
-JIGAWA,RINGIM,,DABI PRI. SCH. DABI YAMMA,17/23/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21477/pu/51196/51196-1677452621.pdf,false
-JIGAWA,RINGIM,,DINGARE PRI. SCH. DINGARE,17/23/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21477/pu/51205/51205-1677452354.pdf,false
-JIGAWA,RINGIM,,KAURA DABI PRI. SCH. KAURA DABI,17/23/02/007,https://docs.inecelectionresults.net/elections/1292/1677451280-51201.pdf,false
-JIGAWA,RINGIM,,KWARTAWA PRI. SCH. KWARATAWA,17/23/02/016,https://docs.inecelectionresults.net/elections/1292/1677450642-51210.pdf,false
-JIGAWA,RINGIM,,JSS DABI I,17/23/02/020,https://docs.inecelectionresults.net/elections/1292/1677449518-145063.pdf,false
-JIGAWA,RINGIM,,GUNAWA/IBBAWA,17/23/02/017,https://docs.inecelectionresults.net/elections/1292/1677448866-51211.pdf,false
-JIGAWA,RINGIM,,WARU PRI SCH,17/23/02/023,https://docs.inecelectionresults.net/elections/1292/1677448385-145066.pdf,false
-JIGAWA,RINGIM,,JSS DABI II,17/23/02/021,https://docs.inecelectionresults.net/elections/1292/1677447915-145064.pdf,false
-JIGAWA,RINGIM,,DANDIBI PRI. SCH. GIDAN DANDIBI/WARU,17/23/02/006,https://docs.inecelectionresults.net/elections/1292/1677447507-51200.pdf,false
-JIGAWA,RINGIM,,KOFAR MAIUNGUWA/DUSUKUN,17/23/02/009,https://docs.inecelectionresults.net/elections/1292/1677446392-51203.pdf,false
-JIGAWA,RINGIM,,KIJAWAL PRI. SCH. KIJAWAL,17/23/02/004,https://docs.inecelectionresults.net/elections/1292/1677445662-51198.pdf,false
-JIGAWA,RINGIM,,KOFAR MAIUNGUWA/JIGAWAR TURA/GUNAWA,17/23/02/005,https://docs.inecelectionresults.net/elections/1292/1677443749-51199.pdf,false
-JIGAWA,RINGIM,,KOFAR MAIUNGUWA/JIGAWAR DANWARU,17/23/02/014,https://docs.inecelectionresults.net/elections/1292/1677443102-51208.pdf,false
-JIGAWA,RINGIM,,DABI PRI. SCH. DABI KUDU,17/23/02/003,https://docs.inecelectionresults.net/elections/1292/1677441134-51197.pdf,false
-JIGAWA,RINGIM,,DABI PRI. SCH. DABI TSAKIYA,17/23/02/001,https://docs.inecelectionresults.net/elections/1292/1677439453-51195.pdf,false
-JIGAWA,RINGIM,,KOFAR MAIUNGUWA/TUDUN RUMA,17/23/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/02/pu/015/015-1677421773.pdf,false
-JIGAWA,RINGIM,,KOFAR MAIUNGUWA/ALGAMA,17/23/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/02/pu/008/008-1677403124.pdf,false
-JIGAWA,RINGIM,,KOFAR MAIUNGUWA/MADACHI,17/23/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/02/pu/013/013-1677389796.pdf,false
-JIGAWA,RINGIM,,DABI PRI. SCH. DABI TSAKIYA III,17/23/02/019,,false
-JIGAWA,RINGIM,,KOFAR MAIUNGUWA/LANYOYAL,17/23/02/012,,false
-JIGAWA,RINGIM,,KIJAWAL PRI. SCH. KIJAWAL II,17/23/02/022,,false
+JIGAWA,RINGIM,DABI,DABI PRI. SCH. DABI TSAKIYA II,17/23/02/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21477/pu/145061/145061-1677453521.pdf,false
+JIGAWA,RINGIM,DABI,KOFAR MAIUNGUWA/TINTI,17/23/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21477/pu/51204/51204-1677453029.pdf,false
+JIGAWA,RINGIM,DABI,DABI PRI. SCH. DABI YAMMA,17/23/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21477/pu/51196/51196-1677452621.pdf,false
+JIGAWA,RINGIM,DABI,DINGARE PRI. SCH. DINGARE,17/23/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21477/pu/51205/51205-1677452354.pdf,false
+JIGAWA,RINGIM,DABI,KAURA DABI PRI. SCH. KAURA DABI,17/23/02/007,https://docs.inecelectionresults.net/elections/1292/1677451280-51201.pdf,false
+JIGAWA,RINGIM,DABI,KWARTAWA PRI. SCH. KWARATAWA,17/23/02/016,https://docs.inecelectionresults.net/elections/1292/1677450642-51210.pdf,false
+JIGAWA,RINGIM,DABI,JSS DABI I,17/23/02/020,https://docs.inecelectionresults.net/elections/1292/1677449518-145063.pdf,false
+JIGAWA,RINGIM,DABI,GUNAWA/IBBAWA,17/23/02/017,https://docs.inecelectionresults.net/elections/1292/1677448866-51211.pdf,false
+JIGAWA,RINGIM,DABI,WARU PRI SCH,17/23/02/023,https://docs.inecelectionresults.net/elections/1292/1677448385-145066.pdf,false
+JIGAWA,RINGIM,DABI,JSS DABI II,17/23/02/021,https://docs.inecelectionresults.net/elections/1292/1677447915-145064.pdf,false
+JIGAWA,RINGIM,DABI,DANDIBI PRI. SCH. GIDAN DANDIBI/WARU,17/23/02/006,https://docs.inecelectionresults.net/elections/1292/1677447507-51200.pdf,false
+JIGAWA,RINGIM,DABI,KOFAR MAIUNGUWA/DUSUKUN,17/23/02/009,https://docs.inecelectionresults.net/elections/1292/1677446392-51203.pdf,false
+JIGAWA,RINGIM,DABI,KIJAWAL PRI. SCH. KIJAWAL,17/23/02/004,https://docs.inecelectionresults.net/elections/1292/1677445662-51198.pdf,false
+JIGAWA,RINGIM,DABI,KOFAR MAIUNGUWA/JIGAWAR TURA/GUNAWA,17/23/02/005,https://docs.inecelectionresults.net/elections/1292/1677443749-51199.pdf,false
+JIGAWA,RINGIM,DABI,KOFAR MAIUNGUWA/JIGAWAR DANWARU,17/23/02/014,https://docs.inecelectionresults.net/elections/1292/1677443102-51208.pdf,false
+JIGAWA,RINGIM,DABI,DABI PRI. SCH. DABI KUDU,17/23/02/003,https://docs.inecelectionresults.net/elections/1292/1677441134-51197.pdf,false
+JIGAWA,RINGIM,DABI,DABI PRI. SCH. DABI TSAKIYA,17/23/02/001,https://docs.inecelectionresults.net/elections/1292/1677439453-51195.pdf,false
+JIGAWA,RINGIM,DABI,KOFAR MAIUNGUWA/TUDUN RUMA,17/23/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/02/pu/015/015-1677421773.pdf,false
+JIGAWA,RINGIM,DABI,KOFAR MAIUNGUWA/ALGAMA,17/23/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/02/pu/008/008-1677403124.pdf,false
+JIGAWA,RINGIM,DABI,KOFAR MAIUNGUWA/MADACHI,17/23/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/02/pu/013/013-1677389796.pdf,false
+JIGAWA,RINGIM,DABI,DABI PRI. SCH. DABI TSAKIYA III,17/23/02/019,,false
+JIGAWA,RINGIM,DABI,KOFAR MAIUNGUWA/LANYOYAL,17/23/02/012,,false
+JIGAWA,RINGIM,DABI,KIJAWAL PRI. SCH. KIJAWAL II,17/23/02/022,,false

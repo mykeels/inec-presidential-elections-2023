@@ -1,16 +1,16 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,HADEJIA,,ZONAGALARI/GINDIN KUKA,17/13/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21370/pu/49905/49905-1677686678.pdf,true
-JIGAWA,HADEJIA,,AUYAKARI/KOFAR AREWA PRI SCH VI,17/13/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21370/pu/144688/144688-1677686451.pdf,true
-JIGAWA,HADEJIA,,ZONAGALARI/KANTIN KASSIM,17/13/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21370/pu/49904/49904-1677686194.pdf,true
-JIGAWA,HADEJIA,,KAKABURI/WOMEN CENTRE,17/13/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21370/pu/49902/49902-1677686121.pdf,true
-JIGAWA,HADEJIA,,GAGULMARI/ KOFAR DANJANI,17/13/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21370/pu/49900/49900-1677685727.pdf,true
-JIGAWA,HADEJIA,,KAKABURI/BABALE KIRYO I.P.S,17/13/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21370/pu/49901/49901-1677685705.pdf,true
-JIGAWA,HADEJIA,,GAGULMARI MUMBARI II,17/13/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21370/pu/49899/49899-1677685240.pdf,true
-JIGAWA,HADEJIA,,GAGULMARI/MUMBARI I,17/13/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21370/pu/49898/49898-1677685174.pdf,true
-JIGAWA,HADEJIA,,AUYAKARI/KOFAR AREWA PRI. SCH  III,17/13/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21370/pu/49896/49896-1677684929.pdf,true
-JIGAWA,HADEJIA,,AUYAKARI/KOFAR AREWA PRI. SCH  IV,17/13/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21370/pu/49897/49897-1677684838.pdf,true
-JIGAWA,HADEJIA,,AUYAKARI/KOFAR AREWA PRI. SCH  I,17/13/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21370/pu/49894/49894-1677684417.pdf,true
-JIGAWA,HADEJIA,,AUYAKARI/KOFAR AREWA PRI. SCH  II,17/13/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21370/pu/49895/49895-1677684451.pdf,true
-JIGAWA,HADEJIA,,KAKABURI/BABALE KIRYO,17/13/03/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-JIGAWA,HADEJIA,,AUYAKARI/KOFAR AREWA PRI SCH V,17/13/03/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-JIGAWA,HADEJIA,,GAGULMARI KOFAR DANJANI II,17/13/03/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639931/result_108634_1677597997_thumb.jpg,false
+JIGAWA,HADEJIA,GAGULMARI,ZONAGALARI/GINDIN KUKA,17/13/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21370/pu/49905/49905-1677686678.pdf,true
+JIGAWA,HADEJIA,GAGULMARI,AUYAKARI/KOFAR AREWA PRI SCH VI,17/13/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21370/pu/144688/144688-1677686451.pdf,true
+JIGAWA,HADEJIA,GAGULMARI,ZONAGALARI/KANTIN KASSIM,17/13/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21370/pu/49904/49904-1677686194.pdf,true
+JIGAWA,HADEJIA,GAGULMARI,KAKABURI/WOMEN CENTRE,17/13/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21370/pu/49902/49902-1677686121.pdf,true
+JIGAWA,HADEJIA,GAGULMARI,GAGULMARI/ KOFAR DANJANI,17/13/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21370/pu/49900/49900-1677685727.pdf,true
+JIGAWA,HADEJIA,GAGULMARI,KAKABURI/BABALE KIRYO I.P.S,17/13/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21370/pu/49901/49901-1677685705.pdf,true
+JIGAWA,HADEJIA,GAGULMARI,GAGULMARI MUMBARI II,17/13/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21370/pu/49899/49899-1677685240.pdf,true
+JIGAWA,HADEJIA,GAGULMARI,GAGULMARI/MUMBARI I,17/13/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21370/pu/49898/49898-1677685174.pdf,true
+JIGAWA,HADEJIA,GAGULMARI,AUYAKARI/KOFAR AREWA PRI. SCH  III,17/13/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21370/pu/49896/49896-1677684929.pdf,true
+JIGAWA,HADEJIA,GAGULMARI,AUYAKARI/KOFAR AREWA PRI. SCH  IV,17/13/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21370/pu/49897/49897-1677684838.pdf,true
+JIGAWA,HADEJIA,GAGULMARI,AUYAKARI/KOFAR AREWA PRI. SCH  I,17/13/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21370/pu/49894/49894-1677684417.pdf,true
+JIGAWA,HADEJIA,GAGULMARI,AUYAKARI/KOFAR AREWA PRI. SCH  II,17/13/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21370/pu/49895/49895-1677684451.pdf,true
+JIGAWA,HADEJIA,GAGULMARI,KAKABURI/BABALE KIRYO,17/13/03/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+JIGAWA,HADEJIA,GAGULMARI,AUYAKARI/KOFAR AREWA PRI SCH V,17/13/03/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+JIGAWA,HADEJIA,GAGULMARI,GAGULMARI KOFAR DANJANI II,17/13/03/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639931/result_108634_1677597997_thumb.jpg,false

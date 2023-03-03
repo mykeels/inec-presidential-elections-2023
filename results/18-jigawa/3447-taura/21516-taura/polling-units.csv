@@ -1,26 +1,26 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,TAURA,,ABAKURA/PRIMARY SCHOOL I,17/26/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/010/010-1677416891.pdf,false
-JIGAWA,TAURA,,NURADDEEN ISLAMIYYA TAURA II,17/26/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/013/013-1677414866.pdf,false
-JIGAWA,TAURA,,TAURA SPECIAL PRI. SCH. /TAURA AREWA I,17/26/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/001/001-1677414310.pdf,false
-JIGAWA,TAURA,,KARI TSALLE ISLAMIYYA,17/26/10/025,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/025/025-1677414145.pdf,false
-JIGAWA,TAURA,,ABAKURA /PRIMARY SCHOOL II,17/26/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/011/011-1677413772.pdf,false
-JIGAWA,TAURA,,NURADDEEN ISLAMIYYA  TAURA V,17/26/10/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/016/016-1677413380.pdf,false
-JIGAWA,TAURA,,NURADDEEN ISLAMIYYA TAURA IV,17/26/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/015/015-1677413169.pdf,false
-JIGAWA,TAURA,,MALAMAWA TAURA /PRIMARY SCHOOL II,17/26/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/008/008-1677412327.pdf,false
-JIGAWA,TAURA,,TAURA SPECIAL PRI. SCH. /TAURA AREWA III,17/26/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/003/003-1677412246.pdf,false
-JIGAWA,TAURA,,MALAMAWA TAURA PRI SCH IV,17/26/10/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/023/023-1677411952.pdf,false
-JIGAWA,TAURA,,TAURA SPECIAL PRI. SCH. / TAURA KUDU,17/26/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/006/006-1677411328.pdf,false
-JIGAWA,TAURA,,MALAMAWA TAURA PRI SCH III,17/26/10/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/022/022-1677410581.pdf,false
-JIGAWA,TAURA,,MALAMAWA TAURA PRI SCH V,17/26/10/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/024/024-1677409536.pdf,false
-JIGAWA,TAURA,,JARKASA ISLAMIYYA PRI SCH II,17/26/10/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/018/018-1677408431.pdf,false
-JIGAWA,TAURA,,TAURA SPECIAL PRI. SCH. /TAURA GABAS II,17/26/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/005/005-1677405970.pdf,false
-JIGAWA,TAURA,,JARKASA ISLAMIYYA PRI SCH I,17/26/10/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/017/017-1677405623.pdf,false
-JIGAWA,TAURA,,TAURA SPECIAL PRI. SCH. /TAURA GABAS I,17/26/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/004/004-1677405032.pdf,false
-JIGAWA,TAURA,,JARKASA ISLAMIYYA PRI SCH III,17/26/10/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/019/019-1677404796.pdf,false
-JIGAWA,TAURA,,JARKASA ISLAMIYYA PRI SCH IV,17/26/10/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/020/020-1677404094.pdf,false
-JIGAWA,TAURA,,NURADDEEN ISLAMIYYA TAURA I,17/26/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/012/012-1677404057.pdf,false
-JIGAWA,TAURA,,NURADEEN ISLAMIYYA TAURA III,17/26/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/014/014-1677402258.pdf,false
-JIGAWA,TAURA,,VILLAGE HEAD GROUND /KARI-TSALLE,17/26/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/009/009-1677401784.pdf,false
-JIGAWA,TAURA,,MALAMAWA TAURA /PRIMARY SCHOOL I,17/26/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/007/007-1677393784.pdf,false
-JIGAWA,TAURA,,JAKARASA ISLAMIYYA PRI SCH V,17/26/10/021,,false
-JIGAWA,TAURA,,TAURA SPECIAL PRI. SCH. /TAURA AREWA II,17/26/10/002,,false
+JIGAWA,TAURA,TAURA,ABAKURA/PRIMARY SCHOOL I,17/26/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/010/010-1677416891.pdf,false
+JIGAWA,TAURA,TAURA,NURADDEEN ISLAMIYYA TAURA II,17/26/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/013/013-1677414866.pdf,false
+JIGAWA,TAURA,TAURA,TAURA SPECIAL PRI. SCH. /TAURA AREWA I,17/26/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/001/001-1677414310.pdf,false
+JIGAWA,TAURA,TAURA,KARI TSALLE ISLAMIYYA,17/26/10/025,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/025/025-1677414145.pdf,false
+JIGAWA,TAURA,TAURA,ABAKURA /PRIMARY SCHOOL II,17/26/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/011/011-1677413772.pdf,false
+JIGAWA,TAURA,TAURA,NURADDEEN ISLAMIYYA  TAURA V,17/26/10/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/016/016-1677413380.pdf,false
+JIGAWA,TAURA,TAURA,NURADDEEN ISLAMIYYA TAURA IV,17/26/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/015/015-1677413169.pdf,false
+JIGAWA,TAURA,TAURA,MALAMAWA TAURA /PRIMARY SCHOOL II,17/26/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/008/008-1677412327.pdf,false
+JIGAWA,TAURA,TAURA,TAURA SPECIAL PRI. SCH. /TAURA AREWA III,17/26/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/003/003-1677412246.pdf,false
+JIGAWA,TAURA,TAURA,MALAMAWA TAURA PRI SCH IV,17/26/10/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/023/023-1677411952.pdf,false
+JIGAWA,TAURA,TAURA,TAURA SPECIAL PRI. SCH. / TAURA KUDU,17/26/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/006/006-1677411328.pdf,false
+JIGAWA,TAURA,TAURA,MALAMAWA TAURA PRI SCH III,17/26/10/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/022/022-1677410581.pdf,false
+JIGAWA,TAURA,TAURA,MALAMAWA TAURA PRI SCH V,17/26/10/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/024/024-1677409536.pdf,false
+JIGAWA,TAURA,TAURA,JARKASA ISLAMIYYA PRI SCH II,17/26/10/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/018/018-1677408431.pdf,false
+JIGAWA,TAURA,TAURA,TAURA SPECIAL PRI. SCH. /TAURA GABAS II,17/26/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/005/005-1677405970.pdf,false
+JIGAWA,TAURA,TAURA,JARKASA ISLAMIYYA PRI SCH I,17/26/10/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/017/017-1677405623.pdf,false
+JIGAWA,TAURA,TAURA,TAURA SPECIAL PRI. SCH. /TAURA GABAS I,17/26/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/004/004-1677405032.pdf,false
+JIGAWA,TAURA,TAURA,JARKASA ISLAMIYYA PRI SCH III,17/26/10/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/019/019-1677404796.pdf,false
+JIGAWA,TAURA,TAURA,JARKASA ISLAMIYYA PRI SCH IV,17/26/10/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/020/020-1677404094.pdf,false
+JIGAWA,TAURA,TAURA,NURADDEEN ISLAMIYYA TAURA I,17/26/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/012/012-1677404057.pdf,false
+JIGAWA,TAURA,TAURA,NURADEEN ISLAMIYYA TAURA III,17/26/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/014/014-1677402258.pdf,false
+JIGAWA,TAURA,TAURA,VILLAGE HEAD GROUND /KARI-TSALLE,17/26/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/009/009-1677401784.pdf,false
+JIGAWA,TAURA,TAURA,MALAMAWA TAURA /PRIMARY SCHOOL I,17/26/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/10/pu/007/007-1677393784.pdf,false
+JIGAWA,TAURA,TAURA,JAKARASA ISLAMIYYA PRI SCH V,17/26/10/021,,false
+JIGAWA,TAURA,TAURA,TAURA SPECIAL PRI. SCH. /TAURA AREWA II,17/26/10/002,,false

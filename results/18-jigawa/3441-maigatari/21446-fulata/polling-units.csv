@@ -1,9 +1,9 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,MAIGATARI,,SHABARAWA PRI. SCH.  SHABARAWA II,17/20/03/008,https://docs.inecelectionresults.net/elections/1292/1677696474-144974.pdf,true
-JIGAWA,MAIGATARI,,SHABARAWA PRI. SCH. SHABARAWA,17/20/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/03/pu/004/004-1677397634.pdf,false
-JIGAWA,MAIGATARI,,FULATA PRI. SCH. FULATA II,17/20/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/03/pu/002/002-1677404213.pdf,false
-JIGAWA,MAIGATARI,,KOKON BARA PRI. SCH/KORAN BARA,17/20/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/03/pu/006/006-1677386110.pdf,false
-JIGAWA,MAIGATARI,,FULATA PRI. SCH. FULATA I,17/20/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/03/pu/001/001-1677385362.pdf,false
-JIGAWA,MAIGATARI,,MATSARIDA / MATSARIDA,17/20/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/03/pu/007/007-1677385196.pdf,false
-JIGAWA,MAIGATARI,,GANGARA PRI. SCH  GANGARA,17/20/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/03/pu/003/003-1677384748.pdf,false
-JIGAWA,MAIGATARI,,BARAN GARI PRI. SCH. BARAN GARI,17/20/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/03/pu/005/005-1677383695.pdf,false
+JIGAWA,MAIGATARI,FULATA,SHABARAWA PRI. SCH.  SHABARAWA II,17/20/03/008,https://docs.inecelectionresults.net/elections/1292/1677696474-144974.pdf,true
+JIGAWA,MAIGATARI,FULATA,SHABARAWA PRI. SCH. SHABARAWA,17/20/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/03/pu/004/004-1677397634.pdf,false
+JIGAWA,MAIGATARI,FULATA,FULATA PRI. SCH. FULATA II,17/20/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/03/pu/002/002-1677404213.pdf,false
+JIGAWA,MAIGATARI,FULATA,KOKON BARA PRI. SCH/KORAN BARA,17/20/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/03/pu/006/006-1677386110.pdf,false
+JIGAWA,MAIGATARI,FULATA,FULATA PRI. SCH. FULATA I,17/20/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/03/pu/001/001-1677385362.pdf,false
+JIGAWA,MAIGATARI,FULATA,MATSARIDA / MATSARIDA,17/20/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/03/pu/007/007-1677385196.pdf,false
+JIGAWA,MAIGATARI,FULATA,GANGARA PRI. SCH  GANGARA,17/20/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/03/pu/003/003-1677384748.pdf,false
+JIGAWA,MAIGATARI,FULATA,BARAN GARI PRI. SCH. BARAN GARI,17/20/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/03/pu/005/005-1677383695.pdf,false

@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,MALAM MADORI,,GIDAN MAIGARI/ RIGAR BARDE,17/21/03/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50919/result_110054_1677488220_thumb.jpg,true
-JIGAWA,MALAM MADORI,,KOFAR GIDA MAIGARI/ASUWARI,17/21/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50908/result_110043_1677489354_thumb.jpg,true
-JIGAWA,MALAM MADORI,,BAGUWAR HABE  PRI. SCH.,17/21/03/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50914/result_110049_1677488401_thumb.jpg,true
-JIGAWA,MALAM MADORI,,GIDAN MAIGARI/MAWADACHI,17/21/03/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50916/result_110051_1677488979_thumb.jpg,true
-JIGAWA,MALAM MADORI,,GIDAN MAIGARI/JIGAWAR MAMMAN,17/21/03/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50915/result_110050_1677489472_thumb.jpg,true
-JIGAWA,MALAM MADORI,,FATEKA PRI. SCH.,17/21/03/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50913/result_110048_1677488573_thumb.jpg,true
-JIGAWA,MALAM MADORI,,AKURYA GABAS PRI. SCH. III,17/21/03/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640209/result_110055_1677516188_thumb.jpg,true
-JIGAWA,MALAM MADORI,,KOFAR GIDAN MAIGARI/DIRABILAU,17/21/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50912/result_110047_1677515840_thumb.jpg,true
-JIGAWA,MALAM MADORI,,GIDAN MAIGARI/BABBAR RIGA,17/21/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50918/result_110053_1677488724_thumb.jpg,true
-JIGAWA,MALAM MADORI,,CHANCHANDA PRI. SCH.,17/21/03/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50917/result_110052_1677487882_thumb.jpg,true
-JIGAWA,MALAM MADORI,,AKURYA GABAS PRI. SCH. II,17/21/03/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50911/result_110046_1677489108_thumb.jpg,true
-JIGAWA,MALAM MADORI,,AKURYA GABAS PRI. SCH. I,17/21/03/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50909/result_110044_1677489232_thumb.jpg,true
-JIGAWA,MALAM MADORI,,KOFAR GIDAN MAIGARI/BULAKORI,17/21/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3442/ward/21457/pu/51001/51001-1677593623.pdf,false
+JIGAWA,MALAM MADORI,FATEKA AKURYA,GIDAN MAIGARI/ RIGAR BARDE,17/21/03/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50919/result_110054_1677488220_thumb.jpg,true
+JIGAWA,MALAM MADORI,FATEKA AKURYA,KOFAR GIDA MAIGARI/ASUWARI,17/21/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50908/result_110043_1677489354_thumb.jpg,true
+JIGAWA,MALAM MADORI,FATEKA AKURYA,BAGUWAR HABE  PRI. SCH.,17/21/03/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50914/result_110049_1677488401_thumb.jpg,true
+JIGAWA,MALAM MADORI,FATEKA AKURYA,GIDAN MAIGARI/MAWADACHI,17/21/03/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50916/result_110051_1677488979_thumb.jpg,true
+JIGAWA,MALAM MADORI,FATEKA AKURYA,GIDAN MAIGARI/JIGAWAR MAMMAN,17/21/03/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50915/result_110050_1677489472_thumb.jpg,true
+JIGAWA,MALAM MADORI,FATEKA AKURYA,FATEKA PRI. SCH.,17/21/03/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50913/result_110048_1677488573_thumb.jpg,true
+JIGAWA,MALAM MADORI,FATEKA AKURYA,AKURYA GABAS PRI. SCH. III,17/21/03/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640209/result_110055_1677516188_thumb.jpg,true
+JIGAWA,MALAM MADORI,FATEKA AKURYA,KOFAR GIDAN MAIGARI/DIRABILAU,17/21/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50912/result_110047_1677515840_thumb.jpg,true
+JIGAWA,MALAM MADORI,FATEKA AKURYA,GIDAN MAIGARI/BABBAR RIGA,17/21/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50918/result_110053_1677488724_thumb.jpg,true
+JIGAWA,MALAM MADORI,FATEKA AKURYA,CHANCHANDA PRI. SCH.,17/21/03/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50917/result_110052_1677487882_thumb.jpg,true
+JIGAWA,MALAM MADORI,FATEKA AKURYA,AKURYA GABAS PRI. SCH. II,17/21/03/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50911/result_110046_1677489108_thumb.jpg,true
+JIGAWA,MALAM MADORI,FATEKA AKURYA,AKURYA GABAS PRI. SCH. I,17/21/03/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50909/result_110044_1677489232_thumb.jpg,true
+JIGAWA,MALAM MADORI,FATEKA AKURYA,KOFAR GIDAN MAIGARI/BULAKORI,17/21/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3442/ward/21457/pu/51001/51001-1677593623.pdf,false

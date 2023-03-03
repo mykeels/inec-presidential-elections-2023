@@ -1,11 +1,11 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,YANKWASHI,,KWARIN KALGO PRI SCH II,17/27/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640408/result_110988_1677677351_thumb.jpg,false
-JIGAWA,YANKWASHI,,DOLE,17/27/05/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51646/result_110987_1677677137_thumb.jpg,false
-JIGAWA,YANKWASHI,,OPEN SPACE/ZUGUM FULANI,17/27/05/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51645/result_110986_1677676920_thumb.jpg,false
-JIGAWA,YANKWASHI,,OPEN SPACE/ SABUWA AREWA,17/27/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51644/result_110985_1677676771_thumb.jpg,false
-JIGAWA,YANKWASHI,,SABUWA KUDU PRI. SCH./SABUWA KUDU,17/27/05/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51643/result_110984_1677676578_thumb.jpg,false
-JIGAWA,YANKWASHI,,OPEN SPACE/KWARIN FULANI,17/27/05/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51642/result_110983_1677676458_thumb.jpg,false
-JIGAWA,YANKWASHI,,KWARIN KALGO PRI. SCH./ KWARIN KALGO,17/27/05/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51641/result_110982_1677676304_thumb.jpg,false
-JIGAWA,YANKWASHI,,JEKA FADA PRI. SCH./ JEKAFADA,17/27/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51640/result_110981_1677676115_thumb.jpg,false
-JIGAWA,YANKWASHI,,OPEN SPACE/ADDANIN GABAS,17/27/05/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51639/result_110980_1677675918_thumb.jpg,false
-JIGAWA,YANKWASHI,,ADDANI ABDU PRI. SCH./ ADDANI ABAU,17/27/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51638/result_110979_1677675012_thumb.jpg,false
+JIGAWA,YANKWASHI,GURJIYA,KWARIN KALGO PRI SCH II,17/27/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640408/result_110988_1677677351_thumb.jpg,false
+JIGAWA,YANKWASHI,GURJIYA,DOLE,17/27/05/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51646/result_110987_1677677137_thumb.jpg,false
+JIGAWA,YANKWASHI,GURJIYA,OPEN SPACE/ZUGUM FULANI,17/27/05/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51645/result_110986_1677676920_thumb.jpg,false
+JIGAWA,YANKWASHI,GURJIYA,OPEN SPACE/ SABUWA AREWA,17/27/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51644/result_110985_1677676771_thumb.jpg,false
+JIGAWA,YANKWASHI,GURJIYA,SABUWA KUDU PRI. SCH./SABUWA KUDU,17/27/05/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51643/result_110984_1677676578_thumb.jpg,false
+JIGAWA,YANKWASHI,GURJIYA,OPEN SPACE/KWARIN FULANI,17/27/05/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51642/result_110983_1677676458_thumb.jpg,false
+JIGAWA,YANKWASHI,GURJIYA,KWARIN KALGO PRI. SCH./ KWARIN KALGO,17/27/05/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51641/result_110982_1677676304_thumb.jpg,false
+JIGAWA,YANKWASHI,GURJIYA,JEKA FADA PRI. SCH./ JEKAFADA,17/27/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51640/result_110981_1677676115_thumb.jpg,false
+JIGAWA,YANKWASHI,GURJIYA,OPEN SPACE/ADDANIN GABAS,17/27/05/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51639/result_110980_1677675918_thumb.jpg,false
+JIGAWA,YANKWASHI,GURJIYA,ADDANI ABDU PRI. SCH./ ADDANI ABAU,17/27/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51638/result_110979_1677675012_thumb.jpg,false

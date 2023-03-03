@@ -1,17 +1,17 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,HADEJIA,,DUBANTU/DUBANTU PRI. SCH.  III,17/13/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/49887/49887-1677673569.pdf,true
-JIGAWA,HADEJIA,,WADANA JSS,17/13/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/144686/144686-1677673320.pdf,true
-JIGAWA,HADEJIA,,MAKERAN YAMMA II,17/13/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/144685/144685-1677673178.pdf,true
-JIGAWA,HADEJIA,,DUBANTU GOV SEC SCH/UNGUWAR SARKIN RUWA,17/13/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/144684/144684-1677672956.pdf,true
-JIGAWA,HADEJIA,,DUBANTU PRI. SCH VI,17/13/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/144683/144683-1677672498.pdf,true
-JIGAWA,HADEJIA,,BUHARI PRI. SCH,17/13/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/144682/144682-1677672193.pdf,true
-JIGAWA,HADEJIA,,UNGUWAR SARKIN RUWA,17/13/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/49893/49893-1677671616.pdf,true
-JIGAWA,HADEJIA,,MAKERAN YAMMA,17/13/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/49892/49892-1677670294.pdf,true
-JIGAWA,HADEJIA,,MADAURA/UNGUWAR MAIDU,17/13/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/49891/49891-1677669739.pdf,true
-JIGAWA,HADEJIA,,DUBANTU/YAN SHINKAFA,17/13/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/49890/49890-1677669479.pdf,true
-JIGAWA,HADEJIA,,DUBANTU/DUBANTU PRY SCH V.,17/13/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/49889/49889-1677669165.pdf,true
-JIGAWA,HADEJIA,,DUBANTU/DUBANTU PRI. SCH.  IV,17/13/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/49888/49888-1677668913.pdf,true
-JIGAWA,HADEJIA,,DUBANTU/DUBANTU PRI. SCH.  II,17/13/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/49886/49886-1677668474.pdf,true
-JIGAWA,HADEJIA,,DUBANTU/DUBANTU PRI. SCH.  I,17/13/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/49885/49885-1677668182.pdf,true
-JIGAWA,HADEJIA,,AGUMAU/KOFAR ALH. DANYARO,17/13/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/49884/49884-1677667923.pdf,true
-JIGAWA,HADEJIA,,AGUMAU,17/13/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/49883/49883-1677667620.pdf,true
+JIGAWA,HADEJIA,DUBANTU,DUBANTU/DUBANTU PRI. SCH.  III,17/13/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/49887/49887-1677673569.pdf,true
+JIGAWA,HADEJIA,DUBANTU,WADANA JSS,17/13/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/144686/144686-1677673320.pdf,true
+JIGAWA,HADEJIA,DUBANTU,MAKERAN YAMMA II,17/13/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/144685/144685-1677673178.pdf,true
+JIGAWA,HADEJIA,DUBANTU,DUBANTU GOV SEC SCH/UNGUWAR SARKIN RUWA,17/13/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/144684/144684-1677672956.pdf,true
+JIGAWA,HADEJIA,DUBANTU,DUBANTU PRI. SCH VI,17/13/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/144683/144683-1677672498.pdf,true
+JIGAWA,HADEJIA,DUBANTU,BUHARI PRI. SCH,17/13/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/144682/144682-1677672193.pdf,true
+JIGAWA,HADEJIA,DUBANTU,UNGUWAR SARKIN RUWA,17/13/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/49893/49893-1677671616.pdf,true
+JIGAWA,HADEJIA,DUBANTU,MAKERAN YAMMA,17/13/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/49892/49892-1677670294.pdf,true
+JIGAWA,HADEJIA,DUBANTU,MADAURA/UNGUWAR MAIDU,17/13/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/49891/49891-1677669739.pdf,true
+JIGAWA,HADEJIA,DUBANTU,DUBANTU/YAN SHINKAFA,17/13/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/49890/49890-1677669479.pdf,true
+JIGAWA,HADEJIA,DUBANTU,DUBANTU/DUBANTU PRY SCH V.,17/13/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/49889/49889-1677669165.pdf,true
+JIGAWA,HADEJIA,DUBANTU,DUBANTU/DUBANTU PRI. SCH.  IV,17/13/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/49888/49888-1677668913.pdf,true
+JIGAWA,HADEJIA,DUBANTU,DUBANTU/DUBANTU PRI. SCH.  II,17/13/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/49886/49886-1677668474.pdf,true
+JIGAWA,HADEJIA,DUBANTU,DUBANTU/DUBANTU PRI. SCH.  I,17/13/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/49885/49885-1677668182.pdf,true
+JIGAWA,HADEJIA,DUBANTU,AGUMAU/KOFAR ALH. DANYARO,17/13/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/49884/49884-1677667923.pdf,true
+JIGAWA,HADEJIA,DUBANTU,AGUMAU,17/13/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21369/pu/49883/49883-1677667620.pdf,true

@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,KAUGAMA,,JSS KANTAMARI,17/16/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/012/012-1677426466.pdf,false
-JIGAWA,KAUGAMA,,DODORIN M. ABDU SISPENSARY,17/16/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/011/011-1677424884.pdf,false
-JIGAWA,KAUGAMA,,DALARIN LUNGU PRI. SCH.,17/16/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/010/010-1677423083.pdf,false
-JIGAWA,KAUGAMA,,S/G/KANKANBA PRI. SCH.  S/G/KANKANBA,17/16/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/009/009-1677422146.pdf,false
-JIGAWA,KAUGAMA,,KANJUWA GARI - KANJUWA,17/16/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/008/008-1677421443.pdf,false
-JIGAWA,KAUGAMA,,MATARAR IDI GARI - MATARAR IDI,17/16/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/007/007-1677420881.pdf,false
-JIGAWA,KAUGAMA,,KANTAMARI PRI. SCH. KANTAMARI,17/16/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/006/006-1677420189.pdf,false
-JIGAWA,KAUGAMA,,"DALARIN PRY SCH, DALARIN",17/16/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/005/005-1677419499.pdf,false
-JIGAWA,KAUGAMA,,DODARIN M.ABDU PRI. SCH DODARIN M.A,17/16/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/004/004-1677418853.pdf,false
-JIGAWA,KAUGAMA,,KANDALARI PRI. SCH. KANDALARI,17/16/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/003/003-1677412712.pdf,false
-JIGAWA,KAUGAMA,,ARBUS PRI. SCH. ARBUS,17/16/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/001/001-1677407750.pdf,false
-JIGAWA,KAUGAMA,,RANGYANA PRI. SCH. RANGYANA,17/16/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/002/002-1677406689.pdf,false
+JIGAWA,KAUGAMA,ARBUS,JSS KANTAMARI,17/16/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/012/012-1677426466.pdf,false
+JIGAWA,KAUGAMA,ARBUS,DODORIN M. ABDU SISPENSARY,17/16/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/011/011-1677424884.pdf,false
+JIGAWA,KAUGAMA,ARBUS,DALARIN LUNGU PRI. SCH.,17/16/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/010/010-1677423083.pdf,false
+JIGAWA,KAUGAMA,ARBUS,S/G/KANKANBA PRI. SCH.  S/G/KANKANBA,17/16/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/009/009-1677422146.pdf,false
+JIGAWA,KAUGAMA,ARBUS,KANJUWA GARI - KANJUWA,17/16/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/008/008-1677421443.pdf,false
+JIGAWA,KAUGAMA,ARBUS,MATARAR IDI GARI - MATARAR IDI,17/16/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/007/007-1677420881.pdf,false
+JIGAWA,KAUGAMA,ARBUS,KANTAMARI PRI. SCH. KANTAMARI,17/16/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/006/006-1677420189.pdf,false
+JIGAWA,KAUGAMA,ARBUS,"DALARIN PRY SCH, DALARIN",17/16/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/005/005-1677419499.pdf,false
+JIGAWA,KAUGAMA,ARBUS,DODARIN M.ABDU PRI. SCH DODARIN M.A,17/16/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/004/004-1677418853.pdf,false
+JIGAWA,KAUGAMA,ARBUS,KANDALARI PRI. SCH. KANDALARI,17/16/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/003/003-1677412712.pdf,false
+JIGAWA,KAUGAMA,ARBUS,ARBUS PRI. SCH. ARBUS,17/16/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/001/001-1677407750.pdf,false
+JIGAWA,KAUGAMA,ARBUS,RANGYANA PRI. SCH. RANGYANA,17/16/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/002/002-1677406689.pdf,false

@@ -26,6 +26,7 @@
     "pu_code_string": "171902016",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "ANDAZA",
     "document": {
       "external": true,
       "status": 1,
@@ -113,6 +114,7 @@
     "pu_code_string": "171902007",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "ANDAZA",
     "document": {
       "external": true,
       "status": 1,
@@ -160,6 +162,7 @@
     "pu_code_string": "171902006",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "ANDAZA",
     "document": {
       "external": true,
       "status": 1,
@@ -198,6 +201,7 @@
     "pu_code_string": "171902004",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "ANDAZA",
     "document": {
       "external": true,
       "status": 1,
@@ -245,6 +249,7 @@
     "pu_code_string": "171902001",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "ANDAZA",
     "document": {
       "external": true,
       "status": 1,
@@ -292,6 +297,7 @@
     "pu_code_string": "171902011",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "ANDAZA",
     "document": {
       "external": true,
       "status": 1,
@@ -339,6 +345,7 @@
     "pu_code_string": "171902014",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "ANDAZA",
     "document": {
       "external": true,
       "status": 1,
@@ -394,6 +401,7 @@
     "pu_code_string": "171902008",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "ANDAZA",
     "document": {
       "external": true,
       "status": 1,
@@ -449,6 +457,7 @@
     "pu_code_string": "171902012",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "ANDAZA",
     "document": {
       "external": true,
       "status": 1,
@@ -496,6 +505,7 @@
     "pu_code_string": "171902013",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "ANDAZA",
     "document": {
       "external": true,
       "status": 1,
@@ -551,6 +561,7 @@
     "pu_code_string": "171902010",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "ANDAZA",
     "document": {
       "external": true,
       "status": 1,
@@ -606,6 +617,7 @@
     "pu_code_string": "171902009",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "ANDAZA",
     "document": {
       "external": true,
       "status": 1,
@@ -653,6 +665,7 @@
     "pu_code_string": "171902002",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "ANDAZA",
     "document": {
       "external": true,
       "status": 1,
@@ -700,6 +713,7 @@
     "pu_code_string": "171902015",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "ANDAZA",
     "document": {
       "external": true,
       "status": 1,
@@ -755,6 +769,7 @@
     "pu_code_string": "171902003",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "ANDAZA",
     "document": {
       "external": true,
       "status": 1,
@@ -810,6 +825,7 @@
     "pu_code_string": "171902005",
     "state_name": "JIGAWA",
     "lga_name": "KIYAWA",
+    "ward_name": "ANDAZA",
     "old_documents": [],
     "has_old_documents": false
   }

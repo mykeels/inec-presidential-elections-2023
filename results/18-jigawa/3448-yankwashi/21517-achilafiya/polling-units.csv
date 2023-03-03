@@ -1,11 +1,11 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,YANKWASHI,,BAKIN DANDALI ISLAMIYA BANDAWA,17/27/01/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640404/result_110957_1677667844_thumb.jpg,false
-JIGAWA,YANKWASHI,,KANTUDU GABAS/ISLAMIYA,17/27/01/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640403/result_110956_1677667586_thumb.jpg,false
-JIGAWA,YANKWASHI,,UNGUWAR TUDU,17/27/01/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51620/result_110955_1677667304_thumb.jpg,false
-JIGAWA,YANKWASHI,,OPEN/KWARARE,17/27/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51619/result_110954_1677666797_thumb.jpg,false
-JIGAWA,YANKWASHI,,DURBE PRI. SCH./DURBE,17/27/01/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51618/result_110953_1677666564_thumb.jpg,false
-JIGAWA,YANKWASHI,,OPEN SPACE/DUMNA,17/27/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51617/result_110952_1677666380_thumb.jpg,false
-JIGAWA,YANKWASHI,,OPEN SPACE/DARARE,17/27/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-JIGAWA,YANKWASHI,,BURJI PRIMARY SCHOOL / BURJI,17/27/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51615/result_110950_1677666088_thumb.jpg,false
-JIGAWA,YANKWASHI,,BANDAWA PRI. SCH./ BANDAWA,17/27/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51614/result_110949_1677665972_thumb.jpg,false
-JIGAWA,YANKWASHI,,DISPENSARY/ACHILAFIYA,17/27/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51613/result_110948_1677665401_thumb.jpg,false
+JIGAWA,YANKWASHI,ACHILAFIYA,BAKIN DANDALI ISLAMIYA BANDAWA,17/27/01/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640404/result_110957_1677667844_thumb.jpg,false
+JIGAWA,YANKWASHI,ACHILAFIYA,KANTUDU GABAS/ISLAMIYA,17/27/01/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640403/result_110956_1677667586_thumb.jpg,false
+JIGAWA,YANKWASHI,ACHILAFIYA,UNGUWAR TUDU,17/27/01/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51620/result_110955_1677667304_thumb.jpg,false
+JIGAWA,YANKWASHI,ACHILAFIYA,OPEN/KWARARE,17/27/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51619/result_110954_1677666797_thumb.jpg,false
+JIGAWA,YANKWASHI,ACHILAFIYA,DURBE PRI. SCH./DURBE,17/27/01/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51618/result_110953_1677666564_thumb.jpg,false
+JIGAWA,YANKWASHI,ACHILAFIYA,OPEN SPACE/DUMNA,17/27/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51617/result_110952_1677666380_thumb.jpg,false
+JIGAWA,YANKWASHI,ACHILAFIYA,OPEN SPACE/DARARE,17/27/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+JIGAWA,YANKWASHI,ACHILAFIYA,BURJI PRIMARY SCHOOL / BURJI,17/27/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51615/result_110950_1677666088_thumb.jpg,false
+JIGAWA,YANKWASHI,ACHILAFIYA,BANDAWA PRI. SCH./ BANDAWA,17/27/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51614/result_110949_1677665972_thumb.jpg,false
+JIGAWA,YANKWASHI,ACHILAFIYA,DISPENSARY/ACHILAFIYA,17/27/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51613/result_110948_1677665401_thumb.jpg,false

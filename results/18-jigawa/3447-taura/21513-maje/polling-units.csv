@@ -1,16 +1,16 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,TAURA,,BARNAWA NORMADIC/ PRIMARY SCHOOL,17/26/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/07/pu/014/014-1677417372.pdf,false
-JIGAWA,TAURA,,VILLAGE HEAD GROUND /ZANGOMA,17/26/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/07/pu/003/003-1677416483.pdf,false
-JIGAWA,TAURA,,MAJE GABAS /PRIMARY SCHOOL II,17/26/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/07/pu/002/002-1677414775.pdf,false
-JIGAWA,TAURA,,YANGAYAMI /PRIMARY SCHOOL I,17/26/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/07/pu/008/008-1677414632.pdf,false
-JIGAWA,TAURA,,ZANGON MAJE /PRIMARY SCHOOL III,17/26/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/07/pu/015/015-1677411188.pdf,false
-JIGAWA,TAURA,,GIDAN - NARUWA /PRIMARY SCHOOL II,17/26/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/07/pu/012/012-1677410646.pdf,false
-JIGAWA,TAURA,,YANGAYAMI /PRIMARY SCHOOL II,17/26/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/07/pu/009/009-1677410640.pdf,false
-JIGAWA,TAURA,,TSADAWA /PRIMARY SCHOOL I,17/26/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/07/pu/010/010-1677409566.pdf,false
-JIGAWA,TAURA,,VILLAGE HEAD GROUND /ATIYAYE,17/26/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/07/pu/007/007-1677406336.pdf,false
-JIGAWA,TAURA,,ZANGON MAJE/PRIMARY SCHOOL II,17/26/07/005,,false
-JIGAWA,TAURA,,TSADAWA /PRIMARY SCHOOL II,17/26/07/013,,false
-JIGAWA,TAURA,,MAJE GABAS /PRIMARY SCHOOL I,17/26/07/001,,false
-JIGAWA,TAURA,,VILLAGE HEAD GROUND TSUWA,17/26/07/006,,false
-JIGAWA,TAURA,,GIDAN - NARUWA /PRIMARY SCHOOL I,17/26/07/011,,false
-JIGAWA,TAURA,,ZANGON MAJE /PRIMARY SCHOOL I,17/26/07/004,,false
+JIGAWA,TAURA,MAJE,BARNAWA NORMADIC/ PRIMARY SCHOOL,17/26/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/07/pu/014/014-1677417372.pdf,false
+JIGAWA,TAURA,MAJE,VILLAGE HEAD GROUND /ZANGOMA,17/26/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/07/pu/003/003-1677416483.pdf,false
+JIGAWA,TAURA,MAJE,MAJE GABAS /PRIMARY SCHOOL II,17/26/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/07/pu/002/002-1677414775.pdf,false
+JIGAWA,TAURA,MAJE,YANGAYAMI /PRIMARY SCHOOL I,17/26/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/07/pu/008/008-1677414632.pdf,false
+JIGAWA,TAURA,MAJE,ZANGON MAJE /PRIMARY SCHOOL III,17/26/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/07/pu/015/015-1677411188.pdf,false
+JIGAWA,TAURA,MAJE,GIDAN - NARUWA /PRIMARY SCHOOL II,17/26/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/07/pu/012/012-1677410646.pdf,false
+JIGAWA,TAURA,MAJE,YANGAYAMI /PRIMARY SCHOOL II,17/26/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/07/pu/009/009-1677410640.pdf,false
+JIGAWA,TAURA,MAJE,TSADAWA /PRIMARY SCHOOL I,17/26/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/07/pu/010/010-1677409566.pdf,false
+JIGAWA,TAURA,MAJE,VILLAGE HEAD GROUND /ATIYAYE,17/26/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/07/pu/007/007-1677406336.pdf,false
+JIGAWA,TAURA,MAJE,ZANGON MAJE/PRIMARY SCHOOL II,17/26/07/005,,false
+JIGAWA,TAURA,MAJE,TSADAWA /PRIMARY SCHOOL II,17/26/07/013,,false
+JIGAWA,TAURA,MAJE,MAJE GABAS /PRIMARY SCHOOL I,17/26/07/001,,false
+JIGAWA,TAURA,MAJE,VILLAGE HEAD GROUND TSUWA,17/26/07/006,,false
+JIGAWA,TAURA,MAJE,GIDAN - NARUWA /PRIMARY SCHOOL I,17/26/07/011,,false
+JIGAWA,TAURA,MAJE,ZANGON MAJE /PRIMARY SCHOOL I,17/26/07/004,,false

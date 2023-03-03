@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,GARKI,,DANBAKO PRI. SCH./DANBAKO,17/07/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49198/result_107859_1677591146_thumb.jpg,false
-JIGAWA,GARKI,,DANBARAGE PRI. SCH./DANBARAGE  II,17/07/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49195/result_107856_1677591629_thumb.jpg,false
-JIGAWA,GARKI,,RAFIN MARKE PRI. SCH./RAFIN MARKE,17/07/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49192/result_107853_1677588338_thumb.jpg,false
-JIGAWA,GARKI,,WAUTAR JA'E/WAUTAR JA'E,17/07/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49201/result_107862_1677566505_thumb.jpg,false
-JIGAWA,GARKI,,JANGARI PRI. SCH./JANGARI,17/07/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49197/result_107858_1677564806_thumb.jpg,false
-JIGAWA,GARKI,,PHC RAFIN MARKE,17/07/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639806/result_107864_1677564333_thumb.jpg,false
-JIGAWA,GARKI,,FADI KABARI/FADI KABARI,17/07/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/10/pu/009/009-1677409732.pdf,false
-JIGAWA,GARKI,,UFALA FULANI POLLING HEAD AT U/FULANI,17/07/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/10/pu/011/011-1677402952.pdf,false
-JIGAWA,GARKI,,DANBARAGE PRI. SCH./DANBARAGE  I,17/07/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/10/pu/003/003-1677399421.pdf,false
-JIGAWA,GARKI,,DUNGUZU PRI. SCH./DUNGUZU,17/07/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/10/pu/005/005-1677398526.pdf,false
-JIGAWA,GARKI,,KUKAR MIKIYA PRI. SCH./KUKAR MIKIYA,17/07/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/10/pu/002/002-1677396178.pdf,false
-JIGAWA,GARKI,,TAGWAYE PRI. SCH./TAGWAYE,17/07/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/10/pu/008/008-1677394065.pdf,false
+JIGAWA,GARKI,RAFIN MARKE,DANBAKO PRI. SCH./DANBAKO,17/07/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49198/result_107859_1677591146_thumb.jpg,false
+JIGAWA,GARKI,RAFIN MARKE,DANBARAGE PRI. SCH./DANBARAGE  II,17/07/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49195/result_107856_1677591629_thumb.jpg,false
+JIGAWA,GARKI,RAFIN MARKE,RAFIN MARKE PRI. SCH./RAFIN MARKE,17/07/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49192/result_107853_1677588338_thumb.jpg,false
+JIGAWA,GARKI,RAFIN MARKE,WAUTAR JA'E/WAUTAR JA'E,17/07/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49201/result_107862_1677566505_thumb.jpg,false
+JIGAWA,GARKI,RAFIN MARKE,JANGARI PRI. SCH./JANGARI,17/07/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49197/result_107858_1677564806_thumb.jpg,false
+JIGAWA,GARKI,RAFIN MARKE,PHC RAFIN MARKE,17/07/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639806/result_107864_1677564333_thumb.jpg,false
+JIGAWA,GARKI,RAFIN MARKE,FADI KABARI/FADI KABARI,17/07/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/10/pu/009/009-1677409732.pdf,false
+JIGAWA,GARKI,RAFIN MARKE,UFALA FULANI POLLING HEAD AT U/FULANI,17/07/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/10/pu/011/011-1677402952.pdf,false
+JIGAWA,GARKI,RAFIN MARKE,DANBARAGE PRI. SCH./DANBARAGE  I,17/07/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/10/pu/003/003-1677399421.pdf,false
+JIGAWA,GARKI,RAFIN MARKE,DUNGUZU PRI. SCH./DUNGUZU,17/07/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/10/pu/005/005-1677398526.pdf,false
+JIGAWA,GARKI,RAFIN MARKE,KUKAR MIKIYA PRI. SCH./KUKAR MIKIYA,17/07/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/10/pu/002/002-1677396178.pdf,false
+JIGAWA,GARKI,RAFIN MARKE,TAGWAYE PRI. SCH./TAGWAYE,17/07/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/10/pu/008/008-1677394065.pdf,false

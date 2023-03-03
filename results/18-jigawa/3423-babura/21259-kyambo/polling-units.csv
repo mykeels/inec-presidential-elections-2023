@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,BABURA,,SHANTAKE/SHANTAKE,17/02/10/005,https://docs.inecelectionresults.net/elections/1292/1677737964-48494.pdf,true
-JIGAWA,BABURA,,SHANTAKE II,17/02/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/010/010-1677428511.pdf,false
-JIGAWA,BABURA,,DANHALILI/DANHALILI,17/02/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/001/001-1677427550.pdf,false
-JIGAWA,BABURA,,LAMINTANI II,17/02/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/011/011-1677425919.pdf,false
-JIGAWA,BABURA,,KYAMBO GARI  II,17/02/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/009/009-1677425134.pdf,false
-JIGAWA,BABURA,,DANHALILI    II,17/02/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/007/007-1677423728.pdf,false
-JIGAWA,BABURA,,DUZAU PRI. SCH/DUZAU,17/02/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/002/002-1677423404.pdf,false
-JIGAWA,BABURA,,GATUTA/GATUTA,17/02/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/003/003-1677422893.pdf,false
-JIGAWA,BABURA,,LAMINTANI PRI. SCH./ LAMIN TANI,17/02/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/006/006-1677422417.pdf,false
-JIGAWA,BABURA,,KYAMBO GARI/KYAMBO,17/02/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/004/004-1677421687.pdf,false
-JIGAWA,BABURA,,DUZAU PRI. SCHOOL  II,17/02/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/008/008-1677420408.pdf,false
+JIGAWA,BABURA,KYAMBO,SHANTAKE/SHANTAKE,17/02/10/005,https://docs.inecelectionresults.net/elections/1292/1677737964-48494.pdf,true
+JIGAWA,BABURA,KYAMBO,SHANTAKE II,17/02/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/010/010-1677428511.pdf,false
+JIGAWA,BABURA,KYAMBO,DANHALILI/DANHALILI,17/02/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/001/001-1677427550.pdf,false
+JIGAWA,BABURA,KYAMBO,LAMINTANI II,17/02/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/011/011-1677425919.pdf,false
+JIGAWA,BABURA,KYAMBO,KYAMBO GARI  II,17/02/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/009/009-1677425134.pdf,false
+JIGAWA,BABURA,KYAMBO,DANHALILI    II,17/02/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/007/007-1677423728.pdf,false
+JIGAWA,BABURA,KYAMBO,DUZAU PRI. SCH/DUZAU,17/02/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/002/002-1677423404.pdf,false
+JIGAWA,BABURA,KYAMBO,GATUTA/GATUTA,17/02/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/003/003-1677422893.pdf,false
+JIGAWA,BABURA,KYAMBO,LAMINTANI PRI. SCH./ LAMIN TANI,17/02/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/006/006-1677422417.pdf,false
+JIGAWA,BABURA,KYAMBO,KYAMBO GARI/KYAMBO,17/02/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/004/004-1677421687.pdf,false
+JIGAWA,BABURA,KYAMBO,DUZAU PRI. SCHOOL  II,17/02/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/008/008-1677420408.pdf,false

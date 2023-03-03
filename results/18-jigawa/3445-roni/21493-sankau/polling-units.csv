@@ -1,11 +1,11 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,RONI,,MAJE/FAIFAIKU,17/24/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/08/pu/009/009-1677410858.pdf,false
-JIGAWA,RONI,,SANKAU G. MAIUNGUWA/SANKAU,17/24/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/08/pu/007/007-1677408127.pdf,false
-JIGAWA,RONI,,KWATSATSA DANDALI/KWATSATSA,17/24/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/08/pu/006/006-1677407791.pdf,false
-JIGAWA,RONI,,JATAKA CIKIN GARI/JATAKA,17/24/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/08/pu/004/004-1677406903.pdf,false
-JIGAWA,RONI,,KUDU PRI. SCH./ KOFAR-KUDU,17/24/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/08/pu/005/005-1677406516.pdf,false
-JIGAWA,RONI,,DANDALI CIKIN GARI/DANDALI,17/24/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/08/pu/002/002-1677406326.pdf,false
-JIGAWA,RONI,,BALLE DANDALI/BALLE,17/24/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/08/pu/001/001-1677405760.pdf,false
-JIGAWA,RONI,,FAIFAIKU CIKIN GARI/FAIFAIKU,17/24/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/08/pu/003/003-1677405666.pdf,false
-JIGAWA,RONI,,DANDALI CIKIN GARI/DANDALI II,17/24/08/010,,false
-JIGAWA,RONI,,GIDAN MAIUNGUWA/RUWAN DUTSE,17/24/08/008,,false
+JIGAWA,RONI,SANKAU,MAJE/FAIFAIKU,17/24/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/08/pu/009/009-1677410858.pdf,false
+JIGAWA,RONI,SANKAU,SANKAU G. MAIUNGUWA/SANKAU,17/24/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/08/pu/007/007-1677408127.pdf,false
+JIGAWA,RONI,SANKAU,KWATSATSA DANDALI/KWATSATSA,17/24/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/08/pu/006/006-1677407791.pdf,false
+JIGAWA,RONI,SANKAU,JATAKA CIKIN GARI/JATAKA,17/24/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/08/pu/004/004-1677406903.pdf,false
+JIGAWA,RONI,SANKAU,KUDU PRI. SCH./ KOFAR-KUDU,17/24/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/08/pu/005/005-1677406516.pdf,false
+JIGAWA,RONI,SANKAU,DANDALI CIKIN GARI/DANDALI,17/24/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/08/pu/002/002-1677406326.pdf,false
+JIGAWA,RONI,SANKAU,BALLE DANDALI/BALLE,17/24/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/08/pu/001/001-1677405760.pdf,false
+JIGAWA,RONI,SANKAU,FAIFAIKU CIKIN GARI/FAIFAIKU,17/24/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/08/pu/003/003-1677405666.pdf,false
+JIGAWA,RONI,SANKAU,DANDALI CIKIN GARI/DANDALI II,17/24/08/010,,false
+JIGAWA,RONI,SANKAU,GIDAN MAIUNGUWA/RUWAN DUTSE,17/24/08/008,,false

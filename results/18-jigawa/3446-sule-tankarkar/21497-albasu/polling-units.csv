@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,SULE-TANKARKAR,,ALBASU PRI. SCH. ALBASU I,17/25/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/001/001-1677402285.pdf,false
-JIGAWA,SULE-TANKARKAR,,ALBASU PRI. SCH. ALBASU II,17/25/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/002/002-1677401071.pdf,false
-JIGAWA,SULE-TANKARKAR,,ALBASU PRI. SCH. ALBASU IV,17/25/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/011/011-1677400642.pdf,false
-JIGAWA,SULE-TANKARKAR,,"KIRGI PRY SCH, KIRGI",17/25/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/009/009-1677399996.pdf,false
-JIGAWA,SULE-TANKARKAR,,RAKUMI PRI. SCH. RAKUMI,17/25/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/008/008-1677399987.pdf,false
-JIGAWA,SULE-TANKARKAR,,ALBASU PRI. SCH. ALBASU III,17/25/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/010/010-1677399653.pdf,false
-JIGAWA,SULE-TANKARKAR,,KIRGI PRI. SCH. KIRGI,17/25/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/006/006-1677399392.pdf,false
-JIGAWA,SULE-TANKARKAR,,T/LAFIYA PRI. SCH. TSAMIYA LAFIYA,17/25/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/005/005-1677397769.pdf,false
-JIGAWA,SULE-TANKARKAR,,MUKU PRI. SCH. MUKU,17/25/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/003/003-1677397737.pdf,false
-JIGAWA,SULE-TANKARKAR,,MUKU PRI. SCH. MUKU II,17/25/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/012/012-1677396820.pdf,false
-JIGAWA,SULE-TANKARKAR,,TAKURE PRI. SCH. TAKURE,17/25/01/004,,false
-JIGAWA,SULE-TANKARKAR,,KARANGI PRI. SCH.  KARANGI,17/25/01/007,,false
+JIGAWA,SULE-TANKARKAR,ALBASU,ALBASU PRI. SCH. ALBASU I,17/25/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/001/001-1677402285.pdf,false
+JIGAWA,SULE-TANKARKAR,ALBASU,ALBASU PRI. SCH. ALBASU II,17/25/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/002/002-1677401071.pdf,false
+JIGAWA,SULE-TANKARKAR,ALBASU,ALBASU PRI. SCH. ALBASU IV,17/25/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/011/011-1677400642.pdf,false
+JIGAWA,SULE-TANKARKAR,ALBASU,"KIRGI PRY SCH, KIRGI",17/25/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/009/009-1677399996.pdf,false
+JIGAWA,SULE-TANKARKAR,ALBASU,RAKUMI PRI. SCH. RAKUMI,17/25/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/008/008-1677399987.pdf,false
+JIGAWA,SULE-TANKARKAR,ALBASU,ALBASU PRI. SCH. ALBASU III,17/25/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/010/010-1677399653.pdf,false
+JIGAWA,SULE-TANKARKAR,ALBASU,KIRGI PRI. SCH. KIRGI,17/25/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/006/006-1677399392.pdf,false
+JIGAWA,SULE-TANKARKAR,ALBASU,T/LAFIYA PRI. SCH. TSAMIYA LAFIYA,17/25/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/005/005-1677397769.pdf,false
+JIGAWA,SULE-TANKARKAR,ALBASU,MUKU PRI. SCH. MUKU,17/25/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/003/003-1677397737.pdf,false
+JIGAWA,SULE-TANKARKAR,ALBASU,MUKU PRI. SCH. MUKU II,17/25/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/012/012-1677396820.pdf,false
+JIGAWA,SULE-TANKARKAR,ALBASU,TAKURE PRI. SCH. TAKURE,17/25/01/004,,false
+JIGAWA,SULE-TANKARKAR,ALBASU,KARANGI PRI. SCH.  KARANGI,17/25/01/007,,false

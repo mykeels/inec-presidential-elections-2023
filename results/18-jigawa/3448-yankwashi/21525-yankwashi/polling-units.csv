@@ -1,8 +1,8 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,YANKWASHI,,HEALTH POST ZOTO,17/27/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-JIGAWA,YANKWASHI,,YANKWASHI PRI SCH II,17/27/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640419/result_111018_1677683875_thumb.jpg,false
-JIGAWA,YANKWASHI,,YANKWASHI PRI SCH I,17/27/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640418/result_111017_1677683304_thumb.jpg,false
-JIGAWA,YANKWASHI,,ZOTO FULANI,17/27/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51666/result_111016_1677683054_thumb.jpg,false
-JIGAWA,YANKWASHI,,OPEN SPACE/ZOTO,17/27/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51665/result_111015_1677682692_thumb.jpg,false
-JIGAWA,YANKWASHI,,YANKWASHI /PRIMARY  SCHOOL,17/27/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51664/result_111014_1677682467_thumb.jpg,false
-JIGAWA,YANKWASHI,,JAMA'AR MAL. HASSAN /PRIMARY  SCHOOL,17/27/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51663/result_111013_1677682172_thumb.jpg,false
+JIGAWA,YANKWASHI,YANKWASHI,HEALTH POST ZOTO,17/27/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+JIGAWA,YANKWASHI,YANKWASHI,YANKWASHI PRI SCH II,17/27/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640419/result_111018_1677683875_thumb.jpg,false
+JIGAWA,YANKWASHI,YANKWASHI,YANKWASHI PRI SCH I,17/27/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640418/result_111017_1677683304_thumb.jpg,false
+JIGAWA,YANKWASHI,YANKWASHI,ZOTO FULANI,17/27/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51666/result_111016_1677683054_thumb.jpg,false
+JIGAWA,YANKWASHI,YANKWASHI,OPEN SPACE/ZOTO,17/27/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51665/result_111015_1677682692_thumb.jpg,false
+JIGAWA,YANKWASHI,YANKWASHI,YANKWASHI /PRIMARY  SCHOOL,17/27/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51664/result_111014_1677682467_thumb.jpg,false
+JIGAWA,YANKWASHI,YANKWASHI,JAMA'AR MAL. HASSAN /PRIMARY  SCHOOL,17/27/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51663/result_111013_1677682172_thumb.jpg,false

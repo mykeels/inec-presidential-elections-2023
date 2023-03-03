@@ -1,20 +1,20 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,BABURA,,FADIBARA PRI. SCH. / FADIBARA,17/02/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48384/result_106814_1677603488_thumb.jpg,false
-JIGAWA,BABURA,,UNG. DINYA / UNG. DINYA,17/02/09/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48396/result_106826_1677603284_thumb.jpg,false
-JIGAWA,BABURA,,MIDIRI/MIDIRIN KANAWA,17/02/09/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-JIGAWA,BABURA,,KARFAWA GARI/ KARFAWA,17/02/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48388/result_106818_1677602449_thumb.jpg,false
-JIGAWA,BABURA,,SARKIN BAKA PRI. SCH. /SARKIN BAKA,17/02/09/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48392/result_106822_1677602118_thumb.jpg,false
-JIGAWA,BABURA,,GUJUGURUN KANAWA/GUJUGURUN KANAWA,17/02/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-JIGAWA,BABURA,,BURUKUM FULANI/BURUKUM FULANI,17/02/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48380/result_106810_1677601311_thumb.jpg,false
-JIGAWA,BABURA,,KOGGA/KOGGA,17/02/09/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48389/result_106819_1677600995_thumb.jpg,false
-JIGAWA,BABURA,,CHIKAKOSHI/CHIKAKOSHI,17/02/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48382/result_106812_1677600804_thumb.jpg,false
-JIGAWA,BABURA,,GUJUGURUN FULANI/GUJUGURUN FULANI,17/02/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48385/result_106815_1677600623_thumb.jpg,false
-JIGAWA,BABURA,,SHASHATU /SHASHATU,17/02/09/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-JIGAWA,BABURA,,KUZUNZUMI PRI. SCH./KUZUNZUMI,17/02/09/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48390/result_106820_1677600480_thumb.jpg,false
-JIGAWA,BABURA,,ADUGUL/ADUGUL,17/02/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48379/result_106809_1677600039_thumb.jpg,false
-JIGAWA,BABURA,,JIKANKANAWA/JIKANKANAWA,17/02/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48387/result_106817_1677599789_thumb.jpg,false
-JIGAWA,BABURA,,DANKARDA/DANKARDA,17/02/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48383/result_106813_1677599491_thumb.jpg,false
-JIGAWA,BABURA,,BURUKUM GARI/BURUKUM GARII,17/02/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48381/result_106811_1677599296_thumb.jpg,false
-JIGAWA,BABURA,,KYANKYARO PRI. SCH/ KYANKYARO,17/02/09/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48394/result_106824_1677599203_thumb.jpg,false
-JIGAWA,BABURA,,TIMBAU FULANI/ TIMBAU,17/02/09/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48395/result_106825_1677599019_thumb.jpg,false
-JIGAWA,BABURA,,KUZUNZUMI PRI SCH II,17/02/09/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+JIGAWA,BABURA,KUZUNZUMI,FADIBARA PRI. SCH. / FADIBARA,17/02/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48384/result_106814_1677603488_thumb.jpg,false
+JIGAWA,BABURA,KUZUNZUMI,UNG. DINYA / UNG. DINYA,17/02/09/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48396/result_106826_1677603284_thumb.jpg,false
+JIGAWA,BABURA,KUZUNZUMI,MIDIRI/MIDIRIN KANAWA,17/02/09/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+JIGAWA,BABURA,KUZUNZUMI,KARFAWA GARI/ KARFAWA,17/02/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48388/result_106818_1677602449_thumb.jpg,false
+JIGAWA,BABURA,KUZUNZUMI,SARKIN BAKA PRI. SCH. /SARKIN BAKA,17/02/09/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48392/result_106822_1677602118_thumb.jpg,false
+JIGAWA,BABURA,KUZUNZUMI,GUJUGURUN KANAWA/GUJUGURUN KANAWA,17/02/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+JIGAWA,BABURA,KUZUNZUMI,BURUKUM FULANI/BURUKUM FULANI,17/02/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48380/result_106810_1677601311_thumb.jpg,false
+JIGAWA,BABURA,KUZUNZUMI,KOGGA/KOGGA,17/02/09/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48389/result_106819_1677600995_thumb.jpg,false
+JIGAWA,BABURA,KUZUNZUMI,CHIKAKOSHI/CHIKAKOSHI,17/02/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48382/result_106812_1677600804_thumb.jpg,false
+JIGAWA,BABURA,KUZUNZUMI,GUJUGURUN FULANI/GUJUGURUN FULANI,17/02/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48385/result_106815_1677600623_thumb.jpg,false
+JIGAWA,BABURA,KUZUNZUMI,SHASHATU /SHASHATU,17/02/09/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+JIGAWA,BABURA,KUZUNZUMI,KUZUNZUMI PRI. SCH./KUZUNZUMI,17/02/09/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48390/result_106820_1677600480_thumb.jpg,false
+JIGAWA,BABURA,KUZUNZUMI,ADUGUL/ADUGUL,17/02/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48379/result_106809_1677600039_thumb.jpg,false
+JIGAWA,BABURA,KUZUNZUMI,JIKANKANAWA/JIKANKANAWA,17/02/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48387/result_106817_1677599789_thumb.jpg,false
+JIGAWA,BABURA,KUZUNZUMI,DANKARDA/DANKARDA,17/02/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48383/result_106813_1677599491_thumb.jpg,false
+JIGAWA,BABURA,KUZUNZUMI,BURUKUM GARI/BURUKUM GARII,17/02/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48381/result_106811_1677599296_thumb.jpg,false
+JIGAWA,BABURA,KUZUNZUMI,KYANKYARO PRI. SCH/ KYANKYARO,17/02/09/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48394/result_106824_1677599203_thumb.jpg,false
+JIGAWA,BABURA,KUZUNZUMI,TIMBAU FULANI/ TIMBAU,17/02/09/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48395/result_106825_1677599019_thumb.jpg,false
+JIGAWA,BABURA,KUZUNZUMI,KUZUNZUMI PRI SCH II,17/02/09/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false

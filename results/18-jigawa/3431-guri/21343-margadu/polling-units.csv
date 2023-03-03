@@ -1,6 +1,6 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,GURI,,YOLA MARGADU,17/10/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3431/ward/21343/pu/49530/49530-1677604448.pdf,true
-JIGAWA,GURI,,TUKUIKUI,17/10/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/08/pu/004/004-1677406377.pdf,false
-JIGAWA,GURI,,MARGADU  DABA    MARGADU DAWA,17/10/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/08/pu/003/003-1677404214.pdf,false
-JIGAWA,GURI,,MARGADU PRI. SCH. MARGADU  I,17/10/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/08/pu/001/001-1677402926.pdf,false
-JIGAWA,GURI,,MARGADU PRI. SCH. MARGADU  II,17/10/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/08/pu/002/002-1677400901.pdf,false
+JIGAWA,GURI,MARGADU,YOLA MARGADU,17/10/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3431/ward/21343/pu/49530/49530-1677604448.pdf,true
+JIGAWA,GURI,MARGADU,TUKUIKUI,17/10/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/08/pu/004/004-1677406377.pdf,false
+JIGAWA,GURI,MARGADU,MARGADU  DABA    MARGADU DAWA,17/10/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/08/pu/003/003-1677404214.pdf,false
+JIGAWA,GURI,MARGADU,MARGADU PRI. SCH. MARGADU  I,17/10/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/08/pu/001/001-1677402926.pdf,false
+JIGAWA,GURI,MARGADU,MARGADU PRI. SCH. MARGADU  II,17/10/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/08/pu/002/002-1677400901.pdf,false

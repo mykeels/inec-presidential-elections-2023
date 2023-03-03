@@ -1,11 +1,11 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,MALAM MADORI,,TASHENA PRI. SCH. II,17/21/10/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640230/result_110146_1677687687_thumb.jpg,false
-JIGAWA,MALAM MADORI,,KADUME PRI. SCH. II,17/21/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/10/pu/008/008-1677415980.pdf,false
-JIGAWA,MALAM MADORI,,JAMA'ARE QUARTERS/JAMA'ARE QUARTERS,17/21/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/10/pu/007/007-1677415175.pdf,false
-JIGAWA,MALAM MADORI,,GIDAN MAI GARI AZAMU I,17/21/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/10/pu/010/010-1677414433.pdf,false
-JIGAWA,MALAM MADORI,,GIDAN MAIGARI/DOMAWA,17/21/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/10/pu/005/005-1677410541.pdf,false
-JIGAWA,MALAM MADORI,,TASHENA PRI. SCH.,17/21/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/10/pu/003/003-1677410340.pdf,false
-JIGAWA,MALAM MADORI,,GIDAN MAIGARI/AZAMU,17/21/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/10/pu/006/006-1677409457.pdf,false
-JIGAWA,MALAM MADORI,,KADUME PRI. SCH.,17/21/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/10/pu/002/002-1677408552.pdf,false
-JIGAWA,MALAM MADORI,,GIDAN MAIGARI/AGUBU,17/21/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/10/pu/001/001-1677393352.pdf,false
-JIGAWA,MALAM MADORI,,GIDAN MAIGARI/HADIN MAIKAROFI,17/21/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/10/pu/004/004-1677392492.pdf,false
+JIGAWA,MALAM MADORI,TASHENA,TASHENA PRI. SCH. II,17/21/10/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640230/result_110146_1677687687_thumb.jpg,false
+JIGAWA,MALAM MADORI,TASHENA,KADUME PRI. SCH. II,17/21/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/10/pu/008/008-1677415980.pdf,false
+JIGAWA,MALAM MADORI,TASHENA,JAMA'ARE QUARTERS/JAMA'ARE QUARTERS,17/21/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/10/pu/007/007-1677415175.pdf,false
+JIGAWA,MALAM MADORI,TASHENA,GIDAN MAI GARI AZAMU I,17/21/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/10/pu/010/010-1677414433.pdf,false
+JIGAWA,MALAM MADORI,TASHENA,GIDAN MAIGARI/DOMAWA,17/21/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/10/pu/005/005-1677410541.pdf,false
+JIGAWA,MALAM MADORI,TASHENA,TASHENA PRI. SCH.,17/21/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/10/pu/003/003-1677410340.pdf,false
+JIGAWA,MALAM MADORI,TASHENA,GIDAN MAIGARI/AZAMU,17/21/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/10/pu/006/006-1677409457.pdf,false
+JIGAWA,MALAM MADORI,TASHENA,KADUME PRI. SCH.,17/21/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/10/pu/002/002-1677408552.pdf,false
+JIGAWA,MALAM MADORI,TASHENA,GIDAN MAIGARI/AGUBU,17/21/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/10/pu/001/001-1677393352.pdf,false
+JIGAWA,MALAM MADORI,TASHENA,GIDAN MAIGARI/HADIN MAIKAROFI,17/21/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/10/pu/004/004-1677392492.pdf,false

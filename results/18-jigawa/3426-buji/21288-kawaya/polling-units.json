@@ -26,6 +26,7 @@
     "pu_code_string": "170506002",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "KAWAYA",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -57,6 +58,7 @@
     "pu_code_string": "170506016",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "KAWAYA",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -88,6 +90,7 @@
     "pu_code_string": "170506010",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "KAWAYA",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -119,6 +122,7 @@
     "pu_code_string": "170506003",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "KAWAYA",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -150,6 +154,7 @@
     "pu_code_string": "170506006",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "KAWAYA",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -181,6 +186,7 @@
     "pu_code_string": "170506004",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "KAWAYA",
     "document": null,
     "old_documents": [
       {
@@ -221,6 +227,7 @@
     "pu_code_string": "170506005",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "KAWAYA",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -252,6 +259,7 @@
     "pu_code_string": "170506014",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "KAWAYA",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -283,6 +291,7 @@
     "pu_code_string": "170506013",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "KAWAYA",
     "document": null,
     "old_documents": [
       {
@@ -323,6 +332,7 @@
     "pu_code_string": "170506009",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "KAWAYA",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -354,6 +364,7 @@
     "pu_code_string": "170506001",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "KAWAYA",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -385,6 +396,7 @@
     "pu_code_string": "170506015",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "KAWAYA",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -416,6 +428,7 @@
     "pu_code_string": "170506012",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "KAWAYA",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -447,6 +460,7 @@
     "pu_code_string": "170506011",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "KAWAYA",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -478,6 +492,7 @@
     "pu_code_string": "170506007",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "KAWAYA",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -509,6 +524,7 @@
     "pu_code_string": "170506008",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "KAWAYA",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -540,6 +556,7 @@
     "pu_code_string": "170506018",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "KAWAYA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -570,6 +587,7 @@
     "pu_code_string": "170506017",
     "state_name": "JIGAWA",
     "lga_name": "BUJI",
+    "ward_name": "KAWAYA",
     "old_documents": [],
     "has_old_documents": false
   }

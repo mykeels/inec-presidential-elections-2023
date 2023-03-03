@@ -1,43 +1,43 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,BIRNIN KUDU,,SAMAMIYA GANTA,17/03/10/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48619/result_107115_1677798974_thumb.jpg,false
-JIGAWA,BIRNIN KUDU,,TOSORO,17/03/10/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48622/result_107118_1677798608_thumb.jpg,false
-JIGAWA,BIRNIN KUDU,,YOLA KWAYAM,17/03/10/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/48722/48722-1677672324.pdf,false
-JIGAWA,BIRNIN KUDU,,JANGARGARI/ WRECA II,17/03/10/041,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/144372/144372-1677671997.pdf,false
-JIGAWA,BIRNIN KUDU,,GIWA PRI. SCH.  II,17/03/10/042,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/144373/144373-1677671960.pdf,false
-JIGAWA,BIRNIN KUDU,,WURNO FADA/ WURNO ISLAMIYYA  II,17/03/10/035,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/144366/144366-1677671491.pdf,false
-JIGAWA,BIRNIN KUDU,,FI'L FI'L,17/03/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/48708/48708-1677671059.pdf,false
-JIGAWA,BIRNIN KUDU,,"RAHAJI, RAHAJI",17/03/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/48701/48701-1677670512.pdf,false
-JIGAWA,BIRNIN KUDU,,HALILAWA/ADINGA,17/03/10/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/48724/48724-1677670458.pdf,true
-JIGAWA,BIRNIN KUDU,,ZARAMBA/YABAL ZARAMBA,17/03/10/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/48725/48725-1677670055.pdf,false
-JIGAWA,BIRNIN KUDU,,NAHUCHE,17/03/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/48709/48709-1677669876.pdf,false
-JIGAWA,BIRNIN KUDU,,FUNTUA/YALWA FUNTUA,17/03/10/032,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/48729/48729-1677669585.pdf,false
-JIGAWA,BIRNIN KUDU,,NAHUCE SAMBALISA,17/03/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/48703/48703-1677669423.pdf,true
-JIGAWA,BIRNIN KUDU,,DUTSE MAI DANGA,17/03/10/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/48715/48715-1677669283.pdf,false
-JIGAWA,BIRNIN KUDU,,WURO FADA WURO ISLAMIYYA,17/03/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/48698/48698-1677668915.pdf,true
-JIGAWA,BIRNIN KUDU,,GARGADI P.S,17/03/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/48705/48705-1677667787.pdf,false
-JIGAWA,BIRNIN KUDU,,NASARAWA,17/03/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/48707/48707-1677667025.pdf,true
-JIGAWA,BIRNIN KUDU,,NUKWAI,17/03/10/034,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/48731/48731-1677665955.pdf,false
-JIGAWA,BIRNIN KUDU,,GIWA P.S,17/03/10/031,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/48728/48728-1677665342.pdf,false
-JIGAWA,BIRNIN KUDU,,TOSORO/TAFARA ILUNGU,17/03/10/009,,false
-JIGAWA,BIRNIN KUDU,,NASARU/KACHOKAN NASARU,17/03/10/033,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/10/pu/033/033-1677389267.pdf,false
-JIGAWA,BIRNIN KUDU,,JANGAR GARI KUDU,17/03/10/030,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/10/pu/030/030-1677367587.pdf,false
-JIGAWA,BIRNIN KUDU,,DAKWARON BAMOWA,17/03/10/026,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/10/pu/026/026-1677363975.pdf,false
-JIGAWA,BIRNIN KUDU,,SAMAMIYYA ASIBITI  II,17/03/10/038,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/10/pu/038/038-1677363835.pdf,false
-JIGAWA,BIRNIN KUDU,,GUNA'AN DAMAU,17/03/10/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/10/pu/019/019-1677361685.pdf,false
-JIGAWA,BIRNIN KUDU,,UNGUWAR MAGAJI WURNO PRI. SCH.,17/03/10/002,,false
-JIGAWA,BIRNIN KUDU,,GARGADI P.SCH.,17/03/10/007,,false
-JIGAWA,BIRNIN KUDU,,SHINGURUN P.S,17/03/10/022,,false
-JIGAWA,BIRNIN KUDU,,UNGUWAR K/GIDAN IDI WURNO II,17/03/10/037,,false
-JIGAWA,BIRNIN KUDU,,"KULLIN KOTA, KULLIN KOTA",17/03/10/005,,false
-JIGAWA,BIRNIN KUDU,,UNGUWAR YARI K. GIDAN IDI WURNO,17/03/10/003,,false
-JIGAWA,BIRNIN KUDU,,GIDAN GALADIMA BAKACHI,17/03/10/015,,false
-JIGAWA,BIRNIN KUDU,,HAMBARAWA,17/03/10/016,,false
-JIGAWA,BIRNIN KUDU,,MIGAWA,17/03/10/020,,false
-JIGAWA,BIRNIN KUDU,,SAMAMIYA GARI,17/03/10/013,,false
-JIGAWA,BIRNIN KUDU,,DANTSA UNGUWAR KUKA,17/03/10/021,,false
-JIGAWA,BIRNIN KUDU,,UNGUWAR MADAKI SHINGURUN P.S,17/03/10/023,,false
-JIGAWA,BIRNIN KUDU,,UNGUWAR MAGAJI PRI. SCH.  II,17/03/10/036,,false
-JIGAWA,BIRNIN KUDU,,JANGARGARI PRI. SCH.  II,17/03/10/040,,false
-JIGAWA,BIRNIN KUDU,,DAKWARO/ADINAGA,17/03/10/024,,false
-JIGAWA,BIRNIN KUDU,,JANGARGARI P.S,17/03/10/029,,false
-JIGAWA,BIRNIN KUDU,,SHUNGURUN PRI. SCH.  II,17/03/10/039,,false
+JIGAWA,BIRNIN KUDU,WURNO,SAMAMIYA GANTA,17/03/10/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48619/result_107115_1677798974_thumb.jpg,false
+JIGAWA,BIRNIN KUDU,WURNO,TOSORO,17/03/10/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48622/result_107118_1677798608_thumb.jpg,false
+JIGAWA,BIRNIN KUDU,WURNO,YOLA KWAYAM,17/03/10/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/48722/48722-1677672324.pdf,false
+JIGAWA,BIRNIN KUDU,WURNO,JANGARGARI/ WRECA II,17/03/10/041,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/144372/144372-1677671997.pdf,false
+JIGAWA,BIRNIN KUDU,WURNO,GIWA PRI. SCH.  II,17/03/10/042,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/144373/144373-1677671960.pdf,false
+JIGAWA,BIRNIN KUDU,WURNO,WURNO FADA/ WURNO ISLAMIYYA  II,17/03/10/035,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/144366/144366-1677671491.pdf,false
+JIGAWA,BIRNIN KUDU,WURNO,FI'L FI'L,17/03/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/48708/48708-1677671059.pdf,false
+JIGAWA,BIRNIN KUDU,WURNO,"RAHAJI, RAHAJI",17/03/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/48701/48701-1677670512.pdf,false
+JIGAWA,BIRNIN KUDU,WURNO,HALILAWA/ADINGA,17/03/10/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/48724/48724-1677670458.pdf,true
+JIGAWA,BIRNIN KUDU,WURNO,ZARAMBA/YABAL ZARAMBA,17/03/10/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/48725/48725-1677670055.pdf,false
+JIGAWA,BIRNIN KUDU,WURNO,NAHUCHE,17/03/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/48709/48709-1677669876.pdf,false
+JIGAWA,BIRNIN KUDU,WURNO,FUNTUA/YALWA FUNTUA,17/03/10/032,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/48729/48729-1677669585.pdf,false
+JIGAWA,BIRNIN KUDU,WURNO,NAHUCE SAMBALISA,17/03/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/48703/48703-1677669423.pdf,true
+JIGAWA,BIRNIN KUDU,WURNO,DUTSE MAI DANGA,17/03/10/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/48715/48715-1677669283.pdf,false
+JIGAWA,BIRNIN KUDU,WURNO,WURO FADA WURO ISLAMIYYA,17/03/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/48698/48698-1677668915.pdf,true
+JIGAWA,BIRNIN KUDU,WURNO,GARGADI P.S,17/03/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/48705/48705-1677667787.pdf,false
+JIGAWA,BIRNIN KUDU,WURNO,NASARAWA,17/03/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/48707/48707-1677667025.pdf,true
+JIGAWA,BIRNIN KUDU,WURNO,NUKWAI,17/03/10/034,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/48731/48731-1677665955.pdf,false
+JIGAWA,BIRNIN KUDU,WURNO,GIWA P.S,17/03/10/031,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3424/ward/21270/pu/48728/48728-1677665342.pdf,false
+JIGAWA,BIRNIN KUDU,WURNO,TOSORO/TAFARA ILUNGU,17/03/10/009,,false
+JIGAWA,BIRNIN KUDU,WURNO,NASARU/KACHOKAN NASARU,17/03/10/033,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/10/pu/033/033-1677389267.pdf,false
+JIGAWA,BIRNIN KUDU,WURNO,JANGAR GARI KUDU,17/03/10/030,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/10/pu/030/030-1677367587.pdf,false
+JIGAWA,BIRNIN KUDU,WURNO,DAKWARON BAMOWA,17/03/10/026,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/10/pu/026/026-1677363975.pdf,false
+JIGAWA,BIRNIN KUDU,WURNO,SAMAMIYYA ASIBITI  II,17/03/10/038,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/10/pu/038/038-1677363835.pdf,false
+JIGAWA,BIRNIN KUDU,WURNO,GUNA'AN DAMAU,17/03/10/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/10/pu/019/019-1677361685.pdf,false
+JIGAWA,BIRNIN KUDU,WURNO,UNGUWAR MAGAJI WURNO PRI. SCH.,17/03/10/002,,false
+JIGAWA,BIRNIN KUDU,WURNO,GARGADI P.SCH.,17/03/10/007,,false
+JIGAWA,BIRNIN KUDU,WURNO,SHINGURUN P.S,17/03/10/022,,false
+JIGAWA,BIRNIN KUDU,WURNO,UNGUWAR K/GIDAN IDI WURNO II,17/03/10/037,,false
+JIGAWA,BIRNIN KUDU,WURNO,"KULLIN KOTA, KULLIN KOTA",17/03/10/005,,false
+JIGAWA,BIRNIN KUDU,WURNO,UNGUWAR YARI K. GIDAN IDI WURNO,17/03/10/003,,false
+JIGAWA,BIRNIN KUDU,WURNO,GIDAN GALADIMA BAKACHI,17/03/10/015,,false
+JIGAWA,BIRNIN KUDU,WURNO,HAMBARAWA,17/03/10/016,,false
+JIGAWA,BIRNIN KUDU,WURNO,MIGAWA,17/03/10/020,,false
+JIGAWA,BIRNIN KUDU,WURNO,SAMAMIYA GARI,17/03/10/013,,false
+JIGAWA,BIRNIN KUDU,WURNO,DANTSA UNGUWAR KUKA,17/03/10/021,,false
+JIGAWA,BIRNIN KUDU,WURNO,UNGUWAR MADAKI SHINGURUN P.S,17/03/10/023,,false
+JIGAWA,BIRNIN KUDU,WURNO,UNGUWAR MAGAJI PRI. SCH.  II,17/03/10/036,,false
+JIGAWA,BIRNIN KUDU,WURNO,JANGARGARI PRI. SCH.  II,17/03/10/040,,false
+JIGAWA,BIRNIN KUDU,WURNO,DAKWARO/ADINAGA,17/03/10/024,,false
+JIGAWA,BIRNIN KUDU,WURNO,JANGARGARI P.S,17/03/10/029,,false
+JIGAWA,BIRNIN KUDU,WURNO,SHUNGURUN PRI. SCH.  II,17/03/10/039,,false

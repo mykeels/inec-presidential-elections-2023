@@ -1,11 +1,11 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,MALAM MADORI,,GIDAN MAI UNGUWA/KARGON SHAYYA,17/21/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3442/ward/21462/pu/51057/51057-1677626394.pdf,true
-JIGAWA,MALAM MADORI,,DINFIDUWA PRI. SCH./DINFIDUWA,17/21/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3442/ward/21462/pu/51059/51059-1677626211.pdf,true
-JIGAWA,MALAM MADORI,,GIDAN MAI UNGUWA/ SHAYYA TSAKIYA,17/21/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3442/ward/21462/pu/51058/51058-1677625960.pdf,true
-JIGAWA,MALAM MADORI,,GIDAN MAIGARI/ZARO YAMMA,17/21/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3442/ward/21462/pu/51065/51065-1677625686.pdf,true
-JIGAWA,MALAM MADORI,,SHAYYA UNGUWAR GABAS PRI. SCH.,17/21/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3442/ward/21462/pu/51060/51060-1677625474.pdf,true
-JIGAWA,MALAM MADORI,,GIDAN MAIGARI/MARMA AREWA,17/21/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/08/pu/005/005-1677369643.pdf,false
-JIGAWA,MALAM MADORI,,GIDAN MAIGARI/BURUKU DALA,17/21/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/08/pu/008/008-1677365707.pdf,false
-JIGAWA,MALAM MADORI,,GIDAN MAIGARI/YALWAN  SHAYYA,17/21/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/08/pu/006/006-1677365578.pdf,false
-JIGAWA,MALAM MADORI,,KOFAR MADAKI,17/21/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/08/pu/010/010-1677362673.pdf,false
-JIGAWA,MALAM MADORI,,GIDAN MAIGARI/KWAN DOLA,17/21/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/08/pu/007/007-1677359488.pdf,false
+JIGAWA,MALAM MADORI,SHAIYA,GIDAN MAI UNGUWA/KARGON SHAYYA,17/21/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3442/ward/21462/pu/51057/51057-1677626394.pdf,true
+JIGAWA,MALAM MADORI,SHAIYA,DINFIDUWA PRI. SCH./DINFIDUWA,17/21/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3442/ward/21462/pu/51059/51059-1677626211.pdf,true
+JIGAWA,MALAM MADORI,SHAIYA,GIDAN MAI UNGUWA/ SHAYYA TSAKIYA,17/21/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3442/ward/21462/pu/51058/51058-1677625960.pdf,true
+JIGAWA,MALAM MADORI,SHAIYA,GIDAN MAIGARI/ZARO YAMMA,17/21/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3442/ward/21462/pu/51065/51065-1677625686.pdf,true
+JIGAWA,MALAM MADORI,SHAIYA,SHAYYA UNGUWAR GABAS PRI. SCH.,17/21/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3442/ward/21462/pu/51060/51060-1677625474.pdf,true
+JIGAWA,MALAM MADORI,SHAIYA,GIDAN MAIGARI/MARMA AREWA,17/21/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/08/pu/005/005-1677369643.pdf,false
+JIGAWA,MALAM MADORI,SHAIYA,GIDAN MAIGARI/BURUKU DALA,17/21/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/08/pu/008/008-1677365707.pdf,false
+JIGAWA,MALAM MADORI,SHAIYA,GIDAN MAIGARI/YALWAN  SHAYYA,17/21/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/08/pu/006/006-1677365578.pdf,false
+JIGAWA,MALAM MADORI,SHAIYA,KOFAR MADAKI,17/21/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/08/pu/010/010-1677362673.pdf,false
+JIGAWA,MALAM MADORI,SHAIYA,GIDAN MAIGARI/KWAN DOLA,17/21/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/08/pu/007/007-1677359488.pdf,false

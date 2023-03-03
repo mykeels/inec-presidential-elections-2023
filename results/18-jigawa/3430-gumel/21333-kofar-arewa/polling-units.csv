@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,GUMEL,,HIZBA OFFICE,17/09/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3430/ward/21333/pu/144565/144565-1677457477.pdf,false
-JIGAWA,GUMEL,,"RERAYIN GAMA FADA, MAINAN YARUWA",17/09/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/011/011-1677412558.pdf,false
-JIGAWA,GUMEL,,LIMAWA KOFAR LIMAN,17/09/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/009/009-1677411893.pdf,false
-JIGAWA,GUMEL,,KOFAR AREWA GIDAN NASHARU,17/09/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/002/002-1677411507.pdf,false
-JIGAWA,GUMEL,,KOFAR AREWA WAZIRAWA,17/09/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/001/001-1677411310.pdf,false
-JIGAWA,GUMEL,,EMIR'S PALACE OFF ISHIN MAGAJI,17/09/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/007/007-1677408923.pdf,false
-JIGAWA,GUMEL,,LIMAWA KOFAR MAL AMADU,17/09/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/010/010-1677408392.pdf,false
-JIGAWA,GUMEL,,R.GAMA FADA MAINAN YARUWA,17/09/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/005/005-1677396383.pdf,false
-JIGAWA,GUMEL,,R.GAMA FADA K. DUNDU,17/09/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/006/006-1677395809.pdf,false
-JIGAWA,GUMEL,,R.GAMA FADA SABON KANTI,17/09/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/004/004-1677390493.pdf,false
-JIGAWA,GUMEL,,R.GAMA FADA G. MALAM SALE,17/09/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/003/003-1677388608.pdf,false
-JIGAWA,GUMEL,,KOFAR NASHABARU,17/09/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/012/012-1677363484.pdf,false
-JIGAWA,GUMEL,,EMIR'S PALACE  POPULATION OFFICE,17/09/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/008/008-1677358793.pdf,false
+JIGAWA,GUMEL,KOFAR AREWA,HIZBA OFFICE,17/09/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3430/ward/21333/pu/144565/144565-1677457477.pdf,false
+JIGAWA,GUMEL,KOFAR AREWA,"RERAYIN GAMA FADA, MAINAN YARUWA",17/09/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/011/011-1677412558.pdf,false
+JIGAWA,GUMEL,KOFAR AREWA,LIMAWA KOFAR LIMAN,17/09/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/009/009-1677411893.pdf,false
+JIGAWA,GUMEL,KOFAR AREWA,KOFAR AREWA GIDAN NASHARU,17/09/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/002/002-1677411507.pdf,false
+JIGAWA,GUMEL,KOFAR AREWA,KOFAR AREWA WAZIRAWA,17/09/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/001/001-1677411310.pdf,false
+JIGAWA,GUMEL,KOFAR AREWA,EMIR'S PALACE OFF ISHIN MAGAJI,17/09/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/007/007-1677408923.pdf,false
+JIGAWA,GUMEL,KOFAR AREWA,LIMAWA KOFAR MAL AMADU,17/09/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/010/010-1677408392.pdf,false
+JIGAWA,GUMEL,KOFAR AREWA,R.GAMA FADA MAINAN YARUWA,17/09/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/005/005-1677396383.pdf,false
+JIGAWA,GUMEL,KOFAR AREWA,R.GAMA FADA K. DUNDU,17/09/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/006/006-1677395809.pdf,false
+JIGAWA,GUMEL,KOFAR AREWA,R.GAMA FADA SABON KANTI,17/09/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/004/004-1677390493.pdf,false
+JIGAWA,GUMEL,KOFAR AREWA,R.GAMA FADA G. MALAM SALE,17/09/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/003/003-1677388608.pdf,false
+JIGAWA,GUMEL,KOFAR AREWA,KOFAR NASHABARU,17/09/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/012/012-1677363484.pdf,false
+JIGAWA,GUMEL,KOFAR AREWA,EMIR'S PALACE  POPULATION OFFICE,17/09/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/008/008-1677358793.pdf,false

@@ -1,8 +1,8 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,GWIWA,,DANSALA DADIN SARKI/DANSALA CIKIN GARI,17/12/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/002/002-1677392565.pdf,false
-JIGAWA,GWIWA,,GWIWA PRI. SCH. GWIWA,17/12/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/004/004-1677391360.pdf,false
-JIGAWA,GWIWA,,GWIWA KUDU TAHFIZUL QUR'AN  ISLAMIYYA,17/12/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/007/007-1677385837.pdf,false
-JIGAWA,GWIWA,,GWIWA JSS,17/12/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/006/006-1677385781.pdf,false
-JIGAWA,GWIWA,,GWIWA KUDU DANDALI/GWIWA KUDU,17/12/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/005/005-1677383817.pdf,false
-JIGAWA,GWIWA,,DANSALA CIKIN GARI/DANSALA,17/12/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/001/001-1677383529.pdf,false
-JIGAWA,GWIWA,,DARAGIN FULANI/DARAGIN FULANI,17/12/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/003/003-1677378281.pdf,false
+JIGAWA,GWIWA,GWIWA,DANSALA DADIN SARKI/DANSALA CIKIN GARI,17/12/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/002/002-1677392565.pdf,false
+JIGAWA,GWIWA,GWIWA,GWIWA PRI. SCH. GWIWA,17/12/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/004/004-1677391360.pdf,false
+JIGAWA,GWIWA,GWIWA,GWIWA KUDU TAHFIZUL QUR'AN  ISLAMIYYA,17/12/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/007/007-1677385837.pdf,false
+JIGAWA,GWIWA,GWIWA,GWIWA JSS,17/12/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/006/006-1677385781.pdf,false
+JIGAWA,GWIWA,GWIWA,GWIWA KUDU DANDALI/GWIWA KUDU,17/12/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/005/005-1677383817.pdf,false
+JIGAWA,GWIWA,GWIWA,DANSALA CIKIN GARI/DANSALA,17/12/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/001/001-1677383529.pdf,false
+JIGAWA,GWIWA,GWIWA,DARAGIN FULANI/DARAGIN FULANI,17/12/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/003/003-1677378281.pdf,false

@@ -26,6 +26,7 @@
     "pu_code_string": "170804006",
     "state_name": "JIGAWA",
     "lga_name": "GAGARAWA",
+    "ward_name": "KORE BALATU",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "170804001",
     "state_name": "JIGAWA",
     "lga_name": "GAGARAWA",
+    "ward_name": "KORE BALATU",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "170804003",
     "state_name": "JIGAWA",
     "lga_name": "GAGARAWA",
+    "ward_name": "KORE BALATU",
     "document": {
       "external": false,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "170804004",
     "state_name": "JIGAWA",
     "lga_name": "GAGARAWA",
+    "ward_name": "KORE BALATU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -170,6 +174,7 @@
     "pu_code_string": "170804002",
     "state_name": "JIGAWA",
     "lga_name": "GAGARAWA",
+    "ward_name": "KORE BALATU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -200,6 +205,7 @@
     "pu_code_string": "170804005",
     "state_name": "JIGAWA",
     "lga_name": "GAGARAWA",
+    "ward_name": "KORE BALATU",
     "old_documents": [],
     "has_old_documents": false
   }

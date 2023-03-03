@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,AUYO,,GUDITO PRI. SCH. GUDITO,17/01/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48220/result_106608_1677513761_thumb.jpg,true
-JIGAWA,AUYO,,GATAKASHE K. FADA GATAKASHE WAILARE,17/01/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48215/result_106603_1677512110_thumb.jpg,true
-JIGAWA,AUYO,,"GANUWAR KUKA PRI. SCH., GANUWAR KUKA",17/01/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48219/result_106607_1677513591_thumb.jpg,true
-JIGAWA,AUYO,,"MAWA K. FADA, MAWA VILLAGE",17/01/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48213/result_106601_1677512719_thumb.jpg,true
-JIGAWA,AUYO,,GANUWAR KUKU DISPENSARY,17/01/08/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639534/result_106611_1677511793_thumb.jpg,true
-JIGAWA,AUYO,,ARAWA K. FADA ARAWA,17/01/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48214/result_106602_1677513137_thumb.jpg,true
-JIGAWA,AUYO,,KAFUR PRI. SCH KAFUR,17/01/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48212/result_106600_1677512528_thumb.jpg,false
-JIGAWA,AUYO,,JIBA GANDU K. FADA JIBA GANDU,17/01/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48216/result_106604_1677512896_thumb.jpg,false
-JIGAWA,AUYO,,YAMIDI K. FADA YAMIDI,17/01/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48221/result_106609_1677512378_thumb.jpg,false
-JIGAWA,AUYO,,"SABON GIDAN AYANDUWA K. FADA, SABON GIDAN AYANDUWA",17/01/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48218/result_106606_1677514134_thumb.jpg,true
-JIGAWA,AUYO,,JSS KAFUR,17/01/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639533/result_106610_1677513912_thumb.jpg,true
-JIGAWA,AUYO,,MASKANGAYU K. FADA MASKANGAYU,17/01/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48217/result_106605_1677513287_thumb.jpg,true
+JIGAWA,AUYO,KAFUR,GUDITO PRI. SCH. GUDITO,17/01/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48220/result_106608_1677513761_thumb.jpg,true
+JIGAWA,AUYO,KAFUR,GATAKASHE K. FADA GATAKASHE WAILARE,17/01/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48215/result_106603_1677512110_thumb.jpg,true
+JIGAWA,AUYO,KAFUR,"GANUWAR KUKA PRI. SCH., GANUWAR KUKA",17/01/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48219/result_106607_1677513591_thumb.jpg,true
+JIGAWA,AUYO,KAFUR,"MAWA K. FADA, MAWA VILLAGE",17/01/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48213/result_106601_1677512719_thumb.jpg,true
+JIGAWA,AUYO,KAFUR,GANUWAR KUKU DISPENSARY,17/01/08/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639534/result_106611_1677511793_thumb.jpg,true
+JIGAWA,AUYO,KAFUR,ARAWA K. FADA ARAWA,17/01/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48214/result_106602_1677513137_thumb.jpg,true
+JIGAWA,AUYO,KAFUR,KAFUR PRI. SCH KAFUR,17/01/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48212/result_106600_1677512528_thumb.jpg,false
+JIGAWA,AUYO,KAFUR,JIBA GANDU K. FADA JIBA GANDU,17/01/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48216/result_106604_1677512896_thumb.jpg,false
+JIGAWA,AUYO,KAFUR,YAMIDI K. FADA YAMIDI,17/01/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48221/result_106609_1677512378_thumb.jpg,false
+JIGAWA,AUYO,KAFUR,"SABON GIDAN AYANDUWA K. FADA, SABON GIDAN AYANDUWA",17/01/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48218/result_106606_1677514134_thumb.jpg,true
+JIGAWA,AUYO,KAFUR,JSS KAFUR,17/01/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639533/result_106610_1677513912_thumb.jpg,true
+JIGAWA,AUYO,KAFUR,MASKANGAYU K. FADA MASKANGAYU,17/01/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48217/result_106605_1677513287_thumb.jpg,true

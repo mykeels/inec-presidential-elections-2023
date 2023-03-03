@@ -1,17 +1,17 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,KAZAURE,,DANDI AREWA,17/17/04/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50438/result_109412_1677513762_thumb.jpg,true
-JIGAWA,KAZAURE,,TSALLEWA/TSALLEWA,17/17/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50434/result_109408_1677513015_thumb.jpg,true
-JIGAWA,KAZAURE,,BALLAMI / BALLAMI,17/17/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50427/result_109401_1677490171_thumb.jpg,true
-JIGAWA,KAZAURE,,DANKULIYA KARTAU/DANKULIYA KARTAU,17/17/04/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50429/result_109403_1677512553_thumb.jpg,true
-JIGAWA,KAZAURE,,BAMBARA/BAMBARA,17/17/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50425/result_109399_1677513565_thumb.jpg,true
-JIGAWA,KAZAURE,,S/GARIN YAJALE /  S/GARIN YAJALE,17/17/04/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50433/result_109407_1677498277_thumb.jpg,true
-JIGAWA,KAZAURE,,UNG. YARIMA PRI. SCH. / UNG. YARIMA,17/17/04/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50437/result_109411_1677511978_thumb.jpg,true
-JIGAWA,KAZAURE,,TSEDAU/TSEDAU,17/17/04/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50435/result_109409_1677512686_thumb.jpg,true
-JIGAWA,KAZAURE,,BANDA  MAYE/BANDA MAYE,17/17/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50426/result_109400_1677513132_thumb.jpg,true
-JIGAWA,KAZAURE,,DANDI PRI. SCH./ DANDI,17/17/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50428/result_109402_1677512816_thumb.jpg,true
-JIGAWA,KAZAURE,,UNG. MAGAJI PRI. SCH./ UNG. MAGAJI,17/17/04/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50436/result_109410_1677500502_thumb.jpg,true
-JIGAWA,KAZAURE,,GURUNFA PRI. SCH. GURUNFA,17/17/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50430/result_109404_1677513266_thumb.jpg,true
-JIGAWA,KAZAURE,,TSEDAU GOBIRAWA,17/17/04/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640050/result_109413_1677513854_thumb.jpg,true
-JIGAWA,KAZAURE,,DANDI OLD CLINIC,17/17/04/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640051/result_109414_1677512435_thumb.jpg,true
-JIGAWA,KAZAURE,,MAIGERO PRI. SCH.  MAIGERO,17/17/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50432/result_109406_1677512327_thumb.jpg,true
-JIGAWA,KAZAURE,,MAHUCHI PRI. SCH. MAHUCHI,17/17/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50431/result_109405_1677570848_thumb.jpg,false
+JIGAWA,KAZAURE,DANDI,DANDI AREWA,17/17/04/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50438/result_109412_1677513762_thumb.jpg,true
+JIGAWA,KAZAURE,DANDI,TSALLEWA/TSALLEWA,17/17/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50434/result_109408_1677513015_thumb.jpg,true
+JIGAWA,KAZAURE,DANDI,BALLAMI / BALLAMI,17/17/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50427/result_109401_1677490171_thumb.jpg,true
+JIGAWA,KAZAURE,DANDI,DANKULIYA KARTAU/DANKULIYA KARTAU,17/17/04/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50429/result_109403_1677512553_thumb.jpg,true
+JIGAWA,KAZAURE,DANDI,BAMBARA/BAMBARA,17/17/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50425/result_109399_1677513565_thumb.jpg,true
+JIGAWA,KAZAURE,DANDI,S/GARIN YAJALE /  S/GARIN YAJALE,17/17/04/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50433/result_109407_1677498277_thumb.jpg,true
+JIGAWA,KAZAURE,DANDI,UNG. YARIMA PRI. SCH. / UNG. YARIMA,17/17/04/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50437/result_109411_1677511978_thumb.jpg,true
+JIGAWA,KAZAURE,DANDI,TSEDAU/TSEDAU,17/17/04/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50435/result_109409_1677512686_thumb.jpg,true
+JIGAWA,KAZAURE,DANDI,BANDA  MAYE/BANDA MAYE,17/17/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50426/result_109400_1677513132_thumb.jpg,true
+JIGAWA,KAZAURE,DANDI,DANDI PRI. SCH./ DANDI,17/17/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50428/result_109402_1677512816_thumb.jpg,true
+JIGAWA,KAZAURE,DANDI,UNG. MAGAJI PRI. SCH./ UNG. MAGAJI,17/17/04/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50436/result_109410_1677500502_thumb.jpg,true
+JIGAWA,KAZAURE,DANDI,GURUNFA PRI. SCH. GURUNFA,17/17/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50430/result_109404_1677513266_thumb.jpg,true
+JIGAWA,KAZAURE,DANDI,TSEDAU GOBIRAWA,17/17/04/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640050/result_109413_1677513854_thumb.jpg,true
+JIGAWA,KAZAURE,DANDI,DANDI OLD CLINIC,17/17/04/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640051/result_109414_1677512435_thumb.jpg,true
+JIGAWA,KAZAURE,DANDI,MAIGERO PRI. SCH.  MAIGERO,17/17/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50432/result_109406_1677512327_thumb.jpg,true
+JIGAWA,KAZAURE,DANDI,MAHUCHI PRI. SCH. MAHUCHI,17/17/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50431/result_109405_1677570848_thumb.jpg,false

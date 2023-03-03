@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,TAURA,,VILLAGE HEAD GROUND /AKASAN,17/26/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/012/012-1677410240.pdf,false
-JIGAWA,TAURA,,CHUKUTO PRI. SCH.,17/26/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/001/001-1677407947.pdf,false
-JIGAWA,TAURA,,BIDAWA PRI. SCH.,17/26/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/007/007-1677406935.pdf,false
-JIGAWA,TAURA,,VILLAGE HEAD GROUND / KATARIKA,17/26/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/006/006-1677406778.pdf,false
-JIGAWA,TAURA,,KWAJALI YAMMA PRI. SCH.,17/26/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/009/009-1677406241.pdf,false
-JIGAWA,TAURA,,VILLAGE HEAD GROUND / DANZAINA,17/26/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/005/005-1677405058.pdf,false
-JIGAWA,TAURA,,CHUKUTO PRI. SCH. II,17/26/03/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/016/016-1677404687.pdf,false
-JIGAWA,TAURA,,KUKUI/GOGORI  PRI. SCH.,17/26/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/004/004-1677404345.pdf,false
-JIGAWA,TAURA,,KWAJALI GABAS  PRI. SCH.,17/26/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/010/010-1677404232.pdf,false
-JIGAWA,TAURA,,LARABAR TIRA PRI. SCH.,17/26/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/003/003-1677404221.pdf,false
-JIGAWA,TAURA,,TOFAR KWAJALI PRI. SCH. II,17/26/03/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/018/018-1677403850.pdf,false
-JIGAWA,TAURA,,VILLAGE HEAD GROUND /ASAYAYA,17/26/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/002/002-1677403549.pdf,false
-JIGAWA,TAURA,,VILLAGE HEAD G/BUTURANAWA/KEMO,17/26/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/008/008-1677402749.pdf,false
-JIGAWA,TAURA,,TOFAR KWAJALI PRI. SCH.,17/26/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/011/011-1677401817.pdf,false
-JIGAWA,TAURA,,VILLAGE HEAD GROUND /RAFIN KANYA,17/26/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/015/015-1677401526.pdf,false
-JIGAWA,TAURA,,BIDAWA PRI. SCH. II,17/26/03/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/017/017-1677400647.pdf,false
-JIGAWA,TAURA,,KAYAR GAZARA PRI. SCH.,17/26/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/014/014-1677400551.pdf,false
-JIGAWA,TAURA,,VILLAGE HEAD GROUND /WALAWA,17/26/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/013/013-1677388429.pdf,false
+JIGAWA,TAURA,CHUKUTO,VILLAGE HEAD GROUND /AKASAN,17/26/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/012/012-1677410240.pdf,false
+JIGAWA,TAURA,CHUKUTO,CHUKUTO PRI. SCH.,17/26/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/001/001-1677407947.pdf,false
+JIGAWA,TAURA,CHUKUTO,BIDAWA PRI. SCH.,17/26/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/007/007-1677406935.pdf,false
+JIGAWA,TAURA,CHUKUTO,VILLAGE HEAD GROUND / KATARIKA,17/26/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/006/006-1677406778.pdf,false
+JIGAWA,TAURA,CHUKUTO,KWAJALI YAMMA PRI. SCH.,17/26/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/009/009-1677406241.pdf,false
+JIGAWA,TAURA,CHUKUTO,VILLAGE HEAD GROUND / DANZAINA,17/26/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/005/005-1677405058.pdf,false
+JIGAWA,TAURA,CHUKUTO,CHUKUTO PRI. SCH. II,17/26/03/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/016/016-1677404687.pdf,false
+JIGAWA,TAURA,CHUKUTO,KUKUI/GOGORI  PRI. SCH.,17/26/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/004/004-1677404345.pdf,false
+JIGAWA,TAURA,CHUKUTO,KWAJALI GABAS  PRI. SCH.,17/26/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/010/010-1677404232.pdf,false
+JIGAWA,TAURA,CHUKUTO,LARABAR TIRA PRI. SCH.,17/26/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/003/003-1677404221.pdf,false
+JIGAWA,TAURA,CHUKUTO,TOFAR KWAJALI PRI. SCH. II,17/26/03/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/018/018-1677403850.pdf,false
+JIGAWA,TAURA,CHUKUTO,VILLAGE HEAD GROUND /ASAYAYA,17/26/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/002/002-1677403549.pdf,false
+JIGAWA,TAURA,CHUKUTO,VILLAGE HEAD G/BUTURANAWA/KEMO,17/26/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/008/008-1677402749.pdf,false
+JIGAWA,TAURA,CHUKUTO,TOFAR KWAJALI PRI. SCH.,17/26/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/011/011-1677401817.pdf,false
+JIGAWA,TAURA,CHUKUTO,VILLAGE HEAD GROUND /RAFIN KANYA,17/26/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/015/015-1677401526.pdf,false
+JIGAWA,TAURA,CHUKUTO,BIDAWA PRI. SCH. II,17/26/03/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/017/017-1677400647.pdf,false
+JIGAWA,TAURA,CHUKUTO,KAYAR GAZARA PRI. SCH.,17/26/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/014/014-1677400551.pdf,false
+JIGAWA,TAURA,CHUKUTO,VILLAGE HEAD GROUND /WALAWA,17/26/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/03/pu/013/013-1677388429.pdf,false

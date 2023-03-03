@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,KAUGAMA,,KWANDIGA DISPENSARY,17/16/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21411/pu/144839/144839-1677498821.pdf,false
-JIGAWA,KAUGAMA,,JSS YALO I,17/16/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21411/pu/144837/144837-1677496618.pdf,false
-JIGAWA,KAUGAMA,,MASAMA PRI. SCH. / MASAMA,17/16/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21411/pu/50484/50484-1677495931.pdf,false
-JIGAWA,KAUGAMA,,BAYIN KWARI PRI. SCH. /BAYI,17/16/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21411/pu/50483/50483-1677495606.pdf,false
-JIGAWA,KAUGAMA,,DANDALIN GARIN JIBO/G/JIBO,17/16/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21411/pu/50482/50482-1677495189.pdf,false
-JIGAWA,KAUGAMA,,MANLAFIYA PRI. SCH. / KWANDIGA,17/16/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21411/pu/50481/50481-1677494659.pdf,false
-JIGAWA,KAUGAMA,,KWANDIGA  PRI. SCH./ KWANDIGA,17/16/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21411/pu/50480/50480-1677494298.pdf,false
-JIGAWA,KAUGAMA,,YALO PRI. SCH./ YALO II,17/16/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/11/pu/002/002-1677410845.pdf,false
-JIGAWA,KAUGAMA,,JSS YALO II,17/16/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/11/pu/010/010-1677410093.pdf,false
-JIGAWA,KAUGAMA,,YALO PRI. SCH. /YALO I,17/16/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/11/pu/001/001-1677409197.pdf,false
-JIGAWA,KAUGAMA,,BAYIN TUDU,17/16/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/11/pu/008/008-1677408422.pdf,false
+JIGAWA,KAUGAMA,YALO,KWANDIGA DISPENSARY,17/16/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21411/pu/144839/144839-1677498821.pdf,false
+JIGAWA,KAUGAMA,YALO,JSS YALO I,17/16/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21411/pu/144837/144837-1677496618.pdf,false
+JIGAWA,KAUGAMA,YALO,MASAMA PRI. SCH. / MASAMA,17/16/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21411/pu/50484/50484-1677495931.pdf,false
+JIGAWA,KAUGAMA,YALO,BAYIN KWARI PRI. SCH. /BAYI,17/16/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21411/pu/50483/50483-1677495606.pdf,false
+JIGAWA,KAUGAMA,YALO,DANDALIN GARIN JIBO/G/JIBO,17/16/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21411/pu/50482/50482-1677495189.pdf,false
+JIGAWA,KAUGAMA,YALO,MANLAFIYA PRI. SCH. / KWANDIGA,17/16/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21411/pu/50481/50481-1677494659.pdf,false
+JIGAWA,KAUGAMA,YALO,KWANDIGA  PRI. SCH./ KWANDIGA,17/16/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21411/pu/50480/50480-1677494298.pdf,false
+JIGAWA,KAUGAMA,YALO,YALO PRI. SCH./ YALO II,17/16/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/11/pu/002/002-1677410845.pdf,false
+JIGAWA,KAUGAMA,YALO,JSS YALO II,17/16/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/11/pu/010/010-1677410093.pdf,false
+JIGAWA,KAUGAMA,YALO,YALO PRI. SCH. /YALO I,17/16/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/11/pu/001/001-1677409197.pdf,false
+JIGAWA,KAUGAMA,YALO,BAYIN TUDU,17/16/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/11/pu/008/008-1677408422.pdf,false

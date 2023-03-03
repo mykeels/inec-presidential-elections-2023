@@ -26,6 +26,7 @@
     "pu_code_string": "171809003",
     "state_name": "JIGAWA",
     "lga_name": "KIRIKA SAMMA",
+    "ward_name": "TSHEGUWA",
     "document": null,
     "old_documents": [
       {
@@ -66,6 +67,7 @@
     "pu_code_string": "171809005",
     "state_name": "JIGAWA",
     "lga_name": "KIRIKA SAMMA",
+    "ward_name": "TSHEGUWA",
     "document": {
       "external": false,
       "status": 1,
@@ -104,6 +106,7 @@
     "pu_code_string": "171809002",
     "state_name": "JIGAWA",
     "lga_name": "KIRIKA SAMMA",
+    "ward_name": "TSHEGUWA",
     "document": {
       "external": false,
       "status": 1,
@@ -142,6 +145,7 @@
     "pu_code_string": "171809004",
     "state_name": "JIGAWA",
     "lga_name": "KIRIKA SAMMA",
+    "ward_name": "TSHEGUWA",
     "document": {
       "external": false,
       "status": 1,
@@ -180,6 +184,7 @@
     "pu_code_string": "171809008",
     "state_name": "JIGAWA",
     "lga_name": "KIRIKA SAMMA",
+    "ward_name": "TSHEGUWA",
     "document": {
       "external": false,
       "status": 1,
@@ -218,6 +223,7 @@
     "pu_code_string": "171809007",
     "state_name": "JIGAWA",
     "lga_name": "KIRIKA SAMMA",
+    "ward_name": "TSHEGUWA",
     "document": {
       "external": false,
       "status": 1,
@@ -256,6 +262,7 @@
     "pu_code_string": "171809009",
     "state_name": "JIGAWA",
     "lga_name": "KIRIKA SAMMA",
+    "ward_name": "TSHEGUWA",
     "document": {
       "external": false,
       "status": 1,
@@ -294,6 +301,7 @@
     "pu_code_string": "171809011",
     "state_name": "JIGAWA",
     "lga_name": "KIRIKA SAMMA",
+    "ward_name": "TSHEGUWA",
     "document": {
       "external": false,
       "status": 1,
@@ -332,6 +340,7 @@
     "pu_code_string": "171809001",
     "state_name": "JIGAWA",
     "lga_name": "KIRIKA SAMMA",
+    "ward_name": "TSHEGUWA",
     "document": {
       "external": false,
       "status": 1,
@@ -370,6 +379,7 @@
     "pu_code_string": "171809010",
     "state_name": "JIGAWA",
     "lga_name": "KIRIKA SAMMA",
+    "ward_name": "TSHEGUWA",
     "document": {
       "external": false,
       "status": 1,
@@ -408,6 +418,7 @@
     "pu_code_string": "171809006",
     "state_name": "JIGAWA",
     "lga_name": "KIRIKA SAMMA",
+    "ward_name": "TSHEGUWA",
     "document": {
       "external": false,
       "status": 1,

@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,BUJI,,PRI. SCH. JAJI KOLI  YAMMA,17/05/03/006,,true
-JIGAWA,BUJI,,PRI. SCH CHURBUN,17/05/03/001,,true
-JIGAWA,BUJI,,BAKIN KASUWA UNGUWAR MAINA,17/05/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/011/011-1677407186.pdf,false
-JIGAWA,BUJI,,UNGUWAR MAINA DISPENSERY,17/05/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/010/010-1677403987.pdf,false
-JIGAWA,BUJI,,PRI. SCH. UNGUWAR MAINA,17/05/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/004/004-1677403510.pdf,false
-JIGAWA,BUJI,,K/MAI'UNGUWA KWALELE,17/05/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/002/002-1677401939.pdf,false
-JIGAWA,BUJI,,K/MAI-UNGUWA GIGINYA BAKWAI,17/05/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/008/008-1677400382.pdf,false
-JIGAWA,BUJI,,K/GIDAN MAI-UNGUWA CHURBUNAWA JATA,17/05/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/007/007-1677399838.pdf,false
-JIGAWA,BUJI,,NURUL ISILAM UNGUWAR MAINA SCH,17/05/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/012/012-1677398229.pdf,false
-JIGAWA,BUJI,,"PRY SCH, CHURBUN",17/05/03/009,,false
-JIGAWA,BUJI,,PRI. SCH. JAJI KOLI GABAS,17/05/03/005,,false
-JIGAWA,BUJI,,K/MAI'UNGUWA DADIN DUNIYA,17/05/03/003,,false
+JIGAWA,BUJI,CHURBUN,PRI. SCH. JAJI KOLI  YAMMA,17/05/03/006,,true
+JIGAWA,BUJI,CHURBUN,PRI. SCH CHURBUN,17/05/03/001,,true
+JIGAWA,BUJI,CHURBUN,BAKIN KASUWA UNGUWAR MAINA,17/05/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/011/011-1677407186.pdf,false
+JIGAWA,BUJI,CHURBUN,UNGUWAR MAINA DISPENSERY,17/05/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/010/010-1677403987.pdf,false
+JIGAWA,BUJI,CHURBUN,PRI. SCH. UNGUWAR MAINA,17/05/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/004/004-1677403510.pdf,false
+JIGAWA,BUJI,CHURBUN,K/MAI'UNGUWA KWALELE,17/05/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/002/002-1677401939.pdf,false
+JIGAWA,BUJI,CHURBUN,K/MAI-UNGUWA GIGINYA BAKWAI,17/05/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/008/008-1677400382.pdf,false
+JIGAWA,BUJI,CHURBUN,K/GIDAN MAI-UNGUWA CHURBUNAWA JATA,17/05/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/007/007-1677399838.pdf,false
+JIGAWA,BUJI,CHURBUN,NURUL ISILAM UNGUWAR MAINA SCH,17/05/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/012/012-1677398229.pdf,false
+JIGAWA,BUJI,CHURBUN,"PRY SCH, CHURBUN",17/05/03/009,,false
+JIGAWA,BUJI,CHURBUN,PRI. SCH. JAJI KOLI GABAS,17/05/03/005,,false
+JIGAWA,BUJI,CHURBUN,K/MAI'UNGUWA DADIN DUNIYA,17/05/03/003,,false

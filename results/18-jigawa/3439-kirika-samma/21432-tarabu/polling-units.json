@@ -26,6 +26,7 @@
     "pu_code_string": "171810015",
     "state_name": "JIGAWA",
     "lga_name": "KIRIKA SAMMA",
+    "ward_name": "TARABU",
     "document": null,
     "old_documents": [
       {
@@ -66,6 +67,7 @@
     "pu_code_string": "171810014",
     "state_name": "JIGAWA",
     "lga_name": "KIRIKA SAMMA",
+    "ward_name": "TARABU",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -97,6 +99,7 @@
     "pu_code_string": "171810013",
     "state_name": "JIGAWA",
     "lga_name": "KIRIKA SAMMA",
+    "ward_name": "TARABU",
     "document": null,
     "old_documents": [
       {
@@ -137,6 +140,7 @@
     "pu_code_string": "171810012",
     "state_name": "JIGAWA",
     "lga_name": "KIRIKA SAMMA",
+    "ward_name": "TARABU",
     "document": null,
     "old_documents": [
       {
@@ -177,6 +181,7 @@
     "pu_code_string": "171810011",
     "state_name": "JIGAWA",
     "lga_name": "KIRIKA SAMMA",
+    "ward_name": "TARABU",
     "document": null,
     "old_documents": [
       {
@@ -217,6 +222,7 @@
     "pu_code_string": "171810010",
     "state_name": "JIGAWA",
     "lga_name": "KIRIKA SAMMA",
+    "ward_name": "TARABU",
     "document": null,
     "old_documents": [
       {
@@ -257,6 +263,7 @@
     "pu_code_string": "171810007",
     "state_name": "JIGAWA",
     "lga_name": "KIRIKA SAMMA",
+    "ward_name": "TARABU",
     "document": null,
     "old_documents": [
       {
@@ -297,6 +304,7 @@
     "pu_code_string": "171810006",
     "state_name": "JIGAWA",
     "lga_name": "KIRIKA SAMMA",
+    "ward_name": "TARABU",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -328,6 +336,7 @@
     "pu_code_string": "171810005",
     "state_name": "JIGAWA",
     "lga_name": "KIRIKA SAMMA",
+    "ward_name": "TARABU",
     "document": null,
     "old_documents": [
       {
@@ -368,6 +377,7 @@
     "pu_code_string": "171810004",
     "state_name": "JIGAWA",
     "lga_name": "KIRIKA SAMMA",
+    "ward_name": "TARABU",
     "document": null,
     "old_documents": [
       {
@@ -408,6 +418,7 @@
     "pu_code_string": "171810003",
     "state_name": "JIGAWA",
     "lga_name": "KIRIKA SAMMA",
+    "ward_name": "TARABU",
     "document": null,
     "old_documents": [
       {
@@ -448,6 +459,7 @@
     "pu_code_string": "171810002",
     "state_name": "JIGAWA",
     "lga_name": "KIRIKA SAMMA",
+    "ward_name": "TARABU",
     "document": null,
     "old_documents": [
       {
@@ -488,6 +500,7 @@
     "pu_code_string": "171810001",
     "state_name": "JIGAWA",
     "lga_name": "KIRIKA SAMMA",
+    "ward_name": "TARABU",
     "document": null,
     "old_documents": [
       {
@@ -528,6 +541,7 @@
     "pu_code_string": "171810008",
     "state_name": "JIGAWA",
     "lga_name": "KIRIKA SAMMA",
+    "ward_name": "TARABU",
     "document": {
       "external": false,
       "status": 1,
@@ -566,6 +580,7 @@
     "pu_code_string": "171810009",
     "state_name": "JIGAWA",
     "lga_name": "KIRIKA SAMMA",
+    "ward_name": "TARABU",
     "document": {
       "external": false,
       "status": 1,

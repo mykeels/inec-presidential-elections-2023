@@ -1,21 +1,21 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,DUTSE,,J/HABUBA/RUNBAWA,17/06/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49081/49081-1677773233.pdf,false
-JIGAWA,DUTSE,,DISPENSARY KARNAYA,17/06/07/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/144468/144468-1677773174.pdf,false
-JIGAWA,DUTSE,,RUMBAWA,17/06/07/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49093/49093-1677773099.pdf,true
-JIGAWA,DUTSE,,YARBIRI,17/06/07/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49092/49092-1677772988.pdf,true
-JIGAWA,DUTSE,,YALWA,17/06/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49091/49091-1677772594.pdf,false
-JIGAWA,DUTSE,,WURMA YAMMA,17/06/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49090/49090-1677772357.pdf,false
-JIGAWA,DUTSE,,WURMA GARI,17/06/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49089/49089-1677772227.pdf,false
-JIGAWA,DUTSE,,S/ YALWA,17/06/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49088/49088-1677772134.pdf,false
-JIGAWA,DUTSE,,LAFIYAWO,17/06/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49087/49087-1677772029.pdf,false
-JIGAWA,DUTSE,,KWARIN MAKERA PRI. SCH.,17/06/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49086/49086-1677771955.pdf,false
-JIGAWA,DUTSE,,KISHIN GAWA,17/06/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49085/49085-1677771865.pdf,false
-JIGAWA,DUTSE,,KARNAYA GARI PRI. SCH.,17/06/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49084/49084-1677771710.pdf,false
-JIGAWA,DUTSE,,KADUSAWA PRIMARY SCHOOL,17/06/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49083/49083-1677771539.pdf,true
-JIGAWA,DUTSE,,JIGAWAR KARO,17/06/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49082/49082-1677771426.pdf,false
-JIGAWA,DUTSE,,IRWA/ALEMI,17/06/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49080/49080-1677771132.pdf,true
-JIGAWA,DUTSE,,IJE,17/06/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49079/49079-1677771048.pdf,false
-JIGAWA,DUTSE,,GYABIYA/TAHU,17/06/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49078/49078-1677770967.pdf,false
-JIGAWA,DUTSE,,FANISAU,17/06/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49077/49077-1677770903.pdf,false
-JIGAWA,DUTSE,,BARANGU PRI. SCH.,17/06/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49076/49076-1677770761.pdf,true
-JIGAWA,DUTSE,,BAKIN RUWA PRI. SCH.,17/06/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49075/49075-1677770635.pdf,true
+JIGAWA,DUTSE,KARNAYA,J/HABUBA/RUNBAWA,17/06/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49081/49081-1677773233.pdf,false
+JIGAWA,DUTSE,KARNAYA,DISPENSARY KARNAYA,17/06/07/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/144468/144468-1677773174.pdf,false
+JIGAWA,DUTSE,KARNAYA,RUMBAWA,17/06/07/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49093/49093-1677773099.pdf,true
+JIGAWA,DUTSE,KARNAYA,YARBIRI,17/06/07/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49092/49092-1677772988.pdf,true
+JIGAWA,DUTSE,KARNAYA,YALWA,17/06/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49091/49091-1677772594.pdf,false
+JIGAWA,DUTSE,KARNAYA,WURMA YAMMA,17/06/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49090/49090-1677772357.pdf,false
+JIGAWA,DUTSE,KARNAYA,WURMA GARI,17/06/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49089/49089-1677772227.pdf,false
+JIGAWA,DUTSE,KARNAYA,S/ YALWA,17/06/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49088/49088-1677772134.pdf,false
+JIGAWA,DUTSE,KARNAYA,LAFIYAWO,17/06/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49087/49087-1677772029.pdf,false
+JIGAWA,DUTSE,KARNAYA,KWARIN MAKERA PRI. SCH.,17/06/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49086/49086-1677771955.pdf,false
+JIGAWA,DUTSE,KARNAYA,KISHIN GAWA,17/06/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49085/49085-1677771865.pdf,false
+JIGAWA,DUTSE,KARNAYA,KARNAYA GARI PRI. SCH.,17/06/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49084/49084-1677771710.pdf,false
+JIGAWA,DUTSE,KARNAYA,KADUSAWA PRIMARY SCHOOL,17/06/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49083/49083-1677771539.pdf,true
+JIGAWA,DUTSE,KARNAYA,JIGAWAR KARO,17/06/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49082/49082-1677771426.pdf,false
+JIGAWA,DUTSE,KARNAYA,IRWA/ALEMI,17/06/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49080/49080-1677771132.pdf,true
+JIGAWA,DUTSE,KARNAYA,IJE,17/06/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49079/49079-1677771048.pdf,false
+JIGAWA,DUTSE,KARNAYA,GYABIYA/TAHU,17/06/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49078/49078-1677770967.pdf,false
+JIGAWA,DUTSE,KARNAYA,FANISAU,17/06/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49077/49077-1677770903.pdf,false
+JIGAWA,DUTSE,KARNAYA,BARANGU PRI. SCH.,17/06/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49076/49076-1677770761.pdf,true
+JIGAWA,DUTSE,KARNAYA,BAKIN RUWA PRI. SCH.,17/06/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21299/pu/49075/49075-1677770635.pdf,true

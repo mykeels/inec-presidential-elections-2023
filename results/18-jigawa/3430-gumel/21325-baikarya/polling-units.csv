@@ -1,8 +1,8 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,GUMEL,,MELE PRI. SCH.,17/09/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/01/pu/002/002-1677427880.pdf,false
-JIGAWA,GUMEL,,ZUGE PRI. SCH.,17/09/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/01/pu/004/004-1677423565.pdf,false
-JIGAWA,GUMEL,,LIMAN MADO CIKINGARI,17/09/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/01/pu/005/005-1677422726.pdf,false
-JIGAWA,GUMEL,,KOKINAMI PRI. SCH.,17/09/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/01/pu/003/003-1677414606.pdf,false
-JIGAWA,GUMEL,,BAIKARYA PRI. SCH. I,17/09/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/01/pu/001/001-1677412868.pdf,false
-JIGAWA,GUMEL,,BAIKARYA PRY SCH II,17/09/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/01/pu/006/006-1677398641.pdf,false
-JIGAWA,GUMEL,,BAIKARYA PRI. SCH II,17/09/01/007,,false
+JIGAWA,GUMEL,BAIKARYA,MELE PRI. SCH.,17/09/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/01/pu/002/002-1677427880.pdf,false
+JIGAWA,GUMEL,BAIKARYA,ZUGE PRI. SCH.,17/09/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/01/pu/004/004-1677423565.pdf,false
+JIGAWA,GUMEL,BAIKARYA,LIMAN MADO CIKINGARI,17/09/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/01/pu/005/005-1677422726.pdf,false
+JIGAWA,GUMEL,BAIKARYA,KOKINAMI PRI. SCH.,17/09/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/01/pu/003/003-1677414606.pdf,false
+JIGAWA,GUMEL,BAIKARYA,BAIKARYA PRI. SCH. I,17/09/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/01/pu/001/001-1677412868.pdf,false
+JIGAWA,GUMEL,BAIKARYA,BAIKARYA PRY SCH II,17/09/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/01/pu/006/006-1677398641.pdf,false
+JIGAWA,GUMEL,BAIKARYA,BAIKARYA PRI. SCH II,17/09/01/007,,false

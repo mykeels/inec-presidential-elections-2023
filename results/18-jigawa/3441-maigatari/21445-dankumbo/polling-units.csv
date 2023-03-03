@@ -1,10 +1,10 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,MAIGATARI,,KUKA TANKIYA PRI. SCH.  KUKA TAKIYA,17/20/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/02/pu/008/008-1677415722.pdf,false
-JIGAWA,MAIGATARI,,ZAZZABAU  PRI. SCH.  ZAZZABAU,17/20/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/02/pu/009/009-1677414459.pdf,false
-JIGAWA,MAIGATARI,,DANBARNO PRI. SCH.  DANBARNO,17/20/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/02/pu/007/007-1677409998.pdf,false
-JIGAWA,MAIGATARI,,DANTAKOKE PRI. SCH.  DANTAKOKE,17/20/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/02/pu/006/006-1677409362.pdf,false
-JIGAWA,MAIGATARI,,DIRANI/DIRANI,17/20/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/02/pu/005/005-1677408785.pdf,false
-JIGAWA,MAIGATARI,,KANKA RAN BAKIN RUWA PRI. SCH. K/BAKIN RUWA,17/20/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/02/pu/004/004-1677406732.pdf,false
-JIGAWA,MAIGATARI,,LADIN KANE PRI. SCH. LADIN KANE,17/20/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/02/pu/003/003-1677406035.pdf,false
-JIGAWA,MAIGATARI,,DANSAMA/DANSAMA,17/20/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/02/pu/002/002-1677405399.pdf,false
-JIGAWA,MAIGATARI,,DANKUMBO PRI. SCH. DANKUMBO,17/20/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/02/pu/001/001-1677399100.pdf,false
+JIGAWA,MAIGATARI,DANKUMBO,KUKA TANKIYA PRI. SCH.  KUKA TAKIYA,17/20/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/02/pu/008/008-1677415722.pdf,false
+JIGAWA,MAIGATARI,DANKUMBO,ZAZZABAU  PRI. SCH.  ZAZZABAU,17/20/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/02/pu/009/009-1677414459.pdf,false
+JIGAWA,MAIGATARI,DANKUMBO,DANBARNO PRI. SCH.  DANBARNO,17/20/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/02/pu/007/007-1677409998.pdf,false
+JIGAWA,MAIGATARI,DANKUMBO,DANTAKOKE PRI. SCH.  DANTAKOKE,17/20/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/02/pu/006/006-1677409362.pdf,false
+JIGAWA,MAIGATARI,DANKUMBO,DIRANI/DIRANI,17/20/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/02/pu/005/005-1677408785.pdf,false
+JIGAWA,MAIGATARI,DANKUMBO,KANKA RAN BAKIN RUWA PRI. SCH. K/BAKIN RUWA,17/20/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/02/pu/004/004-1677406732.pdf,false
+JIGAWA,MAIGATARI,DANKUMBO,LADIN KANE PRI. SCH. LADIN KANE,17/20/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/02/pu/003/003-1677406035.pdf,false
+JIGAWA,MAIGATARI,DANKUMBO,DANSAMA/DANSAMA,17/20/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/02/pu/002/002-1677405399.pdf,false
+JIGAWA,MAIGATARI,DANKUMBO,DANKUMBO PRI. SCH. DANKUMBO,17/20/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/02/pu/001/001-1677399100.pdf,false

@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,KAZAURE,,"KOFAR MARAFA, SHA'ISKAWA",17/17/10/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640083/result_109495_1677534822_thumb.jpg,false
-JIGAWA,KAZAURE,,CIROMA HALILU ISLAMIYYA,17/17/10/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640082/result_109494_1677534700_thumb.jpg,false
-JIGAWA,KAZAURE,,BABUJIYYA ISLAMIYYA,17/17/10/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640081/result_109493_1677534377_thumb.jpg,false
-JIGAWA,KAZAURE,,GALADANCHI CLINIC,17/17/10/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640079/result_109491_1677533949_thumb.jpg,false
-JIGAWA,KAZAURE,,GANDU PRI. SCH. II SHA'ISKAWA,17/17/10/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640078/result_109490_1677533816_thumb.jpg,false
-JIGAWA,KAZAURE,,KOFAR DANTODARYA/CI-GWANI,17/17/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640077/result_109489_1677533711_thumb.jpg,false
-JIGAWA,KAZAURE,,LOKON BAYAN GIDA GABAS,17/17/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640075/result_109487_1677533497_thumb.jpg,false
-JIGAWA,KAZAURE,,KOFAR GARI GABAS MASALLACIN IDI,17/17/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50486/result_109485_1677533098_thumb.jpg,false
-JIGAWA,KAZAURE,,K/SARKIN FAWA/UNG. MAHAUTA,17/17/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50484/result_109483_1677532966_thumb.jpg,false
-JIGAWA,KAZAURE,,GAMJI/BAYAN GIDA KUDU,17/17/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50480/result_109479_1677532714_thumb.jpg,true
-JIGAWA,KAZAURE,,KOFAR MAKAMA/CHEDIYAR KUDA,17/17/10/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640076/result_109488_1677522005_thumb.jpg,false
-JIGAWA,KAZAURE,,GALADANCHI ISLAMIYYA/UNG. GABAS BY-PASS,17/17/10/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640080/result_109492_1677521848_thumb.jpg,false
-JIGAWA,KAZAURE,,K/KUDU  MAMAN DELE,17/17/10/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50487/result_109486_1677521693_thumb.jpg,false
-JIGAWA,KAZAURE,,GANDU PRY SCH/WALAWA,17/17/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50485/result_109484_1677521481_thumb.jpg,false
-JIGAWA,KAZAURE,,KOFAR FADA/BAYAN GIDA AREWA,17/17/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-JIGAWA,KAZAURE,,GANDU PRI. SCH. / SHA'ISKAWA,17/17/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50482/result_109481_1677487311_thumb.jpg,false
-JIGAWA,KAZAURE,,K/ALH. SANI MAI KATAKO/LOKON RIJIYA,17/17/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50481/result_109480_1677487015_thumb.jpg,false
-JIGAWA,KAZAURE,,K/ALH. DOKI/UNG. GABAS,17/17/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50483/result_109482_1677487192_thumb.jpg,false
+JIGAWA,KAZAURE,UNGUWAR GABAS,"KOFAR MARAFA, SHA'ISKAWA",17/17/10/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640083/result_109495_1677534822_thumb.jpg,false
+JIGAWA,KAZAURE,UNGUWAR GABAS,CIROMA HALILU ISLAMIYYA,17/17/10/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640082/result_109494_1677534700_thumb.jpg,false
+JIGAWA,KAZAURE,UNGUWAR GABAS,BABUJIYYA ISLAMIYYA,17/17/10/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640081/result_109493_1677534377_thumb.jpg,false
+JIGAWA,KAZAURE,UNGUWAR GABAS,GALADANCHI CLINIC,17/17/10/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640079/result_109491_1677533949_thumb.jpg,false
+JIGAWA,KAZAURE,UNGUWAR GABAS,GANDU PRI. SCH. II SHA'ISKAWA,17/17/10/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640078/result_109490_1677533816_thumb.jpg,false
+JIGAWA,KAZAURE,UNGUWAR GABAS,KOFAR DANTODARYA/CI-GWANI,17/17/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640077/result_109489_1677533711_thumb.jpg,false
+JIGAWA,KAZAURE,UNGUWAR GABAS,LOKON BAYAN GIDA GABAS,17/17/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640075/result_109487_1677533497_thumb.jpg,false
+JIGAWA,KAZAURE,UNGUWAR GABAS,KOFAR GARI GABAS MASALLACIN IDI,17/17/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50486/result_109485_1677533098_thumb.jpg,false
+JIGAWA,KAZAURE,UNGUWAR GABAS,K/SARKIN FAWA/UNG. MAHAUTA,17/17/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50484/result_109483_1677532966_thumb.jpg,false
+JIGAWA,KAZAURE,UNGUWAR GABAS,GAMJI/BAYAN GIDA KUDU,17/17/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50480/result_109479_1677532714_thumb.jpg,true
+JIGAWA,KAZAURE,UNGUWAR GABAS,KOFAR MAKAMA/CHEDIYAR KUDA,17/17/10/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640076/result_109488_1677522005_thumb.jpg,false
+JIGAWA,KAZAURE,UNGUWAR GABAS,GALADANCHI ISLAMIYYA/UNG. GABAS BY-PASS,17/17/10/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640080/result_109492_1677521848_thumb.jpg,false
+JIGAWA,KAZAURE,UNGUWAR GABAS,K/KUDU  MAMAN DELE,17/17/10/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50487/result_109486_1677521693_thumb.jpg,false
+JIGAWA,KAZAURE,UNGUWAR GABAS,GANDU PRY SCH/WALAWA,17/17/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50485/result_109484_1677521481_thumb.jpg,false
+JIGAWA,KAZAURE,UNGUWAR GABAS,KOFAR FADA/BAYAN GIDA AREWA,17/17/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+JIGAWA,KAZAURE,UNGUWAR GABAS,GANDU PRI. SCH. / SHA'ISKAWA,17/17/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50482/result_109481_1677487311_thumb.jpg,false
+JIGAWA,KAZAURE,UNGUWAR GABAS,K/ALH. SANI MAI KATAKO/LOKON RIJIYA,17/17/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50481/result_109480_1677487015_thumb.jpg,false
+JIGAWA,KAZAURE,UNGUWAR GABAS,K/ALH. DOKI/UNG. GABAS,17/17/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50483/result_109482_1677487192_thumb.jpg,false

@@ -1,20 +1,20 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,JAHUN,,ZANGO REGU/ZANGON REGU,17/14/02/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49920/result_108767_1677756161_thumb.jpg,false
-JIGAWA,JAHUN,,JSS KADOWAWA,17/14/02/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639959/result_108777_1677756070_thumb.jpg,false
-JIGAWA,JAHUN,,ASKAWA/ASKAWA,17/14/02/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49929/result_108776_1677755943_thumb.jpg,false
-JIGAWA,JAHUN,,HEALTH CENTER GANGAWA,17/14/02/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639960/result_108778_1677755895_thumb.jpg,false
-JIGAWA,JAHUN,,KIBAWA C./GARI  KIBAWA C./GARI,17/14/02/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49928/result_108775_1677755840_thumb.jpg,false
-JIGAWA,JAHUN,,FARFADA/FARFADA,17/14/02/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49927/result_108774_1677755757_thumb.jpg,false
-JIGAWA,JAHUN,,CHAMBAYI/CHAMBAYI C./GARI,17/14/02/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49926/result_108773_1677755706_thumb.jpg,false
-JIGAWA,JAHUN,,KADAWAWA C/KADAWA C./GARI  I,17/14/02/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49924/result_108771_1677755657_thumb.jpg,false
-JIGAWA,JAHUN,,AFUNFUNA /AFUNFUNA C./GARI,17/14/02/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49923/result_108770_1677755557_thumb.jpg,false
-JIGAWA,JAHUN,,KADIRAWA/KADIRAWA  II,17/14/02/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49922/result_108769_1677755510_thumb.jpg,false
-JIGAWA,JAHUN,,KADIRAWA/KADIRAWA  I,17/14/02/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49921/result_108768_1677755442_thumb.jpg,false
-JIGAWA,JAHUN,,"GIDAN LAYA, GIDAN LAYA",17/14/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49919/result_108766_1677755387_thumb.jpg,false
-JIGAWA,JAHUN,,NAHUCHE,17/14/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49918/result_108765_1677755286_thumb.jpg,false
-JIGAWA,JAHUN,,GORIMO/GORIMO,17/14/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49917/result_108764_1677755230_thumb.jpg,false
-JIGAWA,JAHUN,,ALBASU / ALBASU  I,17/14/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49915/result_108762_1677755181_thumb.jpg,false
-JIGAWA,JAHUN,,GANGAWA C/GARI/GANGAWA C/GARI II,17/14/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49914/result_108761_1677755111_thumb.jpg,false
-JIGAWA,JAHUN,,GANGAWA C/GARI/GANGAWA C./GARI I,17/14/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49913/result_108760_1677755064_thumb.jpg,false
-JIGAWA,JAHUN,,KURORI/KURORI,17/14/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49916/result_108763_1677754983_thumb.jpg,false
-JIGAWA,JAHUN,,KUNNAYI/KUNNAYI,17/14/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/02/pu/013/013-1677399854.pdf,false
+JIGAWA,JAHUN,GANGAWA,ZANGO REGU/ZANGON REGU,17/14/02/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49920/result_108767_1677756161_thumb.jpg,false
+JIGAWA,JAHUN,GANGAWA,JSS KADOWAWA,17/14/02/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639959/result_108777_1677756070_thumb.jpg,false
+JIGAWA,JAHUN,GANGAWA,ASKAWA/ASKAWA,17/14/02/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49929/result_108776_1677755943_thumb.jpg,false
+JIGAWA,JAHUN,GANGAWA,HEALTH CENTER GANGAWA,17/14/02/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639960/result_108778_1677755895_thumb.jpg,false
+JIGAWA,JAHUN,GANGAWA,KIBAWA C./GARI  KIBAWA C./GARI,17/14/02/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49928/result_108775_1677755840_thumb.jpg,false
+JIGAWA,JAHUN,GANGAWA,FARFADA/FARFADA,17/14/02/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49927/result_108774_1677755757_thumb.jpg,false
+JIGAWA,JAHUN,GANGAWA,CHAMBAYI/CHAMBAYI C./GARI,17/14/02/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49926/result_108773_1677755706_thumb.jpg,false
+JIGAWA,JAHUN,GANGAWA,KADAWAWA C/KADAWA C./GARI  I,17/14/02/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49924/result_108771_1677755657_thumb.jpg,false
+JIGAWA,JAHUN,GANGAWA,AFUNFUNA /AFUNFUNA C./GARI,17/14/02/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49923/result_108770_1677755557_thumb.jpg,false
+JIGAWA,JAHUN,GANGAWA,KADIRAWA/KADIRAWA  II,17/14/02/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49922/result_108769_1677755510_thumb.jpg,false
+JIGAWA,JAHUN,GANGAWA,KADIRAWA/KADIRAWA  I,17/14/02/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49921/result_108768_1677755442_thumb.jpg,false
+JIGAWA,JAHUN,GANGAWA,"GIDAN LAYA, GIDAN LAYA",17/14/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49919/result_108766_1677755387_thumb.jpg,false
+JIGAWA,JAHUN,GANGAWA,NAHUCHE,17/14/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49918/result_108765_1677755286_thumb.jpg,false
+JIGAWA,JAHUN,GANGAWA,GORIMO/GORIMO,17/14/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49917/result_108764_1677755230_thumb.jpg,false
+JIGAWA,JAHUN,GANGAWA,ALBASU / ALBASU  I,17/14/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49915/result_108762_1677755181_thumb.jpg,false
+JIGAWA,JAHUN,GANGAWA,GANGAWA C/GARI/GANGAWA C/GARI II,17/14/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49914/result_108761_1677755111_thumb.jpg,false
+JIGAWA,JAHUN,GANGAWA,GANGAWA C/GARI/GANGAWA C./GARI I,17/14/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49913/result_108760_1677755064_thumb.jpg,false
+JIGAWA,JAHUN,GANGAWA,KURORI/KURORI,17/14/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49916/result_108763_1677754983_thumb.jpg,false
+JIGAWA,JAHUN,GANGAWA,KUNNAYI/KUNNAYI,17/14/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/02/pu/013/013-1677399854.pdf,false

@@ -26,6 +26,7 @@
     "pu_code_string": "170903016",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "DANTANOMA",
     "document": {
       "external": true,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "170903015",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "DANTANOMA",
     "document": {
       "external": true,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "170903009",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "DANTANOMA",
     "document": {
       "external": true,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "170903001",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "DANTANOMA",
     "document": {
       "external": true,
       "status": 1,
@@ -203,6 +207,7 @@
     "pu_code_string": "170903007",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "DANTANOMA",
     "document": {
       "external": false,
       "status": 1,
@@ -241,6 +246,7 @@
     "pu_code_string": "170903004",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "DANTANOMA",
     "document": {
       "external": false,
       "status": 1,
@@ -279,6 +285,7 @@
     "pu_code_string": "170903012",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "DANTANOMA",
     "document": {
       "external": false,
       "status": 1,
@@ -317,6 +324,7 @@
     "pu_code_string": "170903008",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "DANTANOMA",
     "document": {
       "external": false,
       "status": 1,
@@ -355,6 +363,7 @@
     "pu_code_string": "170903013",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "DANTANOMA",
     "document": {
       "external": false,
       "status": 1,
@@ -393,6 +402,7 @@
     "pu_code_string": "170903005",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "DANTANOMA",
     "document": {
       "external": false,
       "status": 1,
@@ -431,6 +441,7 @@
     "pu_code_string": "170903006",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "DANTANOMA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -461,6 +472,7 @@
     "pu_code_string": "170903011",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "DANTANOMA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -491,6 +503,7 @@
     "pu_code_string": "170903014",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "DANTANOMA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -521,6 +534,7 @@
     "pu_code_string": "170903002",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "DANTANOMA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -551,6 +565,7 @@
     "pu_code_string": "170903010",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "DANTANOMA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -581,6 +596,7 @@
     "pu_code_string": "170903003",
     "state_name": "JIGAWA",
     "lga_name": "GUMEL",
+    "ward_name": "DANTANOMA",
     "old_documents": [],
     "has_old_documents": false
   }

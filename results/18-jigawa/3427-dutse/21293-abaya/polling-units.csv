@@ -1,16 +1,16 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,DUTSE,,CHINAR/BOTAI,17/06/01/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618148/result_107452_1677680057_thumb.jpg,false
-JIGAWA,DUTSE,,DOGON JEJI P.S,17/06/01/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639684/result_107455_1677679711_thumb.jpg,false
-JIGAWA,DUTSE,,KYARAN,17/06/01/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639683/result_107454_1677679136_thumb.jpg,false
-JIGAWA,DUTSE,,TABOBO PRI.SCH.,17/06/01/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48900/result_107451_1677678829_thumb.jpg,false
-JIGAWA,DUTSE,,MALORI,17/06/01/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-JIGAWA,DUTSE,,KYARAN PRI. SCHOOL,17/06/01/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48898/result_107449_1677677782_thumb.jpg,false
-JIGAWA,DUTSE,,BOTAI,17/06/01/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48897/result_107448_1677676637_thumb.jpg,false
-JIGAWA,DUTSE,,DUHUWA,17/06/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48894/result_107445_1677676038_thumb.jpg,false
-JIGAWA,DUTSE,,DOGON JEJI,17/06/01/004,https://docs.inecelectionresults.net/elections/1292/1677443335-48985.pdf,false
-JIGAWA,DUTSE,,GIDAN TSAMIYA,17/06/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/01/pu/007/007-1677405234.pdf,false
-JIGAWA,DUTSE,,BAKAWA,17/06/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/01/pu/002/002-1677401341.pdf,false
-JIGAWA,DUTSE,,DAGWAJE PRI. SCHOOL,17/06/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/01/pu/003/003-1677400102.pdf,false
-JIGAWA,DUTSE,,ABAYA DISPENSARY,17/06/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/01/pu/013/013-1677399536.pdf,false
-JIGAWA,DUTSE,,GIDAN MAIDAWA,17/06/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/01/pu/006/006-1677398671.pdf,false
-JIGAWA,DUTSE,,ABAYA PRI. SCH,17/06/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/01/pu/001/001-1677382984.pdf,false
+JIGAWA,DUTSE,ABAYA,CHINAR/BOTAI,17/06/01/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618148/result_107452_1677680057_thumb.jpg,false
+JIGAWA,DUTSE,ABAYA,DOGON JEJI P.S,17/06/01/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639684/result_107455_1677679711_thumb.jpg,false
+JIGAWA,DUTSE,ABAYA,KYARAN,17/06/01/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639683/result_107454_1677679136_thumb.jpg,false
+JIGAWA,DUTSE,ABAYA,TABOBO PRI.SCH.,17/06/01/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48900/result_107451_1677678829_thumb.jpg,false
+JIGAWA,DUTSE,ABAYA,MALORI,17/06/01/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+JIGAWA,DUTSE,ABAYA,KYARAN PRI. SCHOOL,17/06/01/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48898/result_107449_1677677782_thumb.jpg,false
+JIGAWA,DUTSE,ABAYA,BOTAI,17/06/01/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48897/result_107448_1677676637_thumb.jpg,false
+JIGAWA,DUTSE,ABAYA,DUHUWA,17/06/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48894/result_107445_1677676038_thumb.jpg,false
+JIGAWA,DUTSE,ABAYA,DOGON JEJI,17/06/01/004,https://docs.inecelectionresults.net/elections/1292/1677443335-48985.pdf,false
+JIGAWA,DUTSE,ABAYA,GIDAN TSAMIYA,17/06/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/01/pu/007/007-1677405234.pdf,false
+JIGAWA,DUTSE,ABAYA,BAKAWA,17/06/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/01/pu/002/002-1677401341.pdf,false
+JIGAWA,DUTSE,ABAYA,DAGWAJE PRI. SCHOOL,17/06/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/01/pu/003/003-1677400102.pdf,false
+JIGAWA,DUTSE,ABAYA,ABAYA DISPENSARY,17/06/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/01/pu/013/013-1677399536.pdf,false
+JIGAWA,DUTSE,ABAYA,GIDAN MAIDAWA,17/06/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/01/pu/006/006-1677398671.pdf,false
+JIGAWA,DUTSE,ABAYA,ABAYA PRI. SCH,17/06/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/01/pu/001/001-1677382984.pdf,false

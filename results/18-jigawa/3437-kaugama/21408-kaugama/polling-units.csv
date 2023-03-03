@@ -1,23 +1,23 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,KAUGAMA,,ANNUR QTRS PLAY GROUND,17/16/08/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640029/result_109322_1677768931_thumb.jpg,false
-JIGAWA,KAUGAMA,,DANDALIN TURMI,17/16/08/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640027/result_109320_1677768548_thumb.jpg,false
-JIGAWA,KAUGAMA,,GAKORI PRI. SCH. II,17/16/08/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640028/result_109321_1677768549_thumb.jpg,false
-JIGAWA,KAUGAMA,,TURMI PRI. SCH. II,17/16/08/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640026/result_109319_1677768493_thumb.jpg,false
-JIGAWA,KAUGAMA,,MAHAUTA KAUGAMA,17/16/08/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640024/result_109317_1677768327_thumb.jpg,false
-JIGAWA,KAUGAMA,,JASS KAUGAMA,17/16/08/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640023/result_109316_1677768307_thumb.jpg,false
-JIGAWA,KAUGAMA,,YAMMA PRI. SCH.,17/16/08/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640025/result_109318_1677768334_thumb.jpg,false
-JIGAWA,KAUGAMA,,NURULHUDA ISLAMIYYA PRI. SCH.,17/16/08/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640021/result_109314_1677768124_thumb.jpg,false
-JIGAWA,KAUGAMA,,EDUCATION KAUGAMA,17/16/08/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640020/result_109313_1677768138_thumb.jpg,false
-JIGAWA,KAUGAMA,,KAUGAMA WOMEN CENTER,17/16/08/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640022/result_109315_1677768126_thumb.jpg,false
-JIGAWA,KAUGAMA,,KAUGAMA LUNGU,17/16/08/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50368/result_109312_1677767892_thumb.jpg,false
-JIGAWA,KAUGAMA,,CHIROMA ADAM DANDALI/CHIROMA,17/16/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50367/result_109311_1677767887_thumb.jpg,false
-JIGAWA,KAUGAMA,,GAKORI CIKIN GARI/GAKORI,17/16/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50366/result_109310_1677767880_thumb.jpg,false
-JIGAWA,KAUGAMA,,DANDALIN TURMI/TURMI,17/16/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50364/result_109308_1677767663_thumb.jpg,false
-JIGAWA,KAUGAMA,,MAIKYARI PRI. SCH./ MAIKYARI,17/16/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50365/result_109309_1677767625_thumb.jpg,false
-JIGAWA,KAUGAMA,,TURIM PRI. SCH. /TURMI,17/16/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50363/result_109307_1677767612_thumb.jpg,false
-JIGAWA,KAUGAMA,,J.S.S KAUGAMA/KAUGAMA II,17/16/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50362/result_109306_1677767289_thumb.jpg,false
-JIGAWA,KAUGAMA,,KOFAR M. MU'AZU/KAUGAMA,17/16/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50360/result_109304_1677767250_thumb.jpg,false
-JIGAWA,KAUGAMA,,J.S.S KAUGAMA/KAUGAMA I,17/16/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50361/result_109305_1677767271_thumb.jpg,false
-JIGAWA,KAUGAMA,,KAUGAMA  BLIND CENTRE/ KAUGAMA,17/16/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50359/result_109303_1677767048_thumb.jpg,false
-JIGAWA,KAUGAMA,,KAUGAMA SPECIAL PRI. SCH./KAUGAMA II,17/16/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50358/result_109302_1677767042_thumb.jpg,false
-JIGAWA,KAUGAMA,,KAUGAMA SPECIAL PRI. SCH. /KAUGAMA I,17/16/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50357/result_109301_1677767030_thumb.jpg,false
+JIGAWA,KAUGAMA,KAUGAMA,ANNUR QTRS PLAY GROUND,17/16/08/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640029/result_109322_1677768931_thumb.jpg,false
+JIGAWA,KAUGAMA,KAUGAMA,DANDALIN TURMI,17/16/08/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640027/result_109320_1677768548_thumb.jpg,false
+JIGAWA,KAUGAMA,KAUGAMA,GAKORI PRI. SCH. II,17/16/08/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640028/result_109321_1677768549_thumb.jpg,false
+JIGAWA,KAUGAMA,KAUGAMA,TURMI PRI. SCH. II,17/16/08/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640026/result_109319_1677768493_thumb.jpg,false
+JIGAWA,KAUGAMA,KAUGAMA,MAHAUTA KAUGAMA,17/16/08/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640024/result_109317_1677768327_thumb.jpg,false
+JIGAWA,KAUGAMA,KAUGAMA,JASS KAUGAMA,17/16/08/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640023/result_109316_1677768307_thumb.jpg,false
+JIGAWA,KAUGAMA,KAUGAMA,YAMMA PRI. SCH.,17/16/08/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640025/result_109318_1677768334_thumb.jpg,false
+JIGAWA,KAUGAMA,KAUGAMA,NURULHUDA ISLAMIYYA PRI. SCH.,17/16/08/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640021/result_109314_1677768124_thumb.jpg,false
+JIGAWA,KAUGAMA,KAUGAMA,EDUCATION KAUGAMA,17/16/08/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640020/result_109313_1677768138_thumb.jpg,false
+JIGAWA,KAUGAMA,KAUGAMA,KAUGAMA WOMEN CENTER,17/16/08/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640022/result_109315_1677768126_thumb.jpg,false
+JIGAWA,KAUGAMA,KAUGAMA,KAUGAMA LUNGU,17/16/08/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50368/result_109312_1677767892_thumb.jpg,false
+JIGAWA,KAUGAMA,KAUGAMA,CHIROMA ADAM DANDALI/CHIROMA,17/16/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50367/result_109311_1677767887_thumb.jpg,false
+JIGAWA,KAUGAMA,KAUGAMA,GAKORI CIKIN GARI/GAKORI,17/16/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50366/result_109310_1677767880_thumb.jpg,false
+JIGAWA,KAUGAMA,KAUGAMA,DANDALIN TURMI/TURMI,17/16/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50364/result_109308_1677767663_thumb.jpg,false
+JIGAWA,KAUGAMA,KAUGAMA,MAIKYARI PRI. SCH./ MAIKYARI,17/16/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50365/result_109309_1677767625_thumb.jpg,false
+JIGAWA,KAUGAMA,KAUGAMA,TURIM PRI. SCH. /TURMI,17/16/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50363/result_109307_1677767612_thumb.jpg,false
+JIGAWA,KAUGAMA,KAUGAMA,J.S.S KAUGAMA/KAUGAMA II,17/16/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50362/result_109306_1677767289_thumb.jpg,false
+JIGAWA,KAUGAMA,KAUGAMA,KOFAR M. MU'AZU/KAUGAMA,17/16/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50360/result_109304_1677767250_thumb.jpg,false
+JIGAWA,KAUGAMA,KAUGAMA,J.S.S KAUGAMA/KAUGAMA I,17/16/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50361/result_109305_1677767271_thumb.jpg,false
+JIGAWA,KAUGAMA,KAUGAMA,KAUGAMA  BLIND CENTRE/ KAUGAMA,17/16/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50359/result_109303_1677767048_thumb.jpg,false
+JIGAWA,KAUGAMA,KAUGAMA,KAUGAMA SPECIAL PRI. SCH./KAUGAMA II,17/16/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50358/result_109302_1677767042_thumb.jpg,false
+JIGAWA,KAUGAMA,KAUGAMA,KAUGAMA SPECIAL PRI. SCH. /KAUGAMA I,17/16/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50357/result_109301_1677767030_thumb.jpg,false

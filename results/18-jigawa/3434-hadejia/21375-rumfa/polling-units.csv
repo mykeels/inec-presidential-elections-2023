@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,HADEJIA,,KALABAKORI/HUDU IPS II,17/13/08/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21375/pu/144707/144707-1677689524.pdf,true
-JIGAWA,HADEJIA,,RUMFA/ MASS EDUCATION OFFICE,17/13/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21375/pu/49951/49951-1677689361.pdf,true
-JIGAWA,HADEJIA,,RUMFA/CIVIL DEFENCE OFFICE,17/13/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21375/pu/49950/49950-1677689088.pdf,true
-JIGAWA,HADEJIA,,KWARIN NAGANDA,17/13/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21375/pu/49948/49948-1677689004.pdf,true
-JIGAWA,HADEJIA,,KILABAKORI/HUDU I.P.S,17/13/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21375/pu/49945/49945-1677688685.pdf,true
-JIGAWA,HADEJIA,,DURUMIN GAMMA/KJOFAR GUMAJI,17/13/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21375/pu/49944/49944-1677688469.pdf,true
-JIGAWA,HADEJIA,,DURUMIN GAMMA,17/13/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21375/pu/49943/49943-1677688449.pdf,true
-JIGAWA,HADEJIA,,BAYI/BAYI I.P.S,17/13/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21375/pu/49941/49941-1677688021.pdf,true
-JIGAWA,HADEJIA,,KWARIN LIFIDA/UNG. DUKAWA,17/13/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21375/pu/49947/49947-1677688008.pdf,true
-JIGAWA,HADEJIA,,BADERIN GABAS,17/13/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21375/pu/49940/49940-1677687756.pdf,true
-JIGAWA,HADEJIA,,KWARIN LIFIDA,17/13/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21375/pu/49946/49946-1677687133.pdf,true
-JIGAWA,HADEJIA,,OLD CHAMBER/COUNCIL CHAMBER,17/13/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49858/result_108695_1677628828_thumb.jpg,true
-JIGAWA,HADEJIA,,BAYI/ KOFAR CHIROMA,17/13/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49851/result_108688_1677627996_thumb.jpg,true
+JIGAWA,HADEJIA,RUMFA,KALABAKORI/HUDU IPS II,17/13/08/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21375/pu/144707/144707-1677689524.pdf,true
+JIGAWA,HADEJIA,RUMFA,RUMFA/ MASS EDUCATION OFFICE,17/13/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21375/pu/49951/49951-1677689361.pdf,true
+JIGAWA,HADEJIA,RUMFA,RUMFA/CIVIL DEFENCE OFFICE,17/13/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21375/pu/49950/49950-1677689088.pdf,true
+JIGAWA,HADEJIA,RUMFA,KWARIN NAGANDA,17/13/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21375/pu/49948/49948-1677689004.pdf,true
+JIGAWA,HADEJIA,RUMFA,KILABAKORI/HUDU I.P.S,17/13/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21375/pu/49945/49945-1677688685.pdf,true
+JIGAWA,HADEJIA,RUMFA,DURUMIN GAMMA/KJOFAR GUMAJI,17/13/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21375/pu/49944/49944-1677688469.pdf,true
+JIGAWA,HADEJIA,RUMFA,DURUMIN GAMMA,17/13/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21375/pu/49943/49943-1677688449.pdf,true
+JIGAWA,HADEJIA,RUMFA,BAYI/BAYI I.P.S,17/13/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21375/pu/49941/49941-1677688021.pdf,true
+JIGAWA,HADEJIA,RUMFA,KWARIN LIFIDA/UNG. DUKAWA,17/13/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21375/pu/49947/49947-1677688008.pdf,true
+JIGAWA,HADEJIA,RUMFA,BADERIN GABAS,17/13/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21375/pu/49940/49940-1677687756.pdf,true
+JIGAWA,HADEJIA,RUMFA,KWARIN LIFIDA,17/13/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3434/ward/21375/pu/49946/49946-1677687133.pdf,true
+JIGAWA,HADEJIA,RUMFA,OLD CHAMBER/COUNCIL CHAMBER,17/13/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49858/result_108695_1677628828_thumb.jpg,true
+JIGAWA,HADEJIA,RUMFA,BAYI/ KOFAR CHIROMA,17/13/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49851/result_108688_1677627996_thumb.jpg,true

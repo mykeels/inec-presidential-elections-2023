@@ -1,21 +1,21 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,RINGIM,,JSS GASAKOLE,17/23/09/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/145126/145126-1677483322.pdf,false
-JIGAWA,RINGIM,,TOFA PRI. SCH. TOFA/KANTAMAWA II,17/23/09/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/145125/145125-1677483086.pdf,false
-JIGAWA,RINGIM,,DADIN KOWA GABAS/DADIN KOWA,17/23/09/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51319/51319-1677482931.pdf,false
-JIGAWA,RINGIM,,GERAWA PRI. SCH. GERAWA,17/23/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51312/51312-1677482774.pdf,false
-JIGAWA,RINGIM,,DANDI PRI. SCH.  DANDI  I,17/23/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51314/51314-1677482567.pdf,false
-JIGAWA,RINGIM,,DANMAKERI PRI. SCH.,17/23/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51316/51316-1677482408.pdf,false
-JIGAWA,RINGIM,,KOFAR MAI'UNGUWA/DANEJI,17/23/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51310/51310-1677482240.pdf,false
-JIGAWA,RINGIM,,KOFAR MAI'UNGUWA/GOFAWA,17/23/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51311/51311-1677482222.pdf,false
-JIGAWA,RINGIM,,KOFAR MAI'UNGUWA/MADOBA,17/23/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51309/51309-1677482085.pdf,false
-JIGAWA,RINGIM,,TOFA PRI. SCH. TOFA/KANTAMAWA,17/23/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51304/51304-1677481949.pdf,false
-JIGAWA,RINGIM,,D/MAKERA/KOFAR YAMMA / JANKAWA,17/23/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51317/51317-1677481849.pdf,false
-JIGAWA,RINGIM,,KOFAR MAIUNGUWA/KAGADAMA TSURU,17/23/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51305/51305-1677481712.pdf,false
-JIGAWA,RINGIM,,DANDI PRI. SCH.  DANDI  II,17/23/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51315/51315-1677481561.pdf,false
-JIGAWA,RINGIM,,KOFAR MAIUNGUWA/ZANGON BULUNTU,17/23/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51306/51306-1677481260.pdf,false
-JIGAWA,RINGIM,,"GERAWA, PRIMARY SCHOOL",17/23/09/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51320/51320-1677480853.pdf,false
-JIGAWA,RINGIM,,SHENGEL PRI. SCH.  SHENGEL,17/23/09/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51318/51318-1677480702.pdf,false
-JIGAWA,RINGIM,,HAMBARAWA PRI. SCH.  HAMBARAWA JAMMARI,17/23/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51308/51308-1677480519.pdf,false
-JIGAWA,RINGIM,,KUDE OPEN SHADE,17/23/09/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/145127/145127-1677480120.pdf,false
-JIGAWA,RINGIM,,GASAKOLE PRI. SCH. GASAKOLE,17/23/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51313/51313-1677479842.pdf,false
-JIGAWA,RINGIM,,KOFAR MAIUNGUWA/YANTASAU,17/23/09/004,,false
+JIGAWA,RINGIM,TOFA,JSS GASAKOLE,17/23/09/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/145126/145126-1677483322.pdf,false
+JIGAWA,RINGIM,TOFA,TOFA PRI. SCH. TOFA/KANTAMAWA II,17/23/09/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/145125/145125-1677483086.pdf,false
+JIGAWA,RINGIM,TOFA,DADIN KOWA GABAS/DADIN KOWA,17/23/09/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51319/51319-1677482931.pdf,false
+JIGAWA,RINGIM,TOFA,GERAWA PRI. SCH. GERAWA,17/23/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51312/51312-1677482774.pdf,false
+JIGAWA,RINGIM,TOFA,DANDI PRI. SCH.  DANDI  I,17/23/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51314/51314-1677482567.pdf,false
+JIGAWA,RINGIM,TOFA,DANMAKERI PRI. SCH.,17/23/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51316/51316-1677482408.pdf,false
+JIGAWA,RINGIM,TOFA,KOFAR MAI'UNGUWA/DANEJI,17/23/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51310/51310-1677482240.pdf,false
+JIGAWA,RINGIM,TOFA,KOFAR MAI'UNGUWA/GOFAWA,17/23/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51311/51311-1677482222.pdf,false
+JIGAWA,RINGIM,TOFA,KOFAR MAI'UNGUWA/MADOBA,17/23/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51309/51309-1677482085.pdf,false
+JIGAWA,RINGIM,TOFA,TOFA PRI. SCH. TOFA/KANTAMAWA,17/23/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51304/51304-1677481949.pdf,false
+JIGAWA,RINGIM,TOFA,D/MAKERA/KOFAR YAMMA / JANKAWA,17/23/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51317/51317-1677481849.pdf,false
+JIGAWA,RINGIM,TOFA,KOFAR MAIUNGUWA/KAGADAMA TSURU,17/23/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51305/51305-1677481712.pdf,false
+JIGAWA,RINGIM,TOFA,DANDI PRI. SCH.  DANDI  II,17/23/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51315/51315-1677481561.pdf,false
+JIGAWA,RINGIM,TOFA,KOFAR MAIUNGUWA/ZANGON BULUNTU,17/23/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51306/51306-1677481260.pdf,false
+JIGAWA,RINGIM,TOFA,"GERAWA, PRIMARY SCHOOL",17/23/09/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51320/51320-1677480853.pdf,false
+JIGAWA,RINGIM,TOFA,SHENGEL PRI. SCH.  SHENGEL,17/23/09/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51318/51318-1677480702.pdf,false
+JIGAWA,RINGIM,TOFA,HAMBARAWA PRI. SCH.  HAMBARAWA JAMMARI,17/23/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51308/51308-1677480519.pdf,false
+JIGAWA,RINGIM,TOFA,KUDE OPEN SHADE,17/23/09/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/145127/145127-1677480120.pdf,false
+JIGAWA,RINGIM,TOFA,GASAKOLE PRI. SCH. GASAKOLE,17/23/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21484/pu/51313/51313-1677479842.pdf,false
+JIGAWA,RINGIM,TOFA,KOFAR MAIUNGUWA/YANTASAU,17/23/09/004,,false

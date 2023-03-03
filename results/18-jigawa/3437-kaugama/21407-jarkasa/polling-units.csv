@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,KAUGAMA,,KAMBARIWA GARI / KAMBARIWA,17/16/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21407/pu/50439/50439-1677670071.pdf,false
-JIGAWA,KAUGAMA,,GIRBOBO PRI. SCH./ GIRBOBO  II,17/16/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21407/pu/50438/50438-1677669733.pdf,false
-JIGAWA,KAUGAMA,,GIRTIGINI PLAY GROUND,17/16/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21407/pu/144812/144812-1677669124.pdf,false
-JIGAWA,KAUGAMA,,S/G BADUMA PRI. SCH/ BADUMA,17/16/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21407/pu/50447/50447-1677668512.pdf,false
-JIGAWA,KAUGAMA,,KOTA PRI. SCH./KOTA,17/16/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21407/pu/50443/50443-1677668197.pdf,false
-JIGAWA,KAUGAMA,,BULTUWA PRI. SCH./ BULTUWA  II,17/16/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21407/pu/50445/50445-1677667364.pdf,false
-JIGAWA,KAUGAMA,,DODORIN GIRBOBO PRI. SCH. /DODORIN,17/16/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21407/pu/50440/50440-1677667304.pdf,false
-JIGAWA,KAUGAMA,,YARDA BABBA PRI. SCH. / YARDA,17/16/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21407/pu/50446/50446-1677666785.pdf,false
-JIGAWA,KAUGAMA,,KUKURI PRI. SCH. /KUKURI,17/16/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/07/pu/005/005-1677373033.pdf,false
-JIGAWA,KAUGAMA,,JSS GIRBOBO,17/16/07/013,,false
-JIGAWA,KAUGAMA,,GIRBOBO PRI. SCH./ GIRBOBO I,17/16/07/001,,false
-JIGAWA,KAUGAMA,,MARMA GWALERIMA PRI. SCH. / MARMA,17/16/07/006,,false
-JIGAWA,KAUGAMA,,BULTUWA PRI. SCH./ BULTUWA  I,17/16/07/008,,false
+JIGAWA,KAUGAMA,JARKASA,KAMBARIWA GARI / KAMBARIWA,17/16/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21407/pu/50439/50439-1677670071.pdf,false
+JIGAWA,KAUGAMA,JARKASA,GIRBOBO PRI. SCH./ GIRBOBO  II,17/16/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21407/pu/50438/50438-1677669733.pdf,false
+JIGAWA,KAUGAMA,JARKASA,GIRTIGINI PLAY GROUND,17/16/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21407/pu/144812/144812-1677669124.pdf,false
+JIGAWA,KAUGAMA,JARKASA,S/G BADUMA PRI. SCH/ BADUMA,17/16/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21407/pu/50447/50447-1677668512.pdf,false
+JIGAWA,KAUGAMA,JARKASA,KOTA PRI. SCH./KOTA,17/16/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21407/pu/50443/50443-1677668197.pdf,false
+JIGAWA,KAUGAMA,JARKASA,BULTUWA PRI. SCH./ BULTUWA  II,17/16/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21407/pu/50445/50445-1677667364.pdf,false
+JIGAWA,KAUGAMA,JARKASA,DODORIN GIRBOBO PRI. SCH. /DODORIN,17/16/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21407/pu/50440/50440-1677667304.pdf,false
+JIGAWA,KAUGAMA,JARKASA,YARDA BABBA PRI. SCH. / YARDA,17/16/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21407/pu/50446/50446-1677666785.pdf,false
+JIGAWA,KAUGAMA,JARKASA,KUKURI PRI. SCH. /KUKURI,17/16/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/07/pu/005/005-1677373033.pdf,false
+JIGAWA,KAUGAMA,JARKASA,JSS GIRBOBO,17/16/07/013,,false
+JIGAWA,KAUGAMA,JARKASA,GIRBOBO PRI. SCH./ GIRBOBO I,17/16/07/001,,false
+JIGAWA,KAUGAMA,JARKASA,MARMA GWALERIMA PRI. SCH. / MARMA,17/16/07/006,,false
+JIGAWA,KAUGAMA,JARKASA,BULTUWA PRI. SCH./ BULTUWA  I,17/16/07/008,,false

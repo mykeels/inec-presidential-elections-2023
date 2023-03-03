@@ -1,16 +1,16 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,BIRNIWA,,KAZURA PRI SCH  II,17/04/08/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/015/015-1677427832.pdf,false
-JIGAWA,BIRNIWA,,KOFAR MAIGARI/GARIN M. JIBOI GELJAMNI,17/04/08/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/014/014-1677426912.pdf,false
-JIGAWA,BIRNIWA,,KOFAR MAIGARI/SHADAWANKA/FULANI,17/04/08/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/013/013-1677426422.pdf,false
-JIGAWA,BIRNIWA,,ADAMRI PRI. SCH/ADAMRI,17/04/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/012/012-1677425571.pdf,false
-JIGAWA,BIRNIWA,,LAWANDI PRI. SCH / LAWANDI/MATTAFARI,17/04/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/011/011-1677424924.pdf,false
-JIGAWA,BIRNIWA,,KOFAR MAIGARI/BULACHANDI,17/04/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/007/007-1677424141.pdf,false
-JIGAWA,BIRNIWA,,KOFAR MAIGARI /MATARA GURA,17/04/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/005/005-1677423493.pdf,false
-JIGAWA,BIRNIWA,,KOFAR GARIN GWANI,17/04/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/004/004-1677422648.pdf,false
-JIGAWA,BIRNIWA,,KOFAR MAIGARI/GARIN-GWANI,17/04/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/003/003-1677422366.pdf,false
-JIGAWA,BIRNIWA,,KUKAWA PRI. SCH. / KUKAWA GETSEMU,17/04/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/009/009-1677394680.pdf,false
-JIGAWA,BIRNIWA,,BEGUWA PRI. SCH /BEGUWA/MUNKAWO,17/04/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/008/008-1677389578.pdf,false
-JIGAWA,BIRNIWA,,GATARE  PRI.  SCH. GATARE,17/04/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/006/006-1677367874.pdf,false
-JIGAWA,BIRNIWA,,KOFAR MAIGARI/KAZARAI,17/04/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/002/002-1677396921.pdf,false
-JIGAWA,BIRNIWA,,DOLE PRI.SCH /DOLEN ABDU/KOROJIA,17/04/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/010/010-1677396622.pdf,false
-JIGAWA,BIRNIWA,,KAZURA PRI. SCH KAZURA/JARUWA/GILAGI,17/04/08/001,,false
+JIGAWA,BIRNIWA,KAZURA,KAZURA PRI SCH  II,17/04/08/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/015/015-1677427832.pdf,false
+JIGAWA,BIRNIWA,KAZURA,KOFAR MAIGARI/GARIN M. JIBOI GELJAMNI,17/04/08/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/014/014-1677426912.pdf,false
+JIGAWA,BIRNIWA,KAZURA,KOFAR MAIGARI/SHADAWANKA/FULANI,17/04/08/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/013/013-1677426422.pdf,false
+JIGAWA,BIRNIWA,KAZURA,ADAMRI PRI. SCH/ADAMRI,17/04/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/012/012-1677425571.pdf,false
+JIGAWA,BIRNIWA,KAZURA,LAWANDI PRI. SCH / LAWANDI/MATTAFARI,17/04/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/011/011-1677424924.pdf,false
+JIGAWA,BIRNIWA,KAZURA,KOFAR MAIGARI/BULACHANDI,17/04/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/007/007-1677424141.pdf,false
+JIGAWA,BIRNIWA,KAZURA,KOFAR MAIGARI /MATARA GURA,17/04/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/005/005-1677423493.pdf,false
+JIGAWA,BIRNIWA,KAZURA,KOFAR GARIN GWANI,17/04/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/004/004-1677422648.pdf,false
+JIGAWA,BIRNIWA,KAZURA,KOFAR MAIGARI/GARIN-GWANI,17/04/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/003/003-1677422366.pdf,false
+JIGAWA,BIRNIWA,KAZURA,KUKAWA PRI. SCH. / KUKAWA GETSEMU,17/04/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/009/009-1677394680.pdf,false
+JIGAWA,BIRNIWA,KAZURA,BEGUWA PRI. SCH /BEGUWA/MUNKAWO,17/04/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/008/008-1677389578.pdf,false
+JIGAWA,BIRNIWA,KAZURA,GATARE  PRI.  SCH. GATARE,17/04/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/006/006-1677367874.pdf,false
+JIGAWA,BIRNIWA,KAZURA,KOFAR MAIGARI/KAZARAI,17/04/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/002/002-1677396921.pdf,false
+JIGAWA,BIRNIWA,KAZURA,DOLE PRI.SCH /DOLEN ABDU/KOROJIA,17/04/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/010/010-1677396622.pdf,false
+JIGAWA,BIRNIWA,KAZURA,KAZURA PRI. SCH KAZURA/JARUWA/GILAGI,17/04/08/001,,false

@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,TAURA,,MAHONI PRI. SCH.,17/26/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/02/pu/003/003-1677412395.pdf,false
-JIGAWA,TAURA,,VILLAGE HEAD GROUND/ BARANWA,17/26/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/02/pu/005/005-1677412070.pdf,false
-JIGAWA,TAURA,,VILLAGE HEAD GROUND /GIDAN KILIYA,17/26/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/02/pu/004/004-1677405138.pdf,false
-JIGAWA,TAURA,,DANKARAYE PRI SCH.,17/26/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/02/pu/007/007-1677402057.pdf,false
-JIGAWA,TAURA,,CHAKWAIKWAIWA PRI. SCH. I,17/26/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/02/pu/001/001-1677401587.pdf,false
-JIGAWA,TAURA,,ZARGA/KAUYEN ZARGA PRI. SCH.,17/26/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/02/pu/008/008-1677400865.pdf,false
-JIGAWA,TAURA,,CHAKWAIKWAIWA PRI. SCH. IV,17/26/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/02/pu/011/011-1677400612.pdf,false
-JIGAWA,TAURA,,VILLAGE HEAD GROUND /YANBUKUDU,17/26/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/02/pu/009/009-1677400024.pdf,false
-JIGAWA,TAURA,,CHAKWAIKWAIWA PRI. SCH. II,17/26/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/02/pu/002/002-1677399625.pdf,false
-JIGAWA,TAURA,,YANYANGA PRI. SCH.,17/26/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/02/pu/006/006-1677398219.pdf,false
-JIGAWA,TAURA,,CHAKWAIKWAIWA PRI. SCH. III,17/26/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/02/pu/010/010-1677397984.pdf,false
+JIGAWA,TAURA,CHAKWAIKWAIWA,MAHONI PRI. SCH.,17/26/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/02/pu/003/003-1677412395.pdf,false
+JIGAWA,TAURA,CHAKWAIKWAIWA,VILLAGE HEAD GROUND/ BARANWA,17/26/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/02/pu/005/005-1677412070.pdf,false
+JIGAWA,TAURA,CHAKWAIKWAIWA,VILLAGE HEAD GROUND /GIDAN KILIYA,17/26/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/02/pu/004/004-1677405138.pdf,false
+JIGAWA,TAURA,CHAKWAIKWAIWA,DANKARAYE PRI SCH.,17/26/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/02/pu/007/007-1677402057.pdf,false
+JIGAWA,TAURA,CHAKWAIKWAIWA,CHAKWAIKWAIWA PRI. SCH. I,17/26/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/02/pu/001/001-1677401587.pdf,false
+JIGAWA,TAURA,CHAKWAIKWAIWA,ZARGA/KAUYEN ZARGA PRI. SCH.,17/26/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/02/pu/008/008-1677400865.pdf,false
+JIGAWA,TAURA,CHAKWAIKWAIWA,CHAKWAIKWAIWA PRI. SCH. IV,17/26/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/02/pu/011/011-1677400612.pdf,false
+JIGAWA,TAURA,CHAKWAIKWAIWA,VILLAGE HEAD GROUND /YANBUKUDU,17/26/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/02/pu/009/009-1677400024.pdf,false
+JIGAWA,TAURA,CHAKWAIKWAIWA,CHAKWAIKWAIWA PRI. SCH. II,17/26/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/02/pu/002/002-1677399625.pdf,false
+JIGAWA,TAURA,CHAKWAIKWAIWA,YANYANGA PRI. SCH.,17/26/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/02/pu/006/006-1677398219.pdf,false
+JIGAWA,TAURA,CHAKWAIKWAIWA,CHAKWAIKWAIWA PRI. SCH. III,17/26/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/02/pu/010/010-1677397984.pdf,false

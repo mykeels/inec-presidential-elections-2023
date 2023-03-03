@@ -1,10 +1,10 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,GWIWA,,KWARARE PRI. SCH II,17/12/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21366/pu/144679/144679-1677491336.pdf,false
-JIGAWA,GWIWA,,YOLA PRI. SCH. YOLA,17/12/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21366/pu/49860/49860-1677491069.pdf,false
-JIGAWA,GWIWA,,GASAKOLI PRI. SCH. GASAKOLI,17/12/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/001/001-1677392084.pdf,false
-JIGAWA,GWIWA,,KWARARE PRI. SCH. KWARARE,17/12/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/002/002-1677390880.pdf,false
-JIGAWA,GWIWA,,DODAL DANDALI/DODAL,17/12/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/004/004-1677389522.pdf,false
-JIGAWA,GWIWA,,DODAL ISLAMIYYA,17/12/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/006/006-1677387273.pdf,false
-JIGAWA,GWIWA,,GASAKOLI PRI. SCH. II,17/12/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/005/005-1677385706.pdf,false
-JIGAWA,GWIWA,,YOLA DANDALI,17/12/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/007/007-1677383683.pdf,false
-JIGAWA,GWIWA,,YOLA FARURE,17/12/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/008/008-1677382871.pdf,false
+JIGAWA,GWIWA,YOLA,KWARARE PRI. SCH II,17/12/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21366/pu/144679/144679-1677491336.pdf,false
+JIGAWA,GWIWA,YOLA,YOLA PRI. SCH. YOLA,17/12/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21366/pu/49860/49860-1677491069.pdf,false
+JIGAWA,GWIWA,YOLA,GASAKOLI PRI. SCH. GASAKOLI,17/12/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/001/001-1677392084.pdf,false
+JIGAWA,GWIWA,YOLA,KWARARE PRI. SCH. KWARARE,17/12/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/002/002-1677390880.pdf,false
+JIGAWA,GWIWA,YOLA,DODAL DANDALI/DODAL,17/12/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/004/004-1677389522.pdf,false
+JIGAWA,GWIWA,YOLA,DODAL ISLAMIYYA,17/12/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/006/006-1677387273.pdf,false
+JIGAWA,GWIWA,YOLA,GASAKOLI PRI. SCH. II,17/12/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/005/005-1677385706.pdf,false
+JIGAWA,GWIWA,YOLA,YOLA DANDALI,17/12/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/007/007-1677383683.pdf,false
+JIGAWA,GWIWA,YOLA,YOLA FARURE,17/12/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/008/008-1677382871.pdf,false

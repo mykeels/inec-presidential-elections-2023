@@ -26,6 +26,7 @@
     "pu_code_string": "170302007",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "document": {
       "external": true,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "170302005",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "170302024",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "document": {
       "external": false,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "170302022",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "document": {
       "external": false,
       "status": 1,
@@ -178,6 +182,7 @@
     "pu_code_string": "170302004",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "document": {
       "external": false,
       "status": 1,
@@ -216,6 +221,7 @@
     "pu_code_string": "170302025",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "document": {
       "external": false,
       "status": 1,
@@ -254,6 +260,7 @@
     "pu_code_string": "170302017",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "document": {
       "external": false,
       "status": 1,
@@ -292,6 +299,7 @@
     "pu_code_string": "170302027",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "document": {
       "external": false,
       "status": 1,
@@ -330,6 +338,7 @@
     "pu_code_string": "170302003",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -360,6 +369,7 @@
     "pu_code_string": "170302008",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -390,6 +400,7 @@
     "pu_code_string": "170302013",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -420,6 +431,7 @@
     "pu_code_string": "170302018",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -450,6 +462,7 @@
     "pu_code_string": "170302023",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -480,6 +493,7 @@
     "pu_code_string": "170302028",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -510,6 +524,7 @@
     "pu_code_string": "170302033",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -540,6 +555,7 @@
     "pu_code_string": "170302001",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -570,6 +586,7 @@
     "pu_code_string": "170302006",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -600,6 +617,7 @@
     "pu_code_string": "170302011",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -630,6 +648,7 @@
     "pu_code_string": "170302016",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -660,6 +679,7 @@
     "pu_code_string": "170302002",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -690,6 +710,7 @@
     "pu_code_string": "170302021",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -720,6 +741,7 @@
     "pu_code_string": "170302026",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -750,6 +772,7 @@
     "pu_code_string": "170302012",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -780,6 +803,7 @@
     "pu_code_string": "170302009",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -810,6 +834,7 @@
     "pu_code_string": "170302031",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -840,6 +865,7 @@
     "pu_code_string": "170302014",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -870,6 +896,7 @@
     "pu_code_string": "170302019",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -900,6 +927,7 @@
     "pu_code_string": "170302032",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -930,6 +958,7 @@
     "pu_code_string": "170302029",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -960,6 +989,7 @@
     "pu_code_string": "170302010",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -990,6 +1020,7 @@
     "pu_code_string": "170302015",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1020,6 +1051,7 @@
     "pu_code_string": "170302020",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1050,6 +1082,7 @@
     "pu_code_string": "170302030",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "KANGIRE",
     "old_documents": [],
     "has_old_documents": false
   }

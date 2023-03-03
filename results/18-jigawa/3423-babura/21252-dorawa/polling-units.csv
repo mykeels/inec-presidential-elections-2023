@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,BABURA,,RAFIN TSAMIYA II,17/02/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/013/013-1677428452.pdf,false
-JIGAWA,BABURA,,KUFANSHIRINYA/KUFANSHIRINYA,17/02/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/009/009-1677427823.pdf,false
-JIGAWA,BABURA,,LAUYA/RAFIN TSAMIYA,17/02/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/010/010-1677427739.pdf,false
-JIGAWA,BABURA,,GIRDO PRI. SCH./GIRDO GARI,17/02/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/008/008-1677427565.pdf,false
-JIGAWA,BABURA,,RAFIN TSAMIYA PRI.SCH,17/02/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/005/005-1677427289.pdf,false
-JIGAWA,BABURA,,GIDAN GIDE/GIDAN GIDE,17/02/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/007/007-1677426548.pdf,false
-JIGAWA,BABURA,,AJJAH GARI/AJJAH GARI,17/02/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/001/001-1677426145.pdf,false
-JIGAWA,BABURA,,GIDAN GANJI/GIDAN GANJI,17/02/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/006/006-1677426076.pdf,false
-JIGAWA,BABURA,,DORAWA WAJE/DORAWAWAJE,17/02/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/004/004-1677425595.pdf,false
-JIGAWA,BABURA,,DORAWA PRI. SCH. DORAWA,17/02/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/003/003-1677425186.pdf,false
-JIGAWA,BABURA,,DANMAKERI/DANMAKERI,17/02/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/002/002-1677424581.pdf,false
-JIGAWA,BABURA,,YADAGIRMA/YADAGIRMA,17/02/03/011,,false
-JIGAWA,BABURA,,DORAWA PRI. SCH. II,17/02/03/012,,false
+JIGAWA,BABURA,DORAWA,RAFIN TSAMIYA II,17/02/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/013/013-1677428452.pdf,false
+JIGAWA,BABURA,DORAWA,KUFANSHIRINYA/KUFANSHIRINYA,17/02/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/009/009-1677427823.pdf,false
+JIGAWA,BABURA,DORAWA,LAUYA/RAFIN TSAMIYA,17/02/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/010/010-1677427739.pdf,false
+JIGAWA,BABURA,DORAWA,GIRDO PRI. SCH./GIRDO GARI,17/02/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/008/008-1677427565.pdf,false
+JIGAWA,BABURA,DORAWA,RAFIN TSAMIYA PRI.SCH,17/02/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/005/005-1677427289.pdf,false
+JIGAWA,BABURA,DORAWA,GIDAN GIDE/GIDAN GIDE,17/02/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/007/007-1677426548.pdf,false
+JIGAWA,BABURA,DORAWA,AJJAH GARI/AJJAH GARI,17/02/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/001/001-1677426145.pdf,false
+JIGAWA,BABURA,DORAWA,GIDAN GANJI/GIDAN GANJI,17/02/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/006/006-1677426076.pdf,false
+JIGAWA,BABURA,DORAWA,DORAWA WAJE/DORAWAWAJE,17/02/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/004/004-1677425595.pdf,false
+JIGAWA,BABURA,DORAWA,DORAWA PRI. SCH. DORAWA,17/02/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/003/003-1677425186.pdf,false
+JIGAWA,BABURA,DORAWA,DANMAKERI/DANMAKERI,17/02/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/002/002-1677424581.pdf,false
+JIGAWA,BABURA,DORAWA,YADAGIRMA/YADAGIRMA,17/02/03/011,,false
+JIGAWA,BABURA,DORAWA,DORAWA PRI. SCH. II,17/02/03/012,,false

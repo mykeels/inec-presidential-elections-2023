@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,MAIGATARI,,KWANAR DANIYA,17/20/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/011/011-1677415576.pdf,false
-JIGAWA,MAIGATARI,,JAJERI PRI. SCH.  JAJERI II,17/20/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/002/002-1677415065.pdf,false
-JIGAWA,MAIGATARI,,YARDAR LAUTAI,17/20/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/012/012-1677415062.pdf,false
-JIGAWA,MAIGATARI,,FAGEN KURE/FAGEN KURE,17/20/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/008/008-1677414259.pdf,false
-JIGAWA,MAIGATARI,,JAJERI PRI. SCH.  JAJERI I,17/20/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/001/001-1677413171.pdf,false
-JIGAWA,MAIGATARI,,HANA KANGO PRI. SCH. HANA KANGO,17/20/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/010/010-1677411717.pdf,false
-JIGAWA,MAIGATARI,,ARBUS PRI. SCH ARBUS,17/20/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/006/006-1677410843.pdf,false
-JIGAWA,MAIGATARI,,DAUDARI PRI. SCH. DAUDARI,17/20/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/007/007-1677410865.pdf,false
-JIGAWA,MAIGATARI,,MAIDUNA/MAIDUNA,17/20/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/004/004-1677410076.pdf,false
-JIGAWA,MAIGATARI,,GARIN ALH. ABBA/GARIN ALH. ABBA,17/20/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/003/003-1677409249.pdf,false
-JIGAWA,MAIGATARI,,BANZARI PRI. SCH. BANZARI,17/20/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/005/005-1677408618.pdf,false
-JIGAWA,MAIGATARI,,KIRILLA/KIRILLA,17/20/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/009/009-1677406482.pdf,false
+JIGAWA,MAIGATARI,JAJERI,KWANAR DANIYA,17/20/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/011/011-1677415576.pdf,false
+JIGAWA,MAIGATARI,JAJERI,JAJERI PRI. SCH.  JAJERI II,17/20/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/002/002-1677415065.pdf,false
+JIGAWA,MAIGATARI,JAJERI,YARDAR LAUTAI,17/20/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/012/012-1677415062.pdf,false
+JIGAWA,MAIGATARI,JAJERI,FAGEN KURE/FAGEN KURE,17/20/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/008/008-1677414259.pdf,false
+JIGAWA,MAIGATARI,JAJERI,JAJERI PRI. SCH.  JAJERI I,17/20/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/001/001-1677413171.pdf,false
+JIGAWA,MAIGATARI,JAJERI,HANA KANGO PRI. SCH. HANA KANGO,17/20/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/010/010-1677411717.pdf,false
+JIGAWA,MAIGATARI,JAJERI,ARBUS PRI. SCH ARBUS,17/20/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/006/006-1677410843.pdf,false
+JIGAWA,MAIGATARI,JAJERI,DAUDARI PRI. SCH. DAUDARI,17/20/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/007/007-1677410865.pdf,false
+JIGAWA,MAIGATARI,JAJERI,MAIDUNA/MAIDUNA,17/20/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/004/004-1677410076.pdf,false
+JIGAWA,MAIGATARI,JAJERI,GARIN ALH. ABBA/GARIN ALH. ABBA,17/20/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/003/003-1677409249.pdf,false
+JIGAWA,MAIGATARI,JAJERI,BANZARI PRI. SCH. BANZARI,17/20/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/005/005-1677408618.pdf,false
+JIGAWA,MAIGATARI,JAJERI,KIRILLA/KIRILLA,17/20/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/009/009-1677406482.pdf,false

@@ -1,11 +1,11 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,BIRNIWA,,BABANKWARI PRI. SCH/ BABANKWARI,17/04/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/008/008-1677411990.pdf,false
-JIGAWA,BIRNIWA,,KOFAR MAIGARI/MALORI/DAKIMBA,17/04/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/006/006-1677409852.pdf,false
-JIGAWA,BIRNIWA,,KOFAR MAIGARI/LARABA,17/04/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/004/004-1677408722.pdf,false
-JIGAWA,BIRNIWA,,KOFAR MAIGARI/KANYA KARAMA,17/04/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/010/010-1677406604.pdf,false
-JIGAWA,BIRNIWA,,KANYA BABBA PRI. SCH/ KANYA BABBA,17/04/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/005/005-1677405093.pdf,false
-JIGAWA,BIRNIWA,,KOFAR MAIGARI/DARGAZAWA/ALHAJERI,17/04/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/009/009-1677404671.pdf,false
-JIGAWA,BIRNIWA,,KACHALLARI PRI. SCH/KACHALLARI I,17/04/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/001/001-1677404377.pdf,false
-JIGAWA,BIRNIWA,,TATAJIYA PRI SCH./ TATAJIYA,17/04/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/003/003-1677404038.pdf,false
-JIGAWA,BIRNIWA,,KOFAR MAIGARI/KOGUWA,17/04/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/007/007-1677402547.pdf,false
-JIGAWA,BIRNIWA,,KACHALLARI PRI. SCH/KACHALLARI II,17/04/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/002/002-1677401652.pdf,false
+JIGAWA,BIRNIWA,KACHALLARI,BABANKWARI PRI. SCH/ BABANKWARI,17/04/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/008/008-1677411990.pdf,false
+JIGAWA,BIRNIWA,KACHALLARI,KOFAR MAIGARI/MALORI/DAKIMBA,17/04/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/006/006-1677409852.pdf,false
+JIGAWA,BIRNIWA,KACHALLARI,KOFAR MAIGARI/LARABA,17/04/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/004/004-1677408722.pdf,false
+JIGAWA,BIRNIWA,KACHALLARI,KOFAR MAIGARI/KANYA KARAMA,17/04/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/010/010-1677406604.pdf,false
+JIGAWA,BIRNIWA,KACHALLARI,KANYA BABBA PRI. SCH/ KANYA BABBA,17/04/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/005/005-1677405093.pdf,false
+JIGAWA,BIRNIWA,KACHALLARI,KOFAR MAIGARI/DARGAZAWA/ALHAJERI,17/04/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/009/009-1677404671.pdf,false
+JIGAWA,BIRNIWA,KACHALLARI,KACHALLARI PRI. SCH/KACHALLARI I,17/04/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/001/001-1677404377.pdf,false
+JIGAWA,BIRNIWA,KACHALLARI,TATAJIYA PRI SCH./ TATAJIYA,17/04/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/003/003-1677404038.pdf,false
+JIGAWA,BIRNIWA,KACHALLARI,KOFAR MAIGARI/KOGUWA,17/04/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/007/007-1677402547.pdf,false
+JIGAWA,BIRNIWA,KACHALLARI,KACHALLARI PRI. SCH/KACHALLARI II,17/04/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/002/002-1677401652.pdf,false

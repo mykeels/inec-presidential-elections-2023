@@ -1,10 +1,10 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,KAZAURE,,MARADAWA/MARADAWA,17/17/07/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50461/result_109452_1677705190_thumb.jpg,false
-JIGAWA,KAZAURE,,BADORI PRI SCH /UNG. FURI,17/17/07/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50460/result_109451_1677705035_thumb.jpg,false
-JIGAWA,KAZAURE,,KARAFTAYI PRI. SCH./ KARAFTAYI,17/17/07/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50459/result_109450_1677704918_thumb.jpg,true
-JIGAWA,KAZAURE,,RAMIN TIFA/KA'EL,17/17/07/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50458/result_109449_1677704783_thumb.jpg,false
-JIGAWA,KAZAURE,,FITARE PRI.  SCH. / FITARE,17/17/07/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50456/result_109447_1677497732_thumb.jpg,false
-JIGAWA,KAZAURE,,GURU PRI. SCH. / GURU,17/17/07/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50457/result_109448_1677498201_thumb.jpg,false
-JIGAWA,KAZAURE,,WAWAN RAFI/WAWAN RAFI,17/17/07/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50463/result_109454_1677500121_thumb.jpg,false
-JIGAWA,KAZAURE,,KARAFTAYI CLINIC,17/17/07/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640067/result_109455_1677500239_thumb.jpg,false
-JIGAWA,KAZAURE,,WALAWAL/WALAWAL,17/17/07/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50462/result_109453_1677499547_thumb.jpg,false
+JIGAWA,KAZAURE,MARADAWA,MARADAWA/MARADAWA,17/17/07/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50461/result_109452_1677705190_thumb.jpg,false
+JIGAWA,KAZAURE,MARADAWA,BADORI PRI SCH /UNG. FURI,17/17/07/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50460/result_109451_1677705035_thumb.jpg,false
+JIGAWA,KAZAURE,MARADAWA,KARAFTAYI PRI. SCH./ KARAFTAYI,17/17/07/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50459/result_109450_1677704918_thumb.jpg,true
+JIGAWA,KAZAURE,MARADAWA,RAMIN TIFA/KA'EL,17/17/07/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50458/result_109449_1677704783_thumb.jpg,false
+JIGAWA,KAZAURE,MARADAWA,FITARE PRI.  SCH. / FITARE,17/17/07/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50456/result_109447_1677497732_thumb.jpg,false
+JIGAWA,KAZAURE,MARADAWA,GURU PRI. SCH. / GURU,17/17/07/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50457/result_109448_1677498201_thumb.jpg,false
+JIGAWA,KAZAURE,MARADAWA,WAWAN RAFI/WAWAN RAFI,17/17/07/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50463/result_109454_1677500121_thumb.jpg,false
+JIGAWA,KAZAURE,MARADAWA,KARAFTAYI CLINIC,17/17/07/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640067/result_109455_1677500239_thumb.jpg,false
+JIGAWA,KAZAURE,MARADAWA,WALAWAL/WALAWAL,17/17/07/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50462/result_109453_1677499547_thumb.jpg,false

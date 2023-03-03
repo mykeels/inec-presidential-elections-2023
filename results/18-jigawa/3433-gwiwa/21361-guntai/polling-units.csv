@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,GWIWA,,AGANGARO CIKIN GARI/ AGAN GARO,17/12/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49734/result_108524_1677602419_thumb.jpg,false
-JIGAWA,GWIWA,,INDIRAWAB CIKIN  GARI/INDIRAWA,17/12/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/05/pu/005/005-1677417445.pdf,false
-JIGAWA,GWIWA,,DANKAWA KOFAR M/UNGUWA/DANKAWA,17/12/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/05/pu/002/002-1677416135.pdf,false
-JIGAWA,GWIWA,,GALLA DANDALI/GALLA,17/12/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/05/pu/003/003-1677415597.pdf,false
-JIGAWA,GWIWA,,INDIRAWA PRI. SCHOOL,17/12/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/05/pu/011/011-1677414714.pdf,false
-JIGAWA,GWIWA,,KURNEJI DANDALI/KURNEJI,17/12/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/05/pu/008/008-1677412970.pdf,false
-JIGAWA,GWIWA,,GUNTAI PRI. SCH. GUNTAI,17/12/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/05/pu/004/004-1677412761.pdf,false
-JIGAWA,GWIWA,,GUNTAI CLINIC,17/12/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/05/pu/009/009-1677410453.pdf,false
-JIGAWA,GWIWA,,KURNEJI CIKIN GARI,17/12/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/05/pu/010/010-1677408017.pdf,false
-JIGAWA,GWIWA,,JIGAWA GARI C/GARI/  JIGAWAGARI,17/12/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/05/pu/006/006-1677404064.pdf,false
-JIGAWA,GWIWA,,KASAKA DANDALI/KASAKA,17/12/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/05/pu/007/007-1677379863.pdf,false
+JIGAWA,GWIWA,GUNTAI,AGANGARO CIKIN GARI/ AGAN GARO,17/12/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49734/result_108524_1677602419_thumb.jpg,false
+JIGAWA,GWIWA,GUNTAI,INDIRAWAB CIKIN  GARI/INDIRAWA,17/12/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/05/pu/005/005-1677417445.pdf,false
+JIGAWA,GWIWA,GUNTAI,DANKAWA KOFAR M/UNGUWA/DANKAWA,17/12/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/05/pu/002/002-1677416135.pdf,false
+JIGAWA,GWIWA,GUNTAI,GALLA DANDALI/GALLA,17/12/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/05/pu/003/003-1677415597.pdf,false
+JIGAWA,GWIWA,GUNTAI,INDIRAWA PRI. SCHOOL,17/12/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/05/pu/011/011-1677414714.pdf,false
+JIGAWA,GWIWA,GUNTAI,KURNEJI DANDALI/KURNEJI,17/12/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/05/pu/008/008-1677412970.pdf,false
+JIGAWA,GWIWA,GUNTAI,GUNTAI PRI. SCH. GUNTAI,17/12/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/05/pu/004/004-1677412761.pdf,false
+JIGAWA,GWIWA,GUNTAI,GUNTAI CLINIC,17/12/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/05/pu/009/009-1677410453.pdf,false
+JIGAWA,GWIWA,GUNTAI,KURNEJI CIKIN GARI,17/12/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/05/pu/010/010-1677408017.pdf,false
+JIGAWA,GWIWA,GUNTAI,JIGAWA GARI C/GARI/  JIGAWAGARI,17/12/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/05/pu/006/006-1677404064.pdf,false
+JIGAWA,GWIWA,GUNTAI,KASAKA DANDALI/KASAKA,17/12/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/05/pu/007/007-1677379863.pdf,false

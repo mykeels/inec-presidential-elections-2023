@@ -1,15 +1,15 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,DUTSE,,MAIKISHIRWA,17/06/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21295/pu/49020/49020-1677679974.pdf,false
-JIGAWA,DUTSE,,ZANGON BUJI II,17/06/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21295/pu/49022/49022-1677679479.pdf,false
-JIGAWA,DUTSE,,KARFAWA I,17/06/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21295/pu/49017/49017-1677679214.pdf,false
-JIGAWA,DUTSE,,BEN-BEN,17/06/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21295/pu/49012/49012-1677678727.pdf,false
-JIGAWA,DUTSE,,ZANGON BUJI I,17/06/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21295/pu/49021/49021-1677676913.pdf,false
-JIGAWA,DUTSE,,PHC DUNDUBUS,17/06/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21295/pu/144427/144427-1677675830.pdf,false
-JIGAWA,DUTSE,,KACHA PRI. SCH.,17/06/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21295/pu/49016/49016-1677675159.pdf,false
-JIGAWA,DUTSE,,ALANJERI PRI. SCH.,17/06/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21295/pu/49011/49011-1677674541.pdf,false
-JIGAWA,DUTSE,,DUNDUBUS GSSS,17/06/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21295/pu/144426/144426-1677673553.pdf,false
-JIGAWA,DUTSE,,BUJU CIKIN GARI PRI. SCH. II,17/06/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21295/pu/49014/49014-1677587221.pdf,true
-JIGAWA,DUTSE,,DUNDUBUS PRI. SCH.,17/06/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21295/pu/49015/49015-1677586863.pdf,true
-JIGAWA,DUTSE,,MAIBAREWA,17/06/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21295/pu/49019/49019-1677586310.pdf,false
-JIGAWA,DUTSE,,BUJU CIKIN GARI PRI. SCH. I,17/06/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21295/pu/49013/49013-1677585082.pdf,false
-JIGAWA,DUTSE,,KARFAWA II,17/06/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21295/pu/49018/49018-1677584324.pdf,false
+JIGAWA,DUTSE,DUNDUBUS,MAIKISHIRWA,17/06/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21295/pu/49020/49020-1677679974.pdf,false
+JIGAWA,DUTSE,DUNDUBUS,ZANGON BUJI II,17/06/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21295/pu/49022/49022-1677679479.pdf,false
+JIGAWA,DUTSE,DUNDUBUS,KARFAWA I,17/06/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21295/pu/49017/49017-1677679214.pdf,false
+JIGAWA,DUTSE,DUNDUBUS,BEN-BEN,17/06/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21295/pu/49012/49012-1677678727.pdf,false
+JIGAWA,DUTSE,DUNDUBUS,ZANGON BUJI I,17/06/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21295/pu/49021/49021-1677676913.pdf,false
+JIGAWA,DUTSE,DUNDUBUS,PHC DUNDUBUS,17/06/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21295/pu/144427/144427-1677675830.pdf,false
+JIGAWA,DUTSE,DUNDUBUS,KACHA PRI. SCH.,17/06/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21295/pu/49016/49016-1677675159.pdf,false
+JIGAWA,DUTSE,DUNDUBUS,ALANJERI PRI. SCH.,17/06/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21295/pu/49011/49011-1677674541.pdf,false
+JIGAWA,DUTSE,DUNDUBUS,DUNDUBUS GSSS,17/06/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21295/pu/144426/144426-1677673553.pdf,false
+JIGAWA,DUTSE,DUNDUBUS,BUJU CIKIN GARI PRI. SCH. II,17/06/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21295/pu/49014/49014-1677587221.pdf,true
+JIGAWA,DUTSE,DUNDUBUS,DUNDUBUS PRI. SCH.,17/06/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21295/pu/49015/49015-1677586863.pdf,true
+JIGAWA,DUTSE,DUNDUBUS,MAIBAREWA,17/06/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21295/pu/49019/49019-1677586310.pdf,false
+JIGAWA,DUTSE,DUNDUBUS,BUJU CIKIN GARI PRI. SCH. I,17/06/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21295/pu/49013/49013-1677585082.pdf,false
+JIGAWA,DUTSE,DUNDUBUS,KARFAWA II,17/06/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21295/pu/49018/49018-1677584324.pdf,false

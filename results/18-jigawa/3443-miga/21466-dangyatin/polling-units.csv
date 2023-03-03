@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,MIGA,,DANGYATUN C/GARI III,17/22/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/01/pu/011/011-1677416046.pdf,false
-JIGAWA,MIGA,,BURJI YANMALAM,17/22/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/01/pu/009/009-1677415136.pdf,false
-JIGAWA,MIGA,,BURJI FULATAWA,17/22/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/01/pu/005/005-1677414643.pdf,false
-JIGAWA,MIGA,,TSA,17/22/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/01/pu/003/003-1677413631.pdf,false
-JIGAWA,MIGA,,DANGYATUN PRI. SCH. DANGYATUN  I,17/22/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/01/pu/001/001-1677413007.pdf,false
-JIGAWA,MIGA,,DANGYATIN BASIC HEALTH CARE,17/22/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/01/pu/013/013-1677416317.pdf,false
-JIGAWA,MIGA,,KOMAI ALLAH YAYI GIDAN RUWA,17/22/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/01/pu/012/012-1677415820.pdf,false
-JIGAWA,MIGA,,KOMAI ALLAH YAYI,17/22/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/01/pu/010/010-1677415250.pdf,false
-JIGAWA,MIGA,,BURJI MAKERA PRI. SCH. II,17/22/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/01/pu/008/008-1677414818.pdf,false
-JIGAWA,MIGA,,BURJI MAKERA PRI. SCH. I,17/22/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/01/pu/007/007-1677414395.pdf,false
-JIGAWA,MIGA,,BURJI KAINAWA,17/22/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/01/pu/006/006-1677414184.pdf,false
-JIGAWA,MIGA,,BURJI C/GARI,17/22/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/01/pu/004/004-1677413670.pdf,false
-JIGAWA,MIGA,,DANGYATUN PRI. SCH. DANGYATUN  II,17/22/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/01/pu/002/002-1677413227.pdf,false
+JIGAWA,MIGA,DANGYATIN,DANGYATUN C/GARI III,17/22/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/01/pu/011/011-1677416046.pdf,false
+JIGAWA,MIGA,DANGYATIN,BURJI YANMALAM,17/22/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/01/pu/009/009-1677415136.pdf,false
+JIGAWA,MIGA,DANGYATIN,BURJI FULATAWA,17/22/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/01/pu/005/005-1677414643.pdf,false
+JIGAWA,MIGA,DANGYATIN,TSA,17/22/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/01/pu/003/003-1677413631.pdf,false
+JIGAWA,MIGA,DANGYATIN,DANGYATUN PRI. SCH. DANGYATUN  I,17/22/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/01/pu/001/001-1677413007.pdf,false
+JIGAWA,MIGA,DANGYATIN,DANGYATIN BASIC HEALTH CARE,17/22/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/01/pu/013/013-1677416317.pdf,false
+JIGAWA,MIGA,DANGYATIN,KOMAI ALLAH YAYI GIDAN RUWA,17/22/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/01/pu/012/012-1677415820.pdf,false
+JIGAWA,MIGA,DANGYATIN,KOMAI ALLAH YAYI,17/22/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/01/pu/010/010-1677415250.pdf,false
+JIGAWA,MIGA,DANGYATIN,BURJI MAKERA PRI. SCH. II,17/22/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/01/pu/008/008-1677414818.pdf,false
+JIGAWA,MIGA,DANGYATIN,BURJI MAKERA PRI. SCH. I,17/22/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/01/pu/007/007-1677414395.pdf,false
+JIGAWA,MIGA,DANGYATIN,BURJI KAINAWA,17/22/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/01/pu/006/006-1677414184.pdf,false
+JIGAWA,MIGA,DANGYATIN,BURJI C/GARI,17/22/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/01/pu/004/004-1677413670.pdf,false
+JIGAWA,MIGA,DANGYATIN,DANGYATUN PRI. SCH. DANGYATUN  II,17/22/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/01/pu/002/002-1677413227.pdf,false

@@ -1,16 +1,16 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,GURI,,TASGAN YAMMA,17/10/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49420/result_108139_1677770497_thumb.jpg,false
-JIGAWA,GURI,,GALDIMARI PRI. SCH. GALDIMARI  II,17/10/06/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49424/result_108143_1677743782_thumb.jpg,true
-JIGAWA,GURI,,ALANJO,17/10/06/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49419/result_108138_1677742750_thumb.jpg,true
-JIGAWA,GURI,,KADIRA PRI. SCH. KADIRA  I,17/10/06/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49416/result_108135_1677742575_thumb.jpg,true
-JIGAWA,GURI,,LAFIYARI,17/10/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49425/result_108144_1677715388_thumb.jpg,true
-JIGAWA,GURI,,KADIRA PRI. HEALTH CARE II,17/10/06/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640462/result_108149_1677715110_thumb.jpg,true
-JIGAWA,GURI,,KADIRA PRI. HEALTH CARE I,17/10/06/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640461/result_108148_1677714835_thumb.jpg,true
-JIGAWA,GURI,,DOLERI,17/10/06/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49428/result_108147_1677714617_thumb.jpg,true
-JIGAWA,GURI,,JANGO,17/10/06/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49427/result_108146_1677714106_thumb.jpg,true
-JIGAWA,GURI,,GIRYO,17/10/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49426/result_108145_1677713844_thumb.jpg,true
-JIGAWA,GURI,,KADIRA PRI. SCH. KADIRA  II,17/10/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49417/result_108136_1677710347_thumb.jpg,true
-JIGAWA,GURI,,ARIN JASKO,17/10/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49422/result_108141_1677710167_thumb.jpg,true
-JIGAWA,GURI,,GALDIMARI PRI. SCH. GALDIMARI  I,17/10/06/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49423/result_108142_1677709206_thumb.jpg,true
-JIGAWA,GURI,,KADIRA PRI. SCH. KADIRA  III,17/10/06/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49418/result_108137_1677708112_thumb.jpg,true
-JIGAWA,GURI,,ZUBA FINJI,17/10/06/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49421/result_108140_1677707200_thumb.jpg,true
+JIGAWA,GURI,KADIRA,TASGAN YAMMA,17/10/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49420/result_108139_1677770497_thumb.jpg,false
+JIGAWA,GURI,KADIRA,GALDIMARI PRI. SCH. GALDIMARI  II,17/10/06/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49424/result_108143_1677743782_thumb.jpg,true
+JIGAWA,GURI,KADIRA,ALANJO,17/10/06/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49419/result_108138_1677742750_thumb.jpg,true
+JIGAWA,GURI,KADIRA,KADIRA PRI. SCH. KADIRA  I,17/10/06/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49416/result_108135_1677742575_thumb.jpg,true
+JIGAWA,GURI,KADIRA,LAFIYARI,17/10/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49425/result_108144_1677715388_thumb.jpg,true
+JIGAWA,GURI,KADIRA,KADIRA PRI. HEALTH CARE II,17/10/06/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640462/result_108149_1677715110_thumb.jpg,true
+JIGAWA,GURI,KADIRA,KADIRA PRI. HEALTH CARE I,17/10/06/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640461/result_108148_1677714835_thumb.jpg,true
+JIGAWA,GURI,KADIRA,DOLERI,17/10/06/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49428/result_108147_1677714617_thumb.jpg,true
+JIGAWA,GURI,KADIRA,JANGO,17/10/06/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49427/result_108146_1677714106_thumb.jpg,true
+JIGAWA,GURI,KADIRA,GIRYO,17/10/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49426/result_108145_1677713844_thumb.jpg,true
+JIGAWA,GURI,KADIRA,KADIRA PRI. SCH. KADIRA  II,17/10/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49417/result_108136_1677710347_thumb.jpg,true
+JIGAWA,GURI,KADIRA,ARIN JASKO,17/10/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49422/result_108141_1677710167_thumb.jpg,true
+JIGAWA,GURI,KADIRA,GALDIMARI PRI. SCH. GALDIMARI  I,17/10/06/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49423/result_108142_1677709206_thumb.jpg,true
+JIGAWA,GURI,KADIRA,KADIRA PRI. SCH. KADIRA  III,17/10/06/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49418/result_108137_1677708112_thumb.jpg,true
+JIGAWA,GURI,KADIRA,ZUBA FINJI,17/10/06/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49421/result_108140_1677707200_thumb.jpg,true

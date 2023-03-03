@@ -26,6 +26,7 @@
     "pu_code_string": "171411007",
     "state_name": "JIGAWA",
     "lga_name": "JAHUN",
+    "ward_name": "KANWA",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "171411009",
     "state_name": "JIGAWA",
     "lga_name": "JAHUN",
+    "ward_name": "KANWA",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "171411012",
     "state_name": "JIGAWA",
     "lga_name": "JAHUN",
+    "ward_name": "KANWA",
     "document": {
       "external": false,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "171411005",
     "state_name": "JIGAWA",
     "lga_name": "JAHUN",
+    "ward_name": "KANWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -170,6 +174,7 @@
     "pu_code_string": "171411010",
     "state_name": "JIGAWA",
     "lga_name": "JAHUN",
+    "ward_name": "KANWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -200,6 +205,7 @@
     "pu_code_string": "171411015",
     "state_name": "JIGAWA",
     "lga_name": "JAHUN",
+    "ward_name": "KANWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -230,6 +236,7 @@
     "pu_code_string": "171411003",
     "state_name": "JIGAWA",
     "lga_name": "JAHUN",
+    "ward_name": "KANWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -260,6 +267,7 @@
     "pu_code_string": "171411008",
     "state_name": "JIGAWA",
     "lga_name": "JAHUN",
+    "ward_name": "KANWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -290,6 +298,7 @@
     "pu_code_string": "171411013",
     "state_name": "JIGAWA",
     "lga_name": "JAHUN",
+    "ward_name": "KANWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -320,6 +329,7 @@
     "pu_code_string": "171411001",
     "state_name": "JIGAWA",
     "lga_name": "JAHUN",
+    "ward_name": "KANWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -350,6 +360,7 @@
     "pu_code_string": "171411006",
     "state_name": "JIGAWA",
     "lga_name": "JAHUN",
+    "ward_name": "KANWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -380,6 +391,7 @@
     "pu_code_string": "171411011",
     "state_name": "JIGAWA",
     "lga_name": "JAHUN",
+    "ward_name": "KANWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -410,6 +422,7 @@
     "pu_code_string": "171411004",
     "state_name": "JIGAWA",
     "lga_name": "JAHUN",
+    "ward_name": "KANWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -440,6 +453,7 @@
     "pu_code_string": "171411016",
     "state_name": "JIGAWA",
     "lga_name": "JAHUN",
+    "ward_name": "KANWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -470,6 +484,7 @@
     "pu_code_string": "171411014",
     "state_name": "JIGAWA",
     "lga_name": "JAHUN",
+    "ward_name": "KANWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -500,6 +515,7 @@
     "pu_code_string": "171411002",
     "state_name": "JIGAWA",
     "lga_name": "JAHUN",
+    "ward_name": "KANWA",
     "old_documents": [],
     "has_old_documents": false
   }

@@ -1,22 +1,22 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,KAFIN HAUSA,,TAGE PRI. SCH. II,17/15/04/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21393/pu/144758/144758-1677760846.pdf,false
-JIGAWA,KAFIN HAUSA,,JABO  PRI. SCH II,17/15/04/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21393/pu/144756/144756-1677760323.pdf,true
-JIGAWA,KAFIN HAUSA,,VILLAGE CENTRE/SABONGIDA,17/15/04/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21393/pu/50247/50247-1677760056.pdf,false
-JIGAWA,KAFIN HAUSA,,YOLA MUSA PRI. SCH.,17/15/04/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21393/pu/50246/50246-1677759686.pdf,false
-JIGAWA,KAFIN HAUSA,,WA'EK PRI. SCH.,17/15/04/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21393/pu/50245/50245-1677759322.pdf,false
-JIGAWA,KAFIN HAUSA,,INKAIBO PRI. SCH.,17/15/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21393/pu/50238/50238-1677758748.pdf,false
-JIGAWA,KAFIN HAUSA,,SHUWARI PRI.  SCH.,17/15/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21393/pu/50243/50243-1677757714.pdf,false
-JIGAWA,KAFIN HAUSA,,LIMAWA PRY SCH,17/15/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21393/pu/50241/50241-1677757416.pdf,false
-JIGAWA,KAFIN HAUSA,,JABO PRI. SCH.,17/15/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21393/pu/50239/50239-1677756328.pdf,false
-JIGAWA,KAFIN HAUSA,,HAGO PRI. SCH.,17/15/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21393/pu/50236/50236-1677755776.pdf,false
-JIGAWA,KAFIN HAUSA,,HAGO PRI. SCH. II,17/15/04/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21393/pu/144755/144755-1677743029.pdf,false
-JIGAWA,KAFIN HAUSA,,VILLAGE CENTRE/HARDO ALI,17/15/04/007,,true
-JIGAWA,KAFIN HAUSA,,AIMUN PRI. SCH.,17/15/04/001,,true
-JIGAWA,KAFIN HAUSA,,AKURYA PRI. SCH,17/15/04/002,,true
-JIGAWA,KAFIN HAUSA,,GUMALDUWA PRI. SCH. GUMALDUWA,17/15/04/005,,true
-JIGAWA,KAFIN HAUSA,,GAMAYIN PRI. SCH.,17/15/04/004,,true
-JIGAWA,KAFIN HAUSA,,GABARI PRI. SCH,17/15/04/003,,true
-JIGAWA,KAFIN HAUSA,,VILLAGE CENTRE/MALUMAWA,17/15/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21393/pu/50242/50242-1677496340.pdf,false
-JIGAWA,KAFIN HAUSA,,LIMAWA PRI. SCH. II,17/15/04/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/04/pu/020/020-1677422074.pdf,false
-JIGAWA,KAFIN HAUSA,,TAGE PRI. SCH.,17/15/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/04/pu/014/014-1677414413.pdf,false
-JIGAWA,KAFIN HAUSA,,KIRABABBA PRI. SCH.,17/15/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/04/pu/010/010-1677402376.pdf,false
+JIGAWA,KAFIN HAUSA,JABO,TAGE PRI. SCH. II,17/15/04/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21393/pu/144758/144758-1677760846.pdf,false
+JIGAWA,KAFIN HAUSA,JABO,JABO  PRI. SCH II,17/15/04/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21393/pu/144756/144756-1677760323.pdf,true
+JIGAWA,KAFIN HAUSA,JABO,VILLAGE CENTRE/SABONGIDA,17/15/04/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21393/pu/50247/50247-1677760056.pdf,false
+JIGAWA,KAFIN HAUSA,JABO,YOLA MUSA PRI. SCH.,17/15/04/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21393/pu/50246/50246-1677759686.pdf,false
+JIGAWA,KAFIN HAUSA,JABO,WA'EK PRI. SCH.,17/15/04/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21393/pu/50245/50245-1677759322.pdf,false
+JIGAWA,KAFIN HAUSA,JABO,INKAIBO PRI. SCH.,17/15/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21393/pu/50238/50238-1677758748.pdf,false
+JIGAWA,KAFIN HAUSA,JABO,SHUWARI PRI.  SCH.,17/15/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21393/pu/50243/50243-1677757714.pdf,false
+JIGAWA,KAFIN HAUSA,JABO,LIMAWA PRY SCH,17/15/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21393/pu/50241/50241-1677757416.pdf,false
+JIGAWA,KAFIN HAUSA,JABO,JABO PRI. SCH.,17/15/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21393/pu/50239/50239-1677756328.pdf,false
+JIGAWA,KAFIN HAUSA,JABO,HAGO PRI. SCH.,17/15/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21393/pu/50236/50236-1677755776.pdf,false
+JIGAWA,KAFIN HAUSA,JABO,HAGO PRI. SCH. II,17/15/04/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21393/pu/144755/144755-1677743029.pdf,false
+JIGAWA,KAFIN HAUSA,JABO,VILLAGE CENTRE/HARDO ALI,17/15/04/007,,true
+JIGAWA,KAFIN HAUSA,JABO,AIMUN PRI. SCH.,17/15/04/001,,true
+JIGAWA,KAFIN HAUSA,JABO,AKURYA PRI. SCH,17/15/04/002,,true
+JIGAWA,KAFIN HAUSA,JABO,GUMALDUWA PRI. SCH. GUMALDUWA,17/15/04/005,,true
+JIGAWA,KAFIN HAUSA,JABO,GAMAYIN PRI. SCH.,17/15/04/004,,true
+JIGAWA,KAFIN HAUSA,JABO,GABARI PRI. SCH,17/15/04/003,,true
+JIGAWA,KAFIN HAUSA,JABO,VILLAGE CENTRE/MALUMAWA,17/15/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3436/ward/21393/pu/50242/50242-1677496340.pdf,false
+JIGAWA,KAFIN HAUSA,JABO,LIMAWA PRI. SCH. II,17/15/04/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/04/pu/020/020-1677422074.pdf,false
+JIGAWA,KAFIN HAUSA,JABO,TAGE PRI. SCH.,17/15/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/04/pu/014/014-1677414413.pdf,false
+JIGAWA,KAFIN HAUSA,JABO,KIRABABBA PRI. SCH.,17/15/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/04/pu/010/010-1677402376.pdf,false

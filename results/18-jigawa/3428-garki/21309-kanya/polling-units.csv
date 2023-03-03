@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,GARKI,,UNGUWAR GANJI PRI. SCH. - UNG. GANJI  II,17/07/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/06/pu/004/004-1677412126.pdf,false
-JIGAWA,GARKI,,POLLING SHEAD - GWALLAWA,17/07/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/06/pu/006/006-1677407737.pdf,false
-JIGAWA,GARKI,,KANYA PRI. SCH - KANYA  II,17/07/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/06/pu/002/002-1677407109.pdf,false
-JIGAWA,GARKI,,MAKANGAWA PS,17/07/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/06/pu/012/012-1677406810.pdf,false
-JIGAWA,GARKI,,DAKI-DAKA PRI. SCH - DAKI-DAKA,17/07/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/06/pu/008/008-1677405684.pdf,false
-JIGAWA,GARKI,,POLLING SHEAD - KIRYA,17/07/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/06/pu/007/007-1677404717.pdf,false
-JIGAWA,GARKI,,MAKANGAWA PRI.- MAKANGAWA,17/07/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/06/pu/009/009-1677400023.pdf,false
-JIGAWA,GARKI,,POLLING SHADE - KWADAGEN DAKAROFI,17/07/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/06/pu/010/010-1677400021.pdf,false
-JIGAWA,GARKI,,POLLING SHEAD - UNGUWAR SAIDU,17/07/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/06/pu/005/005-1677394508.pdf,false
-JIGAWA,GARKI,,UNGUWAR GANJI PRI. SCH. - UNG.GANJI  I,17/07/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/06/pu/003/003-1677394013.pdf,false
-JIGAWA,GARKI,,DAKI DAKA PS II,17/07/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/06/pu/011/011-1677393918.pdf,false
-JIGAWA,GARKI,,KANYA PRI. SCH - KANYA  I,17/07/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/06/pu/001/001-1677378824.pdf,false
+JIGAWA,GARKI,KANYA,UNGUWAR GANJI PRI. SCH. - UNG. GANJI  II,17/07/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/06/pu/004/004-1677412126.pdf,false
+JIGAWA,GARKI,KANYA,POLLING SHEAD - GWALLAWA,17/07/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/06/pu/006/006-1677407737.pdf,false
+JIGAWA,GARKI,KANYA,KANYA PRI. SCH - KANYA  II,17/07/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/06/pu/002/002-1677407109.pdf,false
+JIGAWA,GARKI,KANYA,MAKANGAWA PS,17/07/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/06/pu/012/012-1677406810.pdf,false
+JIGAWA,GARKI,KANYA,DAKI-DAKA PRI. SCH - DAKI-DAKA,17/07/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/06/pu/008/008-1677405684.pdf,false
+JIGAWA,GARKI,KANYA,POLLING SHEAD - KIRYA,17/07/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/06/pu/007/007-1677404717.pdf,false
+JIGAWA,GARKI,KANYA,MAKANGAWA PRI.- MAKANGAWA,17/07/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/06/pu/009/009-1677400023.pdf,false
+JIGAWA,GARKI,KANYA,POLLING SHADE - KWADAGEN DAKAROFI,17/07/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/06/pu/010/010-1677400021.pdf,false
+JIGAWA,GARKI,KANYA,POLLING SHEAD - UNGUWAR SAIDU,17/07/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/06/pu/005/005-1677394508.pdf,false
+JIGAWA,GARKI,KANYA,UNGUWAR GANJI PRI. SCH. - UNG.GANJI  I,17/07/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/06/pu/003/003-1677394013.pdf,false
+JIGAWA,GARKI,KANYA,DAKI DAKA PS II,17/07/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/06/pu/011/011-1677393918.pdf,false
+JIGAWA,GARKI,KANYA,KANYA PRI. SCH - KANYA  I,17/07/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/06/pu/001/001-1677378824.pdf,false

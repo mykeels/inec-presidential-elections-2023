@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,GURI,,GIRLS SCIENCE STAFF QTRS II,17/10/05/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639838/result_108134_1677629356_thumb.jpg,false
-JIGAWA,GURI,,GIRLS SCIENCE STAFF QTRS I,17/10/05/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639837/result_108133_1677629197_thumb.jpg,false
-JIGAWA,GURI,,JUNIOR SEC. SCH. GURI II,17/10/05/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639836/result_108132_1677628977_thumb.jpg,false
-JIGAWA,GURI,,JUNIOR SEC. SCH. GURI I,17/10/05/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639835/result_108131_1677628844_thumb.jpg,false
-JIGAWA,GURI,,GOVT. DAY SEN. SEC. SCH. GURI II,17/10/05/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639834/result_108130_1677628342_thumb.jpg,false
-JIGAWA,GURI,,GOVT. DAY SEN. SEC. SCH. GURI I,17/10/05/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639833/result_108129_1677628122_thumb.jpg,false
-JIGAWA,GURI,,MODEL BORDING PRI. SCH. & JSS GURI II,17/10/05/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639832/result_108128_1677627850_thumb.jpg,false
-JIGAWA,GURI,,BODALA NOMADIC SCHOOL,17/10/05/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639831/result_108127_1677627608_thumb.jpg,false
-JIGAWA,GURI,,WARERI PRI. SCH WARERI  II,17/10/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49415/result_108126_1677627460_thumb.jpg,false
-JIGAWA,GURI,,WARERI PRI. SCH WARERI  I,17/10/05/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49414/result_108125_1677627192_thumb.jpg,false
-JIGAWA,GURI,,GURI J.S.S. II,17/10/05/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49413/result_108124_1677627028_thumb.jpg,false
-JIGAWA,GURI,,GURI J.S.S. I,17/10/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49412/result_108123_1677626877_thumb.jpg,false
-JIGAWA,GURI,,GURI BAKIN KASUWA II,17/10/05/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-JIGAWA,GURI,,GURI BAKIN KASUWA I,17/10/05/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49410/result_108121_1677626572_thumb.jpg,false
-JIGAWA,GURI,,GURI GABAS II,17/10/05/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49409/result_108120_1677626426_thumb.jpg,false
-JIGAWA,GURI,,GURI GABAS I,17/10/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49408/result_108119_1677626326_thumb.jpg,false
-JIGAWA,GURI,,GURI KOFOR FADA II,17/10/05/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49407/result_108118_1677625818_thumb.jpg,false
-JIGAWA,GURI,,GURI KOFOR FADA I,17/10/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49406/result_108117_1677625588_thumb.jpg,false
+JIGAWA,GURI,GURI,GIRLS SCIENCE STAFF QTRS II,17/10/05/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639838/result_108134_1677629356_thumb.jpg,false
+JIGAWA,GURI,GURI,GIRLS SCIENCE STAFF QTRS I,17/10/05/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639837/result_108133_1677629197_thumb.jpg,false
+JIGAWA,GURI,GURI,JUNIOR SEC. SCH. GURI II,17/10/05/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639836/result_108132_1677628977_thumb.jpg,false
+JIGAWA,GURI,GURI,JUNIOR SEC. SCH. GURI I,17/10/05/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639835/result_108131_1677628844_thumb.jpg,false
+JIGAWA,GURI,GURI,GOVT. DAY SEN. SEC. SCH. GURI II,17/10/05/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639834/result_108130_1677628342_thumb.jpg,false
+JIGAWA,GURI,GURI,GOVT. DAY SEN. SEC. SCH. GURI I,17/10/05/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639833/result_108129_1677628122_thumb.jpg,false
+JIGAWA,GURI,GURI,MODEL BORDING PRI. SCH. & JSS GURI II,17/10/05/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639832/result_108128_1677627850_thumb.jpg,false
+JIGAWA,GURI,GURI,BODALA NOMADIC SCHOOL,17/10/05/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639831/result_108127_1677627608_thumb.jpg,false
+JIGAWA,GURI,GURI,WARERI PRI. SCH WARERI  II,17/10/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49415/result_108126_1677627460_thumb.jpg,false
+JIGAWA,GURI,GURI,WARERI PRI. SCH WARERI  I,17/10/05/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49414/result_108125_1677627192_thumb.jpg,false
+JIGAWA,GURI,GURI,GURI J.S.S. II,17/10/05/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49413/result_108124_1677627028_thumb.jpg,false
+JIGAWA,GURI,GURI,GURI J.S.S. I,17/10/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49412/result_108123_1677626877_thumb.jpg,false
+JIGAWA,GURI,GURI,GURI BAKIN KASUWA II,17/10/05/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+JIGAWA,GURI,GURI,GURI BAKIN KASUWA I,17/10/05/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49410/result_108121_1677626572_thumb.jpg,false
+JIGAWA,GURI,GURI,GURI GABAS II,17/10/05/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49409/result_108120_1677626426_thumb.jpg,false
+JIGAWA,GURI,GURI,GURI GABAS I,17/10/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49408/result_108119_1677626326_thumb.jpg,false
+JIGAWA,GURI,GURI,GURI KOFOR FADA II,17/10/05/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49407/result_108118_1677625818_thumb.jpg,false
+JIGAWA,GURI,GURI,GURI KOFOR FADA I,17/10/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49406/result_108117_1677625588_thumb.jpg,false

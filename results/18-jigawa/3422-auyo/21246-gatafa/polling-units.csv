@@ -1,10 +1,10 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,AUYO,,"GATAFA YELWA 'B', GATAFA  VILLAGE",17/01/07/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48211/result_106596_1677509153_thumb.jpg,true
-JIGAWA,AUYO,,TSAKA K. FADA TSAKA,17/01/07/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48209/result_106594_1677509551_thumb.jpg,true
-JIGAWA,AUYO,,GATAFA PRIMARY SCHOOL II,17/01/07/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639532/result_106599_1677511223_thumb.jpg,true
-JIGAWA,AUYO,,GATAFA PRI. SCH. GATAF MADAKI,17/01/07/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48207/result_106592_1677508586_thumb.jpg,true
-JIGAWA,AUYO,,GATAFA PRI. SCH. GATFA YALWA 'A',17/01/07/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48206/result_106591_1677512001_thumb.jpg,true
-JIGAWA,AUYO,,GATAFA PRI. SCH. I,17/01/07/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639530/result_106597_1677510588_thumb.jpg,true
-JIGAWA,AUYO,,ARGINA PRI. SCH. ARGINA MAJIYA,17/01/07/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48210/result_106595_1677511031_thumb.jpg,true
-JIGAWA,AUYO,,GATAFA DISPENSARY GATAFA,17/01/07/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48208/result_106593_1677510073_thumb.jpg,true
-JIGAWA,AUYO,,GATAFA KAROFI,17/01/07/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639531/result_106598_1677510307_thumb.jpg,true
+JIGAWA,AUYO,GATAFA,"GATAFA YELWA 'B', GATAFA  VILLAGE",17/01/07/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48211/result_106596_1677509153_thumb.jpg,true
+JIGAWA,AUYO,GATAFA,TSAKA K. FADA TSAKA,17/01/07/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48209/result_106594_1677509551_thumb.jpg,true
+JIGAWA,AUYO,GATAFA,GATAFA PRIMARY SCHOOL II,17/01/07/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639532/result_106599_1677511223_thumb.jpg,true
+JIGAWA,AUYO,GATAFA,GATAFA PRI. SCH. GATAF MADAKI,17/01/07/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48207/result_106592_1677508586_thumb.jpg,true
+JIGAWA,AUYO,GATAFA,GATAFA PRI. SCH. GATFA YALWA 'A',17/01/07/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48206/result_106591_1677512001_thumb.jpg,true
+JIGAWA,AUYO,GATAFA,GATAFA PRI. SCH. I,17/01/07/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639530/result_106597_1677510588_thumb.jpg,true
+JIGAWA,AUYO,GATAFA,ARGINA PRI. SCH. ARGINA MAJIYA,17/01/07/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48210/result_106595_1677511031_thumb.jpg,true
+JIGAWA,AUYO,GATAFA,GATAFA DISPENSARY GATAFA,17/01/07/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48208/result_106593_1677510073_thumb.jpg,true
+JIGAWA,AUYO,GATAFA,GATAFA KAROFI,17/01/07/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639531/result_106598_1677510307_thumb.jpg,true

@@ -1,7 +1,7 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,YANKWASHI,,MAHAUYA NOMADIC SCH,17/27/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640417/result_111012_1677685663_thumb.jpg,false
-JIGAWA,YANKWASHI,,DUMBU PRI SCH 1,17/27/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640416/result_111011_1677685551_thumb.jpg,false
-JIGAWA,YANKWASHI,,OPEN SPACE/UNGUWAR KALGO,17/27/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51662/result_111010_1677685335_thumb.jpg,false
-JIGAWA,YANKWASHI,,OPEN SPACE/RURUMA,17/27/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51661/result_111009_1677684693_thumb.jpg,false
-JIGAWA,YANKWASHI,,RINGIM PRI. SCH./RINGIM,17/27/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51660/result_111008_1677684573_thumb.jpg,false
-JIGAWA,YANKWASHI,,DUMBU PRI. SCH/DUMBU,17/27/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51659/result_111007_1677684461_thumb.jpg,false
+JIGAWA,YANKWASHI,RINGIM,MAHAUYA NOMADIC SCH,17/27/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640417/result_111012_1677685663_thumb.jpg,false
+JIGAWA,YANKWASHI,RINGIM,DUMBU PRI SCH 1,17/27/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640416/result_111011_1677685551_thumb.jpg,false
+JIGAWA,YANKWASHI,RINGIM,OPEN SPACE/UNGUWAR KALGO,17/27/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51662/result_111010_1677685335_thumb.jpg,false
+JIGAWA,YANKWASHI,RINGIM,OPEN SPACE/RURUMA,17/27/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51661/result_111009_1677684693_thumb.jpg,false
+JIGAWA,YANKWASHI,RINGIM,RINGIM PRI. SCH./RINGIM,17/27/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51660/result_111008_1677684573_thumb.jpg,false
+JIGAWA,YANKWASHI,RINGIM,DUMBU PRI. SCH/DUMBU,17/27/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51659/result_111007_1677684461_thumb.jpg,false

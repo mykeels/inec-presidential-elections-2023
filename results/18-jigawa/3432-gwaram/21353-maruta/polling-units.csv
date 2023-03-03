@@ -1,25 +1,25 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,GWARAM,,JIKAS PRI. SCH. JIKAS AREWA  II,17/11/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49623/result_108383_1677488373_thumb.jpg,true
-JIGAWA,GWARAM,,KOFAR MAIUNGUWA/BURMA,17/11/08/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49635/result_108395_1677495931_thumb.jpg,false
-JIGAWA,GWARAM,,KOFAR FADA/KUKKUZA,17/11/08/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49637/result_108397_1677486853_thumb.jpg,false
-JIGAWA,GWARAM,,JIKAS PRI. SCH. JIKAS AREWA  I,17/11/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49622/result_108382_1677501696_thumb.jpg,true
-JIGAWA,GWARAM,,KOFAR FADA/FALAI MAI BABA,17/11/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49624/result_108384_1677501987_thumb.jpg,true
-JIGAWA,GWARAM,,SABUWAR TSANGAYA/SABUWAR TSANGAYA,17/11/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49617/result_108377_1677486297_thumb.jpg,false
-JIGAWA,GWARAM,,KOFAR FADA/GOGGURA  II,17/11/08/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49633/result_108393_1677487252_thumb.jpg,false
-JIGAWA,GWARAM,,KOFAR YAMMA MARUTA JUNIOR DAY SEC.  SCH. MARUTA KUDU II,17/11/08/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639872/result_108398_1677495140_thumb.jpg,true
-JIGAWA,GWARAM,,KOFAR FADA/NAHUCEN  FADA,17/11/08/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49634/result_108394_1677492091_thumb.jpg,false
-JIGAWA,GWARAM,,KOFAR GABAS/ISAWA KOFAR GABAS  I,17/11/08/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49629/result_108389_1677496750_thumb.jpg,false
-JIGAWA,GWARAM,,JIKAS PRIMARY SCHOOL JIKAS ?AREWA II,17/11/08/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639873/result_108399_1677488040_thumb.jpg,false
-JIGAWA,GWARAM,,KOFAR FADA/MUSARI,17/11/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49626/result_108386_1677489013_thumb.jpg,false
-JIGAWA,GWARAM,,JIKAS PRI. SCH. JIKAS GABAS  II,17/11/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49621/result_108381_1677498742_thumb.jpg,false
-JIGAWA,GWARAM,,K/MAIUNGUWA/DABAJA,17/11/08/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49628/result_108388_1677499152_thumb.jpg,false
-JIGAWA,GWARAM,,KOFAR GABAS/ISAWA KOFAR GABAS  II,17/11/08/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49630/result_108390_1677499639_thumb.jpg,false
-JIGAWA,GWARAM,,KOFAR GABAS/ISAWA LAFIYA,17/11/08/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49631/result_108391_1677487769_thumb.jpg,true
-JIGAWA,GWARAM,,BAYAN GARI/BAYAN GARI,17/11/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49625/result_108385_1677501500_thumb.jpg,true
-JIGAWA,GWARAM,,DUMURI/BATORI KUDUBO,17/11/08/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49627/result_108387_1677497202_thumb.jpg,true
-JIGAWA,GWARAM,,MAKWALLA/ABORAWA NAHUCE,17/11/08/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49636/result_108396_1677489463_thumb.jpg,true
-JIGAWA,GWARAM,,MARUTA PRI. SCH. MARUTA K. GABAS,17/11/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3432/ward/21353/pu/49707/49707-1677478949.pdf,false
-JIGAWA,GWARAM,,JIKAS PRI. SCH. JIKAS GABAS  I,17/11/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/08/pu/005/005-1677425563.pdf,false
-JIGAWA,GWARAM,,MARUTA BAKIN KASUWA/BAKIN KASUWA,17/11/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/08/pu/004/004-1677419931.pdf,false
-JIGAWA,GWARAM,,KOFAR YAMMA/MARUTA KOFAR YAMMA,17/11/08/003,,false
-JIGAWA,GWARAM,,KOFAR FADA/GOGGURA  I,17/11/08/017,,false
+JIGAWA,GWARAM,MARUTA,JIKAS PRI. SCH. JIKAS AREWA  II,17/11/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49623/result_108383_1677488373_thumb.jpg,true
+JIGAWA,GWARAM,MARUTA,KOFAR MAIUNGUWA/BURMA,17/11/08/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49635/result_108395_1677495931_thumb.jpg,false
+JIGAWA,GWARAM,MARUTA,KOFAR FADA/KUKKUZA,17/11/08/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49637/result_108397_1677486853_thumb.jpg,false
+JIGAWA,GWARAM,MARUTA,JIKAS PRI. SCH. JIKAS AREWA  I,17/11/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49622/result_108382_1677501696_thumb.jpg,true
+JIGAWA,GWARAM,MARUTA,KOFAR FADA/FALAI MAI BABA,17/11/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49624/result_108384_1677501987_thumb.jpg,true
+JIGAWA,GWARAM,MARUTA,SABUWAR TSANGAYA/SABUWAR TSANGAYA,17/11/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49617/result_108377_1677486297_thumb.jpg,false
+JIGAWA,GWARAM,MARUTA,KOFAR FADA/GOGGURA  II,17/11/08/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49633/result_108393_1677487252_thumb.jpg,false
+JIGAWA,GWARAM,MARUTA,KOFAR YAMMA MARUTA JUNIOR DAY SEC.  SCH. MARUTA KUDU II,17/11/08/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639872/result_108398_1677495140_thumb.jpg,true
+JIGAWA,GWARAM,MARUTA,KOFAR FADA/NAHUCEN  FADA,17/11/08/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49634/result_108394_1677492091_thumb.jpg,false
+JIGAWA,GWARAM,MARUTA,KOFAR GABAS/ISAWA KOFAR GABAS  I,17/11/08/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49629/result_108389_1677496750_thumb.jpg,false
+JIGAWA,GWARAM,MARUTA,JIKAS PRIMARY SCHOOL JIKAS ?AREWA II,17/11/08/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639873/result_108399_1677488040_thumb.jpg,false
+JIGAWA,GWARAM,MARUTA,KOFAR FADA/MUSARI,17/11/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49626/result_108386_1677489013_thumb.jpg,false
+JIGAWA,GWARAM,MARUTA,JIKAS PRI. SCH. JIKAS GABAS  II,17/11/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49621/result_108381_1677498742_thumb.jpg,false
+JIGAWA,GWARAM,MARUTA,K/MAIUNGUWA/DABAJA,17/11/08/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49628/result_108388_1677499152_thumb.jpg,false
+JIGAWA,GWARAM,MARUTA,KOFAR GABAS/ISAWA KOFAR GABAS  II,17/11/08/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49630/result_108390_1677499639_thumb.jpg,false
+JIGAWA,GWARAM,MARUTA,KOFAR GABAS/ISAWA LAFIYA,17/11/08/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49631/result_108391_1677487769_thumb.jpg,true
+JIGAWA,GWARAM,MARUTA,BAYAN GARI/BAYAN GARI,17/11/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49625/result_108385_1677501500_thumb.jpg,true
+JIGAWA,GWARAM,MARUTA,DUMURI/BATORI KUDUBO,17/11/08/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49627/result_108387_1677497202_thumb.jpg,true
+JIGAWA,GWARAM,MARUTA,MAKWALLA/ABORAWA NAHUCE,17/11/08/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49636/result_108396_1677489463_thumb.jpg,true
+JIGAWA,GWARAM,MARUTA,MARUTA PRI. SCH. MARUTA K. GABAS,17/11/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3432/ward/21353/pu/49707/49707-1677478949.pdf,false
+JIGAWA,GWARAM,MARUTA,JIKAS PRI. SCH. JIKAS GABAS  I,17/11/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/08/pu/005/005-1677425563.pdf,false
+JIGAWA,GWARAM,MARUTA,MARUTA BAKIN KASUWA/BAKIN KASUWA,17/11/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/08/pu/004/004-1677419931.pdf,false
+JIGAWA,GWARAM,MARUTA,KOFAR YAMMA/MARUTA KOFAR YAMMA,17/11/08/003,,false
+JIGAWA,GWARAM,MARUTA,KOFAR FADA/GOGGURA  I,17/11/08/017,,false

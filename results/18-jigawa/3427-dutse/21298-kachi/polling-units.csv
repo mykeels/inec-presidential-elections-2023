@@ -1,44 +1,44 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,DUTSE,,ZAI GADADIN PRI. SCH. II,17/06/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/49071/49071-1677771377.pdf,false
-JIGAWA,DUTSE,,FAGOJI PRI. SCH. I,17/06/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/49061/49061-1677771281.pdf,false
-JIGAWA,DUTSE,,GADADIN,17/06/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/49073/49073-1677771161.pdf,false
-JIGAWA,DUTSE,,KASARAU PRI. SCH. IV,17/06/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/49068/49068-1677771016.pdf,true
-JIGAWA,DUTSE,,ZAI GADADIN PRI. SCH.  I,17/06/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/49070/49070-1677770929.pdf,false
-JIGAWA,DUTSE,,KASARAU PRI. SCH.  III,17/06/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/49067/49067-1677770817.pdf,true
-JIGAWA,DUTSE,,KASARAU PRI. SCH.  I,17/06/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/49065/49065-1677770694.pdf,false
-JIGAWA,DUTSE,,FAGOJI PRI. SCH.  II,17/06/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/49062/49062-1677770529.pdf,true
-JIGAWA,DUTSE,,BURTILAN,17/06/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/49060/49060-1677767644.pdf,true
-JIGAWA,DUTSE,,KASARAU PRI. SCH. V,17/06/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/49069/49069-1677767497.pdf,false
-JIGAWA,DUTSE,,KACHI PRIMARY SCHOOL,17/06/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/49064/49064-1677767344.pdf,true
-JIGAWA,DUTSE,,JIGAWAR SARKI PRI SCH,17/06/06/042,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144466/144466-1677767081.pdf,false
-JIGAWA,DUTSE,,"ZAI CIKIN GARI ISILAMIYA PRI SCH. ,",17/06/06/037,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144461/144461-1677766742.pdf,false
-JIGAWA,DUTSE,,"JIGAWA STATE LIBRARY ,",17/06/06/032,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144456/144456-1677766560.pdf,true
-JIGAWA,DUTSE,,"LOCAL GOVT SERVICE COMMISSION,",17/06/06/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144451/144451-1677766418.pdf,false
-JIGAWA,DUTSE,,G9  GREEN  HOUSE JIGAWA STATE,17/06/06/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144446/144446-1677766077.pdf,true
-JIGAWA,DUTSE,,"SKILL ACQUISITION CENTRE FAGOJI,",17/06/06/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144441/144441-1677765944.pdf,false
-JIGAWA,DUTSE,,"ZAI BAKIN TITI ISILAMIYA PRI SCH,",17/06/06/039,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144463/144463-1677763466.pdf,false
-JIGAWA,DUTSE,,"DUTSE ICT CENTRE LOCOST,",17/06/06/034,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144458/144458-1677763238.pdf,false
-JIGAWA,DUTSE,,"SABUWAR MARANJUWA ISILAMIYA PRI SCH,",17/06/06/029,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144453/144453-1677763082.pdf,true
-JIGAWA,DUTSE,,"PHC KACHI,",17/06/06/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144448/144448-1677762943.pdf,false
-JIGAWA,DUTSE,,"3STAR QUARTERS ISILAMIYA PRI SCH,",17/06/06/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144443/144443-1677762722.pdf,false
-JIGAWA,DUTSE,,BOKOTO   WATER BOARD,17/06/06/041,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144465/144465-1677762560.pdf,false
-JIGAWA,DUTSE,,"GALADIMAWA ISILAMIYA PRI SCH,",17/06/06/043,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144467/144467-1677762454.pdf,false
-JIGAWA,DUTSE,,"GOVT SENIOR SEC SCH ZAI,",17/06/06/036,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144460/144460-1677762287.pdf,false
-JIGAWA,DUTSE,,"JIGAWA SCHOLARSHIP BOARD,",17/06/06/031,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144455/144455-1677762158.pdf,false
-JIGAWA,DUTSE,,DUTSE CAPITAL SEC SCH,17/06/06/033,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144457/144457-1677762046.pdf,false
-JIGAWA,DUTSE,,GJASS BAURE,17/06/06/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144450/144450-1677761724.pdf,false
-JIGAWA,DUTSE,,"MANDAWARI/FAGOJI ISILAMIYA PRI SCH,",17/06/06/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144452/144452-1677761256.pdf,false
-JIGAWA,DUTSE,,"SABUWAR KASUWA/DANGAN TSAURE,",17/06/06/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144445/144445-1677761131.pdf,false
-JIGAWA,DUTSE,,FAGOJI PRI SCH III,17/06/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144440/144440-1677761000.pdf,false
-JIGAWA,DUTSE,,UNGUWAR SARKIN ASKA,17/06/06/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144442/144442-1677760854.pdf,false
-JIGAWA,DUTSE,,"BOKOTO YADI OPEN SPACE,",17/06/06/040,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144464/144464-1677760629.pdf,false
-JIGAWA,DUTSE,,DR NUHU MOHD SANUSI SENIOR SEC SCH,17/06/06/035,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144459/144459-1677760515.pdf,true
-JIGAWA,DUTSE,,"JIGAWA EDU RESOURCE DEPT,",17/06/06/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144449/144449-1677760364.pdf,false
-JIGAWA,DUTSE,,"GANDUN SARKI MAJA ISILAMIYA PRI SCH,",17/06/06/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144444/144444-1677760205.pdf,false
-JIGAWA,DUTSE,,KACHI,17/06/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/49074/49074-1677759990.pdf,false
-JIGAWA,DUTSE,,"GOVT JUNIOR SEC SCH KACHI,",17/06/06/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144447/144447-1677688972.pdf,false
-JIGAWA,DUTSE,,"ZAI JUNIOR SEC SCH, NEW",17/06/06/038,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144462/144462-1677688531.pdf,false
-JIGAWA,DUTSE,,GURUNGU JAMA'A,17/06/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/49063/49063-1677687146.pdf,false
-JIGAWA,DUTSE,,KASARAU PRI. SCH.  II,17/06/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/06/pu/007/007-1677368094.pdf,false
-JIGAWA,DUTSE,,SABON GARIN BOKOTO,17/06/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/06/pu/013/013-1677362392.pdf,false
-JIGAWA,DUTSE,,"SENIOR SEC. SCH. BEHIND ABATTOIR,",17/06/06/030,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/06/pu/030/030-1677359795.pdf,false
+JIGAWA,DUTSE,KACHI,ZAI GADADIN PRI. SCH. II,17/06/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/49071/49071-1677771377.pdf,false
+JIGAWA,DUTSE,KACHI,FAGOJI PRI. SCH. I,17/06/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/49061/49061-1677771281.pdf,false
+JIGAWA,DUTSE,KACHI,GADADIN,17/06/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/49073/49073-1677771161.pdf,false
+JIGAWA,DUTSE,KACHI,KASARAU PRI. SCH. IV,17/06/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/49068/49068-1677771016.pdf,true
+JIGAWA,DUTSE,KACHI,ZAI GADADIN PRI. SCH.  I,17/06/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/49070/49070-1677770929.pdf,false
+JIGAWA,DUTSE,KACHI,KASARAU PRI. SCH.  III,17/06/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/49067/49067-1677770817.pdf,true
+JIGAWA,DUTSE,KACHI,KASARAU PRI. SCH.  I,17/06/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/49065/49065-1677770694.pdf,false
+JIGAWA,DUTSE,KACHI,FAGOJI PRI. SCH.  II,17/06/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/49062/49062-1677770529.pdf,true
+JIGAWA,DUTSE,KACHI,BURTILAN,17/06/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/49060/49060-1677767644.pdf,true
+JIGAWA,DUTSE,KACHI,KASARAU PRI. SCH. V,17/06/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/49069/49069-1677767497.pdf,false
+JIGAWA,DUTSE,KACHI,KACHI PRIMARY SCHOOL,17/06/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/49064/49064-1677767344.pdf,true
+JIGAWA,DUTSE,KACHI,JIGAWAR SARKI PRI SCH,17/06/06/042,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144466/144466-1677767081.pdf,false
+JIGAWA,DUTSE,KACHI,"ZAI CIKIN GARI ISILAMIYA PRI SCH. ,",17/06/06/037,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144461/144461-1677766742.pdf,false
+JIGAWA,DUTSE,KACHI,"JIGAWA STATE LIBRARY ,",17/06/06/032,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144456/144456-1677766560.pdf,true
+JIGAWA,DUTSE,KACHI,"LOCAL GOVT SERVICE COMMISSION,",17/06/06/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144451/144451-1677766418.pdf,false
+JIGAWA,DUTSE,KACHI,G9  GREEN  HOUSE JIGAWA STATE,17/06/06/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144446/144446-1677766077.pdf,true
+JIGAWA,DUTSE,KACHI,"SKILL ACQUISITION CENTRE FAGOJI,",17/06/06/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144441/144441-1677765944.pdf,false
+JIGAWA,DUTSE,KACHI,"ZAI BAKIN TITI ISILAMIYA PRI SCH,",17/06/06/039,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144463/144463-1677763466.pdf,false
+JIGAWA,DUTSE,KACHI,"DUTSE ICT CENTRE LOCOST,",17/06/06/034,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144458/144458-1677763238.pdf,false
+JIGAWA,DUTSE,KACHI,"SABUWAR MARANJUWA ISILAMIYA PRI SCH,",17/06/06/029,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144453/144453-1677763082.pdf,true
+JIGAWA,DUTSE,KACHI,"PHC KACHI,",17/06/06/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144448/144448-1677762943.pdf,false
+JIGAWA,DUTSE,KACHI,"3STAR QUARTERS ISILAMIYA PRI SCH,",17/06/06/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144443/144443-1677762722.pdf,false
+JIGAWA,DUTSE,KACHI,BOKOTO   WATER BOARD,17/06/06/041,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144465/144465-1677762560.pdf,false
+JIGAWA,DUTSE,KACHI,"GALADIMAWA ISILAMIYA PRI SCH,",17/06/06/043,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144467/144467-1677762454.pdf,false
+JIGAWA,DUTSE,KACHI,"GOVT SENIOR SEC SCH ZAI,",17/06/06/036,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144460/144460-1677762287.pdf,false
+JIGAWA,DUTSE,KACHI,"JIGAWA SCHOLARSHIP BOARD,",17/06/06/031,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144455/144455-1677762158.pdf,false
+JIGAWA,DUTSE,KACHI,DUTSE CAPITAL SEC SCH,17/06/06/033,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144457/144457-1677762046.pdf,false
+JIGAWA,DUTSE,KACHI,GJASS BAURE,17/06/06/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144450/144450-1677761724.pdf,false
+JIGAWA,DUTSE,KACHI,"MANDAWARI/FAGOJI ISILAMIYA PRI SCH,",17/06/06/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144452/144452-1677761256.pdf,false
+JIGAWA,DUTSE,KACHI,"SABUWAR KASUWA/DANGAN TSAURE,",17/06/06/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144445/144445-1677761131.pdf,false
+JIGAWA,DUTSE,KACHI,FAGOJI PRI SCH III,17/06/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144440/144440-1677761000.pdf,false
+JIGAWA,DUTSE,KACHI,UNGUWAR SARKIN ASKA,17/06/06/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144442/144442-1677760854.pdf,false
+JIGAWA,DUTSE,KACHI,"BOKOTO YADI OPEN SPACE,",17/06/06/040,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144464/144464-1677760629.pdf,false
+JIGAWA,DUTSE,KACHI,DR NUHU MOHD SANUSI SENIOR SEC SCH,17/06/06/035,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144459/144459-1677760515.pdf,true
+JIGAWA,DUTSE,KACHI,"JIGAWA EDU RESOURCE DEPT,",17/06/06/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144449/144449-1677760364.pdf,false
+JIGAWA,DUTSE,KACHI,"GANDUN SARKI MAJA ISILAMIYA PRI SCH,",17/06/06/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144444/144444-1677760205.pdf,false
+JIGAWA,DUTSE,KACHI,KACHI,17/06/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/49074/49074-1677759990.pdf,false
+JIGAWA,DUTSE,KACHI,"GOVT JUNIOR SEC SCH KACHI,",17/06/06/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144447/144447-1677688972.pdf,false
+JIGAWA,DUTSE,KACHI,"ZAI JUNIOR SEC SCH, NEW",17/06/06/038,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/144462/144462-1677688531.pdf,false
+JIGAWA,DUTSE,KACHI,GURUNGU JAMA'A,17/06/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3427/ward/21298/pu/49063/49063-1677687146.pdf,false
+JIGAWA,DUTSE,KACHI,KASARAU PRI. SCH.  II,17/06/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/06/pu/007/007-1677368094.pdf,false
+JIGAWA,DUTSE,KACHI,SABON GARIN BOKOTO,17/06/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/06/pu/013/013-1677362392.pdf,false
+JIGAWA,DUTSE,KACHI,"SENIOR SEC. SCH. BEHIND ABATTOIR,",17/06/06/030,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/06/pu/030/030-1677359795.pdf,false

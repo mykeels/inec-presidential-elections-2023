@@ -1,9 +1,9 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,GWIWA,,KORAYEL JSS,17/12/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21363/pu/144667/144667-1677606321.pdf,true
-JIGAWA,GWIWA,,KOROYEL CLINIC,17/12/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21363/pu/144666/144666-1677606127.pdf,true
-JIGAWA,GWIWA,,BAZARA DAURAWA PRI. SCH. II,17/12/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21363/pu/144665/144665-1677605574.pdf,true
-JIGAWA,GWIWA,,UNG./DINYA PRI. SCH. UNG./DINYA,17/12/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21363/pu/49842/49842-1677605433.pdf,true
-JIGAWA,GWIWA,,KORAYAL PRI. SCH. KORAYAL,17/12/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21363/pu/49841/49841-1677605080.pdf,true
-JIGAWA,GWIWA,,DATSA PRI. SCH DATSA,17/12/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21363/pu/49840/49840-1677604834.pdf,true
-JIGAWA,GWIWA,,BAZARA KANAWA PRI. SCH. BAZARA KANAWA,17/12/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21363/pu/49839/49839-1677604684.pdf,true
-JIGAWA,GWIWA,,BAZARA DAURAWA PRI. SCH DAURAWA,17/12/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21363/pu/49838/49838-1677604454.pdf,true
+JIGAWA,GWIWA,KORAYEL,KORAYEL JSS,17/12/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21363/pu/144667/144667-1677606321.pdf,true
+JIGAWA,GWIWA,KORAYEL,KOROYEL CLINIC,17/12/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21363/pu/144666/144666-1677606127.pdf,true
+JIGAWA,GWIWA,KORAYEL,BAZARA DAURAWA PRI. SCH. II,17/12/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21363/pu/144665/144665-1677605574.pdf,true
+JIGAWA,GWIWA,KORAYEL,UNG./DINYA PRI. SCH. UNG./DINYA,17/12/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21363/pu/49842/49842-1677605433.pdf,true
+JIGAWA,GWIWA,KORAYEL,KORAYAL PRI. SCH. KORAYAL,17/12/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21363/pu/49841/49841-1677605080.pdf,true
+JIGAWA,GWIWA,KORAYEL,DATSA PRI. SCH DATSA,17/12/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21363/pu/49840/49840-1677604834.pdf,true
+JIGAWA,GWIWA,KORAYEL,BAZARA KANAWA PRI. SCH. BAZARA KANAWA,17/12/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21363/pu/49839/49839-1677604684.pdf,true
+JIGAWA,GWIWA,KORAYEL,BAZARA DAURAWA PRI. SCH DAURAWA,17/12/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21363/pu/49838/49838-1677604454.pdf,true

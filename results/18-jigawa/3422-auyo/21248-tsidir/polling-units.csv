@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,AUYO,,MURAN PRI. SCH.  MURAN/ARBUNA,17/01/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3422/ward/21248/pu/48317/48317-1677710528.pdf,true
-JIGAWA,AUYO,,"FURAWA PRY SCH, FURAWA HAUSA/FULANI",17/01/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48225/result_106615_1677513898_thumb.jpg,true
-JIGAWA,AUYO,,OLD DISPENASRY TSIDIR,17/01/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639535/result_106621_1677514799_thumb.jpg,true
-JIGAWA,AUYO,,TSIDIR PRI. SCH. TSIDIR,17/01/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48222/result_106612_1677513524_thumb.jpg,true
-JIGAWA,AUYO,,FUGE K. FADA FUGE,17/01/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48223/result_106613_1677513718_thumb.jpg,true
-JIGAWA,AUYO,,BANGELI PRI. SCH. BANGEL,17/01/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48230/result_106620_1677514690_thumb.jpg,true
-JIGAWA,AUYO,,AGUZA K. FADA  AGUZA,17/01/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48229/result_106619_1677514489_thumb.jpg,true
-JIGAWA,AUYO,,FURAWA PRI. SCH. FURAWA,17/01/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48226/result_106616_1677514045_thumb.jpg,true
-JIGAWA,AUYO,,KURE K. FADA KURE/TUDUNWADA,17/01/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48227/result_106617_1677514189_thumb.jpg,true
-JIGAWA,AUYO,,MURAN PRIMARY SCHOOL I,17/01/09/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639536/result_106622_1677514977_thumb.jpg,true
-JIGAWA,AUYO,,AFIYAU K. FADA AFIUYAU,17/01/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48228/result_106618_1677514363_thumb.jpg,true
+JIGAWA,AUYO,TSIDIR,MURAN PRI. SCH.  MURAN/ARBUNA,17/01/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3422/ward/21248/pu/48317/48317-1677710528.pdf,true
+JIGAWA,AUYO,TSIDIR,"FURAWA PRY SCH, FURAWA HAUSA/FULANI",17/01/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48225/result_106615_1677513898_thumb.jpg,true
+JIGAWA,AUYO,TSIDIR,OLD DISPENASRY TSIDIR,17/01/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639535/result_106621_1677514799_thumb.jpg,true
+JIGAWA,AUYO,TSIDIR,TSIDIR PRI. SCH. TSIDIR,17/01/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48222/result_106612_1677513524_thumb.jpg,true
+JIGAWA,AUYO,TSIDIR,FUGE K. FADA FUGE,17/01/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48223/result_106613_1677513718_thumb.jpg,true
+JIGAWA,AUYO,TSIDIR,BANGELI PRI. SCH. BANGEL,17/01/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48230/result_106620_1677514690_thumb.jpg,true
+JIGAWA,AUYO,TSIDIR,AGUZA K. FADA  AGUZA,17/01/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48229/result_106619_1677514489_thumb.jpg,true
+JIGAWA,AUYO,TSIDIR,FURAWA PRI. SCH. FURAWA,17/01/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48226/result_106616_1677514045_thumb.jpg,true
+JIGAWA,AUYO,TSIDIR,KURE K. FADA KURE/TUDUNWADA,17/01/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48227/result_106617_1677514189_thumb.jpg,true
+JIGAWA,AUYO,TSIDIR,MURAN PRIMARY SCHOOL I,17/01/09/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639536/result_106622_1677514977_thumb.jpg,true
+JIGAWA,AUYO,TSIDIR,AFIYAU K. FADA AFIUYAU,17/01/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/48228/result_106618_1677514363_thumb.jpg,true

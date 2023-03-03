@@ -26,6 +26,7 @@
     "pu_code_string": "170310014",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "document": {
       "external": true,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "170310017",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "document": {
       "external": true,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "170310025",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "document": {
       "external": false,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "170310041",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "document": {
       "external": false,
       "status": 1,
@@ -178,6 +182,7 @@
     "pu_code_string": "170310042",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "document": {
       "external": false,
       "status": 1,
@@ -216,6 +221,7 @@
     "pu_code_string": "170310035",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "document": {
       "external": false,
       "status": 1,
@@ -254,6 +260,7 @@
     "pu_code_string": "170310011",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "document": {
       "external": false,
       "status": 1,
@@ -292,6 +299,7 @@
     "pu_code_string": "170310004",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "document": {
       "external": false,
       "status": 1,
@@ -330,6 +338,7 @@
     "pu_code_string": "170310027",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "document": {
       "external": false,
       "status": 1,
@@ -377,6 +386,7 @@
     "pu_code_string": "170310028",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "document": {
       "external": false,
       "status": 1,
@@ -415,6 +425,7 @@
     "pu_code_string": "170310012",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "document": {
       "external": false,
       "status": 1,
@@ -453,6 +464,7 @@
     "pu_code_string": "170310032",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "document": {
       "external": false,
       "status": 1,
@@ -491,6 +503,7 @@
     "pu_code_string": "170310006",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "document": {
       "external": false,
       "status": 1,
@@ -538,6 +551,7 @@
     "pu_code_string": "170310018",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "document": {
       "external": false,
       "status": 1,
@@ -576,6 +590,7 @@
     "pu_code_string": "170310001",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "document": {
       "external": false,
       "status": 1,
@@ -623,6 +638,7 @@
     "pu_code_string": "170310008",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "document": {
       "external": false,
       "status": 1,
@@ -661,6 +677,7 @@
     "pu_code_string": "170310010",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "document": {
       "external": false,
       "status": 1,
@@ -708,6 +725,7 @@
     "pu_code_string": "170310034",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "document": {
       "external": false,
       "status": 1,
@@ -746,6 +764,7 @@
     "pu_code_string": "170310031",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "document": {
       "external": false,
       "status": 1,
@@ -784,6 +803,7 @@
     "pu_code_string": "170310009",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -815,6 +835,7 @@
     "pu_code_string": "170310033",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "document": {
       "external": false,
       "status": 1,
@@ -853,6 +874,7 @@
     "pu_code_string": "170310030",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "document": {
       "external": false,
       "status": 1,
@@ -891,6 +913,7 @@
     "pu_code_string": "170310026",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "document": {
       "external": false,
       "status": 1,
@@ -929,6 +952,7 @@
     "pu_code_string": "170310038",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "document": {
       "external": false,
       "status": 1,
@@ -967,6 +991,7 @@
     "pu_code_string": "170310019",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "document": {
       "external": false,
       "status": 1,
@@ -1005,6 +1030,7 @@
     "pu_code_string": "170310002",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1035,6 +1061,7 @@
     "pu_code_string": "170310007",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1065,6 +1092,7 @@
     "pu_code_string": "170310022",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1095,6 +1123,7 @@
     "pu_code_string": "170310037",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1125,6 +1154,7 @@
     "pu_code_string": "170310005",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1155,6 +1185,7 @@
     "pu_code_string": "170310003",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1185,6 +1216,7 @@
     "pu_code_string": "170310015",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1215,6 +1247,7 @@
     "pu_code_string": "170310016",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1245,6 +1278,7 @@
     "pu_code_string": "170310020",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1275,6 +1309,7 @@
     "pu_code_string": "170310013",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1305,6 +1340,7 @@
     "pu_code_string": "170310021",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1335,6 +1371,7 @@
     "pu_code_string": "170310023",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1365,6 +1402,7 @@
     "pu_code_string": "170310036",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1395,6 +1433,7 @@
     "pu_code_string": "170310040",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1425,6 +1464,7 @@
     "pu_code_string": "170310024",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1455,6 +1495,7 @@
     "pu_code_string": "170310029",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1485,6 +1526,7 @@
     "pu_code_string": "170310039",
     "state_name": "JIGAWA",
     "lga_name": "BIRNIN KUDU",
+    "ward_name": "WURNO",
     "old_documents": [],
     "has_old_documents": false
   }

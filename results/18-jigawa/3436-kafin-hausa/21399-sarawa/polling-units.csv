@@ -1,36 +1,36 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,KAFIN HAUSA,,VILLAGE CENTRE/BALEWA,17/15/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50248/result_109158_1677573045_thumb.jpg,false
-JIGAWA,KAFIN HAUSA,,KADUGUR PRI. SCH.,17/15/10/033,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/033/033-1677405574.pdf,false
-JIGAWA,KAFIN HAUSA,,ADARAUSHE PRI SCH,17/15/10/029,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/029/029-1677403047.pdf,false
-JIGAWA,KAFIN HAUSA,,BARADUWA PRI. SCH.,17/15/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/006/006-1677403041.pdf,false
-JIGAWA,KAFIN HAUSA,,VILLAGE CENTRE/TAMBALE,17/15/10/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/018/018-1677402140.pdf,false
-JIGAWA,KAFIN HAUSA,,DISPENSARY/K/GALADIMA,17/15/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/008/008-1677401870.pdf,false
-JIGAWA,KAFIN HAUSA,,K/FADA JODADE,17/15/10/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/022/022-1677401559.pdf,false
-JIGAWA,KAFIN HAUSA,,A/MAGAJI,17/15/10/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/020/020-1677401521.pdf,false
-JIGAWA,KAFIN HAUSA,,FADAWA PRI. SCH.,17/15/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/005/005-1677400475.pdf,false
-JIGAWA,KAFIN HAUSA,,VILLAGE CENTRE/HADA GWAI-GWAI,17/15/10/028,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/028/028-1677400134.pdf,false
-JIGAWA,KAFIN HAUSA,,K/FADA/MATAKUR,17/15/10/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/021/021-1677399966.pdf,false
-JIGAWA,KAFIN HAUSA,,MANABA PRI SCH,17/15/10/030,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/030/030-1677399686.pdf,false
-JIGAWA,KAFIN HAUSA,,GATASHU PRI. SCH.,17/15/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/009/009-1677399397.pdf,false
-JIGAWA,KAFIN HAUSA,,G/MAIUNGUWA/TILORI,17/15/10/027,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/027/027-1677397104.pdf,false
-JIGAWA,KAFIN HAUSA,,ANSAYA VILLAGE CENTRE,17/15/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/015/015-1677396242.pdf,false
-JIGAWA,KAFIN HAUSA,,TAGAGADAWAI,17/15/10/025,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/025/025-1677396108.pdf,false
-JIGAWA,KAFIN HAUSA,,ISLAMIYYA P S SARAWA,17/15/10/035,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/035/035-1677396066.pdf,false
-JIGAWA,KAFIN HAUSA,,KUTUNGUM PRI. SCH.,17/15/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/002/002-1677395975.pdf,false
-JIGAWA,KAFIN HAUSA,,PRY SCH/AUTAKO,17/15/10/034,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/034/034-1677395754.pdf,false
-JIGAWA,KAFIN HAUSA,,AUTAKO PRI. SCH.,17/15/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/004/004-1677395493.pdf,false
-JIGAWA,KAFIN HAUSA,,DUNDU VILLAGE CENTRE,17/15/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/012/012-1677394854.pdf,false
-JIGAWA,KAFIN HAUSA,,DISPENSARY/ SARAWA GABAS,17/15/10/031,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/031/031-1677394800.pdf,false
-JIGAWA,KAFIN HAUSA,,VILLAGE CENTRE/DAMANYO,17/15/10/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/019/019-1677394746.pdf,false
-JIGAWA,KAFIN HAUSA,,K/FADA/S/MAKERA,17/15/10/026,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/026/026-1677394705.pdf,false
-JIGAWA,KAFIN HAUSA,,KAUZAWA PRI. SCH.,17/15/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/007/007-1677394696.pdf,false
-JIGAWA,KAFIN HAUSA,,DAWAYA VILLAGE CENTRE,17/15/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/014/014-1677394590.pdf,false
-JIGAWA,KAFIN HAUSA,,SARAWA YAMMA PRI. SCH.,17/15/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/010/010-1677394571.pdf,false
-JIGAWA,KAFIN HAUSA,,AFIRZINA PRI. SCH.,17/15/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/011/011-1677394220.pdf,false
-JIGAWA,KAFIN HAUSA,,VILLAGE CENTRE/MALUMAWA,17/15/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/013/013-1677394156.pdf,false
-JIGAWA,KAFIN HAUSA,,VILLAGE CENTRE/G/NABATI,17/15/10/032,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/032/032-1677394013.pdf,false
-JIGAWA,KAFIN HAUSA,,MATAKUWA PRI. SCH.,17/15/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/001/001-1677394009.pdf,false
-JIGAWA,KAFIN HAUSA,,K/FADA/KYARI,17/15/10/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/023/023-1677393860.pdf,false
-JIGAWA,KAFIN HAUSA,,VILLAGE CENTRE/GANDU,17/15/10/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/016/016-1677393550.pdf,false
-JIGAWA,KAFIN HAUSA,,K/FADA/ABEWA,17/15/10/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/024/024-1677393450.pdf,false
-JIGAWA,KAFIN HAUSA,,VILLAGE CENTRE/GURGUNDAHO,17/15/10/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/017/017-1677391370.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,VILLAGE CENTRE/BALEWA,17/15/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50248/result_109158_1677573045_thumb.jpg,false
+JIGAWA,KAFIN HAUSA,SARAWA,KADUGUR PRI. SCH.,17/15/10/033,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/033/033-1677405574.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,ADARAUSHE PRI SCH,17/15/10/029,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/029/029-1677403047.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,BARADUWA PRI. SCH.,17/15/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/006/006-1677403041.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,VILLAGE CENTRE/TAMBALE,17/15/10/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/018/018-1677402140.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,DISPENSARY/K/GALADIMA,17/15/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/008/008-1677401870.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,K/FADA JODADE,17/15/10/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/022/022-1677401559.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,A/MAGAJI,17/15/10/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/020/020-1677401521.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,FADAWA PRI. SCH.,17/15/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/005/005-1677400475.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,VILLAGE CENTRE/HADA GWAI-GWAI,17/15/10/028,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/028/028-1677400134.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,K/FADA/MATAKUR,17/15/10/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/021/021-1677399966.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,MANABA PRI SCH,17/15/10/030,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/030/030-1677399686.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,GATASHU PRI. SCH.,17/15/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/009/009-1677399397.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,G/MAIUNGUWA/TILORI,17/15/10/027,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/027/027-1677397104.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,ANSAYA VILLAGE CENTRE,17/15/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/015/015-1677396242.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,TAGAGADAWAI,17/15/10/025,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/025/025-1677396108.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,ISLAMIYYA P S SARAWA,17/15/10/035,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/035/035-1677396066.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,KUTUNGUM PRI. SCH.,17/15/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/002/002-1677395975.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,PRY SCH/AUTAKO,17/15/10/034,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/034/034-1677395754.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,AUTAKO PRI. SCH.,17/15/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/004/004-1677395493.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,DUNDU VILLAGE CENTRE,17/15/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/012/012-1677394854.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,DISPENSARY/ SARAWA GABAS,17/15/10/031,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/031/031-1677394800.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,VILLAGE CENTRE/DAMANYO,17/15/10/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/019/019-1677394746.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,K/FADA/S/MAKERA,17/15/10/026,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/026/026-1677394705.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,KAUZAWA PRI. SCH.,17/15/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/007/007-1677394696.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,DAWAYA VILLAGE CENTRE,17/15/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/014/014-1677394590.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,SARAWA YAMMA PRI. SCH.,17/15/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/010/010-1677394571.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,AFIRZINA PRI. SCH.,17/15/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/011/011-1677394220.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,VILLAGE CENTRE/MALUMAWA,17/15/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/013/013-1677394156.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,VILLAGE CENTRE/G/NABATI,17/15/10/032,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/032/032-1677394013.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,MATAKUWA PRI. SCH.,17/15/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/001/001-1677394009.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,K/FADA/KYARI,17/15/10/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/023/023-1677393860.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,VILLAGE CENTRE/GANDU,17/15/10/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/016/016-1677393550.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,K/FADA/ABEWA,17/15/10/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/024/024-1677393450.pdf,false
+JIGAWA,KAFIN HAUSA,SARAWA,VILLAGE CENTRE/GURGUNDAHO,17/15/10/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/017/017-1677391370.pdf,false

@@ -1,20 +1,20 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,GWARAM,,FARIN-DUTSE PRI. SCH. III,17/11/04/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639852/result_108290_1677493892_thumb.jpg,false
-JIGAWA,GWARAM,,KOFAR FADA/KATSINAWA,17/11/04/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49549/result_108288_1677492596_thumb.jpg,false
-JIGAWA,GWARAM,,FARIN-DUTSE PRI. SCH. II,17/11/04/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639851/result_108289_1677493473_thumb.jpg,false
-JIGAWA,GWARAM,,KOFAR MAIUNGUWA/ LARKAN BABBA,17/11/04/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49548/result_108287_1677491731_thumb.jpg,false
-JIGAWA,GWARAM,,KOFAR MAIUNGUWA/BIRNIN KIRYA,17/11/04/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49545/result_108284_1677488533_thumb.jpg,false
-JIGAWA,GWARAM,,GALAMBI PRI. SCH /UNGUWAR MADAKI,17/11/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49543/result_108282_1677487065_thumb.jpg,true
-JIGAWA,GWARAM,,KOFAR FADA/ YARFI GABAS,17/11/04/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49546/result_108285_1677489959_thumb.jpg,true
-JIGAWA,GWARAM,,GALAMBI PRI. SCH /GALAMBI FADA,17/11/04/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49542/result_108281_1677486141_thumb.jpg,true
-JIGAWA,GWARAM,,GALAMBI PRI. SCH /KOFAR S/FAWA,17/11/04/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49544/result_108283_1677488049_thumb.jpg,true
-JIGAWA,GWARAM,,KOFAR MAIUNGUWA/ZAGAMANDIRI,17/11/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/04/pu/008/008-1677428271.pdf,false
-JIGAWA,GWARAM,,KOFAR FADA/ GANTAMAU,17/11/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/04/pu/007/007-1677427191.pdf,false
-JIGAWA,GWARAM,,GANJI PRI. SCH./GANJI GABAS,17/11/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/04/pu/006/006-1677425772.pdf,false
-JIGAWA,GWARAM,,WUTSINGIR PRI. SCH./WUTSINGIR,17/11/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/04/pu/005/005-1677424858.pdf,false
-JIGAWA,GWARAM,,K / MAIUNGUWA NASARAWA,17/11/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/04/pu/004/004-1677420891.pdf,false
-JIGAWA,GWARAM,,K/MAIUNGUWA/LABI,17/11/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/04/pu/003/003-1677419633.pdf,false
-JIGAWA,GWARAM,,F/DUTSE PRI. SCH/ UNGUWAR KUDU,17/11/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/04/pu/002/002-1677408525.pdf,false
-JIGAWA,GWARAM,,F/DUTSE PRI. SCH/ MAKARANTA B/ KASUWA,17/11/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/04/pu/001/001-1677400288.pdf,false
-JIGAWA,GWARAM,,KOFAR MAIGARI/BURO,17/11/04/014,,false
-JIGAWA,GWARAM,,FARIN DUTSE PRI. SCH. KUDU II,17/11/04/019,,false
+JIGAWA,GWARAM,FARIN DUTSE,FARIN-DUTSE PRI. SCH. III,17/11/04/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639852/result_108290_1677493892_thumb.jpg,false
+JIGAWA,GWARAM,FARIN DUTSE,KOFAR FADA/KATSINAWA,17/11/04/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49549/result_108288_1677492596_thumb.jpg,false
+JIGAWA,GWARAM,FARIN DUTSE,FARIN-DUTSE PRI. SCH. II,17/11/04/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639851/result_108289_1677493473_thumb.jpg,false
+JIGAWA,GWARAM,FARIN DUTSE,KOFAR MAIUNGUWA/ LARKAN BABBA,17/11/04/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49548/result_108287_1677491731_thumb.jpg,false
+JIGAWA,GWARAM,FARIN DUTSE,KOFAR MAIUNGUWA/BIRNIN KIRYA,17/11/04/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49545/result_108284_1677488533_thumb.jpg,false
+JIGAWA,GWARAM,FARIN DUTSE,GALAMBI PRI. SCH /UNGUWAR MADAKI,17/11/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49543/result_108282_1677487065_thumb.jpg,true
+JIGAWA,GWARAM,FARIN DUTSE,KOFAR FADA/ YARFI GABAS,17/11/04/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49546/result_108285_1677489959_thumb.jpg,true
+JIGAWA,GWARAM,FARIN DUTSE,GALAMBI PRI. SCH /GALAMBI FADA,17/11/04/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49542/result_108281_1677486141_thumb.jpg,true
+JIGAWA,GWARAM,FARIN DUTSE,GALAMBI PRI. SCH /KOFAR S/FAWA,17/11/04/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49544/result_108283_1677488049_thumb.jpg,true
+JIGAWA,GWARAM,FARIN DUTSE,KOFAR MAIUNGUWA/ZAGAMANDIRI,17/11/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/04/pu/008/008-1677428271.pdf,false
+JIGAWA,GWARAM,FARIN DUTSE,KOFAR FADA/ GANTAMAU,17/11/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/04/pu/007/007-1677427191.pdf,false
+JIGAWA,GWARAM,FARIN DUTSE,GANJI PRI. SCH./GANJI GABAS,17/11/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/04/pu/006/006-1677425772.pdf,false
+JIGAWA,GWARAM,FARIN DUTSE,WUTSINGIR PRI. SCH./WUTSINGIR,17/11/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/04/pu/005/005-1677424858.pdf,false
+JIGAWA,GWARAM,FARIN DUTSE,K / MAIUNGUWA NASARAWA,17/11/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/04/pu/004/004-1677420891.pdf,false
+JIGAWA,GWARAM,FARIN DUTSE,K/MAIUNGUWA/LABI,17/11/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/04/pu/003/003-1677419633.pdf,false
+JIGAWA,GWARAM,FARIN DUTSE,F/DUTSE PRI. SCH/ UNGUWAR KUDU,17/11/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/04/pu/002/002-1677408525.pdf,false
+JIGAWA,GWARAM,FARIN DUTSE,F/DUTSE PRI. SCH/ MAKARANTA B/ KASUWA,17/11/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/04/pu/001/001-1677400288.pdf,false
+JIGAWA,GWARAM,FARIN DUTSE,KOFAR MAIGARI/BURO,17/11/04/014,,false
+JIGAWA,GWARAM,FARIN DUTSE,FARIN DUTSE PRI. SCH. KUDU II,17/11/04/019,,false

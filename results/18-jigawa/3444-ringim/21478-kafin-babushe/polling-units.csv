@@ -1,15 +1,15 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,RINGIM,,KAFIN BABUSHE PRI. SCH. KAFIN BABUSHE II,17/23/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21478/pu/51213/51213-1677502361.pdf,false
-JIGAWA,RINGIM,,KOFAR MAI UNGUWA/GIDAN LAGE II,17/23/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21478/pu/51218/51218-1677502136.pdf,false
-JIGAWA,RINGIM,,KAFIN BABUSHE HOSPITAL,17/23/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21478/pu/145067/145067-1677501792.pdf,false
-JIGAWA,RINGIM,,K/MAI'UNGUWA/DEBAKAI,17/23/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21478/pu/51214/51214-1677501555.pdf,false
-JIGAWA,RINGIM,,KOFAR MAI UNGUWA/GIDAN LAGE I,17/23/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21478/pu/51217/51217-1677501431.pdf,false
-JIGAWA,RINGIM,,BEGUWA PRI. SCH.  BEGUWA  II,17/23/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21478/pu/51220/51220-1677501094.pdf,false
-JIGAWA,RINGIM,,KOFAR MAI'UNGUWA/DUNAWA,17/23/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21478/pu/51215/51215-1677500843.pdf,false
-JIGAWA,RINGIM,,KWAIKWAYU PRI. SCH. KWAIKWAYU,17/23/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21478/pu/51221/51221-1677500164.pdf,false
-JIGAWA,RINGIM,,DAUSHE PRI. SCH. DAUSHE,17/23/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21478/pu/51216/51216-1677499907.pdf,false
-JIGAWA,RINGIM,,BEGUWA PRI. SCH.  BEGUWA I,17/23/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21478/pu/51219/51219-1677499500.pdf,false
-JIGAWA,RINGIM,,BEGUWA HOSPITAL,17/23/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21478/pu/145069/145069-1677498480.pdf,false
-JIGAWA,RINGIM,,DAUSHE PRI. SCH. DAUSHE II,17/23/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21478/pu/145068/145068-1677497066.pdf,false
-JIGAWA,RINGIM,,KAFIN BABUSHE PRI. SCH. KAFIN BABUSHE I,17/23/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21478/pu/51212/51212-1677495573.pdf,false
-JIGAWA,RINGIM,,KAKI KANKARE PRI SCH,17/23/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/03/pu/014/014-1677370305.pdf,false
+JIGAWA,RINGIM,KAFIN BABUSHE,KAFIN BABUSHE PRI. SCH. KAFIN BABUSHE II,17/23/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21478/pu/51213/51213-1677502361.pdf,false
+JIGAWA,RINGIM,KAFIN BABUSHE,KOFAR MAI UNGUWA/GIDAN LAGE II,17/23/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21478/pu/51218/51218-1677502136.pdf,false
+JIGAWA,RINGIM,KAFIN BABUSHE,KAFIN BABUSHE HOSPITAL,17/23/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21478/pu/145067/145067-1677501792.pdf,false
+JIGAWA,RINGIM,KAFIN BABUSHE,K/MAI'UNGUWA/DEBAKAI,17/23/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21478/pu/51214/51214-1677501555.pdf,false
+JIGAWA,RINGIM,KAFIN BABUSHE,KOFAR MAI UNGUWA/GIDAN LAGE I,17/23/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21478/pu/51217/51217-1677501431.pdf,false
+JIGAWA,RINGIM,KAFIN BABUSHE,BEGUWA PRI. SCH.  BEGUWA  II,17/23/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21478/pu/51220/51220-1677501094.pdf,false
+JIGAWA,RINGIM,KAFIN BABUSHE,KOFAR MAI'UNGUWA/DUNAWA,17/23/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21478/pu/51215/51215-1677500843.pdf,false
+JIGAWA,RINGIM,KAFIN BABUSHE,KWAIKWAYU PRI. SCH. KWAIKWAYU,17/23/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21478/pu/51221/51221-1677500164.pdf,false
+JIGAWA,RINGIM,KAFIN BABUSHE,DAUSHE PRI. SCH. DAUSHE,17/23/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21478/pu/51216/51216-1677499907.pdf,false
+JIGAWA,RINGIM,KAFIN BABUSHE,BEGUWA PRI. SCH.  BEGUWA I,17/23/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21478/pu/51219/51219-1677499500.pdf,false
+JIGAWA,RINGIM,KAFIN BABUSHE,BEGUWA HOSPITAL,17/23/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21478/pu/145069/145069-1677498480.pdf,false
+JIGAWA,RINGIM,KAFIN BABUSHE,DAUSHE PRI. SCH. DAUSHE II,17/23/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21478/pu/145068/145068-1677497066.pdf,false
+JIGAWA,RINGIM,KAFIN BABUSHE,KAFIN BABUSHE PRI. SCH. KAFIN BABUSHE I,17/23/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3444/ward/21478/pu/51212/51212-1677495573.pdf,false
+JIGAWA,RINGIM,KAFIN BABUSHE,KAKI KANKARE PRI SCH,17/23/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/03/pu/014/014-1677370305.pdf,false

@@ -1,15 +1,15 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,GWIWA,,WALARE CLINIC,17/12/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21358/pu/144655/144655-1677603486.pdf,true
-JIGAWA,GWIWA,,TSUBUT CLINIC,17/12/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21358/pu/144654/144654-1677603311.pdf,true
-JIGAWA,GWIWA,,DABI JSS,17/12/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21358/pu/144653/144653-1677603199.pdf,false
-JIGAWA,GWIWA,,GIMI CLINIC,17/12/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21358/pu/144652/144652-1677603109.pdf,false
-JIGAWA,GWIWA,,BURMA RUWA CLINIC,17/12/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21358/pu/144651/144651-1677603021.pdf,true
-JIGAWA,GWIWA,,"WARDAWA FULANI PRY SCH, WARDAWA F.",17/12/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21358/pu/49814/49814-1677602862.pdf,false
-JIGAWA,GWIWA,,TSUBUT PRI. SCH. TSUBUT,17/12/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21358/pu/49813/49813-1677602740.pdf,false
-JIGAWA,GWIWA,,WARDAWA PRI. SCH./WARADAWA,17/12/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21358/pu/49812/49812-1677602631.pdf,false
-JIGAWA,GWIWA,,FURTAWA FULANI G/S/FULANI/FARA FULANI,17/12/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21358/pu/49811/49811-1677602432.pdf,false
-JIGAWA,GWIWA,,FURTAWA BUGAJE DANDALI/FARA BUGAJE,17/12/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21358/pu/49810/49810-1677602269.pdf,false
-JIGAWA,GWIWA,,HUNNUNGERE PRI. SCH. HUNNUNGERE,17/12/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21358/pu/49809/49809-1677602086.pdf,false
-JIGAWA,GWIWA,,DAN-ABZIN CIKIN GARI/DAN ABZIN,17/12/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21358/pu/49808/49808-1677601728.pdf,false
-JIGAWA,GWIWA,,DABI PRI. SCH. DABI,17/12/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21358/pu/49807/49807-1677601540.pdf,true
-JIGAWA,GWIWA,,BURMA RUWA DANDALI/BURMA RUWA,17/12/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/001/001-1677405404.pdf,false
+JIGAWA,GWIWA,DABI,WALARE CLINIC,17/12/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21358/pu/144655/144655-1677603486.pdf,true
+JIGAWA,GWIWA,DABI,TSUBUT CLINIC,17/12/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21358/pu/144654/144654-1677603311.pdf,true
+JIGAWA,GWIWA,DABI,DABI JSS,17/12/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21358/pu/144653/144653-1677603199.pdf,false
+JIGAWA,GWIWA,DABI,GIMI CLINIC,17/12/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21358/pu/144652/144652-1677603109.pdf,false
+JIGAWA,GWIWA,DABI,BURMA RUWA CLINIC,17/12/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21358/pu/144651/144651-1677603021.pdf,true
+JIGAWA,GWIWA,DABI,"WARDAWA FULANI PRY SCH, WARDAWA F.",17/12/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21358/pu/49814/49814-1677602862.pdf,false
+JIGAWA,GWIWA,DABI,TSUBUT PRI. SCH. TSUBUT,17/12/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21358/pu/49813/49813-1677602740.pdf,false
+JIGAWA,GWIWA,DABI,WARDAWA PRI. SCH./WARADAWA,17/12/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21358/pu/49812/49812-1677602631.pdf,false
+JIGAWA,GWIWA,DABI,FURTAWA FULANI G/S/FULANI/FARA FULANI,17/12/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21358/pu/49811/49811-1677602432.pdf,false
+JIGAWA,GWIWA,DABI,FURTAWA BUGAJE DANDALI/FARA BUGAJE,17/12/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21358/pu/49810/49810-1677602269.pdf,false
+JIGAWA,GWIWA,DABI,HUNNUNGERE PRI. SCH. HUNNUNGERE,17/12/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21358/pu/49809/49809-1677602086.pdf,false
+JIGAWA,GWIWA,DABI,DAN-ABZIN CIKIN GARI/DAN ABZIN,17/12/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21358/pu/49808/49808-1677601728.pdf,false
+JIGAWA,GWIWA,DABI,DABI PRI. SCH. DABI,17/12/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3433/ward/21358/pu/49807/49807-1677601540.pdf,true
+JIGAWA,GWIWA,DABI,BURMA RUWA DANDALI/BURMA RUWA,17/12/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/001/001-1677405404.pdf,false

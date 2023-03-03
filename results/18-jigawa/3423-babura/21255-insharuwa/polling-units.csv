@@ -1,21 +1,21 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,BABURA,,CHIRINBIN PRI. SCH/CHIRINBIN TSOHUWA,17/02/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/006/006-1677414964.pdf,false
-JIGAWA,BABURA,,INDIRKUBA/INDIRKUBA,17/02/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/009/009-1677412458.pdf,false
-JIGAWA,BABURA,,BOTSOTSUWA/KAFIN RABO,17/02/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/011/011-1677411999.pdf,false
-JIGAWA,BABURA,,GIGINYA PRI. SCH./ GIGINYA,17/02/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/008/008-1677406631.pdf,false
-JIGAWA,BABURA,,YANMAULU PRI. SCH./ YANMAULU,17/02/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/014/014-1677405946.pdf,false
-JIGAWA,BABURA,,UNG. TORO PRI. SCH. / UNG. TORO,17/02/06/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/017/017-1677405279.pdf,false
-JIGAWA,BABURA,,UKU DA SIS I PRI. SCH. /UKU DA SISI,17/02/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/016/016-1677404843.pdf,false
-JIGAWA,BABURA,,BAKAR KUKA PRI. SCH./BAKAR KUKA,17/02/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/004/004-1677404176.pdf,false
-JIGAWA,BABURA,,TSAMIYAR LAFIYA/DANFISA,17/02/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/007/007-1677402996.pdf,false
-JIGAWA,BABURA,,INSHARUWA PRI. SCH. II,17/02/06/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/019/019-1677402313.pdf,false
-JIGAWA,BABURA,,ADUWARE PRI. SCH. II,17/02/06/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/018/018-1677400543.pdf,false
-JIGAWA,BABURA,,UNG. BAGUDU / UNG. BAGUDU,17/02/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/015/015-1677399094.pdf,false
-JIGAWA,BABURA,,ACHIYAR M. GARKE/ACHIYAR M. GARKE,17/02/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/002/002-1677398159.pdf,false
-JIGAWA,BABURA,,UNGUWAR TORO PRI. SCH./CHIRINBIN GUMUZU,17/02/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/005/005-1677397265.pdf,false
-JIGAWA,BABURA,,BABADURO PRI. SCH./BABADURO,17/02/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/003/003-1677381477.pdf,false
-JIGAWA,BABURA,,MARKEN BIKI PRI. SCH./MARKEN BIKI,17/02/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/013/013-1677381143.pdf,false
-JIGAWA,BABURA,,ADUWARE PRI.SCH./ADUWARE,17/02/06/001,,false
-JIGAWA,BABURA,,MADATTA/MADATTA G. FETO,17/02/06/012,,false
-JIGAWA,BABURA,,INSHARUWA PRI. SCH./INSHARUWA,17/02/06/010,,false
-JIGAWA,BABURA,,MUNI NOMADIC PRI. SCH,17/02/06/020,,false
+JIGAWA,BABURA,INSHARUWA,CHIRINBIN PRI. SCH/CHIRINBIN TSOHUWA,17/02/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/006/006-1677414964.pdf,false
+JIGAWA,BABURA,INSHARUWA,INDIRKUBA/INDIRKUBA,17/02/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/009/009-1677412458.pdf,false
+JIGAWA,BABURA,INSHARUWA,BOTSOTSUWA/KAFIN RABO,17/02/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/011/011-1677411999.pdf,false
+JIGAWA,BABURA,INSHARUWA,GIGINYA PRI. SCH./ GIGINYA,17/02/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/008/008-1677406631.pdf,false
+JIGAWA,BABURA,INSHARUWA,YANMAULU PRI. SCH./ YANMAULU,17/02/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/014/014-1677405946.pdf,false
+JIGAWA,BABURA,INSHARUWA,UNG. TORO PRI. SCH. / UNG. TORO,17/02/06/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/017/017-1677405279.pdf,false
+JIGAWA,BABURA,INSHARUWA,UKU DA SIS I PRI. SCH. /UKU DA SISI,17/02/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/016/016-1677404843.pdf,false
+JIGAWA,BABURA,INSHARUWA,BAKAR KUKA PRI. SCH./BAKAR KUKA,17/02/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/004/004-1677404176.pdf,false
+JIGAWA,BABURA,INSHARUWA,TSAMIYAR LAFIYA/DANFISA,17/02/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/007/007-1677402996.pdf,false
+JIGAWA,BABURA,INSHARUWA,INSHARUWA PRI. SCH. II,17/02/06/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/019/019-1677402313.pdf,false
+JIGAWA,BABURA,INSHARUWA,ADUWARE PRI. SCH. II,17/02/06/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/018/018-1677400543.pdf,false
+JIGAWA,BABURA,INSHARUWA,UNG. BAGUDU / UNG. BAGUDU,17/02/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/015/015-1677399094.pdf,false
+JIGAWA,BABURA,INSHARUWA,ACHIYAR M. GARKE/ACHIYAR M. GARKE,17/02/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/002/002-1677398159.pdf,false
+JIGAWA,BABURA,INSHARUWA,UNGUWAR TORO PRI. SCH./CHIRINBIN GUMUZU,17/02/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/005/005-1677397265.pdf,false
+JIGAWA,BABURA,INSHARUWA,BABADURO PRI. SCH./BABADURO,17/02/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/003/003-1677381477.pdf,false
+JIGAWA,BABURA,INSHARUWA,MARKEN BIKI PRI. SCH./MARKEN BIKI,17/02/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/013/013-1677381143.pdf,false
+JIGAWA,BABURA,INSHARUWA,ADUWARE PRI.SCH./ADUWARE,17/02/06/001,,false
+JIGAWA,BABURA,INSHARUWA,MADATTA/MADATTA G. FETO,17/02/06/012,,false
+JIGAWA,BABURA,INSHARUWA,INSHARUWA PRI. SCH./INSHARUWA,17/02/06/010,,false
+JIGAWA,BABURA,INSHARUWA,MUNI NOMADIC PRI. SCH,17/02/06/020,,false

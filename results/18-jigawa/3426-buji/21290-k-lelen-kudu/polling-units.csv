@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,BUJI,,BEBEJI/MAIRIMA KOFAR FADA,17/05/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/007/007-1677393557.pdf,false
-JIGAWA,BUJI,,YAYARIN  YAMMA  PRI. SCH.,17/05/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/009/009-1677393385.pdf,false
-JIGAWA,BUJI,,GOMARI KOFAR FADA,17/05/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/010/010-1677392128.pdf,false
-JIGAWA,BUJI,,KATURJE KOFAR FADA,17/05/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/004/004-1677391795.pdf,false
-JIGAWA,BUJI,,ABURJI KOFAR FADA,17/05/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/006/006-1677390539.pdf,false
-JIGAWA,BUJI,,MADABA/BURINYIMAU KOFAR FADA,17/05/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/005/005-1677390234.pdf,false
-JIGAWA,BUJI,,DAMBAZAU JUNIOR SEC. SCH.,17/05/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/011/011-1677389958.pdf,false
-JIGAWA,BUJI,,YAYARIN CHAKAURI PRI. SCH.,17/05/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/008/008-1677389800.pdf,false
-JIGAWA,BUJI,,KARANJAU/L.KUDU PRI. SCH.,17/05/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/001/001-1677387798.pdf,false
-JIGAWA,BUJI,,YAYARIN CHAKWAURI DESPENSERY,17/05/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/012/012-1677387646.pdf,false
-JIGAWA,BUJI,,DANBAZAU KOFAR FADA,17/05/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/002/002-1677387467.pdf,false
-JIGAWA,BUJI,,GAINAKO/JAURO FALDO KOFAR FADA,17/05/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/003/003-1677387075.pdf,false
+JIGAWA,BUJI,K/LELEN KUDU,BEBEJI/MAIRIMA KOFAR FADA,17/05/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/007/007-1677393557.pdf,false
+JIGAWA,BUJI,K/LELEN KUDU,YAYARIN  YAMMA  PRI. SCH.,17/05/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/009/009-1677393385.pdf,false
+JIGAWA,BUJI,K/LELEN KUDU,GOMARI KOFAR FADA,17/05/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/010/010-1677392128.pdf,false
+JIGAWA,BUJI,K/LELEN KUDU,KATURJE KOFAR FADA,17/05/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/004/004-1677391795.pdf,false
+JIGAWA,BUJI,K/LELEN KUDU,ABURJI KOFAR FADA,17/05/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/006/006-1677390539.pdf,false
+JIGAWA,BUJI,K/LELEN KUDU,MADABA/BURINYIMAU KOFAR FADA,17/05/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/005/005-1677390234.pdf,false
+JIGAWA,BUJI,K/LELEN KUDU,DAMBAZAU JUNIOR SEC. SCH.,17/05/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/011/011-1677389958.pdf,false
+JIGAWA,BUJI,K/LELEN KUDU,YAYARIN CHAKAURI PRI. SCH.,17/05/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/008/008-1677389800.pdf,false
+JIGAWA,BUJI,K/LELEN KUDU,KARANJAU/L.KUDU PRI. SCH.,17/05/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/001/001-1677387798.pdf,false
+JIGAWA,BUJI,K/LELEN KUDU,YAYARIN CHAKWAURI DESPENSERY,17/05/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/012/012-1677387646.pdf,false
+JIGAWA,BUJI,K/LELEN KUDU,DANBAZAU KOFAR FADA,17/05/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/002/002-1677387467.pdf,false
+JIGAWA,BUJI,K/LELEN KUDU,GAINAKO/JAURO FALDO KOFAR FADA,17/05/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/003/003-1677387075.pdf,false

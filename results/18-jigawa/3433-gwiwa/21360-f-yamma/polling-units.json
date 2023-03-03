@@ -26,6 +26,7 @@
     "pu_code_string": "171204003",
     "state_name": "JIGAWA",
     "lga_name": "GWIWA",
+    "ward_name": "F/YAMMA",
     "document": {
       "external": true,
       "status": 1,
@@ -89,6 +90,7 @@
     "pu_code_string": "171204001",
     "state_name": "JIGAWA",
     "lga_name": "GWIWA",
+    "ward_name": "F/YAMMA",
     "document": {
       "external": true,
       "status": 1,
@@ -136,6 +138,7 @@
     "pu_code_string": "171204004",
     "state_name": "JIGAWA",
     "lga_name": "GWIWA",
+    "ward_name": "F/YAMMA",
     "document": {
       "external": false,
       "status": 1,
@@ -174,6 +177,7 @@
     "pu_code_string": "171204005",
     "state_name": "JIGAWA",
     "lga_name": "GWIWA",
+    "ward_name": "F/YAMMA",
     "document": {
       "external": false,
       "status": 1,
@@ -212,6 +216,7 @@
     "pu_code_string": "171204006",
     "state_name": "JIGAWA",
     "lga_name": "GWIWA",
+    "ward_name": "F/YAMMA",
     "document": {
       "external": false,
       "status": 1,
@@ -250,6 +255,7 @@
     "pu_code_string": "171204002",
     "state_name": "JIGAWA",
     "lga_name": "GWIWA",
+    "ward_name": "F/YAMMA",
     "document": {
       "external": false,
       "status": 1,

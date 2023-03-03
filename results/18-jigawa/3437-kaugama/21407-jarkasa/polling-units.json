@@ -26,6 +26,7 @@
     "pu_code_string": "171607003",
     "state_name": "JIGAWA",
     "lga_name": "KAUGAMA",
+    "ward_name": "JARKASA",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "171607002",
     "state_name": "JIGAWA",
     "lga_name": "KAUGAMA",
+    "ward_name": "JARKASA",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "171607012",
     "state_name": "JIGAWA",
     "lga_name": "KAUGAMA",
+    "ward_name": "JARKASA",
     "document": {
       "external": false,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "171607011",
     "state_name": "JIGAWA",
     "lga_name": "KAUGAMA",
+    "ward_name": "JARKASA",
     "document": {
       "external": false,
       "status": 1,
@@ -178,6 +182,7 @@
     "pu_code_string": "171607007",
     "state_name": "JIGAWA",
     "lga_name": "KAUGAMA",
+    "ward_name": "JARKASA",
     "document": {
       "external": false,
       "status": 1,
@@ -216,6 +221,7 @@
     "pu_code_string": "171607009",
     "state_name": "JIGAWA",
     "lga_name": "KAUGAMA",
+    "ward_name": "JARKASA",
     "document": {
       "external": false,
       "status": 1,
@@ -254,6 +260,7 @@
     "pu_code_string": "171607004",
     "state_name": "JIGAWA",
     "lga_name": "KAUGAMA",
+    "ward_name": "JARKASA",
     "document": {
       "external": false,
       "status": 1,
@@ -292,6 +299,7 @@
     "pu_code_string": "171607010",
     "state_name": "JIGAWA",
     "lga_name": "KAUGAMA",
+    "ward_name": "JARKASA",
     "document": {
       "external": false,
       "status": 1,
@@ -330,6 +338,7 @@
     "pu_code_string": "171607005",
     "state_name": "JIGAWA",
     "lga_name": "KAUGAMA",
+    "ward_name": "JARKASA",
     "document": {
       "external": false,
       "status": 1,
@@ -368,6 +377,7 @@
     "pu_code_string": "171607013",
     "state_name": "JIGAWA",
     "lga_name": "KAUGAMA",
+    "ward_name": "JARKASA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -398,6 +408,7 @@
     "pu_code_string": "171607001",
     "state_name": "JIGAWA",
     "lga_name": "KAUGAMA",
+    "ward_name": "JARKASA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -428,6 +439,7 @@
     "pu_code_string": "171607006",
     "state_name": "JIGAWA",
     "lga_name": "KAUGAMA",
+    "ward_name": "JARKASA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -458,6 +470,7 @@
     "pu_code_string": "171607008",
     "state_name": "JIGAWA",
     "lga_name": "KAUGAMA",
+    "ward_name": "JARKASA",
     "old_documents": [],
     "has_old_documents": false
   }

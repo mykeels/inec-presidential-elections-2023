@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,GURI,,GAGIYA PRI. HEALTH CARE,17/10/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3431/ward/21338/pu/144577/144577-1677651982.pdf,true
-JIGAWA,GURI,,KAJIMARAM,17/10/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/009/009-1677418411.pdf,false
-JIGAWA,GURI,,MAJANGUWA/MAJANGUWA,17/10/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/004/004-1677418255.pdf,false
-JIGAWA,GURI,,BAKIN GAYIN,17/10/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/010/010-1677417971.pdf,false
-JIGAWA,GURI,,GAGIYA PRI. SCH GAGIYA  II,17/10/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/007/007-1677417791.pdf,false
-JIGAWA,GURI,,ABUR PRI. SCH. ABUR,17/10/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/008/008-1677417264.pdf,false
-JIGAWA,GURI,,"KURYA, KURYA",17/10/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/005/005-1677417031.pdf,false
-JIGAWA,GURI,,GAGIYA PRI. SCH GAGIYA  I,17/10/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/006/006-1677417012.pdf,false
-JIGAWA,GURI,,DOROWAJI,17/10/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/011/011-1677414326.pdf,false
-JIGAWA,GURI,,ZUBA BARKONO/ZUBA BARKONO,17/10/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/003/003-1677413418.pdf,false
-JIGAWA,GURI,,DAWA PRI. SCH. DAWA  I,17/10/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/001/001-1677412502.pdf,false
-JIGAWA,GURI,,DAWA PRI. SCH. II,17/10/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/013/013-1677412129.pdf,false
-JIGAWA,GURI,,DAWA PRI. SCH. DAWA  II,17/10/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/002/002-1677391187.pdf,false
+JIGAWA,GURI,DAWA,GAGIYA PRI. HEALTH CARE,17/10/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3431/ward/21338/pu/144577/144577-1677651982.pdf,true
+JIGAWA,GURI,DAWA,KAJIMARAM,17/10/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/009/009-1677418411.pdf,false
+JIGAWA,GURI,DAWA,MAJANGUWA/MAJANGUWA,17/10/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/004/004-1677418255.pdf,false
+JIGAWA,GURI,DAWA,BAKIN GAYIN,17/10/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/010/010-1677417971.pdf,false
+JIGAWA,GURI,DAWA,GAGIYA PRI. SCH GAGIYA  II,17/10/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/007/007-1677417791.pdf,false
+JIGAWA,GURI,DAWA,ABUR PRI. SCH. ABUR,17/10/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/008/008-1677417264.pdf,false
+JIGAWA,GURI,DAWA,"KURYA, KURYA",17/10/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/005/005-1677417031.pdf,false
+JIGAWA,GURI,DAWA,GAGIYA PRI. SCH GAGIYA  I,17/10/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/006/006-1677417012.pdf,false
+JIGAWA,GURI,DAWA,DOROWAJI,17/10/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/011/011-1677414326.pdf,false
+JIGAWA,GURI,DAWA,ZUBA BARKONO/ZUBA BARKONO,17/10/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/003/003-1677413418.pdf,false
+JIGAWA,GURI,DAWA,DAWA PRI. SCH. DAWA  I,17/10/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/001/001-1677412502.pdf,false
+JIGAWA,GURI,DAWA,DAWA PRI. SCH. II,17/10/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/013/013-1677412129.pdf,false
+JIGAWA,GURI,DAWA,DAWA PRI. SCH. DAWA  II,17/10/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/002/002-1677391187.pdf,false

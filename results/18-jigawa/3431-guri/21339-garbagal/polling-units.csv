@@ -1,8 +1,8 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-JIGAWA,GURI,,KUBULU/KUBULU,17/10/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/04/pu/005/005-1677411160.pdf,false
-JIGAWA,GURI,,GARMAKUWAN YAMMA  GARMAKUWAN,17/10/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/04/pu/003/003-1677409665.pdf,false
-JIGAWA,GURI,,GARMAGUWAN YAMMA PRI. HEALTH CARE,17/10/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/04/pu/006/006-1677399511.pdf,false
-JIGAWA,GURI,,GARBAGAL PRI. SCH. GARBAGAL  II,17/10/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/04/pu/002/002-1677381742.pdf,false
-JIGAWA,GURI,,GARMAGUWAN GABAS PRI. SCH.,17/10/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/04/pu/007/007-1677381225.pdf,false
-JIGAWA,GURI,,GARMAKUWAN GABAS GARMAKUWAN GABAS,17/10/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/04/pu/004/004-1677375564.pdf,false
-JIGAWA,GURI,,GARBAGAL PRI. SCH. GARBAGAL  I,17/10/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/04/pu/001/001-1677375068.pdf,false
+JIGAWA,GURI,GARBAGAL,KUBULU/KUBULU,17/10/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/04/pu/005/005-1677411160.pdf,false
+JIGAWA,GURI,GARBAGAL,GARMAKUWAN YAMMA  GARMAKUWAN,17/10/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/04/pu/003/003-1677409665.pdf,false
+JIGAWA,GURI,GARBAGAL,GARMAGUWAN YAMMA PRI. HEALTH CARE,17/10/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/04/pu/006/006-1677399511.pdf,false
+JIGAWA,GURI,GARBAGAL,GARBAGAL PRI. SCH. GARBAGAL  II,17/10/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/04/pu/002/002-1677381742.pdf,false
+JIGAWA,GURI,GARBAGAL,GARMAGUWAN GABAS PRI. SCH.,17/10/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/04/pu/007/007-1677381225.pdf,false
+JIGAWA,GURI,GARBAGAL,GARMAKUWAN GABAS GARMAKUWAN GABAS,17/10/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/04/pu/004/004-1677375564.pdf,false
+JIGAWA,GURI,GARBAGAL,GARBAGAL PRI. SCH. GARBAGAL  I,17/10/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/04/pu/001/001-1677375068.pdf,false
