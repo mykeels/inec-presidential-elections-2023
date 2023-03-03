@@ -1,26 +1,26 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,WARRI SOUTH  WEST,,GBONWEIGVENE  TOWN  HALL,10/25/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/32096/result_149739_1677750439_thumb.jpg,false
-DELTA,WARRI SOUTH  WEST,,PAMIRN/AYAMA,10/25/02/013,https://docs.inecelectionresults.net/elections/1292/1677446563-138278.pdf,false
-DELTA,WARRI SOUTH  WEST,,AKORIGBENE,10/25/02/024,https://docs.inecelectionresults.net/elections/1292/1677444250-138289.pdf,false
-DELTA,WARRI SOUTH  WEST,,OBEREBEREGBENE,10/25/02/019,https://docs.inecelectionresults.net/elections/1292/1677441647-138284.pdf,false
-DELTA,WARRI SOUTH  WEST,,DUKUNGHAN,10/25/02/025,https://docs.inecelectionresults.net/elections/1292/1677441064-138290.pdf,false
-DELTA,WARRI SOUTH  WEST,,LOGBENE,10/25/02/023,https://docs.inecelectionresults.net/elections/1292/1677440294-138288.pdf,false
-DELTA,WARRI SOUTH  WEST,,BERIBEGBENE,10/25/02/009,https://docs.inecelectionresults.net/elections/1292/1677439685-138274.pdf,false
-DELTA,WARRI SOUTH  WEST,,OFIGBENE,10/25/02/018,https://docs.inecelectionresults.net/elections/1292/1677437962-138283.pdf,false
-DELTA,WARRI SOUTH  WEST,,OKOREWAREGBENE,10/25/02/021,https://docs.inecelectionresults.net/elections/1292/1677437930-138286.pdf,false
-DELTA,WARRI SOUTH  WEST,,OGODOGBENE,10/25/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/011/011-1677428203.pdf,false
-DELTA,WARRI SOUTH  WEST,,PERETUGBENE TOWN HALL I,10/25/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/007/007-1677428103.pdf,false
-DELTA,WARRI SOUTH  WEST,,GBONWEIGVENE TOWN HALL II,10/25/02/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/017/017-1677427546.pdf,false
-DELTA,WARRI SOUTH  WEST,,OGBOBERE,10/25/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/016/016-1677426966.pdf,false
-DELTA,WARRI SOUTH  WEST,,KPEMERGBENE,10/25/02/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/020/020-1677426607.pdf,false
-DELTA,WARRI SOUTH  WEST,,WARESEIMEREGBENE,10/25/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/015/015-1677426242.pdf,false
-DELTA,WARRI SOUTH  WEST,,INGOBOZIGHA,10/25/02/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/022/022-1677426214.pdf,false
-DELTA,WARRI SOUTH  WEST,,IGBILE,10/25/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/014/014-1677426124.pdf,false
-DELTA,WARRI SOUTH  WEST,,OKUGBOUGBENE,10/25/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/012/012-1677425777.pdf,false
-DELTA,WARRI SOUTH  WEST,,ODIBOWEIGBENE,10/25/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/010/010-1677425402.pdf,false
-DELTA,WARRI SOUTH  WEST,,ISABA  TOWN  HALL,10/25/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/002/002-1677424733.pdf,false
-DELTA,WARRI SOUTH  WEST,,PERETUGBENE TOWN HALL II,10/25/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/008/008-1677424092.pdf,false
-DELTA,WARRI SOUTH  WEST,,TUBOAMA  TOWN  HALL,10/25/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/006/006-1677422327.pdf,false
-DELTA,WARRI SOUTH  WEST,,ORUBEKE TOWN HALL,10/25/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/005/005-1677422278.pdf,false
-DELTA,WARRI SOUTH  WEST,,ISABA  SECONDARY SCHOOL,10/25/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/003/003-1677420635.pdf,false
-DELTA,WARRI SOUTH  WEST,,ISABA PRIMARY SCHOOL,10/25/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/001/001-1677420545.pdf,false
+DELTA,WARRI SOUTH  WEST,ISABA,GBONWEIGVENE  TOWN  HALL,10/25/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/32096/result_149739_1677750439_thumb.jpg,false
+DELTA,WARRI SOUTH  WEST,ISABA,PAMIRN/AYAMA,10/25/02/013,https://docs.inecelectionresults.net/elections/1292/1677446563-138278.pdf,false
+DELTA,WARRI SOUTH  WEST,ISABA,AKORIGBENE,10/25/02/024,https://docs.inecelectionresults.net/elections/1292/1677444250-138289.pdf,false
+DELTA,WARRI SOUTH  WEST,ISABA,OBEREBEREGBENE,10/25/02/019,https://docs.inecelectionresults.net/elections/1292/1677441647-138284.pdf,false
+DELTA,WARRI SOUTH  WEST,ISABA,DUKUNGHAN,10/25/02/025,https://docs.inecelectionresults.net/elections/1292/1677441064-138290.pdf,false
+DELTA,WARRI SOUTH  WEST,ISABA,LOGBENE,10/25/02/023,https://docs.inecelectionresults.net/elections/1292/1677440294-138288.pdf,false
+DELTA,WARRI SOUTH  WEST,ISABA,BERIBEGBENE,10/25/02/009,https://docs.inecelectionresults.net/elections/1292/1677439685-138274.pdf,false
+DELTA,WARRI SOUTH  WEST,ISABA,OFIGBENE,10/25/02/018,https://docs.inecelectionresults.net/elections/1292/1677437962-138283.pdf,false
+DELTA,WARRI SOUTH  WEST,ISABA,OKOREWAREGBENE,10/25/02/021,https://docs.inecelectionresults.net/elections/1292/1677437930-138286.pdf,false
+DELTA,WARRI SOUTH  WEST,ISABA,OGODOGBENE,10/25/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/011/011-1677428203.pdf,false
+DELTA,WARRI SOUTH  WEST,ISABA,PERETUGBENE TOWN HALL I,10/25/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/007/007-1677428103.pdf,false
+DELTA,WARRI SOUTH  WEST,ISABA,GBONWEIGVENE TOWN HALL II,10/25/02/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/017/017-1677427546.pdf,false
+DELTA,WARRI SOUTH  WEST,ISABA,OGBOBERE,10/25/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/016/016-1677426966.pdf,false
+DELTA,WARRI SOUTH  WEST,ISABA,KPEMERGBENE,10/25/02/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/020/020-1677426607.pdf,false
+DELTA,WARRI SOUTH  WEST,ISABA,WARESEIMEREGBENE,10/25/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/015/015-1677426242.pdf,false
+DELTA,WARRI SOUTH  WEST,ISABA,INGOBOZIGHA,10/25/02/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/022/022-1677426214.pdf,false
+DELTA,WARRI SOUTH  WEST,ISABA,IGBILE,10/25/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/014/014-1677426124.pdf,false
+DELTA,WARRI SOUTH  WEST,ISABA,OKUGBOUGBENE,10/25/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/012/012-1677425777.pdf,false
+DELTA,WARRI SOUTH  WEST,ISABA,ODIBOWEIGBENE,10/25/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/010/010-1677425402.pdf,false
+DELTA,WARRI SOUTH  WEST,ISABA,ISABA  TOWN  HALL,10/25/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/002/002-1677424733.pdf,false
+DELTA,WARRI SOUTH  WEST,ISABA,PERETUGBENE TOWN HALL II,10/25/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/008/008-1677424092.pdf,false
+DELTA,WARRI SOUTH  WEST,ISABA,TUBOAMA  TOWN  HALL,10/25/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/006/006-1677422327.pdf,false
+DELTA,WARRI SOUTH  WEST,ISABA,ORUBEKE TOWN HALL,10/25/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/005/005-1677422278.pdf,false
+DELTA,WARRI SOUTH  WEST,ISABA,ISABA  SECONDARY SCHOOL,10/25/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/003/003-1677420635.pdf,false
+DELTA,WARRI SOUTH  WEST,ISABA,ISABA PRIMARY SCHOOL,10/25/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/001/001-1677420545.pdf,false
