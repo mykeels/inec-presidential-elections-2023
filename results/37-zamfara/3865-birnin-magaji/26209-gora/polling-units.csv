@@ -1,0 +1,28 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+ZAMFARA,BIRNIN MAGAJI,GORA,KANNU/PRIMARY SCHOOL,36/03/03/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/673808/result_65031_1677623686_thumb.jpg,true
+ZAMFARA,BIRNIN MAGAJI,GORA,HAYIN KWARJE/ LIZAMIYYA,36/03/03/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/673813/result_65036_1677622238_thumb.jpg,false
+ZAMFARA,BIRNIN MAGAJI,GORA,MADAM BAJI/ SABON GIDA/ BAKIN KASUWA,36/03/03/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/673812/result_65035_1677622150_thumb.jpg,false
+ZAMFARA,BIRNIN MAGAJI,GORA,SABONG GIDA/ MADAN BAJI/ KULLIYYA,36/03/03/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/673811/result_65034_1677622060_thumb.jpg,false
+ZAMFARA,BIRNIN MAGAJI,GORA,MAHANGA BAKIN KASUWA,36/03/03/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/673810/result_65033_1677621998_thumb.jpg,false
+ZAMFARA,BIRNIN MAGAJI,GORA,FILIN YAR BAWA,36/03/03/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/673809/result_65032_1677621863_thumb.jpg,false
+ZAMFARA,BIRNIN MAGAJI,GORA,GSS GORA,36/03/03/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/673807/result_65030_1677621757_thumb.jpg,false
+ZAMFARA,BIRNIN MAGAJI,GORA,ASIBITI GORA ADULT. EDU,36/03/03/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+ZAMFARA,BIRNIN MAGAJI,GORA,KABIN GIRO,36/03/03/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/673805/result_65028_1677621594_thumb.jpg,false
+ZAMFARA,BIRNIN MAGAJI,GORA,DAN TURMI,36/03/03/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/673804/result_65027_1677621522_thumb.jpg,false
+ZAMFARA,BIRNIN MAGAJI,GORA,YAUTA BAKI II    /   GARKAR HAKIMI,36/03/03/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/117742/result_65026_1677621444_thumb.jpg,false
+ZAMFARA,BIRNIN MAGAJI,GORA,YAUTA BAKI  I   /  SHIYAR LIMAN,36/03/03/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/117741/result_65025_1677621370_thumb.jpg,false
+ZAMFARA,BIRNIN MAGAJI,GORA,SHAGERAWA    /  BAKIN MASSALLACIN J.,36/03/03/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/117740/result_65024_1677621292_thumb.jpg,false
+ZAMFARA,BIRNIN MAGAJI,GORA,TORAWA     /    GARKAR MAIGARI,36/03/03/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/117739/result_65023_1677621223_thumb.jpg,false
+ZAMFARA,BIRNIN MAGAJI,GORA,ILLOJIYA    /    KOFAR GALADIMA,36/03/03/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/117738/result_65022_1677621131_thumb.jpg,false
+ZAMFARA,BIRNIN MAGAJI,GORA,MADAMBAJI    /   GARKAR S/FILANI,36/03/03/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/117737/result_65021_1677621053_thumb.jpg,false
+ZAMFARA,BIRNIN MAGAJI,GORA,MADAMBAJI    /  GARKAR HAKIMI,36/03/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/117736/result_65020_1677620978_thumb.jpg,false
+ZAMFARA,BIRNIN MAGAJI,GORA,KOGIN GABINDA      /   BAKIN MASALLACI,36/03/03/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/117735/result_65019_1677620881_thumb.jpg,false
+ZAMFARA,BIRNIN MAGAJI,GORA,KANNU II   /   SH/U/DAWAKI GARKAR M. GARBA,36/03/03/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/117734/result_65018_1677620644_thumb.jpg,false
+ZAMFARA,BIRNIN MAGAJI,GORA,KANNU I   /   GIDAN LABARAN,36/03/03/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/117733/result_65017_1677620566_thumb.jpg,false
+ZAMFARA,BIRNIN MAGAJI,GORA,GORA II    /  PRIMARY SCHOOL,36/03/03/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/117732/result_65016_1677620446_thumb.jpg,false
+ZAMFARA,BIRNIN MAGAJI,GORA,GORA I     /   ADULT EDU. CLASS,36/03/03/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/117731/result_65015_1677620371_thumb.jpg,false
+ZAMFARA,BIRNIN MAGAJI,GORA,GIDAN KATSINAWA     /  GARKAR HAKIMI,36/03/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/117730/result_65014_1677620285_thumb.jpg,false
+ZAMFARA,BIRNIN MAGAJI,GORA,GIDAN BUZU    /   GARKAR A. MANDE,36/03/03/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/117729/result_65013_1677620178_thumb.jpg,false
+ZAMFARA,BIRNIN MAGAJI,GORA,GIDAN BAGAYE II / BAKIN MASALLCI,36/03/03/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/117728/result_65012_1677620078_thumb.jpg,false
+ZAMFARA,BIRNIN MAGAJI,GORA,GIDAN BAGAYE I / SHIYAR WAKILI,36/03/03/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/117727/result_65011_1677619895_thumb.jpg,false
+ZAMFARA,BIRNIN MAGAJI,GORA,BUKUT TABKIN KABAJI   /    GARKAR HAKIMI,36/03/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false

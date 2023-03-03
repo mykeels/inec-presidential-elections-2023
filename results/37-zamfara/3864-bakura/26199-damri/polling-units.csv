@@ -1,0 +1,16 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+ZAMFARA,BAKURA,DAMRI,SABON GARI KASUWAR DAJI,36/02/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3864/ward/26199/pu/177684/177684-1677692329.pdf,false
+ZAMFARA,BAKURA,DAMRI,SABON GARI/ADULT CLASS,36/02/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3864/ward/26199/pu/118727/118727-1677692048.pdf,false
+ZAMFARA,BAKURA,DAMRI,SABON GARI / PRIMARY SCHOOL,36/02/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3864/ward/26199/pu/118724/118724-1677691961.pdf,false
+ZAMFARA,BAKURA,DAMRI,T/YAMMA II/ADULT EDU. CLASS,36/02/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3864/ward/26199/pu/118731/118731-1677691614.pdf,false
+ZAMFARA,BAKURA,DAMRI,DAMRI II/VILLAGE HEAD OFFICE,36/02/03/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/117622/result_64833_1677505915_thumb.jpg,false
+ZAMFARA,BAKURA,DAMRI,SHIYAR KOFA YAR RIJIYA DAMRI,36/02/03/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/673736/result_64846_1677507629_thumb.jpg,true
+ZAMFARA,BAKURA,DAMRI,SATURU/VILLAGE HEAD OFFICE,36/02/03/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/117628/result_64839_1677507375_thumb.jpg,true
+ZAMFARA,BAKURA,DAMRI,SADE/PRI. SCH.,36/02/03/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/117623/result_64834_1677506711_thumb.jpg,true
+ZAMFARA,BAKURA,DAMRI,D/D MAZAUDA/PRI. SCH.,36/02/03/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/117626/result_64837_1677504792_thumb.jpg,true
+ZAMFARA,BAKURA,DAMRI,FAKON DAMMA DAMRI,36/02/03/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/673734/result_64844_1677507525_thumb.jpg,true
+ZAMFARA,BAKURA,DAMRI,DAMRI III/WOMEN CENTRE,36/02/03/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/117630/result_64841_1677507288_thumb.jpg,true
+ZAMFARA,BAKURA,DAMRI,CHIKARI/ADULT EDU. CLASS,36/02/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/117625/result_64836_1677506992_thumb.jpg,false
+ZAMFARA,BAKURA,DAMRI,PRIMARY HEALTH CARE DAMRI,36/02/03/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/673733/result_64843_1677505588_thumb.jpg,false
+ZAMFARA,BAKURA,DAMRI,DAMRI   I/MODEL PRIMARY SCHOOL,36/02/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/117621/result_64832_1677506337_thumb.jpg,true
+ZAMFARA,BAKURA,DAMRI,GIDAN MAIKIDI/ADULT EDU. CLASS,36/02/03/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/117629/result_64840_1677505268_thumb.jpg,true

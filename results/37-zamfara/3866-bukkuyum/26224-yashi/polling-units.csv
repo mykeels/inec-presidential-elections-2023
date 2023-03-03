@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+ZAMFARA,BUKKUYUM,YASHI,YASHIN MAKERA II/YASHIN MAKERA,36/04/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3866/ward/26224/pu/177830/177830-1677697363.pdf,false
+ZAMFARA,BUKKUYUM,YASHI,RUWA RANA II /KETARE,36/04/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3866/ward/26224/pu/177829/177829-1677697083.pdf,true
+ZAMFARA,BUKKUYUM,YASHI,BINDIN BAYA / FAGEN HUTU,36/04/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3866/ward/26224/pu/119051/119051-1677696427.pdf,true
+ZAMFARA,BUKKUYUM,YASHI,BALALA / BALALA,36/04/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3866/ward/26224/pu/119050/119050-1677696115.pdf,false
+ZAMFARA,BUKKUYUM,YASHI,DAN GAZAU / DAN GAZAU,36/04/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3866/ward/26224/pu/119047/119047-1677693632.pdf,false
+ZAMFARA,BUKKUYUM,YASHI,YASHIN / YASHIN MAKERA,36/04/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3866/ward/26224/pu/119046/119046-1677692247.pdf,false
+ZAMFARA,BUKKUYUM,YASHI,RUWA RANA / RUWA RANA,36/04/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/001/001-1677385933.pdf,false
+ZAMFARA,BUKKUYUM,YASHI,BANGANA / BAN GANA,36/04/08/005,,false
+ZAMFARA,BUKKUYUM,YASHI,ABARE / ABARE,36/04/08/004,,false
