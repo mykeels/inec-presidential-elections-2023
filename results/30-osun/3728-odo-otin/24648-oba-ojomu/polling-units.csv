@@ -1,0 +1,12 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+OSUN,ODO-OTIN,OBA OJOMU,"MOTOR PARK, OKUKU",29/25/01/002,,true
+OSUN,ODO-OTIN,OBA OJOMU,"OPPOSITE OLD NATIONAL BANK, OKUKU",29/25/01/004,,true
+OSUN,ODO-OTIN,OBA OJOMU,"OYEKUNLE D.C. PRY. SCHOOL, OKUKU",29/25/01/006,,true
+OSUN,ODO-OTIN,OBA OJOMU,"ST. ANTHONY PRY. SCHOOL, OKUKU",29/25/01/001,,true
+OSUN,ODO-OTIN,OBA OJOMU,"COURT HALL I, OKUKU",29/25/01/003,,true
+OSUN,ODO-OTIN,OBA OJOMU,"20B ARAROMI AREA, OKUKU",29/25/01/010,,true
+OSUN,ODO-OTIN,OBA OJOMU,"COURT HALL  II, OKUKU",29/25/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3728/ward/24648/pu/99349/99349-1677589903.pdf,true
+OSUN,ODO-OTIN,OBA OJOMU,"OPEN SPACE INFRONT OF ALIMI'S HOUSE OJOMU AREA, OKUKU",29/25/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/007/007-1677391658.pdf,false
+OSUN,ODO-OTIN,OBA OJOMU,"OWODE MARKET SQUARE, OKUKU",29/25/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/005/005-1677386408.pdf,false
+OSUN,ODO-OTIN,OBA OJOMU,"ODO-OTIN GRAMMAR SCHOOL, OKUKU.",29/25/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/011/011-1677366136.pdf,false
+OSUN,ODO-OTIN,OBA OJOMU,"IN FRONT OF PA DAVID ALARAN'S  HOUSE, OKUKU",29/25/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/01/pu/009/009-1677366066.pdf,false

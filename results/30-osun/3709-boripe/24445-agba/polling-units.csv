@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+OSUN,BORIPE,AGBA,HOLY APOSTLE AAGBA,29/06/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3709/ward/24445/pu/97457/97457-1677576632.pdf,true
+OSUN,BORIPE,AGBA,METHODIST PRY SCHOOL AAGBA,29/06/05/005,,true
+OSUN,BORIPE,AGBA,OLUKORO VILLAGE,29/06/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3709/ward/24445/pu/97463/97463-1677577548.pdf,true
+OSUN,BORIPE,AGBA,ERINWO VILLAGE,29/06/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3709/ward/24445/pu/97464/97464-1677578271.pdf,false
+OSUN,BORIPE,AGBA,"OPEN SPACE, ESA OSOLO JUNCTION, AAGBA",29/06/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/05/pu/009/009-1677369797.pdf,false
+OSUN,BORIPE,AGBA,BASHORUN SQUARE,29/06/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/05/pu/003/003-1677366828.pdf,false
+OSUN,BORIPE,AGBA,N.U.D SCHOOL,29/06/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/05/pu/004/004-1677366195.pdf,false
+OSUN,BORIPE,AGBA,TOWN HALL AAGBA,29/06/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/05/pu/002/002-1677365308.pdf,false
+OSUN,BORIPE,AGBA,DISPENSARY,29/06/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/05/pu/006/006-1677362161.pdf,false

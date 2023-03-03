@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+OSUN,IWO,ISALE OBA  IV,OPABABA,29/23/04/005,,true
+OSUN,IWO,ISALE OBA  IV,"ST. MICHAEL PRY. SCHOOL, OBATEDO I",29/23/04/003,,true
+OSUN,IWO,ISALE OBA  IV,"ST. MICHAEL PRY. SCHOOL, OBATEDO II",29/23/04/004,,true
+OSUN,IWO,ISALE OBA  IV,YAFOYE ST AUGUSTINE PRY SCH,29/23/04/006,,true
+OSUN,IWO,ISALE OBA  IV,"D.C. PRY. SCHOOL, OKE-OLA I",29/23/04/001,,true
+OSUN,IWO,ISALE OBA  IV,"D.C PRY. SCHOOL, OKE-OLA II",29/23/04/002,,true
+OSUN,IWO,ISALE OBA  IV,OLUNLE,29/23/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3726/ward/24626/pu/99147/99147-1677583228.pdf,false
+OSUN,IWO,ISALE OBA  IV,"OPEN SPACE, FOKE-YAFOYE",29/23/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/04/pu/009/009-1677390349.pdf,false
+OSUN,IWO,ISALE OBA  IV,"LICENSE OFFICE, OLUWO MARKET",29/23/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/04/pu/008/008-1677389406.pdf,false

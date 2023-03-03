@@ -1,0 +1,17 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+OSUN,ILA,EJIGBO  I,OJUDE ORANGUN I,29/17/01/009,,true
+OSUN,ILA,EJIGBO  I,"OJUDE OBAALA, OKE EJIGBO I",29/17/01/004,,true
+OSUN,ILA,EJIGBO  I,OJUDE ORANGUN II,29/17/01/010,,true
+OSUN,ILA,EJIGBO  I,"OJUDE OBAALA, OKE EJIGBO II",29/17/01/005,,true
+OSUN,ILA,EJIGBO  I,"BAPTIST PRY. SCHOOL, OKE EJIGBO II",29/17/01/002,,true
+OSUN,ILA,EJIGBO  I,TEMIDIRE,29/17/01/003,,true
+OSUN,ILA,EJIGBO  I,IGBONNIBI TOWN HALL I,29/17/01/007,,true
+OSUN,ILA,EJIGBO  I,"BAPTIST PRY. SCHOOL, OKE EJIGBO I",29/17/01/001,,true
+OSUN,ILA,EJIGBO  I,IGBONNIBI TOWN HALL II,29/17/01/008,,true
+OSUN,ILA,EJIGBO  I,POST OFFICE,29/17/01/006,,true
+OSUN,ILA,EJIGBO  I,ARAROMI I,29/17/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/01/pu/012/012-1677394926.pdf,false
+OSUN,ILA,EJIGBO  I,ARAROMI II,29/17/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/01/pu/013/013-1677365926.pdf,false
+OSUN,ILA,EJIGBO  I,BABA KERERE JUNCTION,29/17/01/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/01/pu/014/014-1677365555.pdf,false
+OSUN,ILA,EJIGBO  I,GAA FULANI,29/17/01/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/01/pu/016/016-1677365508.pdf,false
+OSUN,ILA,EJIGBO  I,ITA SAPON,29/17/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/01/pu/011/011-1677365261.pdf,false
+OSUN,ILA,EJIGBO  I,IGBONNIBI HIGH SCHOOL,29/17/01/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/01/pu/015/015-1677364652.pdf,false

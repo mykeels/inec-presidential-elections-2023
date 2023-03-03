@@ -1,0 +1,12 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+OSUN,IFE SOUTH,AYE,ABA IRESI I,29/16/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3719/ward/24557/pu/98480/98480-1677586189.pdf,false
+OSUN,IFE SOUTH,AYE,ABA IRESI II,29/16/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3719/ward/24557/pu/98481/98481-1677583674.pdf,false
+OSUN,IFE SOUTH,AYE,"BAPTIST DAY SCHOOL, IDI-OGUN",29/16/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3719/ward/24557/pu/98483/98483-1677580641.pdf,true
+OSUN,IFE SOUTH,AYE,ATERE PRY. SCHOOL,29/16/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3719/ward/24557/pu/98485/98485-1677574553.pdf,true
+OSUN,IFE SOUTH,AYE,ADEREMI MEMORIAL COLLEGE I,29/16/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/11/pu/001/001-1677369161.pdf,false
+OSUN,IFE SOUTH,AYE,"AMODO PRY SCHOOL, AMODO VILLAGE",29/16/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/11/pu/011/011-1677368100.pdf,false
+OSUN,IFE SOUTH,AYE,IDI AKO VILLAGE,29/16/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/11/pu/008/008-1677366979.pdf,false
+OSUN,IFE SOUTH,AYE,"PRY SCHOOL, OLOWOKERE",29/16/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/11/pu/006/006-1677366549.pdf,false
+OSUN,IFE SOUTH,AYE,"ST. THOMAS PRY. SCHOOL, AJEBANDELE",29/16/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/11/pu/010/010-1677366240.pdf,false
+OSUN,IFE SOUTH,AYE,ADEREMI MEMORIAL COLLEGE II,29/16/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/11/pu/002/002-1677365915.pdf,false
+OSUN,IFE SOUTH,AYE,OGBAGBA VILLAGE,29/16/11/003,,false

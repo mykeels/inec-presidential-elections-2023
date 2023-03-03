@@ -1,0 +1,5 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+OSUN,ORIADE,IRA,"ILOKUN SQUARE, IRA",29/28/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/98569/result_41148_1677494997_thumb.jpg,false
+OSUN,ORIADE,IRA,IKEJI-ILE HIGH SCHOOL,29/28/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/28/ward/06/pu/001/001-1677377170.pdf,false
+OSUN,ORIADE,IRA,BOLORUNDURO AJE COMMUNITY,29/28/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/28/ward/06/pu/004/004-1677362454.pdf,false
+OSUN,ORIADE,IRA,ORISUNMIBARE COMMUNITY,29/28/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/28/ward/06/pu/003/003-1677361514.pdf,false

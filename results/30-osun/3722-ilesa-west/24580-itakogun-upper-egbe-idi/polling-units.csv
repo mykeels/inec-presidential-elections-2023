@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+OSUN,ILESA WEST,ITAKOGUN/UPPER EGBE-IDI,OPPOSITE EGBE-IDI MOSQUE,29/19/01/006,,true
+OSUN,ILESA WEST,ITAKOGUN/UPPER EGBE-IDI,IDI IROKO/ITAKOGUN,29/19/01/008,,true
+OSUN,ILESA WEST,ITAKOGUN/UPPER EGBE-IDI,IGBOGI JUNCTION ORINKINRAN,29/19/01/007,,true
+OSUN,ILESA WEST,ITAKOGUN/UPPER EGBE-IDI,IDIROKO/ITAKOGUN,29/19/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/01/pu/001/001-1677399341.pdf,false
+OSUN,ILESA WEST,ITAKOGUN/UPPER EGBE-IDI,IBOSINNI NEAR MECH. WORKSHOP,29/19/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/01/pu/002/002-1677398562.pdf,false
+OSUN,ILESA WEST,ITAKOGUN/UPPER EGBE-IDI,FRONTAGE OF BABAJIDE II,29/19/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/01/pu/005/005-1677396339.pdf,false
+OSUN,ILESA WEST,ITAKOGUN/UPPER EGBE-IDI,FRONTAGE OF LOKINRAN,29/19/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/01/pu/003/003-1677392086.pdf,false
+OSUN,ILESA WEST,ITAKOGUN/UPPER EGBE-IDI,FRONTAGE OF BABAJIDE I,29/19/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/01/pu/004/004-1677390005.pdf,false
