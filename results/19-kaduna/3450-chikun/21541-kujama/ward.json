@@ -17,5 +17,7 @@
   "ward_id": 21541,
   "created_at": "2020-07-15T17:27:36.604Z",
   "updated_at": "2020-07-15T17:27:36.604Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "KADUNA",
+  "lga_name": "CHIKUN"
 }

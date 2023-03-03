@@ -17,5 +17,7 @@
   "ward_id": 21619,
   "created_at": "2020-07-15T17:27:47.621Z",
   "updated_at": "2020-07-15T17:27:47.621Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "KADUNA",
+  "lga_name": "KADUNA NORTH"
 }

@@ -17,5 +17,7 @@
   "ward_id": 21588,
   "created_at": "2020-07-15T17:27:43.272Z",
   "updated_at": "2020-07-15T17:27:43.272Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "KADUNA",
+  "lga_name": "JABA"
 }

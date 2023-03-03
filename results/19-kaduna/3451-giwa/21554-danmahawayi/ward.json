@@ -17,5 +17,7 @@
   "ward_id": 21554,
   "created_at": "2020-07-15T17:27:38.462Z",
   "updated_at": "2020-07-15T17:27:38.462Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "KADUNA",
+  "lga_name": "GIWA"
 }
