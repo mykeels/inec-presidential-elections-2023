@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KWARA,IFELODUN,OKE-ODE 111,COMM SCH  GBEDE,23/05/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3596/ward/23141/pu/75821/75821-1677788765.pdf,true
+KWARA,IFELODUN,OKE-ODE 111,ECWA SCH LABAKA-OJA,23/05/03/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/75121/result_68795_1677736941_thumb.jpg,false
+KWARA,IFELODUN,OKE-ODE 111,COMM SCH  DABU OROKI,23/05/03/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/75119/result_68793_1677736849_thumb.jpg,false
+KWARA,IFELODUN,OKE-ODE 111,COMM SCH ALADE,23/05/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/75116/result_68790_1677736739_thumb.jpg,false
+KWARA,IFELODUN,OKE-ODE 111,ECWA SCH LABAKA-OJA,23/05/03/007,,true
+KWARA,IFELODUN,OKE-ODE 111,COMM SCH OMI-ARO,23/05/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3596/ward/23141/pu/75820/75820-1677530296.pdf,false
+KWARA,IFELODUN,OKE-ODE 111,COMM SCH LABAKA IDERA,23/05/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3596/ward/23141/pu/75814/75814-1677526171.pdf,false
+KWARA,IFELODUN,OKE-ODE 111,COMM SCH  ELEIYELE,23/05/03/005,,true
+KWARA,IFELODUN,OKE-ODE 111,COMM SCH  ASUNGBALE,23/05/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3596/ward/23141/pu/75815/75815-1677602950.pdf,true

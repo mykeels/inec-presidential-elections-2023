@@ -1,0 +1,6 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KWARA,EKITI,KORO,"HEALTH CENTRE, BOLORUNDURO",23/04/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KWARA,EKITI,KORO,"COMMUNITY PRIMARY SCHOOL, EGURE",23/04/03/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/650841/result_68710_1677626992_thumb.jpg,false
+KWARA,EKITI,KORO,MARKET CENTRE KORO,23/04/03/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/75043/result_68709_1677626904_thumb.jpg,false
+KWARA,EKITI,KORO,HEALTH CENTRE KORO,23/04/03/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/75042/result_68708_1677626822_thumb.jpg,false
+KWARA,EKITI,KORO,COMM SCH KORO,23/04/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/75041/result_68707_1677626746_thumb.jpg,false

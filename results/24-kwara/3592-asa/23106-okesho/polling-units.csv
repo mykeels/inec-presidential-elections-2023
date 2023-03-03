@@ -1,0 +1,5 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KWARA,ASA,OKESHO,AFEYIN LGEA SCH II,23/01/16/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3592/ward/23106/pu/155386/155386-1677773902.pdf,false
+KWARA,ASA,OKESHO,OKESO LGEA SCHOOL II,23/01/16/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3592/ward/23106/pu/155385/155385-1677773342.pdf,false
+KWARA,ASA,OKESHO,AFEYIN  L.G.E.A.SCH,23/01/16/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3592/ward/23106/pu/75475/75475-1677769929.pdf,true
+KWARA,ASA,OKESHO,OKESHO  L.G.E.A.SCH,23/01/16/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3592/ward/23106/pu/75474/75474-1677769110.pdf,false

@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KWARA,ASA,ODO-ODE/ABOTO,ODO-ODE LGEA SCH II,23/01/17/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3592/ward/23107/pu/155389/155389-1677601688.pdf,true
+KWARA,ASA,ODO-ODE/ABOTO,ABOTO LGEA SCH III,23/01/17/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3592/ward/23107/pu/155387/155387-1677601286.pdf,true
+KWARA,ASA,ODO-ODE/ABOTO,ODO-ODE  L.G.E.A.SCH,23/01/17/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3592/ward/23107/pu/75479/75479-1677600861.pdf,true
+KWARA,ASA,ODO-ODE/ABOTO,ABOTO  L.G.E.A.SCH II,23/01/17/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3592/ward/23107/pu/75477/75477-1677599020.pdf,false
+KWARA,ASA,ODO-ODE/ABOTO,ABOTO  L.G.E.A.SCH I,23/01/17/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3592/ward/23107/pu/75476/75476-1677596854.pdf,true
+KWARA,ASA,ODO-ODE/ABOTO,BUDO-ARO  L.G.E.A.SCH,23/01/17/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/17/pu/003/003-1677397192.pdf,false
+KWARA,ASA,ODO-ODE/ABOTO,ABOTO LGEA SCH IV,23/01/17/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/17/pu/008/008-1677396199.pdf,false
+KWARA,ASA,ODO-ODE/ABOTO,OWODE ALAGBON  L.G.E.A.SCH,23/01/17/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/17/pu/006/006-1677394508.pdf,false
+KWARA,ASA,ODO-ODE/ABOTO,OMOLE  L.G.E.A.SCH,23/01/17/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/17/pu/005/005-1677392247.pdf,false

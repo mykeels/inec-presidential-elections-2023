@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KWARA,EKITI,ISAPA,OPEN SPACE ODO-ITAN ISAPA,23/04/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3595/ward/23130/pu/75735/75735-1677789291.pdf,true
+KWARA,EKITI,ISAPA,OPEN SPACE ODO-AGO ISAPA,23/04/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3595/ward/23130/pu/75732/75732-1677782117.pdf,true
+KWARA,EKITI,ISAPA,"TOWN HALL, OKE ODO-ORO",23/04/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/650839/result_68705_1677576626_thumb.jpg,false
+KWARA,EKITI,ISAPA,OPEN SPACE IBERIKEDO ISAPA,23/04/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/75037/result_68701_1677578743_thumb.jpg,false
+KWARA,EKITI,ISAPA,OPEN SPACE OKE-IPO  ISAPA,23/04/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/75039/result_68703_1677577428_thumb.jpg,false
+KWARA,EKITI,ISAPA,L.G.E.A SCH ISAPA,23/04/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/75036/result_68700_1677576216_thumb.jpg,false
+KWARA,EKITI,ISAPA,"OPEN SPACE OLD MARKET, IKIMO",23/04/02/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/650840/result_68706_1677579416_thumb.jpg,false
+KWARA,EKITI,ISAPA,OPEN SPACE OKESA/MISSION,23/04/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/75040/result_68704_1677578060_thumb.jpg,false
