@@ -17,5 +17,7 @@
   "ward_id": 24337,
   "created_at": "2020-07-15T17:34:38.042Z",
   "updated_at": "2020-07-15T17:34:38.042Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "ONDO",
+  "lga_name": "OKITIPUPA"
 }

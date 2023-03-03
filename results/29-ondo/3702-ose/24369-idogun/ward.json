@@ -17,5 +17,7 @@
   "ward_id": 24369,
   "created_at": "2020-07-15T17:34:42.845Z",
   "updated_at": "2020-07-15T17:34:42.845Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "ONDO",
+  "lga_name": "OSE"
 }
