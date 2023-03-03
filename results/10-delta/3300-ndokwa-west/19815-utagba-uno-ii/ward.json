@@ -17,5 +17,7 @@
   "ward_id": 19815,
   "created_at": "2020-07-15T17:23:23.918Z",
   "updated_at": "2020-07-15T17:23:23.918Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "DELTA",
+  "lga_name": "NDOKWA WEST"
 }

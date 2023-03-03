@@ -17,5 +17,7 @@
   "ward_id": 19898,
   "created_at": "2020-07-15T17:23:35.507Z",
   "updated_at": "2020-07-15T17:23:35.507Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "DELTA",
+  "lga_name": "UGHELLI SOUTH"
 }

@@ -17,5 +17,7 @@
   "ward_id": 19869,
   "created_at": "2020-07-15T17:23:31.445Z",
   "updated_at": "2020-07-15T17:23:31.445Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "DELTA",
+  "lga_name": "SAPELE"
 }
