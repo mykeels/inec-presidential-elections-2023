@@ -1,0 +1,8 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,CHIBOK,PEMI,PEMI B. TALAWUR,08/06/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19252/pu/23377/23377-1677767673.pdf,true
+BORNO,CHIBOK,PEMI,PEMI BILA ALI  I,08/06/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19252/pu/23375/23375-1677766655.pdf,true
+BORNO,CHIBOK,PEMI,PEMI B. KYARI,08/06/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19252/pu/23378/23378-1677760946.pdf,false
+BORNO,CHIBOK,PEMI,PEMI B. LAWAN,08/06/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19252/pu/23380/23380-1677759395.pdf,false
+BORNO,CHIBOK,PEMI,PEMI BILA ALI  II,08/06/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19252/pu/23376/23376-1677606696.pdf,true
+BORNO,CHIBOK,PEMI,PEMI B. NGILADAR,08/06/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19252/pu/23379/23379-1677606133.pdf,true
+BORNO,CHIBOK,PEMI,PEMI B. YUKURA,08/06/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19252/pu/23381/23381-1677604494.pdf,false

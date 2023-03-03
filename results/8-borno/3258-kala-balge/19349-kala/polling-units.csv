@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,KALA BALGE,KALA,KALA DISPENSARY II,08/15/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3258/ward/19349/pu/134621/134621-1677598917.pdf,false
+BORNO,KALA BALGE,KALA,AMBLIYA,08/15/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3258/ward/19349/pu/24534/24534-1677597867.pdf,false
+BORNO,KALA BALGE,KALA,UTUMA,08/15/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3258/ward/19349/pu/24541/24541-1677597061.pdf,false
+BORNO,KALA BALGE,KALA,KALA PRIMARY,08/15/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3258/ward/19349/pu/24538/24538-1677590557.pdf,true
+BORNO,KALA BALGE,KALA,BOK,08/15/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3258/ward/19349/pu/24535/24535-1677589440.pdf,true
+BORNO,KALA BALGE,KALA,SIDERI,08/15/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3258/ward/19349/pu/24540/24540-1677587503.pdf,true
+BORNO,KALA BALGE,KALA,KALA DISPENSARY,08/15/05/004,,false
+BORNO,KALA BALGE,KALA,MELERI,08/15/05/006,,false
+BORNO,KALA BALGE,KALA,JUWE,08/15/05/003,,false

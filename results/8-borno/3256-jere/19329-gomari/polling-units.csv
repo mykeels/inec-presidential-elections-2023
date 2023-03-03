@@ -1,0 +1,55 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,JERE,GOMARI,BULAMA BABA SHUWA  II,08/13/12/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/24388/result_185751_1677780119_thumb.jpg,false
+BORNO,JERE,GOMARI,BULAMA BABA SHUWA  I,08/13/12/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/24387/result_185750_1677779892_thumb.jpg,false
+BORNO,JERE,GOMARI,ASHINGA JARA SHUWA,08/13/12/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/24390/result_185753_1677771210_thumb.jpg,false
+BORNO,JERE,GOMARI,USMAN ABBA AMIRA  I,08/13/12/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/24385/result_185748_1677771155_thumb.jpg,false
+BORNO,JERE,GOMARI,AHMADU LADAN,08/13/12/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/24380/result_185743_1677771060_thumb.jpg,false
+BORNO,JERE,GOMARI,AJILARI CROSS,08/13/12/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/627151/result_185767_1677770931_thumb.jpg,false
+BORNO,JERE,GOMARI,USMAN ABBA AMIRA II,08/13/12/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/24386/result_185749_1677770781_thumb.jpg,false
+BORNO,JERE,GOMARI,ALH. ALI KANTIMA  I,08/13/12/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/24381/result_185744_1677770635_thumb.jpg,false
+BORNO,JERE,GOMARI,NDOLLORI,08/13/12/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/24371/result_185734_1677770407_thumb.jpg,false
+BORNO,JERE,GOMARI,GONI MUSTAPHA,08/13/12/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/24383/result_185746_1677770032_thumb.jpg,false
+BORNO,JERE,GOMARI,GOMARI  BUS STOP  III,08/13/12/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/24379/result_185742_1677769876_thumb.jpg,false
+BORNO,JERE,GOMARI,BULAMA  JIDDA  III,08/13/12/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/24374/result_185737_1677769735_thumb.jpg,false
+BORNO,JERE,GOMARI,ALH. ALI KANTIMA  II,08/13/12/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/24382/result_185745_1677769556_thumb.jpg,false
+BORNO,JERE,GOMARI,BULAMA JIDDA  I,08/13/12/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/24372/result_185735_1677769398_thumb.jpg,false
+BORNO,JERE,GOMARI,MODU JAKANA,08/13/12/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/24387/24387-1677678223.pdf,false
+BORNO,JERE,GOMARI,PHARM MODU USMAN,08/13/12/051,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/134600/134600-1677677501.pdf,false
+BORNO,JERE,GOMARI,ALHAJI HARUNA AP,08/13/12/035,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/134584/134584-1677676631.pdf,false
+BORNO,JERE,GOMARI,BULAMA MODU DAPCHERI  II,08/13/12/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/24406/24406-1677675935.pdf,false
+BORNO,JERE,GOMARI,BULAMA MUSTAPHA,08/13/12/033,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/134582/134582-1677669342.pdf,true
+BORNO,JERE,GOMARI,BEHIND HAJI CAMP I,08/13/12/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/24408/24408-1677666036.pdf,false
+BORNO,JERE,GOMARI,BA MALLUM MODU BENISHEIKH,08/13/12/036,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/134585/134585-1677665168.pdf,true
+BORNO,JERE,GOMARI,MOH'D ISA BAHAUSA,08/13/12/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/24395/24395-1677665147.pdf,false
+BORNO,JERE,GOMARI,GOMARI II PRI SCHOOL,08/13/12/050,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/134599/134599-1677665111.pdf,false
+BORNO,JERE,GOMARI,BEHIND HAJI CAMP III,08/13/12/029,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/24410/24410-1677664959.pdf,true
+BORNO,JERE,GOMARI,BINTU SUGAR JUNCTION,08/13/12/042,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/134591/134591-1677664956.pdf,false
+BORNO,JERE,GOMARI,GONI HASSAN MAI BLOCK,08/13/12/045,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/134594/134594-1677664897.pdf,false
+BORNO,JERE,GOMARI,MOHAMMED CHENCHERO,08/13/12/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/24403/24403-1677664747.pdf,false
+BORNO,JERE,GOMARI,SABILUN NAJA SCHOOL,08/13/12/044,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/134593/134593-1677664609.pdf,false
+BORNO,JERE,GOMARI,MALLAM NANI JUNCTION,08/13/12/046,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/134595/134595-1677664429.pdf,false
+BORNO,JERE,GOMARI,BA MODU FENTIMA,08/13/12/043,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/134592/134592-1677664427.pdf,false
+BORNO,JERE,GOMARI,GONI MOHAMMAD NA BAKIN BOLA,08/13/12/049,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/134598/134598-1677664409.pdf,false
+BORNO,JERE,GOMARI,BULAMA MODU DAPCHERI I,08/13/12/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/24405/24405-1677664377.pdf,true
+BORNO,JERE,GOMARI,ALH. BUKAR LONGO,08/13/12/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/24407/24407-1677664069.pdf,false
+BORNO,JERE,GOMARI,ABBA NAIRA BORE HOLE,08/13/12/041,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/134590/134590-1677663814.pdf,false
+BORNO,JERE,GOMARI,GONI ISA KALUMBU,08/13/12/032,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/134581/134581-1677663422.pdf,true
+BORNO,JERE,GOMARI,GOMARI DISPENSARY,08/13/12/030,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/24411/24411-1677663012.pdf,true
+BORNO,JERE,GOMARI,BULAMA SAJE,08/13/12/031,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/134580/134580-1677662803.pdf,false
+BORNO,JERE,GOMARI,BULAMA DODO KACHALLAH,08/13/12/053,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/134602/134602-1677662702.pdf,false
+BORNO,JERE,GOMARI,LAYIN JAN GATE,08/13/12/047,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/134596/134596-1677661815.pdf,false
+BORNO,JERE,GOMARI,KOFAR AHALI,08/13/12/039,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/134588/134588-1677661634.pdf,false
+BORNO,JERE,GOMARI,GOMARI I PRI. SCHOOL,08/13/12/054,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/134603/134603-1677661545.pdf,false
+BORNO,JERE,GOMARI,BEHIND HAJI CAMP II,08/13/12/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/24409/24409-1677661484.pdf,true
+BORNO,JERE,GOMARI,AJILARI COMMUNITY MEGA SCHOOL,08/13/12/052,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/134601/134601-1677660962.pdf,true
+BORNO,JERE,GOMARI,YAN ZANA,08/13/12/040,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/134589/134589-1677660681.pdf,false
+BORNO,JERE,GOMARI,USMAN MOHAMMED,08/13/12/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/24402/24402-1677660624.pdf,false
+BORNO,JERE,GOMARI,BULAMA BABA SHUWA  III,08/13/12/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/24400/24400-1677660143.pdf,true
+BORNO,JERE,GOMARI,BEHIND BARWEE HOTEL,08/13/12/048,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/134597/134597-1677659551.pdf,false
+BORNO,JERE,GOMARI,LAYIN LARABAWA,08/13/12/037,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/134586/134586-1677659280.pdf,true
+BORNO,JERE,GOMARI,AJILARI BULAMARI,08/13/12/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/24386/24386-1677659228.pdf,false
+BORNO,JERE,GOMARI,GOMARI BUS STOP  I,08/13/12/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/24388/24388-1677658787.pdf,false
+BORNO,JERE,GOMARI,GOMARI BUS STOP  II,08/13/12/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/24389/24389-1677658192.pdf,true
+BORNO,JERE,GOMARI,BULAMA JIDDA  II,08/13/12/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3256/ward/19329/pu/24384/24384-1677657203.pdf,true
+BORNO,JERE,GOMARI,BABA GAJERE,08/13/12/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/023/023-1677370658.pdf,false
+BORNO,JERE,GOMARI,ALHAJI ABBA MINTAR,08/13/12/038,,false

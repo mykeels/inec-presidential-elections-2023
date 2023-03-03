@@ -1,0 +1,5 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,MAGUMERI,KARERAM,GALTARU,08/20/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3263/ward/19406/pu/25064/25064-1677705490.pdf,true
+BORNO,MAGUMERI,KARERAM,BULABULIN,08/20/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3263/ward/19406/pu/25066/25066-1677705305.pdf,true
+BORNO,MAGUMERI,KARERAM,KARERAM DUNGARI,08/20/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3263/ward/19406/pu/25065/25065-1677705206.pdf,true
+BORNO,MAGUMERI,KARERAM,MUSA'ANARI,08/20/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3263/ward/19406/pu/134813/134813-1677500587.pdf,false

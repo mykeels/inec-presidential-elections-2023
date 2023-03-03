@@ -1,0 +1,5 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,ABADAM,BANOWA,BANOWA PRI. SCH.,08/01/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/22443/result_183241_1677535782_thumb.jpg,true
+BORNO,ABADAM,BANOWA,LIMBARI,08/01/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/22445/result_183243_1677532452_thumb.jpg,true
+BORNO,ABADAM,BANOWA,GARERE PRI. SCH. II,08/01/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/627752/result_183244_1677515260_thumb.jpg,true
+BORNO,ABADAM,BANOWA,GARERE PRI. SCH.,08/01/02/002,,false

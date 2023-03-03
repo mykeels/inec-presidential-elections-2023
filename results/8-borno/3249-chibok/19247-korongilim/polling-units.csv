@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,CHIBOK,KORONGILIM,BULA KAGU III&IV,08/06/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19247/pu/23339/23339-1677780677.pdf,true
+BORNO,CHIBOK,KORONGILIM,BULA SHETTIMA,08/06/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19247/pu/23338/23338-1677779458.pdf,false
+BORNO,CHIBOK,KORONGILIM,YARCHIDA,08/06/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19247/pu/23337/23337-1677778947.pdf,false
+BORNO,CHIBOK,KORONGILIM,KWADA YANG,08/06/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19247/pu/23336/23336-1677777828.pdf,false
+BORNO,CHIBOK,KORONGILIM,K.KWIBULA,08/06/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19247/pu/23335/23335-1677774356.pdf,false
+BORNO,CHIBOK,KORONGILIM,BAMBULA,08/06/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19247/pu/23333/23333-1677766677.pdf,true
+BORNO,CHIBOK,KORONGILIM,KORONGILIM ZARMA,08/06/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19247/pu/23334/23334-1677765058.pdf,true
+BORNO,CHIBOK,KORONGILIM,KORONGILIM,08/06/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19247/pu/23340/23340-1677764533.pdf,false

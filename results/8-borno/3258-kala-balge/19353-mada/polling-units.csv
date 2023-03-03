@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,KALA BALGE,MADA,MISHERDE,08/15/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3258/ward/19353/pu/24578/24578-1677606177.pdf,true
+BORNO,KALA BALGE,MADA,GABULGA,08/15/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3258/ward/19353/pu/24575/24575-1677604789.pdf,true
+BORNO,KALA BALGE,MADA,GILGIL,08/15/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3258/ward/19353/pu/24576/24576-1677604347.pdf,false
+BORNO,KALA BALGE,MADA,MUSARI,08/15/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3258/ward/19353/pu/24579/24579-1677603183.pdf,true
+BORNO,KALA BALGE,MADA,MADA,08/15/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3258/ward/19353/pu/24577/24577-1677602151.pdf,false
+BORNO,KALA BALGE,MADA,SAUSAWA,08/15/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3258/ward/19353/pu/24580/24580-1677602056.pdf,true
+BORNO,KALA BALGE,MADA,MULA PRIMARY SCHOOL,08/15/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3258/ward/19353/pu/134626/134626-1677601575.pdf,false
+BORNO,KALA BALGE,MADA,KILANGILAWA,08/15/09/007,,false

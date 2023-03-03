@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,BAYO,JARA GOL,LOLOM,08/04/05/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23047/result_183944_1677795261_thumb.jpg,false
+BORNO,BAYO,JARA GOL,TUJI,08/04/05/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23043/result_183940_1677794946_thumb.jpg,false
+BORNO,BAYO,JARA GOL,JARA GOL PRI. SCH.,08/04/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23042/result_183939_1677525107_thumb.jpg,true
+BORNO,BAYO,JARA GOL,KOFAR MAI UNGUWA,08/04/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3247/ward/19225/pu/134114/134114-1677594053.pdf,false
+BORNO,BAYO,JARA GOL,KORKO PRY.SCH,08/04/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3247/ward/19225/pu/23057/23057-1677578432.pdf,false
+BORNO,BAYO,JARA GOL,HEALTH CENTRE JARAGOL,08/04/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3247/ward/19225/pu/134115/134115-1677578155.pdf,false
+BORNO,BAYO,JARA GOL,KOFAR LAWAN JARAGOL,08/04/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3247/ward/19225/pu/134116/134116-1677576367.pdf,false
+BORNO,BAYO,JARA GOL,GWANJARA PRY.SCH.,08/04/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3247/ward/19225/pu/23055/23055-1677573896.pdf,true
+BORNO,BAYO,JARA GOL,NDEKI PRI. SCH.,08/04/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/05/pu/004/004-1677383538.pdf,false

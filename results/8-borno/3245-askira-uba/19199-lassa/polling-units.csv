@@ -1,0 +1,14 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,ASKIRA / UBA,LASSA,KOFAR KATSALLA  II,08/02/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/22587/result_183414_1677607399_thumb.jpg,false
+BORNO,ASKIRA / UBA,LASSA,MALLAM WAMPANA II,08/02/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/22589/result_183416_1677606784_thumb.jpg,false
+BORNO,ASKIRA / UBA,LASSA,KOFAR KATSALLA  I,08/02/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3245/ward/19199/pu/22597/22597-1677604328.pdf,false
+BORNO,ASKIRA / UBA,LASSA,MOTOR PARK II,08/02/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3245/ward/19199/pu/22595/22595-1677603816.pdf,true
+BORNO,ASKIRA / UBA,LASSA,G.D.S.S LASSA,08/02/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3245/ward/19199/pu/22603/22603-1677603391.pdf,true
+BORNO,ASKIRA / UBA,LASSA,MALLAM WAMPANA  I,08/02/06/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/22588/result_183415_1677575142_thumb.jpg,false
+BORNO,ASKIRA / UBA,LASSA,U.P.E. PRI. SCH.  I,08/02/06/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/22590/result_183417_1677576027_thumb.jpg,false
+BORNO,ASKIRA / UBA,LASSA,KOFAR LAWAN,08/02/06/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/22594/result_183421_1677570438_thumb.jpg,false
+BORNO,ASKIRA / UBA,LASSA,SAMUWA PRI. SCH.,08/02/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/22593/result_183420_1677574552_thumb.jpg,false
+BORNO,ASKIRA / UBA,LASSA,MALA THLAWUR,08/02/06/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/22585/result_183412_1677574322_thumb.jpg,false
+BORNO,ASKIRA / UBA,LASSA,BAKIN KASUWA LASSA,08/02/06/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/626747/result_183422_1677570138_thumb.jpg,false
+BORNO,ASKIRA / UBA,LASSA,MOTOR PARK I,08/02/06/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/22583/result_183410_1677572528_thumb.jpg,false
+BORNO,ASKIRA / UBA,LASSA,U.P.E. PRI. SCH.  II,08/02/06/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/22591/result_183418_1677573470_thumb.jpg,false

@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,DIKWA,SOGOMA / AFUYE,KUDIYE PRI. SCH.,08/08/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3251/ward/19272/pu/23564/23564-1677673826.pdf,false
+BORNO,DIKWA,SOGOMA / AFUYE,JIYE PRI. SCH.,08/08/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23556/result_184671_1677494200_thumb.jpg,true
+BORNO,DIKWA,SOGOMA / AFUYE,AFUYE PRI. SCH.,08/08/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3251/ward/19272/pu/23563/23563-1677504475.pdf,false
+BORNO,DIKWA,SOGOMA / AFUYE,SOGOMA PRI. SCH.  I,08/08/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3251/ward/19272/pu/23565/23565-1677504459.pdf,false
+BORNO,DIKWA,SOGOMA / AFUYE,SOGOMA PRI. SCH.  II,08/08/10/004,,false
+BORNO,DIKWA,SOGOMA / AFUYE,ISARI DANDAL,08/08/10/006,,false
+BORNO,DIKWA,SOGOMA / AFUYE,CHA'A BULABULIN,08/08/10/008,,false
+BORNO,DIKWA,SOGOMA / AFUYE,FALA - FALA,08/08/10/007,,false

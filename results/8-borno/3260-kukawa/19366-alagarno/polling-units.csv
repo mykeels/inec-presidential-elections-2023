@@ -1,0 +1,14 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,KUKAWA,ALAGARNO,SHUWARAM 11,08/17/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3260/ward/19366/pu/134670/134670-1677609200.pdf,false
+BORNO,KUKAWA,ALAGARNO,TUMBUN SHANU,08/17/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3260/ward/19366/pu/134669/134669-1677608036.pdf,false
+BORNO,KUKAWA,ALAGARNO,BAKIN KASUWA,08/17/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3260/ward/19366/pu/134668/134668-1677607783.pdf,false
+BORNO,KUKAWA,ALAGARNO,ABUJA,08/17/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3260/ward/19366/pu/24794/24794-1677607176.pdf,true
+BORNO,KUKAWA,ALAGARNO,DORON NAIRA,08/17/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3260/ward/19366/pu/24791/24791-1677607017.pdf,true
+BORNO,KUKAWA,ALAGARNO,ALHAJI CHINDORI,08/17/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3260/ward/19366/pu/24792/24792-1677606450.pdf,true
+BORNO,KUKAWA,ALAGARNO,KANGARWA PRI. SCH.  I,08/17/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3260/ward/19366/pu/24789/24789-1677598297.pdf,false
+BORNO,KUKAWA,ALAGARNO,NGURTUWA,08/17/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3260/ward/19366/pu/24788/24788-1677597911.pdf,true
+BORNO,KUKAWA,ALAGARNO,ALAGARNO PRI. SCH.,08/17/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3260/ward/19366/pu/24787/24787-1677597235.pdf,false
+BORNO,KUKAWA,ALAGARNO,TUMBIN SANYI,08/17/01/004,,false
+BORNO,KUKAWA,ALAGARNO,KUMBURI  MARKET WEST,08/17/01/009,,false
+BORNO,KUKAWA,ALAGARNO,KANGARWA  PRI. SCH. II,08/17/01/010,,false
+BORNO,KUKAWA,ALAGARNO,SHUWARAM,08/17/01/007,,false

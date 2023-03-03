@@ -1,0 +1,6 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,KUKAWA,DOGOSHI,KWATAN DOGOSHI  II,08/17/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3260/ward/19369/pu/24811/24811-1677603064.pdf,true
+BORNO,KUKAWA,DOGOSHI,KWATAN DOGOSHI  I,08/17/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3260/ward/19369/pu/24810/24810-1677602905.pdf,true
+BORNO,KUKAWA,DOGOSHI,DOGOSHI LAWANTI,08/17/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3260/ward/19369/pu/24809/24809-1677602674.pdf,false
+BORNO,KUKAWA,DOGOSHI,YAN GORIYA,08/17/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3260/ward/19369/pu/134696/134696-1677596030.pdf,false
+BORNO,KUKAWA,DOGOSHI,DOGOSHI LIMANTI,08/17/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3260/ward/19369/pu/134695/134695-1677595312.pdf,false

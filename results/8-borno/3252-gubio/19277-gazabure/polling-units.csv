@@ -1,0 +1,15 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,GUBIO,GAZABURE,KINDAUMARI I,08/09/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23589/result_184704_1677497869_thumb.jpg,true
+BORNO,GUBIO,GAZABURE,ABBA SHERIFTI  I,08/09/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3252/ward/19277/pu/23595/23595-1677594057.pdf,false
+BORNO,GUBIO,GAZABURE,GALLO,08/09/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3252/ward/19277/pu/23599/23599-1677592091.pdf,true
+BORNO,GUBIO,GAZABURE,KIDAUMARI  II,08/09/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3252/ward/19277/pu/23602/23602-1677508641.pdf,false
+BORNO,GUBIO,GAZABURE,LAWANTI  II,08/09/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3252/ward/19277/pu/23604/23604-1677491360.pdf,false
+BORNO,GUBIO,GAZABURE,YAUMARI  II,08/09/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3252/ward/19277/pu/23607/23607-1677490569.pdf,false
+BORNO,GUBIO,GAZABURE,KINDAUMARI II,08/09/05/008,,false
+BORNO,GUBIO,GAZABURE,YAUMARI  I,08/09/05/013,,false
+BORNO,GUBIO,GAZABURE,DUSUWA  II,08/09/05/005,,false
+BORNO,GUBIO,GAZABURE,LAWANTI  I,08/09/05/010,,false
+BORNO,GUBIO,GAZABURE,TUJA GALLO,08/09/05/012,,false
+BORNO,GUBIO,GAZABURE,ABBA SHERIFTI  II,08/09/05/003,,false
+BORNO,GUBIO,GAZABURE,DUSUWA  I,08/09/05/004,,false
+BORNO,GUBIO,GAZABURE,ABACHARI,08/09/05/001,,false

@@ -1,0 +1,16 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,ASKIRA / UBA,WAMDEO / GIWI,KWABILA,08/02/12/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/22718/result_183556_1677610705_thumb.jpg,false
+BORNO,ASKIRA / UBA,WAMDEO / GIWI,GIWI PRI. SCH.  I,08/02/12/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/22705/result_183543_1677610486_thumb.jpg,false
+BORNO,ASKIRA / UBA,WAMDEO / GIWI,WALAFA PRI. SCH.  I,08/02/12/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/22708/result_183546_1677609947_thumb.jpg,true
+BORNO,ASKIRA / UBA,WAMDEO / GIWI,MUNGUM,08/02/12/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/22716/result_183554_1677609635_thumb.jpg,false
+BORNO,ASKIRA / UBA,WAMDEO / GIWI,KOFAR JAURO,08/02/12/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/22707/result_183545_1677609274_thumb.jpg,true
+BORNO,ASKIRA / UBA,WAMDEO / GIWI,SHUIBU  II,08/02/12/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/22715/result_183553_1677608856_thumb.jpg,false
+BORNO,ASKIRA / UBA,WAMDEO / GIWI,KASUWA  I,08/02/12/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/22710/result_183548_1677607825_thumb.jpg,false
+BORNO,ASKIRA / UBA,WAMDEO / GIWI,KOFAR BADAUM,08/02/12/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3245/ward/19205/pu/22730/22730-1677607804.pdf,true
+BORNO,ASKIRA / UBA,WAMDEO / GIWI,BUBA TATAP,08/02/12/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3245/ward/19205/pu/22728/22728-1677607549.pdf,false
+BORNO,ASKIRA / UBA,WAMDEO / GIWI,SHUIBU  I,08/02/12/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3245/ward/19205/pu/22725/22725-1677606953.pdf,true
+BORNO,ASKIRA / UBA,WAMDEO / GIWI,TSOHON KASUWA  II,08/02/12/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3245/ward/19205/pu/22724/22724-1677606771.pdf,true
+BORNO,ASKIRA / UBA,WAMDEO / GIWI,TSOHON KASUWA  I,08/02/12/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3245/ward/19205/pu/22723/22723-1677606258.pdf,true
+BORNO,ASKIRA / UBA,WAMDEO / GIWI,KASUWA  II,08/02/12/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3245/ward/19205/pu/22722/22722-1677605781.pdf,true
+BORNO,ASKIRA / UBA,WAMDEO / GIWI,WALAFA PRI. SCH.  II,08/02/12/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3245/ward/19205/pu/22720/22720-1677605459.pdf,true
+BORNO,ASKIRA / UBA,WAMDEO / GIWI,GIWI PRI. SCH.  II,08/02/12/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3245/ward/19205/pu/22717/22717-1677604953.pdf,true

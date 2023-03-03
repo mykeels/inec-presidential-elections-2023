@@ -1,0 +1,20 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,GUBIO,NGETRA,LAWANTI  II,08/09/09/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23651/result_184779_1677507199_thumb.jpg,true
+BORNO,GUBIO,NGETRA,AISARAM  II,08/09/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3252/ward/19281/pu/23650/23650-1677591847.pdf,true
+BORNO,GUBIO,NGETRA,MUSARI  I,08/09/09/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3252/ward/19281/pu/23665/23665-1677591379.pdf,true
+BORNO,GUBIO,NGETRA,GANDASKO  I,08/09/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3252/ward/19281/pu/23654/23654-1677522653.pdf,false
+BORNO,GUBIO,NGETRA,MALLAM SULUMTI  II,08/09/09/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3252/ward/19281/pu/23664/23664-1677511111.pdf,false
+BORNO,GUBIO,NGETRA,GANDASKO  II,08/09/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3252/ward/19281/pu/23655/23655-1677493022.pdf,false
+BORNO,GUBIO,NGETRA,KAYOWA  I,08/09/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3252/ward/19281/pu/23659/23659-1677489318.pdf,false
+BORNO,GUBIO,NGETRA,DIFFAN,08/09/09/005,,false
+BORNO,GUBIO,NGETRA,GONI KADIRTI  III,08/09/09/010,,false
+BORNO,GUBIO,NGETRA,MALLAM SULUMTI  I,08/09/09/015,,false
+BORNO,GUBIO,NGETRA,AISARAM  I,08/09/09/001,,false
+BORNO,GUBIO,NGETRA,AWANARI  II,08/09/09/004,,false
+BORNO,GUBIO,NGETRA,KAYOWA  II,08/09/09/012,,false
+BORNO,GUBIO,NGETRA,GONI KADIRTI  II,08/09/09/009,,false
+BORNO,GUBIO,NGETRA,NGETRA LAWANTI,08/09/09/019,,false
+BORNO,GUBIO,NGETRA,AWANARI  I,08/09/09/003,,false
+BORNO,GUBIO,NGETRA,GONI KADIRTI  I,08/09/09/008,,false
+BORNO,GUBIO,NGETRA,LAWANTI  I,08/09/09/013,,false
+BORNO,GUBIO,NGETRA,MUSARI  II,08/09/09/018,,false

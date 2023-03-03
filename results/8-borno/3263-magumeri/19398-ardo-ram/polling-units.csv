@@ -1,0 +1,6 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,MAGUMERI,ARDO RAM,ARDORAM PRY. SCH I,08/20/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3263/ward/19398/pu/25021/25021-1677681739.pdf,true
+BORNO,MAGUMERI,ARDO RAM,KA'ASHIYA,08/20/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3263/ward/19398/pu/25024/25024-1677681390.pdf,false
+BORNO,MAGUMERI,ARDO RAM,NDURI,08/20/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3263/ward/19398/pu/134797/134797-1677503425.pdf,false
+BORNO,MAGUMERI,ARDO RAM,NGOLLOMARI,08/20/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3263/ward/19398/pu/25023/25023-1677500263.pdf,false
+BORNO,MAGUMERI,ARDO RAM,ARDORAM PRY SCH II,08/20/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3263/ward/19398/pu/25022/25022-1677499057.pdf,false

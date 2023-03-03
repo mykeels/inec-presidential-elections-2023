@@ -1,0 +1,7 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,MARTE,KABULAWA,KABULAWA,08/22/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3265/ward/19430/pu/25841/25841-1677683346.pdf,false
+BORNO,MARTE,KABULAWA,GREMARI KANORIYE,08/22/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3265/ward/19430/pu/25843/25843-1677682569.pdf,true
+BORNO,MARTE,KABULAWA,KA'ALA KOLO,08/22/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3265/ward/19430/pu/25842/25842-1677681777.pdf,false
+BORNO,MARTE,KABULAWA,DAGDAUWA,08/22/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3265/ward/19430/pu/134991/134991-1677680825.pdf,true
+BORNO,MARTE,KABULAWA,KADARI MATAL,08/22/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3265/ward/19430/pu/25845/25845-1677680270.pdf,false
+BORNO,MARTE,KABULAWA,AJIRI ZAIROWA,08/22/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3265/ward/19430/pu/25844/25844-1677679945.pdf,false

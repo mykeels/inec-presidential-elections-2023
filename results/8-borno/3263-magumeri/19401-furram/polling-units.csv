@@ -1,0 +1,5 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,MAGUMERI,FURRAM,FURRAM PRI. SCH.,08/20/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3263/ward/19401/pu/25036/25036-1677678942.pdf,false
+BORNO,MAGUMERI,FURRAM,GHUSKUR,08/20/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3263/ward/19401/pu/25038/25038-1677678306.pdf,true
+BORNO,MAGUMERI,FURRAM,BAM CHIRA'A,08/20/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3263/ward/19401/pu/25037/25037-1677677800.pdf,false
+BORNO,MAGUMERI,FURRAM,SHARURI,08/20/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3263/ward/19401/pu/134800/134800-1677508899.pdf,false

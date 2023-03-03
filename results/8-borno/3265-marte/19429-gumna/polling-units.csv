@@ -1,0 +1,4 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,MARTE,GUMNA,ILEWA,08/22/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3265/ward/19429/pu/25839/25839-1677690237.pdf,true
+BORNO,MARTE,GUMNA,KUZA'A,08/22/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3265/ward/19429/pu/25840/25840-1677669884.pdf,false
+BORNO,MARTE,GUMNA,GUMNA,08/22/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3265/ward/19429/pu/25838/25838-1677595379.pdf,true

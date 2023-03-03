@@ -1,0 +1,8 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,CHIBOK,MBOA KURA,M.KUCHANI,08/06/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19250/pu/23364/23364-1677782225.pdf,false
+BORNO,CHIBOK,MBOA KURA,B.GAPANI,08/06/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19250/pu/23365/23365-1677782066.pdf,true
+BORNO,CHIBOK,MBOA KURA,M.MUNZA,08/06/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19250/pu/23366/23366-1677777836.pdf,true
+BORNO,CHIBOK,MBOA KURA,GANGRANG,08/06/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19250/pu/23368/23368-1677777138.pdf,true
+BORNO,CHIBOK,MBOA KURA,M.B MAI,08/06/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19250/pu/23367/23367-1677777063.pdf,true
+BORNO,CHIBOK,MBOA KURA,MBOA KURA,08/06/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19250/pu/23362/23362-1677775808.pdf,true
+BORNO,CHIBOK,MBOA KURA,M.TABANG,08/06/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19250/pu/23363/23363-1677775772.pdf,true

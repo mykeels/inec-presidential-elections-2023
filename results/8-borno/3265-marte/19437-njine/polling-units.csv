@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,MARTE,NJINE,C.B.D.A I,08/22/12/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3265/ward/19437/pu/25915/25915-1677678302.pdf,false
+BORNO,MARTE,NJINE,ALIYE,08/22/12/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3265/ward/19437/pu/25914/25914-1677677507.pdf,false
+BORNO,MARTE,NJINE,DALORI,08/22/12/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3265/ward/19437/pu/135012/135012-1677676093.pdf,true
+BORNO,MARTE,NJINE,NJINE PRI. SCH. II,08/22/12/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3265/ward/19437/pu/25911/25911-1677673791.pdf,false
+BORNO,MARTE,NJINE,NJELTE,08/22/12/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3265/ward/19437/pu/135011/135011-1677673238.pdf,false
+BORNO,MARTE,NJINE,NJINE PRI. SCH. I,08/22/12/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3265/ward/19437/pu/25910/25910-1677672563.pdf,false
+BORNO,MARTE,NJINE,MAJE DURTURI,08/22/12/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3265/ward/19437/pu/25913/25913-1677671755.pdf,false
+BORNO,MARTE,NJINE,MAJE MALUMRI,08/22/12/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3265/ward/19437/pu/25912/25912-1677670042.pdf,false
+BORNO,MARTE,NJINE,C.B.D.A II,08/22/12/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3265/ward/19437/pu/25916/25916-1677666983.pdf,false

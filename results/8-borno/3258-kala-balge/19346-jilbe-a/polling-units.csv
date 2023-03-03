@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,KALA BALGE,"JILBE  ""A""",JILBE PRI.SCHOOL,08/15/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3258/ward/19346/pu/24514/24514-1677596432.pdf,false
+BORNO,KALA BALGE,"JILBE  ""A""",KULKULE,08/15/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3258/ward/19346/pu/24515/24515-1677594978.pdf,true
+BORNO,KALA BALGE,"JILBE  ""A""",JILBE  MARKET II,08/15/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3258/ward/19346/pu/24513/24513-1677593502.pdf,true
+BORNO,KALA BALGE,"JILBE  ""A""",LAFIYA,08/15/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3258/ward/19346/pu/24518/24518-1677592101.pdf,false
+BORNO,KALA BALGE,"JILBE  ""A""",CHAWA,08/15/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3258/ward/19346/pu/24519/24519-1677590007.pdf,true
+BORNO,KALA BALGE,"JILBE  ""A""",GAZALFUL,08/15/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3258/ward/19346/pu/24517/24517-1677589034.pdf,false
+BORNO,KALA BALGE,"JILBE  ""A""",JILBE MARKET I,08/15/02/001,,false
+BORNO,KALA BALGE,"JILBE  ""A""",DUGUME,08/15/02/005,,false

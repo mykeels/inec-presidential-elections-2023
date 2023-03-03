@@ -1,0 +1,7 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,ABADAM,MALAM KAUNARI,BUSUGUNA  GANA,08/01/07/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/22480/result_183294_1677541600_thumb.jpg,true
+BORNO,ABADAM,MALAM KAUNARI,BUSUGUNA LAWANTI,08/01/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3244/ward/19190/pu/22489/22489-1677625162.pdf,true
+BORNO,ABADAM,MALAM KAUNARI,BUSUGUNA LAWANTI II,08/01/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3244/ward/19190/pu/134032/134032-1677616514.pdf,false
+BORNO,ABADAM,MALAM KAUNARI,AFUNORI PRI. SCH. II,08/01/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3244/ward/19190/pu/22488/22488-1677549135.pdf,false
+BORNO,ABADAM,MALAM KAUNARI,AFUNORI PRI. SCH. I,08/01/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3244/ward/19190/pu/22487/22487-1677547185.pdf,false
+BORNO,ABADAM,MALAM KAUNARI,KANIRAM,08/01/07/005,,false

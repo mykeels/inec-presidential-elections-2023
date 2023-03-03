@@ -1,0 +1,7 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,KALA BALGE,KUMAGA,GULFO,08/15/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3258/ward/19350/pu/24547/24547-1677593487.pdf,true
+BORNO,KALA BALGE,KUMAGA,KALFA KUMAGA,08/15/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3258/ward/19350/pu/24544/24544-1677591648.pdf,false
+BORNO,KALA BALGE,KUMAGA,KALMA SABAYE,08/15/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3258/ward/19350/pu/24545/24545-1677589447.pdf,true
+BORNO,KALA BALGE,KUMAGA,SERO,08/15/06/005,,false
+BORNO,KALA BALGE,KUMAGA,KUMAGA PRIMARY,08/15/06/002,,false
+BORNO,KALA BALGE,KUMAGA,KUMAGA LAWANTI,08/15/06/001,,false

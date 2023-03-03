@@ -1,0 +1,506 @@
+[
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4ae3c440353badb130bc",
+    "state_id": 8,
+    "state": "5f0eb6e16dda22674979bf29",
+    "lga_id": 3247,
+    "ward_id": 19227,
+    "state_constituency_id": 196,
+    "state_constituency": "5f0f372693d20b39ceee2078",
+    "federal_constituency_id": 370,
+    "federal_constituency": "5f0f38092d77c83a06f0f471",
+    "senatorial_district_id": 25,
+    "senatorial_district": "5f0f3953970bd83a6f4539cf",
+    "name": "CHONGOM",
+    "code": "005",
+    "pu_code": "08/04/07/005",
+    "old_name": "",
+    "polling_unit_id": 23069,
+    "created_at": "2020-07-15T18:28:51.222Z",
+    "updated_at": "2023-02-23T20:28:19.926Z",
+    "__v": 0,
+    "pu_code_string": "080407005",
+    "state_name": "BORNO",
+    "lga_name": "BAYO",
+    "ward_name": "LIMANTI",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fee591c6e83b6b3f4006f1",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23058/result_183960_1677537172_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-03-01T05:41:37.893Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd2f9fe6efd20cc277820e",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23058/result_183960_1677537172_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T11:38:00.182Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd2f9fe6efd20cc277820e",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23058/result_183960_1677537172_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:41:37.893Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fde7983db89d47ea8fddc9",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3247/ward/19227/pu/23069/23069-1677584227.pdf",
+        "size": 78706,
+        "updated_at": "2023-03-01T05:41:37.893Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4ae3c440353badb130b8",
+    "state_id": 8,
+    "state": "5f0eb6e16dda22674979bf29",
+    "lga_id": 3247,
+    "ward_id": 19227,
+    "state_constituency_id": 196,
+    "state_constituency": "5f0f372693d20b39ceee2078",
+    "federal_constituency_id": 370,
+    "federal_constituency": "5f0f38092d77c83a06f0f471",
+    "senatorial_district_id": 25,
+    "senatorial_district": "5f0f3953970bd83a6f4539cf",
+    "name": "LIMANTI PRI. SCH.",
+    "code": "001",
+    "pu_code": "08/04/07/001",
+    "old_name": "",
+    "polling_unit_id": 23065,
+    "created_at": "2020-07-15T18:28:51.000Z",
+    "updated_at": "2023-02-23T20:28:19.764Z",
+    "__v": 0,
+    "pu_code_string": "080407001",
+    "state_name": "BORNO",
+    "lga_name": "BAYO",
+    "ward_name": "LIMANTI",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fee51cc6e83b6b3f3ff2b0",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23054/result_183956_1677534254_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-03-01T05:39:40.633Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd245ee6efd20cc277720c",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23054/result_183956_1677534254_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T14:22:00.948Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd245ee6efd20cc277720c",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23054/result_183956_1677534254_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T14:22:02.101Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fe0e082516945336f4f83b",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3247/ward/19227/pu/23065/23065-1677594089.pdf",
+        "size": 3777058,
+        "updated_at": "2023-02-28T14:22:02.101Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fe0e082516945336f4f83b",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3247/ward/19227/pu/23065/23065-1677594089.pdf",
+        "size": 3777058,
+        "updated_at": "2023-03-01T05:39:40.633Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fe0e0a2516945336f4f8f4",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3247/ward/19227/pu/23065/23065-1677594089.pdf",
+        "size": 3777058,
+        "updated_at": "2023-03-01T05:39:40.633Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4ae3c440353badb130bb",
+    "state_id": 8,
+    "state": "5f0eb6e16dda22674979bf29",
+    "lga_id": 3247,
+    "ward_id": 19227,
+    "state_constituency_id": 196,
+    "state_constituency": "5f0f372693d20b39ceee2078",
+    "federal_constituency_id": 370,
+    "federal_constituency": "5f0f38092d77c83a06f0f471",
+    "senatorial_district_id": 25,
+    "senatorial_district": "5f0f3953970bd83a6f4539cf",
+    "name": "DAWAL",
+    "code": "004",
+    "pu_code": "08/04/07/004",
+    "old_name": "",
+    "polling_unit_id": 23068,
+    "created_at": "2020-07-15T18:28:51.166Z",
+    "updated_at": "2023-02-23T20:28:19.885Z",
+    "__v": 0,
+    "pu_code_string": "080407004",
+    "state_name": "BORNO",
+    "lga_name": "BAYO",
+    "ward_name": "LIMANTI",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fee50bc6e83b6b3f3fefbe",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com",
+      "size": 1000,
+      "updated_at": "2023-03-01T05:39:23.067Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd22bbe6efd20cc2776f24",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23057/result_183959_1677533829_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T13:28:05.367Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd22bee6efd20cc2776f8c",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com",
+        "size": 1000,
+        "updated_at": "2023-02-28T13:28:05.367Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd22bee6efd20cc2776f8c",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com",
+        "size": 1000,
+        "updated_at": "2023-02-28T13:28:06.537Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fe01658840a25069173408",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3247/ward/19227/pu/23068/23068-1677589384.pdf",
+        "size": 3582252,
+        "updated_at": "2023-02-28T13:28:06.537Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fe01658840a25069173408",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3247/ward/19227/pu/23068/23068-1677589384.pdf",
+        "size": 3582252,
+        "updated_at": "2023-03-01T05:39:19.571Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fe01668840a2506917355b",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3247/ward/19227/pu/23068/23068-1677589384.pdf",
+        "size": 3582252,
+        "updated_at": "2023-03-01T05:39:19.571Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fe01668840a2506917355b",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3247/ward/19227/pu/23068/23068-1677589384.pdf",
+        "size": 3582252,
+        "updated_at": "2023-03-01T05:39:23.067Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fee507c6e83b6b3f3fef45",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23057/result_183959_1677533829_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:39:23.067Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4ae3c440353badb130b9",
+    "state_id": 8,
+    "state": "5f0eb6e16dda22674979bf29",
+    "lga_id": 3247,
+    "ward_id": 19227,
+    "state_constituency_id": 196,
+    "state_constituency": "5f0f372693d20b39ceee2078",
+    "federal_constituency_id": 370,
+    "federal_constituency": "5f0f38092d77c83a06f0f471",
+    "senatorial_district_id": 25,
+    "senatorial_district": "5f0f3953970bd83a6f4539cf",
+    "name": "TSANGAYARI PRY. SCH",
+    "code": "002",
+    "pu_code": "08/04/07/002",
+    "old_name": "",
+    "polling_unit_id": 23066,
+    "created_at": "2020-07-15T18:28:51.053Z",
+    "updated_at": "2023-02-23T20:28:19.804Z",
+    "__v": 0,
+    "pu_code_string": "080407002",
+    "state_name": "BORNO",
+    "lga_name": "BAYO",
+    "ward_name": "LIMANTI",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fee4ccc6e83b6b3f3fe564",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23055/result_183957_1677532819_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-03-01T05:38:20.289Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd1ebfe6efd20cc27766e7",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23055/result_183957_1677532819_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T12:52:16.894Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd1ebfe6efd20cc27766e7",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23055/result_183957_1677532819_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T12:52:18.159Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdf9009d7d884e2ed83c72",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3247/ward/19227/pu/23066/23066-1677587522.pdf",
+        "size": 3857515,
+        "updated_at": "2023-02-28T12:52:18.159Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdf9009d7d884e2ed83c72",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3247/ward/19227/pu/23066/23066-1677587522.pdf",
+        "size": 3857515,
+        "updated_at": "2023-03-01T05:38:20.289Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdf9029d7d884e2ed83e17",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3247/ward/19227/pu/23066/23066-1677587522.pdf",
+        "size": 3857515,
+        "updated_at": "2023-03-01T05:38:20.289Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4ae3c440353badb130bd",
+    "state_id": 8,
+    "state": "5f0eb6e16dda22674979bf29",
+    "lga_id": 3247,
+    "ward_id": 19227,
+    "state_constituency_id": 196,
+    "state_constituency": "5f0f372693d20b39ceee2078",
+    "federal_constituency_id": 370,
+    "federal_constituency": "5f0f38092d77c83a06f0f471",
+    "senatorial_district_id": 25,
+    "senatorial_district": "5f0f3953970bd83a6f4539cf",
+    "name": "KUVA",
+    "code": "006",
+    "pu_code": "08/04/07/006",
+    "old_name": "",
+    "polling_unit_id": 23070,
+    "created_at": "2020-07-15T18:28:51.279Z",
+    "updated_at": "2023-02-23T20:28:19.967Z",
+    "__v": 0,
+    "pu_code_string": "080407006",
+    "state_name": "BORNO",
+    "lga_name": "BAYO",
+    "ward_name": "LIMANTI",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fee4b3c6e83b6b3f3fe18c",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23059/result_183961_1677532329_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-03-01T05:37:55.633Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd1cdfe6efd20cc27763ca",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23059/result_183961_1677532329_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T11:59:00.138Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd1cdfe6efd20cc27763ca",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23059/result_183961_1677532329_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:37:55.633Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdec843db89d47ea8fe89e",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3247/ward/19227/pu/23070/23070-1677585489.pdf",
+        "size": 3444692,
+        "updated_at": "2023-03-01T05:37:55.633Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4ae3c440353badb130ba",
+    "state_id": 8,
+    "state": "5f0eb6e16dda22674979bf29",
+    "lga_id": 3247,
+    "ward_id": 19227,
+    "state_constituency_id": 196,
+    "state_constituency": "5f0f372693d20b39ceee2078",
+    "federal_constituency_id": 370,
+    "federal_constituency": "5f0f38092d77c83a06f0f471",
+    "senatorial_district_id": 25,
+    "senatorial_district": "5f0f3953970bd83a6f4539cf",
+    "name": "BATSARI PRY.SCH",
+    "code": "003",
+    "pu_code": "08/04/07/003",
+    "old_name": "",
+    "polling_unit_id": 23067,
+    "created_at": "2020-07-15T18:28:51.109Z",
+    "updated_at": "2023-02-23T20:28:19.845Z",
+    "__v": 0,
+    "pu_code_string": "080407003",
+    "state_name": "BORNO",
+    "lga_name": "BAYO",
+    "ward_name": "LIMANTI",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fee468c6e83b6b3f3fd517",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23056/result_183958_1677530872_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-03-01T05:36:40.162Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd177de6efd20cc2775968",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23056/result_183958_1677530872_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:36:40.162Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 2,
+    "is_accredited": 1,
+    "_id": "63f77decb3695239c6192822",
+    "state_id": 8,
+    "state": "5f0eb6e16dda22674979bf29",
+    "lga_id": 3247,
+    "ward_id": 19227,
+    "state_constituency_id": 196,
+    "state_constituency": "5f0f372693d20b39ceee2078",
+    "federal_constituency_id": 370,
+    "federal_constituency": "5f0f38092d77c83a06f0f471",
+    "senatorial_district_id": 25,
+    "senatorial_district": "5f0f3953970bd83a6f4539cf",
+    "name": "CHONGOM II",
+    "code": "007",
+    "pu_code": "08/04/07/007",
+    "old_name": "",
+    "polling_unit_id": 134119,
+    "created_at": "2023-02-23T14:53:32.751Z",
+    "updated_at": "2023-02-23T21:55:52.510Z",
+    "__v": 0,
+    "pu_code_string": "080407007",
+    "state_name": "BORNO",
+    "lga_name": "BAYO",
+    "ward_name": "LIMANTI",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63fe36d0d86c3a5b6d10fe93",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3247/ward/19227/pu/134119/134119-1677604520.pdf",
+      "size": 2981895,
+      "updated_at": "2023-02-28T17:16:00.416Z"
+    },
+    "old_documents": [
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fe3568d86c3a5b6d10ce9e",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3247/ward/19227/pu/134119/134119-1677604141.pdf",
+        "size": 2981895,
+        "updated_at": "2023-02-28T17:10:01.222Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fe3568d86c3a5b6d10ce9e",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3247/ward/19227/pu/134119/134119-1677604141.pdf",
+        "size": 2981895,
+        "updated_at": "2023-02-28T17:16:00.416Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fe3569d86c3a5b6d10cf13",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3247/ward/19227/pu/134119/134119-1677604141.pdf",
+        "size": 2981895,
+        "updated_at": "2023-02-28T17:16:00.416Z"
+      }
+    ],
+    "has_old_documents": true
+  }
+]

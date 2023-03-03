@@ -1,0 +1,17 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,ABADAM,AREGE,AREGE CLINIC,08/01/01/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/627745/result_183234_1677549185_thumb.jpg,true
+BORNO,ABADAM,AREGE,METELE PRI. SCH. I,08/01/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/22436/result_183227_1677540722_thumb.jpg,true
+BORNO,ABADAM,AREGE,METELE PRI. SCH. II,08/01/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3244/ward/19184/pu/22447/22447-1677632078.pdf,true
+BORNO,ABADAM,AREGE,METELE JUNIOR SEC. SCH. (JSS),08/01/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3244/ward/19184/pu/134012/134012-1677626718.pdf,true
+BORNO,ABADAM,AREGE,KOFAN LAWAN UMARA,08/01/01/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3244/ward/19184/pu/134013/134013-1677612595.pdf,false
+BORNO,ABADAM,AREGE,DOGON CHUKU BULAMARI II,08/01/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3244/ward/19184/pu/134011/134011-1677612167.pdf,false
+BORNO,ABADAM,AREGE,AREGE MARKET,08/01/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3244/ward/19184/pu/134010/134010-1677548825.pdf,false
+BORNO,ABADAM,AREGE,DOGON CHUKU,08/01/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3244/ward/19184/pu/22445/22445-1677545577.pdf,false
+BORNO,ABADAM,AREGE,AREGE PRI. SCH.,08/01/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3244/ward/19184/pu/22444/22444-1677545408.pdf,false
+BORNO,ABADAM,AREGE,TUMBUN GINI BULAMARI,08/01/01/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3244/ward/19184/pu/134015/134015-1677544524.pdf,false
+BORNO,ABADAM,AREGE,BULAMA BULTU,08/01/01/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3244/ward/19184/pu/134014/134014-1677542495.pdf,false
+BORNO,ABADAM,AREGE,TUMBUN GINI I,08/01/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3244/ward/19184/pu/22451/22451-1677535066.pdf,false
+BORNO,ABADAM,AREGE,TUMBUN MARI I,08/01/01/006,,false
+BORNO,ABADAM,AREGE,TUMBUN MARI II,08/01/01/007,,false
+BORNO,ABADAM,AREGE,KANNAMA,08/01/01/005,,false
+BORNO,ABADAM,AREGE,TUMBUN GINI  II,08/01/01/009,,false

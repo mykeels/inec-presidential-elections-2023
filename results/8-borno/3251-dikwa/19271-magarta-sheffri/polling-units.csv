@@ -1,0 +1,7 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,DIKWA,MAGARTA / SHEFFRI,JEJEME,08/08/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3251/ward/19271/pu/23561/23561-1677683554.pdf,false
+BORNO,DIKWA,MAGARTA / SHEFFRI,DALORI KURA,08/08/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23549/result_184664_1677493615_thumb.jpg,true
+BORNO,DIKWA,MAGARTA / SHEFFRI,MAGARTA PRI. SCH.,08/08/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23546/result_184661_1677492770_thumb.jpg,true
+BORNO,DIKWA,MAGARTA / SHEFFRI,GOSOMA,08/08/09/006,,false
+BORNO,DIKWA,MAGARTA / SHEFFRI,JINGORI,08/08/09/002,,false
+BORNO,DIKWA,MAGARTA / SHEFFRI,GIMEYE,08/08/09/003,,false

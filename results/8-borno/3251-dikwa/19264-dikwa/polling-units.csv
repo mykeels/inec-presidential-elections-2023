@@ -1,0 +1,30 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,DIKWA,DIKWA,CHINGO ZARMABE,08/08/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3251/ward/19264/pu/23495/23495-1677684120.pdf,false
+BORNO,DIKWA,DIKWA,RABIRI,08/08/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3251/ward/19264/pu/23494/23494-1677683989.pdf,false
+BORNO,DIKWA,DIKWA,SHEHURI DANDAL,08/08/02/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3251/ward/19264/pu/134322/134322-1677682009.pdf,false
+BORNO,DIKWA,DIKWA,DIKWA CENTRAL PRI SCHOOL II,08/08/02/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3251/ward/19264/pu/134316/134316-1677681132.pdf,true
+BORNO,DIKWA,DIKWA,SHUWARI II,08/08/02/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3251/ward/19264/pu/134323/134323-1677680805.pdf,false
+BORNO,DIKWA,DIKWA,MOULANDA,08/08/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3251/ward/19264/pu/23505/23505-1677680537.pdf,false
+BORNO,DIKWA,DIKWA,CROSS DANDAL II,08/08/02/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3251/ward/19264/pu/134327/134327-1677679378.pdf,true
+BORNO,DIKWA,DIKWA,SHEHU SANDA PRIMARY SCHOOL III,08/08/02/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3251/ward/19264/pu/134321/134321-1677676762.pdf,false
+BORNO,DIKWA,DIKWA,CINGO ZARMABE II,08/08/02/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3251/ward/19264/pu/134319/134319-1677674544.pdf,false
+BORNO,DIKWA,DIKWA,SHEHU SANDA PRI. SCH.  II,08/08/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3251/ward/19264/pu/23501/23501-1677673160.pdf,false
+BORNO,DIKWA,DIKWA,NGURO KULUWU KACHEI II,08/08/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23488/result_184587_1677490069_thumb.jpg,true
+BORNO,DIKWA,DIKWA,BULABULIN PRIMARY SCHOOL II,08/08/02/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/627027/result_184605_1677494978_thumb.jpg,true
+BORNO,DIKWA,DIKWA,KILAGARU PRI. SCH.,08/08/02/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23497/result_184596_1677503483_thumb.jpg,true
+BORNO,DIKWA,DIKWA,AJARI DANDAL,08/08/02/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3251/ward/19264/pu/134318/134318-1677524567.pdf,false
+BORNO,DIKWA,DIKWA,KASUGULA,08/08/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3251/ward/19264/pu/23504/23504-1677520102.pdf,false
+BORNO,DIKWA,DIKWA,AJARI WEST,08/08/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3251/ward/19264/pu/23507/23507-1677517566.pdf,false
+BORNO,DIKWA,DIKWA,NGURO KULUWU KACHEJI  I,08/08/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3251/ward/19264/pu/23498/23498-1677510672.pdf,false
+BORNO,DIKWA,DIKWA,CROSS DANDAL,08/08/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3251/ward/19264/pu/23506/23506-1677508410.pdf,false
+BORNO,DIKWA,DIKWA,MOULANDA II,08/08/02/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3251/ward/19264/pu/134326/134326-1677506560.pdf,false
+BORNO,DIKWA,DIKWA,KILAGARU PRIMARY SCHOOL II,08/08/02/029,,false
+BORNO,DIKWA,DIKWA,COMMUNITY VIEW CENTRE,08/08/02/005,,false
+BORNO,DIKWA,DIKWA,SHIWARI,08/08/02/010,,false
+BORNO,DIKWA,DIKWA,DIKWA CENTRAL PRI. SCH.,08/08/02/001,,false
+BORNO,DIKWA,DIKWA,BULABULIN PRI. SCH.,08/08/02/011,,false
+BORNO,DIKWA,DIKWA,KANUMBURI JAJA'A II,08/08/02/021,,false
+BORNO,DIKWA,DIKWA,KASUGULA II,08/08/02/026,,false
+BORNO,DIKWA,DIKWA,KANUMBURI JAJA'A BO,08/08/02/004,,false
+BORNO,DIKWA,DIKWA,SHEHU SANDA PRI. SCH.  I,08/08/02/008,,false
+BORNO,DIKWA,DIKWA,DIKWA CENTRAL PRI SCHOOL III,08/08/02/018,,false

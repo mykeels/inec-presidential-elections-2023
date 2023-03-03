@@ -1,0 +1,8 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,GUZAMALA,MODURI,BUWURA,08/10/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3253/ward/19291/pu/23740/23740-1677773251.pdf,false
+BORNO,GUZAMALA,MODURI,DAWUTIRI,08/10/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3253/ward/19291/pu/23741/23741-1677771836.pdf,true
+BORNO,GUZAMALA,MODURI,MALARI,08/10/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3253/ward/19291/pu/23742/23742-1677771394.pdf,false
+BORNO,GUZAMALA,MODURI,AJARI,08/10/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3253/ward/19291/pu/23739/23739-1677771082.pdf,true
+BORNO,GUZAMALA,MODURI,MODURI,08/10/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3253/ward/19291/pu/23743/23743-1677770596.pdf,true
+BORNO,GUZAMALA,MODURI,MODURI PRIMARY SCHOOL,08/10/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3253/ward/19291/pu/134359/134359-1677769801.pdf,true
+BORNO,GUZAMALA,MODURI,TAMALE,08/10/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3253/ward/19291/pu/23744/23744-1677769060.pdf,false

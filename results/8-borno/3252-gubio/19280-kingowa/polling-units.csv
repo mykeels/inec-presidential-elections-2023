@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,GUBIO,KINGOWA,KINGOWA PRI. SCH. II,08/09/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3252/ward/19280/pu/23646/23646-1677590939.pdf,true
+BORNO,GUBIO,KINGOWA,KACHALLARI,08/09/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3252/ward/19280/pu/23644/23644-1677521599.pdf,false
+BORNO,GUBIO,KINGOWA,DUNGA II,08/09/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3252/ward/19280/pu/23642/23642-1677514796.pdf,false
+BORNO,GUBIO,KINGOWA,DUNGA I,08/09/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3252/ward/19280/pu/23641/23641-1677499329.pdf,false
+BORNO,GUBIO,KINGOWA,JILWARI,08/09/08/003,,false
+BORNO,GUBIO,KINGOWA,MAIDURI,08/09/08/008,,false
+BORNO,GUBIO,KINGOWA,KINGOWA PRI. SCH. I,08/09/08/005,,false
+BORNO,GUBIO,KINGOWA,KUWA SHETTIMARI,08/09/08/007,,false

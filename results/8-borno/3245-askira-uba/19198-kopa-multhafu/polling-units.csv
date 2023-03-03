@@ -1,0 +1,16 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,ASKIRA / UBA,KOPA / MULTHAFU,BULAMA WANKARI,08/02/05/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+BORNO,ASKIRA / UBA,KOPA / MULTHAFU,YAFFA PRI. SCH.,08/02/05/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+BORNO,ASKIRA / UBA,KOPA / MULTHAFU,BUBA DOGO II,08/02/05/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/22572/result_183398_1677603566_thumb.jpg,false
+BORNO,ASKIRA / UBA,KOPA / MULTHAFU,B DAGU PRIMARY SCHOOL II,08/02/05/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3245/ward/19198/pu/134043/134043-1677602749.pdf,false
+BORNO,ASKIRA / UBA,KOPA / MULTHAFU,GIWA HIGI,08/02/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3245/ward/19198/pu/22593/22593-1677602595.pdf,true
+BORNO,ASKIRA / UBA,KOPA / MULTHAFU,NGURHYENGWAL,08/02/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3245/ward/19198/pu/22592/22592-1677602473.pdf,true
+BORNO,ASKIRA / UBA,KOPA / MULTHAFU,BADAGU PRI. SCH.,08/02/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3245/ward/19198/pu/22591/22591-1677602370.pdf,false
+BORNO,ASKIRA / UBA,KOPA / MULTHAFU,ANTIKIN YA  II,08/02/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3245/ward/19198/pu/22590/22590-1677602296.pdf,true
+BORNO,ASKIRA / UBA,KOPA / MULTHAFU,ANTIKIN YA  I,08/02/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3245/ward/19198/pu/22589/22589-1677602214.pdf,false
+BORNO,ASKIRA / UBA,KOPA / MULTHAFU,LAWAN GAMBO  II,08/02/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3245/ward/19198/pu/22588/22588-1677602133.pdf,false
+BORNO,ASKIRA / UBA,KOPA / MULTHAFU,LAWAN GAMBO  I,08/02/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3245/ward/19198/pu/22587/22587-1677602057.pdf,true
+BORNO,ASKIRA / UBA,KOPA / MULTHAFU,MULTHAFU PRI. SCH.,08/02/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3245/ward/19198/pu/22586/22586-1677601970.pdf,false
+BORNO,ASKIRA / UBA,KOPA / MULTHAFU,BUBA DOGO I,08/02/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/22571/result_183397_1677600985_thumb.jpg,false
+BORNO,ASKIRA / UBA,KOPA / MULTHAFU,KOPA PRI. SCH.  I,08/02/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/22569/result_183395_1677600846_thumb.jpg,false
+BORNO,ASKIRA / UBA,KOPA / MULTHAFU,KOPA PRI. SCH.  II,08/02/05/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/22570/result_183396_1677600460_thumb.jpg,false

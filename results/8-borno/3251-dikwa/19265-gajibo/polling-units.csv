@@ -1,0 +1,12 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,DIKWA,GAJIBO,GAJIBO PRI. SCH.,08/08/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3251/ward/19265/pu/23510/23510-1677683798.pdf,false
+BORNO,DIKWA,GAJIBO,NGABURE  II,08/08/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3251/ward/19265/pu/23514/23514-1677672478.pdf,true
+BORNO,DIKWA,GAJIBO,GAJIBO PRIMARY SCHOOL II,08/08/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/627033/result_184620_1677496349_thumb.jpg,true
+BORNO,DIKWA,GAJIBO,GAMAYE,08/08/03/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23500/result_184612_1677494650_thumb.jpg,true
+BORNO,DIKWA,GAJIBO,LERA,08/08/03/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23504/result_184616_1677495695_thumb.jpg,true
+BORNO,DIKWA,GAJIBO,GAJIBO VIEW CENTRE II,08/08/03/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/627032/result_184619_1677498120_thumb.jpg,true
+BORNO,DIKWA,GAJIBO,MOULA DANDAL,08/08/03/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23506/result_184618_1677490679_thumb.jpg,true
+BORNO,DIKWA,GAJIBO,MA'A,08/08/03/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23501/result_184613_1677489289_thumb.jpg,true
+BORNO,DIKWA,GAJIBO,NGABURE  I,08/08/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23502/result_184614_1677492232_thumb.jpg,true
+BORNO,DIKWA,GAJIBO,GAJIBO VIEW CENTRE,08/08/03/001,,false
+BORNO,DIKWA,GAJIBO,GAJBO DISPENSARY,08/08/03/008,,false

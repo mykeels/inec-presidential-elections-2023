@@ -1,0 +1,8 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,CHIBOK,SHIKARKIR,BILA YAGA,08/06/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19251/pu/23369/23369-1677769225.pdf,false
+BORNO,CHIBOK,SHIKARKIR,TSATHA,08/06/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19251/pu/23371/23371-1677769068.pdf,false
+BORNO,CHIBOK,SHIKARKIR,KWIHUMA,08/06/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19251/pu/23372/23372-1677768873.pdf,true
+BORNO,CHIBOK,SHIKARKIR,TAKULASHI,08/06/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19251/pu/23373/23373-1677768512.pdf,false
+BORNO,CHIBOK,SHIKARKIR,DABIYA,08/06/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19251/pu/23374/23374-1677768187.pdf,true
+BORNO,CHIBOK,SHIKARKIR,SHIKARKIR B. PRIMARY SCHOOL,08/06/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19251/pu/134224/134224-1677768036.pdf,false
+BORNO,CHIBOK,SHIKARKIR,B.GAJI,08/06/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19251/pu/23370/23370-1677598718.pdf,false

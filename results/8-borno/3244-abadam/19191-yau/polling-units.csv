@@ -1,0 +1,7 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,ABADAM,YAU,YAU PRI. SCH. II,08/01/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3244/ward/19191/pu/134033/134033-1677648385.pdf,false
+BORNO,ABADAM,YAU,YAU PRI. SCH.,08/01/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3244/ward/19191/pu/22495/22495-1677623231.pdf,true
+BORNO,ABADAM,YAU,NGAURO,08/01/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3244/ward/19191/pu/22493/22493-1677620951.pdf,true
+BORNO,ABADAM,YAU,YAU CLINIC,08/01/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3244/ward/19191/pu/134034/134034-1677618426.pdf,false
+BORNO,ABADAM,YAU,NGAMMA,08/01/08/001,,false
+BORNO,ABADAM,YAU,NGARISKA PRI. SCH.,08/01/08/003,,false

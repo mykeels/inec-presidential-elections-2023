@@ -1,0 +1,14 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,DIKWA,BOBOSHE,KODAWU,08/08/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3251/ward/19263/pu/23491/23491-1677681484.pdf,true
+BORNO,DIKWA,BOBOSHE,KOBTARA,08/08/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3251/ward/19263/pu/23489/23489-1677680423.pdf,false
+BORNO,DIKWA,BOBOSHE,DUBULA,08/08/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3251/ward/19263/pu/23487/23487-1677679179.pdf,true
+BORNO,DIKWA,BOBOSHE,TABUDGE,08/08/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23473/result_184570_1677496812_thumb.jpg,true
+BORNO,DIKWA,BOBOSHE,BULANGUWA MAIBE,08/08/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23477/result_184574_1677503153_thumb.jpg,true
+BORNO,DIKWA,BOBOSHE,SIGABAJA  I,08/08/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23474/result_184571_1677499895_thumb.jpg,true
+BORNO,DIKWA,BOBOSHE,GARNO,08/08/01/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23481/result_184578_1677498051_thumb.jpg,true
+BORNO,DIKWA,BOBOSHE,MIJIGITE II,08/08/01/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/627018/result_184580_1677503925_thumb.jpg,true
+BORNO,DIKWA,BOBOSHE,BOBOSHE II,08/08/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23472/result_184569_1677503028_thumb.jpg,true
+BORNO,DIKWA,BOBOSHE,MIJIGITE,08/08/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3251/ward/19263/pu/23490/23490-1677496385.pdf,false
+BORNO,DIKWA,BOBOSHE,BOBOSHE I,08/08/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3251/ward/19263/pu/23482/23482-1677491003.pdf,false
+BORNO,DIKWA,BOBOSHE,SIGABAJA  II,08/08/01/005,,false
+BORNO,DIKWA,BOBOSHE,BOBOSHE III,08/08/01/012,,false

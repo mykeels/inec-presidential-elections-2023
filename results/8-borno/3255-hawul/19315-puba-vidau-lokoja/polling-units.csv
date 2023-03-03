@@ -1,0 +1,16 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,HAWUL,PUBA/VIDAU/LOKOJA,GWALLAM  I/WAKDAM,08/12/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3255/ward/19315/pu/24135/24135-1677796262.pdf,true
+BORNO,HAWUL,PUBA/VIDAU/LOKOJA,PALABIRNI,08/12/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3255/ward/19315/pu/24133/24133-1677795068.pdf,true
+BORNO,HAWUL,PUBA/VIDAU/LOKOJA,SABODA ALLAH,08/12/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3255/ward/19315/pu/24131/24131-1677794852.pdf,true
+BORNO,HAWUL,PUBA/VIDAU/LOKOJA,KUKURPU,08/12/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3255/ward/19315/pu/24132/24132-1677776078.pdf,false
+BORNO,HAWUL,PUBA/VIDAU/LOKOJA,GWALLAM  II,08/12/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/24125/result_185359_1677670451_thumb.jpg,false
+BORNO,HAWUL,PUBA/VIDAU/LOKOJA,PUBA,08/12/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/24123/result_185357_1677669476_thumb.jpg,false
+BORNO,HAWUL,PUBA/VIDAU/LOKOJA,PALABIRNI DISPENSARY,08/12/10/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/627126/result_185368_1677667596_thumb.jpg,false
+BORNO,HAWUL,PUBA/VIDAU/LOKOJA,LOKOJA  II,08/12/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/013/013-1677366979.pdf,false
+BORNO,HAWUL,PUBA/VIDAU/LOKOJA,HYERA CENTRAL PRY.SCH,08/12/10/007,,false
+BORNO,HAWUL,PUBA/VIDAU/LOKOJA,LOKOJA  I,08/12/10/012,,false
+BORNO,HAWUL,PUBA/VIDAU/LOKOJA,HYERA SOUTH II CENTRAL PRY. SCH.,08/12/10/008,,false
+BORNO,HAWUL,PUBA/VIDAU/LOKOJA,LANDAS  I,08/12/10/009,,false
+BORNO,HAWUL,PUBA/VIDAU/LOKOJA,KWAGU,08/12/10/011,,false
+BORNO,HAWUL,PUBA/VIDAU/LOKOJA,GELAVIRWA,08/12/10/014,,false
+BORNO,HAWUL,PUBA/VIDAU/LOKOJA,LANDAS  II,08/12/10/010,,false

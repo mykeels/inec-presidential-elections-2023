@@ -1,0 +1,8 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,KALA BALGE,MOHOLO,DAGILE,08/15/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3258/ward/19345/pu/24509/24509-1677593234.pdf,true
+BORNO,KALA BALGE,MOHOLO,GUJJARI,08/15/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3258/ward/19345/pu/24510/24510-1677592726.pdf,true
+BORNO,KALA BALGE,MOHOLO,MARIYE,08/15/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/24497/result_185900_1677590883_thumb.jpg,false
+BORNO,KALA BALGE,MOHOLO,ASSABA  I,08/15/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3258/ward/19345/pu/24505/24505-1677591886.pdf,false
+BORNO,KALA BALGE,MOHOLO,ASSABA  II,08/15/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3258/ward/19345/pu/24506/24506-1677590627.pdf,true
+BORNO,KALA BALGE,MOHOLO,MOHOLO,08/15/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3258/ward/19345/pu/24511/24511-1677586996.pdf,true
+BORNO,KALA BALGE,MOHOLO,DUGUM,08/15/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/01/pu/003/003-1677427921.pdf,false

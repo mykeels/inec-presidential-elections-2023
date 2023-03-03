@@ -1,0 +1,8 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,MAGUMERI,NGAMMA,MALAM UMARARI  II,08/20/12/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3263/ward/19409/pu/25085/25085-1677681592.pdf,false
+BORNO,MAGUMERI,NGAMMA,MALAM UMARARI  I,08/20/12/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3263/ward/19409/pu/25084/25084-1677680382.pdf,false
+BORNO,MAGUMERI,NGAMMA,MALAM MAIRARI  III,08/20/12/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3263/ward/19409/pu/25083/25083-1677680307.pdf,false
+BORNO,MAGUMERI,NGAMMA,MALAM MAIRARI  I,08/20/12/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3263/ward/19409/pu/25081/25081-1677505873.pdf,false
+BORNO,MAGUMERI,NGAMMA,MALAM MAIRARI  II,08/20/12/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3263/ward/19409/pu/25082/25082-1677501207.pdf,false
+BORNO,MAGUMERI,NGAMMA,NGAMMA PRI. SCH.,08/20/12/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3263/ward/19409/pu/25080/25080-1677499942.pdf,false
+BORNO,MAGUMERI,NGAMMA,NGAMMA DISPENSARY,08/20/12/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3263/ward/19409/pu/25086/25086-1677497675.pdf,false

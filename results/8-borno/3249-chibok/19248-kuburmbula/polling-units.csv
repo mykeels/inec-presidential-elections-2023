@@ -1,0 +1,11 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,CHIBOK,KUBURMBULA,MIFA  II,08/06/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19248/pu/23347/23347-1677773215.pdf,true
+BORNO,CHIBOK,KUBURMBULA,MIFA  I,08/06/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19248/pu/23346/23346-1677772592.pdf,true
+BORNO,CHIBOK,KUBURMBULA,KAGILMARI / KWADA,08/06/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19248/pu/23345/23345-1677771705.pdf,true
+BORNO,CHIBOK,KUBURMBULA,KAGILMARI,08/06/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19248/pu/23344/23344-1677770345.pdf,true
+BORNO,CHIBOK,KUBURMBULA,KUBURMBULA BWAFTARI  B. BAFFA,08/06/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19248/pu/23350/23350-1677761239.pdf,false
+BORNO,CHIBOK,KUBURMBULA,KUBURMBULA M. BULARAM  II,08/06/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19248/pu/23342/23342-1677604244.pdf,false
+BORNO,CHIBOK,KUBURMBULA,KUBURMBULA BWAFTARI  I,08/06/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19248/pu/23349/23349-1677603413.pdf,false
+BORNO,CHIBOK,KUBURMBULA,BWARAKILA,08/06/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19248/pu/23348/23348-1677602889.pdf,true
+BORNO,CHIBOK,KUBURMBULA,KAUMUTA  YAHI,08/06/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19248/pu/23343/23343-1677602321.pdf,false
+BORNO,CHIBOK,KUBURMBULA,KUBURMBULA M. BULARAM  I,08/06/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3249/ward/19248/pu/23341/23341-1677600160.pdf,false

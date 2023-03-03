@@ -1,0 +1,6 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,MARTE,MAWULLI,MUGUM,08/22/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3265/ward/19434/pu/25887/25887-1677673276.pdf,true
+BORNO,MARTE,MAWULLI,WUBZA KURA,08/22/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3265/ward/19434/pu/25886/25886-1677514352.pdf,false
+BORNO,MARTE,MAWULLI,INULWA,08/22/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3265/ward/19434/pu/25889/25889-1677513261.pdf,false
+BORNO,MARTE,MAWULLI,MAUWALLI PRI. SCH.,08/22/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3265/ward/19434/pu/25885/25885-1677512725.pdf,false
+BORNO,MARTE,MAWULLI,DURO,08/22/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3265/ward/19434/pu/25888/25888-1677511060.pdf,false

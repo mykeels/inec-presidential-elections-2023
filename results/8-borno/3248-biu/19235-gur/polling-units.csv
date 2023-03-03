@@ -1,0 +1,13 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,BIU,GUR,ZIRA GUDUGU,08/05/05/005,https://docs.inecelectionresults.net/elections/1292/1677760385-23170.pdf,true
+BORNO,BIU,GUR,GARIN MALLAM  II,08/05/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3248/ward/19235/pu/23177/23177-1677758618.pdf,false
+BORNO,BIU,GUR,GARIN MALLAM I,08/05/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3248/ward/19235/pu/23175/23175-1677758196.pdf,false
+BORNO,BIU,GUR,SABON LAYI,08/05/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3248/ward/19235/pu/23173/23173-1677757303.pdf,false
+BORNO,BIU,GUR,KIMBA VILLAGE,08/05/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3248/ward/19235/pu/23172/23172-1677756955.pdf,false
+BORNO,BIU,GUR,KIMBA CENTRAL,08/05/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3248/ward/19235/pu/23171/23171-1677756577.pdf,false
+BORNO,BIU,GUR,GUR GARUBULA,08/05/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3248/ward/19235/pu/23168/23168-1677755159.pdf,false
+BORNO,BIU,GUR,LAWAN GATE,08/05/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3248/ward/19235/pu/23167/23167-1677754582.pdf,true
+BORNO,BIU,GUR,GUR LAWAN PRI. SCH.,08/05/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3248/ward/19235/pu/23166/23166-1677753808.pdf,true
+BORNO,BIU,GUR,ZIRA BULAMA JAKWA,08/05/05/004,,false
+BORNO,BIU,GUR,CHIKWARKIR,08/05/05/009,,false
+BORNO,BIU,GUR,GUR LAWAN BULAMA,08/05/05/011,,false

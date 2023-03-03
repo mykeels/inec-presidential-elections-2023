@@ -1,0 +1,4 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,KUKAWA,YOYO,AIDA KURARAM,08/17/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3260/ward/19375/pu/24862/24862-1677608243.pdf,false
+BORNO,KUKAWA,YOYO,YOYO FATOMA,08/17/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3260/ward/19375/pu/24861/24861-1677607893.pdf,true
+BORNO,KUKAWA,YOYO,YOYO  LAWANTI,08/17/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3260/ward/19375/pu/24860/24860-1677607380.pdf,false

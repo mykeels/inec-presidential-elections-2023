@@ -1,0 +1,7 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,MAGUMERI,KUBTI,BUKAR MAJIRI  I,08/20/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3263/ward/19407/pu/25071/25071-1677707093.pdf,true
+BORNO,MAGUMERI,KUBTI,KUBTI LAWANTI,08/20/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3263/ward/19407/pu/25067/25067-1677681332.pdf,false
+BORNO,MAGUMERI,KUBTI,KUBTI DISPENSARY,08/20/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3263/ward/19407/pu/25068/25068-1677680983.pdf,false
+BORNO,MAGUMERI,KUBTI,BUKAR MAJIRI  II,08/20/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3263/ward/19407/pu/25072/25072-1677511446.pdf,false
+BORNO,MAGUMERI,KUBTI,KUBTI SUMMARI  I,08/20/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3263/ward/19407/pu/25069/25069-1677504879.pdf,false
+BORNO,MAGUMERI,KUBTI,KUBTI SUMMARI  II,08/20/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3263/ward/19407/pu/25070/25070-1677502304.pdf,false

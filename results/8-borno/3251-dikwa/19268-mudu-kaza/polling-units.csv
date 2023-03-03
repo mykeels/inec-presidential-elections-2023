@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,DIKWA,MUDU / KAZA,SULALA PRI. SCH.,08/08/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3251/ward/19268/pu/23537/23537-1677683902.pdf,false
+BORNO,DIKWA,MUDU / KAZA,ISARI PRI. SCH.,08/08/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3251/ward/19268/pu/23535/23535-1677681138.pdf,false
+BORNO,DIKWA,MUDU / KAZA,KAZA PRI. SCH.,08/08/06/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23527/result_184641_1677493326_thumb.jpg,true
+BORNO,DIKWA,MUDU / KAZA,MUZUGULI PRI. SCH.  I,08/08/06/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/23525/result_184639_1677493826_thumb.jpg,true
+BORNO,DIKWA,MUDU / KAZA,MUDU KAZA PRI. SCH.,08/08/06/001,,false
+BORNO,DIKWA,MUDU / KAZA,MUDU LAWANTI,08/08/06/002,,false
+BORNO,DIKWA,MUDU / KAZA,MUTUGU PRI. SCH.,08/08/06/007,,false
+BORNO,DIKWA,MUDU / KAZA,MUZUGULI PRI. SCH.  II,08/08/06/009,,false
+BORNO,DIKWA,MUDU / KAZA,DUMURE DANDAL,08/08/06/008,,false
