@@ -1,0 +1,15 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+ENUGU,UDI,,AFOR OFUFE ABOR,14/16/15/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20737/pu/41660/41660-1677765484.pdf,true
+ENUGU,UDI,,ABA UMUOKA SQUARE,14/16/15/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635521/result_160465_1677614542_thumb.jpg,false
+ENUGU,UDI,,CHARLES MEMORIAL PRIMARY SCHOOL ABOR,14/16/15/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635520/result_160464_1677614438_thumb.jpg,false
+ENUGU,UDI,,CENTRAL SCHOOL ABOR,14/16/15/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635519/result_160463_1677614318_thumb.jpg,false
+ENUGU,UDI,,AFOR  ABOR PRIMARY SCHOOL,14/16/15/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635518/result_160462_1677614208_thumb.jpg,false
+ENUGU,UDI,,ORIE ABOR MKT. SQUARE II,14/16/15/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+ENUGU,UDI,,ONUANI EGUMA II,14/16/15/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+ENUGU,UDI,,ONUANI EGUMA I,14/16/15/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+ENUGU,UDI,,ORIE ABOR MKT. SQUARE I,14/16/15/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41657/result_160458_1677606945_thumb.jpg,false
+ENUGU,UDI,,COMMUNITY PRIMARY SCHOOL ABOR,14/16/15/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41656/result_160457_1677606805_thumb.jpg,false
+ENUGU,UDI,,AFOR OFUFE,14/16/15/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41655/result_160456_1677606545_thumb.jpg,false
+ENUGU,UDI,,MATERNITY SQUARE ABOR II,14/16/15/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41654/result_160455_1677606178_thumb.jpg,false
+ENUGU,UDI,,ONUANI EGUMA,14/16/15/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41652/result_160453_1677606057_thumb.jpg,false
+ENUGU,UDI,,MATERNITY SQUARE ABOR I,14/16/15/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/15/pu/003/003-1677400717.pdf,false

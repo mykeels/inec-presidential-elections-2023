@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+ENUGU,UDI,,AMUTU TOWN HALL II,14/16/13/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20735/pu/41643/41643-1677614850.pdf,false
+ENUGU,UDI,,COMMUNITY PRIMARY SCHOOL NZE II,14/16/13/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20735/pu/41641/41641-1677604179.pdf,false
+ENUGU,UDI,,COMMUNITY PRIMARY SCHOOL NZE I,14/16/13/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20735/pu/41640/41640-1677604027.pdf,true
+ENUGU,UDI,,AMUTU TOWN HALL I,14/16/13/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20735/pu/41639/41639-1677603847.pdf,true
+ENUGU,UDI,,UMUGWU HALL I,14/16/13/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20735/pu/41638/41638-1677603556.pdf,false
+ENUGU,UDI,,UMUDIEKWEM HALL II,14/16/13/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41628/result_160427_1677602338_thumb.jpg,false
+ENUGU,UDI,,UMUDIEKWEM HALL I,14/16/13/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41627/result_160426_1677601735_thumb.jpg,false
+ENUGU,UDI,,UMUGWU HALL I,14/16/13/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/13/pu/007/007-1677366157.pdf,false
