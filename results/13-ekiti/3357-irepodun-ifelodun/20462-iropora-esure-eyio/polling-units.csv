@@ -1,17 +1,17 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,IREPODUN / IFELODUN,,AAFIN COMPOUND  - EYIO IV,13/13/08/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/016/016-1677385737.pdf,false
-EKITI,IREPODUN / IFELODUN,,NEAR MATERNITY - EYIO III,13/13/08/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/015/015-1677385482.pdf,false
-EKITI,IREPODUN / IFELODUN,,MATERNITY - EYIO  II,13/13/08/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/014/014-1677385210.pdf,false
-EKITI,IREPODUN / IFELODUN,,ST PAUL'S PRIMARY SCHOOL - EYIO  I,13/13/08/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/013/013-1677384027.pdf,false
-EKITI,IREPODUN / IFELODUN,,ARAROMI FARM SETTLEMENT - ARAROMI FARM  II,13/13/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/012/012-1677383624.pdf,false
-EKITI,IREPODUN / IFELODUN,,ARAROMI FARM SETTLEMENT - ARAROMI FARM  I,13/13/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/011/011-1677383038.pdf,false
-EKITI,IREPODUN / IFELODUN,,POSTAL AGENCY - ESURE  II,13/13/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/010/010-1677382549.pdf,false
-EKITI,IREPODUN / IFELODUN,,ESURE BAPTIST PRIMARY SCHOOL - ESURE  I,13/13/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/009/009-1677382106.pdf,false
-EKITI,IREPODUN / IFELODUN,,SULE OLA COMPOUND - SULE OLA AREA,13/13/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/008/008-1677381825.pdf,false
-EKITI,IREPODUN / IFELODUN,,POST OFFICE - POST OFFICE,13/13/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/007/007-1677380978.pdf,false
-EKITI,IREPODUN / IFELODUN,,AROWA COMPOUND - AAFIN COMPOUND,13/13/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/006/006-1677380705.pdf,false
-EKITI,IREPODUN / IFELODUN,,AAFIN COMPOUND - AAFIN COMPOUND,13/13/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/005/005-1677380442.pdf,false
-EKITI,IREPODUN / IFELODUN,,OOYE COMPOUND - TOWN HALL AREA,13/13/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/004/004-1677380050.pdf,false
-EKITI,IREPODUN / IFELODUN,,TOWN HALL - TOWN HALL AREA,13/13/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/003/003-1677379577.pdf,false
-EKITI,IREPODUN / IFELODUN,,OSOTUN COMPOUND - EDEMO COMPOUND,13/13/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/002/002-1677379266.pdf,false
-EKITI,IREPODUN / IFELODUN,,EDEMO COMPOUND - EDEMO COMPOUND,13/13/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/001/001-1677378606.pdf,false
+EKITI,IREPODUN / IFELODUN,IROPORA / ESURE / EYIO,AAFIN COMPOUND  - EYIO IV,13/13/08/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/016/016-1677385737.pdf,false
+EKITI,IREPODUN / IFELODUN,IROPORA / ESURE / EYIO,NEAR MATERNITY - EYIO III,13/13/08/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/015/015-1677385482.pdf,false
+EKITI,IREPODUN / IFELODUN,IROPORA / ESURE / EYIO,MATERNITY - EYIO  II,13/13/08/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/014/014-1677385210.pdf,false
+EKITI,IREPODUN / IFELODUN,IROPORA / ESURE / EYIO,ST PAUL'S PRIMARY SCHOOL - EYIO  I,13/13/08/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/013/013-1677384027.pdf,false
+EKITI,IREPODUN / IFELODUN,IROPORA / ESURE / EYIO,ARAROMI FARM SETTLEMENT - ARAROMI FARM  II,13/13/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/012/012-1677383624.pdf,false
+EKITI,IREPODUN / IFELODUN,IROPORA / ESURE / EYIO,ARAROMI FARM SETTLEMENT - ARAROMI FARM  I,13/13/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/011/011-1677383038.pdf,false
+EKITI,IREPODUN / IFELODUN,IROPORA / ESURE / EYIO,POSTAL AGENCY - ESURE  II,13/13/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/010/010-1677382549.pdf,false
+EKITI,IREPODUN / IFELODUN,IROPORA / ESURE / EYIO,ESURE BAPTIST PRIMARY SCHOOL - ESURE  I,13/13/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/009/009-1677382106.pdf,false
+EKITI,IREPODUN / IFELODUN,IROPORA / ESURE / EYIO,SULE OLA COMPOUND - SULE OLA AREA,13/13/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/008/008-1677381825.pdf,false
+EKITI,IREPODUN / IFELODUN,IROPORA / ESURE / EYIO,POST OFFICE - POST OFFICE,13/13/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/007/007-1677380978.pdf,false
+EKITI,IREPODUN / IFELODUN,IROPORA / ESURE / EYIO,AROWA COMPOUND - AAFIN COMPOUND,13/13/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/006/006-1677380705.pdf,false
+EKITI,IREPODUN / IFELODUN,IROPORA / ESURE / EYIO,AAFIN COMPOUND - AAFIN COMPOUND,13/13/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/005/005-1677380442.pdf,false
+EKITI,IREPODUN / IFELODUN,IROPORA / ESURE / EYIO,OOYE COMPOUND - TOWN HALL AREA,13/13/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/004/004-1677380050.pdf,false
+EKITI,IREPODUN / IFELODUN,IROPORA / ESURE / EYIO,TOWN HALL - TOWN HALL AREA,13/13/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/003/003-1677379577.pdf,false
+EKITI,IREPODUN / IFELODUN,IROPORA / ESURE / EYIO,OSOTUN COMPOUND - EDEMO COMPOUND,13/13/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/002/002-1677379266.pdf,false
+EKITI,IREPODUN / IFELODUN,IROPORA / ESURE / EYIO,EDEMO COMPOUND - EDEMO COMPOUND,13/13/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/08/pu/001/001-1677378606.pdf,false

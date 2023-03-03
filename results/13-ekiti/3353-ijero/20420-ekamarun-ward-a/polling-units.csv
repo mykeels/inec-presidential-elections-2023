@@ -1,17 +1,17 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,IJERO,,TEMIDIRE STREET - TEMIDIRE PREMISES,13/09/11/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20420/pu/37949/37949-1677482709.pdf,false
-EKITI,IJERO,,IDI AYAN / IN FRONT OF ALAYAN'S HALL,13/09/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20420/pu/37938/37938-1677482375.pdf,false
-EKITI,IJERO,,OKE AGBA - BUS STOP TEMIDIRE,13/09/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20420/pu/37937/37937-1677481758.pdf,false
-EKITI,IJERO,,"EMMANUEL ANG. NUR/PRY SCHOOL, ILUKUNO",13/09/11/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20420/pu/125731/125731-1677480035.pdf,false
-EKITI,IJERO,,IWARO - ST. PAULS' PRIMARY SCHOOL,13/09/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20420/pu/37943/37943-1677479042.pdf,false
-EKITI,IJERO,,AAFIN - IROKO TOWN HALL,13/09/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20420/pu/37942/37942-1677478435.pdf,false
-EKITI,IJERO,,OKE ODE - IN FRONT OF MADAM APANISILE,13/09/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/010/010-1677426408.pdf,false
-EKITI,IJERO,,OKE AGBEDE - MARKET SQURE,13/09/11/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/013/013-1677425958.pdf,false
-EKITI,IJERO,,OKE AGBA - COMMUNITY PRIMARY SCHOOL TEMIDIRE,13/09/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/001/001-1677425251.pdf,false
-EKITI,IJERO,,OKE - ODE  II - IN FRONT OF EGOME'S HOUSE,13/09/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/006/006-1677424892.pdf,false
-EKITI,IJERO,,ADURALERE - COMMUNITY PRIMARY SCHOOL / IDAO,13/09/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/012/012-1677424349.pdf,false
-EKITI,IJERO,,OKE - IROKO - IN FRONT OF CHIEF AKOLEOLA HOUSE,13/09/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/009/009-1677377409.pdf,false
-EKITI,IJERO,,ILUKUNO - AAFIN,13/09/11/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/015/015-1677376439.pdf,false
-EKITI,IJERO,,TEMIDIRE - INSIDE BUS STOP,13/09/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/011/011-1677375342.pdf,false
-EKITI,IJERO,,ODO - ODE / IPARAO - IN FRONT OF FELE'S HOUSE,13/09/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/004/004-1677373783.pdf,false
-EKITI,IJERO,,OKE ODE  I - CATHOLIC PRIMARY SCHOOL,13/09/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/005/005-1677373368.pdf,false
+EKITI,IJERO,EKAMARUN WARD 'A',TEMIDIRE STREET - TEMIDIRE PREMISES,13/09/11/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20420/pu/37949/37949-1677482709.pdf,false
+EKITI,IJERO,EKAMARUN WARD 'A',IDI AYAN / IN FRONT OF ALAYAN'S HALL,13/09/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20420/pu/37938/37938-1677482375.pdf,false
+EKITI,IJERO,EKAMARUN WARD 'A',OKE AGBA - BUS STOP TEMIDIRE,13/09/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20420/pu/37937/37937-1677481758.pdf,false
+EKITI,IJERO,EKAMARUN WARD 'A',"EMMANUEL ANG. NUR/PRY SCHOOL, ILUKUNO",13/09/11/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20420/pu/125731/125731-1677480035.pdf,false
+EKITI,IJERO,EKAMARUN WARD 'A',IWARO - ST. PAULS' PRIMARY SCHOOL,13/09/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20420/pu/37943/37943-1677479042.pdf,false
+EKITI,IJERO,EKAMARUN WARD 'A',AAFIN - IROKO TOWN HALL,13/09/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20420/pu/37942/37942-1677478435.pdf,false
+EKITI,IJERO,EKAMARUN WARD 'A',OKE ODE - IN FRONT OF MADAM APANISILE,13/09/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/010/010-1677426408.pdf,false
+EKITI,IJERO,EKAMARUN WARD 'A',OKE AGBEDE - MARKET SQURE,13/09/11/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/013/013-1677425958.pdf,false
+EKITI,IJERO,EKAMARUN WARD 'A',OKE AGBA - COMMUNITY PRIMARY SCHOOL TEMIDIRE,13/09/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/001/001-1677425251.pdf,false
+EKITI,IJERO,EKAMARUN WARD 'A',OKE - ODE  II - IN FRONT OF EGOME'S HOUSE,13/09/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/006/006-1677424892.pdf,false
+EKITI,IJERO,EKAMARUN WARD 'A',ADURALERE - COMMUNITY PRIMARY SCHOOL / IDAO,13/09/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/012/012-1677424349.pdf,false
+EKITI,IJERO,EKAMARUN WARD 'A',OKE - IROKO - IN FRONT OF CHIEF AKOLEOLA HOUSE,13/09/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/009/009-1677377409.pdf,false
+EKITI,IJERO,EKAMARUN WARD 'A',ILUKUNO - AAFIN,13/09/11/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/015/015-1677376439.pdf,false
+EKITI,IJERO,EKAMARUN WARD 'A',TEMIDIRE - INSIDE BUS STOP,13/09/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/011/011-1677375342.pdf,false
+EKITI,IJERO,EKAMARUN WARD 'A',ODO - ODE / IPARAO - IN FRONT OF FELE'S HOUSE,13/09/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/004/004-1677373783.pdf,false
+EKITI,IJERO,EKAMARUN WARD 'A',OKE ODE  I - CATHOLIC PRIMARY SCHOOL,13/09/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/005/005-1677373368.pdf,false

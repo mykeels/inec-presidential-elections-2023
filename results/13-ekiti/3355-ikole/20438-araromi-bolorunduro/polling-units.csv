@@ -1,16 +1,16 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,IKOLE,,COMMUNITY PRIMARY SCHOOL  - ODO AOFIN III,13/11/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20438/pu/38129/38129-1677588974.pdf,false
-EKITI,IKOLE,,IN FRONT OF ADEOYE'S HOUSE - ODO AOFIN II,13/11/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20438/pu/38128/38128-1677588769.pdf,false
-EKITI,IKOLE,,IN FRONT OF FALADE'S HOUSE - ODO AOFIN I,13/11/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20438/pu/38127/38127-1677588196.pdf,true
-EKITI,IKOLE,,BESIDE OGUNGBEMI'S HOUSE - IKASI,13/11/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20438/pu/38126/38126-1677587999.pdf,true
-EKITI,IKOLE,,SPACE WITHIN ITAGBANGBA - IBAYAN / ILADO / ITAGBANGBA,13/11/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20438/pu/38139/38139-1677581748.pdf,true
-EKITI,IKOLE,,SPACE WITHIN IGBOREO - IGBOREO / IGBO ORE / IGBO AKETA,13/11/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20438/pu/38138/38138-1677581621.pdf,true
-EKITI,IKOLE,,SPACE WITHIN AUDU CAMP - AUDU / BABA ODE / IGBO OLUKOJU,13/11/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20438/pu/38137/38137-1677581151.pdf,true
-EKITI,IKOLE,,IN FRONT OF OGUNLEYE'S HOUSE - ODO,13/11/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20438/pu/38136/38136-1677580534.pdf,true
-EKITI,IKOLE,,BESIDE AGBOOLA'S HOUSE - ILESI / UTAUN,13/11/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20438/pu/38134/38134-1677579582.pdf,true
-EKITI,IKOLE,,SPACE WITHIN ABA AUDU - ABA AUDU,13/11/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20438/pu/38133/38133-1677579438.pdf,true
-EKITI,IKOLE,,SPACE WITHIN BOLORUNDURO - BOLORUNDURO,13/11/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20438/pu/38132/38132-1677579322.pdf,true
-EKITI,IKOLE,,IN FRONT OF BAMISAYE'S HOUSE -  ISOLO,13/11/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20438/pu/38131/38131-1677579194.pdf,true
-EKITI,IKOLE,,IN FRONT OF OLOMIDIMIRO'S HOUSE - ODO ILISE/IMIRO,13/11/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20438/pu/38130/38130-1677578861.pdf,false
-EKITI,IKOLE,,IN FRONT OF OLUWOLE'S HOUSE - AKETA / IGBORE,13/11/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20438/pu/38135/38135-1677578726.pdf,false
-EKITI,IKOLE,,IN FRONT OF CHIEF ASAOBI'S HOUSE - IGBASA,13/11/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20438/pu/38125/38125-1677507773.pdf,false
+EKITI,IKOLE,ARAROMI / BOLORUNDURO,COMMUNITY PRIMARY SCHOOL  - ODO AOFIN III,13/11/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20438/pu/38129/38129-1677588974.pdf,false
+EKITI,IKOLE,ARAROMI / BOLORUNDURO,IN FRONT OF ADEOYE'S HOUSE - ODO AOFIN II,13/11/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20438/pu/38128/38128-1677588769.pdf,false
+EKITI,IKOLE,ARAROMI / BOLORUNDURO,IN FRONT OF FALADE'S HOUSE - ODO AOFIN I,13/11/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20438/pu/38127/38127-1677588196.pdf,true
+EKITI,IKOLE,ARAROMI / BOLORUNDURO,BESIDE OGUNGBEMI'S HOUSE - IKASI,13/11/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20438/pu/38126/38126-1677587999.pdf,true
+EKITI,IKOLE,ARAROMI / BOLORUNDURO,SPACE WITHIN ITAGBANGBA - IBAYAN / ILADO / ITAGBANGBA,13/11/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20438/pu/38139/38139-1677581748.pdf,true
+EKITI,IKOLE,ARAROMI / BOLORUNDURO,SPACE WITHIN IGBOREO - IGBOREO / IGBO ORE / IGBO AKETA,13/11/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20438/pu/38138/38138-1677581621.pdf,true
+EKITI,IKOLE,ARAROMI / BOLORUNDURO,SPACE WITHIN AUDU CAMP - AUDU / BABA ODE / IGBO OLUKOJU,13/11/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20438/pu/38137/38137-1677581151.pdf,true
+EKITI,IKOLE,ARAROMI / BOLORUNDURO,IN FRONT OF OGUNLEYE'S HOUSE - ODO,13/11/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20438/pu/38136/38136-1677580534.pdf,true
+EKITI,IKOLE,ARAROMI / BOLORUNDURO,BESIDE AGBOOLA'S HOUSE - ILESI / UTAUN,13/11/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20438/pu/38134/38134-1677579582.pdf,true
+EKITI,IKOLE,ARAROMI / BOLORUNDURO,SPACE WITHIN ABA AUDU - ABA AUDU,13/11/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20438/pu/38133/38133-1677579438.pdf,true
+EKITI,IKOLE,ARAROMI / BOLORUNDURO,SPACE WITHIN BOLORUNDURO - BOLORUNDURO,13/11/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20438/pu/38132/38132-1677579322.pdf,true
+EKITI,IKOLE,ARAROMI / BOLORUNDURO,IN FRONT OF BAMISAYE'S HOUSE -  ISOLO,13/11/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20438/pu/38131/38131-1677579194.pdf,true
+EKITI,IKOLE,ARAROMI / BOLORUNDURO,IN FRONT OF OLOMIDIMIRO'S HOUSE - ODO ILISE/IMIRO,13/11/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20438/pu/38130/38130-1677578861.pdf,false
+EKITI,IKOLE,ARAROMI / BOLORUNDURO,IN FRONT OF OLUWOLE'S HOUSE - AKETA / IGBORE,13/11/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20438/pu/38135/38135-1677578726.pdf,false
+EKITI,IKOLE,ARAROMI / BOLORUNDURO,IN FRONT OF CHIEF ASAOBI'S HOUSE - IGBASA,13/11/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20438/pu/38125/38125-1677507773.pdf,false

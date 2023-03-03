@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,OYE,,DAKONA / IGBOROKO / ILORO / ST. MARY'S PRIMARY SCHOOL,13/16/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/002/002-1677410707.pdf,false
-EKITI,OYE,,"AT AYE , ILESE  I",13/16/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/008/008-1677408455.pdf,false
-EKITI,OYE,,"AT ILODO , ILODO",13/16/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/001/001-1677407842.pdf,false
-EKITI,OYE,,"AT AYE  , ILESE  II",13/16/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/009/009-1677406721.pdf,false
-EKITI,OYE,,"AT ILOGBO , ILOGBO",13/16/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/003/003-1677406103.pdf,false
-EKITI,OYE,,"AT ILEMIO , ILEMIO",13/16/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/005/005-1677405392.pdf,false
-EKITI,OYE,,"AT ILOKUN , ILOKUN",13/16/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/010/010-1677404285.pdf,false
-EKITI,OYE,,AT ILEJU - ILESE III,13/16/03/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/016/016-1677403588.pdf,false
-EKITI,OYE,,AT EKUNRUN - EKUNRUN,13/16/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/011/011-1677402205.pdf,false
-EKITI,OYE,,"AT ILEGBIO , ILEGBIO",13/16/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/007/007-1677402133.pdf,false
-EKITI,OYE,,AT IJELUMOYIN - IJELUMOYIN,13/16/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/012/012-1677400749.pdf,false
-EKITI,OYE,,"AT COLLEGE COMP,(GOVT COLLEGE,UNITY)",13/16/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/015/015-1677400123.pdf,false
-EKITI,OYE,,AT ILEGBIO - ILEGBIO II,13/16/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/014/014-1677399154.pdf,false
-EKITI,OYE,,"OPEN SPACE AT SALINDO MEMORIAL BUS STOP, FUOYE ROAD",13/16/03/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/018/018-1677398262.pdf,false
-EKITI,OYE,,"AT  ILARO , ILARO",13/16/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/004/004-1677395793.pdf,false
-EKITI,OYE,,AT ILEJU - ILESE  IV,13/16/03/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/017/017-1677394758.pdf,false
-EKITI,OYE,,"AT EJIGBIO BUS STOP , EJIGBIO",13/16/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/006/006-1677393339.pdf,false
-EKITI,OYE,,AT IJAGBEMO - IJAGBEMO,13/16/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/013/013-1677391625.pdf,false
+EKITI,OYE,OYE II,DAKONA / IGBOROKO / ILORO / ST. MARY'S PRIMARY SCHOOL,13/16/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/002/002-1677410707.pdf,false
+EKITI,OYE,OYE II,"AT AYE , ILESE  I",13/16/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/008/008-1677408455.pdf,false
+EKITI,OYE,OYE II,"AT ILODO , ILODO",13/16/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/001/001-1677407842.pdf,false
+EKITI,OYE,OYE II,"AT AYE  , ILESE  II",13/16/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/009/009-1677406721.pdf,false
+EKITI,OYE,OYE II,"AT ILOGBO , ILOGBO",13/16/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/003/003-1677406103.pdf,false
+EKITI,OYE,OYE II,"AT ILEMIO , ILEMIO",13/16/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/005/005-1677405392.pdf,false
+EKITI,OYE,OYE II,"AT ILOKUN , ILOKUN",13/16/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/010/010-1677404285.pdf,false
+EKITI,OYE,OYE II,AT ILEJU - ILESE III,13/16/03/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/016/016-1677403588.pdf,false
+EKITI,OYE,OYE II,AT EKUNRUN - EKUNRUN,13/16/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/011/011-1677402205.pdf,false
+EKITI,OYE,OYE II,"AT ILEGBIO , ILEGBIO",13/16/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/007/007-1677402133.pdf,false
+EKITI,OYE,OYE II,AT IJELUMOYIN - IJELUMOYIN,13/16/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/012/012-1677400749.pdf,false
+EKITI,OYE,OYE II,"AT COLLEGE COMP,(GOVT COLLEGE,UNITY)",13/16/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/015/015-1677400123.pdf,false
+EKITI,OYE,OYE II,AT ILEGBIO - ILEGBIO II,13/16/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/014/014-1677399154.pdf,false
+EKITI,OYE,OYE II,"OPEN SPACE AT SALINDO MEMORIAL BUS STOP, FUOYE ROAD",13/16/03/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/018/018-1677398262.pdf,false
+EKITI,OYE,OYE II,"AT  ILARO , ILARO",13/16/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/004/004-1677395793.pdf,false
+EKITI,OYE,OYE II,AT ILEJU - ILESE  IV,13/16/03/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/017/017-1677394758.pdf,false
+EKITI,OYE,OYE II,"AT EJIGBIO BUS STOP , EJIGBIO",13/16/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/006/006-1677393339.pdf,false
+EKITI,OYE,OYE II,AT IJAGBEMO - IJAGBEMO,13/16/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/013/013-1677391625.pdf,false

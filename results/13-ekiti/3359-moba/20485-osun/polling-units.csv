@@ -1,15 +1,15 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,MOBA,,COMM. PRY SCH. IRO / ARONIRO'S PALACE,13/15/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/011/011-1677386027.pdf,false
-EKITI,MOBA,,L.A PRY SCH. EPE / ILE AYO,13/15/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/009/009-1677385602.pdf,false
-EKITI,MOBA,,"ILE AGBALU & OJO FRONTAGE HOUSE / ILE OWA ,ILE ALANI , ILE AGBALU OJO & ILE ORINKA",13/15/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/001/001-1677378257.pdf,false
-EKITI,MOBA,,TOWN HALL / ILE ORISA OKO & AGBEBU,13/15/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/002/002-1677376401.pdf,false
-EKITI,MOBA,,INF. OF OWOEYE' S HOUSE / EBI OWA ANIFANU,13/15/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/006/006-1677372733.pdf,false
-EKITI,MOBA,,ODO AGBARA FRONTAGE / ODO AGBARA,13/15/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/003/003-1677368788.pdf,false
-EKITI,MOBA,,"TOWN HALL / ILE ODOFIN , ILE EISA & IGBO ORO",13/15/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/004/004-1677368407.pdf,false
-EKITI,MOBA,,NEW C.M.S CHURCH IRA / IRA C.M.S,13/15/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/014/014-1677368046.pdf,false
-EKITI,MOBA,,COMM. PRY SCH. IRO / OKE ILA,13/15/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/012/012-1677367715.pdf,false
-EKITI,MOBA,,AT AAFIN IRA / ILE OGUN,13/15/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/013/013-1677367162.pdf,false
-EKITI,MOBA,,"ST AUGUSTINE PRY SCH. / ILE ODOFIN, ILE-ILERO & EBI OWA  OLORO",13/15/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/005/005-1677366824.pdf,false
-EKITI,MOBA,,INF. OF OWOEYE'S HOUSE / ILE OLODE,13/15/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/007/007-1677366429.pdf,false
-EKITI,MOBA,,"L.A PRY SCH. EPE / ILE EPE, ILE ARO & ILE-OLORO",13/15/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/008/008-1677365928.pdf,false
-EKITI,MOBA,,AT IJEMU / IJEMU,13/15/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/010/010-1677364363.pdf,false
+EKITI,MOBA,OSUN,COMM. PRY SCH. IRO / ARONIRO'S PALACE,13/15/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/011/011-1677386027.pdf,false
+EKITI,MOBA,OSUN,L.A PRY SCH. EPE / ILE AYO,13/15/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/009/009-1677385602.pdf,false
+EKITI,MOBA,OSUN,"ILE AGBALU & OJO FRONTAGE HOUSE / ILE OWA ,ILE ALANI , ILE AGBALU OJO & ILE ORINKA",13/15/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/001/001-1677378257.pdf,false
+EKITI,MOBA,OSUN,TOWN HALL / ILE ORISA OKO & AGBEBU,13/15/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/002/002-1677376401.pdf,false
+EKITI,MOBA,OSUN,INF. OF OWOEYE' S HOUSE / EBI OWA ANIFANU,13/15/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/006/006-1677372733.pdf,false
+EKITI,MOBA,OSUN,ODO AGBARA FRONTAGE / ODO AGBARA,13/15/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/003/003-1677368788.pdf,false
+EKITI,MOBA,OSUN,"TOWN HALL / ILE ODOFIN , ILE EISA & IGBO ORO",13/15/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/004/004-1677368407.pdf,false
+EKITI,MOBA,OSUN,NEW C.M.S CHURCH IRA / IRA C.M.S,13/15/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/014/014-1677368046.pdf,false
+EKITI,MOBA,OSUN,COMM. PRY SCH. IRO / OKE ILA,13/15/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/012/012-1677367715.pdf,false
+EKITI,MOBA,OSUN,AT AAFIN IRA / ILE OGUN,13/15/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/013/013-1677367162.pdf,false
+EKITI,MOBA,OSUN,"ST AUGUSTINE PRY SCH. / ILE ODOFIN, ILE-ILERO & EBI OWA  OLORO",13/15/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/005/005-1677366824.pdf,false
+EKITI,MOBA,OSUN,INF. OF OWOEYE'S HOUSE / ILE OLODE,13/15/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/007/007-1677366429.pdf,false
+EKITI,MOBA,OSUN,"L.A PRY SCH. EPE / ILE EPE, ILE ARO & ILE-OLORO",13/15/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/008/008-1677365928.pdf,false
+EKITI,MOBA,OSUN,AT IJEMU / IJEMU,13/15/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/10/pu/010/010-1677364363.pdf,false

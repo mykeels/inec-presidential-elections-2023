@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,GBONYIN,,ITAALUKO - KOSOMOLATE / ITAALUKO,13/07/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3351/ward/20393/pu/37623/37623-1677516392.pdf,false
-EKITI,GBONYIN,,OPEN SPACE AT ITAMOJIRO - ARIALA / KABA / ASETA / ITAMOJIRO,13/07/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3351/ward/20393/pu/37622/37622-1677515525.pdf,false
-EKITI,GBONYIN,,COMM. PRY. SCH. - OLORUNDA / OYIRA / BOLORUNDURO,13/07/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3351/ward/20393/pu/37621/37621-1677508300.pdf,false
-EKITI,GBONYIN,,OPEN SPACE AT APEYE - AKANDE / OKE OSE APEYE,13/07/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3351/ward/20393/pu/37624/37624-1677508161.pdf,false
-EKITI,GBONYIN,,ST. JAMES PRIMARY SCHOOL - IJUMU / OKE ODE/ IDOGUN / APOMO,13/07/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3351/ward/20393/pu/37625/37625-1677508045.pdf,false
-EKITI,GBONYIN,,ST FRANCIS PRIMARY SCHOOL - ISIGUN / OKA / IERI,13/07/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3351/ward/20393/pu/37626/37626-1677507905.pdf,false
-EKITI,GBONYIN,,MARKET STALL - IDOSERE / ILOGBO / AAFIN,13/07/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3351/ward/20393/pu/37620/37620-1677507879.pdf,false
-EKITI,GBONYIN,,OPEN SPACE AT ERUNWA - ERUNWA / ARAROMI,13/07/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3351/ward/20393/pu/37627/37627-1677507773.pdf,false
-EKITI,GBONYIN,,OPEN SPACE AT ISAKUNMI - ISAKUNMI / FRANCIS / ESHE /ODO ORO / ELEDO,13/07/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3351/ward/20393/pu/37628/37628-1677507475.pdf,false
-EKITI,GBONYIN,,ODIOLOWO CAMP - ALHAJI / ODIOLOWO,13/07/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3351/ward/20393/pu/37629/37629-1677507286.pdf,false
-EKITI,GBONYIN,,OPEN SPACE AT OKA TEDO - OKATEDO / OJO / ORIOKUTA,13/07/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3351/ward/20393/pu/37630/37630-1677507113.pdf,false
-EKITI,GBONYIN,,OPEN SPACE AT ODOKUN - ODOKUN,13/07/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/05/pu/013/013-1677395876.pdf,false
-EKITI,GBONYIN,,AT OKE EDE - OKE EDE,13/07/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/05/pu/012/012-1677371926.pdf,false
+EKITI,GBONYIN,IMESI,ITAALUKO - KOSOMOLATE / ITAALUKO,13/07/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3351/ward/20393/pu/37623/37623-1677516392.pdf,false
+EKITI,GBONYIN,IMESI,OPEN SPACE AT ITAMOJIRO - ARIALA / KABA / ASETA / ITAMOJIRO,13/07/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3351/ward/20393/pu/37622/37622-1677515525.pdf,false
+EKITI,GBONYIN,IMESI,COMM. PRY. SCH. - OLORUNDA / OYIRA / BOLORUNDURO,13/07/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3351/ward/20393/pu/37621/37621-1677508300.pdf,false
+EKITI,GBONYIN,IMESI,OPEN SPACE AT APEYE - AKANDE / OKE OSE APEYE,13/07/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3351/ward/20393/pu/37624/37624-1677508161.pdf,false
+EKITI,GBONYIN,IMESI,ST. JAMES PRIMARY SCHOOL - IJUMU / OKE ODE/ IDOGUN / APOMO,13/07/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3351/ward/20393/pu/37625/37625-1677508045.pdf,false
+EKITI,GBONYIN,IMESI,ST FRANCIS PRIMARY SCHOOL - ISIGUN / OKA / IERI,13/07/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3351/ward/20393/pu/37626/37626-1677507905.pdf,false
+EKITI,GBONYIN,IMESI,MARKET STALL - IDOSERE / ILOGBO / AAFIN,13/07/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3351/ward/20393/pu/37620/37620-1677507879.pdf,false
+EKITI,GBONYIN,IMESI,OPEN SPACE AT ERUNWA - ERUNWA / ARAROMI,13/07/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3351/ward/20393/pu/37627/37627-1677507773.pdf,false
+EKITI,GBONYIN,IMESI,OPEN SPACE AT ISAKUNMI - ISAKUNMI / FRANCIS / ESHE /ODO ORO / ELEDO,13/07/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3351/ward/20393/pu/37628/37628-1677507475.pdf,false
+EKITI,GBONYIN,IMESI,ODIOLOWO CAMP - ALHAJI / ODIOLOWO,13/07/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3351/ward/20393/pu/37629/37629-1677507286.pdf,false
+EKITI,GBONYIN,IMESI,OPEN SPACE AT OKA TEDO - OKATEDO / OJO / ORIOKUTA,13/07/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3351/ward/20393/pu/37630/37630-1677507113.pdf,false
+EKITI,GBONYIN,IMESI,OPEN SPACE AT ODOKUN - ODOKUN,13/07/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/05/pu/013/013-1677395876.pdf,false
+EKITI,GBONYIN,IMESI,AT OKE EDE - OKE EDE,13/07/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/05/pu/012/012-1677371926.pdf,false

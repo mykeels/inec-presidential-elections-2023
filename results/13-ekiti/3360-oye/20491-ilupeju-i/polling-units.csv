@@ -1,21 +1,21 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,OYE,,AT OKE ODE - ILESA / OKE ODE,13/16/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/010/010-1677411249.pdf,false
-EKITI,OYE,,OWODE - OWODE,13/16/05/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/016/016-1677407436.pdf,false
-EKITI,OYE,,AT IKETUN - IKETUN  I AND II,13/16/05/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/018/018-1677407242.pdf,false
-EKITI,OYE,,AT ODO EGOSI - ODO EGOSI  I,13/16/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/001/001-1677406745.pdf,false
-EKITI,OYE,,AT AYE -AYE,13/16/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/005/005-1677406404.pdf,false
-EKITI,OYE,,AT ODO EGOSI - ODO EGOSI  II,13/16/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/002/002-1677405748.pdf,false
-EKITI,OYE,,IN FRONT OF IBIGBAMI'S HOUSE - BELE,13/16/05/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/015/015-1677405348.pdf,false
-EKITI,OYE,,UNDER ODAN - IGESAN,13/16/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/013/013-1677404939.pdf,false
-EKITI,OYE,,AT URO - URO,13/16/05/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/019/019-1677404052.pdf,false
-EKITI,OYE,,AT OKEJI OKEJI    I,13/16/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/003/003-1677403165.pdf,false
-EKITI,OYE,,DISPENSARY - APATA AJE,13/16/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/012/012-1677402205.pdf,false
-EKITI,OYE,,IN FRONT OF BABALOLA'S HOUSE - OKE UYAN / ODO UYAN,13/16/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/008/008-1677401827.pdf,false
-EKITI,OYE,,AT ILIDAN - ILIDAN,13/16/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/009/009-1677401250.pdf,false
-EKITI,OYE,,ANGLICAN SCHOOL - IREMO,13/16/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/014/014-1677400726.pdf,false
-EKITI,OYE,,AT ILORO -ILORO,13/16/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/011/011-1677400282.pdf,false
-EKITI,OYE,,AT METHODIST PRIMARY SCHOOL - ISIWO,13/16/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/006/006-1677399513.pdf,false
-EKITI,OYE,,AT ARAROMI - ARAROMI,13/16/05/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/017/017-1677398777.pdf,false
-EKITI,OYE,,AT ODO EGAN - ODO EGAN,13/16/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/007/007-1677398150.pdf,false
-EKITI,OYE,,AT ODOUGBA - ODOUGBA,13/16/05/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/020/020-1677397943.pdf,false
-EKITI,OYE,,AT OKEJI OKEJI    II,13/16/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/004/004-1677393609.pdf,false
+EKITI,OYE,ILUPEJU  I,AT OKE ODE - ILESA / OKE ODE,13/16/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/010/010-1677411249.pdf,false
+EKITI,OYE,ILUPEJU  I,OWODE - OWODE,13/16/05/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/016/016-1677407436.pdf,false
+EKITI,OYE,ILUPEJU  I,AT IKETUN - IKETUN  I AND II,13/16/05/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/018/018-1677407242.pdf,false
+EKITI,OYE,ILUPEJU  I,AT ODO EGOSI - ODO EGOSI  I,13/16/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/001/001-1677406745.pdf,false
+EKITI,OYE,ILUPEJU  I,AT AYE -AYE,13/16/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/005/005-1677406404.pdf,false
+EKITI,OYE,ILUPEJU  I,AT ODO EGOSI - ODO EGOSI  II,13/16/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/002/002-1677405748.pdf,false
+EKITI,OYE,ILUPEJU  I,IN FRONT OF IBIGBAMI'S HOUSE - BELE,13/16/05/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/015/015-1677405348.pdf,false
+EKITI,OYE,ILUPEJU  I,UNDER ODAN - IGESAN,13/16/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/013/013-1677404939.pdf,false
+EKITI,OYE,ILUPEJU  I,AT URO - URO,13/16/05/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/019/019-1677404052.pdf,false
+EKITI,OYE,ILUPEJU  I,AT OKEJI OKEJI    I,13/16/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/003/003-1677403165.pdf,false
+EKITI,OYE,ILUPEJU  I,DISPENSARY - APATA AJE,13/16/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/012/012-1677402205.pdf,false
+EKITI,OYE,ILUPEJU  I,IN FRONT OF BABALOLA'S HOUSE - OKE UYAN / ODO UYAN,13/16/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/008/008-1677401827.pdf,false
+EKITI,OYE,ILUPEJU  I,AT ILIDAN - ILIDAN,13/16/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/009/009-1677401250.pdf,false
+EKITI,OYE,ILUPEJU  I,ANGLICAN SCHOOL - IREMO,13/16/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/014/014-1677400726.pdf,false
+EKITI,OYE,ILUPEJU  I,AT ILORO -ILORO,13/16/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/011/011-1677400282.pdf,false
+EKITI,OYE,ILUPEJU  I,AT METHODIST PRIMARY SCHOOL - ISIWO,13/16/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/006/006-1677399513.pdf,false
+EKITI,OYE,ILUPEJU  I,AT ARAROMI - ARAROMI,13/16/05/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/017/017-1677398777.pdf,false
+EKITI,OYE,ILUPEJU  I,AT ODO EGAN - ODO EGAN,13/16/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/007/007-1677398150.pdf,false
+EKITI,OYE,ILUPEJU  I,AT ODOUGBA - ODOUGBA,13/16/05/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/020/020-1677397943.pdf,false
+EKITI,OYE,ILUPEJU  I,AT OKEJI OKEJI    II,13/16/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/004/004-1677393609.pdf,false

@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,EKITI SOUTH WEST,,ONILE OWO / SAJOWA COMPOUND AT  PRY. HEALTH CENTRE,13/05/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/05/pu/012/012-1677395297.pdf,false
-EKITI,EKITI SOUTH WEST,,C. C. C. AREA AT  PRODUCE OFFICE,13/05/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/05/pu/011/011-1677394665.pdf,false
-EKITI,EKITI SOUTH WEST,,OLOJA ADIN  / AT ST. MARY' S SCHOOL   II,13/05/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/05/pu/010/010-1677394011.pdf,false
-EKITI,EKITI SOUTH WEST,,OLOJA ADIN  / AT ST. MARY'S SCHOOL   I,13/05/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/05/pu/009/009-1677393101.pdf,false
-EKITI,EKITI SOUTH WEST,,ADIN AREA   /  AT HOLY TRINITY SCHOOL   I,13/05/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/05/pu/005/005-1677392555.pdf,false
-EKITI,EKITI SOUTH WEST,,ODOLE /  AT ST. MARY'S SCHOOL,13/05/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/05/pu/008/008-1677391226.pdf,false
-EKITI,EKITI SOUTH WEST,,OJURONGBE / AT ST. MARY' S SCHOOL,13/05/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/05/pu/007/007-1677390628.pdf,false
-EKITI,EKITI SOUTH WEST,,ADIN AREA   / AT HOLY TRINITY SCHOOL   II,13/05/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/05/pu/006/006-1677389443.pdf,false
-EKITI,EKITI SOUTH WEST,,IDI OSE  / ALARIKO   / AT HOLY TRINITY SCHOOL,13/05/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/05/pu/004/004-1677386335.pdf,false
-EKITI,EKITI SOUTH WEST,,OKE ADIN / DURODOLA /  AT HOLY TRINITY SCHOOL,13/05/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/05/pu/001/001-1677362589.pdf,false
-EKITI,EKITI SOUTH WEST,,DURODOLA / AT HOLY TRINITY SCHOOL,13/05/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/05/pu/002/002-1677360374.pdf,false
-EKITI,EKITI SOUTH WEST,,OKE OSUN / ADELE  / AT HOLY TRINITY SCHOOL,13/05/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/05/pu/003/003-1677359540.pdf,false
+EKITI,EKITI SOUTH WEST,ILAWE   V,ONILE OWO / SAJOWA COMPOUND AT  PRY. HEALTH CENTRE,13/05/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/05/pu/012/012-1677395297.pdf,false
+EKITI,EKITI SOUTH WEST,ILAWE   V,C. C. C. AREA AT  PRODUCE OFFICE,13/05/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/05/pu/011/011-1677394665.pdf,false
+EKITI,EKITI SOUTH WEST,ILAWE   V,OLOJA ADIN  / AT ST. MARY' S SCHOOL   II,13/05/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/05/pu/010/010-1677394011.pdf,false
+EKITI,EKITI SOUTH WEST,ILAWE   V,OLOJA ADIN  / AT ST. MARY'S SCHOOL   I,13/05/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/05/pu/009/009-1677393101.pdf,false
+EKITI,EKITI SOUTH WEST,ILAWE   V,ADIN AREA   /  AT HOLY TRINITY SCHOOL   I,13/05/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/05/pu/005/005-1677392555.pdf,false
+EKITI,EKITI SOUTH WEST,ILAWE   V,ODOLE /  AT ST. MARY'S SCHOOL,13/05/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/05/pu/008/008-1677391226.pdf,false
+EKITI,EKITI SOUTH WEST,ILAWE   V,OJURONGBE / AT ST. MARY' S SCHOOL,13/05/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/05/pu/007/007-1677390628.pdf,false
+EKITI,EKITI SOUTH WEST,ILAWE   V,ADIN AREA   / AT HOLY TRINITY SCHOOL   II,13/05/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/05/pu/006/006-1677389443.pdf,false
+EKITI,EKITI SOUTH WEST,ILAWE   V,IDI OSE  / ALARIKO   / AT HOLY TRINITY SCHOOL,13/05/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/05/pu/004/004-1677386335.pdf,false
+EKITI,EKITI SOUTH WEST,ILAWE   V,OKE ADIN / DURODOLA /  AT HOLY TRINITY SCHOOL,13/05/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/05/pu/001/001-1677362589.pdf,false
+EKITI,EKITI SOUTH WEST,ILAWE   V,DURODOLA / AT HOLY TRINITY SCHOOL,13/05/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/05/pu/002/002-1677360374.pdf,false
+EKITI,EKITI SOUTH WEST,ILAWE   V,OKE OSUN / ADELE  / AT HOLY TRINITY SCHOOL,13/05/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/05/pu/003/003-1677359540.pdf,false

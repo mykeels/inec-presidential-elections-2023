@@ -1,11 +1,11 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,ILEJEMEJE,,"TEMIDIRE I , IN FRONT OF FAGBEMI'S HOUSE",13/12/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3356/ward/20454/pu/38319/38319-1677520659.pdf,false
-EKITI,ILEJEMEJE,,"TEMIDIRE II , IN FRONT OF FAGBEMI'S HOUSE",13/12/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3356/ward/20454/pu/38320/38320-1677520194.pdf,false
-EKITI,ILEJEMEJE,,"IJEMO II , TOWN HALL",13/12/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3356/ward/20454/pu/38318/38318-1677512759.pdf,false
-EKITI,ILEJEMEJE,,"IJEMO I , IN FRONT OF ONIBODE'S HOUSE",13/12/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3356/ward/20454/pu/38317/38317-1677511906.pdf,false
-EKITI,ILEJEMEJE,,"ISABA II , IN FRONT OF OMONIYI'S HOUSE",13/12/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3356/ward/20454/pu/38316/38316-1677511717.pdf,false
-EKITI,ILEJEMEJE,,"ISABA I , IN FRONT OF OSASONA'S HOUSE",13/12/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3356/ward/20454/pu/38315/38315-1677511504.pdf,false
-EKITI,ILEJEMEJE,,"IGBEDE OKE II , ST. PETERS SCHOOL",13/12/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3356/ward/20454/pu/38314/38314-1677511118.pdf,false
-EKITI,ILEJEMEJE,,"IGBEDE ODO I, IN FRONT OF ILESANMI'S HOUSE",13/12/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3356/ward/20454/pu/38313/38313-1677510345.pdf,false
-EKITI,ILEJEMEJE,,"ILISEMO II , IN FRONT OF EISAJOFI'S HOUSE",13/12/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3356/ward/20454/pu/38312/38312-1677509832.pdf,false
-EKITI,ILEJEMEJE,,"ILISEMO I , IN FRONT OF OLAJUBU'S HOUSE",13/12/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3356/ward/20454/pu/38311/38311-1677509601.pdf,false
+EKITI,ILEJEMEJE,IPERE,"TEMIDIRE I , IN FRONT OF FAGBEMI'S HOUSE",13/12/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3356/ward/20454/pu/38319/38319-1677520659.pdf,false
+EKITI,ILEJEMEJE,IPERE,"TEMIDIRE II , IN FRONT OF FAGBEMI'S HOUSE",13/12/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3356/ward/20454/pu/38320/38320-1677520194.pdf,false
+EKITI,ILEJEMEJE,IPERE,"IJEMO II , TOWN HALL",13/12/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3356/ward/20454/pu/38318/38318-1677512759.pdf,false
+EKITI,ILEJEMEJE,IPERE,"IJEMO I , IN FRONT OF ONIBODE'S HOUSE",13/12/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3356/ward/20454/pu/38317/38317-1677511906.pdf,false
+EKITI,ILEJEMEJE,IPERE,"ISABA II , IN FRONT OF OMONIYI'S HOUSE",13/12/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3356/ward/20454/pu/38316/38316-1677511717.pdf,false
+EKITI,ILEJEMEJE,IPERE,"ISABA I , IN FRONT OF OSASONA'S HOUSE",13/12/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3356/ward/20454/pu/38315/38315-1677511504.pdf,false
+EKITI,ILEJEMEJE,IPERE,"IGBEDE OKE II , ST. PETERS SCHOOL",13/12/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3356/ward/20454/pu/38314/38314-1677511118.pdf,false
+EKITI,ILEJEMEJE,IPERE,"IGBEDE ODO I, IN FRONT OF ILESANMI'S HOUSE",13/12/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3356/ward/20454/pu/38313/38313-1677510345.pdf,false
+EKITI,ILEJEMEJE,IPERE,"ILISEMO II , IN FRONT OF EISAJOFI'S HOUSE",13/12/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3356/ward/20454/pu/38312/38312-1677509832.pdf,false
+EKITI,ILEJEMEJE,IPERE,"ILISEMO I , IN FRONT OF OLAJUBU'S HOUSE",13/12/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3356/ward/20454/pu/38311/38311-1677509601.pdf,false

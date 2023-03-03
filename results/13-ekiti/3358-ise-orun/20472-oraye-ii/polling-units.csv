@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,ISE / ORUN,,ST PAUL'S PRIMARY SCHOOL / OGBON TITUN I AND II / IPARA IGBAGBO / OKE ONIYO,13/14/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/07/pu/006/006-1677394212.pdf,false
-EKITI,ISE / ORUN,,ST PAUL PRY SCHL.,13/14/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/07/pu/012/012-1677391831.pdf,false
-EKITI,ISE / ORUN,,NEAR IYA IBEJI'S HOUSE / OKE ODO,13/14/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/07/pu/011/011-1677391729.pdf,false
-EKITI,ISE / ORUN,,NEAR AKINWANDE'S HOUSE / OKE ONIYO II,13/14/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/07/pu/010/010-1677391593.pdf,false
-EKITI,ISE / ORUN,,NEAR AKINLOGE'S HOUSE / AGORI I AND II,13/14/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/07/pu/008/008-1677390918.pdf,false
-EKITI,ISE / ORUN,,NEAR BABALADE'S HOUSE / SURULERE IGE RD.,13/14/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/07/pu/009/009-1677390710.pdf,false
-EKITI,ISE / ORUN,,OPEN SPACE AT IPARA I IGBAGBO / OMOKOSE III / OPINMI  II,13/14/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/07/pu/007/007-1677389398.pdf,false
-EKITI,ISE / ORUN,,OPEN SPACE AT OMOKOSE / IMORIRI / ANAYE  II / OMOKOSE,13/14/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/07/pu/005/005-1677388328.pdf,false
-EKITI,ISE / ORUN,,OPEN SPACE AT OSI / ILOFA CAMP / OSI / ILOFA,13/14/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/07/pu/003/003-1677387579.pdf,false
-EKITI,ISE / ORUN,,OPEN SPACE AT ILOFA CAMP / OLOFA CAMP,13/14/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/07/pu/002/002-1677387046.pdf,false
-EKITI,ISE / ORUN,,OPEN SPACE AT OSOGBO CAMP / OSOGBO CAMP,13/14/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/07/pu/001/001-1677386327.pdf,false
-EKITI,ISE / ORUN,,OPEN SPACE AT IKE JUMU MABERU / OKE JUMU II / MABERU,13/14/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/07/pu/004/004-1677384855.pdf,false
+EKITI,ISE / ORUN,ORAYE II,ST PAUL'S PRIMARY SCHOOL / OGBON TITUN I AND II / IPARA IGBAGBO / OKE ONIYO,13/14/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/07/pu/006/006-1677394212.pdf,false
+EKITI,ISE / ORUN,ORAYE II,ST PAUL PRY SCHL.,13/14/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/07/pu/012/012-1677391831.pdf,false
+EKITI,ISE / ORUN,ORAYE II,NEAR IYA IBEJI'S HOUSE / OKE ODO,13/14/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/07/pu/011/011-1677391729.pdf,false
+EKITI,ISE / ORUN,ORAYE II,NEAR AKINWANDE'S HOUSE / OKE ONIYO II,13/14/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/07/pu/010/010-1677391593.pdf,false
+EKITI,ISE / ORUN,ORAYE II,NEAR AKINLOGE'S HOUSE / AGORI I AND II,13/14/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/07/pu/008/008-1677390918.pdf,false
+EKITI,ISE / ORUN,ORAYE II,NEAR BABALADE'S HOUSE / SURULERE IGE RD.,13/14/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/07/pu/009/009-1677390710.pdf,false
+EKITI,ISE / ORUN,ORAYE II,OPEN SPACE AT IPARA I IGBAGBO / OMOKOSE III / OPINMI  II,13/14/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/07/pu/007/007-1677389398.pdf,false
+EKITI,ISE / ORUN,ORAYE II,OPEN SPACE AT OMOKOSE / IMORIRI / ANAYE  II / OMOKOSE,13/14/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/07/pu/005/005-1677388328.pdf,false
+EKITI,ISE / ORUN,ORAYE II,OPEN SPACE AT OSI / ILOFA CAMP / OSI / ILOFA,13/14/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/07/pu/003/003-1677387579.pdf,false
+EKITI,ISE / ORUN,ORAYE II,OPEN SPACE AT ILOFA CAMP / OLOFA CAMP,13/14/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/07/pu/002/002-1677387046.pdf,false
+EKITI,ISE / ORUN,ORAYE II,OPEN SPACE AT OSOGBO CAMP / OSOGBO CAMP,13/14/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/07/pu/001/001-1677386327.pdf,false
+EKITI,ISE / ORUN,ORAYE II,OPEN SPACE AT IKE JUMU MABERU / OKE JUMU II / MABERU,13/14/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/07/pu/004/004-1677384855.pdf,false

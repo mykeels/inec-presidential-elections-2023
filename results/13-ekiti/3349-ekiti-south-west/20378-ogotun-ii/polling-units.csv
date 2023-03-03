@@ -1,17 +1,17 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,EKITI SOUTH WEST,,ELEBEDO AREA / EMMANUEL'S SCHOOL,13/05/11/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/013/013-1677411741.pdf,false
-EKITI,EKITI SOUTH WEST,,IBA AREA  I  /  EMMANUEL  SCHOOL,13/05/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/010/010-1677409391.pdf,false
-EKITI,EKITI SOUTH WEST,,OLOWOSILE AREA / NEAR OLOWOSILE,13/05/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/006/006-1677408436.pdf,false
-EKITI,EKITI SOUTH WEST,,AWOPETU AREA / EMANUEL 'S SCHOOL,13/05/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/007/007-1677395742.pdf,false
-EKITI,EKITI SOUTH WEST,,OTAPETE / AJANIMO  /  ST BATHOLOMEW,13/05/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/008/008-1677394040.pdf,false
-EKITI,EKITI SOUTH WEST,,EDUN AGBON  / EMMANUEL SCHOOL,13/05/11/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/016/016-1677393589.pdf,false
-EKITI,EKITI SOUTH WEST,,OKEMI I   II  / ST. BATHOLOMEW,13/05/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/002/002-1677393063.pdf,false
-EKITI,EKITI SOUTH WEST,,IBA AREA  II  /  EMMANUEL  SCHOOL,13/05/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/011/011-1677392245.pdf,false
-EKITI,EKITI SOUTH WEST,,ARO'S COMPOUND  / EMMANUEL'S C. A. C.,13/05/11/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/015/015-1677391247.pdf,false
-EKITI,EKITI SOUTH WEST,,FALANA AREA COURT HALL,13/05/11/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/014/014-1677390619.pdf,false
-EKITI,EKITI SOUTH WEST,,OKEMI I   III  / ST. BATHOLOMEW,13/05/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/003/003-1677389848.pdf,false
-EKITI,EKITI SOUTH WEST,,OGUNLEYE AREA NERA OGUNLEYE'S SCHOOL,13/05/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/012/012-1677389335.pdf,false
-EKITI,EKITI SOUTH WEST,,ORISUNBARE CAMP  /  ST PAUL'S PRY. SCHOOL,13/05/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/009/009-1677388302.pdf,false
-EKITI,EKITI SOUTH WEST,,OKEMI I   I  / ST. BATHOLOMEW,13/05/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/001/001-1677387755.pdf,false
-EKITI,EKITI SOUTH WEST,,OKEMI I  IV  / ST. BATHOLOMEW,13/05/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/004/004-1677386952.pdf,false
-EKITI,EKITI SOUTH WEST,,OKEMI I  V  / ST. BATHOLOMEW,13/05/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/005/005-1677386164.pdf,false
+EKITI,EKITI SOUTH WEST,OGOTUN  II,ELEBEDO AREA / EMMANUEL'S SCHOOL,13/05/11/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/013/013-1677411741.pdf,false
+EKITI,EKITI SOUTH WEST,OGOTUN  II,IBA AREA  I  /  EMMANUEL  SCHOOL,13/05/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/010/010-1677409391.pdf,false
+EKITI,EKITI SOUTH WEST,OGOTUN  II,OLOWOSILE AREA / NEAR OLOWOSILE,13/05/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/006/006-1677408436.pdf,false
+EKITI,EKITI SOUTH WEST,OGOTUN  II,AWOPETU AREA / EMANUEL 'S SCHOOL,13/05/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/007/007-1677395742.pdf,false
+EKITI,EKITI SOUTH WEST,OGOTUN  II,OTAPETE / AJANIMO  /  ST BATHOLOMEW,13/05/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/008/008-1677394040.pdf,false
+EKITI,EKITI SOUTH WEST,OGOTUN  II,EDUN AGBON  / EMMANUEL SCHOOL,13/05/11/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/016/016-1677393589.pdf,false
+EKITI,EKITI SOUTH WEST,OGOTUN  II,OKEMI I   II  / ST. BATHOLOMEW,13/05/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/002/002-1677393063.pdf,false
+EKITI,EKITI SOUTH WEST,OGOTUN  II,IBA AREA  II  /  EMMANUEL  SCHOOL,13/05/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/011/011-1677392245.pdf,false
+EKITI,EKITI SOUTH WEST,OGOTUN  II,ARO'S COMPOUND  / EMMANUEL'S C. A. C.,13/05/11/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/015/015-1677391247.pdf,false
+EKITI,EKITI SOUTH WEST,OGOTUN  II,FALANA AREA COURT HALL,13/05/11/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/014/014-1677390619.pdf,false
+EKITI,EKITI SOUTH WEST,OGOTUN  II,OKEMI I   III  / ST. BATHOLOMEW,13/05/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/003/003-1677389848.pdf,false
+EKITI,EKITI SOUTH WEST,OGOTUN  II,OGUNLEYE AREA NERA OGUNLEYE'S SCHOOL,13/05/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/012/012-1677389335.pdf,false
+EKITI,EKITI SOUTH WEST,OGOTUN  II,ORISUNBARE CAMP  /  ST PAUL'S PRY. SCHOOL,13/05/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/009/009-1677388302.pdf,false
+EKITI,EKITI SOUTH WEST,OGOTUN  II,OKEMI I   I  / ST. BATHOLOMEW,13/05/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/001/001-1677387755.pdf,false
+EKITI,EKITI SOUTH WEST,OGOTUN  II,OKEMI I  IV  / ST. BATHOLOMEW,13/05/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/004/004-1677386952.pdf,false
+EKITI,EKITI SOUTH WEST,OGOTUN  II,OKEMI I  V  / ST. BATHOLOMEW,13/05/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/11/pu/005/005-1677386164.pdf,false

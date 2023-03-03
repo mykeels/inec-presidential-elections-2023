@@ -1,9 +1,9 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,IJERO,,ISOKUN / EYIGBO - SURAJUDEEN PRIMARY SCHOOL,13/09/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/05/pu/005/005-1677420486.pdf,false
-EKITI,IJERO,,OKEYA / AAFIN - C. A. C. PRIMARY SCHOOL,13/09/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/05/pu/006/006-1677419145.pdf,false
-EKITI,IJERO,,ESAYA / OLOMOJOBI / IN FRONT OF S. D. A. SCHOOL  SURULERE,13/09/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/05/pu/001/001-1677411133.pdf,false
-EKITI,IJERO,,AROWOJASIN OGBELUKU ILE AREMO - OUR SAVIOUR P. S.,13/09/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/05/pu/002/002-1677362705.pdf,false
-EKITI,IJERO,,OGIDI - THE APOSTOLIC PRIMARY SCHOOL,13/09/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/05/pu/008/008-1677362562.pdf,false
-EKITI,IJERO,,AAYE - NEAR CHIEF AAYE'S HOUSE,13/09/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/05/pu/007/007-1677362384.pdf,false
-EKITI,IJERO,,IPOTI HIGH SCHOOL - IPOTI HIGH SCHOOL,13/09/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/05/pu/003/003-1677361645.pdf,false
-EKITI,IJERO,,ODOFIN OWA / AWOROKINMI - ODOFIN NEAR ADEWA HOUSE,13/09/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/05/pu/004/004-1677361615.pdf,false
+EKITI,IJERO,IPOTI WARD 'A',ISOKUN / EYIGBO - SURAJUDEEN PRIMARY SCHOOL,13/09/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/05/pu/005/005-1677420486.pdf,false
+EKITI,IJERO,IPOTI WARD 'A',OKEYA / AAFIN - C. A. C. PRIMARY SCHOOL,13/09/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/05/pu/006/006-1677419145.pdf,false
+EKITI,IJERO,IPOTI WARD 'A',ESAYA / OLOMOJOBI / IN FRONT OF S. D. A. SCHOOL  SURULERE,13/09/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/05/pu/001/001-1677411133.pdf,false
+EKITI,IJERO,IPOTI WARD 'A',AROWOJASIN OGBELUKU ILE AREMO - OUR SAVIOUR P. S.,13/09/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/05/pu/002/002-1677362705.pdf,false
+EKITI,IJERO,IPOTI WARD 'A',OGIDI - THE APOSTOLIC PRIMARY SCHOOL,13/09/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/05/pu/008/008-1677362562.pdf,false
+EKITI,IJERO,IPOTI WARD 'A',AAYE - NEAR CHIEF AAYE'S HOUSE,13/09/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/05/pu/007/007-1677362384.pdf,false
+EKITI,IJERO,IPOTI WARD 'A',IPOTI HIGH SCHOOL - IPOTI HIGH SCHOOL,13/09/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/05/pu/003/003-1677361645.pdf,false
+EKITI,IJERO,IPOTI WARD 'A',ODOFIN OWA / AWOROKINMI - ODOFIN NEAR ADEWA HOUSE,13/09/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/05/pu/004/004-1677361615.pdf,false

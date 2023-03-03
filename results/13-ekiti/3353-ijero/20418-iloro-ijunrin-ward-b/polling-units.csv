@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,IJERO,,ABEBI - ABEBI PREMISES,13/09/09/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20418/pu/37917/37917-1677524746.pdf,false
-EKITI,IJERO,,AAFIN - POST OFFICE,13/09/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20418/pu/37905/37905-1677524269.pdf,false
-EKITI,IJERO,,EYELAYE - IN FRONT OF TOWN HALL,13/09/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/001/001-1677427993.pdf,false
-EKITI,IJERO,,ASAO - IN FRONT OF ASAO'S COMPOUND,13/09/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/014/014-1677421067.pdf,false
-EKITI,IJERO,,ILE AWOROPAKE OKIN - IN FRONT OF LUCAS DADA'S HOUSE,13/09/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/003/003-1677418214.pdf,false
-EKITI,IJERO,,BEST WAY - UNITED PRIMARY SCHOOL COMPOUND,13/09/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/008/008-1677375102.pdf,false
-EKITI,IJERO,,AWOR EFI - IN FRONT OF EFI'S HOUSE,13/09/09/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/017/017-1677416507.pdf,false
-EKITI,IJERO,,TEMIDIRE - CATHOLIC PRIMARY SCHOOL COMPOUND  I,13/09/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/012/012-1677413251.pdf,false
-EKITI,IJERO,,IDI IGI OSE - NEAR IDI IGI OSE,13/09/09/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/016/016-1677412713.pdf,false
-EKITI,IJERO,,AAFIN - TOWN HALL IJUNRIN,13/09/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/010/010-1677411540.pdf,false
-EKITI,IJERO,,OKO ORE - IN FRONT OF SUNDAY ADEBAYO'S HOUSE,13/09/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/011/011-1677408950.pdf,false
-EKITI,IJERO,,SAJIKU  I - IN FRONT  HOUSE,13/09/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/009/009-1677408311.pdf,false
-EKITI,IJERO,,SAJUKU - IN FRONT OF EFI'S HOUSE,13/09/09/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/015/015-1677407717.pdf,false
-EKITI,IJERO,,ST. MARY'S PRIMARY SCHOOL AREA - ST. MARY PRIMARY SCHOOL  I,13/09/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/004/004-1677380726.pdf,false
-EKITI,IJERO,,OGUNDELE'S COMPOUND - IN FRONT OF OGUNDELE'S HOUSE,13/09/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/002/002-1677379593.pdf,false
-EKITI,IJERO,,OKO ERERIN - ERERIN PREMISES,13/09/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/007/007-1677378554.pdf,false
-EKITI,IJERO,,ST. MARY'S PRIMARY SCHOOL AREA - ST. MARY PRIMARY SCHOOL  II,13/09/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/005/005-1677376959.pdf,false
-EKITI,IJERO,,TEMIDIRE - CATHOLIC PRIMARY SCHOOL COMPOUND  II,13/09/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/013/013-1677374007.pdf,false
+EKITI,IJERO,ILORO / IJUNRIN WARD 'B',ABEBI - ABEBI PREMISES,13/09/09/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20418/pu/37917/37917-1677524746.pdf,false
+EKITI,IJERO,ILORO / IJUNRIN WARD 'B',AAFIN - POST OFFICE,13/09/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20418/pu/37905/37905-1677524269.pdf,false
+EKITI,IJERO,ILORO / IJUNRIN WARD 'B',EYELAYE - IN FRONT OF TOWN HALL,13/09/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/001/001-1677427993.pdf,false
+EKITI,IJERO,ILORO / IJUNRIN WARD 'B',ASAO - IN FRONT OF ASAO'S COMPOUND,13/09/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/014/014-1677421067.pdf,false
+EKITI,IJERO,ILORO / IJUNRIN WARD 'B',ILE AWOROPAKE OKIN - IN FRONT OF LUCAS DADA'S HOUSE,13/09/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/003/003-1677418214.pdf,false
+EKITI,IJERO,ILORO / IJUNRIN WARD 'B',BEST WAY - UNITED PRIMARY SCHOOL COMPOUND,13/09/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/008/008-1677375102.pdf,false
+EKITI,IJERO,ILORO / IJUNRIN WARD 'B',AWOR EFI - IN FRONT OF EFI'S HOUSE,13/09/09/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/017/017-1677416507.pdf,false
+EKITI,IJERO,ILORO / IJUNRIN WARD 'B',TEMIDIRE - CATHOLIC PRIMARY SCHOOL COMPOUND  I,13/09/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/012/012-1677413251.pdf,false
+EKITI,IJERO,ILORO / IJUNRIN WARD 'B',IDI IGI OSE - NEAR IDI IGI OSE,13/09/09/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/016/016-1677412713.pdf,false
+EKITI,IJERO,ILORO / IJUNRIN WARD 'B',AAFIN - TOWN HALL IJUNRIN,13/09/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/010/010-1677411540.pdf,false
+EKITI,IJERO,ILORO / IJUNRIN WARD 'B',OKO ORE - IN FRONT OF SUNDAY ADEBAYO'S HOUSE,13/09/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/011/011-1677408950.pdf,false
+EKITI,IJERO,ILORO / IJUNRIN WARD 'B',SAJIKU  I - IN FRONT  HOUSE,13/09/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/009/009-1677408311.pdf,false
+EKITI,IJERO,ILORO / IJUNRIN WARD 'B',SAJUKU - IN FRONT OF EFI'S HOUSE,13/09/09/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/015/015-1677407717.pdf,false
+EKITI,IJERO,ILORO / IJUNRIN WARD 'B',ST. MARY'S PRIMARY SCHOOL AREA - ST. MARY PRIMARY SCHOOL  I,13/09/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/004/004-1677380726.pdf,false
+EKITI,IJERO,ILORO / IJUNRIN WARD 'B',OGUNDELE'S COMPOUND - IN FRONT OF OGUNDELE'S HOUSE,13/09/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/002/002-1677379593.pdf,false
+EKITI,IJERO,ILORO / IJUNRIN WARD 'B',OKO ERERIN - ERERIN PREMISES,13/09/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/007/007-1677378554.pdf,false
+EKITI,IJERO,ILORO / IJUNRIN WARD 'B',ST. MARY'S PRIMARY SCHOOL AREA - ST. MARY PRIMARY SCHOOL  II,13/09/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/005/005-1677376959.pdf,false
+EKITI,IJERO,ILORO / IJUNRIN WARD 'B',TEMIDIRE - CATHOLIC PRIMARY SCHOOL COMPOUND  II,13/09/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/013/013-1677374007.pdf,false

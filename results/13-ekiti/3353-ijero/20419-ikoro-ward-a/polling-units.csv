@@ -1,20 +1,20 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,IJERO,,ATIBA - NEAR OWENA BANK,13/09/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20419/pu/37920/37920-1677521325.pdf,false
-EKITI,IJERO,,OMOLEYE - IN FRONT OF SULE'S HOUSE,13/09/10/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20419/pu/37933/37933-1677520694.pdf,false
-EKITI,IJERO,,AAFIN - PALACE AREA,13/09/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20419/pu/37925/37925-1677519887.pdf,false
-EKITI,IJERO,,OGBONI - OGBONI CAMP,13/09/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20419/pu/37927/37927-1677508758.pdf,false
-EKITI,IJERO,,OGBON TITUN - A. U. D. PRIMARY SCHOOL,13/09/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20419/pu/37923/37923-1677508469.pdf,false
-EKITI,IJERO,,ISARE - ABA JOACHIM,13/09/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20419/pu/37928/37928-1677472935.pdf,false
-EKITI,IJERO,,ILORO AREA - THE APOSTOLIC PRIMARY SCHOOL,13/09/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20419/pu/37924/37924-1677470770.pdf,false
-EKITI,IJERO,,OPEN SPACE AT AROWOLO’S HOUSE,13/09/10/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20419/pu/125730/125730-1677470292.pdf,false
-EKITI,IJERO,,KAJOLA FARM  -  KAJOLA,13/09/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20419/pu/37932/37932-1677468677.pdf,false
-EKITI,IJERO,,IWARO I AND II - ST. MICHEAL PRIMARY SCHOOL,13/09/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20419/pu/37921/37921-1677466566.pdf,false
-EKITI,IJERO,,AAFIN - NEAR PALACE AREA,13/09/10/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20419/pu/37934/37934-1677466057.pdf,false
-EKITI,IJERO,,OLUDE / GBADAMOSI - OLODE CAMP,13/09/10/012,https://docs.inecelectionresults.net/elections/1292/1677449080-37929.pdf,false
-EKITI,IJERO,,SOSO FARM - BAPTIST CHURCH,13/09/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/10/pu/013/013-1677423688.pdf,false
-EKITI,IJERO,,TEMIDIRE - ST. LUKE'S PRIMARY S CHOOL,13/09/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/10/pu/002/002-1677421205.pdf,false
-EKITI,IJERO,,ABA PETESI - BAPTIST ARAPATE,13/09/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/10/pu/009/009-1677420565.pdf,false
-EKITI,IJERO,,IGBO EKU - IGBO EKU,13/09/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/10/pu/005/005-1677418502.pdf,false
-EKITI,IJERO,,SOSO FARM - NEAR BAPTIST FARM,13/09/10/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/10/pu/018/018-1677417888.pdf,false
-EKITI,IJERO,,SAKORO / IKOSI - BOLORUNDO COMMUNITY PRIMARY SCHOOL,13/09/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/10/pu/014/014-1677417069.pdf,false
-EKITI,IJERO,,OKEMOGBO I AND II COLUMBA'S R. C. M.,13/09/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/10/pu/001/001-1677413361.pdf,false
+EKITI,IJERO,IKORO WARD 'A',ATIBA - NEAR OWENA BANK,13/09/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20419/pu/37920/37920-1677521325.pdf,false
+EKITI,IJERO,IKORO WARD 'A',OMOLEYE - IN FRONT OF SULE'S HOUSE,13/09/10/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20419/pu/37933/37933-1677520694.pdf,false
+EKITI,IJERO,IKORO WARD 'A',AAFIN - PALACE AREA,13/09/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20419/pu/37925/37925-1677519887.pdf,false
+EKITI,IJERO,IKORO WARD 'A',OGBONI - OGBONI CAMP,13/09/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20419/pu/37927/37927-1677508758.pdf,false
+EKITI,IJERO,IKORO WARD 'A',OGBON TITUN - A. U. D. PRIMARY SCHOOL,13/09/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20419/pu/37923/37923-1677508469.pdf,false
+EKITI,IJERO,IKORO WARD 'A',ISARE - ABA JOACHIM,13/09/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20419/pu/37928/37928-1677472935.pdf,false
+EKITI,IJERO,IKORO WARD 'A',ILORO AREA - THE APOSTOLIC PRIMARY SCHOOL,13/09/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20419/pu/37924/37924-1677470770.pdf,false
+EKITI,IJERO,IKORO WARD 'A',OPEN SPACE AT AROWOLO’S HOUSE,13/09/10/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20419/pu/125730/125730-1677470292.pdf,false
+EKITI,IJERO,IKORO WARD 'A',KAJOLA FARM  -  KAJOLA,13/09/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20419/pu/37932/37932-1677468677.pdf,false
+EKITI,IJERO,IKORO WARD 'A',IWARO I AND II - ST. MICHEAL PRIMARY SCHOOL,13/09/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20419/pu/37921/37921-1677466566.pdf,false
+EKITI,IJERO,IKORO WARD 'A',AAFIN - NEAR PALACE AREA,13/09/10/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3353/ward/20419/pu/37934/37934-1677466057.pdf,false
+EKITI,IJERO,IKORO WARD 'A',OLUDE / GBADAMOSI - OLODE CAMP,13/09/10/012,https://docs.inecelectionresults.net/elections/1292/1677449080-37929.pdf,false
+EKITI,IJERO,IKORO WARD 'A',SOSO FARM - BAPTIST CHURCH,13/09/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/10/pu/013/013-1677423688.pdf,false
+EKITI,IJERO,IKORO WARD 'A',TEMIDIRE - ST. LUKE'S PRIMARY S CHOOL,13/09/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/10/pu/002/002-1677421205.pdf,false
+EKITI,IJERO,IKORO WARD 'A',ABA PETESI - BAPTIST ARAPATE,13/09/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/10/pu/009/009-1677420565.pdf,false
+EKITI,IJERO,IKORO WARD 'A',IGBO EKU - IGBO EKU,13/09/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/10/pu/005/005-1677418502.pdf,false
+EKITI,IJERO,IKORO WARD 'A',SOSO FARM - NEAR BAPTIST FARM,13/09/10/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/10/pu/018/018-1677417888.pdf,false
+EKITI,IJERO,IKORO WARD 'A',SAKORO / IKOSI - BOLORUNDO COMMUNITY PRIMARY SCHOOL,13/09/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/10/pu/014/014-1677417069.pdf,false
+EKITI,IJERO,IKORO WARD 'A',OKEMOGBO I AND II COLUMBA'S R. C. M.,13/09/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/10/pu/001/001-1677413361.pdf,false

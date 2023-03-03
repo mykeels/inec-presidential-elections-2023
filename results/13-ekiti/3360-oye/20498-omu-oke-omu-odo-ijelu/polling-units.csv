@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,OYE,,ST ANDREW'S PRIMARY SCHOOL - IFON / IJISUN / INISA I,13/16/12/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3360/ward/20498/pu/38887/38887-1677507464.pdf,false
-EKITI,OYE,,AT IDI ERINRIN - OKE AYE   II,13/16/12/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/12/pu/005/005-1677419327.pdf,false
-EKITI,OYE,,AT OTUN IJELU - OTUN IJELU I,13/16/12/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/12/pu/003/003-1677418654.pdf,false
-EKITI,OYE,,MATERNITY OMU ODO - IFON / IJISUN / INISA   II,13/16/12/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/12/pu/012/012-1677418517.pdf,false
-EKITI,OYE,,IJELU PRIMARY SCHOOL - OKE - AYE I,13/16/12/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/12/pu/002/002-1677411708.pdf,false
-EKITI,OYE,,AT ITA EKUN - ITA OTUN IJELU  II,13/16/12/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/12/pu/006/006-1677416574.pdf,false
-EKITI,OYE,,IJELU PRIMARY SCHOOL - ILEYIN,13/16/12/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/12/pu/001/001-1677416059.pdf,false
-EKITI,OYE,,AT IFON - IFON,13/16/12/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/12/pu/011/011-1677415712.pdf,false
-EKITI,OYE,,AT INISA IJISUN  - INISA / IJISUN,13/16/12/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/12/pu/007/007-1677413639.pdf,false
-EKITI,OYE,,ST THERESA'S PRIMARY SCHOOL - IMILA / AYINGBO,13/16/12/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/12/pu/008/008-1677413195.pdf,false
-EKITI,OYE,,AT OJUDE - IRO,13/16/12/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/12/pu/004/004-1677412781.pdf,false
-EKITI,OYE,,AT BALOGUN - AGBE / ELE / BALOGUN,13/16/12/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/12/pu/010/010-1677411007.pdf,false
+EKITI,OYE,OMU OKE / OMU ODO / IJELU,ST ANDREW'S PRIMARY SCHOOL - IFON / IJISUN / INISA I,13/16/12/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3360/ward/20498/pu/38887/38887-1677507464.pdf,false
+EKITI,OYE,OMU OKE / OMU ODO / IJELU,AT IDI ERINRIN - OKE AYE   II,13/16/12/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/12/pu/005/005-1677419327.pdf,false
+EKITI,OYE,OMU OKE / OMU ODO / IJELU,AT OTUN IJELU - OTUN IJELU I,13/16/12/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/12/pu/003/003-1677418654.pdf,false
+EKITI,OYE,OMU OKE / OMU ODO / IJELU,MATERNITY OMU ODO - IFON / IJISUN / INISA   II,13/16/12/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/12/pu/012/012-1677418517.pdf,false
+EKITI,OYE,OMU OKE / OMU ODO / IJELU,IJELU PRIMARY SCHOOL - OKE - AYE I,13/16/12/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/12/pu/002/002-1677411708.pdf,false
+EKITI,OYE,OMU OKE / OMU ODO / IJELU,AT ITA EKUN - ITA OTUN IJELU  II,13/16/12/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/12/pu/006/006-1677416574.pdf,false
+EKITI,OYE,OMU OKE / OMU ODO / IJELU,IJELU PRIMARY SCHOOL - ILEYIN,13/16/12/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/12/pu/001/001-1677416059.pdf,false
+EKITI,OYE,OMU OKE / OMU ODO / IJELU,AT IFON - IFON,13/16/12/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/12/pu/011/011-1677415712.pdf,false
+EKITI,OYE,OMU OKE / OMU ODO / IJELU,AT INISA IJISUN  - INISA / IJISUN,13/16/12/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/12/pu/007/007-1677413639.pdf,false
+EKITI,OYE,OMU OKE / OMU ODO / IJELU,ST THERESA'S PRIMARY SCHOOL - IMILA / AYINGBO,13/16/12/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/12/pu/008/008-1677413195.pdf,false
+EKITI,OYE,OMU OKE / OMU ODO / IJELU,AT OJUDE - IRO,13/16/12/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/12/pu/004/004-1677412781.pdf,false
+EKITI,OYE,OMU OKE / OMU ODO / IJELU,AT BALOGUN - AGBE / ELE / BALOGUN,13/16/12/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/12/pu/010/010-1677411007.pdf,false

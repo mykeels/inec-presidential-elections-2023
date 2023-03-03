@@ -1,11 +1,11 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,IKERE,,OLOWU HALL - OLOWU,13/10/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/08/pu/005/005-1677407248.pdf,false
-EKITI,IKERE,,IBARIBA HALL - ILAPETU / IBARIBA,13/10/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/08/pu/001/001-1677405464.pdf,false
-EKITI,IKERE,,ST PETER'S PRIMARY SCHOOL - IJAO,13/10/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/08/pu/008/008-1677404369.pdf,false
-EKITI,IKERE,,EJIMO HALL - EJIMO,13/10/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/08/pu/004/004-1677403909.pdf,false
-EKITI,IKERE,,OISA OLORUNFEMI - OISA OLORUNFEMI,13/10/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/08/pu/009/009-1677399776.pdf,false
-EKITI,IKERE,,OPEN SPACE AT OKE IGBALA JUNCTION,13/10/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/08/pu/010/010-1677398832.pdf,false
-EKITI,IKERE,,AJOLEHINOGUN HALL - AJOLEHINOGUN,13/10/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/08/pu/006/006-1677398183.pdf,false
-EKITI,IKERE,,BAPTIST PRIMARY SCHOOL - IJAO HALL,13/10/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/08/pu/007/007-1677397469.pdf,false
-EKITI,IKERE,,OKITIKO HALL - OKITIKO,13/10/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/08/pu/002/002-1677396614.pdf,false
-EKITI,IKERE,,OSOLO HALL - ILAPETU,13/10/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/08/pu/003/003-1677396237.pdf,false
+EKITI,IKERE,ILAPETU / IJAO,OLOWU HALL - OLOWU,13/10/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/08/pu/005/005-1677407248.pdf,false
+EKITI,IKERE,ILAPETU / IJAO,IBARIBA HALL - ILAPETU / IBARIBA,13/10/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/08/pu/001/001-1677405464.pdf,false
+EKITI,IKERE,ILAPETU / IJAO,ST PETER'S PRIMARY SCHOOL - IJAO,13/10/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/08/pu/008/008-1677404369.pdf,false
+EKITI,IKERE,ILAPETU / IJAO,EJIMO HALL - EJIMO,13/10/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/08/pu/004/004-1677403909.pdf,false
+EKITI,IKERE,ILAPETU / IJAO,OISA OLORUNFEMI - OISA OLORUNFEMI,13/10/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/08/pu/009/009-1677399776.pdf,false
+EKITI,IKERE,ILAPETU / IJAO,OPEN SPACE AT OKE IGBALA JUNCTION,13/10/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/08/pu/010/010-1677398832.pdf,false
+EKITI,IKERE,ILAPETU / IJAO,AJOLEHINOGUN HALL - AJOLEHINOGUN,13/10/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/08/pu/006/006-1677398183.pdf,false
+EKITI,IKERE,ILAPETU / IJAO,BAPTIST PRIMARY SCHOOL - IJAO HALL,13/10/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/08/pu/007/007-1677397469.pdf,false
+EKITI,IKERE,ILAPETU / IJAO,OKITIKO HALL - OKITIKO,13/10/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/08/pu/002/002-1677396614.pdf,false
+EKITI,IKERE,ILAPETU / IJAO,OSOLO HALL - ILAPETU,13/10/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/08/pu/003/003-1677396237.pdf,false

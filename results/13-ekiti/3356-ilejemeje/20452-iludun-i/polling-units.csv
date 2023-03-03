@@ -1,10 +1,10 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,ILEJEMEJE,,"ODOFIN AREA , IN FRONT OF ADEOSUN'S HOUSE",13/12/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/08/pu/001/001-1677422326.pdf,false
-EKITI,ILEJEMEJE,,"ARAROMI , IN FRONT OF J. K.'S",13/12/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/08/pu/003/003-1677416513.pdf,false
-EKITI,ILEJEMEJE,,"OKE ILUDUN  I  , ST. DAVID'S SCHOOL",13/12/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/08/pu/006/006-1677396911.pdf,false
-EKITI,ILEJEMEJE,,"OKE ILUDUN  II  , ST. DAVID'S SCHOOL",13/12/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/08/pu/007/007-1677396507.pdf,false
-EKITI,ILEJEMEJE,,"IWOROKO , IN FRONT OF TOBA'S HOUSE",13/12/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/08/pu/008/008-1677396046.pdf,false
-EKITI,ILEJEMEJE,,"IJARO , IN FRONT OF OGUNLEYE'S HOUSE",13/12/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/08/pu/004/004-1677394729.pdf,false
-EKITI,ILEJEMEJE,,"ILISEMO , IN FRONT OF CHIEF OBANLA'S HOUSE",13/12/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/08/pu/009/009-1677389551.pdf,false
-EKITI,ILEJEMEJE,,"EPE, IN FRONT OF CHIEF OJO'S HOUSE",13/12/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/08/pu/002/002-1677387806.pdf,false
-EKITI,ILEJEMEJE,,"OLORUNSOGO , IN FRONT OF ALUKO'S HOUSE",13/12/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/08/pu/005/005-1677373349.pdf,false
+EKITI,ILEJEMEJE,ILUDUN I,"ODOFIN AREA , IN FRONT OF ADEOSUN'S HOUSE",13/12/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/08/pu/001/001-1677422326.pdf,false
+EKITI,ILEJEMEJE,ILUDUN I,"ARAROMI , IN FRONT OF J. K.'S",13/12/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/08/pu/003/003-1677416513.pdf,false
+EKITI,ILEJEMEJE,ILUDUN I,"OKE ILUDUN  I  , ST. DAVID'S SCHOOL",13/12/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/08/pu/006/006-1677396911.pdf,false
+EKITI,ILEJEMEJE,ILUDUN I,"OKE ILUDUN  II  , ST. DAVID'S SCHOOL",13/12/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/08/pu/007/007-1677396507.pdf,false
+EKITI,ILEJEMEJE,ILUDUN I,"IWOROKO , IN FRONT OF TOBA'S HOUSE",13/12/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/08/pu/008/008-1677396046.pdf,false
+EKITI,ILEJEMEJE,ILUDUN I,"IJARO , IN FRONT OF OGUNLEYE'S HOUSE",13/12/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/08/pu/004/004-1677394729.pdf,false
+EKITI,ILEJEMEJE,ILUDUN I,"ILISEMO , IN FRONT OF CHIEF OBANLA'S HOUSE",13/12/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/08/pu/009/009-1677389551.pdf,false
+EKITI,ILEJEMEJE,ILUDUN I,"EPE, IN FRONT OF CHIEF OJO'S HOUSE",13/12/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/08/pu/002/002-1677387806.pdf,false
+EKITI,ILEJEMEJE,ILUDUN I,"OLORUNSOGO , IN FRONT OF ALUKO'S HOUSE",13/12/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/08/pu/005/005-1677373349.pdf,false

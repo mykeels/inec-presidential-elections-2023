@@ -1,16 +1,16 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,OYE,,AT UJE - UJE,13/16/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3360/ward/20490/pu/38765/38765-1677504896.pdf,false
-EKITI,OYE,,EMMANUEL SCHOOL - ISOLO,13/16/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/005/005-1677407713.pdf,false
-EKITI,OYE,,"AT IKORO, IKORO",13/16/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/011/011-1677407016.pdf,false
-EKITI,OYE,,AT ESIN - ESIN,13/16/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/004/004-1677406940.pdf,false
-EKITI,OYE,,AT CATHOLIC CHURCH - ILORO,13/16/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/007/007-1677406675.pdf,false
-EKITI,OYE,,COURT HALL - OFFA,13/16/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/002/002-1677406398.pdf,false
-EKITI,OYE,,UNDER MANGO TREE - OKE EGBE,13/16/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/009/009-1677406247.pdf,false
-EKITI,OYE,,UNDER ODAN TREE - IFEDORE,13/16/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/003/003-1677406066.pdf,false
-EKITI,OYE,,AT ODO AYO - AGO IGBIRA / IWORU,13/16/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/014/014-1677405304.pdf,false
-EKITI,OYE,,AT NEW IKOKO - IBAEKAN / ILOKO,13/16/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/006/006-1677404691.pdf,false
-EKITI,OYE,,AT IJAGUN - IJAGUN,13/16/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/013/013-1677404021.pdf,false
-EKITI,OYE,,AT IPELE - IPELE,13/16/04/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/015/015-1677403325.pdf,false
-EKITI,OYE,,AT ILOMO - ILOMO,13/16/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/008/008-1677401566.pdf,false
-EKITI,OYE,,AT ATIBA - AAFIN,13/16/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/001/001-1677399931.pdf,false
-EKITI,OYE,,AT ILAWE - ILAWE,13/16/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/012/012-1677398873.pdf,false
+EKITI,OYE,AYEGBAJU,AT UJE - UJE,13/16/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3360/ward/20490/pu/38765/38765-1677504896.pdf,false
+EKITI,OYE,AYEGBAJU,EMMANUEL SCHOOL - ISOLO,13/16/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/005/005-1677407713.pdf,false
+EKITI,OYE,AYEGBAJU,"AT IKORO, IKORO",13/16/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/011/011-1677407016.pdf,false
+EKITI,OYE,AYEGBAJU,AT ESIN - ESIN,13/16/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/004/004-1677406940.pdf,false
+EKITI,OYE,AYEGBAJU,AT CATHOLIC CHURCH - ILORO,13/16/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/007/007-1677406675.pdf,false
+EKITI,OYE,AYEGBAJU,COURT HALL - OFFA,13/16/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/002/002-1677406398.pdf,false
+EKITI,OYE,AYEGBAJU,UNDER MANGO TREE - OKE EGBE,13/16/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/009/009-1677406247.pdf,false
+EKITI,OYE,AYEGBAJU,UNDER ODAN TREE - IFEDORE,13/16/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/003/003-1677406066.pdf,false
+EKITI,OYE,AYEGBAJU,AT ODO AYO - AGO IGBIRA / IWORU,13/16/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/014/014-1677405304.pdf,false
+EKITI,OYE,AYEGBAJU,AT NEW IKOKO - IBAEKAN / ILOKO,13/16/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/006/006-1677404691.pdf,false
+EKITI,OYE,AYEGBAJU,AT IJAGUN - IJAGUN,13/16/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/013/013-1677404021.pdf,false
+EKITI,OYE,AYEGBAJU,AT IPELE - IPELE,13/16/04/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/015/015-1677403325.pdf,false
+EKITI,OYE,AYEGBAJU,AT ILOMO - ILOMO,13/16/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/008/008-1677401566.pdf,false
+EKITI,OYE,AYEGBAJU,AT ATIBA - AAFIN,13/16/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/001/001-1677399931.pdf,false
+EKITI,OYE,AYEGBAJU,AT ILAWE - ILAWE,13/16/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/012/012-1677398873.pdf,false

@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,EKITI SOUTH WEST,,"IGUNMRIN COMMUNITY  / NEAR DISPENSARY , IGUNRIN",13/05/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/006/006-1677405541.pdf,false
-EKITI,EKITI SOUTH WEST,,ALATORO / OKEBEDO / NEAR ALATORO,13/05/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/004/004-1677404787.pdf,false
-EKITI,EKITI SOUTH WEST,,"ADO ROAD  , AT ST. JOHN'S SCHOOL",13/05/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/002/002-1677404053.pdf,false
-EKITI,EKITI SOUTH WEST,,CHIEF AGBAJELOLA / OMIODO / AT ST. JOHN'S SCHOOL,13/05/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/003/003-1677403502.pdf,false
-EKITI,EKITI SOUTH WEST,,"OKELOYE / OKEBEDO  , AT  ST. JOHN'S SCHOOL",13/05/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/008/008-1677402241.pdf,false
-EKITI,EKITI SOUTH WEST,,"ST. JOHN'S ROAD , AT ST. JOHN'S SCHOOL",13/05/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/001/001-1677401333.pdf,false
-EKITI,EKITI SOUTH WEST,,EKUASA  /   NEAR EKUASA,13/05/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/005/005-1677400575.pdf,false
-EKITI,EKITI SOUTH WEST,,"IDIAGBA / IKEREJE / OLORO , NEAR IKEREJE",13/05/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/009/009-1677400315.pdf,false
-EKITI,EKITI SOUTH WEST,,"MOGUN / IBIYEMI  ,  NEAR IBIYEMI",13/05/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/010/010-1677398563.pdf,false
-EKITI,EKITI SOUTH WEST,,"ODOFIN  , NEAR OISA  OKE'S HOUSE",13/05/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/011/011-1677397790.pdf,false
-EKITI,EKITI SOUTH WEST,,"GIRIGBOMOLA  ,  NEAR GIRIGBOMOLA",13/05/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/007/007-1677395432.pdf,false
+EKITI,EKITI SOUTH WEST,ILAWE   III,"IGUNMRIN COMMUNITY  / NEAR DISPENSARY , IGUNRIN",13/05/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/006/006-1677405541.pdf,false
+EKITI,EKITI SOUTH WEST,ILAWE   III,ALATORO / OKEBEDO / NEAR ALATORO,13/05/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/004/004-1677404787.pdf,false
+EKITI,EKITI SOUTH WEST,ILAWE   III,"ADO ROAD  , AT ST. JOHN'S SCHOOL",13/05/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/002/002-1677404053.pdf,false
+EKITI,EKITI SOUTH WEST,ILAWE   III,CHIEF AGBAJELOLA / OMIODO / AT ST. JOHN'S SCHOOL,13/05/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/003/003-1677403502.pdf,false
+EKITI,EKITI SOUTH WEST,ILAWE   III,"OKELOYE / OKEBEDO  , AT  ST. JOHN'S SCHOOL",13/05/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/008/008-1677402241.pdf,false
+EKITI,EKITI SOUTH WEST,ILAWE   III,"ST. JOHN'S ROAD , AT ST. JOHN'S SCHOOL",13/05/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/001/001-1677401333.pdf,false
+EKITI,EKITI SOUTH WEST,ILAWE   III,EKUASA  /   NEAR EKUASA,13/05/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/005/005-1677400575.pdf,false
+EKITI,EKITI SOUTH WEST,ILAWE   III,"IDIAGBA / IKEREJE / OLORO , NEAR IKEREJE",13/05/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/009/009-1677400315.pdf,false
+EKITI,EKITI SOUTH WEST,ILAWE   III,"MOGUN / IBIYEMI  ,  NEAR IBIYEMI",13/05/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/010/010-1677398563.pdf,false
+EKITI,EKITI SOUTH WEST,ILAWE   III,"ODOFIN  , NEAR OISA  OKE'S HOUSE",13/05/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/011/011-1677397790.pdf,false
+EKITI,EKITI SOUTH WEST,ILAWE   III,"GIRIGBOMOLA  ,  NEAR GIRIGBOMOLA",13/05/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/03/pu/007/007-1677395432.pdf,false

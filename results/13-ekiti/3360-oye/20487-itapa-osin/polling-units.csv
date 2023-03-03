@@ -1,20 +1,20 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,OYE,,"AT ISAO , ISAO",13/16/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/010/010-1677409212.pdf,false
-EKITI,OYE,,"ISADE  II , OPEN SPACE AT ILADO",13/16/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/005/005-1677408481.pdf,false
-EKITI,OYE,,"IJISUN , OKELIJU / IJISUN",13/16/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/008/008-1677408364.pdf,false
-EKITI,OYE,,"IMOGUN , AT COURT HALL",13/16/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/001/001-1677408296.pdf,false
-EKITI,OYE,,"AT EGBETUN , EGBETUN / IMILA",13/16/01/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/014/014-1677407290.pdf,false
-EKITI,OYE,,"OPEN SPACE AT ILARO , ILARO",13/16/01/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/018/018-1677406944.pdf,false
-EKITI,OYE,,"AT ILORO , ILORO / ILOKOLA",13/16/01/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/016/016-1677406074.pdf,false
-EKITI,OYE,,"ITA ODE OMO, AT ODE OMO",13/16/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/002/002-1677405500.pdf,false
-EKITI,OYE,,"OPEN SPACE AT EGENA , EGENA",13/16/01/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/017/017-1677405291.pdf,false
-EKITI,OYE,,"OPEN SPACE AT IDOFIN , UMAWUN",13/16/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/011/011-1677404245.pdf,false
-EKITI,OYE,,"ISADE  I , OPEN SPACE AT ISADE",13/16/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/004/004-1677404012.pdf,false
-EKITI,OYE,,"OPEN SPACE AT ILAWE , ILAWE",13/16/01/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/019/019-1677403283.pdf,false
-EKITI,OYE,,"AT EGBE , EGBE / IDOGUNJA",13/16/01/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/015/015-1677402689.pdf,false
-EKITI,OYE,,"OKELIJU , OKELIJU / IJISUN",13/16/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/007/007-1677402059.pdf,false
-EKITI,OYE,,"OKE ONIYO , COMM. PRY SCH.",13/16/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/003/003-1677401346.pdf,false
-EKITI,OYE,,"METHODIST PRY SCH. , AFIN /ISALU",13/16/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/009/009-1677399755.pdf,false
-EKITI,OYE,,"ODE OMO II , OPEN SPACE AT ILOKA",13/16/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/006/006-1677398756.pdf,false
-EKITI,OYE,,"AT OROKE , OROKE / OWA",13/16/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/013/013-1677397604.pdf,false
-EKITI,OYE,,"AT IDOFIN , IDOFIN",13/16/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/012/012-1677393278.pdf,false
+EKITI,OYE,ITAPA / OSIN,"AT ISAO , ISAO",13/16/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/010/010-1677409212.pdf,false
+EKITI,OYE,ITAPA / OSIN,"ISADE  II , OPEN SPACE AT ILADO",13/16/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/005/005-1677408481.pdf,false
+EKITI,OYE,ITAPA / OSIN,"IJISUN , OKELIJU / IJISUN",13/16/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/008/008-1677408364.pdf,false
+EKITI,OYE,ITAPA / OSIN,"IMOGUN , AT COURT HALL",13/16/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/001/001-1677408296.pdf,false
+EKITI,OYE,ITAPA / OSIN,"AT EGBETUN , EGBETUN / IMILA",13/16/01/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/014/014-1677407290.pdf,false
+EKITI,OYE,ITAPA / OSIN,"OPEN SPACE AT ILARO , ILARO",13/16/01/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/018/018-1677406944.pdf,false
+EKITI,OYE,ITAPA / OSIN,"AT ILORO , ILORO / ILOKOLA",13/16/01/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/016/016-1677406074.pdf,false
+EKITI,OYE,ITAPA / OSIN,"ITA ODE OMO, AT ODE OMO",13/16/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/002/002-1677405500.pdf,false
+EKITI,OYE,ITAPA / OSIN,"OPEN SPACE AT EGENA , EGENA",13/16/01/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/017/017-1677405291.pdf,false
+EKITI,OYE,ITAPA / OSIN,"OPEN SPACE AT IDOFIN , UMAWUN",13/16/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/011/011-1677404245.pdf,false
+EKITI,OYE,ITAPA / OSIN,"ISADE  I , OPEN SPACE AT ISADE",13/16/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/004/004-1677404012.pdf,false
+EKITI,OYE,ITAPA / OSIN,"OPEN SPACE AT ILAWE , ILAWE",13/16/01/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/019/019-1677403283.pdf,false
+EKITI,OYE,ITAPA / OSIN,"AT EGBE , EGBE / IDOGUNJA",13/16/01/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/015/015-1677402689.pdf,false
+EKITI,OYE,ITAPA / OSIN,"OKELIJU , OKELIJU / IJISUN",13/16/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/007/007-1677402059.pdf,false
+EKITI,OYE,ITAPA / OSIN,"OKE ONIYO , COMM. PRY SCH.",13/16/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/003/003-1677401346.pdf,false
+EKITI,OYE,ITAPA / OSIN,"METHODIST PRY SCH. , AFIN /ISALU",13/16/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/009/009-1677399755.pdf,false
+EKITI,OYE,ITAPA / OSIN,"ODE OMO II , OPEN SPACE AT ILOKA",13/16/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/006/006-1677398756.pdf,false
+EKITI,OYE,ITAPA / OSIN,"AT OROKE , OROKE / OWA",13/16/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/013/013-1677397604.pdf,false
+EKITI,OYE,ITAPA / OSIN,"AT IDOFIN , IDOFIN",13/16/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/012/012-1677393278.pdf,false

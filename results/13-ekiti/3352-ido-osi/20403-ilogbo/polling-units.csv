@@ -1,18 +1,18 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,IDO / OSI,,ILE ELEPA / OLUA NEAR AJAYI'S HOUSE,13/08/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3352/ward/20403/pu/37735/37735-1677501477.pdf,false
-EKITI,IDO / OSI,,"USI / IDO ROAD, NEAR NEW BANK",13/08/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3352/ward/20403/pu/37747/37747-1677501122.pdf,false
-EKITI,IDO / OSI,,"MARKET ROAD , AREA MARKET STALL",13/08/05/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3352/ward/20403/pu/37749/37749-1677500760.pdf,false
-EKITI,IDO / OSI,,"ILE OLOFIN , OLD ANGLICAN CHURCH",13/08/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3352/ward/20403/pu/37743/37743-1677500247.pdf,false
-EKITI,IDO / OSI,,ODODE ILE EYEBUNTUN II,13/08/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/005/005-1677393960.pdf,false
-EKITI,IDO / OSI,,"ENUNRIN , NEAR ENUNRIN'S HOUSE",13/08/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/006/006-1677412243.pdf,false
-EKITI,IDO / OSI,,"OGUNIRE / IDOFIN ABASA , NEAR CHIEF LEWA'S HOUSE",13/08/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/001/001-1677402643.pdf,false
-EKITI,IDO / OSI,,"TEMIDIRE , BETTER LIFE",13/08/05/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/017/017-1677397787.pdf,false
-EKITI,IDO / OSI,,"SURULERE , A. U. D. , PRIMARY SACHOOL",13/08/05/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/015/015-1677396953.pdf,false
-EKITI,IDO / OSI,,"ETI OMI AREA , ST JOHN'S ANGLICAN SCHOOL",13/08/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/008/008-1677392206.pdf,false
-EKITI,IDO / OSI,,"EYIGBO , C. A. C. PRIMARY SCHOOL",13/08/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/012/012-1677390083.pdf,false
-EKITI,IDO / OSI,,ODODE ILE EYEBUNTUN I,13/08/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/004/004-1677389922.pdf,false
-EKITI,IDO / OSI,,"IMUTA I , II, AND III , NEAR BABATOPE'S HOUSE",13/08/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/011/011-1677376325.pdf,false
-EKITI,IDO / OSI,,"AAFIN AREA , TOWN HALL",13/08/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/013/013-1677374750.pdf,false
-EKITI,IDO / OSI,,"OKE OJA , NEAR , ILE ABALUARE",13/08/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/009/009-1677374298.pdf,false
-EKITI,IDO / OSI,,"OKERE / ESIMO / OSOLO , ST. MARY'S CATHOLIC SCHOOL",13/08/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/007/007-1677373686.pdf,false
-EKITI,IDO / OSI,,OGBEGUN ALAO NEAR MR. OGUN'S HOUSE,13/08/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/003/003-1677373683.pdf,false
+EKITI,IDO / OSI,ILOGBO,ILE ELEPA / OLUA NEAR AJAYI'S HOUSE,13/08/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3352/ward/20403/pu/37735/37735-1677501477.pdf,false
+EKITI,IDO / OSI,ILOGBO,"USI / IDO ROAD, NEAR NEW BANK",13/08/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3352/ward/20403/pu/37747/37747-1677501122.pdf,false
+EKITI,IDO / OSI,ILOGBO,"MARKET ROAD , AREA MARKET STALL",13/08/05/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3352/ward/20403/pu/37749/37749-1677500760.pdf,false
+EKITI,IDO / OSI,ILOGBO,"ILE OLOFIN , OLD ANGLICAN CHURCH",13/08/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3352/ward/20403/pu/37743/37743-1677500247.pdf,false
+EKITI,IDO / OSI,ILOGBO,ODODE ILE EYEBUNTUN II,13/08/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/005/005-1677393960.pdf,false
+EKITI,IDO / OSI,ILOGBO,"ENUNRIN , NEAR ENUNRIN'S HOUSE",13/08/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/006/006-1677412243.pdf,false
+EKITI,IDO / OSI,ILOGBO,"OGUNIRE / IDOFIN ABASA , NEAR CHIEF LEWA'S HOUSE",13/08/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/001/001-1677402643.pdf,false
+EKITI,IDO / OSI,ILOGBO,"TEMIDIRE , BETTER LIFE",13/08/05/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/017/017-1677397787.pdf,false
+EKITI,IDO / OSI,ILOGBO,"SURULERE , A. U. D. , PRIMARY SACHOOL",13/08/05/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/015/015-1677396953.pdf,false
+EKITI,IDO / OSI,ILOGBO,"ETI OMI AREA , ST JOHN'S ANGLICAN SCHOOL",13/08/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/008/008-1677392206.pdf,false
+EKITI,IDO / OSI,ILOGBO,"EYIGBO , C. A. C. PRIMARY SCHOOL",13/08/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/012/012-1677390083.pdf,false
+EKITI,IDO / OSI,ILOGBO,ODODE ILE EYEBUNTUN I,13/08/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/004/004-1677389922.pdf,false
+EKITI,IDO / OSI,ILOGBO,"IMUTA I , II, AND III , NEAR BABATOPE'S HOUSE",13/08/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/011/011-1677376325.pdf,false
+EKITI,IDO / OSI,ILOGBO,"AAFIN AREA , TOWN HALL",13/08/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/013/013-1677374750.pdf,false
+EKITI,IDO / OSI,ILOGBO,"OKE OJA , NEAR , ILE ABALUARE",13/08/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/009/009-1677374298.pdf,false
+EKITI,IDO / OSI,ILOGBO,"OKERE / ESIMO / OSOLO , ST. MARY'S CATHOLIC SCHOOL",13/08/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/007/007-1677373686.pdf,false
+EKITI,IDO / OSI,ILOGBO,OGBEGUN ALAO NEAR MR. OGUN'S HOUSE,13/08/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/003/003-1677373683.pdf,false

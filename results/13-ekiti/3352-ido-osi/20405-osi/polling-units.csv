@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,IDO / OSI,,"R. C. M. PRIMARY SCHOOL, EYINLATA / EJEMUSU",13/08/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3352/ward/20405/pu/37775/37775-1677509919.pdf,false
-EKITI,IDO / OSI,,"METHODIST PRIMARY SCHOOL , IWARO",13/08/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3352/ward/20405/pu/37774/37774-1677509229.pdf,false
-EKITI,IDO / OSI,,"NEAR CHIEF ALAAYE'S HOUSE , ALAAYE'S COMPOUND",13/08/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3352/ward/20405/pu/37778/37778-1677508814.pdf,false
-EKITI,IDO / OSI,,"NEAR EMILA'S HOUSE , IDOFIN",13/08/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3352/ward/20405/pu/37773/37773-1677507297.pdf,false
-EKITI,IDO / OSI,,"NEAR EGBEDI'S HOUSE, INISA  I",13/08/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3352/ward/20405/pu/37770/37770-1677503963.pdf,false
-EKITI,IDO / OSI,,"NEAR ELEJU'S HOUSE , TEMIDAYO",13/08/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3352/ward/20405/pu/37769/37769-1677503667.pdf,false
-EKITI,IDO / OSI,,"NEAR ODESANMII'S HOUSE, INISA  II",13/08/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3352/ward/20405/pu/37771/37771-1677498964.pdf,false
-EKITI,IDO / OSI,,"TOWN HALL , AAFIN I AND II",13/08/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3352/ward/20405/pu/37767/37767-1677497796.pdf,false
-EKITI,IDO / OSI,,NEAR CHIEF OGUNTOYINBO'S HOUSE TEMIDIRE,13/08/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/011/011-1677397183.pdf,false
-EKITI,IDO / OSI,,"NEAR OLUARE'S HOUSE , IJOPA",13/08/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/010/010-1677395182.pdf,false
-EKITI,IDO / OSI,,"IMODAN MARKET , IMODAN",13/08/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/006/006-1677391780.pdf,false
-EKITI,IDO / OSI,,"ST PAUL'S PRIMARY SCHOOL , AAFIN III",13/08/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/002/002-1677389172.pdf,false
+EKITI,IDO / OSI,OSI,"R. C. M. PRIMARY SCHOOL, EYINLATA / EJEMUSU",13/08/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3352/ward/20405/pu/37775/37775-1677509919.pdf,false
+EKITI,IDO / OSI,OSI,"METHODIST PRIMARY SCHOOL , IWARO",13/08/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3352/ward/20405/pu/37774/37774-1677509229.pdf,false
+EKITI,IDO / OSI,OSI,"NEAR CHIEF ALAAYE'S HOUSE , ALAAYE'S COMPOUND",13/08/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3352/ward/20405/pu/37778/37778-1677508814.pdf,false
+EKITI,IDO / OSI,OSI,"NEAR EMILA'S HOUSE , IDOFIN",13/08/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3352/ward/20405/pu/37773/37773-1677507297.pdf,false
+EKITI,IDO / OSI,OSI,"NEAR EGBEDI'S HOUSE, INISA  I",13/08/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3352/ward/20405/pu/37770/37770-1677503963.pdf,false
+EKITI,IDO / OSI,OSI,"NEAR ELEJU'S HOUSE , TEMIDAYO",13/08/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3352/ward/20405/pu/37769/37769-1677503667.pdf,false
+EKITI,IDO / OSI,OSI,"NEAR ODESANMII'S HOUSE, INISA  II",13/08/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3352/ward/20405/pu/37771/37771-1677498964.pdf,false
+EKITI,IDO / OSI,OSI,"TOWN HALL , AAFIN I AND II",13/08/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3352/ward/20405/pu/37767/37767-1677497796.pdf,false
+EKITI,IDO / OSI,OSI,NEAR CHIEF OGUNTOYINBO'S HOUSE TEMIDIRE,13/08/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/011/011-1677397183.pdf,false
+EKITI,IDO / OSI,OSI,"NEAR OLUARE'S HOUSE , IJOPA",13/08/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/010/010-1677395182.pdf,false
+EKITI,IDO / OSI,OSI,"IMODAN MARKET , IMODAN",13/08/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/006/006-1677391780.pdf,false
+EKITI,IDO / OSI,OSI,"ST PAUL'S PRIMARY SCHOOL , AAFIN III",13/08/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/002/002-1677389172.pdf,false

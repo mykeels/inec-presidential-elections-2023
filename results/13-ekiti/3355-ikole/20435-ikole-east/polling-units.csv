@@ -1,15 +1,15 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,IKOLE,,NEAR GENERAL HOSPITAL,13/11/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20435/pu/125772/125772-1677503145.pdf,false
-EKITI,IKOLE,,COMMUNITY PRIMARY SCHOOL II OKE IJEBU,13/11/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20435/pu/125773/125773-1677502186.pdf,false
-EKITI,IKOLE,,OPPOSITE JEHOVAH WITHNESS CHURCH - IGBO ODO,13/11/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20435/pu/38083/38083-1677501112.pdf,false
-EKITI,IKOLE,,IN FRONT OF CHIEF OSAYINDOGAN'S HOUSE - MOLETE,13/11/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20435/pu/38082/38082-1677458002.pdf,false
-EKITI,IKOLE,,IN FRONT OF CHIEF OLOMIDI GBASA'S HOUSE - IGBASA / IKASI/ ILADO,13/11/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20435/pu/38081/38081-1677457571.pdf,false
-EKITI,IKOLE,,IN FRONT OF OBASALU'S HOUSE - TAYE / OKO TANYIN,13/11/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20435/pu/38080/38080-1677457364.pdf,false
-EKITI,IKOLE,,IN FRONT OF IBISCO HOUSE - IGBOROKO,13/11/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20435/pu/38079/38079-1677457106.pdf,false
-EKITI,IKOLE,,IN FRONT OF SAJOWA'S HOUSE - ITOSA / ILESI,13/11/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20435/pu/38078/38078-1677456830.pdf,false
-EKITI,IKOLE,,IN FRONT OF IGBALAJOBI'S HOUSE - IMIRO,13/11/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20435/pu/38077/38077-1677456323.pdf,false
-EKITI,IKOLE,,IN FRONT OF ONISE'S HOUSE - ILISE,13/11/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20435/pu/38076/38076-1677456102.pdf,false
-EKITI,IKOLE,,BESIDE MR. JEGEDE'S HOUSE - ILUGA,13/11/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/03/pu/004/004-1677427911.pdf,false
-EKITI,IKOLE,,OKE IJEBU BUS STOP - OKE IJEBU / ATIBA RAMATU,13/11/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/03/pu/003/003-1677427192.pdf,false
-EKITI,IKOLE,,IKUNRI PREMISES - IKUNRI / GENERAL HOSPITAL/ EGBEOBA,13/11/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/03/pu/002/002-1677426416.pdf,false
-EKITI,IKOLE,,A. U. D. PRIMARY SCHOOL  - IDEMO / IWETIN,13/11/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/03/pu/001/001-1677425684.pdf,false
+EKITI,IKOLE,IKOLE EAST,NEAR GENERAL HOSPITAL,13/11/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20435/pu/125772/125772-1677503145.pdf,false
+EKITI,IKOLE,IKOLE EAST,COMMUNITY PRIMARY SCHOOL II OKE IJEBU,13/11/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20435/pu/125773/125773-1677502186.pdf,false
+EKITI,IKOLE,IKOLE EAST,OPPOSITE JEHOVAH WITHNESS CHURCH - IGBO ODO,13/11/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20435/pu/38083/38083-1677501112.pdf,false
+EKITI,IKOLE,IKOLE EAST,IN FRONT OF CHIEF OSAYINDOGAN'S HOUSE - MOLETE,13/11/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20435/pu/38082/38082-1677458002.pdf,false
+EKITI,IKOLE,IKOLE EAST,IN FRONT OF CHIEF OLOMIDI GBASA'S HOUSE - IGBASA / IKASI/ ILADO,13/11/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20435/pu/38081/38081-1677457571.pdf,false
+EKITI,IKOLE,IKOLE EAST,IN FRONT OF OBASALU'S HOUSE - TAYE / OKO TANYIN,13/11/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20435/pu/38080/38080-1677457364.pdf,false
+EKITI,IKOLE,IKOLE EAST,IN FRONT OF IBISCO HOUSE - IGBOROKO,13/11/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20435/pu/38079/38079-1677457106.pdf,false
+EKITI,IKOLE,IKOLE EAST,IN FRONT OF SAJOWA'S HOUSE - ITOSA / ILESI,13/11/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20435/pu/38078/38078-1677456830.pdf,false
+EKITI,IKOLE,IKOLE EAST,IN FRONT OF IGBALAJOBI'S HOUSE - IMIRO,13/11/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20435/pu/38077/38077-1677456323.pdf,false
+EKITI,IKOLE,IKOLE EAST,IN FRONT OF ONISE'S HOUSE - ILISE,13/11/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3355/ward/20435/pu/38076/38076-1677456102.pdf,false
+EKITI,IKOLE,IKOLE EAST,BESIDE MR. JEGEDE'S HOUSE - ILUGA,13/11/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/03/pu/004/004-1677427911.pdf,false
+EKITI,IKOLE,IKOLE EAST,OKE IJEBU BUS STOP - OKE IJEBU / ATIBA RAMATU,13/11/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/03/pu/003/003-1677427192.pdf,false
+EKITI,IKOLE,IKOLE EAST,IKUNRI PREMISES - IKUNRI / GENERAL HOSPITAL/ EGBEOBA,13/11/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/03/pu/002/002-1677426416.pdf,false
+EKITI,IKOLE,IKOLE EAST,A. U. D. PRIMARY SCHOOL  - IDEMO / IWETIN,13/11/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/03/pu/001/001-1677425684.pdf,false

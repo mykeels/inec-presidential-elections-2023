@@ -1,9 +1,9 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,IKERE,,ILE-IMI / OLUPEGBA,13/10/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/008/008-1677417625.pdf,false
-EKITI,IKERE,,AJAKA HALL - AJAKA HALL,13/10/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/007/007-1677417277.pdf,false
-EKITI,IKERE,,OSAGBURU HALL / OKE OLOTI,13/10/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/006/006-1677416749.pdf,false
-EKITI,IKERE,,OSAGBURU HALL / SAO ONILEKE,13/10/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/005/005-1677415880.pdf,false
-EKITI,IKERE,,OLORIAWO HALL - OLORIAWO / AROWOLO,13/10/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/004/004-1677415430.pdf,false
-EKITI,IKERE,,EKUASA OGANGAN HALL - EKUASA ALAPANSAPA,13/10/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/003/003-1677414025.pdf,false
-EKITI,IKERE,,AMUAKUN HALL  - AMUAKUN,13/10/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/002/002-1677413639.pdf,false
-EKITI,IKERE,,EKUASA - AWADOIERUA HALL - EKUASA AWADOIERUA,13/10/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/001/001-1677409332.pdf,false
+EKITI,IKERE,UGELE / AROKU,ILE-IMI / OLUPEGBA,13/10/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/008/008-1677417625.pdf,false
+EKITI,IKERE,UGELE / AROKU,AJAKA HALL - AJAKA HALL,13/10/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/007/007-1677417277.pdf,false
+EKITI,IKERE,UGELE / AROKU,OSAGBURU HALL / OKE OLOTI,13/10/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/006/006-1677416749.pdf,false
+EKITI,IKERE,UGELE / AROKU,OSAGBURU HALL / SAO ONILEKE,13/10/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/005/005-1677415880.pdf,false
+EKITI,IKERE,UGELE / AROKU,OLORIAWO HALL - OLORIAWO / AROWOLO,13/10/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/004/004-1677415430.pdf,false
+EKITI,IKERE,UGELE / AROKU,EKUASA OGANGAN HALL - EKUASA ALAPANSAPA,13/10/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/003/003-1677414025.pdf,false
+EKITI,IKERE,UGELE / AROKU,AMUAKUN HALL  - AMUAKUN,13/10/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/002/002-1677413639.pdf,false
+EKITI,IKERE,UGELE / AROKU,EKUASA - AWADOIERUA HALL - EKUASA AWADOIERUA,13/10/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/03/pu/001/001-1677409332.pdf,false

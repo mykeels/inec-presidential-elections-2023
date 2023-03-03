@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,OYE,,IN FRONT OF OLODE'S HOUSE - ALEWA,13/16/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3360/ward/20497/pu/38877/38877-1677511537.pdf,false
-EKITI,OYE,,IN FRONT OF JACOB BEJIDE'S HOUSE - OKE ISAN,13/16/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3360/ward/20497/pu/38876/38876-1677510223.pdf,false
-EKITI,OYE,,ST PAULS PRIMARY SCHOOL - IGBOMOJI / ADISA,13/16/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3360/ward/20497/pu/38874/38874-1677509783.pdf,false
-EKITI,OYE,,AT AGRICULTURE D. ILUSAJUMU'S - ILUSAJUMU,13/16/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3360/ward/20497/pu/38872/38872-1677509372.pdf,false
-EKITI,OYE,,IN FRONT OF AYO OLA'S HOUSE - ILALE / IROYI,13/16/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3360/ward/20497/pu/38871/38871-1677508119.pdf,false
-EKITI,OYE,,AT ISAN SECONDARY SCHOOL - ISAN SECONDARY SCHOOL,13/16/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3360/ward/20497/pu/38878/38878-1677488264.pdf,false
-EKITI,OYE,,IN FRONT OF APATA'S HOUSE - OGILOLO,13/16/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3360/ward/20497/pu/38875/38875-1677487904.pdf,false
-EKITI,OYE,,IN FRONT OF BABA FEMI'S HOUSE - IBUDO / IWOYE,13/16/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3360/ward/20497/pu/38873/38873-1677487430.pdf,false
-EKITI,OYE,,ST JAMES PRIMARY SCHOOL - ILALE / IRONI  II,13/16/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3360/ward/20497/pu/38870/38870-1677487128.pdf,false
-EKITI,OYE,,ST JAMES PRIMARY SCHOOL - ILALE / IRONI  I,13/16/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3360/ward/20497/pu/38869/38869-1677486827.pdf,false
-EKITI,OYE,,OPEN SPACE AT ILAFON - ILAFON  II,13/16/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3360/ward/20497/pu/38868/38868-1677486579.pdf,false
-EKITI,OYE,,COMPRENSIVE PRIMARY SCHOOL - ILAFON  I,13/16/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3360/ward/20497/pu/38867/38867-1677486289.pdf,false
+EKITI,OYE,ISAN / ILAFON / ILEMESO,IN FRONT OF OLODE'S HOUSE - ALEWA,13/16/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3360/ward/20497/pu/38877/38877-1677511537.pdf,false
+EKITI,OYE,ISAN / ILAFON / ILEMESO,IN FRONT OF JACOB BEJIDE'S HOUSE - OKE ISAN,13/16/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3360/ward/20497/pu/38876/38876-1677510223.pdf,false
+EKITI,OYE,ISAN / ILAFON / ILEMESO,ST PAULS PRIMARY SCHOOL - IGBOMOJI / ADISA,13/16/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3360/ward/20497/pu/38874/38874-1677509783.pdf,false
+EKITI,OYE,ISAN / ILAFON / ILEMESO,AT AGRICULTURE D. ILUSAJUMU'S - ILUSAJUMU,13/16/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3360/ward/20497/pu/38872/38872-1677509372.pdf,false
+EKITI,OYE,ISAN / ILAFON / ILEMESO,IN FRONT OF AYO OLA'S HOUSE - ILALE / IROYI,13/16/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3360/ward/20497/pu/38871/38871-1677508119.pdf,false
+EKITI,OYE,ISAN / ILAFON / ILEMESO,AT ISAN SECONDARY SCHOOL - ISAN SECONDARY SCHOOL,13/16/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3360/ward/20497/pu/38878/38878-1677488264.pdf,false
+EKITI,OYE,ISAN / ILAFON / ILEMESO,IN FRONT OF APATA'S HOUSE - OGILOLO,13/16/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3360/ward/20497/pu/38875/38875-1677487904.pdf,false
+EKITI,OYE,ISAN / ILAFON / ILEMESO,IN FRONT OF BABA FEMI'S HOUSE - IBUDO / IWOYE,13/16/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3360/ward/20497/pu/38873/38873-1677487430.pdf,false
+EKITI,OYE,ISAN / ILAFON / ILEMESO,ST JAMES PRIMARY SCHOOL - ILALE / IRONI  II,13/16/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3360/ward/20497/pu/38870/38870-1677487128.pdf,false
+EKITI,OYE,ISAN / ILAFON / ILEMESO,ST JAMES PRIMARY SCHOOL - ILALE / IRONI  I,13/16/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3360/ward/20497/pu/38869/38869-1677486827.pdf,false
+EKITI,OYE,ISAN / ILAFON / ILEMESO,OPEN SPACE AT ILAFON - ILAFON  II,13/16/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3360/ward/20497/pu/38868/38868-1677486579.pdf,false
+EKITI,OYE,ISAN / ILAFON / ILEMESO,COMPRENSIVE PRIMARY SCHOOL - ILAFON  I,13/16/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3360/ward/20497/pu/38867/38867-1677486289.pdf,false

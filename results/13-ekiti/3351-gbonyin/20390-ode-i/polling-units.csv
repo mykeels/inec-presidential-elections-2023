@@ -1,10 +1,10 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,GBONYIN,,OPEN SPACE AT SURULERE - SURULERE / IGBALAYE,13/07/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/02/pu/008/008-1677376266.pdf,false
-EKITI,GBONYIN,,METHODIST PRIMARY SCHOOL / ODE HIGH SCHOOL / ILAKOTO,13/07/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/02/pu/007/007-1677376043.pdf,false
-EKITI,GBONYIN,,ONALA JUNCTION - ONALA / IGBOENU,13/07/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/02/pu/009/009-1677375577.pdf,false
-EKITI,GBONYIN,,OPEN SPACE AT ILOKUN - ILOGUN,13/07/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/02/pu/005/005-1677375380.pdf,false
-EKITI,GBONYIN,,OPEN SPACE AT EREGUNRUN - EREGUNRUN  I,13/07/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/02/pu/004/004-1677375217.pdf,false
-EKITI,GBONYIN,,COURT HALL - AAFIN / KAJOLA,13/07/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/02/pu/003/003-1677374700.pdf,false
-EKITI,GBONYIN,,IN FRONT OF OSALUSI'S HOUSE - KAJOLA / ARAROMI  I,13/07/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/02/pu/001/001-1677374944.pdf,false
-EKITI,GBONYIN,,IN FRONT OF OSALUSI'S HOUSE - KAJOLA / ARAROMI   II,13/07/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/02/pu/002/002-1677374531.pdf,false
-EKITI,GBONYIN,,BAALE HOUSE - ILASE / OMIEGUNGUN,13/07/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/02/pu/006/006-1677374366.pdf,false
+EKITI,GBONYIN,ODE  I,OPEN SPACE AT SURULERE - SURULERE / IGBALAYE,13/07/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/02/pu/008/008-1677376266.pdf,false
+EKITI,GBONYIN,ODE  I,METHODIST PRIMARY SCHOOL / ODE HIGH SCHOOL / ILAKOTO,13/07/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/02/pu/007/007-1677376043.pdf,false
+EKITI,GBONYIN,ODE  I,ONALA JUNCTION - ONALA / IGBOENU,13/07/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/02/pu/009/009-1677375577.pdf,false
+EKITI,GBONYIN,ODE  I,OPEN SPACE AT ILOKUN - ILOGUN,13/07/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/02/pu/005/005-1677375380.pdf,false
+EKITI,GBONYIN,ODE  I,OPEN SPACE AT EREGUNRUN - EREGUNRUN  I,13/07/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/02/pu/004/004-1677375217.pdf,false
+EKITI,GBONYIN,ODE  I,COURT HALL - AAFIN / KAJOLA,13/07/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/02/pu/003/003-1677374700.pdf,false
+EKITI,GBONYIN,ODE  I,IN FRONT OF OSALUSI'S HOUSE - KAJOLA / ARAROMI  I,13/07/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/02/pu/001/001-1677374944.pdf,false
+EKITI,GBONYIN,ODE  I,IN FRONT OF OSALUSI'S HOUSE - KAJOLA / ARAROMI   II,13/07/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/02/pu/002/002-1677374531.pdf,false
+EKITI,GBONYIN,ODE  I,BAALE HOUSE - ILASE / OMIEGUNGUN,13/07/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/02/pu/006/006-1677374366.pdf,false

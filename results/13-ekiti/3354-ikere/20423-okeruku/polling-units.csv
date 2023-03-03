@@ -1,15 +1,15 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,IKERE,,OISA ALADA HALL,13/10/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3354/ward/20423/pu/125737/125737-1677497549.pdf,false
-EKITI,IKERE,,OFAMOFURU HALL - OFAMOFURU,13/10/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3354/ward/20423/pu/37976/37976-1677497409.pdf,false
-EKITI,IKERE,,VERTINARY HALL - OISA ALADA,13/10/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3354/ward/20423/pu/37970/37970-1677497211.pdf,false
-EKITI,IKERE,,NINIOWO 1 BUS STOP CHANNEL 1 BUS STOP,13/10/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3354/ward/20423/pu/125740/125740-1677478787.pdf,false
-EKITI,IKERE,,OISA AGBEGEDE HALL - OISA AGBEGEDE,13/10/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/004/004-1677427702.pdf,false
-EKITI,IKERE,,OPEN SPACE AT ADESUGBA/ OFF NITEL,13/10/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/014/014-1677427304.pdf,false
-EKITI,IKERE,,ELEYINMI HALL,13/10/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/011/011-1677426400.pdf,false
-EKITI,IKERE,,AGABA OLA HALL,13/10/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/013/013-1677424358.pdf,false
-EKITI,IKERE,,ASAO HALL - ASAO,13/10/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/003/003-1677424183.pdf,false
-EKITI,IKERE,,OPEN SPACE/ T-JUNCTION AT ATEGBESAN,13/10/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/010/010-1677424054.pdf,false
-EKITI,IKERE,,L. A. PRIMARY SCHOOL - L. A. SCHOOL,13/10/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/008/008-1677415648.pdf,false
-EKITI,IKERE,,OLOGUNSABA HALL - OLOGUNSABA,13/10/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/002/002-1677413179.pdf,false
-EKITI,IKERE,,IDI - ISIN JUNCTION UNDER THE (TREE) IDI - ISIN RENU ORISAJEWI  II,13/10/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/006/006-1677393000.pdf,false
-EKITI,IKERE,,RENU ORISAJEWI HALL - RENU ORISAJEWI  I,13/10/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/005/005-1677388822.pdf,false
+EKITI,IKERE,OKERUKU,OISA ALADA HALL,13/10/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3354/ward/20423/pu/125737/125737-1677497549.pdf,false
+EKITI,IKERE,OKERUKU,OFAMOFURU HALL - OFAMOFURU,13/10/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3354/ward/20423/pu/37976/37976-1677497409.pdf,false
+EKITI,IKERE,OKERUKU,VERTINARY HALL - OISA ALADA,13/10/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3354/ward/20423/pu/37970/37970-1677497211.pdf,false
+EKITI,IKERE,OKERUKU,NINIOWO 1 BUS STOP CHANNEL 1 BUS STOP,13/10/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3354/ward/20423/pu/125740/125740-1677478787.pdf,false
+EKITI,IKERE,OKERUKU,OISA AGBEGEDE HALL - OISA AGBEGEDE,13/10/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/004/004-1677427702.pdf,false
+EKITI,IKERE,OKERUKU,OPEN SPACE AT ADESUGBA/ OFF NITEL,13/10/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/014/014-1677427304.pdf,false
+EKITI,IKERE,OKERUKU,ELEYINMI HALL,13/10/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/011/011-1677426400.pdf,false
+EKITI,IKERE,OKERUKU,AGABA OLA HALL,13/10/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/013/013-1677424358.pdf,false
+EKITI,IKERE,OKERUKU,ASAO HALL - ASAO,13/10/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/003/003-1677424183.pdf,false
+EKITI,IKERE,OKERUKU,OPEN SPACE/ T-JUNCTION AT ATEGBESAN,13/10/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/010/010-1677424054.pdf,false
+EKITI,IKERE,OKERUKU,L. A. PRIMARY SCHOOL - L. A. SCHOOL,13/10/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/008/008-1677415648.pdf,false
+EKITI,IKERE,OKERUKU,OLOGUNSABA HALL - OLOGUNSABA,13/10/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/002/002-1677413179.pdf,false
+EKITI,IKERE,OKERUKU,IDI - ISIN JUNCTION UNDER THE (TREE) IDI - ISIN RENU ORISAJEWI  II,13/10/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/006/006-1677393000.pdf,false
+EKITI,IKERE,OKERUKU,RENU ORISAJEWI HALL - RENU ORISAJEWI  I,13/10/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/005/005-1677388822.pdf,false

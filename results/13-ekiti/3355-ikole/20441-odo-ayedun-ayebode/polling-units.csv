@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,IKOLE,,PRIMARY SCHOOL AYEBODE - ODO URO,13/11/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/09/pu/010/010-1677401827.pdf,false
-EKITI,IKOLE,,IN FRONT OF CHIEF ARO'S HOUSE - IDO / IRANRO,13/11/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/09/pu/012/012-1677401276.pdf,false
-EKITI,IKOLE,,COMMUNITY PRIMARY SCHOOL - ODO / UGO,13/11/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/09/pu/006/006-1677400852.pdf,false
-EKITI,IKOLE,,PRIMARY SCHOOL AYEBODE - IREMO,13/11/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/09/pu/009/009-1677400241.pdf,false
-EKITI,IKOLE,,ODUNDUN HIGH SCHOOL - ERE II,13/11/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/09/pu/002/002-1677399573.pdf,false
-EKITI,IKOLE,,CATHOLIC PRIMARY SCHOOL - ILORO,13/11/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/09/pu/004/004-1677398838.pdf,false
-EKITI,IKOLE,,PRIMARY SCHOOL AYEBODE - IDO,13/11/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/09/pu/011/011-1677398500.pdf,false
-EKITI,IKOLE,,IN FRONT OF MOSES HOUSE'S IPEBI / IMILA,13/11/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/09/pu/005/005-1677397507.pdf,false
-EKITI,IKOLE,,ODUNDUN HIGH SCHOOL - ERE I,13/11/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/09/pu/001/001-1677397317.pdf,false
-EKITI,IKOLE,,OLOMOWI'S HOUSE - ILEAWU,13/11/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/09/pu/008/008-1677396057.pdf,false
-EKITI,IKOLE,,ANGLICAN PRIMARY SCHOOL - IMILA,13/11/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/09/pu/003/003-1677403045.pdf,false
-EKITI,IKOLE,,IN FRONT OF FANIMO'S HOUSE - OWANA,13/11/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/09/pu/007/007-1677402729.pdf,false
+EKITI,IKOLE,ODO AYEDUN / AYEBODE,PRIMARY SCHOOL AYEBODE - ODO URO,13/11/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/09/pu/010/010-1677401827.pdf,false
+EKITI,IKOLE,ODO AYEDUN / AYEBODE,IN FRONT OF CHIEF ARO'S HOUSE - IDO / IRANRO,13/11/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/09/pu/012/012-1677401276.pdf,false
+EKITI,IKOLE,ODO AYEDUN / AYEBODE,COMMUNITY PRIMARY SCHOOL - ODO / UGO,13/11/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/09/pu/006/006-1677400852.pdf,false
+EKITI,IKOLE,ODO AYEDUN / AYEBODE,PRIMARY SCHOOL AYEBODE - IREMO,13/11/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/09/pu/009/009-1677400241.pdf,false
+EKITI,IKOLE,ODO AYEDUN / AYEBODE,ODUNDUN HIGH SCHOOL - ERE II,13/11/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/09/pu/002/002-1677399573.pdf,false
+EKITI,IKOLE,ODO AYEDUN / AYEBODE,CATHOLIC PRIMARY SCHOOL - ILORO,13/11/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/09/pu/004/004-1677398838.pdf,false
+EKITI,IKOLE,ODO AYEDUN / AYEBODE,PRIMARY SCHOOL AYEBODE - IDO,13/11/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/09/pu/011/011-1677398500.pdf,false
+EKITI,IKOLE,ODO AYEDUN / AYEBODE,IN FRONT OF MOSES HOUSE'S IPEBI / IMILA,13/11/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/09/pu/005/005-1677397507.pdf,false
+EKITI,IKOLE,ODO AYEDUN / AYEBODE,ODUNDUN HIGH SCHOOL - ERE I,13/11/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/09/pu/001/001-1677397317.pdf,false
+EKITI,IKOLE,ODO AYEDUN / AYEBODE,OLOMOWI'S HOUSE - ILEAWU,13/11/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/09/pu/008/008-1677396057.pdf,false
+EKITI,IKOLE,ODO AYEDUN / AYEBODE,ANGLICAN PRIMARY SCHOOL - IMILA,13/11/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/09/pu/003/003-1677403045.pdf,false
+EKITI,IKOLE,ODO AYEDUN / AYEBODE,IN FRONT OF FANIMO'S HOUSE - OWANA,13/11/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/09/pu/007/007-1677402729.pdf,false
