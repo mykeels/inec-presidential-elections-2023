@@ -17,5 +17,7 @@
   "ward_id": 19432,
   "created_at": "2020-07-15T17:22:27.477Z",
   "updated_at": "2020-07-15T17:22:27.477Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "BORNO",
+  "lga_name": "MARTE"
 }

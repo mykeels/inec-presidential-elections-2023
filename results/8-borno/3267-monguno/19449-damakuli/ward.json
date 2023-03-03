@@ -17,5 +17,7 @@
   "ward_id": 19449,
   "created_at": "2020-07-15T17:22:29.862Z",
   "updated_at": "2020-07-15T17:22:29.862Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "BORNO",
+  "lga_name": "MONGUNO"
 }
