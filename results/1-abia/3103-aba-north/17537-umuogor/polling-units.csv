@@ -1,25 +1,25 @@
-state_name,lga_name,ward_name,name,pu_code,document.url
-ABIA,ABA NORTH,,UMUOGOR/UMUASOKE HALL-COUNCIL HALL IV,01/01/12/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/289/result_161156_1677505450_thumb.jpg
-ABIA,ABA NORTH,,UMUOGOR/UMUASOKE HALL-COUNCIL HALL I,01/01/12/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/286/result_161153_1677510076_thumb.jpg
-ABIA,ABA NORTH,,UMUOGOR HEALTH CENTRE-HEALTH CENTRE II,01/01/12/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/295/result_161162_1677512852_thumb.jpg
-ABIA,ABA NORTH,,UMUOGOR HEALTH CENTRE-HEALTH CENTRE X,01/01/12/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/303/result_161170_1677512343_thumb.jpg
-ABIA,ABA NORTH,,UMUOGOR HEALTH CENTRE-HEALTH CENTRE I,01/01/12/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/294/result_161161_1677512748_thumb.jpg
-ABIA,ABA NORTH,,MIGRANT PRIMARY SCHOOL I,01/01/12/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618329/result_161173_1677510239_thumb.jpg
-ABIA,ABA NORTH,,MIGRANT FARMERS PRIMARY SCH. II,01/01/12/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618330/result_161174_1677510748_thumb.jpg
-ABIA,ABA NORTH,,UMUOGOR HEALTH CENTRE-HEALTH CENTRE IX,01/01/12/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/302/result_161169_1677510421_thumb.jpg
-ABIA,ABA NORTH,,UMUOGOR HEALTH CENTRE-HEALTH CENTRE III,01/01/12/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/296/result_161163_1677510614_thumb.jpg
-ABIA,ABA NORTH,,UMUOGOR HEALTH CENTRE-HEALTH CENTRE VII,01/01/12/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/300/result_161167_1677515391_thumb.jpg
-ABIA,ABA NORTH,,UMUOGOR HEALTH CENTRE-HEALTH CENTRE VIII,01/01/12/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/301/result_161168_1677506645_thumb.jpg
-ABIA,ABA NORTH,,UMUOGOR COUNCIL HALL I,01/01/12/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618331/result_161175_1677515147_thumb.jpg
-ABIA,ABA NORTH,,UMUOGOR HEALTH CENTRE-HEALTH CENTRE XI,01/01/12/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/304/result_161171_1677512633_thumb.jpg
-ABIA,ABA NORTH,,UMUOGOR/UMUASOKE HALL-COUNCIL HALL V,01/01/12/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/290/result_161157_1677573111_thumb.jpg
-ABIA,ABA NORTH,,UMUOGOR HEALTH CENTRE-HEALTH CENTRE IV,01/01/12/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/297/result_161164_1677573790_thumb.jpg
-ABIA,ABA NORTH,,UMUOGOR/UMUASOKE HALL-COUNCIL HALL III,01/01/12/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/288/result_161155_1677573609_thumb.jpg
-ABIA,ABA NORTH,,UMUOGOR/UMUASOKE HALL-COUNCIL HALL VII,01/01/12/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/292/result_161159_1677573296_thumb.jpg
-ABIA,ABA NORTH,,Asa Okpulor - Council Hall,01/01/12/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/305/result_161172_1677573447_thumb.jpg
-ABIA,ABA NORTH,,UMUOGOR/UMUASOKE HALL-COUNCIL HALL VI,01/01/12/006,
-ABIA,ABA NORTH,,UMUOGOR/UMUASOKE HALL-COUNCIL HALL II,01/01/12/002,
-ABIA,ABA NORTH,,UMUOGOR/UMUASOKE HALL-COUNCIL HALL VIII,01/01/12/008,
-ABIA,ABA NORTH,,UMUOGOR HEALTH CENTRE-HEALTH CENTRE V,01/01/12/013,
-ABIA,ABA NORTH,,UMUOGOR HEALTH CENTRE-HEALTH CENTRE VI,01/01/12/014,
-ABIA,ABA NORTH,,UMUOGOR COUNCIL HALL II,01/01/12/024,
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+ABIA,ABA NORTH,,UMUOGOR/UMUASOKE HALL-COUNCIL HALL IV,01/01/12/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/289/result_161156_1677505450_thumb.jpg,true
+ABIA,ABA NORTH,,UMUOGOR/UMUASOKE HALL-COUNCIL HALL I,01/01/12/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/286/result_161153_1677510076_thumb.jpg,true
+ABIA,ABA NORTH,,UMUOGOR HEALTH CENTRE-HEALTH CENTRE II,01/01/12/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/295/result_161162_1677512852_thumb.jpg,true
+ABIA,ABA NORTH,,UMUOGOR HEALTH CENTRE-HEALTH CENTRE X,01/01/12/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/303/result_161170_1677512343_thumb.jpg,true
+ABIA,ABA NORTH,,UMUOGOR HEALTH CENTRE-HEALTH CENTRE I,01/01/12/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/294/result_161161_1677512748_thumb.jpg,true
+ABIA,ABA NORTH,,MIGRANT PRIMARY SCHOOL I,01/01/12/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618329/result_161173_1677510239_thumb.jpg,true
+ABIA,ABA NORTH,,MIGRANT FARMERS PRIMARY SCH. II,01/01/12/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618330/result_161174_1677510748_thumb.jpg,true
+ABIA,ABA NORTH,,UMUOGOR HEALTH CENTRE-HEALTH CENTRE IX,01/01/12/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/302/result_161169_1677510421_thumb.jpg,true
+ABIA,ABA NORTH,,UMUOGOR HEALTH CENTRE-HEALTH CENTRE III,01/01/12/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/296/result_161163_1677510614_thumb.jpg,true
+ABIA,ABA NORTH,,UMUOGOR HEALTH CENTRE-HEALTH CENTRE VII,01/01/12/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/300/result_161167_1677515391_thumb.jpg,true
+ABIA,ABA NORTH,,UMUOGOR HEALTH CENTRE-HEALTH CENTRE VIII,01/01/12/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/301/result_161168_1677506645_thumb.jpg,true
+ABIA,ABA NORTH,,UMUOGOR COUNCIL HALL I,01/01/12/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618331/result_161175_1677515147_thumb.jpg,true
+ABIA,ABA NORTH,,UMUOGOR HEALTH CENTRE-HEALTH CENTRE XI,01/01/12/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/304/result_161171_1677512633_thumb.jpg,true
+ABIA,ABA NORTH,,UMUOGOR/UMUASOKE HALL-COUNCIL HALL V,01/01/12/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/290/result_161157_1677573111_thumb.jpg,false
+ABIA,ABA NORTH,,UMUOGOR HEALTH CENTRE-HEALTH CENTRE IV,01/01/12/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/297/result_161164_1677573790_thumb.jpg,false
+ABIA,ABA NORTH,,UMUOGOR/UMUASOKE HALL-COUNCIL HALL III,01/01/12/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/288/result_161155_1677573609_thumb.jpg,false
+ABIA,ABA NORTH,,UMUOGOR/UMUASOKE HALL-COUNCIL HALL VII,01/01/12/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/292/result_161159_1677573296_thumb.jpg,false
+ABIA,ABA NORTH,,Asa Okpulor - Council Hall,01/01/12/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/305/result_161172_1677573447_thumb.jpg,false
+ABIA,ABA NORTH,,UMUOGOR/UMUASOKE HALL-COUNCIL HALL VI,01/01/12/006,,false
+ABIA,ABA NORTH,,UMUOGOR/UMUASOKE HALL-COUNCIL HALL II,01/01/12/002,,false
+ABIA,ABA NORTH,,UMUOGOR/UMUASOKE HALL-COUNCIL HALL VIII,01/01/12/008,,false
+ABIA,ABA NORTH,,UMUOGOR HEALTH CENTRE-HEALTH CENTRE V,01/01/12/013,,false
+ABIA,ABA NORTH,,UMUOGOR HEALTH CENTRE-HEALTH CENTRE VI,01/01/12/014,,false
+ABIA,ABA NORTH,,UMUOGOR COUNCIL HALL II,01/01/12/024,,false

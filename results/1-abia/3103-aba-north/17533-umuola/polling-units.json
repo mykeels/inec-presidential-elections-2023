@@ -83,7 +83,8 @@
         "size": 1000,
         "updated_at": "2023-03-01T05:48:10.475Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -145,7 +146,8 @@
         "size": 2580274,
         "updated_at": "2023-03-01T05:43:47.486Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -207,7 +209,8 @@
         "size": 2488865,
         "updated_at": "2023-03-01T05:43:43.726Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -269,7 +272,8 @@
         "size": 2488865,
         "updated_at": "2023-03-01T05:43:38.264Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -323,7 +327,8 @@
         "size": 1000,
         "updated_at": "2023-03-01T05:33:32.646Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -377,7 +382,8 @@
         "size": 1000,
         "updated_at": "2023-03-01T05:33:25.887Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -431,7 +437,8 @@
         "size": 1000,
         "updated_at": "2023-03-01T05:33:10.028Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -485,7 +492,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T21:38:40.493Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -539,7 +547,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T21:37:28.105Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -593,7 +602,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T21:37:22.242Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -647,7 +657,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T21:32:40.083Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -701,7 +712,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T21:28:19.884Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -755,7 +767,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T21:26:52.855Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -809,7 +822,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T21:26:48.833Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -863,7 +877,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T21:21:59.819Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -917,7 +932,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T20:43:15.620Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -971,7 +987,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T20:40:26.886Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -1025,7 +1042,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T20:36:51.738Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -1079,7 +1097,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T20:34:01.205Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -1133,7 +1152,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T20:33:05.970Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -1187,7 +1207,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T20:32:02.284Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -1241,7 +1262,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T20:25:55.609Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -1295,7 +1317,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T20:22:51.134Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -1349,7 +1372,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T20:21:35.716Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -1403,7 +1427,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T18:25:50.978Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -1457,7 +1482,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T18:23:43.777Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -1511,7 +1537,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T18:22:21.007Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -1565,7 +1592,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T18:14:08.059Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -1619,7 +1647,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T18:11:45.571Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -1673,7 +1702,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T18:09:47.957Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -1727,7 +1757,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T18:03:25.406Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -1781,7 +1812,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T17:41:55.185Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -1835,7 +1867,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T17:41:46.996Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -1905,7 +1938,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T17:38:05.935Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -1975,7 +2009,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T17:37:19.164Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -2045,7 +2080,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T17:35:29.615Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -2115,7 +2151,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T17:32:59.772Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -2185,7 +2222,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T17:27:42.248Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -2255,7 +2293,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T17:26:05.047Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -2325,7 +2364,8 @@
         "size": 1000,
         "updated_at": "2023-02-28T17:24:18.051Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -2362,7 +2402,8 @@
       "size": 315957,
       "updated_at": "2023-02-27T10:35:00.228Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -2399,7 +2440,8 @@
       "size": 269949,
       "updated_at": "2023-02-27T10:27:00.208Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -2436,6 +2478,7 @@
       "size": 347180,
       "updated_at": "2023-02-26T16:25:00.876Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   }
 ]

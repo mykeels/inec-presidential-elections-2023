@@ -34,7 +34,8 @@
       "size": 68511,
       "updated_at": "2023-02-26T12:54:01.463Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -71,7 +72,8 @@
       "size": 74432,
       "updated_at": "2023-02-26T12:46:34.298Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -108,7 +110,8 @@
       "size": 71071,
       "updated_at": "2023-02-26T12:45:40.838Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -145,7 +148,8 @@
       "size": 74993,
       "updated_at": "2023-02-26T12:45:18.846Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -182,7 +186,8 @@
       "size": 10911238,
       "updated_at": "2023-02-26T12:45:16.248Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -219,7 +224,8 @@
       "size": 72956,
       "updated_at": "2023-02-26T12:45:13.605Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -256,7 +262,8 @@
       "size": 77466,
       "updated_at": "2023-02-26T12:05:01.792Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -293,7 +300,8 @@
       "size": 77634,
       "updated_at": "2023-02-26T11:45:01.899Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -330,7 +338,8 @@
       "size": 65534,
       "updated_at": "2023-02-26T11:44:03.856Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -367,7 +376,8 @@
       "size": 9544029,
       "updated_at": "2023-02-26T11:32:05.187Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -404,7 +414,8 @@
       "size": 75147,
       "updated_at": "2023-02-26T11:18:04.529Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -441,7 +452,8 @@
       "size": 70503,
       "updated_at": "2023-02-26T11:13:01.660Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -478,7 +490,8 @@
       "size": 76420,
       "updated_at": "2023-02-25T22:29:00.968Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -507,7 +520,8 @@
     "pu_code_string": "010111021",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -536,7 +550,8 @@
     "pu_code_string": "010111018",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -565,7 +580,8 @@
     "pu_code_string": "010111019",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -594,7 +610,8 @@
     "pu_code_string": "010111020",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -623,7 +640,8 @@
     "pu_code_string": "010111025",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -652,7 +670,8 @@
     "pu_code_string": "010111007",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -681,7 +700,8 @@
     "pu_code_string": "010111003",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -710,7 +730,8 @@
     "pu_code_string": "010111011",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -739,7 +760,8 @@
     "pu_code_string": "010111016",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -768,7 +790,8 @@
     "pu_code_string": "010111013",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -797,7 +820,8 @@
     "pu_code_string": "010111009",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -826,7 +850,8 @@
     "pu_code_string": "010111014",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -855,6 +880,7 @@
     "pu_code_string": "010111015",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   }
 ]

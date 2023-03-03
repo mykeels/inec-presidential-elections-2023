@@ -34,7 +34,8 @@
       "size": 82719,
       "updated_at": "2023-03-01T13:57:00.417Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -71,7 +72,8 @@
       "size": 537641,
       "updated_at": "2023-03-01T13:55:00.640Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -108,7 +110,8 @@
       "size": 82719,
       "updated_at": "2023-03-01T13:51:00.103Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -145,7 +148,8 @@
       "size": 97590,
       "updated_at": "2023-03-01T13:47:00.867Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -182,7 +186,8 @@
       "size": 97590,
       "updated_at": "2023-03-01T13:42:00.419Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -219,7 +224,8 @@
       "size": 97590,
       "updated_at": "2023-03-01T13:33:00.418Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -256,7 +262,8 @@
       "size": 537641,
       "updated_at": "2023-02-28T21:35:00.132Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -293,7 +300,8 @@
       "size": 537641,
       "updated_at": "2023-02-28T21:31:00.300Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -330,7 +338,8 @@
       "size": 537641,
       "updated_at": "2023-02-28T21:26:00.120Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -367,7 +376,8 @@
       "size": 82719,
       "updated_at": "2023-02-28T21:15:00.349Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -404,7 +414,8 @@
       "size": 97590,
       "updated_at": "2023-02-28T19:45:00.090Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -450,7 +461,8 @@
         "size": 82719,
         "updated_at": "2023-02-28T19:39:01.227Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -487,7 +499,8 @@
       "size": 82719,
       "updated_at": "2023-02-28T19:26:00.061Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -524,7 +537,8 @@
       "size": 82719,
       "updated_at": "2023-02-28T18:52:00.630Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -561,7 +575,8 @@
       "size": 97590,
       "updated_at": "2023-02-28T18:45:00.822Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -607,7 +622,8 @@
         "size": 97590,
         "updated_at": "2023-02-28T18:41:01.260Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -644,7 +660,8 @@
       "size": 82719,
       "updated_at": "2023-02-28T18:06:00.761Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -681,7 +698,8 @@
       "size": 82719,
       "updated_at": "2023-02-28T17:11:00.955Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -727,7 +745,8 @@
         "size": 97590,
         "updated_at": "2023-02-28T17:09:04.697Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -773,7 +792,8 @@
         "size": 97590,
         "updated_at": "2023-02-28T17:00:01.640Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -819,7 +839,8 @@
         "size": 97590,
         "updated_at": "2023-02-28T16:48:01.869Z"
       }
-    ]
+    ],
+    "has_old_documents": true
   },
   {
     "status": "ACTIVE",
@@ -856,7 +877,8 @@
       "size": 97590,
       "updated_at": "2023-02-28T16:42:02.141Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -893,7 +915,8 @@
       "size": 97590,
       "updated_at": "2023-02-28T16:36:00.530Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -930,7 +953,8 @@
       "size": 97590,
       "updated_at": "2023-02-28T16:13:00.244Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -967,7 +991,8 @@
       "size": 97590,
       "updated_at": "2023-02-28T16:04:00.477Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -1004,7 +1029,8 @@
       "size": 6192915,
       "updated_at": "2023-02-26T16:00:01.432Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -1041,7 +1067,8 @@
       "size": 5942081,
       "updated_at": "2023-02-26T15:32:01.264Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -1078,7 +1105,8 @@
       "size": 4649820,
       "updated_at": "2023-02-26T15:22:04.192Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -1115,7 +1143,8 @@
       "size": 2150808,
       "updated_at": "2023-02-26T13:52:02.093Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -1152,7 +1181,8 @@
       "size": 2100534,
       "updated_at": "2023-02-26T13:42:02.266Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -1189,7 +1219,8 @@
       "size": 3035754,
       "updated_at": "2023-02-26T13:35:01.653Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -1226,7 +1257,8 @@
       "size": 1772982,
       "updated_at": "2023-02-26T13:31:59.847Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -1263,7 +1295,8 @@
       "size": 2116524,
       "updated_at": "2023-02-26T13:26:01.342Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -1300,7 +1333,8 @@
       "size": 3665050,
       "updated_at": "2023-02-26T13:17:31.874Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -1337,7 +1371,8 @@
       "size": 2053536,
       "updated_at": "2023-02-26T12:58:01.744Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -1374,7 +1409,8 @@
       "size": 2118598,
       "updated_at": "2023-02-26T12:52:01.701Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -1411,7 +1447,8 @@
       "size": 1880678,
       "updated_at": "2023-02-26T12:46:11.185Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -1448,7 +1485,8 @@
       "size": 1981603,
       "updated_at": "2023-02-26T12:37:59.777Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -1485,7 +1523,8 @@
       "size": 3858579,
       "updated_at": "2023-02-26T11:29:02.202Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -1522,7 +1561,8 @@
       "size": 3506778,
       "updated_at": "2023-02-26T10:38:04.712Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -1559,7 +1599,8 @@
       "size": 327870,
       "updated_at": "2023-02-26T06:58:14.212Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -1596,7 +1637,8 @@
       "size": 3570712,
       "updated_at": "2023-02-26T06:04:01.534Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -1633,7 +1675,8 @@
       "size": 2996459,
       "updated_at": "2023-02-26T04:16:00.712Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -1670,7 +1713,8 @@
       "size": 67952,
       "updated_at": "2023-02-26T04:01:02.196Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   },
   {
     "status": "ACTIVE",
@@ -1707,6 +1751,7 @@
       "size": 71718,
       "updated_at": "2023-02-26T03:13:01.249Z"
     },
-    "old_documents": []
+    "old_documents": [],
+    "has_old_documents": false
   }
 ]
