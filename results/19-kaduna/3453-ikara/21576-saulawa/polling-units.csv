@@ -1,24 +1,24 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,IKARA,,U.B.E. ANG. MAKERA,18/05/04/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641263/result_112826_1677653018_thumb.jpg,false
-KADUNA,IKARA,,MAFERA/ PRIMARY SCHOOL,18/05/04/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52729/result_112823_1677652918_thumb.jpg,false
-KADUNA,IKARA,,FADAMAR KALE EAST/ PRIMARY SCHOOL,18/05/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52719/result_112813_1677652798_thumb.jpg,false
-KADUNA,IKARA,,U.B.E PRI. SCH. SAULAWA,18/05/04/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641262/result_112825_1677508113_thumb.jpg,true
-KADUNA,IKARA,,GIDAN M/DANSABE/ NEAR K/MAIANGUWA,18/05/04/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52721/result_112815_1677627292_thumb.jpg,false
-KADUNA,IKARA,,SAULAWA NORTH/ PRIMARY SCHOOL,18/05/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52715/result_112809_1677627114_thumb.jpg,false
-KADUNA,IKARA,,FADAMAR KALE WEST/ PRIMARY SCHOOL,18/05/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52720/result_112814_1677626977_thumb.jpg,false
-KADUNA,IKARA,,UNG. IBRAHIM/ NEAR K/MAIANGUWA,18/05/04/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52725/result_112819_1677626750_thumb.jpg,false
-KADUNA,IKARA,,SAULAWA NORTH II/ PRIMARY SCHOOL,18/05/04/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52730/result_112824_1677626611_thumb.jpg,false
-KADUNA,IKARA,,PAMPAIDA MAI DUTSE II,18/05/04/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641266/result_112829_1677625871_thumb.jpg,false
-KADUNA,IKARA,,KWARI I/ PRIMARY SCHOOL,18/05/04/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52723/result_112817_1677625660_thumb.jpg,false
-KADUNA,IKARA,,SAULAWA GARI I/ PRIMARY SCHOOL,18/05/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52713/result_112807_1677625169_thumb.jpg,false
-KADUNA,IKARA,,U.B.E. PRI. SCH. A/KANAWA,18/05/04/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641265/result_112828_1677624922_thumb.jpg,false
-KADUNA,IKARA,,SAULAWA GARI II/ ADULT EDC. CLASS,18/05/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52716/result_112810_1677623302_thumb.jpg,false
-KADUNA,IKARA,,MAKERA T. LABI/ PRIMARY SCHOOL,18/05/04/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52728/result_112822_1677622840_thumb.jpg,false
-KADUNA,IKARA,,UNG. LUMU/ NEAR K/MAIANGUWA,18/05/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52718/result_112812_1677622545_thumb.jpg,false
-KADUNA,IKARA,,PAMPAIDA/ PRIMARY SCHOOL,18/05/04/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52727/result_112821_1677508356_thumb.jpg,false
-KADUNA,IKARA,,KWARI II/ DISPENSARY KWARI,18/05/04/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52724/result_112818_1677581440_thumb.jpg,false
-KADUNA,IKARA,,JANMARMARA/ NEAR K/MAIANGUWA,18/05/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52722/result_112816_1677591911_thumb.jpg,false
-KADUNA,IKARA,,KWARI VIEWING CENTRE,18/05/04/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641264/result_112827_1677592038_thumb.jpg,false
-KADUNA,IKARA,,SAULAWA SOUTH/ NEAR K/MAIANGUWA,18/05/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52714/result_112808_1677591772_thumb.jpg,false
-KADUNA,IKARA,,UNG. DOGO/ NEAR K/MAIANGUWA,18/05/04/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52726/result_112820_1677589271_thumb.jpg,false
-KADUNA,IKARA,,TSAUNI MIKI/ PRIMARY SCHOOL,18/05/04/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52717/result_112811_1677590315_thumb.jpg,false
+KADUNA,IKARA,SAULAWA,U.B.E. ANG. MAKERA,18/05/04/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641263/result_112826_1677653018_thumb.jpg,false
+KADUNA,IKARA,SAULAWA,MAFERA/ PRIMARY SCHOOL,18/05/04/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52729/result_112823_1677652918_thumb.jpg,false
+KADUNA,IKARA,SAULAWA,FADAMAR KALE EAST/ PRIMARY SCHOOL,18/05/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52719/result_112813_1677652798_thumb.jpg,false
+KADUNA,IKARA,SAULAWA,U.B.E PRI. SCH. SAULAWA,18/05/04/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641262/result_112825_1677508113_thumb.jpg,true
+KADUNA,IKARA,SAULAWA,GIDAN M/DANSABE/ NEAR K/MAIANGUWA,18/05/04/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52721/result_112815_1677627292_thumb.jpg,false
+KADUNA,IKARA,SAULAWA,SAULAWA NORTH/ PRIMARY SCHOOL,18/05/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52715/result_112809_1677627114_thumb.jpg,false
+KADUNA,IKARA,SAULAWA,FADAMAR KALE WEST/ PRIMARY SCHOOL,18/05/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52720/result_112814_1677626977_thumb.jpg,false
+KADUNA,IKARA,SAULAWA,UNG. IBRAHIM/ NEAR K/MAIANGUWA,18/05/04/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52725/result_112819_1677626750_thumb.jpg,false
+KADUNA,IKARA,SAULAWA,SAULAWA NORTH II/ PRIMARY SCHOOL,18/05/04/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52730/result_112824_1677626611_thumb.jpg,false
+KADUNA,IKARA,SAULAWA,PAMPAIDA MAI DUTSE II,18/05/04/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641266/result_112829_1677625871_thumb.jpg,false
+KADUNA,IKARA,SAULAWA,KWARI I/ PRIMARY SCHOOL,18/05/04/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52723/result_112817_1677625660_thumb.jpg,false
+KADUNA,IKARA,SAULAWA,SAULAWA GARI I/ PRIMARY SCHOOL,18/05/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52713/result_112807_1677625169_thumb.jpg,false
+KADUNA,IKARA,SAULAWA,U.B.E. PRI. SCH. A/KANAWA,18/05/04/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641265/result_112828_1677624922_thumb.jpg,false
+KADUNA,IKARA,SAULAWA,SAULAWA GARI II/ ADULT EDC. CLASS,18/05/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52716/result_112810_1677623302_thumb.jpg,false
+KADUNA,IKARA,SAULAWA,MAKERA T. LABI/ PRIMARY SCHOOL,18/05/04/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52728/result_112822_1677622840_thumb.jpg,false
+KADUNA,IKARA,SAULAWA,UNG. LUMU/ NEAR K/MAIANGUWA,18/05/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52718/result_112812_1677622545_thumb.jpg,false
+KADUNA,IKARA,SAULAWA,PAMPAIDA/ PRIMARY SCHOOL,18/05/04/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52727/result_112821_1677508356_thumb.jpg,false
+KADUNA,IKARA,SAULAWA,KWARI II/ DISPENSARY KWARI,18/05/04/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52724/result_112818_1677581440_thumb.jpg,false
+KADUNA,IKARA,SAULAWA,JANMARMARA/ NEAR K/MAIANGUWA,18/05/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52722/result_112816_1677591911_thumb.jpg,false
+KADUNA,IKARA,SAULAWA,KWARI VIEWING CENTRE,18/05/04/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641264/result_112827_1677592038_thumb.jpg,false
+KADUNA,IKARA,SAULAWA,SAULAWA SOUTH/ NEAR K/MAIANGUWA,18/05/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52714/result_112808_1677591772_thumb.jpg,false
+KADUNA,IKARA,SAULAWA,UNG. DOGO/ NEAR K/MAIANGUWA,18/05/04/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52726/result_112820_1677589271_thumb.jpg,false
+KADUNA,IKARA,SAULAWA,TSAUNI MIKI/ PRIMARY SCHOOL,18/05/04/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52717/result_112811_1677590315_thumb.jpg,false

@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,GIWA,,SADA GALADIMAWA LGEA PRIMARY SCHOOL,18/03/09/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640865/result_112050_1677683520_thumb.jpg,false
-KADUNA,GIWA,,LGEA PRIMARY SCHOOL UNGUWAN KATSINAWA,18/03/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640864/result_112049_1677683430_thumb.jpg,false
-KADUNA,GIWA,,UNGUWAN YANTIRAME LAYIN ALH. TELA,18/03/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640863/result_112048_1677683272_thumb.jpg,false
-KADUNA,GIWA,,GWANDAWA/ KOFAR GIDAN MAI UNG.,18/03/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52249/result_112047_1677683203_thumb.jpg,false
-KADUNA,GIWA,,RAFIN SARKI II/ KOFAR GIDAN MAI UNG.,18/03/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52248/result_112046_1677683117_thumb.jpg,false
-KADUNA,GIWA,,RAFIN SARKI I/ KOFAR ALH. BALA,18/03/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52247/result_112045_1677683040_thumb.jpg,false
-KADUNA,GIWA,,GWADAWA (MADUGUN KWALFI)/ KOFAR MAIUNGUWA MADAGUN KWARFI,18/03/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52246/result_112044_1677682956_thumb.jpg,false
-KADUNA,GIWA,,MAI DOKI VILLAGE/ KOFAR MAIUNGUWA,18/03/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52245/result_112043_1677682822_thumb.jpg,false
-KADUNA,GIWA,,GALADIMAWA III/ TUNBURKU MAJE,18/03/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52244/result_112042_1677682760_thumb.jpg,false
-KADUNA,GIWA,,GALADIMAWA II/ KOFAR GIDAN SARKI,18/03/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52243/result_112041_1677682685_thumb.jpg,false
-KADUNA,GIWA,,GALADIMAWA I/ KOFAR GIDA ABDULAWA,18/03/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52242/result_112040_1677682609_thumb.jpg,false
+KADUNA,GIWA,GALADIMAWA,SADA GALADIMAWA LGEA PRIMARY SCHOOL,18/03/09/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640865/result_112050_1677683520_thumb.jpg,false
+KADUNA,GIWA,GALADIMAWA,LGEA PRIMARY SCHOOL UNGUWAN KATSINAWA,18/03/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640864/result_112049_1677683430_thumb.jpg,false
+KADUNA,GIWA,GALADIMAWA,UNGUWAN YANTIRAME LAYIN ALH. TELA,18/03/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640863/result_112048_1677683272_thumb.jpg,false
+KADUNA,GIWA,GALADIMAWA,GWANDAWA/ KOFAR GIDAN MAI UNG.,18/03/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52249/result_112047_1677683203_thumb.jpg,false
+KADUNA,GIWA,GALADIMAWA,RAFIN SARKI II/ KOFAR GIDAN MAI UNG.,18/03/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52248/result_112046_1677683117_thumb.jpg,false
+KADUNA,GIWA,GALADIMAWA,RAFIN SARKI I/ KOFAR ALH. BALA,18/03/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52247/result_112045_1677683040_thumb.jpg,false
+KADUNA,GIWA,GALADIMAWA,GWADAWA (MADUGUN KWALFI)/ KOFAR MAIUNGUWA MADAGUN KWARFI,18/03/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52246/result_112044_1677682956_thumb.jpg,false
+KADUNA,GIWA,GALADIMAWA,MAI DOKI VILLAGE/ KOFAR MAIUNGUWA,18/03/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52245/result_112043_1677682822_thumb.jpg,false
+KADUNA,GIWA,GALADIMAWA,GALADIMAWA III/ TUNBURKU MAJE,18/03/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52244/result_112042_1677682760_thumb.jpg,false
+KADUNA,GIWA,GALADIMAWA,GALADIMAWA II/ KOFAR GIDAN SARKI,18/03/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52243/result_112041_1677682685_thumb.jpg,false
+KADUNA,GIWA,GALADIMAWA,GALADIMAWA I/ KOFAR GIDA ABDULAWA,18/03/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52242/result_112040_1677682609_thumb.jpg,false

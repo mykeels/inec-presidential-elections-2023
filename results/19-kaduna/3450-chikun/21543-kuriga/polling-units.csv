@@ -1,21 +1,21 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,CHIKUN,,UNG. KAWO/ G. KAWO,18/02/06/002,,true
-KADUNA,CHIKUN,,MANINI / KASUWA,18/02/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52080/52080-1677495323.pdf,false
-KADUNA,CHIKUN,,KURIGA / L.E.A. PRIMARY SCHOOL,18/02/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52077/52077-1677494829.pdf,false
-KADUNA,CHIKUN,,UNG. DOMA / UNG. DOMA,18/02/06/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52092/52092-1677494525.pdf,false
-KADUNA,CHIKUN,,UNG. KWABO / K/G SARKI,18/02/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52085/52085-1677491406.pdf,false
-KADUNA,CHIKUN,,KURIGA AREA COURT / AREA COURT,18/02/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52075/52075-1677491302.pdf,false
-KADUNA,CHIKUN,,JANMAYE / K/G WAKILI,18/02/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52088/52088-1677490796.pdf,false
-KADUNA,CHIKUN,,UNG. GWARBA / KASUWA,18/02/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52082/52082-1677490331.pdf,false
-KADUNA,CHIKUN,,KURIGA / READING ROOM,18/02/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52078/52078-1677490124.pdf,false
-KADUNA,CHIKUN,,UNG. ZARUMAI / K/G TAKADA,18/02/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52079/52079-1677489763.pdf,false
-KADUNA,CHIKUN,,UNG. RAHAMA / UNG. RAHAMA,18/02/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52086/52086-1677486440.pdf,false
-KADUNA,CHIKUN,,KUNNAMA / KUNNAMA,18/02/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52090/52090-1677485609.pdf,false
-KADUNA,CHIKUN,,SARARI / K/G SARKI,18/02/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52084/52084-1677484923.pdf,false
-KADUNA,CHIKUN,,GWAURO / K/G MAIANGUWA,18/02/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52089/52089-1677484345.pdf,false
-KADUNA,CHIKUN,,UNG. SANI GAMBO / KOFAR SANI GAMBO,18/02/06/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52091/52091-1677483605.pdf,false
-KADUNA,CHIKUN,,SARARI KASUWA / KASUWA,18/02/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52081/52081-1677482837.pdf,false
-KADUNA,CHIKUN,,UNG. BARAU / UNG. BARAU,18/02/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52083/52083-1677482236.pdf,false
-KADUNA,CHIKUN,,UNG. KAWO II / K/GIDAN IYAN KURIGA,18/02/06/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52094/52094-1677481146.pdf,false
-KADUNA,CHIKUN,,TASHAN TSUNTSAYE / T/SUNTSAYE,18/02/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52087/52087-1677480209.pdf,false
-KADUNA,CHIKUN,,TUDUN TSAKUWA / T/TSAKUWA,18/02/06/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52093/52093-1677479572.pdf,false
+KADUNA,CHIKUN,KURIGA,UNG. KAWO/ G. KAWO,18/02/06/002,,true
+KADUNA,CHIKUN,KURIGA,MANINI / KASUWA,18/02/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52080/52080-1677495323.pdf,false
+KADUNA,CHIKUN,KURIGA,KURIGA / L.E.A. PRIMARY SCHOOL,18/02/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52077/52077-1677494829.pdf,false
+KADUNA,CHIKUN,KURIGA,UNG. DOMA / UNG. DOMA,18/02/06/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52092/52092-1677494525.pdf,false
+KADUNA,CHIKUN,KURIGA,UNG. KWABO / K/G SARKI,18/02/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52085/52085-1677491406.pdf,false
+KADUNA,CHIKUN,KURIGA,KURIGA AREA COURT / AREA COURT,18/02/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52075/52075-1677491302.pdf,false
+KADUNA,CHIKUN,KURIGA,JANMAYE / K/G WAKILI,18/02/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52088/52088-1677490796.pdf,false
+KADUNA,CHIKUN,KURIGA,UNG. GWARBA / KASUWA,18/02/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52082/52082-1677490331.pdf,false
+KADUNA,CHIKUN,KURIGA,KURIGA / READING ROOM,18/02/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52078/52078-1677490124.pdf,false
+KADUNA,CHIKUN,KURIGA,UNG. ZARUMAI / K/G TAKADA,18/02/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52079/52079-1677489763.pdf,false
+KADUNA,CHIKUN,KURIGA,UNG. RAHAMA / UNG. RAHAMA,18/02/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52086/52086-1677486440.pdf,false
+KADUNA,CHIKUN,KURIGA,KUNNAMA / KUNNAMA,18/02/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52090/52090-1677485609.pdf,false
+KADUNA,CHIKUN,KURIGA,SARARI / K/G SARKI,18/02/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52084/52084-1677484923.pdf,false
+KADUNA,CHIKUN,KURIGA,GWAURO / K/G MAIANGUWA,18/02/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52089/52089-1677484345.pdf,false
+KADUNA,CHIKUN,KURIGA,UNG. SANI GAMBO / KOFAR SANI GAMBO,18/02/06/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52091/52091-1677483605.pdf,false
+KADUNA,CHIKUN,KURIGA,SARARI KASUWA / KASUWA,18/02/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52081/52081-1677482837.pdf,false
+KADUNA,CHIKUN,KURIGA,UNG. BARAU / UNG. BARAU,18/02/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52083/52083-1677482236.pdf,false
+KADUNA,CHIKUN,KURIGA,UNG. KAWO II / K/GIDAN IYAN KURIGA,18/02/06/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52094/52094-1677481146.pdf,false
+KADUNA,CHIKUN,KURIGA,TASHAN TSUNTSAYE / T/SUNTSAYE,18/02/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52087/52087-1677480209.pdf,false
+KADUNA,CHIKUN,KURIGA,TUDUN TSAKUWA / T/TSAKUWA,18/02/06/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21543/pu/52093/52093-1677479572.pdf,false

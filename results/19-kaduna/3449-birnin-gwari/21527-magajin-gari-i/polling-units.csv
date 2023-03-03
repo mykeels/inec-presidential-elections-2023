@@ -1,24 +1,24 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,BIRNIN GWARI,,G.J.S.S B/GWARI,18/01/01/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640543/result_111047_1677769253_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,GUMI ISLAMIYA PRI SCH,18/01/01/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640542/result_111046_1677769109_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,KULLIYA PRI SCH (OS),18/01/01/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640541/result_111045_1677768957_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,TOBACCO COMPANY (OS),18/01/01/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640540/result_111044_1677768724_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,ISLAMIYA PRI SCH KWAKWOKI,18/01/01/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640537/result_111041_1677767974_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,UNG ILIYA OVER HEAD TANK (OS),18/01/01/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640536/result_111040_1677767862_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,DADINKOWA OVERHEAD TANK (OS),18/01/01/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640535/result_111039_1677767747_thumb.jpg,true
-KADUNA,BIRNIN GWARI,,KASUWAN DOYA (OS),18/01/01/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640534/result_111038_1677767601_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,SOCIAL WELFARE OFFICE,18/01/01/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640533/result_111037_1677767461_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,B.A.T.C. B/GWARI,18/01/01/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51681/result_111036_1677767332_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,G.S.S. B/GWARI,18/01/01/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51680/result_111035_1677767171_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,LEPROSY CLINIC,18/01/01/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51679/result_111034_1677767067_thumb.jpg,true
-KADUNA,BIRNIN GWARI,,UNG ALI GADO,18/01/01/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51678/result_111033_1677766921_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,LIBRARY OFFICE,18/01/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51676/result_111031_1677766717_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,MAIGWARI PRY. SCH.,18/01/01/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51675/result_111030_1677766531_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,PRY.SCH.UNG.LIMAN,18/01/01/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51677/result_111032_1677766016_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,COMMUNITY SCHOOL,18/01/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51673/result_111028_1677765632_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,AREA COURT,18/01/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51672/result_111027_1677765367_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,BRININ GWARI TOWN HALL,18/01/01/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640539/result_111043_1677764180_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,PRY. SCH. SHITU,18/01/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51671/result_111026_1677763964_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,EDUCATION OFFICE,18/01/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3449/ward/21527/pu/51761/51761-1677694595.pdf,false
-KADUNA,BIRNIN GWARI,,WOMEN CENTRE,18/01/01/018,,false
-KADUNA,BIRNIN GWARI,,ISLAMIYA PRY. SCH.,18/01/01/005,,false
+KADUNA,BIRNIN GWARI,MAGAJIN GARI I,G.J.S.S B/GWARI,18/01/01/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640543/result_111047_1677769253_thumb.jpg,false
+KADUNA,BIRNIN GWARI,MAGAJIN GARI I,GUMI ISLAMIYA PRI SCH,18/01/01/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640542/result_111046_1677769109_thumb.jpg,false
+KADUNA,BIRNIN GWARI,MAGAJIN GARI I,KULLIYA PRI SCH (OS),18/01/01/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640541/result_111045_1677768957_thumb.jpg,false
+KADUNA,BIRNIN GWARI,MAGAJIN GARI I,TOBACCO COMPANY (OS),18/01/01/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640540/result_111044_1677768724_thumb.jpg,false
+KADUNA,BIRNIN GWARI,MAGAJIN GARI I,ISLAMIYA PRI SCH KWAKWOKI,18/01/01/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640537/result_111041_1677767974_thumb.jpg,false
+KADUNA,BIRNIN GWARI,MAGAJIN GARI I,UNG ILIYA OVER HEAD TANK (OS),18/01/01/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640536/result_111040_1677767862_thumb.jpg,false
+KADUNA,BIRNIN GWARI,MAGAJIN GARI I,DADINKOWA OVERHEAD TANK (OS),18/01/01/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640535/result_111039_1677767747_thumb.jpg,true
+KADUNA,BIRNIN GWARI,MAGAJIN GARI I,KASUWAN DOYA (OS),18/01/01/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640534/result_111038_1677767601_thumb.jpg,false
+KADUNA,BIRNIN GWARI,MAGAJIN GARI I,SOCIAL WELFARE OFFICE,18/01/01/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640533/result_111037_1677767461_thumb.jpg,false
+KADUNA,BIRNIN GWARI,MAGAJIN GARI I,B.A.T.C. B/GWARI,18/01/01/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51681/result_111036_1677767332_thumb.jpg,false
+KADUNA,BIRNIN GWARI,MAGAJIN GARI I,G.S.S. B/GWARI,18/01/01/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51680/result_111035_1677767171_thumb.jpg,false
+KADUNA,BIRNIN GWARI,MAGAJIN GARI I,LEPROSY CLINIC,18/01/01/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51679/result_111034_1677767067_thumb.jpg,true
+KADUNA,BIRNIN GWARI,MAGAJIN GARI I,UNG ALI GADO,18/01/01/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51678/result_111033_1677766921_thumb.jpg,false
+KADUNA,BIRNIN GWARI,MAGAJIN GARI I,LIBRARY OFFICE,18/01/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51676/result_111031_1677766717_thumb.jpg,false
+KADUNA,BIRNIN GWARI,MAGAJIN GARI I,MAIGWARI PRY. SCH.,18/01/01/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51675/result_111030_1677766531_thumb.jpg,false
+KADUNA,BIRNIN GWARI,MAGAJIN GARI I,PRY.SCH.UNG.LIMAN,18/01/01/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51677/result_111032_1677766016_thumb.jpg,false
+KADUNA,BIRNIN GWARI,MAGAJIN GARI I,COMMUNITY SCHOOL,18/01/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51673/result_111028_1677765632_thumb.jpg,false
+KADUNA,BIRNIN GWARI,MAGAJIN GARI I,AREA COURT,18/01/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51672/result_111027_1677765367_thumb.jpg,false
+KADUNA,BIRNIN GWARI,MAGAJIN GARI I,BRININ GWARI TOWN HALL,18/01/01/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640539/result_111043_1677764180_thumb.jpg,false
+KADUNA,BIRNIN GWARI,MAGAJIN GARI I,PRY. SCH. SHITU,18/01/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51671/result_111026_1677763964_thumb.jpg,false
+KADUNA,BIRNIN GWARI,MAGAJIN GARI I,EDUCATION OFFICE,18/01/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3449/ward/21527/pu/51761/51761-1677694595.pdf,false
+KADUNA,BIRNIN GWARI,MAGAJIN GARI I,WOMEN CENTRE,18/01/01/018,,false
+KADUNA,BIRNIN GWARI,MAGAJIN GARI I,ISLAMIYA PRY. SCH.,18/01/01/005,,false

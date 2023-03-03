@@ -1,8 +1,8 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,JABA,,UNG. YAKI JATAU/ K/GIDAN YAKI JATAU,18/06/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21587/pu/52972/52972-1677613657.pdf,false
-KADUNA,JABA,,UNG. YEH-YOCK I/ K/GIDAN YEH-YOCK,18/06/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21587/pu/52970/52970-1677613123.pdf,false
-KADUNA,JABA,,UNG. NGAR-KONI/ K/GIDAN MAIANGUWA,18/06/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21587/pu/52971/52971-1677611322.pdf,false
-KADUNA,JABA,,UNG ILIYA KUMDANGBO K/GIDAN ILIYA GAIYA,18/06/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21587/pu/52975/52975-1677611191.pdf,false
-KADUNA,JABA,,UNG. SHANONO/ K/GIDAN MAIANGUWA,18/06/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21587/pu/52973/52973-1677611045.pdf,true
-KADUNA,JABA,,UNG. DAN MUNCI/ PRIMARY SCHOOL,18/06/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21587/pu/52974/52974-1677609932.pdf,false
-KADUNA,JABA,,UNG. YEH-YOCK II/ K/GIDAN YEH-YOCK II,18/06/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21587/pu/52976/52976-1677609744.pdf,false
+KADUNA,JABA,SABZURO,UNG. YAKI JATAU/ K/GIDAN YAKI JATAU,18/06/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21587/pu/52972/52972-1677613657.pdf,false
+KADUNA,JABA,SABZURO,UNG. YEH-YOCK I/ K/GIDAN YEH-YOCK,18/06/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21587/pu/52970/52970-1677613123.pdf,false
+KADUNA,JABA,SABZURO,UNG. NGAR-KONI/ K/GIDAN MAIANGUWA,18/06/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21587/pu/52971/52971-1677611322.pdf,false
+KADUNA,JABA,SABZURO,UNG ILIYA KUMDANGBO K/GIDAN ILIYA GAIYA,18/06/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21587/pu/52975/52975-1677611191.pdf,false
+KADUNA,JABA,SABZURO,UNG. SHANONO/ K/GIDAN MAIANGUWA,18/06/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21587/pu/52973/52973-1677611045.pdf,true
+KADUNA,JABA,SABZURO,UNG. DAN MUNCI/ PRIMARY SCHOOL,18/06/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21587/pu/52974/52974-1677609932.pdf,false
+KADUNA,JABA,SABZURO,UNG. YEH-YOCK II/ K/GIDAN YEH-YOCK II,18/06/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21587/pu/52976/52976-1677609744.pdf,false

@@ -1,31 +1,31 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,KACHIA,,CHUNGULA/ KOFAR G/SARKI,18/08/03/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53210/result_113479_1677524624_thumb.jpg,true
-KADUNA,KACHIA,,NASARAWA DOKA,18/08/03/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641429/result_113485_1677524272_thumb.jpg,true
-KADUNA,KACHIA,,CHIKWALE,18/08/03/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641433/result_113489_1677523938_thumb.jpg,true
-KADUNA,KACHIA,,GADA LAYI,18/08/03/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641443/result_113499_1677523650_thumb.jpg,true
-KADUNA,KACHIA,,EKWALUWA,18/08/03/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641436/result_113492_1677523374_thumb.jpg,true
-KADUNA,KACHIA,,DOKA I/ LEA PRI. SCH. DOKA,18/08/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53201/result_113470_1677523146_thumb.jpg,true
-KADUNA,KACHIA,,KARADUA,18/08/03/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641438/result_113494_1677522858_thumb.jpg,true
-KADUNA,KACHIA,,SABON MARO/ LEA SABON MARO,18/08/03/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53206/result_113475_1677522438_thumb.jpg,true
-KADUNA,KACHIA,,UBE ABASHIYA,18/08/03/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641431/result_113487_1677522123_thumb.jpg,true
-KADUNA,KACHIA,,RIJANA I/ HEALTH CENTRE,18/08/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53205/result_113474_1677521807_thumb.jpg,true
-KADUNA,KACHIA,,GIDAN BUSA GABAS,18/08/03/028,,true
-KADUNA,KACHIA,,ANFU I/ KOFAR GIDAN M/ANGUWA,18/08/03/014,,true
-KADUNA,KACHIA,,AKILIBU I/ PRI.SCH. AKILIBU,18/08/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21607/pu/53294/53294-1677588702.pdf,false
-KADUNA,KACHIA,,AKILIBU II/ KOFAR G/SARKI,18/08/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21607/pu/53295/53295-1677587798.pdf,true
-KADUNA,KACHIA,,GADA GABAS,18/08/03/029,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21607/pu/146151/146151-1677587067.pdf,true
-KADUNA,KACHIA,,FADAN ACHI,18/08/03/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21607/pu/146146/146146-1677475960.pdf,false
-KADUNA,KACHIA,,UNG. GAJERE,18/08/03/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21607/pu/146148/146148-1677467493.pdf,false
-KADUNA,KACHIA,,ABAKWA,18/08/03/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21607/pu/146139/146139-1677467343.pdf,false
-KADUNA,KACHIA,,MAKAMA GIDAN DUNA/ KOFAR GIDAN SARKI,18/08/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21607/pu/53302/53302-1677466468.pdf,false
-KADUNA,KACHIA,,INLOWO,18/08/03/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21607/pu/146144/146144-1677458924.pdf,false
-KADUNA,KACHIA,,GIDAN BUSA/ KOFAR G/SARKI,18/08/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21607/pu/53298/53298-1677455186.pdf,false
-KADUNA,KACHIA,,ANFU/UJU II/ K/G MAIANGUWA,18/08/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21607/pu/53306/53306-1677454586.pdf,false
-KADUNA,KACHIA,,GIDAN MAMMAN/ KOFAR GIDAN SARKI,18/08/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21607/pu/53303/53303-1677454079.pdf,false
-KADUNA,KACHIA,,UNG. GWARI,18/08/03/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/03/pu/019/019-1677375808.pdf,false
-KADUNA,KACHIA,,SABON GARI AKILIBU,18/08/03/021,,false
-KADUNA,KACHIA,,DOKA II/ G/SARKI,18/08/03/002,,false
-KADUNA,KACHIA,,UNG. PAH/ LEA PRI.SCH. U/PAH,18/08/03/008,,false
-KADUNA,KACHIA,,GIDAN KWASAU/ KOFAR GIDAN MAI ANGUWA,18/08/03/009,,false
-KADUNA,KACHIA,,TIRINGA/ LEA TIRINGA,18/08/03/013,,false
-KADUNA,KACHIA,,SABON MARO II,18/08/03/027,,false
+KADUNA,KACHIA,DOKA,CHUNGULA/ KOFAR G/SARKI,18/08/03/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53210/result_113479_1677524624_thumb.jpg,true
+KADUNA,KACHIA,DOKA,NASARAWA DOKA,18/08/03/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641429/result_113485_1677524272_thumb.jpg,true
+KADUNA,KACHIA,DOKA,CHIKWALE,18/08/03/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641433/result_113489_1677523938_thumb.jpg,true
+KADUNA,KACHIA,DOKA,GADA LAYI,18/08/03/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641443/result_113499_1677523650_thumb.jpg,true
+KADUNA,KACHIA,DOKA,EKWALUWA,18/08/03/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641436/result_113492_1677523374_thumb.jpg,true
+KADUNA,KACHIA,DOKA,DOKA I/ LEA PRI. SCH. DOKA,18/08/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53201/result_113470_1677523146_thumb.jpg,true
+KADUNA,KACHIA,DOKA,KARADUA,18/08/03/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641438/result_113494_1677522858_thumb.jpg,true
+KADUNA,KACHIA,DOKA,SABON MARO/ LEA SABON MARO,18/08/03/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53206/result_113475_1677522438_thumb.jpg,true
+KADUNA,KACHIA,DOKA,UBE ABASHIYA,18/08/03/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641431/result_113487_1677522123_thumb.jpg,true
+KADUNA,KACHIA,DOKA,RIJANA I/ HEALTH CENTRE,18/08/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53205/result_113474_1677521807_thumb.jpg,true
+KADUNA,KACHIA,DOKA,GIDAN BUSA GABAS,18/08/03/028,,true
+KADUNA,KACHIA,DOKA,ANFU I/ KOFAR GIDAN M/ANGUWA,18/08/03/014,,true
+KADUNA,KACHIA,DOKA,AKILIBU I/ PRI.SCH. AKILIBU,18/08/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21607/pu/53294/53294-1677588702.pdf,false
+KADUNA,KACHIA,DOKA,AKILIBU II/ KOFAR G/SARKI,18/08/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21607/pu/53295/53295-1677587798.pdf,true
+KADUNA,KACHIA,DOKA,GADA GABAS,18/08/03/029,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21607/pu/146151/146151-1677587067.pdf,true
+KADUNA,KACHIA,DOKA,FADAN ACHI,18/08/03/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21607/pu/146146/146146-1677475960.pdf,false
+KADUNA,KACHIA,DOKA,UNG. GAJERE,18/08/03/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21607/pu/146148/146148-1677467493.pdf,false
+KADUNA,KACHIA,DOKA,ABAKWA,18/08/03/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21607/pu/146139/146139-1677467343.pdf,false
+KADUNA,KACHIA,DOKA,MAKAMA GIDAN DUNA/ KOFAR GIDAN SARKI,18/08/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21607/pu/53302/53302-1677466468.pdf,false
+KADUNA,KACHIA,DOKA,INLOWO,18/08/03/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21607/pu/146144/146144-1677458924.pdf,false
+KADUNA,KACHIA,DOKA,GIDAN BUSA/ KOFAR G/SARKI,18/08/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21607/pu/53298/53298-1677455186.pdf,false
+KADUNA,KACHIA,DOKA,ANFU/UJU II/ K/G MAIANGUWA,18/08/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21607/pu/53306/53306-1677454586.pdf,false
+KADUNA,KACHIA,DOKA,GIDAN MAMMAN/ KOFAR GIDAN SARKI,18/08/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21607/pu/53303/53303-1677454079.pdf,false
+KADUNA,KACHIA,DOKA,UNG. GWARI,18/08/03/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/03/pu/019/019-1677375808.pdf,false
+KADUNA,KACHIA,DOKA,SABON GARI AKILIBU,18/08/03/021,,false
+KADUNA,KACHIA,DOKA,DOKA II/ G/SARKI,18/08/03/002,,false
+KADUNA,KACHIA,DOKA,UNG. PAH/ LEA PRI.SCH. U/PAH,18/08/03/008,,false
+KADUNA,KACHIA,DOKA,GIDAN KWASAU/ KOFAR GIDAN MAI ANGUWA,18/08/03/009,,false
+KADUNA,KACHIA,DOKA,TIRINGA/ LEA TIRINGA,18/08/03/013,,false
+KADUNA,KACHIA,DOKA,SABON MARO II,18/08/03/027,,false

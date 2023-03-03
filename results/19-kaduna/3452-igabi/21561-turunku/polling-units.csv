@@ -1,47 +1,47 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,IGABI,,GIDAN GAJILO,18/04/01/004,,true
-KADUNA,IGABI,,AMANA MADACHI,18/04/01/003,,true
-KADUNA,IGABI,,TURUNKU SABUWA,18/04/01/002,,true
-KADUNA,IGABI,,TURUNKU TSOHUWA,18/04/01/001,,false
-KADUNA,IGABI,,TSOHUWAR KWANA,18/04/01/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21561/pu/52385/52385-1677487948.pdf,false
-KADUNA,IGABI,,GARGAI I,18/04/01/032,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21561/pu/52391/52391-1677486963.pdf,false
-KADUNA,IGABI,,UNG. GIMBA,18/04/01/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21561/pu/52381/52381-1677486663.pdf,false
-KADUNA,IGABI,,FARAKWAI CLINIC,18/04/01/045,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21561/pu/145696/145696-1677486425.pdf,false
-KADUNA,IGABI,,AMANA KASUWA,18/04/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21561/pu/52365/52365-1677479634.pdf,false
-KADUNA,IGABI,,UNG. LIMAN II,18/04/01/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21561/pu/52376/52376-1677478984.pdf,false
-KADUNA,IGABI,,DUTSE MAI,18/04/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21561/pu/52370/52370-1677477772.pdf,false
-KADUNA,IGABI,,UNG. BAKKO II,18/04/01/037,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21561/pu/52396/52396-1677476696.pdf,false
-KADUNA,IGABI,,UNG. MAI UNGUWA D./MA,18/04/01/039,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21561/pu/52398/52398-1677476222.pdf,false
-KADUNA,IGABI,,UNG. MALLAM MAKU,18/04/01/033,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21561/pu/52392/52392-1677473105.pdf,false
-KADUNA,IGABI,,UNG. MADAKI II,18/04/01/034,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21561/pu/52393/52393-1677454905.pdf,false
-KADUNA,IGABI,,FARAKWAI I,18/04/01/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21561/pu/52382/52382-1677453771.pdf,false
-KADUNA,IGABI,,HURA,18/04/01/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21561/pu/52387/52387-1677452595.pdf,false
-KADUNA,IGABI,,UNG. KURMA II,18/04/01/020,https://docs.inecelectionresults.net/elections/1292/1677444737-52379.pdf,false
-KADUNA,IGABI,,FARAKWAI III,18/04/01/030,https://docs.inecelectionresults.net/elections/1292/1677444191-52389.pdf,false
-KADUNA,IGABI,,UNG. BAKKO I,18/04/01/036,https://docs.inecelectionresults.net/elections/1292/1677442511-52395.pdf,false
-KADUNA,IGABI,,AMANA KASUWA II,18/04/01/040,https://docs.inecelectionresults.net/elections/1292/1677441017-52399.pdf,false
-KADUNA,IGABI,,CHIRINTAWA,18/04/01/027,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/01/pu/027/027-1677416545.pdf,false
-KADUNA,IGABI,,IBADA II,18/04/01/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/01/pu/021/021-1677408788.pdf,false
-KADUNA,IGABI,,DOKA,18/04/01/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/01/pu/015/015-1677395072.pdf,false
-KADUNA,IGABI,,IBADA I,18/04/01/007,,false
-KADUNA,IGABI,,KAN KURMI,18/04/01/012,,false
-KADUNA,IGABI,,UNG. KURMA,18/04/01/009,,false
-KADUNA,IGABI,,UNG. BUWA MAKARANTA,18/04/01/008,,false
-KADUNA,IGABI,,UNG. SHEKARE,18/04/01/013,,false
-KADUNA,IGABI,,KOFOTO,18/04/01/014,,false
-KADUNA,IGABI,,BABBAN RAFI,18/04/01/010,,false
-KADUNA,IGABI,,AMANA MADACHI II,18/04/01/042,,false
-KADUNA,IGABI,,TURUNKU MAKARANTA,18/04/01/018,,false
-KADUNA,IGABI,,UNG. MALLAM CHINDO,18/04/01/019,,false
-KADUNA,IGABI,,FARAKWAI II,18/04/01/024,,false
-KADUNA,IGABI,,FARAKWAI GARI,18/04/01/025,,false
-KADUNA,IGABI,,UNG. JABBO,18/04/01/029,,false
-KADUNA,IGABI,,UNG. SARKIN BARGU,18/04/01/035,,false
-KADUNA,IGABI,,UNG. LIMAN I,18/04/01/016,,false
-KADUNA,IGABI,,GARGAI II,18/04/01/038,,false
-KADUNA,IGABI,,LEA PRIMARY SCHOOL BLOCK 'C',18/04/01/044,,false
-KADUNA,IGABI,,HAYIN KARMA,18/04/01/043,,false
-KADUNA,IGABI,,UNG. MADAKI I,18/04/01/031,,false
-KADUNA,IGABI,,TURUNKU SABUWA II,18/04/01/041,,false
-KADUNA,IGABI,,AMANA KASUWA III,18/04/01/046,,false
-KADUNA,IGABI,,UNG. GALADIMA,18/04/01/005,,false
+KADUNA,IGABI,TURUNKU,GIDAN GAJILO,18/04/01/004,,true
+KADUNA,IGABI,TURUNKU,AMANA MADACHI,18/04/01/003,,true
+KADUNA,IGABI,TURUNKU,TURUNKU SABUWA,18/04/01/002,,true
+KADUNA,IGABI,TURUNKU,TURUNKU TSOHUWA,18/04/01/001,,false
+KADUNA,IGABI,TURUNKU,TSOHUWAR KWANA,18/04/01/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21561/pu/52385/52385-1677487948.pdf,false
+KADUNA,IGABI,TURUNKU,GARGAI I,18/04/01/032,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21561/pu/52391/52391-1677486963.pdf,false
+KADUNA,IGABI,TURUNKU,UNG. GIMBA,18/04/01/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21561/pu/52381/52381-1677486663.pdf,false
+KADUNA,IGABI,TURUNKU,FARAKWAI CLINIC,18/04/01/045,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21561/pu/145696/145696-1677486425.pdf,false
+KADUNA,IGABI,TURUNKU,AMANA KASUWA,18/04/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21561/pu/52365/52365-1677479634.pdf,false
+KADUNA,IGABI,TURUNKU,UNG. LIMAN II,18/04/01/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21561/pu/52376/52376-1677478984.pdf,false
+KADUNA,IGABI,TURUNKU,DUTSE MAI,18/04/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21561/pu/52370/52370-1677477772.pdf,false
+KADUNA,IGABI,TURUNKU,UNG. BAKKO II,18/04/01/037,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21561/pu/52396/52396-1677476696.pdf,false
+KADUNA,IGABI,TURUNKU,UNG. MAI UNGUWA D./MA,18/04/01/039,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21561/pu/52398/52398-1677476222.pdf,false
+KADUNA,IGABI,TURUNKU,UNG. MALLAM MAKU,18/04/01/033,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21561/pu/52392/52392-1677473105.pdf,false
+KADUNA,IGABI,TURUNKU,UNG. MADAKI II,18/04/01/034,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21561/pu/52393/52393-1677454905.pdf,false
+KADUNA,IGABI,TURUNKU,FARAKWAI I,18/04/01/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21561/pu/52382/52382-1677453771.pdf,false
+KADUNA,IGABI,TURUNKU,HURA,18/04/01/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21561/pu/52387/52387-1677452595.pdf,false
+KADUNA,IGABI,TURUNKU,UNG. KURMA II,18/04/01/020,https://docs.inecelectionresults.net/elections/1292/1677444737-52379.pdf,false
+KADUNA,IGABI,TURUNKU,FARAKWAI III,18/04/01/030,https://docs.inecelectionresults.net/elections/1292/1677444191-52389.pdf,false
+KADUNA,IGABI,TURUNKU,UNG. BAKKO I,18/04/01/036,https://docs.inecelectionresults.net/elections/1292/1677442511-52395.pdf,false
+KADUNA,IGABI,TURUNKU,AMANA KASUWA II,18/04/01/040,https://docs.inecelectionresults.net/elections/1292/1677441017-52399.pdf,false
+KADUNA,IGABI,TURUNKU,CHIRINTAWA,18/04/01/027,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/01/pu/027/027-1677416545.pdf,false
+KADUNA,IGABI,TURUNKU,IBADA II,18/04/01/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/01/pu/021/021-1677408788.pdf,false
+KADUNA,IGABI,TURUNKU,DOKA,18/04/01/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/01/pu/015/015-1677395072.pdf,false
+KADUNA,IGABI,TURUNKU,IBADA I,18/04/01/007,,false
+KADUNA,IGABI,TURUNKU,KAN KURMI,18/04/01/012,,false
+KADUNA,IGABI,TURUNKU,UNG. KURMA,18/04/01/009,,false
+KADUNA,IGABI,TURUNKU,UNG. BUWA MAKARANTA,18/04/01/008,,false
+KADUNA,IGABI,TURUNKU,UNG. SHEKARE,18/04/01/013,,false
+KADUNA,IGABI,TURUNKU,KOFOTO,18/04/01/014,,false
+KADUNA,IGABI,TURUNKU,BABBAN RAFI,18/04/01/010,,false
+KADUNA,IGABI,TURUNKU,AMANA MADACHI II,18/04/01/042,,false
+KADUNA,IGABI,TURUNKU,TURUNKU MAKARANTA,18/04/01/018,,false
+KADUNA,IGABI,TURUNKU,UNG. MALLAM CHINDO,18/04/01/019,,false
+KADUNA,IGABI,TURUNKU,FARAKWAI II,18/04/01/024,,false
+KADUNA,IGABI,TURUNKU,FARAKWAI GARI,18/04/01/025,,false
+KADUNA,IGABI,TURUNKU,UNG. JABBO,18/04/01/029,,false
+KADUNA,IGABI,TURUNKU,UNG. SARKIN BARGU,18/04/01/035,,false
+KADUNA,IGABI,TURUNKU,UNG. LIMAN I,18/04/01/016,,false
+KADUNA,IGABI,TURUNKU,GARGAI II,18/04/01/038,,false
+KADUNA,IGABI,TURUNKU,LEA PRIMARY SCHOOL BLOCK 'C',18/04/01/044,,false
+KADUNA,IGABI,TURUNKU,HAYIN KARMA,18/04/01/043,,false
+KADUNA,IGABI,TURUNKU,UNG. MADAKI I,18/04/01/031,,false
+KADUNA,IGABI,TURUNKU,TURUNKU SABUWA II,18/04/01/041,,false
+KADUNA,IGABI,TURUNKU,AMANA KASUWA III,18/04/01/046,,false
+KADUNA,IGABI,TURUNKU,UNG. GALADIMA,18/04/01/005,,false

@@ -1,26 +1,26 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,CHIKUN,,UNGWAN GADO LEA PRIMARY SCHOOL,18/02/02/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640596/result_111324_1677489206_thumb.jpg,true
-KADUNA,CHIKUN,,SABON SARA PRY. SCH.,18/02/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51893/result_111311_1677600674_thumb.jpg,false
-KADUNA,CHIKUN,,UNGWAN MADAKI CLOSE TO DUTSE,18/02/02/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/145292/145292-1677499571.pdf,false
-KADUNA,CHIKUN,,DUTSE PRY. SCH.,18/02/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/51990/51990-1677499279.pdf,false
-KADUNA,CHIKUN,,LEA PRIMARY SCHOOL GAZAMARI DUTSE,18/02/02/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/145291/145291-1677499112.pdf,false
-KADUNA,CHIKUN,,GWANZUNU/ GWANZUNU,18/02/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/51981/51981-1677498473.pdf,false
-KADUNA,CHIKUN,,KAKAMAI K/G SARKI,18/02/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/51993/51993-1677492514.pdf,false
-KADUNA,CHIKUN,,LEA PRIMARY SCHOOL YABUI,18/02/02/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/145289/145289-1677492248.pdf,false
-KADUNA,CHIKUN,,GADANI K/G SARKI,18/02/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/51991/51991-1677491552.pdf,false
-KADUNA,CHIKUN,,KUDERI/ KUDERI,18/02/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/51987/51987-1677491209.pdf,false
-KADUNA,CHIKUN,,LEA PRIMARY SCHOOL CHIKURI,18/02/02/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/145293/145293-1677489353.pdf,false
-KADUNA,CHIKUN,,BASHISHI/ BASHISHI,18/02/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/51992/51992-1677486839.pdf,false
-KADUNA,CHIKUN,,GAJINA/ GAJINA,18/02/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/51982/51982-1677483935.pdf,false
-KADUNA,CHIKUN,,GWAGWADA PRY. SCH.,18/02/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/51979/51979-1677483360.pdf,false
-KADUNA,CHIKUN,,BAKIN KASUWA PRY. SCH.,18/02/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/51985/51985-1677482889.pdf,false
-KADUNA,CHIKUN,,KABARASHA UNG. TURAI,18/02/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/51980/51980-1677482588.pdf,false
-KADUNA,CHIKUN,,LEA PRIMARY SCHOOL GAZAMARI CHIKUN,18/02/02/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/145288/145288-1677479396.pdf,false
-KADUNA,CHIKUN,,WUYA K/G SARKI,18/02/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/51989/51989-1677466020.pdf,false
-KADUNA,CHIKUN,,UNGWAN MISSION LEA PRIMARY SCHOOL,18/02/02/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/145290/145290-1677465622.pdf,false
-KADUNA,CHIKUN,,LUKURU K/G SARKI,18/02/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/008/008-1677428477.pdf,false
-KADUNA,CHIKUN,,KASARAMI K/G SARKI,18/02/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/005/005-1677428290.pdf,false
-KADUNA,CHIKUN,,KAFANA K/G MAIANGUWA,18/02/02/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/017/017-1677428096.pdf,false
-KADUNA,CHIKUN,,KAJARI K/G SARKI,18/02/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/016/016-1677427786.pdf,false
-KADUNA,CHIKUN,,DUTSE II L.E.A. PRY. SCH.,18/02/02/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/018/018-1677427642.pdf,false
-KADUNA,CHIKUN,,KONAN BATURE K/G MAIANGUWA,18/02/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/010/010-1677427066.pdf,false
+KADUNA,CHIKUN,GWAGWADA,UNGWAN GADO LEA PRIMARY SCHOOL,18/02/02/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640596/result_111324_1677489206_thumb.jpg,true
+KADUNA,CHIKUN,GWAGWADA,SABON SARA PRY. SCH.,18/02/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51893/result_111311_1677600674_thumb.jpg,false
+KADUNA,CHIKUN,GWAGWADA,UNGWAN MADAKI CLOSE TO DUTSE,18/02/02/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/145292/145292-1677499571.pdf,false
+KADUNA,CHIKUN,GWAGWADA,DUTSE PRY. SCH.,18/02/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/51990/51990-1677499279.pdf,false
+KADUNA,CHIKUN,GWAGWADA,LEA PRIMARY SCHOOL GAZAMARI DUTSE,18/02/02/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/145291/145291-1677499112.pdf,false
+KADUNA,CHIKUN,GWAGWADA,GWANZUNU/ GWANZUNU,18/02/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/51981/51981-1677498473.pdf,false
+KADUNA,CHIKUN,GWAGWADA,KAKAMAI K/G SARKI,18/02/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/51993/51993-1677492514.pdf,false
+KADUNA,CHIKUN,GWAGWADA,LEA PRIMARY SCHOOL YABUI,18/02/02/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/145289/145289-1677492248.pdf,false
+KADUNA,CHIKUN,GWAGWADA,GADANI K/G SARKI,18/02/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/51991/51991-1677491552.pdf,false
+KADUNA,CHIKUN,GWAGWADA,KUDERI/ KUDERI,18/02/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/51987/51987-1677491209.pdf,false
+KADUNA,CHIKUN,GWAGWADA,LEA PRIMARY SCHOOL CHIKURI,18/02/02/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/145293/145293-1677489353.pdf,false
+KADUNA,CHIKUN,GWAGWADA,BASHISHI/ BASHISHI,18/02/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/51992/51992-1677486839.pdf,false
+KADUNA,CHIKUN,GWAGWADA,GAJINA/ GAJINA,18/02/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/51982/51982-1677483935.pdf,false
+KADUNA,CHIKUN,GWAGWADA,GWAGWADA PRY. SCH.,18/02/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/51979/51979-1677483360.pdf,false
+KADUNA,CHIKUN,GWAGWADA,BAKIN KASUWA PRY. SCH.,18/02/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/51985/51985-1677482889.pdf,false
+KADUNA,CHIKUN,GWAGWADA,KABARASHA UNG. TURAI,18/02/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/51980/51980-1677482588.pdf,false
+KADUNA,CHIKUN,GWAGWADA,LEA PRIMARY SCHOOL GAZAMARI CHIKUN,18/02/02/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/145288/145288-1677479396.pdf,false
+KADUNA,CHIKUN,GWAGWADA,WUYA K/G SARKI,18/02/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/51989/51989-1677466020.pdf,false
+KADUNA,CHIKUN,GWAGWADA,UNGWAN MISSION LEA PRIMARY SCHOOL,18/02/02/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3450/ward/21539/pu/145290/145290-1677465622.pdf,false
+KADUNA,CHIKUN,GWAGWADA,LUKURU K/G SARKI,18/02/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/008/008-1677428477.pdf,false
+KADUNA,CHIKUN,GWAGWADA,KASARAMI K/G SARKI,18/02/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/005/005-1677428290.pdf,false
+KADUNA,CHIKUN,GWAGWADA,KAFANA K/G MAIANGUWA,18/02/02/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/017/017-1677428096.pdf,false
+KADUNA,CHIKUN,GWAGWADA,KAJARI K/G SARKI,18/02/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/016/016-1677427786.pdf,false
+KADUNA,CHIKUN,GWAGWADA,DUTSE II L.E.A. PRY. SCH.,18/02/02/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/018/018-1677427642.pdf,false
+KADUNA,CHIKUN,GWAGWADA,KONAN BATURE K/G MAIANGUWA,18/02/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/010/010-1677427066.pdf,false

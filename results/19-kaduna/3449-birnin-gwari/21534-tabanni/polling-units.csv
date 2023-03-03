@@ -1,18 +1,18 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,BIRNIN GWARI,,K.M. DOKAN RUWA,18/01/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51805/result_111215_1677821690_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,K.M. LASAN,18/01/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51804/result_111214_1677821647_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,UNG. NAKURMI,18/01/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51803/result_111213_1677821600_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,LAYIN LASAN PRY. SCH. II,18/01/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51802/result_111212_1677821538_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,UNG. DANJUMA TELA,18/01/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51800/result_111210_1677821348_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,NEW TABANNI PRY. SCH.,18/01/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51799/result_111209_1677821206_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,UNG. TUMU,18/01/08/015,https://docs.inecelectionresults.net/elections/1292/1677813883-51904.pdf,true
-KADUNA,BIRNIN GWARI,,UNG. DAN-GADO,18/01/08/012,,false
-KADUNA,BIRNIN GWARI,,UNG. MAJARA,18/01/08/011,,false
-KADUNA,BIRNIN GWARI,,K.M. KWALA-KWANGI,18/01/08/009,,false
-KADUNA,BIRNIN GWARI,,UNG. S/NOMA,18/01/08/017,,false
-KADUNA,BIRNIN GWARI,,UNG. S/FAWA,18/01/08/016,,false
-KADUNA,BIRNIN GWARI,,OLD TABANNI,18/01/08/014,,false
-KADUNA,BIRNIN GWARI,,LAYIN LASAN PRY. SCH.,18/01/08/003,,false
-KADUNA,BIRNIN GWARI,,K.M. MAIKYA SUWA,18/01/08/008,,false
-KADUNA,BIRNIN GWARI,,KURMIN SAUCHI PRI. SCH.,18/01/08/013,,false
-KADUNA,BIRNIN GWARI,,K.M. MGARBA,18/01/08/010,,false
+KADUNA,BIRNIN GWARI,TABANNI,UNG. S/FAWA,18/01/08/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51814/result_111224_1677822202_thumb.jpg,false
+KADUNA,BIRNIN GWARI,TABANNI,UNG. TUMU,18/01/08/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51813/result_111223_1677822157_thumb.jpg,true
+KADUNA,BIRNIN GWARI,TABANNI,OLD TABANNI,18/01/08/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51812/result_111222_1677822118_thumb.jpg,false
+KADUNA,BIRNIN GWARI,TABANNI,KURMIN SAUCHI PRI. SCH.,18/01/08/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51811/result_111221_1677822078_thumb.jpg,false
+KADUNA,BIRNIN GWARI,TABANNI,UNG. MAJARA,18/01/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51809/result_111219_1677821940_thumb.jpg,false
+KADUNA,BIRNIN GWARI,TABANNI,K.M. KWALA-KWANGI,18/01/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51807/result_111217_1677821826_thumb.jpg,false
+KADUNA,BIRNIN GWARI,TABANNI,K.M. MGARBA,18/01/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51808/result_111218_1677821868_thumb.jpg,false
+KADUNA,BIRNIN GWARI,TABANNI,K.M. MAIKYA SUWA,18/01/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51806/result_111216_1677821759_thumb.jpg,false
+KADUNA,BIRNIN GWARI,TABANNI,K.M. DOKAN RUWA,18/01/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51805/result_111215_1677821690_thumb.jpg,false
+KADUNA,BIRNIN GWARI,TABANNI,K.M. LASAN,18/01/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51804/result_111214_1677821647_thumb.jpg,false
+KADUNA,BIRNIN GWARI,TABANNI,UNG. NAKURMI,18/01/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51803/result_111213_1677821600_thumb.jpg,false
+KADUNA,BIRNIN GWARI,TABANNI,LAYIN LASAN PRY. SCH. II,18/01/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51802/result_111212_1677821538_thumb.jpg,false
+KADUNA,BIRNIN GWARI,TABANNI,UNG. DANJUMA TELA,18/01/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51800/result_111210_1677821348_thumb.jpg,false
+KADUNA,BIRNIN GWARI,TABANNI,NEW TABANNI PRY. SCH.,18/01/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51799/result_111209_1677821206_thumb.jpg,false
+KADUNA,BIRNIN GWARI,TABANNI,UNG. DAN-GADO,18/01/08/012,,false
+KADUNA,BIRNIN GWARI,TABANNI,UNG. S/NOMA,18/01/08/017,,false
+KADUNA,BIRNIN GWARI,TABANNI,LAYIN LASAN PRY. SCH.,18/01/08/003,,false

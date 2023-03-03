@@ -1,9 +1,9 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,JABA,,UNG. SABON GARI/ K/GIDAN SARKI,18/06/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21591/pu/53017/53017-1677621025.pdf,true
-KADUNA,JABA,,UNG. TUNGA NOK/ K/GIDAN SARKI,18/06/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21591/pu/53011/53011-1677620667.pdf,false
-KADUNA,JABA,,UNG. YARI/ K/GIDAN SARKI,18/06/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21591/pu/53016/53016-1677620413.pdf,false
-KADUNA,JABA,,UNG. DODO/ K/GIDAN SARKI,18/06/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21591/pu/53015/53015-1677620390.pdf,true
-KADUNA,JABA,,UNG. MAKAMA I/ K/GIDAN MAKAMA I,18/06/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21591/pu/53012/53012-1677620100.pdf,false
-KADUNA,JABA,,UNG. WANE TURAKI/ K/GIDAN SARKI,18/06/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21591/pu/53014/53014-1677620041.pdf,true
-KADUNA,JABA,,UNG. MAKAMA II/ K/GIDAN MAKAMA II,18/06/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21591/pu/53018/53018-1677620074.pdf,false
-KADUNA,JABA,,UNG. ZEEH/ K/GIDAN SARKI,18/06/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21591/pu/53013/53013-1677620023.pdf,false
+KADUNA,JABA,NOK,UNG. SABON GARI/ K/GIDAN SARKI,18/06/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21591/pu/53017/53017-1677621025.pdf,true
+KADUNA,JABA,NOK,UNG. TUNGA NOK/ K/GIDAN SARKI,18/06/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21591/pu/53011/53011-1677620667.pdf,false
+KADUNA,JABA,NOK,UNG. YARI/ K/GIDAN SARKI,18/06/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21591/pu/53016/53016-1677620413.pdf,false
+KADUNA,JABA,NOK,UNG. DODO/ K/GIDAN SARKI,18/06/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21591/pu/53015/53015-1677620390.pdf,true
+KADUNA,JABA,NOK,UNG. MAKAMA I/ K/GIDAN MAKAMA I,18/06/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21591/pu/53012/53012-1677620100.pdf,false
+KADUNA,JABA,NOK,UNG. WANE TURAKI/ K/GIDAN SARKI,18/06/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21591/pu/53014/53014-1677620041.pdf,true
+KADUNA,JABA,NOK,UNG. MAKAMA II/ K/GIDAN MAKAMA II,18/06/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21591/pu/53018/53018-1677620074.pdf,false
+KADUNA,JABA,NOK,UNG. ZEEH/ K/GIDAN SARKI,18/06/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21591/pu/53013/53013-1677620023.pdf,false

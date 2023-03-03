@@ -1,29 +1,29 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,JEMA'A,,GALADIMA KYAYYA/ GALADIMA KYAYYA,18/07/10/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-KADUNA,JEMA'A,,UNG. FADA KWARABE/ UNG. FADA KWARABE,18/07/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53109/result_113322_1677653810_thumb.jpg,false
-KADUNA,JEMA'A,,TURKPA/ TURKPA,18/07/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53114/result_113327_1677653640_thumb.jpg,false
-KADUNA,JEMA'A,,MADA YAMMA/ MADA YAMMA,18/07/10/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53125/result_113338_1677653459_thumb.jpg,false
-KADUNA,JEMA'A,,SARKIN GABI I./ SARKIN GABI I.,18/07/10/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53123/result_113336_1677653074_thumb.jpg,false
-KADUNA,JEMA'A,,BULUS GABI TOWN HALL,18/07/10/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-KADUNA,JEMA'A,,SARKIN KYAYYA II./ SARKIN KYAYYA II.,18/07/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53119/result_113332_1677650903_thumb.jpg,false
-KADUNA,JEMA'A,,SARKIN GABI II./ SARKIN II.,18/07/10/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21602/pu/53215/53215-1677454658.pdf,false
-KADUNA,JEMA'A,,YANDA BAWA/ YANDA BAWA,18/07/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21602/pu/53208/53208-1677454572.pdf,false
-KADUNA,JEMA'A,,ACCA/ ACCA,18/07/10/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21602/pu/53219/53219-1677454135.pdf,false
-KADUNA,JEMA'A,,GYOSANGOM / PLAYGROUND,18/07/10/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21602/pu/146082/146082-1677453881.pdf,false
-KADUNA,JEMA'A,,NJEBI/ NJEBI,18/07/10/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21602/pu/53218/53218-1677453608.pdf,false
-KADUNA,JEMA'A,,SARKIN BEDDE (FADA)/ SARKIN BEDDE (FADA),18/07/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21602/pu/53203/53203-1677453536.pdf,false
-KADUNA,JEMA'A,,GIGIRA KYAYYA/ GIGIRA KYAYYA,18/07/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21602/pu/53213/53213-1677453298.pdf,false
-KADUNA,JEMA'A,,GALADIMA GAUTA/ GALADIMA GAUTA,18/07/10/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21602/pu/53221/53221-1677453055.pdf,false
-KADUNA,JEMA'A,,RAMIN-DOP/ RAMIN-DOP,18/07/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21602/pu/53206/53206-1677452752.pdf,false
-KADUNA,JEMA'A,,UNG. SARKI KANOCK I./ UNG. SARKI KANOCK I.,18/07/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21602/pu/53201/53201-1677452524.pdf,false
-KADUNA,JEMA'A,,UNG. SARKI KANOCK II./ UNG. SARKI KANOCK II.,18/07/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21602/pu/53202/53202-1677452494.pdf,false
-KADUNA,JEMA'A,,UNG. MAKAMA / PLAYGROUND,18/07/10/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21602/pu/146085/146085-1677452072.pdf,false
-KADUNA,JEMA'A,,MAGAJIN GARI KYAYYA/ MAGAJIN GARI KYAYYA,18/07/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21602/pu/53212/53212-1677451823.pdf,false
-KADUNA,JEMA'A,,UNG. S/KWARABE/ UNG. S/KWARABE,18/07/10/001,https://docs.inecelectionresults.net/elections/1292/1677451479-53199.pdf,false
-KADUNA,JEMA'A,,GAUTA SARKI/ GAUTA SARKI,18/07/10/022,https://docs.inecelectionresults.net/elections/1292/1677451184-53220.pdf,false
-KADUNA,JEMA'A,,UNG. SARKI MAI BIRI/ UNG. SARKI MAI BIRI,18/07/10/006,https://docs.inecelectionresults.net/elections/1292/1677451099-53204.pdf,false
-KADUNA,JEMA'A,,SARKIN KYAYYA I./ SARKIN KYAYYA I.,18/07/10/011,https://docs.inecelectionresults.net/elections/1292/1677450672-53209.pdf,false
-KADUNA,JEMA'A,,RAMIN-DOP II./ RAMIN-DOP II.,18/07/10/009,https://docs.inecelectionresults.net/elections/1292/1677450379-53207.pdf,false
-KADUNA,JEMA'A,,TUNDU PRIMARY HEALTH CARE / TUNDU PRIMARY HEALTH CARE,18/07/10/026,https://docs.inecelectionresults.net/elections/1292/1677450391-146084.pdf,false
-KADUNA,JEMA'A,,KANOCK / L.G.E.A PRIMARY SCHOOL KANOCK,18/07/10/025,https://docs.inecelectionresults.net/elections/1292/1677450081-146083.pdf,false
-KADUNA,JEMA'A,,WAMBAI MADA/ WAMBAI MADA,18/07/10/019,https://docs.inecelectionresults.net/elections/1292/1677449870-53217.pdf,false
+KADUNA,JEMA'A,BEDDE,GALADIMA KYAYYA/ GALADIMA KYAYYA,18/07/10/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,JEMA'A,BEDDE,UNG. FADA KWARABE/ UNG. FADA KWARABE,18/07/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53109/result_113322_1677653810_thumb.jpg,false
+KADUNA,JEMA'A,BEDDE,TURKPA/ TURKPA,18/07/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53114/result_113327_1677653640_thumb.jpg,false
+KADUNA,JEMA'A,BEDDE,MADA YAMMA/ MADA YAMMA,18/07/10/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53125/result_113338_1677653459_thumb.jpg,false
+KADUNA,JEMA'A,BEDDE,SARKIN GABI I./ SARKIN GABI I.,18/07/10/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53123/result_113336_1677653074_thumb.jpg,false
+KADUNA,JEMA'A,BEDDE,BULUS GABI TOWN HALL,18/07/10/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,JEMA'A,BEDDE,SARKIN KYAYYA II./ SARKIN KYAYYA II.,18/07/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53119/result_113332_1677650903_thumb.jpg,false
+KADUNA,JEMA'A,BEDDE,SARKIN GABI II./ SARKIN II.,18/07/10/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21602/pu/53215/53215-1677454658.pdf,false
+KADUNA,JEMA'A,BEDDE,YANDA BAWA/ YANDA BAWA,18/07/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21602/pu/53208/53208-1677454572.pdf,false
+KADUNA,JEMA'A,BEDDE,ACCA/ ACCA,18/07/10/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21602/pu/53219/53219-1677454135.pdf,false
+KADUNA,JEMA'A,BEDDE,GYOSANGOM / PLAYGROUND,18/07/10/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21602/pu/146082/146082-1677453881.pdf,false
+KADUNA,JEMA'A,BEDDE,NJEBI/ NJEBI,18/07/10/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21602/pu/53218/53218-1677453608.pdf,false
+KADUNA,JEMA'A,BEDDE,SARKIN BEDDE (FADA)/ SARKIN BEDDE (FADA),18/07/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21602/pu/53203/53203-1677453536.pdf,false
+KADUNA,JEMA'A,BEDDE,GIGIRA KYAYYA/ GIGIRA KYAYYA,18/07/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21602/pu/53213/53213-1677453298.pdf,false
+KADUNA,JEMA'A,BEDDE,GALADIMA GAUTA/ GALADIMA GAUTA,18/07/10/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21602/pu/53221/53221-1677453055.pdf,false
+KADUNA,JEMA'A,BEDDE,RAMIN-DOP/ RAMIN-DOP,18/07/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21602/pu/53206/53206-1677452752.pdf,false
+KADUNA,JEMA'A,BEDDE,UNG. SARKI KANOCK I./ UNG. SARKI KANOCK I.,18/07/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21602/pu/53201/53201-1677452524.pdf,false
+KADUNA,JEMA'A,BEDDE,UNG. SARKI KANOCK II./ UNG. SARKI KANOCK II.,18/07/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21602/pu/53202/53202-1677452494.pdf,false
+KADUNA,JEMA'A,BEDDE,UNG. MAKAMA / PLAYGROUND,18/07/10/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21602/pu/146085/146085-1677452072.pdf,false
+KADUNA,JEMA'A,BEDDE,MAGAJIN GARI KYAYYA/ MAGAJIN GARI KYAYYA,18/07/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21602/pu/53212/53212-1677451823.pdf,false
+KADUNA,JEMA'A,BEDDE,UNG. S/KWARABE/ UNG. S/KWARABE,18/07/10/001,https://docs.inecelectionresults.net/elections/1292/1677451479-53199.pdf,false
+KADUNA,JEMA'A,BEDDE,GAUTA SARKI/ GAUTA SARKI,18/07/10/022,https://docs.inecelectionresults.net/elections/1292/1677451184-53220.pdf,false
+KADUNA,JEMA'A,BEDDE,UNG. SARKI MAI BIRI/ UNG. SARKI MAI BIRI,18/07/10/006,https://docs.inecelectionresults.net/elections/1292/1677451099-53204.pdf,false
+KADUNA,JEMA'A,BEDDE,SARKIN KYAYYA I./ SARKIN KYAYYA I.,18/07/10/011,https://docs.inecelectionresults.net/elections/1292/1677450672-53209.pdf,false
+KADUNA,JEMA'A,BEDDE,RAMIN-DOP II./ RAMIN-DOP II.,18/07/10/009,https://docs.inecelectionresults.net/elections/1292/1677450379-53207.pdf,false
+KADUNA,JEMA'A,BEDDE,TUNDU PRIMARY HEALTH CARE / TUNDU PRIMARY HEALTH CARE,18/07/10/026,https://docs.inecelectionresults.net/elections/1292/1677450391-146084.pdf,false
+KADUNA,JEMA'A,BEDDE,KANOCK / L.G.E.A PRIMARY SCHOOL KANOCK,18/07/10/025,https://docs.inecelectionresults.net/elections/1292/1677450081-146083.pdf,false
+KADUNA,JEMA'A,BEDDE,WAMBAI MADA/ WAMBAI MADA,18/07/10/019,https://docs.inecelectionresults.net/elections/1292/1677449870-53217.pdf,false

@@ -1,53 +1,53 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,IKARA,,G.S.S IKARA,18/05/01/038,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641222/result_112730_1677689038_thumb.jpg,false
-KADUNA,IKARA,,UNG. MAGAJIN GARI III/ ASIBITIN K/SAMBO,18/05/01/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52650/result_112707_1677688730_thumb.jpg,false
-KADUNA,IKARA,,UNG. MAGAJIN GARI II/ NEAR K/GIDAN MAIANGUWA,18/05/01/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52649/result_112706_1677688491_thumb.jpg,false
-KADUNA,IKARA,,UNG. WAZIRI/ PRIMARY SCHOOL,18/05/01/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52660/result_112717_1677676515_thumb.jpg,false
-KADUNA,IKARA,,HAYIN MAGINA I/ READING ROOM,18/05/01/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52644/result_112701_1677675574_thumb.jpg,false
-KADUNA,IKARA,,ANG. MAKAMA II,18/05/01/035,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641219/result_112727_1677675484_thumb.jpg,false
-KADUNA,IKARA,,UNG. GABAS/ PRIMARY SCHOOL,18/05/01/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52663/result_112720_1677674144_thumb.jpg,false
-KADUNA,IKARA,,HAMBAWA,18/05/01/049,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641233/result_112741_1677504391_thumb.jpg,true
-KADUNA,IKARA,,G.R.A. III,18/05/01/048,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641232/result_112740_1677595444_thumb.jpg,false
-KADUNA,IKARA,,ANG. GABAS II,18/05/01/051,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641235/result_112743_1677594680_thumb.jpg,false
-KADUNA,IKARA,,ANG. MAGAJIN GARI STADIUM III,18/05/01/043,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641227/result_112735_1677594637_thumb.jpg,false
-KADUNA,IKARA,,UNG. AHMADU DOGO/ PRIMARY SCHOOL,18/05/01/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52643/result_112700_1677594465_thumb.jpg,false
-KADUNA,IKARA,,UNG. BAKOSHI/ NEAR K/GIDAN MAIANGUWA,18/05/01/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52658/result_112715_1677593971_thumb.jpg,false
-KADUNA,IKARA,,UNG. KANAWA/ NEAR K/GIDAN MAIANGUWA,18/05/01/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52656/result_112713_1677589573_thumb.jpg,false
-KADUNA,IKARA,,UNG. BADAMASI/ NEAR K/GIDAN MAIANGUWA,18/05/01/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52662/result_112719_1677585376_thumb.jpg,false
-KADUNA,IKARA,,HAYIN MAGINA III/READING ROOM,18/05/01/039,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641223/result_112731_1677589005_thumb.jpg,false
-KADUNA,IKARA,,UNG. LIMAN/ PRIMARY SCHOOL,18/05/01/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52657/result_112714_1677592566_thumb.jpg,false
-KADUNA,IKARA,,ANG. MAKAMA  III,18/05/01/036,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641220/result_112728_1677581235_thumb.jpg,false
-KADUNA,IKARA,,UNG. WAZIRI I/ CENTRAL PRIMARY SCHOOL,18/05/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52636/result_112693_1677588111_thumb.jpg,false
-KADUNA,IKARA,,G.R.A./ STATE SECRETARIAT,18/05/01/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52653/result_112710_1677590526_thumb.jpg,false
-KADUNA,IKARA,,UNG. WAZIRI II/ CENTRAL PRIMARY SCHOOL,18/05/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52637/result_112694_1677592527_thumb.jpg,false
-KADUNA,IKARA,,MAGAJI ABUBAKAR PRI. SCH.,18/05/01/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641218/result_112726_1677591498_thumb.jpg,false
-KADUNA,IKARA,,UNG. WAZIRI IV/CENTRAL PRIMARY SCHOOL,18/05/01/031,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641215/result_112723_1677589606_thumb.jpg,false
-KADUNA,IKARA,,UNG. MAKAMA III/ NEAR K/GIDAN MAIANGUWA,18/05/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-KADUNA,IKARA,,UNG. WAZIRI III/CENTRAL PRIMARY SCHOOL,18/05/01/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641214/result_112722_1677590860_thumb.jpg,false
-KADUNA,IKARA,,ZAGE-ZAGI II,18/05/01/050,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641234/result_112742_1677589779_thumb.jpg,false
-KADUNA,IKARA,,UNG. MAGAJIN GARI IV/NEAR K/GIDAN MAIANGUWA,18/05/01/044,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641228/result_112736_1677589570_thumb.jpg,false
-KADUNA,IKARA,,ZAGE-ZAGI/ PRIMARY SCHOOL,18/05/01/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52655/result_112712_1677591969_thumb.jpg,false
-KADUNA,IKARA,,ANG. MAKAMA IV,18/05/01/037,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641221/result_112729_1677586949_thumb.jpg,false
-KADUNA,IKARA,,UNG. KATSALLE/ NEAR K/GIDAN MAIANGUWA,18/05/01/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52661/result_112718_1677591448_thumb.jpg,false
-KADUNA,IKARA,,UNG. MAKAMA I/ NEAR K/GIDAN MAIANGUWA,18/05/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52640/result_112697_1677582851_thumb.jpg,false
-KADUNA,IKARA,,ANG. KAROFI,18/05/01/045,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641229/result_112737_1677591648_thumb.jpg,false
-KADUNA,IKARA,,KANKANKI/ PRIMARY SCHOOL,18/05/01/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52659/result_112716_1677586615_thumb.jpg,false
-KADUNA,IKARA,,UNG. MAGAJIN GARI IV/ NEAR K/GIDAN MAIANGUWA,18/05/01/029,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52664/result_112721_1677589839_thumb.jpg,false
-KADUNA,IKARA,,UNG. MAKAMA II/ NEAR K/GIDAN MAIANGUWA,18/05/01/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52641/result_112698_1677592883_thumb.jpg,false
-KADUNA,IKARA,,AUCHANAWA/ PRIMARY SCHOOL,18/05/01/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-KADUNA,IKARA,,SABON GARI/ LOCAL GOVT. CAR PARK,18/05/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52638/result_112695_1677585144_thumb.jpg,false
-KADUNA,IKARA,,UNG. ISAH/ PRIMARY SCHOOL,18/05/01/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52652/result_112709_1677590946_thumb.jpg,false
-KADUNA,IKARA,,ANG. MAGAJIN GARI STADIUM,18/05/01/042,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641226/result_112734_1677584813_thumb.jpg,false
-KADUNA,IKARA,,G.R.A. II,18/05/01/047,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641231/result_112739_1677590768_thumb.jpg,false
-KADUNA,IKARA,,UNG. MAJIDADI/ K/ABUBAKAR PRIMARY,18/05/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52639/result_112696_1677587334_thumb.jpg,false
-KADUNA,IKARA,,LUNGU II,18/05/01/032,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641216/result_112724_1677590614_thumb.jpg,false
-KADUNA,IKARA,,HIGH WAY IKARA,18/05/01/041,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641225/result_112733_1677591582_thumb.jpg,false
-KADUNA,IKARA,,M/ABUBAKAR PRI. SCH.,18/05/01/040,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641224/result_112732_1677582385_thumb.jpg,false
-KADUNA,IKARA,,LEA PRI. SCH. ISAH,18/05/01/046,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641230/result_112738_1677587981_thumb.jpg,false
-KADUNA,IKARA,,UNG. AKAWU/ M/ABUBAKAR PRIMARY,18/05/01/012,,false
-KADUNA,IKARA,,UNG. MAGAJIN GARI I/ NEAR K/GIDAN MAIANGUWA,18/05/01/013,,false
-KADUNA,IKARA,,COMPR. ACADEMY IKARA,18/05/01/052,,false
-KADUNA,IKARA,,SABON-GARI II,18/05/01/033,,false
-KADUNA,IKARA,,HAYIN MAGINA II/ READING ROOM,18/05/01/010,,false
-KADUNA,IKARA,,UNG. NUHU/ PRIMARY SCHOOL,18/05/01/011,,false
-KADUNA,IKARA,,KWASALLAWA/ NEAR K/GIDAN MAIANGUWA,18/05/01/016,,false
+KADUNA,IKARA,IKARA,G.S.S IKARA,18/05/01/038,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641222/result_112730_1677689038_thumb.jpg,false
+KADUNA,IKARA,IKARA,UNG. MAGAJIN GARI III/ ASIBITIN K/SAMBO,18/05/01/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52650/result_112707_1677688730_thumb.jpg,false
+KADUNA,IKARA,IKARA,UNG. MAGAJIN GARI II/ NEAR K/GIDAN MAIANGUWA,18/05/01/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52649/result_112706_1677688491_thumb.jpg,false
+KADUNA,IKARA,IKARA,UNG. WAZIRI/ PRIMARY SCHOOL,18/05/01/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52660/result_112717_1677676515_thumb.jpg,false
+KADUNA,IKARA,IKARA,HAYIN MAGINA I/ READING ROOM,18/05/01/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52644/result_112701_1677675574_thumb.jpg,false
+KADUNA,IKARA,IKARA,ANG. MAKAMA II,18/05/01/035,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641219/result_112727_1677675484_thumb.jpg,false
+KADUNA,IKARA,IKARA,UNG. GABAS/ PRIMARY SCHOOL,18/05/01/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52663/result_112720_1677674144_thumb.jpg,false
+KADUNA,IKARA,IKARA,HAMBAWA,18/05/01/049,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641233/result_112741_1677504391_thumb.jpg,true
+KADUNA,IKARA,IKARA,G.R.A. III,18/05/01/048,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641232/result_112740_1677595444_thumb.jpg,false
+KADUNA,IKARA,IKARA,ANG. GABAS II,18/05/01/051,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641235/result_112743_1677594680_thumb.jpg,false
+KADUNA,IKARA,IKARA,ANG. MAGAJIN GARI STADIUM III,18/05/01/043,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641227/result_112735_1677594637_thumb.jpg,false
+KADUNA,IKARA,IKARA,UNG. AHMADU DOGO/ PRIMARY SCHOOL,18/05/01/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52643/result_112700_1677594465_thumb.jpg,false
+KADUNA,IKARA,IKARA,UNG. BAKOSHI/ NEAR K/GIDAN MAIANGUWA,18/05/01/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52658/result_112715_1677593971_thumb.jpg,false
+KADUNA,IKARA,IKARA,UNG. KANAWA/ NEAR K/GIDAN MAIANGUWA,18/05/01/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52656/result_112713_1677589573_thumb.jpg,false
+KADUNA,IKARA,IKARA,UNG. BADAMASI/ NEAR K/GIDAN MAIANGUWA,18/05/01/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52662/result_112719_1677585376_thumb.jpg,false
+KADUNA,IKARA,IKARA,HAYIN MAGINA III/READING ROOM,18/05/01/039,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641223/result_112731_1677589005_thumb.jpg,false
+KADUNA,IKARA,IKARA,UNG. LIMAN/ PRIMARY SCHOOL,18/05/01/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52657/result_112714_1677592566_thumb.jpg,false
+KADUNA,IKARA,IKARA,ANG. MAKAMA  III,18/05/01/036,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641220/result_112728_1677581235_thumb.jpg,false
+KADUNA,IKARA,IKARA,UNG. WAZIRI I/ CENTRAL PRIMARY SCHOOL,18/05/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52636/result_112693_1677588111_thumb.jpg,false
+KADUNA,IKARA,IKARA,G.R.A./ STATE SECRETARIAT,18/05/01/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52653/result_112710_1677590526_thumb.jpg,false
+KADUNA,IKARA,IKARA,UNG. WAZIRI II/ CENTRAL PRIMARY SCHOOL,18/05/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52637/result_112694_1677592527_thumb.jpg,false
+KADUNA,IKARA,IKARA,MAGAJI ABUBAKAR PRI. SCH.,18/05/01/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641218/result_112726_1677591498_thumb.jpg,false
+KADUNA,IKARA,IKARA,UNG. WAZIRI IV/CENTRAL PRIMARY SCHOOL,18/05/01/031,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641215/result_112723_1677589606_thumb.jpg,false
+KADUNA,IKARA,IKARA,UNG. MAKAMA III/ NEAR K/GIDAN MAIANGUWA,18/05/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,IKARA,IKARA,UNG. WAZIRI III/CENTRAL PRIMARY SCHOOL,18/05/01/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641214/result_112722_1677590860_thumb.jpg,false
+KADUNA,IKARA,IKARA,ZAGE-ZAGI II,18/05/01/050,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641234/result_112742_1677589779_thumb.jpg,false
+KADUNA,IKARA,IKARA,UNG. MAGAJIN GARI IV/NEAR K/GIDAN MAIANGUWA,18/05/01/044,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641228/result_112736_1677589570_thumb.jpg,false
+KADUNA,IKARA,IKARA,ZAGE-ZAGI/ PRIMARY SCHOOL,18/05/01/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52655/result_112712_1677591969_thumb.jpg,false
+KADUNA,IKARA,IKARA,ANG. MAKAMA IV,18/05/01/037,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641221/result_112729_1677586949_thumb.jpg,false
+KADUNA,IKARA,IKARA,UNG. KATSALLE/ NEAR K/GIDAN MAIANGUWA,18/05/01/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52661/result_112718_1677591448_thumb.jpg,false
+KADUNA,IKARA,IKARA,UNG. MAKAMA I/ NEAR K/GIDAN MAIANGUWA,18/05/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52640/result_112697_1677582851_thumb.jpg,false
+KADUNA,IKARA,IKARA,ANG. KAROFI,18/05/01/045,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641229/result_112737_1677591648_thumb.jpg,false
+KADUNA,IKARA,IKARA,KANKANKI/ PRIMARY SCHOOL,18/05/01/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52659/result_112716_1677586615_thumb.jpg,false
+KADUNA,IKARA,IKARA,UNG. MAGAJIN GARI IV/ NEAR K/GIDAN MAIANGUWA,18/05/01/029,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52664/result_112721_1677589839_thumb.jpg,false
+KADUNA,IKARA,IKARA,UNG. MAKAMA II/ NEAR K/GIDAN MAIANGUWA,18/05/01/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52641/result_112698_1677592883_thumb.jpg,false
+KADUNA,IKARA,IKARA,AUCHANAWA/ PRIMARY SCHOOL,18/05/01/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,IKARA,IKARA,SABON GARI/ LOCAL GOVT. CAR PARK,18/05/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52638/result_112695_1677585144_thumb.jpg,false
+KADUNA,IKARA,IKARA,UNG. ISAH/ PRIMARY SCHOOL,18/05/01/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52652/result_112709_1677590946_thumb.jpg,false
+KADUNA,IKARA,IKARA,ANG. MAGAJIN GARI STADIUM,18/05/01/042,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641226/result_112734_1677584813_thumb.jpg,false
+KADUNA,IKARA,IKARA,G.R.A. II,18/05/01/047,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641231/result_112739_1677590768_thumb.jpg,false
+KADUNA,IKARA,IKARA,UNG. MAJIDADI/ K/ABUBAKAR PRIMARY,18/05/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52639/result_112696_1677587334_thumb.jpg,false
+KADUNA,IKARA,IKARA,LUNGU II,18/05/01/032,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641216/result_112724_1677590614_thumb.jpg,false
+KADUNA,IKARA,IKARA,HIGH WAY IKARA,18/05/01/041,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641225/result_112733_1677591582_thumb.jpg,false
+KADUNA,IKARA,IKARA,M/ABUBAKAR PRI. SCH.,18/05/01/040,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641224/result_112732_1677582385_thumb.jpg,false
+KADUNA,IKARA,IKARA,LEA PRI. SCH. ISAH,18/05/01/046,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641230/result_112738_1677587981_thumb.jpg,false
+KADUNA,IKARA,IKARA,UNG. AKAWU/ M/ABUBAKAR PRIMARY,18/05/01/012,,false
+KADUNA,IKARA,IKARA,UNG. MAGAJIN GARI I/ NEAR K/GIDAN MAIANGUWA,18/05/01/013,,false
+KADUNA,IKARA,IKARA,COMPR. ACADEMY IKARA,18/05/01/052,,false
+KADUNA,IKARA,IKARA,SABON-GARI II,18/05/01/033,,false
+KADUNA,IKARA,IKARA,HAYIN MAGINA II/ READING ROOM,18/05/01/010,,false
+KADUNA,IKARA,IKARA,UNG. NUHU/ PRIMARY SCHOOL,18/05/01/011,,false
+KADUNA,IKARA,IKARA,KWASALLAWA/ NEAR K/GIDAN MAIANGUWA,18/05/01/016,,false

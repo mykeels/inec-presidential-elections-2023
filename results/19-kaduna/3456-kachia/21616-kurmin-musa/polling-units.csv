@@ -1,18 +1,18 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,KACHIA,,GIDAN MAKAM,18/08/12/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641493/result_113717_1677633388_thumb.jpg,false
-KADUNA,KACHIA,,UNG. SARKI,18/08/12/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641492/result_113716_1677633270_thumb.jpg,false
-KADUNA,KACHIA,,UNG. GWANA,18/08/12/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641491/result_113715_1677633135_thumb.jpg,false
-KADUNA,KACHIA,,KWAGIRI JABA,18/08/12/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641490/result_113714_1677632978_thumb.jpg,false
-KADUNA,KACHIA,,GYANI II/ L.E.A. PRI. SCH.,18/08/12/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53372/result_113713_1677632750_thumb.jpg,false
-KADUNA,KACHIA,,SABON MASHI DAM II/ K/G SARKI,18/08/12/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53371/result_113712_1677632478_thumb.jpg,false
-KADUNA,KACHIA,,GIDAN JABIR PRIMARY SCHOOL,18/08/12/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53370/result_113711_1677632355_thumb.jpg,false
-KADUNA,KACHIA,,ANTONG GAGARA/ K/G SARKI,18/08/12/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53369/result_113710_1677632246_thumb.jpg,false
-KADUNA,KACHIA,,KURMIN MUSA II/ L.E.A PRI.SCH.,18/08/12/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53368/result_113709_1677632107_thumb.jpg,false
-KADUNA,KACHIA,,SABON MASHI DAM I/ K/G SARKI,18/08/12/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53367/result_113708_1677631991_thumb.jpg,false
-KADUNA,KACHIA,,LOKOGA/ K/G SARKI,18/08/12/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53366/result_113707_1677631878_thumb.jpg,false
-KADUNA,KACHIA,,GIDAN MAI KAI/ K/G SARKI,18/08/12/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53365/result_113706_1677631441_thumb.jpg,false
-KADUNA,KACHIA,,RIKUWAN/ L.E.A. PRI.SCH.,18/08/12/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53364/result_113705_1677631307_thumb.jpg,false
-KADUNA,KACHIA,,BENJOCK/ K/G SARKI,18/08/12/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53363/result_113704_1677631170_thumb.jpg,false
-KADUNA,KACHIA,,KURMIN MUSA I/ L.E.A. PRI.SCH.,18/08/12/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-KADUNA,KACHIA,,ANTONG TUNA/ K/G SARKI,18/08/12/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53361/result_113702_1677630816_thumb.jpg,false
-KADUNA,KACHIA,,GYANI/ L.E.A. PRI.SCH.,18/08/12/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53360/result_113701_1677630415_thumb.jpg,false
+KADUNA,KACHIA,KURMIN MUSA,GIDAN MAKAM,18/08/12/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641493/result_113717_1677633388_thumb.jpg,false
+KADUNA,KACHIA,KURMIN MUSA,UNG. SARKI,18/08/12/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641492/result_113716_1677633270_thumb.jpg,false
+KADUNA,KACHIA,KURMIN MUSA,UNG. GWANA,18/08/12/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641491/result_113715_1677633135_thumb.jpg,false
+KADUNA,KACHIA,KURMIN MUSA,KWAGIRI JABA,18/08/12/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641490/result_113714_1677632978_thumb.jpg,false
+KADUNA,KACHIA,KURMIN MUSA,GYANI II/ L.E.A. PRI. SCH.,18/08/12/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53372/result_113713_1677632750_thumb.jpg,false
+KADUNA,KACHIA,KURMIN MUSA,SABON MASHI DAM II/ K/G SARKI,18/08/12/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53371/result_113712_1677632478_thumb.jpg,false
+KADUNA,KACHIA,KURMIN MUSA,GIDAN JABIR PRIMARY SCHOOL,18/08/12/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53370/result_113711_1677632355_thumb.jpg,false
+KADUNA,KACHIA,KURMIN MUSA,ANTONG GAGARA/ K/G SARKI,18/08/12/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53369/result_113710_1677632246_thumb.jpg,false
+KADUNA,KACHIA,KURMIN MUSA,KURMIN MUSA II/ L.E.A PRI.SCH.,18/08/12/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53368/result_113709_1677632107_thumb.jpg,false
+KADUNA,KACHIA,KURMIN MUSA,SABON MASHI DAM I/ K/G SARKI,18/08/12/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53367/result_113708_1677631991_thumb.jpg,false
+KADUNA,KACHIA,KURMIN MUSA,LOKOGA/ K/G SARKI,18/08/12/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53366/result_113707_1677631878_thumb.jpg,false
+KADUNA,KACHIA,KURMIN MUSA,GIDAN MAI KAI/ K/G SARKI,18/08/12/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53365/result_113706_1677631441_thumb.jpg,false
+KADUNA,KACHIA,KURMIN MUSA,RIKUWAN/ L.E.A. PRI.SCH.,18/08/12/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53364/result_113705_1677631307_thumb.jpg,false
+KADUNA,KACHIA,KURMIN MUSA,BENJOCK/ K/G SARKI,18/08/12/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53363/result_113704_1677631170_thumb.jpg,false
+KADUNA,KACHIA,KURMIN MUSA,KURMIN MUSA I/ L.E.A. PRI.SCH.,18/08/12/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,KACHIA,KURMIN MUSA,ANTONG TUNA/ K/G SARKI,18/08/12/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53361/result_113702_1677630816_thumb.jpg,false
+KADUNA,KACHIA,KURMIN MUSA,GYANI/ L.E.A. PRI.SCH.,18/08/12/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53360/result_113701_1677630415_thumb.jpg,false

@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,JABA,,"OLD MARKET SQUARE(UNG. SHERE II KAGORO,UBE P/S FOGYIE)",18/06/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21585/pu/52951/52951-1677608219.pdf,true
-KADUNA,JABA,,UNG. MANAGER ZOM BYAT,18/06/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21585/pu/145990/145990-1677607845.pdf,true
-KADUNA,JABA,,UNG. T/WADA/ K/GIDAN MAIANGUWA,18/06/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21585/pu/52953/52953-1677607746.pdf,true
-KADUNA,JABA,,UNG. AHMADU YERE/ K/GIDAN DAKACE,18/06/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21585/pu/52955/52955-1677607325.pdf,true
-KADUNA,JABA,,UNG. BUBAT/ K/GIDAN MAIANGUWA,18/06/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21585/pu/52954/52954-1677607316.pdf,true
-KADUNA,JABA,,TOWN HALL/ NEAR TOWN HALL,18/06/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21585/pu/52952/52952-1677602852.pdf,false
-KADUNA,JABA,,UNG. GALADIMA II/ K/GIDAN GALADIMA II,18/06/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21585/pu/52949/52949-1677602512.pdf,false
-KADUNA,JABA,,UNG. DAUDA/ K/GIDAN DAUDA,18/06/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21585/pu/52956/52956-1677602381.pdf,false
-KADUNA,JABA,,UNG. ADAKYE/ K/GIDAN ADAKYE,18/06/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21585/pu/52958/52958-1677601817.pdf,true
-KADUNA,JABA,,UNG. GALADIMA 1A/ K/GALADIMA 1A,18/06/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21585/pu/52948/52948-1677601771.pdf,false
-KADUNA,JABA,,UNG. GALADIMA 1B/ K/GIDAN GALADIMA 1B,18/06/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21585/pu/52959/52959-1677601640.pdf,false
-KADUNA,JABA,,UNG. CHERE I/ K/GIDAN CHERE,18/06/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21585/pu/52950/52950-1677601347.pdf,false
-KADUNA,JABA,,UNG. YEBANG/ K/GIDAN YEBANG,18/06/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21585/pu/52957/52957-1677601288.pdf,true
+KADUNA,JABA,FADA,"OLD MARKET SQUARE(UNG. SHERE II KAGORO,UBE P/S FOGYIE)",18/06/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21585/pu/52951/52951-1677608219.pdf,true
+KADUNA,JABA,FADA,UNG. MANAGER ZOM BYAT,18/06/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21585/pu/145990/145990-1677607845.pdf,true
+KADUNA,JABA,FADA,UNG. T/WADA/ K/GIDAN MAIANGUWA,18/06/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21585/pu/52953/52953-1677607746.pdf,true
+KADUNA,JABA,FADA,UNG. AHMADU YERE/ K/GIDAN DAKACE,18/06/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21585/pu/52955/52955-1677607325.pdf,true
+KADUNA,JABA,FADA,UNG. BUBAT/ K/GIDAN MAIANGUWA,18/06/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21585/pu/52954/52954-1677607316.pdf,true
+KADUNA,JABA,FADA,TOWN HALL/ NEAR TOWN HALL,18/06/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21585/pu/52952/52952-1677602852.pdf,false
+KADUNA,JABA,FADA,UNG. GALADIMA II/ K/GIDAN GALADIMA II,18/06/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21585/pu/52949/52949-1677602512.pdf,false
+KADUNA,JABA,FADA,UNG. DAUDA/ K/GIDAN DAUDA,18/06/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21585/pu/52956/52956-1677602381.pdf,false
+KADUNA,JABA,FADA,UNG. ADAKYE/ K/GIDAN ADAKYE,18/06/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21585/pu/52958/52958-1677601817.pdf,true
+KADUNA,JABA,FADA,UNG. GALADIMA 1A/ K/GALADIMA 1A,18/06/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21585/pu/52948/52948-1677601771.pdf,false
+KADUNA,JABA,FADA,UNG. GALADIMA 1B/ K/GIDAN GALADIMA 1B,18/06/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21585/pu/52959/52959-1677601640.pdf,false
+KADUNA,JABA,FADA,UNG. CHERE I/ K/GIDAN CHERE,18/06/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21585/pu/52950/52950-1677601347.pdf,false
+KADUNA,JABA,FADA,UNG. YEBANG/ K/GIDAN YEBANG,18/06/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21585/pu/52957/52957-1677601288.pdf,true

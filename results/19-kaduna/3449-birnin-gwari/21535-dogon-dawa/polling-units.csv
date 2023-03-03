@@ -1,20 +1,20 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,BIRNIN GWARI,,UNG. GWANDARA,18/01/09/013,https://docs.inecelectionresults.net/elections/1292/1677805664-51919.pdf,true
-KADUNA,BIRNIN GWARI,,P.H.C UNG DANKO,18/01/09/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640514/result_111244_1677800585_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,UNG MAI ALEWA SPORT GROUND (OS),18/01/09/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640513/result_111243_1677800523_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,UNG. ADUHU,18/01/09/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51832/result_111242_1677800473_thumb.jpg,true
-KADUNA,BIRNIN GWARI,,UNG. LACHA,18/01/09/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51831/result_111241_1677800428_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,UNG. DANKO PRY. SCH.,18/01/09/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51830/result_111240_1677800374_thumb.jpg,true
-KADUNA,BIRNIN GWARI,,FUNTUA BADADI,18/01/09/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51829/result_111239_1677800324_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,UNG. SAMINAKA,18/01/09/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51827/result_111237_1677800210_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,UNG. RAFIN GORA,18/01/09/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51826/result_111236_1677799966_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,UNG. RAFIN TUKURWA,18/01/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51825/result_111235_1677799914_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,UNG. WUSAN,18/01/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51824/result_111234_1677799858_thumb.jpg,true
-KADUNA,BIRNIN GWARI,,SABON GARI D/DAWA,18/01/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51823/result_111233_1677799800_thumb.jpg,true
-KADUNA,BIRNIN GWARI,,TUDUN WADA D/DAWA,18/01/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51822/result_111232_1677799738_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,DISPENSARY II,18/01/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51821/result_111231_1677799665_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,DISPENSARY I,18/01/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51820/result_111230_1677799582_thumb.jpg,true
-KADUNA,BIRNIN GWARI,,FUNTUAN BADADI,18/01/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51819/result_111229_1677799505_thumb.jpg,true
-KADUNA,BIRNIN GWARI,,DOGON-DAWA PRY. SCH. I,18/01/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51818/result_111228_1677799427_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,K.G. ALHAJI SHEHU,18/01/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51817/result_111227_1677799355_thumb.jpg,false
-KADUNA,BIRNIN GWARI,,K.M. KWASAU,18/01/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51816/result_111226_1677799146_thumb.jpg,false
+KADUNA,BIRNIN GWARI,DOGON DAWA,UNG. GWANDARA,18/01/09/013,https://docs.inecelectionresults.net/elections/1292/1677805664-51919.pdf,true
+KADUNA,BIRNIN GWARI,DOGON DAWA,P.H.C UNG DANKO,18/01/09/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640514/result_111244_1677800585_thumb.jpg,false
+KADUNA,BIRNIN GWARI,DOGON DAWA,UNG MAI ALEWA SPORT GROUND (OS),18/01/09/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640513/result_111243_1677800523_thumb.jpg,false
+KADUNA,BIRNIN GWARI,DOGON DAWA,UNG. ADUHU,18/01/09/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51832/result_111242_1677800473_thumb.jpg,true
+KADUNA,BIRNIN GWARI,DOGON DAWA,UNG. LACHA,18/01/09/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51831/result_111241_1677800428_thumb.jpg,false
+KADUNA,BIRNIN GWARI,DOGON DAWA,UNG. DANKO PRY. SCH.,18/01/09/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51830/result_111240_1677800374_thumb.jpg,true
+KADUNA,BIRNIN GWARI,DOGON DAWA,FUNTUA BADADI,18/01/09/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51829/result_111239_1677800324_thumb.jpg,false
+KADUNA,BIRNIN GWARI,DOGON DAWA,UNG. SAMINAKA,18/01/09/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51827/result_111237_1677800210_thumb.jpg,false
+KADUNA,BIRNIN GWARI,DOGON DAWA,UNG. RAFIN GORA,18/01/09/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51826/result_111236_1677799966_thumb.jpg,false
+KADUNA,BIRNIN GWARI,DOGON DAWA,UNG. RAFIN TUKURWA,18/01/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51825/result_111235_1677799914_thumb.jpg,false
+KADUNA,BIRNIN GWARI,DOGON DAWA,UNG. WUSAN,18/01/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51824/result_111234_1677799858_thumb.jpg,true
+KADUNA,BIRNIN GWARI,DOGON DAWA,SABON GARI D/DAWA,18/01/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51823/result_111233_1677799800_thumb.jpg,true
+KADUNA,BIRNIN GWARI,DOGON DAWA,TUDUN WADA D/DAWA,18/01/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51822/result_111232_1677799738_thumb.jpg,false
+KADUNA,BIRNIN GWARI,DOGON DAWA,DISPENSARY II,18/01/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51821/result_111231_1677799665_thumb.jpg,false
+KADUNA,BIRNIN GWARI,DOGON DAWA,DISPENSARY I,18/01/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51820/result_111230_1677799582_thumb.jpg,true
+KADUNA,BIRNIN GWARI,DOGON DAWA,FUNTUAN BADADI,18/01/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51819/result_111229_1677799505_thumb.jpg,true
+KADUNA,BIRNIN GWARI,DOGON DAWA,DOGON-DAWA PRY. SCH. I,18/01/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51818/result_111228_1677799427_thumb.jpg,false
+KADUNA,BIRNIN GWARI,DOGON DAWA,K.G. ALHAJI SHEHU,18/01/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51817/result_111227_1677799355_thumb.jpg,false
+KADUNA,BIRNIN GWARI,DOGON DAWA,K.M. KWASAU,18/01/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/51816/result_111226_1677799146_thumb.jpg,false

@@ -1,25 +1,25 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,BIRNIN GWARI,,UNG. SHADO,18/01/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3449/ward/21531/pu/51836/51836-1677767659.pdf,false
-KADUNA,BIRNIN GWARI,,UNG. MAIDA KAKINI,18/01/05/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3449/ward/21531/pu/51851/51851-1677767419.pdf,false
-KADUNA,BIRNIN GWARI,,KWASA-KWASA,18/01/05/021,https://docs.inecelectionresults.net/elections/1292/1677767244-51852.pdf,false
-KADUNA,BIRNIN GWARI,,ASHAMAGAMA,18/01/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3449/ward/21531/pu/51834/51834-1677767069.pdf,false
-KADUNA,BIRNIN GWARI,,K.G. NABAYI,18/01/05/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3449/ward/21531/pu/51848/51848-1677766891.pdf,false
-KADUNA,BIRNIN GWARI,,K.M. GUNGAMA,18/01/05/016,https://docs.inecelectionresults.net/elections/1292/1677763866-51847.pdf,false
-KADUNA,BIRNIN GWARI,,NEW KUYELLO PRY. SCH.,18/01/05/011,https://docs.inecelectionresults.net/elections/1292/1677763831-51842.pdf,false
-KADUNA,BIRNIN GWARI,,UNG. MAIYASUMA,18/01/05/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3449/ward/21531/pu/51850/51850-1677763773.pdf,true
-KADUNA,BIRNIN GWARI,,UNG MAI DAKANKANI,18/01/05/009,https://docs.inecelectionresults.net/elections/1292/1677763192-51840.pdf,false
-KADUNA,BIRNIN GWARI,,UNG/ HASSAN BODO,18/01/05/002,https://docs.inecelectionresults.net/elections/1292/1677762072-51833.pdf,true
-KADUNA,BIRNIN GWARI,,OLD KUYELLO PRY. SCH.,18/01/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3449/ward/21531/pu/51838/51838-1677760878.pdf,false
-KADUNA,BIRNIN GWARI,,K.M. FARIN BATU,18/01/05/010,https://docs.inecelectionresults.net/elections/1292/1677760293-51841.pdf,false
-KADUNA,BIRNIN GWARI,,KUYELLO HEALTH CLINIC,18/01/05/023,https://docs.inecelectionresults.net/elections/1292/1677759479-145269.pdf,true
-KADUNA,BIRNIN GWARI,,K.M. KWADAGA,18/01/05/018,https://docs.inecelectionresults.net/elections/1292/1677758364-51849.pdf,true
-KADUNA,BIRNIN GWARI,,UNG. DAN DUNGU JEGA,18/01/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/004/004-1677371355.pdf,false
-KADUNA,BIRNIN GWARI,,UNG. GARA,18/01/05/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/022/022-1677370982.pdf,false
-KADUNA,BIRNIN GWARI,,UNG. S/BUWAYI,18/01/05/015,,false
-KADUNA,BIRNIN GWARI,,T.V. CENTRE (B),18/01/05/013,,false
-KADUNA,BIRNIN GWARI,,UNG. S/NOMA,18/01/05/014,,false
-KADUNA,BIRNIN GWARI,,SABON GIDA DAM,18/01/05/024,,false
-KADUNA,BIRNIN GWARI,,DUNYA PRY. SCH.,18/01/05/001,,false
-KADUNA,BIRNIN GWARI,,UNG. MANDA,18/01/05/006,,false
-KADUNA,BIRNIN GWARI,,UNG. GWANDU (A),18/01/05/008,,false
-KADUNA,BIRNIN GWARI,,T.V. CENTRE (A),18/01/05/012,,false
+KADUNA,BIRNIN GWARI,KUYELO,UNG. SHADO,18/01/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3449/ward/21531/pu/51836/51836-1677767659.pdf,false
+KADUNA,BIRNIN GWARI,KUYELO,UNG. MAIDA KAKINI,18/01/05/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3449/ward/21531/pu/51851/51851-1677767419.pdf,false
+KADUNA,BIRNIN GWARI,KUYELO,KWASA-KWASA,18/01/05/021,https://docs.inecelectionresults.net/elections/1292/1677767244-51852.pdf,false
+KADUNA,BIRNIN GWARI,KUYELO,ASHAMAGAMA,18/01/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3449/ward/21531/pu/51834/51834-1677767069.pdf,false
+KADUNA,BIRNIN GWARI,KUYELO,K.G. NABAYI,18/01/05/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3449/ward/21531/pu/51848/51848-1677766891.pdf,false
+KADUNA,BIRNIN GWARI,KUYELO,K.M. GUNGAMA,18/01/05/016,https://docs.inecelectionresults.net/elections/1292/1677763866-51847.pdf,false
+KADUNA,BIRNIN GWARI,KUYELO,NEW KUYELLO PRY. SCH.,18/01/05/011,https://docs.inecelectionresults.net/elections/1292/1677763831-51842.pdf,false
+KADUNA,BIRNIN GWARI,KUYELO,UNG. MAIYASUMA,18/01/05/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3449/ward/21531/pu/51850/51850-1677763773.pdf,true
+KADUNA,BIRNIN GWARI,KUYELO,UNG MAI DAKANKANI,18/01/05/009,https://docs.inecelectionresults.net/elections/1292/1677763192-51840.pdf,false
+KADUNA,BIRNIN GWARI,KUYELO,UNG/ HASSAN BODO,18/01/05/002,https://docs.inecelectionresults.net/elections/1292/1677762072-51833.pdf,true
+KADUNA,BIRNIN GWARI,KUYELO,OLD KUYELLO PRY. SCH.,18/01/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3449/ward/21531/pu/51838/51838-1677760878.pdf,false
+KADUNA,BIRNIN GWARI,KUYELO,K.M. FARIN BATU,18/01/05/010,https://docs.inecelectionresults.net/elections/1292/1677760293-51841.pdf,false
+KADUNA,BIRNIN GWARI,KUYELO,KUYELLO HEALTH CLINIC,18/01/05/023,https://docs.inecelectionresults.net/elections/1292/1677759479-145269.pdf,true
+KADUNA,BIRNIN GWARI,KUYELO,K.M. KWADAGA,18/01/05/018,https://docs.inecelectionresults.net/elections/1292/1677758364-51849.pdf,true
+KADUNA,BIRNIN GWARI,KUYELO,UNG. DAN DUNGU JEGA,18/01/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/004/004-1677371355.pdf,false
+KADUNA,BIRNIN GWARI,KUYELO,UNG. GARA,18/01/05/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/022/022-1677370982.pdf,false
+KADUNA,BIRNIN GWARI,KUYELO,UNG. S/BUWAYI,18/01/05/015,,false
+KADUNA,BIRNIN GWARI,KUYELO,T.V. CENTRE (B),18/01/05/013,,false
+KADUNA,BIRNIN GWARI,KUYELO,UNG. S/NOMA,18/01/05/014,,false
+KADUNA,BIRNIN GWARI,KUYELO,SABON GIDA DAM,18/01/05/024,,false
+KADUNA,BIRNIN GWARI,KUYELO,DUNYA PRY. SCH.,18/01/05/001,,false
+KADUNA,BIRNIN GWARI,KUYELO,UNG. MANDA,18/01/05/006,,false
+KADUNA,BIRNIN GWARI,KUYELO,UNG. GWANDU (A),18/01/05/008,,false
+KADUNA,BIRNIN GWARI,KUYELO,T.V. CENTRE (A),18/01/05/012,,false

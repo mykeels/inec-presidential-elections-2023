@@ -1,22 +1,22 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,KACHIA,,GIDAN TAGWAI I/ LEA SCH. G/TAGWAI,18/08/05/001,,true
-KADUNA,KACHIA,,SABON GIDA/ KOFAR G/ANGUWA,18/08/05/014,,true
-KADUNA,KACHIA,,DANDAN II/ KOFAN G/SARKI,18/08/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53333/53333-1677477339.pdf,false
-KADUNA,KACHIA,,MARI/ KOFAR G/MAI ANGUWA,18/08/05/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53338/53338-1677476384.pdf,false
-KADUNA,KACHIA,,MAGAYAKI II/ LEA PRI.SCH.,18/08/05/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53341/53341-1677475765.pdf,false
-KADUNA,KACHIA,,GIDAN TAGWAI III/ K/G MAIUNGUWAN,18/08/05/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53340/53340-1677475032.pdf,false
-KADUNA,KACHIA,,MAGAYAKI/ KOFAR G/SARKI,18/08/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53335/53335-1677474002.pdf,false
-KADUNA,KACHIA,,YARBUNG I/ GOVT. SEC. SCH. YARBUNG,18/08/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53327/53327-1677471041.pdf,false
-KADUNA,KACHIA,,WALIJO I/ LEA SCH. WALIJO,18/08/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53325/53325-1677470021.pdf,false
-KADUNA,KACHIA,,SABON GARI/ KOFAR G/MAI ANGUWA,18/08/05/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53337/53337-1677469384.pdf,false
-KADUNA,KACHIA,,DANDAN I/ KOFAR GIDAN SARKI,18/08/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53326/53326-1677468916.pdf,false
-KADUNA,KACHIA,,GIDAN TAGWAI II/ GIDAN SARKI,18/08/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53324/53324-1677467090.pdf,false
-KADUNA,KACHIA,,UNG. SANDA,18/08/05/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/146167/146167-1677466192.pdf,false
-KADUNA,KACHIA,,UNG. WAZIRI/ KOFAR G/MAI ANGUWA,18/08/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53334/53334-1677464435.pdf,false
-KADUNA,KACHIA,,MAGAJIRAM/ LEA PRI. MAGAJIRAM,18/08/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53331/53331-1677463321.pdf,false
-KADUNA,KACHIA,,BAKIN KASUWA (YARBUNG),18/08/05/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/146166/146166-1677462536.pdf,false
-KADUNA,KACHIA,,YARBUNG II/ LEA PRI.SCH. YARBUNG,18/08/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53328/53328-1677461581.pdf,false
-KADUNA,KACHIA,,SANTAI/ LEA PRI. SANTAI,18/08/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53329/53329-1677454234.pdf,false
-KADUNA,KACHIA,,ANGUWAN WAYO/ KOFAR G/MAI ANGUWA,18/08/05/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53339/53339-1677453171.pdf,false
-KADUNA,KACHIA,,GIDAN GYARA/ LEA PRI. SCH. G./GYARA,18/08/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53330/53330-1677451569.pdf,false
-KADUNA,KACHIA,,BOHAM/ KOFAR G/SARKI,18/08/05/010,https://docs.inecelectionresults.net/elections/1292/1677450387-53332.pdf,false
+KADUNA,KACHIA,GIDAN TAGWAI,GIDAN TAGWAI I/ LEA SCH. G/TAGWAI,18/08/05/001,,true
+KADUNA,KACHIA,GIDAN TAGWAI,SABON GIDA/ KOFAR G/ANGUWA,18/08/05/014,,true
+KADUNA,KACHIA,GIDAN TAGWAI,DANDAN II/ KOFAN G/SARKI,18/08/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53333/53333-1677477339.pdf,false
+KADUNA,KACHIA,GIDAN TAGWAI,MARI/ KOFAR G/MAI ANGUWA,18/08/05/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53338/53338-1677476384.pdf,false
+KADUNA,KACHIA,GIDAN TAGWAI,MAGAYAKI II/ LEA PRI.SCH.,18/08/05/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53341/53341-1677475765.pdf,false
+KADUNA,KACHIA,GIDAN TAGWAI,GIDAN TAGWAI III/ K/G MAIUNGUWAN,18/08/05/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53340/53340-1677475032.pdf,false
+KADUNA,KACHIA,GIDAN TAGWAI,MAGAYAKI/ KOFAR G/SARKI,18/08/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53335/53335-1677474002.pdf,false
+KADUNA,KACHIA,GIDAN TAGWAI,YARBUNG I/ GOVT. SEC. SCH. YARBUNG,18/08/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53327/53327-1677471041.pdf,false
+KADUNA,KACHIA,GIDAN TAGWAI,WALIJO I/ LEA SCH. WALIJO,18/08/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53325/53325-1677470021.pdf,false
+KADUNA,KACHIA,GIDAN TAGWAI,SABON GARI/ KOFAR G/MAI ANGUWA,18/08/05/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53337/53337-1677469384.pdf,false
+KADUNA,KACHIA,GIDAN TAGWAI,DANDAN I/ KOFAR GIDAN SARKI,18/08/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53326/53326-1677468916.pdf,false
+KADUNA,KACHIA,GIDAN TAGWAI,GIDAN TAGWAI II/ GIDAN SARKI,18/08/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53324/53324-1677467090.pdf,false
+KADUNA,KACHIA,GIDAN TAGWAI,UNG. SANDA,18/08/05/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/146167/146167-1677466192.pdf,false
+KADUNA,KACHIA,GIDAN TAGWAI,UNG. WAZIRI/ KOFAR G/MAI ANGUWA,18/08/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53334/53334-1677464435.pdf,false
+KADUNA,KACHIA,GIDAN TAGWAI,MAGAJIRAM/ LEA PRI. MAGAJIRAM,18/08/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53331/53331-1677463321.pdf,false
+KADUNA,KACHIA,GIDAN TAGWAI,BAKIN KASUWA (YARBUNG),18/08/05/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/146166/146166-1677462536.pdf,false
+KADUNA,KACHIA,GIDAN TAGWAI,YARBUNG II/ LEA PRI.SCH. YARBUNG,18/08/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53328/53328-1677461581.pdf,false
+KADUNA,KACHIA,GIDAN TAGWAI,SANTAI/ LEA PRI. SANTAI,18/08/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53329/53329-1677454234.pdf,false
+KADUNA,KACHIA,GIDAN TAGWAI,ANGUWAN WAYO/ KOFAR G/MAI ANGUWA,18/08/05/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53339/53339-1677453171.pdf,false
+KADUNA,KACHIA,GIDAN TAGWAI,GIDAN GYARA/ LEA PRI. SCH. G./GYARA,18/08/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21609/pu/53330/53330-1677451569.pdf,false
+KADUNA,KACHIA,GIDAN TAGWAI,BOHAM/ KOFAR G/SARKI,18/08/05/010,https://docs.inecelectionresults.net/elections/1292/1677450387-53332.pdf,false

@@ -1,36 +1,36 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,CHIKUN,,SARKI STREET BY SARKI HOUSE,18/02/12/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640580/result_111815_1677677761_thumb.jpg,false
-KADUNA,CHIKUN,,ABU CLOSE BY ABU HOUSE,18/02/12/035,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-KADUNA,CHIKUN,,GIDAN SARKI BY ASSEMBLY,18/02/12/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640594/result_111829_1677677211_thumb.jpg,false
-KADUNA,CHIKUN,,NUPE ROAD BY WAKILI,18/02/12/033,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640593/result_111828_1677677098_thumb.jpg,false
-KADUNA,CHIKUN,,GALADIMA ROAD BY GORA HOUSE,18/02/12/032,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640592/result_111827_1677677016_thumb.jpg,false
-KADUNA,CHIKUN,,DALLATU BY MAIJAMAA,18/02/12/031,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640591/result_111826_1677676953_thumb.jpg,false
-KADUNA,CHIKUN,,MARAFA BY EXPRESS STORE,18/02/12/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640590/result_111825_1677676838_thumb.jpg,false
-KADUNA,CHIKUN,,DALLATU ROAD,18/02/12/029,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640589/result_111824_1677676770_thumb.jpg,false
-KADUNA,CHIKUN,,MADAMI TRANSFORMER AGWA,18/02/12/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640588/result_111823_1677676674_thumb.jpg,false
-KADUNA,CHIKUN,,KUBI STREET BY LABOUR HOUSE,18/02/12/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640587/result_111822_1677676593_thumb.jpg,false
-KADUNA,CHIKUN,,NEW TRANSFORMER DUSA LINE AGWA,18/02/12/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640586/result_111821_1677676069_thumb.jpg,false
-KADUNA,CHIKUN,,IRRI STREET,18/02/12/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640585/result_111820_1677675987_thumb.jpg,false
-KADUNA,CHIKUN,,DOKA CLOSE BY MANGO TREE,18/02/12/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640584/result_111819_1677675919_thumb.jpg,false
-KADUNA,CHIKUN,,MARAFA STREET,18/02/12/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640583/result_111818_1677675848_thumb.jpg,false
-KADUNA,CHIKUN,,WAKILI STREET BY TRANSFORMER II,18/02/12/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640582/result_111817_1677675729_thumb.jpg,false
-KADUNA,CHIKUN,,WAKILI STREET BY TRANSFORMER I,18/02/12/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640581/result_111816_1677675639_thumb.jpg,false
-KADUNA,CHIKUN,,HAKIMI ROAD BY RAIL/PRI SCHOOL,18/02/12/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640579/result_111814_1677675540_thumb.jpg,false
-KADUNA,CHIKUN,,GARBA STREET,18/02/12/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-KADUNA,CHIKUN,,BURUKU STREET BY MANGO TREE,18/02/12/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640577/result_111812_1677675288_thumb.jpg,false
-KADUNA,CHIKUN,,GALADIMA STREET BY DAVID BOGOBIRI,18/02/12/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640576/result_111811_1677675042_thumb.jpg,false
-KADUNA,CHIKUN,,GADANI ROAD BY RAIL,18/02/12/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640575/result_111810_1677674947_thumb.jpg,false
-KADUNA,CHIKUN,,KUDANDAN II/ L.E.A PRIMARY SCHOOL,18/02/12/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52132/result_111809_1677674854_thumb.jpg,false
-KADUNA,CHIKUN,,KUDANDAN I/ L.E.A PRIMARY SCHOOL KUDAN,18/02/12/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52131/result_111808_1677674780_thumb.jpg,false
-KADUNA,CHIKUN,,UNG. MAUDE/ S/YAKI ROAD EXT.,18/02/12/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52130/result_111807_1677674669_thumb.jpg,false
-KADUNA,CHIKUN,,UNG. MAUDE/ SARKIN RAIL,18/02/12/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52129/result_111806_1677674531_thumb.jpg,false
-KADUNA,CHIKUN,,UNG. HASSAN/ CHIKUN STREET S.GARI,18/02/12/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52128/result_111805_1677674451_thumb.jpg,false
-KADUNA,CHIKUN,,UNG. HASSAN/ CHIKUN STREET S/GARI,18/02/12/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52127/result_111804_1677674362_thumb.jpg,false
-KADUNA,CHIKUN,,UNG. DANIEL II/ L.E.A PRIMARY SCHOOL,18/02/12/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52126/result_111803_1677674232_thumb.jpg,false
-KADUNA,CHIKUN,,UNG. DANIEL I/ NASARAWA KTB,18/02/12/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52125/result_111802_1677674147_thumb.jpg,false
-KADUNA,CHIKUN,,UNG. GARBA/ LAYIN BABA GANA,18/02/12/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52124/result_111801_1677673724_thumb.jpg,false
-KADUNA,CHIKUN,,SABON GARI/ DANKOWA ROAD,18/02/12/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52123/result_111800_1677673438_thumb.jpg,false
-KADUNA,CHIKUN,,SABON GARI/ NO. GALA ROAD S/GARI,18/02/12/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52122/result_111799_1677673258_thumb.jpg,false
-KADUNA,CHIKUN,,SABON GARI/ NASS. ROAD/RAIL S/GARI,18/02/12/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52121/result_111798_1677673180_thumb.jpg,false
-KADUNA,CHIKUN,,SABON GARI/ NO. 1 GALADIMA ROAD S/G,18/02/12/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52120/result_111797_1677673104_thumb.jpg,false
-KADUNA,CHIKUN,,SABON GARI/ GADANI STREET S/GARI,18/02/12/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52119/result_111796_1677672794_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,SARKI STREET BY SARKI HOUSE,18/02/12/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640580/result_111815_1677677761_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,ABU CLOSE BY ABU HOUSE,18/02/12/035,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,GIDAN SARKI BY ASSEMBLY,18/02/12/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640594/result_111829_1677677211_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,NUPE ROAD BY WAKILI,18/02/12/033,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640593/result_111828_1677677098_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,GALADIMA ROAD BY GORA HOUSE,18/02/12/032,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640592/result_111827_1677677016_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,DALLATU BY MAIJAMAA,18/02/12/031,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640591/result_111826_1677676953_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,MARAFA BY EXPRESS STORE,18/02/12/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640590/result_111825_1677676838_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,DALLATU ROAD,18/02/12/029,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640589/result_111824_1677676770_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,MADAMI TRANSFORMER AGWA,18/02/12/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640588/result_111823_1677676674_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,KUBI STREET BY LABOUR HOUSE,18/02/12/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640587/result_111822_1677676593_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,NEW TRANSFORMER DUSA LINE AGWA,18/02/12/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640586/result_111821_1677676069_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,IRRI STREET,18/02/12/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640585/result_111820_1677675987_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,DOKA CLOSE BY MANGO TREE,18/02/12/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640584/result_111819_1677675919_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,MARAFA STREET,18/02/12/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640583/result_111818_1677675848_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,WAKILI STREET BY TRANSFORMER II,18/02/12/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640582/result_111817_1677675729_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,WAKILI STREET BY TRANSFORMER I,18/02/12/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640581/result_111816_1677675639_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,HAKIMI ROAD BY RAIL/PRI SCHOOL,18/02/12/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640579/result_111814_1677675540_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,GARBA STREET,18/02/12/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,BURUKU STREET BY MANGO TREE,18/02/12/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640577/result_111812_1677675288_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,GALADIMA STREET BY DAVID BOGOBIRI,18/02/12/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640576/result_111811_1677675042_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,GADANI ROAD BY RAIL,18/02/12/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640575/result_111810_1677674947_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,KUDANDAN II/ L.E.A PRIMARY SCHOOL,18/02/12/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52132/result_111809_1677674854_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,KUDANDAN I/ L.E.A PRIMARY SCHOOL KUDAN,18/02/12/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52131/result_111808_1677674780_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,UNG. MAUDE/ S/YAKI ROAD EXT.,18/02/12/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52130/result_111807_1677674669_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,UNG. MAUDE/ SARKIN RAIL,18/02/12/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52129/result_111806_1677674531_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,UNG. HASSAN/ CHIKUN STREET S.GARI,18/02/12/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52128/result_111805_1677674451_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,UNG. HASSAN/ CHIKUN STREET S/GARI,18/02/12/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52127/result_111804_1677674362_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,UNG. DANIEL II/ L.E.A PRIMARY SCHOOL,18/02/12/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52126/result_111803_1677674232_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,UNG. DANIEL I/ NASARAWA KTB,18/02/12/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52125/result_111802_1677674147_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,UNG. GARBA/ LAYIN BABA GANA,18/02/12/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52124/result_111801_1677673724_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,SABON GARI/ DANKOWA ROAD,18/02/12/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52123/result_111800_1677673438_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,SABON GARI/ NO. GALA ROAD S/GARI,18/02/12/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52122/result_111799_1677673258_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,SABON GARI/ NASS. ROAD/RAIL S/GARI,18/02/12/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52121/result_111798_1677673180_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,SABON GARI/ NO. 1 GALADIMA ROAD S/G,18/02/12/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52120/result_111797_1677673104_thumb.jpg,false
+KADUNA,CHIKUN,S/GGARIN AREWA TIRKANIYA,SABON GARI/ GADANI STREET S/GARI,18/02/12/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52119/result_111796_1677672794_thumb.jpg,false

@@ -1,17 +1,17 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,IKARA,,RARIYAR DAURAWA/ NEAR K/MAIANGUWA,18/05/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52808/result_112916_1677497344_thumb.jpg,true
-KADUNA,IKARA,,UNG. AREWA/ NEAR K/MAIANGUWA,18/05/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52804/result_112912_1677496126_thumb.jpg,true
-KADUNA,IKARA,,UNG. NALADO/ PRIMARY SCHOOL,18/05/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52811/result_112919_1677649109_thumb.jpg,false
-KADUNA,IKARA,,YALWAN DAJI/ PRIMARY SCHOOL,18/05/09/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52813/result_112921_1677626587_thumb.jpg,false
-KADUNA,IKARA,,L.E.A.PRI. SCHOOL,18/05/09/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641253/result_112925_1677626393_thumb.jpg,false
-KADUNA,IKARA,,UNG. AHMADU/ NEAR K/MAIANGUWA,18/05/09/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52814/result_112922_1677625602_thumb.jpg,false
-KADUNA,IKARA,,UNG. WAZIRI/ NEAR K/MAIANGUWA,18/05/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52810/result_112918_1677625407_thumb.jpg,false
-KADUNA,IKARA,,KOFAR KUDU/ PRIMARY SCHOOL,18/05/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52809/result_112917_1677625078_thumb.jpg,false
-KADUNA,IKARA,,BALBELU/ NEAR K/MAIANGUWA,18/05/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52805/result_112913_1677624086_thumb.jpg,false
-KADUNA,IKARA,,UNG. FULANI/ NEAR K/MAIANGUWA,18/05/09/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52815/result_112923_1677503435_thumb.jpg,false
-KADUNA,IKARA,,KOFAR GABAS III/ PRIMARY SCHOOL,18/05/09/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52816/result_112924_1677496411_thumb.jpg,true
-KADUNA,IKARA,,MAIRATATA/ DISPENSARY,18/05/09/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52812/result_112920_1677503667_thumb.jpg,false
-KADUNA,IKARA,,KOFAR GABAS II/ PRIMARY SCHOOL,18/05/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52807/result_112915_1677496597_thumb.jpg,true
-KADUNA,IKARA,,FADA II/ CLINIC,18/05/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52803/result_112911_1677590167_thumb.jpg,false
-KADUNA,IKARA,,KOFAR GABAS I/ PRIMARY SCHOOL,18/05/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52806/result_112914_1677590681_thumb.jpg,false
-KADUNA,IKARA,,FADA I/ CLINIC,18/05/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52802/result_112910_1677589324_thumb.jpg,false
+KADUNA,IKARA,PAKI,RARIYAR DAURAWA/ NEAR K/MAIANGUWA,18/05/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52808/result_112916_1677497344_thumb.jpg,true
+KADUNA,IKARA,PAKI,UNG. AREWA/ NEAR K/MAIANGUWA,18/05/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52804/result_112912_1677496126_thumb.jpg,true
+KADUNA,IKARA,PAKI,UNG. NALADO/ PRIMARY SCHOOL,18/05/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52811/result_112919_1677649109_thumb.jpg,false
+KADUNA,IKARA,PAKI,YALWAN DAJI/ PRIMARY SCHOOL,18/05/09/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52813/result_112921_1677626587_thumb.jpg,false
+KADUNA,IKARA,PAKI,L.E.A.PRI. SCHOOL,18/05/09/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641253/result_112925_1677626393_thumb.jpg,false
+KADUNA,IKARA,PAKI,UNG. AHMADU/ NEAR K/MAIANGUWA,18/05/09/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52814/result_112922_1677625602_thumb.jpg,false
+KADUNA,IKARA,PAKI,UNG. WAZIRI/ NEAR K/MAIANGUWA,18/05/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52810/result_112918_1677625407_thumb.jpg,false
+KADUNA,IKARA,PAKI,KOFAR KUDU/ PRIMARY SCHOOL,18/05/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52809/result_112917_1677625078_thumb.jpg,false
+KADUNA,IKARA,PAKI,BALBELU/ NEAR K/MAIANGUWA,18/05/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52805/result_112913_1677624086_thumb.jpg,false
+KADUNA,IKARA,PAKI,UNG. FULANI/ NEAR K/MAIANGUWA,18/05/09/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52815/result_112923_1677503435_thumb.jpg,false
+KADUNA,IKARA,PAKI,KOFAR GABAS III/ PRIMARY SCHOOL,18/05/09/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52816/result_112924_1677496411_thumb.jpg,true
+KADUNA,IKARA,PAKI,MAIRATATA/ DISPENSARY,18/05/09/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52812/result_112920_1677503667_thumb.jpg,false
+KADUNA,IKARA,PAKI,KOFAR GABAS II/ PRIMARY SCHOOL,18/05/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52807/result_112915_1677496597_thumb.jpg,true
+KADUNA,IKARA,PAKI,FADA II/ CLINIC,18/05/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52803/result_112911_1677590167_thumb.jpg,false
+KADUNA,IKARA,PAKI,KOFAR GABAS I/ PRIMARY SCHOOL,18/05/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52806/result_112914_1677590681_thumb.jpg,false
+KADUNA,IKARA,PAKI,FADA I/ CLINIC,18/05/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52802/result_112910_1677589324_thumb.jpg,false

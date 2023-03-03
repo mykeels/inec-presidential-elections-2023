@@ -1,20 +1,20 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,JEMA'A,,UKWAT / TAJAK,18/07/08/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21600/pu/146076/146076-1677485720.pdf,false
-KADUNA,JEMA'A,,ATUKUN KASA/ ATUKUN KASA L.E.A. SCH.,18/07/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21600/pu/53166/53166-1677481834.pdf,false
-KADUNA,JEMA'A,,ATUKUN TOZO/ UNG. DAGACHI,18/07/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21600/pu/53165/53165-1677481396.pdf,false
-KADUNA,JEMA'A,,ATUKUN GADA/ UNG. MADAKI,18/07/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21600/pu/53164/53164-1677480551.pdf,false
-KADUNA,JEMA'A,,PASA KWARI/ L.E.A. PASA KWARI,18/07/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21600/pu/53170/53170-1677477584.pdf,false
-KADUNA,JEMA'A,,ATUKUN KASA II/ ATUKUN KASA II.,18/07/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21600/pu/53167/53167-1677475024.pdf,false
-KADUNA,JEMA'A,,DANIEL BILA/ DANIEL BILA,18/07/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21600/pu/53174/53174-1677472473.pdf,false
-KADUNA,JEMA'A,,TAJAK/ TAJAK,18/07/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21600/pu/53171/53171-1677471810.pdf,false
-KADUNA,JEMA'A,,SAKIYO II / MAISAMARI,18/07/08/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21600/pu/146073/146073-1677471305.pdf,false
-KADUNA,JEMA'A,,TAFAN UNG. YASHIM/ YASHIM,18/07/08/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21600/pu/53176/53176-1677470637.pdf,false
-KADUNA,JEMA'A,,UNG. WAKILI II / KUNPAM,18/07/08/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21600/pu/146077/146077-1677469661.pdf,false
-KADUNA,JEMA'A,,MIYIN KANJUNG / SABON GARI,18/07/08/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21600/pu/146074/146074-1677469221.pdf,false
-KADUNA,JEMA'A,,UNG. BAIDI / BAIDI,18/07/08/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21600/pu/146075/146075-1677468896.pdf,false
-KADUNA,JEMA'A,,WAKILI/ L.E.A. U/WAKILI,18/07/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21600/pu/53173/53173-1677468143.pdf,false
-KADUNA,JEMA'A,,BABBAN GADA/BARMO/ BARMO,18/07/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21600/pu/53172/53172-1677467853.pdf,false
-KADUNA,JEMA'A,,UNG RANA / UNG RANA,18/07/08/014,,false
-KADUNA,JEMA'A,,SAKIYO/ L.E.A. SAKIYO,18/07/08/005,,false
-KADUNA,JEMA'A,,TAFAN GIDA/ L.E.A. TAFAN,18/07/08/006,,false
-KADUNA,JEMA'A,,KATSAK/ KATSAK,18/07/08/012,,false
+KADUNA,JEMA'A,ATUKU,UKWAT / TAJAK,18/07/08/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21600/pu/146076/146076-1677485720.pdf,false
+KADUNA,JEMA'A,ATUKU,ATUKUN KASA/ ATUKUN KASA L.E.A. SCH.,18/07/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21600/pu/53166/53166-1677481834.pdf,false
+KADUNA,JEMA'A,ATUKU,ATUKUN TOZO/ UNG. DAGACHI,18/07/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21600/pu/53165/53165-1677481396.pdf,false
+KADUNA,JEMA'A,ATUKU,ATUKUN GADA/ UNG. MADAKI,18/07/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21600/pu/53164/53164-1677480551.pdf,false
+KADUNA,JEMA'A,ATUKU,PASA KWARI/ L.E.A. PASA KWARI,18/07/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21600/pu/53170/53170-1677477584.pdf,false
+KADUNA,JEMA'A,ATUKU,ATUKUN KASA II/ ATUKUN KASA II.,18/07/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21600/pu/53167/53167-1677475024.pdf,false
+KADUNA,JEMA'A,ATUKU,DANIEL BILA/ DANIEL BILA,18/07/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21600/pu/53174/53174-1677472473.pdf,false
+KADUNA,JEMA'A,ATUKU,TAJAK/ TAJAK,18/07/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21600/pu/53171/53171-1677471810.pdf,false
+KADUNA,JEMA'A,ATUKU,SAKIYO II / MAISAMARI,18/07/08/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21600/pu/146073/146073-1677471305.pdf,false
+KADUNA,JEMA'A,ATUKU,TAFAN UNG. YASHIM/ YASHIM,18/07/08/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21600/pu/53176/53176-1677470637.pdf,false
+KADUNA,JEMA'A,ATUKU,UNG. WAKILI II / KUNPAM,18/07/08/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21600/pu/146077/146077-1677469661.pdf,false
+KADUNA,JEMA'A,ATUKU,MIYIN KANJUNG / SABON GARI,18/07/08/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21600/pu/146074/146074-1677469221.pdf,false
+KADUNA,JEMA'A,ATUKU,UNG. BAIDI / BAIDI,18/07/08/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21600/pu/146075/146075-1677468896.pdf,false
+KADUNA,JEMA'A,ATUKU,WAKILI/ L.E.A. U/WAKILI,18/07/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21600/pu/53173/53173-1677468143.pdf,false
+KADUNA,JEMA'A,ATUKU,BABBAN GADA/BARMO/ BARMO,18/07/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21600/pu/53172/53172-1677467853.pdf,false
+KADUNA,JEMA'A,ATUKU,UNG RANA / UNG RANA,18/07/08/014,,false
+KADUNA,JEMA'A,ATUKU,SAKIYO/ L.E.A. SAKIYO,18/07/08/005,,false
+KADUNA,JEMA'A,ATUKU,TAFAN GIDA/ L.E.A. TAFAN,18/07/08/006,,false
+KADUNA,JEMA'A,ATUKU,KATSAK/ KATSAK,18/07/08/012,,false

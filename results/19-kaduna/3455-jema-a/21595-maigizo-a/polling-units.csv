@@ -1,29 +1,29 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,JEMA'A,,AEPIYENGBAN / LOW COST HOUSE U/SAMBA,18/07/03/017,,true
-KADUNA,JEMA'A,,M.T.D / POLICE QUARTERS / BARRACKS FIELD,18/07/03/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641380/result_113152_1677590365_thumb.jpg,false
-KADUNA,JEMA'A,,RAILWAY CAMP / RAILWAY FIELD,18/07/03/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/146029/146029-1677496836.pdf,false
-KADUNA,JEMA'A,,ZAHUWO / ANGUWAN AJASCO BAYAN LOKO,18/07/03/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/146032/146032-1677496136.pdf,false
-KADUNA,JEMA'A,,RAILWAY STATION I./ RAILWAY STATION I.,18/07/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/53076/53076-1677493335.pdf,false
-KADUNA,JEMA'A,,RAILWAY STATION II./ RAILWAY INSTITUTE,18/07/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/53077/53077-1677492781.pdf,false
-KADUNA,JEMA'A,,FEDERATION / FEDERATION,18/07/03/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/146026/146026-1677492249.pdf,false
-KADUNA,JEMA'A,,KALAT / VERTINARY,18/07/03/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/146024/146024-1677492117.pdf,false
-KADUNA,JEMA'A,,AEDI / VILLAGE SQUARE,18/07/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/146022/146022-1677491696.pdf,false
-KADUNA,JEMA'A,,PRAC. PRY. SCH. KAF I./ PRAC. PRY. SCH. KAF I.,18/07/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/53073/53073-1677491360.pdf,false
-KADUNA,JEMA'A,,ADUWAN II./ DAGACHI ISA,18/07/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/53080/53080-1677491309.pdf,false
-KADUNA,JEMA'A,,UNG. MA'ADAM/ UNG. SHEYIN,18/07/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/53083/53083-1677490941.pdf,false
-KADUNA,JEMA'A,,UNG. JOGADA/ KOFAR ATUK,18/07/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/53082/53082-1677490793.pdf,false
-KADUNA,JEMA'A,,LOWCOST HOUSES I./ LOWCOST HOUSES I.,18/07/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/53074/53074-1677490410.pdf,false
-KADUNA,JEMA'A,,BOSSAN ADUWAN 5(V) / ADUWAN 5(V),18/07/03/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/146033/146033-1677490365.pdf,false
-KADUNA,JEMA'A,,ANGBASHIM / BAYAN LOKO,18/07/03/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/146031/146031-1677489997.pdf,false
-KADUNA,JEMA'A,,TSOK AERAKA ADUWAN III / ADUWAN,18/07/03/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/146034/146034-1677489967.pdf,false
-KADUNA,JEMA'A,,KACHIN / ZIKPAK,18/07/03/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/146030/146030-1677489614.pdf,false
-KADUNA,JEMA'A,,UNG. MASARA/ L.E.A. UNG. MASARA,18/07/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/53081/53081-1677489490.pdf,false
-KADUNA,JEMA'A,,YAKUSAK / VILLAGE SQUARE,18/07/03/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/146036/146036-1677489203.pdf,false
-KADUNA,JEMA'A,,UNG. KANWAI / L.E.A UNG. KANWAI,18/07/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/146021/146021-1677489213.pdf,false
-KADUNA,JEMA'A,,AKAU / ANGUWAN MASARA,18/07/03/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/146035/146035-1677488758.pdf,false
-KADUNA,JEMA'A,,UNG. SARKIN MAIGIZO/ UNG. S/MAIGIZO,18/07/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/53072/53072-1677488411.pdf,false
-KADUNA,JEMA'A,,SARKIN ADUIWAN I./ UNG. NAMADI,18/07/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/53075/53075-1677487958.pdf,false
-KADUNA,JEMA'A,,MAMUDA LOKO 'B'/ MAMUDA LOKO 'B',18/07/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/53079/53079-1677487155.pdf,false
-KADUNA,JEMA'A,,ATIEKON / ANGUWAN GALADIMA UNDER KACIA TREE,18/07/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/146023/146023-1677486574.pdf,false
-KADUNA,JEMA'A,,AWOK / KADUWAN VILLAGE SQUARE,18/07/03/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/03/pu/019/019-1677390958.pdf,false
-KADUNA,JEMA'A,,UNG. UMARU ZIKPAK/ UNG. UMARU ZIKPAK,18/07/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/03/pu/007/007-1677360999.pdf,false
+KADUNA,JEMA'A,MAIGIZO 'A',AEPIYENGBAN / LOW COST HOUSE U/SAMBA,18/07/03/017,,true
+KADUNA,JEMA'A,MAIGIZO 'A',M.T.D / POLICE QUARTERS / BARRACKS FIELD,18/07/03/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641380/result_113152_1677590365_thumb.jpg,false
+KADUNA,JEMA'A,MAIGIZO 'A',RAILWAY CAMP / RAILWAY FIELD,18/07/03/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/146029/146029-1677496836.pdf,false
+KADUNA,JEMA'A,MAIGIZO 'A',ZAHUWO / ANGUWAN AJASCO BAYAN LOKO,18/07/03/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/146032/146032-1677496136.pdf,false
+KADUNA,JEMA'A,MAIGIZO 'A',RAILWAY STATION I./ RAILWAY STATION I.,18/07/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/53076/53076-1677493335.pdf,false
+KADUNA,JEMA'A,MAIGIZO 'A',RAILWAY STATION II./ RAILWAY INSTITUTE,18/07/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/53077/53077-1677492781.pdf,false
+KADUNA,JEMA'A,MAIGIZO 'A',FEDERATION / FEDERATION,18/07/03/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/146026/146026-1677492249.pdf,false
+KADUNA,JEMA'A,MAIGIZO 'A',KALAT / VERTINARY,18/07/03/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/146024/146024-1677492117.pdf,false
+KADUNA,JEMA'A,MAIGIZO 'A',AEDI / VILLAGE SQUARE,18/07/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/146022/146022-1677491696.pdf,false
+KADUNA,JEMA'A,MAIGIZO 'A',PRAC. PRY. SCH. KAF I./ PRAC. PRY. SCH. KAF I.,18/07/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/53073/53073-1677491360.pdf,false
+KADUNA,JEMA'A,MAIGIZO 'A',ADUWAN II./ DAGACHI ISA,18/07/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/53080/53080-1677491309.pdf,false
+KADUNA,JEMA'A,MAIGIZO 'A',UNG. MA'ADAM/ UNG. SHEYIN,18/07/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/53083/53083-1677490941.pdf,false
+KADUNA,JEMA'A,MAIGIZO 'A',UNG. JOGADA/ KOFAR ATUK,18/07/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/53082/53082-1677490793.pdf,false
+KADUNA,JEMA'A,MAIGIZO 'A',LOWCOST HOUSES I./ LOWCOST HOUSES I.,18/07/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/53074/53074-1677490410.pdf,false
+KADUNA,JEMA'A,MAIGIZO 'A',BOSSAN ADUWAN 5(V) / ADUWAN 5(V),18/07/03/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/146033/146033-1677490365.pdf,false
+KADUNA,JEMA'A,MAIGIZO 'A',ANGBASHIM / BAYAN LOKO,18/07/03/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/146031/146031-1677489997.pdf,false
+KADUNA,JEMA'A,MAIGIZO 'A',TSOK AERAKA ADUWAN III / ADUWAN,18/07/03/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/146034/146034-1677489967.pdf,false
+KADUNA,JEMA'A,MAIGIZO 'A',KACHIN / ZIKPAK,18/07/03/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/146030/146030-1677489614.pdf,false
+KADUNA,JEMA'A,MAIGIZO 'A',UNG. MASARA/ L.E.A. UNG. MASARA,18/07/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/53081/53081-1677489490.pdf,false
+KADUNA,JEMA'A,MAIGIZO 'A',YAKUSAK / VILLAGE SQUARE,18/07/03/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/146036/146036-1677489203.pdf,false
+KADUNA,JEMA'A,MAIGIZO 'A',UNG. KANWAI / L.E.A UNG. KANWAI,18/07/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/146021/146021-1677489213.pdf,false
+KADUNA,JEMA'A,MAIGIZO 'A',AKAU / ANGUWAN MASARA,18/07/03/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/146035/146035-1677488758.pdf,false
+KADUNA,JEMA'A,MAIGIZO 'A',UNG. SARKIN MAIGIZO/ UNG. S/MAIGIZO,18/07/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/53072/53072-1677488411.pdf,false
+KADUNA,JEMA'A,MAIGIZO 'A',SARKIN ADUIWAN I./ UNG. NAMADI,18/07/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/53075/53075-1677487958.pdf,false
+KADUNA,JEMA'A,MAIGIZO 'A',MAMUDA LOKO 'B'/ MAMUDA LOKO 'B',18/07/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/53079/53079-1677487155.pdf,false
+KADUNA,JEMA'A,MAIGIZO 'A',ATIEKON / ANGUWAN GALADIMA UNDER KACIA TREE,18/07/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3455/ward/21595/pu/146023/146023-1677486574.pdf,false
+KADUNA,JEMA'A,MAIGIZO 'A',AWOK / KADUWAN VILLAGE SQUARE,18/07/03/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/03/pu/019/019-1677390958.pdf,false
+KADUNA,JEMA'A,MAIGIZO 'A',UNG. UMARU ZIKPAK/ UNG. UMARU ZIKPAK,18/07/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/03/pu/007/007-1677360999.pdf,false

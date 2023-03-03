@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,JABA,,UNG. TURAWA II/ POST OFFICE,18/06/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21586/pu/52961/52961-1677609913.pdf,false
-KADUNA,JABA,,UNG. HARUNA YEM I/ K/GIDAN HARUNA I,18/06/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21586/pu/52966/52966-1677609772.pdf,false
-KADUNA,JABA,,BAKIN KASUWA/ K/GIDAN S/KASUWA,18/06/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21586/pu/52962/52962-1677609303.pdf,false
-KADUNA,JABA,,BAKIN KASUWA II,18/06/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21586/pu/145991/145991-1677609004.pdf,false
-KADUNA,JABA,,UNG. TURAWA I/ PRIMARY SCHOOL MAUDE,18/06/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21586/pu/52960/52960-1677608916.pdf,false
-KADUNA,JABA,,UNG. MADUGU/ K/GIDAN DANIEL,18/06/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21586/pu/52963/52963-1677608735.pdf,false
-KADUNA,JABA,,UNG. GARSU/ FASCOM OFFICE,18/06/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21586/pu/52964/52964-1677608730.pdf,false
-KADUNA,JABA,,UNG. NGARSU II,18/06/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21586/pu/145992/145992-1677608571.pdf,false
-KADUNA,JABA,,UNG. HARUNA YEM II/ K/GIDAN HARUNA II,18/06/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21586/pu/52968/52968-1677602310.pdf,false
-KADUNA,JABA,,UNG. S/GARI I/ K/GIDAN MAIANGUWA,18/06/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/04/pu/006/006-1677382340.pdf,false
-KADUNA,JABA,,UNG. YEM DASARO/ K/GIDAN YEM,18/06/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/04/pu/010/010-1677381199.pdf,false
-KADUNA,JABA,,UNG. S/GARI II/ K/GIDAN MAIANGUWA,18/06/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/04/pu/008/008-1677376044.pdf,false
+KADUNA,JABA,SABCHEM,UNG. TURAWA II/ POST OFFICE,18/06/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21586/pu/52961/52961-1677609913.pdf,false
+KADUNA,JABA,SABCHEM,UNG. HARUNA YEM I/ K/GIDAN HARUNA I,18/06/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21586/pu/52966/52966-1677609772.pdf,false
+KADUNA,JABA,SABCHEM,BAKIN KASUWA/ K/GIDAN S/KASUWA,18/06/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21586/pu/52962/52962-1677609303.pdf,false
+KADUNA,JABA,SABCHEM,BAKIN KASUWA II,18/06/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21586/pu/145991/145991-1677609004.pdf,false
+KADUNA,JABA,SABCHEM,UNG. TURAWA I/ PRIMARY SCHOOL MAUDE,18/06/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21586/pu/52960/52960-1677608916.pdf,false
+KADUNA,JABA,SABCHEM,UNG. MADUGU/ K/GIDAN DANIEL,18/06/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21586/pu/52963/52963-1677608735.pdf,false
+KADUNA,JABA,SABCHEM,UNG. GARSU/ FASCOM OFFICE,18/06/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21586/pu/52964/52964-1677608730.pdf,false
+KADUNA,JABA,SABCHEM,UNG. NGARSU II,18/06/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21586/pu/145992/145992-1677608571.pdf,false
+KADUNA,JABA,SABCHEM,UNG. HARUNA YEM II/ K/GIDAN HARUNA II,18/06/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21586/pu/52968/52968-1677602310.pdf,false
+KADUNA,JABA,SABCHEM,UNG. S/GARI I/ K/GIDAN MAIANGUWA,18/06/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/04/pu/006/006-1677382340.pdf,false
+KADUNA,JABA,SABCHEM,UNG. YEM DASARO/ K/GIDAN YEM,18/06/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/04/pu/010/010-1677381199.pdf,false
+KADUNA,JABA,SABCHEM,UNG. S/GARI II/ K/GIDAN MAIANGUWA,18/06/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/04/pu/008/008-1677376044.pdf,false

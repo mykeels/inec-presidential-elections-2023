@@ -1,18 +1,18 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,JABA,,UNG. S/ANGWAL III/ K/GIDAN SARKI,18/06/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/52945/52945-1677605001.pdf,true
-KADUNA,JABA,,UNG. LOKO II/ K/GIDAN MAI UNG.,18/06/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/52943/52943-1677604988.pdf,true
-KADUNA,JABA,,UNG. MADAKI II,18/06/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/145988/145988-1677604848.pdf,true
-KADUNA,JABA,,UNG. SARKIN NOMA/ K/SARKIN NOMA,18/06/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/52944/52944-1677604609.pdf,false
-KADUNA,JABA,,UNG. SAMBAN DAJI II,18/06/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/145987/145987-1677604567.pdf,false
-KADUNA,JABA,,UNG. LOKO 1A/ KOFAR MAI UNG. I,18/06/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/52938/52938-1677602323.pdf,false
-KADUNA,JABA,,UNG. SARKIN II/ K/MAI UNG. II,18/06/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/52947/52947-1677602058.pdf,true
-KADUNA,JABA,,UNG. S/SAMBAN DAJI/ KOFAR MAI UNG.,18/06/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/52939/52939-1677601861.pdf,true
-KADUNA,JABA,,UNG. SAMBAN GIDA I/ K/GIDAN SARKI,18/06/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/52935/52935-1677601783.pdf,false
-KADUNA,JABA,,UNG. SAMBAN GIDA II/ KOFAR MAI UNG.,18/06/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/52936/52936-1677601463.pdf,true
-KADUNA,JABA,,UNG. SARKI NOMA II,18/06/02/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/145989/145989-1677594475.pdf,false
-KADUNA,JABA,,UNG. SARKIN ANGWAL II/ K/GIDAN MADAKI,18/06/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/52942/52942-1677594433.pdf,true
-KADUNA,JABA,,UNG. SARKIN LOKO 1B/ MAI UNG. II,18/06/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/52946/52946-1677594211.pdf,true
-KADUNA,JABA,,UNG. MADAKI/ K/GIDAN MADAKI,18/06/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/52940/52940-1677594184.pdf,true
-KADUNA,JABA,,UNG. MAKAMA/ KOFAR MAI UNG.,18/06/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/52937/52937-1677593784.pdf,true
-KADUNA,JABA,,UNG. ZUMA I/ K/GIDAN MAI UNG. I,18/06/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/52934/52934-1677593107.pdf,true
-KADUNA,JABA,,UNG. SARKIN ANGWAL I/ K/SARKI ANGWAL,18/06/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/02/pu/008/008-1677367073.pdf,false
+KADUNA,JABA,SAMBAM,UNG. S/ANGWAL III/ K/GIDAN SARKI,18/06/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/52945/52945-1677605001.pdf,true
+KADUNA,JABA,SAMBAM,UNG. LOKO II/ K/GIDAN MAI UNG.,18/06/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/52943/52943-1677604988.pdf,true
+KADUNA,JABA,SAMBAM,UNG. MADAKI II,18/06/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/145988/145988-1677604848.pdf,true
+KADUNA,JABA,SAMBAM,UNG. SARKIN NOMA/ K/SARKIN NOMA,18/06/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/52944/52944-1677604609.pdf,false
+KADUNA,JABA,SAMBAM,UNG. SAMBAN DAJI II,18/06/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/145987/145987-1677604567.pdf,false
+KADUNA,JABA,SAMBAM,UNG. LOKO 1A/ KOFAR MAI UNG. I,18/06/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/52938/52938-1677602323.pdf,false
+KADUNA,JABA,SAMBAM,UNG. SARKIN II/ K/MAI UNG. II,18/06/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/52947/52947-1677602058.pdf,true
+KADUNA,JABA,SAMBAM,UNG. S/SAMBAN DAJI/ KOFAR MAI UNG.,18/06/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/52939/52939-1677601861.pdf,true
+KADUNA,JABA,SAMBAM,UNG. SAMBAN GIDA I/ K/GIDAN SARKI,18/06/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/52935/52935-1677601783.pdf,false
+KADUNA,JABA,SAMBAM,UNG. SAMBAN GIDA II/ KOFAR MAI UNG.,18/06/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/52936/52936-1677601463.pdf,true
+KADUNA,JABA,SAMBAM,UNG. SARKI NOMA II,18/06/02/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/145989/145989-1677594475.pdf,false
+KADUNA,JABA,SAMBAM,UNG. SARKIN ANGWAL II/ K/GIDAN MADAKI,18/06/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/52942/52942-1677594433.pdf,true
+KADUNA,JABA,SAMBAM,UNG. SARKIN LOKO 1B/ MAI UNG. II,18/06/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/52946/52946-1677594211.pdf,true
+KADUNA,JABA,SAMBAM,UNG. MADAKI/ K/GIDAN MADAKI,18/06/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/52940/52940-1677594184.pdf,true
+KADUNA,JABA,SAMBAM,UNG. MAKAMA/ KOFAR MAI UNG.,18/06/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/52937/52937-1677593784.pdf,true
+KADUNA,JABA,SAMBAM,UNG. ZUMA I/ K/GIDAN MAI UNG. I,18/06/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3454/ward/21584/pu/52934/52934-1677593107.pdf,true
+KADUNA,JABA,SAMBAM,UNG. SARKIN ANGWAL I/ K/SARKI ANGWAL,18/06/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/02/pu/008/008-1677367073.pdf,false

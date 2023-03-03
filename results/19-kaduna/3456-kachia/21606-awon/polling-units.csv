@@ -1,33 +1,33 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,KACHIA,,ANFANI,18/08/02/030,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21606/pu/146135/146135-1677741355.pdf,true
-KADUNA,KACHIA,,GDSS ARIKKO,18/08/02/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21606/pu/146131/146131-1677739952.pdf,true
-KADUNA,KACHIA,,ANKURO,18/08/02/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21606/pu/146132/146132-1677714860.pdf,true
-KADUNA,KACHIA,,KATON BISA/ PRI.SCH.,18/08/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21606/pu/53279/53279-1677684509.pdf,true
-KADUNA,KACHIA,,TSAKIYA/ PRI.SCH.,18/08/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21606/pu/53278/53278-1677682334.pdf,true
-KADUNA,KACHIA,,GIDAN KAURA/ PRI.SCH.,18/08/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21606/pu/53277/53277-1677681796.pdf,true
-KADUNA,KACHIA,,KORON TSOHUWA/ PRI.SCH.,18/08/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21606/pu/53276/53276-1677681513.pdf,true
-KADUNA,KACHIA,,IMPI KADARA/ PRI.SCH.,18/08/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21606/pu/53274/53274-1677681172.pdf,true
-KADUNA,KACHIA,,IMPI KUTURMI/ ANK./ GIDAN MAI ANGUWA,18/08/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21606/pu/53273/53273-1677680864.pdf,true
-KADUNA,KACHIA,,ARIKKO/ G/MAI ANG. KUKA,18/08/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21606/pu/53270/53270-1677678940.pdf,true
-KADUNA,KACHIA,,AKWANA/ LEA AKWANA,18/08/02/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53193/result_113454_1677677371_thumb.jpg,true
-KADUNA,KACHIA,,IGO/ GIDAN SARKI IGO,18/08/02/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53194/result_113455_1677677147_thumb.jpg,true
-KADUNA,KACHIA,,UBE PR. SCH. GIDAN ALEWA,18/08/02/028,,true
-KADUNA,KACHIA,,ANGUWAN RIMI/ GIDAN MAI UNGUWAN,18/08/02/022,,true
-KADUNA,KACHIA,,AKWAYAN DAJI,18/08/02/032,,true
-KADUNA,KACHIA,,PANGYADA,18/08/02/029,,false
-KADUNA,KACHIA,,GORA/ PRI.SCH.,18/08/02/013,,true
-KADUNA,KACHIA,,AWON CENTRAL,18/08/02/025,,true
-KADUNA,KACHIA,,KIGWALE/ PRI.SCH.,18/08/02/008,,false
-KADUNA,KACHIA,,AKAMA/ L.E.A PRI.SCH. AKAMA,18/08/02/016,,false
-KADUNA,KACHIA,,IMFI KADARA/ K/G MAI UNGUWAN,18/08/02/024,,false
-KADUNA,KACHIA,,GIDAN JAGABA/ LEA PRI.SCH. G/JAGABA,18/08/02/019,,false
-KADUNA,KACHIA,,KURMIN AJA/ L.E.A PRI. SCH. K/AJA,18/08/02/005,,false
-KADUNA,KACHIA,,BARGA/ GIDAN MAI UNGUWA,18/08/02/021,,true
-KADUNA,KACHIA,,AKWANDO/ PRI.SCH. AKWANDO,18/08/02/015,,true
-KADUNA,KACHIA,,AWON I/ L.E.A PRI. SCH. AWON,18/08/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21606/pu/53268/53268-1677475194.pdf,false
-KADUNA,KACHIA,,AKWANDO CENTRAL,18/08/02/031,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21606/pu/146136/146136-1677454795.pdf,false
-KADUNA,KACHIA,,AWON II/ GSS AWON,18/08/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21606/pu/53269/53269-1677454151.pdf,false
-KADUNA,KACHIA,,AN-TURU/ PRI.SCH.,18/08/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21606/pu/53281/53281-1677453522.pdf,false
-KADUNA,KACHIA,,KURMIN TABA/ KOFAR MAI ANGUWA,18/08/02/023,,false
-KADUNA,KACHIA,,UNG. TOKA/ PRI. SCH. TOKA,18/08/02/004,,false
-KADUNA,KACHIA,,GIDAN YAYA/ G/MAI UNGUWA,18/08/02/020,,false
+KADUNA,KACHIA,AWON,ANFANI,18/08/02/030,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21606/pu/146135/146135-1677741355.pdf,true
+KADUNA,KACHIA,AWON,GDSS ARIKKO,18/08/02/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21606/pu/146131/146131-1677739952.pdf,true
+KADUNA,KACHIA,AWON,ANKURO,18/08/02/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21606/pu/146132/146132-1677714860.pdf,true
+KADUNA,KACHIA,AWON,KATON BISA/ PRI.SCH.,18/08/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21606/pu/53279/53279-1677684509.pdf,true
+KADUNA,KACHIA,AWON,TSAKIYA/ PRI.SCH.,18/08/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21606/pu/53278/53278-1677682334.pdf,true
+KADUNA,KACHIA,AWON,GIDAN KAURA/ PRI.SCH.,18/08/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21606/pu/53277/53277-1677681796.pdf,true
+KADUNA,KACHIA,AWON,KORON TSOHUWA/ PRI.SCH.,18/08/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21606/pu/53276/53276-1677681513.pdf,true
+KADUNA,KACHIA,AWON,IMPI KADARA/ PRI.SCH.,18/08/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21606/pu/53274/53274-1677681172.pdf,true
+KADUNA,KACHIA,AWON,IMPI KUTURMI/ ANK./ GIDAN MAI ANGUWA,18/08/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21606/pu/53273/53273-1677680864.pdf,true
+KADUNA,KACHIA,AWON,ARIKKO/ G/MAI ANG. KUKA,18/08/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21606/pu/53270/53270-1677678940.pdf,true
+KADUNA,KACHIA,AWON,AKWANA/ LEA AKWANA,18/08/02/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53193/result_113454_1677677371_thumb.jpg,true
+KADUNA,KACHIA,AWON,IGO/ GIDAN SARKI IGO,18/08/02/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/53194/result_113455_1677677147_thumb.jpg,true
+KADUNA,KACHIA,AWON,UBE PR. SCH. GIDAN ALEWA,18/08/02/028,,true
+KADUNA,KACHIA,AWON,ANGUWAN RIMI/ GIDAN MAI UNGUWAN,18/08/02/022,,true
+KADUNA,KACHIA,AWON,AKWAYAN DAJI,18/08/02/032,,true
+KADUNA,KACHIA,AWON,PANGYADA,18/08/02/029,,false
+KADUNA,KACHIA,AWON,GORA/ PRI.SCH.,18/08/02/013,,true
+KADUNA,KACHIA,AWON,AWON CENTRAL,18/08/02/025,,true
+KADUNA,KACHIA,AWON,KIGWALE/ PRI.SCH.,18/08/02/008,,false
+KADUNA,KACHIA,AWON,AKAMA/ L.E.A PRI.SCH. AKAMA,18/08/02/016,,false
+KADUNA,KACHIA,AWON,IMFI KADARA/ K/G MAI UNGUWAN,18/08/02/024,,false
+KADUNA,KACHIA,AWON,GIDAN JAGABA/ LEA PRI.SCH. G/JAGABA,18/08/02/019,,false
+KADUNA,KACHIA,AWON,KURMIN AJA/ L.E.A PRI. SCH. K/AJA,18/08/02/005,,false
+KADUNA,KACHIA,AWON,BARGA/ GIDAN MAI UNGUWA,18/08/02/021,,true
+KADUNA,KACHIA,AWON,AKWANDO/ PRI.SCH. AKWANDO,18/08/02/015,,true
+KADUNA,KACHIA,AWON,AWON I/ L.E.A PRI. SCH. AWON,18/08/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21606/pu/53268/53268-1677475194.pdf,false
+KADUNA,KACHIA,AWON,AKWANDO CENTRAL,18/08/02/031,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21606/pu/146136/146136-1677454795.pdf,false
+KADUNA,KACHIA,AWON,AWON II/ GSS AWON,18/08/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21606/pu/53269/53269-1677454151.pdf,false
+KADUNA,KACHIA,AWON,AN-TURU/ PRI.SCH.,18/08/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21606/pu/53281/53281-1677453522.pdf,false
+KADUNA,KACHIA,AWON,KURMIN TABA/ KOFAR MAI ANGUWA,18/08/02/023,,false
+KADUNA,KACHIA,AWON,UNG. TOKA/ PRI. SCH. TOKA,18/08/02/004,,false
+KADUNA,KACHIA,AWON,GIDAN YAYA/ G/MAI UNGUWA,18/08/02/020,,false

@@ -1,27 +1,27 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,IGABI,,MARACHI,18/04/09/007,,true
-KADUNA,IGABI,,KURMIN MALLAM,18/04/09/006,,true
-KADUNA,IGABI,,UNG. KERAWA,18/04/09/008,,true
-KADUNA,IGABI,,UNG. NAJAJA,18/04/09/010,,true
-KADUNA,IGABI,,KARSHI,18/04/09/002,,true
-KADUNA,IGABI,,AKWATO,18/04/09/001,,true
-KADUNA,IGABI,,SARKIN KERAWA,18/04/09/011,,true
-KADUNA,IGABI,,BAKIN KASUWA,18/04/09/005,,true
-KADUNA,IGABI,,KAFIN IWA,18/04/09/004,,true
-KADUNA,IGABI,,UNG. MAKAMA,18/04/09/009,,true
-KADUNA,IGABI,,UNG. BOYI,18/04/09/003,,true
-KADUNA,IGABI,,LEA PRI. SCH. UNG. RIMI,18/04/09/026,https://docs.inecelectionresults.net/elections/1292/1677451148-145783.pdf,false
-KADUNA,IGABI,,UNG. MAKAMA I,18/04/09/022,https://docs.inecelectionresults.net/elections/1292/1677451124-52646.pdf,false
-KADUNA,IGABI,,UNG. BAKA,18/04/09/012,https://docs.inecelectionresults.net/elections/1292/1677450602-52636.pdf,false
-KADUNA,IGABI,,DUNKI III,18/04/09/021,https://docs.inecelectionresults.net/elections/1292/1677449968-52645.pdf,false
-KADUNA,IGABI,,UNG. MAKAMA II,18/04/09/023,https://docs.inecelectionresults.net/elections/1292/1677448926-52647.pdf,false
-KADUNA,IGABI,,GWADA II,18/04/09/016,https://docs.inecelectionresults.net/elections/1292/1677444881-52640.pdf,false
-KADUNA,IGABI,,UNG. DAMINA,18/04/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/013/013-1677428404.pdf,false
-KADUNA,IGABI,,GWADA I,18/04/09/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/015/015-1677428262.pdf,false
-KADUNA,IGABI,,DUNKI II,18/04/09/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/020/020-1677427902.pdf,false
-KADUNA,IGABI,,UNG. ATIKU,18/04/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/014/014-1677425501.pdf,false
-KADUNA,IGABI,,BINA II,18/04/09/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/024/024-1677396918.pdf,false
-KADUNA,IGABI,,DUNKI I,18/04/09/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/019/019-1677396451.pdf,false
-KADUNA,IGABI,,LEA PRI. SCH. UNG. KANAWA,18/04/09/025,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/025/025-1677396310.pdf,false
-KADUNA,IGABI,,S/B DOSA,18/04/09/018,,false
-KADUNA,IGABI,,BINA,18/04/09/017,,false
+KADUNA,IGABI,KERAWA,MARACHI,18/04/09/007,,true
+KADUNA,IGABI,KERAWA,KURMIN MALLAM,18/04/09/006,,true
+KADUNA,IGABI,KERAWA,UNG. KERAWA,18/04/09/008,,true
+KADUNA,IGABI,KERAWA,UNG. NAJAJA,18/04/09/010,,true
+KADUNA,IGABI,KERAWA,KARSHI,18/04/09/002,,true
+KADUNA,IGABI,KERAWA,AKWATO,18/04/09/001,,true
+KADUNA,IGABI,KERAWA,SARKIN KERAWA,18/04/09/011,,true
+KADUNA,IGABI,KERAWA,BAKIN KASUWA,18/04/09/005,,true
+KADUNA,IGABI,KERAWA,KAFIN IWA,18/04/09/004,,true
+KADUNA,IGABI,KERAWA,UNG. MAKAMA,18/04/09/009,,true
+KADUNA,IGABI,KERAWA,UNG. BOYI,18/04/09/003,,true
+KADUNA,IGABI,KERAWA,LEA PRI. SCH. UNG. RIMI,18/04/09/026,https://docs.inecelectionresults.net/elections/1292/1677451148-145783.pdf,false
+KADUNA,IGABI,KERAWA,UNG. MAKAMA I,18/04/09/022,https://docs.inecelectionresults.net/elections/1292/1677451124-52646.pdf,false
+KADUNA,IGABI,KERAWA,UNG. BAKA,18/04/09/012,https://docs.inecelectionresults.net/elections/1292/1677450602-52636.pdf,false
+KADUNA,IGABI,KERAWA,DUNKI III,18/04/09/021,https://docs.inecelectionresults.net/elections/1292/1677449968-52645.pdf,false
+KADUNA,IGABI,KERAWA,UNG. MAKAMA II,18/04/09/023,https://docs.inecelectionresults.net/elections/1292/1677448926-52647.pdf,false
+KADUNA,IGABI,KERAWA,GWADA II,18/04/09/016,https://docs.inecelectionresults.net/elections/1292/1677444881-52640.pdf,false
+KADUNA,IGABI,KERAWA,UNG. DAMINA,18/04/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/013/013-1677428404.pdf,false
+KADUNA,IGABI,KERAWA,GWADA I,18/04/09/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/015/015-1677428262.pdf,false
+KADUNA,IGABI,KERAWA,DUNKI II,18/04/09/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/020/020-1677427902.pdf,false
+KADUNA,IGABI,KERAWA,UNG. ATIKU,18/04/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/014/014-1677425501.pdf,false
+KADUNA,IGABI,KERAWA,BINA II,18/04/09/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/024/024-1677396918.pdf,false
+KADUNA,IGABI,KERAWA,DUNKI I,18/04/09/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/019/019-1677396451.pdf,false
+KADUNA,IGABI,KERAWA,LEA PRI. SCH. UNG. KANAWA,18/04/09/025,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/025/025-1677396310.pdf,false
+KADUNA,IGABI,KERAWA,S/B DOSA,18/04/09/018,,false
+KADUNA,IGABI,KERAWA,BINA,18/04/09/017,,false

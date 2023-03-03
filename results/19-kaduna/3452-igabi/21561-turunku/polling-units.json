@@ -26,6 +26,7 @@
     "pu_code_string": "180401004",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "document": null,
     "old_documents": [
       {
@@ -66,6 +67,7 @@
     "pu_code_string": "180401003",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "document": null,
     "old_documents": [
       {
@@ -106,6 +108,7 @@
     "pu_code_string": "180401002",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "document": null,
     "old_documents": [
       {
@@ -146,6 +149,7 @@
     "pu_code_string": "180401001",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -177,6 +181,7 @@
     "pu_code_string": "180401026",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "document": {
       "external": false,
       "status": 1,
@@ -215,6 +220,7 @@
     "pu_code_string": "180401032",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "document": {
       "external": false,
       "status": 1,
@@ -253,6 +259,7 @@
     "pu_code_string": "180401022",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "document": {
       "external": false,
       "status": 1,
@@ -291,6 +298,7 @@
     "pu_code_string": "180401045",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "document": {
       "external": false,
       "status": 1,
@@ -329,6 +337,7 @@
     "pu_code_string": "180401006",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "document": {
       "external": false,
       "status": 1,
@@ -367,6 +376,7 @@
     "pu_code_string": "180401017",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "document": {
       "external": false,
       "status": 1,
@@ -405,6 +415,7 @@
     "pu_code_string": "180401011",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "document": {
       "external": false,
       "status": 1,
@@ -443,6 +454,7 @@
     "pu_code_string": "180401037",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "document": {
       "external": false,
       "status": 1,
@@ -481,6 +493,7 @@
     "pu_code_string": "180401039",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "document": {
       "external": false,
       "status": 1,
@@ -519,6 +532,7 @@
     "pu_code_string": "180401033",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "document": {
       "external": false,
       "status": 1,
@@ -557,6 +571,7 @@
     "pu_code_string": "180401034",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "document": {
       "external": false,
       "status": 1,
@@ -595,6 +610,7 @@
     "pu_code_string": "180401023",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "document": {
       "external": false,
       "status": 1,
@@ -633,6 +649,7 @@
     "pu_code_string": "180401028",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "document": {
       "external": false,
       "status": 1,
@@ -671,6 +688,7 @@
     "pu_code_string": "180401020",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "document": {
       "external": false,
       "status": 1,
@@ -709,6 +727,7 @@
     "pu_code_string": "180401030",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "document": {
       "external": false,
       "status": 1,
@@ -747,6 +766,7 @@
     "pu_code_string": "180401036",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "document": {
       "external": false,
       "status": 1,
@@ -785,6 +805,7 @@
     "pu_code_string": "180401040",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "document": {
       "external": false,
       "status": 1,
@@ -823,6 +844,7 @@
     "pu_code_string": "180401027",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "document": {
       "external": false,
       "status": 1,
@@ -861,6 +883,7 @@
     "pu_code_string": "180401021",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "document": {
       "external": false,
       "status": 1,
@@ -899,6 +922,7 @@
     "pu_code_string": "180401015",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "document": {
       "external": false,
       "status": 1,
@@ -937,6 +961,7 @@
     "pu_code_string": "180401007",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -967,6 +992,7 @@
     "pu_code_string": "180401012",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -997,6 +1023,7 @@
     "pu_code_string": "180401009",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1027,6 +1054,7 @@
     "pu_code_string": "180401008",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1057,6 +1085,7 @@
     "pu_code_string": "180401013",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1087,6 +1116,7 @@
     "pu_code_string": "180401014",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1117,6 +1147,7 @@
     "pu_code_string": "180401010",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1147,6 +1178,7 @@
     "pu_code_string": "180401042",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1177,6 +1209,7 @@
     "pu_code_string": "180401018",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1207,6 +1240,7 @@
     "pu_code_string": "180401019",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1237,6 +1271,7 @@
     "pu_code_string": "180401024",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1267,6 +1302,7 @@
     "pu_code_string": "180401025",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1297,6 +1333,7 @@
     "pu_code_string": "180401029",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1327,6 +1364,7 @@
     "pu_code_string": "180401035",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1357,6 +1395,7 @@
     "pu_code_string": "180401016",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1387,6 +1426,7 @@
     "pu_code_string": "180401038",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1417,6 +1457,7 @@
     "pu_code_string": "180401044",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1447,6 +1488,7 @@
     "pu_code_string": "180401043",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1477,6 +1519,7 @@
     "pu_code_string": "180401031",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1507,6 +1550,7 @@
     "pu_code_string": "180401041",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1537,6 +1581,7 @@
     "pu_code_string": "180401046",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1567,6 +1612,7 @@
     "pu_code_string": "180401005",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "TURUNKU",
     "old_documents": [],
     "has_old_documents": false
   }

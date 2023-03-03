@@ -26,6 +26,7 @@
     "pu_code_string": "180412005",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": null,
     "old_documents": [
       {
@@ -66,6 +67,7 @@
     "pu_code_string": "180412003",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": null,
     "old_documents": [
       {
@@ -106,6 +108,7 @@
     "pu_code_string": "180412001",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": null,
     "old_documents": [
       {
@@ -146,6 +149,7 @@
     "pu_code_string": "180412004",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": null,
     "old_documents": [
       {
@@ -186,6 +190,7 @@
     "pu_code_string": "180412002",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": null,
     "old_documents": [
       {
@@ -226,6 +231,7 @@
     "pu_code_string": "180412032",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -264,6 +270,7 @@
     "pu_code_string": "180412044",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -302,6 +309,7 @@
     "pu_code_string": "180412045",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -340,6 +348,7 @@
     "pu_code_string": "180412151",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -378,6 +387,7 @@
     "pu_code_string": "180412147",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -416,6 +426,7 @@
     "pu_code_string": "180412142",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -454,6 +465,7 @@
     "pu_code_string": "180412148",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -492,6 +504,7 @@
     "pu_code_string": "180412145",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -530,6 +543,7 @@
     "pu_code_string": "180412108",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -568,6 +582,7 @@
     "pu_code_string": "180412104",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -606,6 +621,7 @@
     "pu_code_string": "180412150",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -644,6 +660,7 @@
     "pu_code_string": "180412149",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -682,6 +699,7 @@
     "pu_code_string": "180412132",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -720,6 +738,7 @@
     "pu_code_string": "180412113",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -758,6 +777,7 @@
     "pu_code_string": "180412144",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -796,6 +816,7 @@
     "pu_code_string": "180412019",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -834,6 +855,7 @@
     "pu_code_string": "180412018",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -872,6 +894,7 @@
     "pu_code_string": "180412133",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -910,6 +933,7 @@
     "pu_code_string": "180412118",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -948,6 +972,7 @@
     "pu_code_string": "180412017",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -986,6 +1011,7 @@
     "pu_code_string": "180412140",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1024,6 +1050,7 @@
     "pu_code_string": "180412117",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1062,6 +1089,7 @@
     "pu_code_string": "180412015",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1100,6 +1128,7 @@
     "pu_code_string": "180412016",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1138,6 +1167,7 @@
     "pu_code_string": "180412020",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1176,6 +1206,7 @@
     "pu_code_string": "180412011",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1214,6 +1245,7 @@
     "pu_code_string": "180412128",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1252,6 +1284,7 @@
     "pu_code_string": "180412100",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1290,6 +1323,7 @@
     "pu_code_string": "180412099",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1328,6 +1362,7 @@
     "pu_code_string": "180412098",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1366,6 +1401,7 @@
     "pu_code_string": "180412013",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1404,6 +1440,7 @@
     "pu_code_string": "180412094",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1442,6 +1479,7 @@
     "pu_code_string": "180412084",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1480,6 +1518,7 @@
     "pu_code_string": "180412055",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1518,6 +1557,7 @@
     "pu_code_string": "180412083",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1556,6 +1596,7 @@
     "pu_code_string": "180412110",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1594,6 +1635,7 @@
     "pu_code_string": "180412130",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1632,6 +1674,7 @@
     "pu_code_string": "180412122",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1670,6 +1713,7 @@
     "pu_code_string": "180412134",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1708,6 +1752,7 @@
     "pu_code_string": "180412153",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1746,6 +1791,7 @@
     "pu_code_string": "180412152",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1784,6 +1830,7 @@
     "pu_code_string": "180412136",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1822,6 +1869,7 @@
     "pu_code_string": "180412135",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1860,6 +1908,7 @@
     "pu_code_string": "180412139",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1898,6 +1947,7 @@
     "pu_code_string": "180412131",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1936,6 +1986,7 @@
     "pu_code_string": "180412096",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1974,6 +2025,7 @@
     "pu_code_string": "180412091",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -2012,6 +2064,7 @@
     "pu_code_string": "180412126",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -2050,6 +2103,7 @@
     "pu_code_string": "180412051",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -2088,6 +2142,7 @@
     "pu_code_string": "180412095",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -2126,6 +2181,7 @@
     "pu_code_string": "180412109",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -2164,6 +2220,7 @@
     "pu_code_string": "180412103",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -2202,6 +2259,7 @@
     "pu_code_string": "180412106",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -2240,6 +2298,7 @@
     "pu_code_string": "180412058",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -2278,6 +2337,7 @@
     "pu_code_string": "180412081",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -2316,6 +2376,7 @@
     "pu_code_string": "180412050",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -2354,6 +2415,7 @@
     "pu_code_string": "180412052",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -2392,6 +2454,7 @@
     "pu_code_string": "180412053",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -2430,6 +2493,7 @@
     "pu_code_string": "180412059",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -2468,6 +2532,7 @@
     "pu_code_string": "180412060",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -2506,6 +2571,7 @@
     "pu_code_string": "180412072",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -2544,6 +2610,7 @@
     "pu_code_string": "180412089",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -2582,6 +2649,7 @@
     "pu_code_string": "180412141",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -2620,6 +2688,7 @@
     "pu_code_string": "180412073",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -2658,6 +2727,7 @@
     "pu_code_string": "180412121",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -2696,6 +2766,7 @@
     "pu_code_string": "180412112",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -2734,6 +2805,7 @@
     "pu_code_string": "180412075",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -2772,6 +2844,7 @@
     "pu_code_string": "180412061",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -2810,6 +2883,7 @@
     "pu_code_string": "180412127",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -2848,6 +2922,7 @@
     "pu_code_string": "180412086",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -2886,6 +2961,7 @@
     "pu_code_string": "180412080",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -2924,6 +3000,7 @@
     "pu_code_string": "180412082",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -2962,6 +3039,7 @@
     "pu_code_string": "180412124",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -3000,6 +3078,7 @@
     "pu_code_string": "180412077",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -3038,6 +3117,7 @@
     "pu_code_string": "180412069",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -3076,6 +3156,7 @@
     "pu_code_string": "180412062",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -3114,6 +3195,7 @@
     "pu_code_string": "180412071",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -3152,6 +3234,7 @@
     "pu_code_string": "180412123",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -3190,6 +3273,7 @@
     "pu_code_string": "180412056",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -3228,6 +3312,7 @@
     "pu_code_string": "180412101",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -3266,6 +3351,7 @@
     "pu_code_string": "180412074",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -3304,6 +3390,7 @@
     "pu_code_string": "180412024",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -3342,6 +3429,7 @@
     "pu_code_string": "180412025",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -3380,6 +3468,7 @@
     "pu_code_string": "180412026",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -3418,6 +3507,7 @@
     "pu_code_string": "180412022",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -3456,6 +3546,7 @@
     "pu_code_string": "180412010",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -3494,6 +3585,7 @@
     "pu_code_string": "180412048",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -3532,6 +3624,7 @@
     "pu_code_string": "180412021",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -3570,6 +3663,7 @@
     "pu_code_string": "180412042",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -3608,6 +3702,7 @@
     "pu_code_string": "180412043",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -3646,6 +3741,7 @@
     "pu_code_string": "180412046",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -3684,6 +3780,7 @@
     "pu_code_string": "180412120",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -3722,6 +3819,7 @@
     "pu_code_string": "180412023",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -3760,6 +3858,7 @@
     "pu_code_string": "180412007",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -3798,6 +3897,7 @@
     "pu_code_string": "180412028",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -3836,6 +3936,7 @@
     "pu_code_string": "180412029",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -3874,6 +3975,7 @@
     "pu_code_string": "180412146",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -3912,6 +4014,7 @@
     "pu_code_string": "180412125",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -3950,6 +4053,7 @@
     "pu_code_string": "180412111",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -3988,6 +4092,7 @@
     "pu_code_string": "180412014",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -4026,6 +4131,7 @@
     "pu_code_string": "180412129",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -4064,6 +4170,7 @@
     "pu_code_string": "180412012",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -4102,6 +4209,7 @@
     "pu_code_string": "180412040",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -4140,6 +4248,7 @@
     "pu_code_string": "180412116",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -4178,6 +4287,7 @@
     "pu_code_string": "180412143",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -4216,6 +4326,7 @@
     "pu_code_string": "180412038",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -4254,6 +4365,7 @@
     "pu_code_string": "180412039",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -4292,6 +4404,7 @@
     "pu_code_string": "180412115",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -4330,6 +4443,7 @@
     "pu_code_string": "180412006",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -4368,6 +4482,7 @@
     "pu_code_string": "180412036",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -4406,6 +4521,7 @@
     "pu_code_string": "180412047",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -4444,6 +4560,7 @@
     "pu_code_string": "180412041",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -4482,6 +4599,7 @@
     "pu_code_string": "180412037",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -4520,6 +4638,7 @@
     "pu_code_string": "180412119",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -4558,6 +4677,7 @@
     "pu_code_string": "180412085",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -4596,6 +4716,7 @@
     "pu_code_string": "180412035",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -4634,6 +4755,7 @@
     "pu_code_string": "180412031",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -4672,6 +4794,7 @@
     "pu_code_string": "180412137",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -4710,6 +4833,7 @@
     "pu_code_string": "180412063",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -4748,6 +4872,7 @@
     "pu_code_string": "180412064",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -4786,6 +4911,7 @@
     "pu_code_string": "180412070",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -4824,6 +4950,7 @@
     "pu_code_string": "180412054",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "document": {
       "external": false,
       "status": 1,
@@ -4862,6 +4989,7 @@
     "pu_code_string": "180412079",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -4892,6 +5020,7 @@
     "pu_code_string": "180412065",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -4922,6 +5051,7 @@
     "pu_code_string": "180412066",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -4952,6 +5082,7 @@
     "pu_code_string": "180412057",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -4982,6 +5113,7 @@
     "pu_code_string": "180412114",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -5012,6 +5144,7 @@
     "pu_code_string": "180412067",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -5042,6 +5175,7 @@
     "pu_code_string": "180412076",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -5072,6 +5206,7 @@
     "pu_code_string": "180412090",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -5102,6 +5237,7 @@
     "pu_code_string": "180412105",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -5132,6 +5268,7 @@
     "pu_code_string": "180412068",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -5162,6 +5299,7 @@
     "pu_code_string": "180412087",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -5192,6 +5330,7 @@
     "pu_code_string": "180412092",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -5222,6 +5361,7 @@
     "pu_code_string": "180412078",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -5252,6 +5392,7 @@
     "pu_code_string": "180412097",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -5282,6 +5423,7 @@
     "pu_code_string": "180412102",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -5312,6 +5454,7 @@
     "pu_code_string": "180412107",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -5342,6 +5485,7 @@
     "pu_code_string": "180412088",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -5372,6 +5516,7 @@
     "pu_code_string": "180412093",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -5402,6 +5547,7 @@
     "pu_code_string": "180412138",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -5432,6 +5578,7 @@
     "pu_code_string": "180412034",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -5462,6 +5609,7 @@
     "pu_code_string": "180412049",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -5492,6 +5640,7 @@
     "pu_code_string": "180412030",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -5522,6 +5671,7 @@
     "pu_code_string": "180412027",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -5552,6 +5702,7 @@
     "pu_code_string": "180412033",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -5582,6 +5733,7 @@
     "pu_code_string": "180412008",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -5612,6 +5764,7 @@
     "pu_code_string": "180412009",
     "state_name": "KADUNA",
     "lga_name": "IGABI",
+    "ward_name": "RIGASA",
     "old_documents": [],
     "has_old_documents": false
   }

@@ -1,26 +1,26 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,IKARA,,YAURAN I/ PRIMARY SCHOOL,18/05/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52791/result_112893_1677649347_thumb.jpg,false
-KADUNA,IKARA,,SHADAURO/ NEAR K/MAIANGUWA,18/05/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52793/result_112895_1677649214_thumb.jpg,false
-KADUNA,IKARA,,UNG. BALA/ PRIMARY SCHOOL,18/05/08/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52794/result_112896_1677649035_thumb.jpg,false
-KADUNA,IKARA,,MAKERA/ NEAR K/MAIANGUWA,18/05/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52785/result_112887_1677648905_thumb.jpg,false
-KADUNA,IKARA,,UNG. SARKI RUMI II/ PRIMARY SCHOOL,18/05/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52784/result_112886_1677648736_thumb.jpg,false
-KADUNA,IKARA,,WAMBAI I/ NEAR K/MAIANGUWA,18/05/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52788/result_112890_1677648613_thumb.jpg,false
-KADUNA,IKARA,,KWANKIYAL PRI. SCH.,18/05/08/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641260/result_112908_1677648458_thumb.jpg,false
-KADUNA,IKARA,,RAFIN ROGA/ NEAR K/MAIANGUWA,18/05/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52787/result_112889_1677648331_thumb.jpg,false
-KADUNA,IKARA,,UNG. MAMUDA/ NEAR K/MAIANGUWA,18/05/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52786/result_112888_1677648203_thumb.jpg,false
-KADUNA,IKARA,,UNG. KWABE/ NEAR K/MAIANGUWA,18/05/08/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52798/result_112900_1677647955_thumb.jpg,false
-KADUNA,IKARA,,ANG. SARKIN RUMI II,18/05/08/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641256/result_112904_1677606131_thumb.jpg,false
-KADUNA,IKARA,,YAURAN II/ PRIMARY SCHOOL,18/05/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52792/result_112894_1677594504_thumb.jpg,false
-KADUNA,IKARA,,ANG. LIMAN II,18/05/08/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641261/result_112909_1677594333_thumb.jpg,false
-KADUNA,IKARA,,UNG. MURTALA/ NEAR K/MAIANGUWA,18/05/08/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52796/result_112898_1677587869_thumb.jpg,false
-KADUNA,IKARA,,P.H.C RUMI,18/05/08/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641258/result_112906_1677591268_thumb.jpg,false
-KADUNA,IKARA,,UNG. DUKA/ NEAR K/MAIANGUWA,18/05/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52790/result_112892_1677591887_thumb.jpg,false
-KADUNA,IKARA,,UNG. SARKI RUMI I/ PRIMARY SCHOOL,18/05/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52783/result_112885_1677589384_thumb.jpg,false
-KADUNA,IKARA,,UNG. SARKI RUMI III/ PRIMARY SCHOOL,18/05/08/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52801/result_112903_1677593087_thumb.jpg,false
-KADUNA,IKARA,,UNG. HALLIRU/ PRIMARY SCHOOL,18/05/08/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52797/result_112899_1677591114_thumb.jpg,false
-KADUNA,IKARA,,WAMBAI NUR. PRI. SCH.,18/05/08/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641259/result_112907_1677588570_thumb.jpg,false
-KADUNA,IKARA,,UNG. LIMAN/ NEAR K/MAIANGUWA,18/05/08/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52795/result_112897_1677581313_thumb.jpg,false
-KADUNA,IKARA,,WAMBAI II/ NEAR K/MAIANGUWA,18/05/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52789/result_112891_1677589350_thumb.jpg,false
-KADUNA,IKARA,,UNG. KARO/ NEAR K/MAIANGUWA,18/05/08/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52799/result_112901_1677590215_thumb.jpg,false
-KADUNA,IKARA,,ANG. SARKI PRI. SCH.,18/05/08/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641257/result_112905_1677582728_thumb.jpg,false
-KADUNA,IKARA,,UNG. AGALAWA/ NEAR K/MAIANGUWA,18/05/08/018,,false
+KADUNA,IKARA,RUMI,YAURAN I/ PRIMARY SCHOOL,18/05/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52791/result_112893_1677649347_thumb.jpg,false
+KADUNA,IKARA,RUMI,SHADAURO/ NEAR K/MAIANGUWA,18/05/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52793/result_112895_1677649214_thumb.jpg,false
+KADUNA,IKARA,RUMI,UNG. BALA/ PRIMARY SCHOOL,18/05/08/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52794/result_112896_1677649035_thumb.jpg,false
+KADUNA,IKARA,RUMI,MAKERA/ NEAR K/MAIANGUWA,18/05/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52785/result_112887_1677648905_thumb.jpg,false
+KADUNA,IKARA,RUMI,UNG. SARKI RUMI II/ PRIMARY SCHOOL,18/05/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52784/result_112886_1677648736_thumb.jpg,false
+KADUNA,IKARA,RUMI,WAMBAI I/ NEAR K/MAIANGUWA,18/05/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52788/result_112890_1677648613_thumb.jpg,false
+KADUNA,IKARA,RUMI,KWANKIYAL PRI. SCH.,18/05/08/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641260/result_112908_1677648458_thumb.jpg,false
+KADUNA,IKARA,RUMI,RAFIN ROGA/ NEAR K/MAIANGUWA,18/05/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52787/result_112889_1677648331_thumb.jpg,false
+KADUNA,IKARA,RUMI,UNG. MAMUDA/ NEAR K/MAIANGUWA,18/05/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52786/result_112888_1677648203_thumb.jpg,false
+KADUNA,IKARA,RUMI,UNG. KWABE/ NEAR K/MAIANGUWA,18/05/08/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52798/result_112900_1677647955_thumb.jpg,false
+KADUNA,IKARA,RUMI,ANG. SARKIN RUMI II,18/05/08/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641256/result_112904_1677606131_thumb.jpg,false
+KADUNA,IKARA,RUMI,YAURAN II/ PRIMARY SCHOOL,18/05/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52792/result_112894_1677594504_thumb.jpg,false
+KADUNA,IKARA,RUMI,ANG. LIMAN II,18/05/08/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641261/result_112909_1677594333_thumb.jpg,false
+KADUNA,IKARA,RUMI,UNG. MURTALA/ NEAR K/MAIANGUWA,18/05/08/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52796/result_112898_1677587869_thumb.jpg,false
+KADUNA,IKARA,RUMI,P.H.C RUMI,18/05/08/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641258/result_112906_1677591268_thumb.jpg,false
+KADUNA,IKARA,RUMI,UNG. DUKA/ NEAR K/MAIANGUWA,18/05/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52790/result_112892_1677591887_thumb.jpg,false
+KADUNA,IKARA,RUMI,UNG. SARKI RUMI I/ PRIMARY SCHOOL,18/05/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52783/result_112885_1677589384_thumb.jpg,false
+KADUNA,IKARA,RUMI,UNG. SARKI RUMI III/ PRIMARY SCHOOL,18/05/08/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52801/result_112903_1677593087_thumb.jpg,false
+KADUNA,IKARA,RUMI,UNG. HALLIRU/ PRIMARY SCHOOL,18/05/08/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52797/result_112899_1677591114_thumb.jpg,false
+KADUNA,IKARA,RUMI,WAMBAI NUR. PRI. SCH.,18/05/08/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641259/result_112907_1677588570_thumb.jpg,false
+KADUNA,IKARA,RUMI,UNG. LIMAN/ NEAR K/MAIANGUWA,18/05/08/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52795/result_112897_1677581313_thumb.jpg,false
+KADUNA,IKARA,RUMI,WAMBAI II/ NEAR K/MAIANGUWA,18/05/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52789/result_112891_1677589350_thumb.jpg,false
+KADUNA,IKARA,RUMI,UNG. KARO/ NEAR K/MAIANGUWA,18/05/08/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52799/result_112901_1677590215_thumb.jpg,false
+KADUNA,IKARA,RUMI,ANG. SARKI PRI. SCH.,18/05/08/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641257/result_112905_1677582728_thumb.jpg,false
+KADUNA,IKARA,RUMI,UNG. AGALAWA/ NEAR K/MAIANGUWA,18/05/08/018,,false

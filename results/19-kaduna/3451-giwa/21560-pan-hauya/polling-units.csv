@@ -1,21 +1,21 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,GIWA,,LEA PRIMARY SCHOOL RAFIN TUKURWA  BIYE,18/03/11/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640948/result_112088_1677677366_thumb.jpg,false
-KADUNA,GIWA,,BIYE GARI MARKET,18/03/11/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640947/result_112087_1677677274_thumb.jpg,false
-KADUNA,GIWA,,LEA PRIMARY SCHOOL SABON GIDA,18/03/11/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640945/result_112085_1677677177_thumb.jpg,false
-KADUNA,GIWA,,LEA PRIMARY SCHOOL UNGUWAN TATA,18/03/11/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640946/result_112086_1677677145_thumb.jpg,false
-KADUNA,GIWA,,"PAN HAUYA GARI I, II, III/ PAN HAUYA GARI",18/03/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/001/001-1677394791.pdf,false
-KADUNA,GIWA,,TSAUNI GIDAN TANKO/ GIDAN TANKO SAUDE,18/03/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/007/007-1677399137.pdf,false
-KADUNA,GIWA,,UNG. SARKI RAFIN YASHI I,18/03/11/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/019/019-1677395357.pdf,false
-KADUNA,GIWA,,RAFIN YASHI/ RAFIN YASHI,18/03/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/006/006-1677394326.pdf,false
-KADUNA,GIWA,,BIYE II/ BININ BAKO,18/03/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/008/008-1677393763.pdf,false
-KADUNA,GIWA,,"U/Y/ SARKI I, II & U/SOYAKI I, II/ U/Y. SARKI",18/03/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/002/002-1677393608.pdf,false
-KADUNA,GIWA,,LEA PRIMARY SCHOOL SAUYOYI,18/03/11/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/018/018-1677393095.pdf,false
-KADUNA,GIWA,,"BIJIMI I, II & RAFIN GORA/ BIJIMI",18/03/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/005/005-1677392653.pdf,false
-KADUNA,GIWA,,UNGUWAN TUDUN MUNTSIRA,18/03/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/010/010-1677392564.pdf,false
-KADUNA,GIWA,,UNGUWAN MUGATA,18/03/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/011/011-1677392521.pdf,false
-KADUNA,GIWA,,"U/GARUBA ALI & U/TATA, GANGARE I, II/ U/ GARUBA ALI",18/03/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/003/003-1677391898.pdf,false
-KADUNA,GIWA,,LEA PRIMARY SCHOOL UNGUWAN GAGO SOYAKI,18/03/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/012/012-1677391360.pdf,false
-KADUNA,GIWA,,BIYE GARI I & GUNGURFA/ BIYE GARI,18/03/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/004/004-1677391310.pdf,false
-KADUNA,GIWA,,LEA PRIMARY SCHOOL RAFIN GORA,18/03/11/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/017/017-1677391009.pdf,false
-KADUNA,GIWA,,PAN HAUYA GARI II & III/ PAN HAUYA GARI,18/03/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/009/009-1677363758.pdf,false
-KADUNA,GIWA,,LEA PRIMARY SCHOOL BIYE II SABON FEGI,18/03/11/020,,false
+KADUNA,GIWA,PAN HAUYA,LEA PRIMARY SCHOOL RAFIN TUKURWA  BIYE,18/03/11/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640948/result_112088_1677677366_thumb.jpg,false
+KADUNA,GIWA,PAN HAUYA,BIYE GARI MARKET,18/03/11/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640947/result_112087_1677677274_thumb.jpg,false
+KADUNA,GIWA,PAN HAUYA,LEA PRIMARY SCHOOL SABON GIDA,18/03/11/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640945/result_112085_1677677177_thumb.jpg,false
+KADUNA,GIWA,PAN HAUYA,LEA PRIMARY SCHOOL UNGUWAN TATA,18/03/11/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640946/result_112086_1677677145_thumb.jpg,false
+KADUNA,GIWA,PAN HAUYA,"PAN HAUYA GARI I, II, III/ PAN HAUYA GARI",18/03/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/001/001-1677394791.pdf,false
+KADUNA,GIWA,PAN HAUYA,TSAUNI GIDAN TANKO/ GIDAN TANKO SAUDE,18/03/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/007/007-1677399137.pdf,false
+KADUNA,GIWA,PAN HAUYA,UNG. SARKI RAFIN YASHI I,18/03/11/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/019/019-1677395357.pdf,false
+KADUNA,GIWA,PAN HAUYA,RAFIN YASHI/ RAFIN YASHI,18/03/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/006/006-1677394326.pdf,false
+KADUNA,GIWA,PAN HAUYA,BIYE II/ BININ BAKO,18/03/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/008/008-1677393763.pdf,false
+KADUNA,GIWA,PAN HAUYA,"U/Y/ SARKI I, II & U/SOYAKI I, II/ U/Y. SARKI",18/03/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/002/002-1677393608.pdf,false
+KADUNA,GIWA,PAN HAUYA,LEA PRIMARY SCHOOL SAUYOYI,18/03/11/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/018/018-1677393095.pdf,false
+KADUNA,GIWA,PAN HAUYA,"BIJIMI I, II & RAFIN GORA/ BIJIMI",18/03/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/005/005-1677392653.pdf,false
+KADUNA,GIWA,PAN HAUYA,UNGUWAN TUDUN MUNTSIRA,18/03/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/010/010-1677392564.pdf,false
+KADUNA,GIWA,PAN HAUYA,UNGUWAN MUGATA,18/03/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/011/011-1677392521.pdf,false
+KADUNA,GIWA,PAN HAUYA,"U/GARUBA ALI & U/TATA, GANGARE I, II/ U/ GARUBA ALI",18/03/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/003/003-1677391898.pdf,false
+KADUNA,GIWA,PAN HAUYA,LEA PRIMARY SCHOOL UNGUWAN GAGO SOYAKI,18/03/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/012/012-1677391360.pdf,false
+KADUNA,GIWA,PAN HAUYA,BIYE GARI I & GUNGURFA/ BIYE GARI,18/03/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/004/004-1677391310.pdf,false
+KADUNA,GIWA,PAN HAUYA,LEA PRIMARY SCHOOL RAFIN GORA,18/03/11/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/017/017-1677391009.pdf,false
+KADUNA,GIWA,PAN HAUYA,PAN HAUYA GARI II & III/ PAN HAUYA GARI,18/03/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/009/009-1677363758.pdf,false
+KADUNA,GIWA,PAN HAUYA,LEA PRIMARY SCHOOL BIYE II SABON FEGI,18/03/11/020,,false

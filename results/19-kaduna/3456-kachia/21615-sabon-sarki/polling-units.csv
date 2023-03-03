@@ -1,17 +1,17 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,KACHIA,,JABAN KOGO II/ GSS KURMIN MUSA,18/08/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21615/pu/53448/53448-1677461933.pdf,false
-KADUNA,KACHIA,,BURSAN/ LEA HAMBORI,18/08/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21615/pu/53442/53442-1677461417.pdf,false
-KADUNA,KACHIA,,GIDAN KABU,18/08/11/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21615/pu/146209/146209-1677460978.pdf,false
-KADUNA,KACHIA,,JABAN KOGO I/ GIDAN SARKI,18/08/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21615/pu/53447/53447-1677460551.pdf,false
-KADUNA,KACHIA,,"KANGIWA, KANGIWA",18/08/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21615/pu/53449/53449-1677459243.pdf,false
-KADUNA,KACHIA,,HAMBARI/ LEA PRI.SCH. GYANI,18/08/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21615/pu/53446/53446-1677458608.pdf,false
-KADUNA,KACHIA,,SABON SARKI I/ LEA S/SARKI,18/08/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21615/pu/53439/53439-1677458121.pdf,false
-KADUNA,KACHIA,,GSS GIDAN MANA II,18/08/11/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21615/pu/146207/146207-1677452257.pdf,false
-KADUNA,KACHIA,,GIDAN MANA/ PRI. SCH. G/MANA,18/08/11/005,,false
-KADUNA,KACHIA,,UNG. SALE,18/08/11/015,,false
-KADUNA,KACHIA,,KWAGARI KAJE/ PRI. SCH. G/JIBRI,18/08/11/006,,false
-KADUNA,KACHIA,,KURMIN RIMI/ GSS JABAN KOGO,18/08/11/003,,false
-KADUNA,KACHIA,,BAKIN KASUWA,18/08/11/013,,false
-KADUNA,KACHIA,,SABON SARKI II/ GSS S/SARKI,18/08/11/002,,false
-KADUNA,KACHIA,,PANDO/ PRI.SCH. RIKAWAN,18/08/11/007,,false
-KADUNA,KACHIA,,KURMIN RIMI/ KOFAR GIDAN SARKI,18/08/11/012,,false
+KADUNA,KACHIA,SABON SARKI,JABAN KOGO II/ GSS KURMIN MUSA,18/08/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21615/pu/53448/53448-1677461933.pdf,false
+KADUNA,KACHIA,SABON SARKI,BURSAN/ LEA HAMBORI,18/08/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21615/pu/53442/53442-1677461417.pdf,false
+KADUNA,KACHIA,SABON SARKI,GIDAN KABU,18/08/11/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21615/pu/146209/146209-1677460978.pdf,false
+KADUNA,KACHIA,SABON SARKI,JABAN KOGO I/ GIDAN SARKI,18/08/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21615/pu/53447/53447-1677460551.pdf,false
+KADUNA,KACHIA,SABON SARKI,"KANGIWA, KANGIWA",18/08/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21615/pu/53449/53449-1677459243.pdf,false
+KADUNA,KACHIA,SABON SARKI,HAMBARI/ LEA PRI.SCH. GYANI,18/08/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21615/pu/53446/53446-1677458608.pdf,false
+KADUNA,KACHIA,SABON SARKI,SABON SARKI I/ LEA S/SARKI,18/08/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21615/pu/53439/53439-1677458121.pdf,false
+KADUNA,KACHIA,SABON SARKI,GSS GIDAN MANA II,18/08/11/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3456/ward/21615/pu/146207/146207-1677452257.pdf,false
+KADUNA,KACHIA,SABON SARKI,GIDAN MANA/ PRI. SCH. G/MANA,18/08/11/005,,false
+KADUNA,KACHIA,SABON SARKI,UNG. SALE,18/08/11/015,,false
+KADUNA,KACHIA,SABON SARKI,KWAGARI KAJE/ PRI. SCH. G/JIBRI,18/08/11/006,,false
+KADUNA,KACHIA,SABON SARKI,KURMIN RIMI/ GSS JABAN KOGO,18/08/11/003,,false
+KADUNA,KACHIA,SABON SARKI,BAKIN KASUWA,18/08/11/013,,false
+KADUNA,KACHIA,SABON SARKI,SABON SARKI II/ GSS S/SARKI,18/08/11/002,,false
+KADUNA,KACHIA,SABON SARKI,PANDO/ PRI.SCH. RIKAWAN,18/08/11/007,,false
+KADUNA,KACHIA,SABON SARKI,KURMIN RIMI/ KOFAR GIDAN SARKI,18/08/11/012,,false

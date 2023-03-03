@@ -1,52 +1,52 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,IGABI,,SABON YELWA,18/04/04/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52490/52490-1677682958.pdf,false
-KADUNA,IGABI,,DIBO,18/04/04/008,,true
-KADUNA,IGABI,,SANHU,18/04/04/006,,true
-KADUNA,IGABI,,KANZAURE,18/04/04/007,,true
-KADUNA,IGABI,,DANBABA,18/04/04/002,,true
-KADUNA,IGABI,,UNG. MADAKI,18/04/04/003,,true
-KADUNA,IGABI,,DAN DAMI,18/04/04/004,,false
-KADUNA,IGABI,,BIRNIN YERO GARI,18/04/04/001,,true
-KADUNA,IGABI,,KARGO,18/04/04/005,,true
-KADUNA,IGABI,,JAJI III,18/04/04/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52478/52478-1677488060.pdf,false
-KADUNA,IGABI,,BELA,18/04/04/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52479/52479-1677488060.pdf,false
-KADUNA,IGABI,,NASARAWA LABAR,18/04/04/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52489/52489-1677487837.pdf,false
-KADUNA,IGABI,,C.S.C. I,18/04/04/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52482/52482-1677487807.pdf,false
-KADUNA,IGABI,,KAMFANIN PATE I,18/04/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52473/52473-1677487625.pdf,false
-KADUNA,IGABI,,LEA PRI. SCHOOL BIRNIN YERO,18/04/04/031,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145704/145704-1677487300.pdf,false
-KADUNA,IGABI,,LEA PRI. SCHOOL SANHU,18/04/04/034,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145707/145707-1677487274.pdf,false
-KADUNA,IGABI,,SABON GARI KARGO,18/04/04/033,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145706/145706-1677487112.pdf,false
-KADUNA,IGABI,,35 BN II,18/04/04/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52486/52486-1677482702.pdf,false
-KADUNA,IGABI,,JAMA'A KARGO,18/04/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52472/52472-1677482636.pdf,false
-KADUNA,IGABI,,UBE TSOHON YELWA,18/04/04/050,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145723/145723-1677481851.pdf,false
-KADUNA,IGABI,,TUSHEN MANGORO / TRANSFORMER,18/04/04/042,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145715/145715-1677481740.pdf,false
-KADUNA,IGABI,,UNG. RIMI JAJI II,18/04/04/041,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145714/145714-1677480494.pdf,false
-KADUNA,IGABI,,UNG. HASSAN,18/04/04/029,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52492/52492-1677480446.pdf,false
-KADUNA,IGABI,,KAN ZAURE MAIDABINO,18/04/04/035,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145708/145708-1677479829.pdf,false
-KADUNA,IGABI,,POST OFFICE JAJI,18/04/04/037,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145710/145710-1677479594.pdf,false
-KADUNA,IGABI,,KAMFANIN PATE II,18/04/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52474/52474-1677478726.pdf,false
-KADUNA,IGABI,,DANMARKE,18/04/04/049,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145722/145722-1677461483.pdf,false
-KADUNA,IGABI,,LABAR III,18/04/04/030,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52493/52493-1677461286.pdf,false
-KADUNA,IGABI,,COMPREHENSIVE HEALTH CARE,18/04/04/038,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145711/145711-1677460605.pdf,false
-KADUNA,IGABI,,LABAR II,18/04/04/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52488/52488-1677460335.pdf,false
-KADUNA,IGABI,,C.S.C. II,18/04/04/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52483/52483-1677460162.pdf,false
-KADUNA,IGABI,,C.S.C III,18/04/04/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52484/52484-1677460111.pdf,false
-KADUNA,IGABI,,35 BN I,18/04/04/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52485/52485-1677459827.pdf,false
-KADUNA,IGABI,,NASI II,18/04/04/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52481/52481-1677459692.pdf,false
-KADUNA,IGABI,,NASI I,18/04/04/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52480/52480-1677459223.pdf,false
-KADUNA,IGABI,,RAILWAY STATION JAJI CANTONMENT,18/04/04/044,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145717/145717-1677458169.pdf,false
-KADUNA,IGABI,,JAJI I,18/04/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52476/52476-1677457871.pdf,false
-KADUNA,IGABI,,LABAR I,18/04/04/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52487/52487-1677457741.pdf,false
-KADUNA,IGABI,,LEA PRI. SCH. (ACS) JAJI,18/04/04/046,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145719/145719-1677457342.pdf,false
-KADUNA,IGABI,,UNG. MAIYASIN,18/04/04/043,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145716/145716-1677456612.pdf,false
-KADUNA,IGABI,,JAJI II,18/04/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52477/52477-1677456543.pdf,false
-KADUNA,IGABI,,N.A.W.O.W.A NUR/PRI. SCHOOL  JAJI CANTONMENT,18/04/04/047,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145720/145720-1677456499.pdf,false
-KADUNA,IGABI,,MAKARA HUTA,18/04/04/051,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145724/145724-1677455538.pdf,false
-KADUNA,IGABI,,MUSA PATE,18/04/04/036,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145709/145709-1677454897.pdf,false
-KADUNA,IGABI,,FADAN SARKI JAJI,18/04/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52475/52475-1677454322.pdf,false
-KADUNA,IGABI,,POLICE OUTPOST JAJI,18/04/04/039,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145712/145712-1677453230.pdf,false
-KADUNA,IGABI,,TRAINING PITCH  JAJI CANTONMENT,18/04/04/048,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145721/145721-1677452769.pdf,false
-KADUNA,IGABI,,MAMI MARKET  JAJI CANTONMENT,18/04/04/045,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145718/145718-1677452208.pdf,false
-KADUNA,IGABI,,UNG. RIMI JAJI I,18/04/04/040,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145713/145713-1677451608.pdf,false
-KADUNA,IGABI,,UNG. GALADIMA,18/04/04/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52491/52491-1677451549.pdf,false
-KADUNA,IGABI,,LAYIN BAKI,18/04/04/032,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/04/pu/032/032-1677395558.pdf,false
+KADUNA,IGABI,BIRNIN YERO,SABON YELWA,18/04/04/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52490/52490-1677682958.pdf,false
+KADUNA,IGABI,BIRNIN YERO,DIBO,18/04/04/008,,true
+KADUNA,IGABI,BIRNIN YERO,SANHU,18/04/04/006,,true
+KADUNA,IGABI,BIRNIN YERO,KANZAURE,18/04/04/007,,true
+KADUNA,IGABI,BIRNIN YERO,DANBABA,18/04/04/002,,true
+KADUNA,IGABI,BIRNIN YERO,UNG. MADAKI,18/04/04/003,,true
+KADUNA,IGABI,BIRNIN YERO,DAN DAMI,18/04/04/004,,false
+KADUNA,IGABI,BIRNIN YERO,BIRNIN YERO GARI,18/04/04/001,,true
+KADUNA,IGABI,BIRNIN YERO,KARGO,18/04/04/005,,true
+KADUNA,IGABI,BIRNIN YERO,JAJI III,18/04/04/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52478/52478-1677488060.pdf,false
+KADUNA,IGABI,BIRNIN YERO,BELA,18/04/04/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52479/52479-1677488060.pdf,false
+KADUNA,IGABI,BIRNIN YERO,NASARAWA LABAR,18/04/04/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52489/52489-1677487837.pdf,false
+KADUNA,IGABI,BIRNIN YERO,C.S.C. I,18/04/04/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52482/52482-1677487807.pdf,false
+KADUNA,IGABI,BIRNIN YERO,KAMFANIN PATE I,18/04/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52473/52473-1677487625.pdf,false
+KADUNA,IGABI,BIRNIN YERO,LEA PRI. SCHOOL BIRNIN YERO,18/04/04/031,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145704/145704-1677487300.pdf,false
+KADUNA,IGABI,BIRNIN YERO,LEA PRI. SCHOOL SANHU,18/04/04/034,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145707/145707-1677487274.pdf,false
+KADUNA,IGABI,BIRNIN YERO,SABON GARI KARGO,18/04/04/033,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145706/145706-1677487112.pdf,false
+KADUNA,IGABI,BIRNIN YERO,35 BN II,18/04/04/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52486/52486-1677482702.pdf,false
+KADUNA,IGABI,BIRNIN YERO,JAMA'A KARGO,18/04/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52472/52472-1677482636.pdf,false
+KADUNA,IGABI,BIRNIN YERO,UBE TSOHON YELWA,18/04/04/050,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145723/145723-1677481851.pdf,false
+KADUNA,IGABI,BIRNIN YERO,TUSHEN MANGORO / TRANSFORMER,18/04/04/042,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145715/145715-1677481740.pdf,false
+KADUNA,IGABI,BIRNIN YERO,UNG. RIMI JAJI II,18/04/04/041,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145714/145714-1677480494.pdf,false
+KADUNA,IGABI,BIRNIN YERO,UNG. HASSAN,18/04/04/029,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52492/52492-1677480446.pdf,false
+KADUNA,IGABI,BIRNIN YERO,KAN ZAURE MAIDABINO,18/04/04/035,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145708/145708-1677479829.pdf,false
+KADUNA,IGABI,BIRNIN YERO,POST OFFICE JAJI,18/04/04/037,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145710/145710-1677479594.pdf,false
+KADUNA,IGABI,BIRNIN YERO,KAMFANIN PATE II,18/04/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52474/52474-1677478726.pdf,false
+KADUNA,IGABI,BIRNIN YERO,DANMARKE,18/04/04/049,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145722/145722-1677461483.pdf,false
+KADUNA,IGABI,BIRNIN YERO,LABAR III,18/04/04/030,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52493/52493-1677461286.pdf,false
+KADUNA,IGABI,BIRNIN YERO,COMPREHENSIVE HEALTH CARE,18/04/04/038,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145711/145711-1677460605.pdf,false
+KADUNA,IGABI,BIRNIN YERO,LABAR II,18/04/04/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52488/52488-1677460335.pdf,false
+KADUNA,IGABI,BIRNIN YERO,C.S.C. II,18/04/04/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52483/52483-1677460162.pdf,false
+KADUNA,IGABI,BIRNIN YERO,C.S.C III,18/04/04/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52484/52484-1677460111.pdf,false
+KADUNA,IGABI,BIRNIN YERO,35 BN I,18/04/04/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52485/52485-1677459827.pdf,false
+KADUNA,IGABI,BIRNIN YERO,NASI II,18/04/04/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52481/52481-1677459692.pdf,false
+KADUNA,IGABI,BIRNIN YERO,NASI I,18/04/04/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52480/52480-1677459223.pdf,false
+KADUNA,IGABI,BIRNIN YERO,RAILWAY STATION JAJI CANTONMENT,18/04/04/044,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145717/145717-1677458169.pdf,false
+KADUNA,IGABI,BIRNIN YERO,JAJI I,18/04/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52476/52476-1677457871.pdf,false
+KADUNA,IGABI,BIRNIN YERO,LABAR I,18/04/04/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52487/52487-1677457741.pdf,false
+KADUNA,IGABI,BIRNIN YERO,LEA PRI. SCH. (ACS) JAJI,18/04/04/046,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145719/145719-1677457342.pdf,false
+KADUNA,IGABI,BIRNIN YERO,UNG. MAIYASIN,18/04/04/043,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145716/145716-1677456612.pdf,false
+KADUNA,IGABI,BIRNIN YERO,JAJI II,18/04/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52477/52477-1677456543.pdf,false
+KADUNA,IGABI,BIRNIN YERO,N.A.W.O.W.A NUR/PRI. SCHOOL  JAJI CANTONMENT,18/04/04/047,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145720/145720-1677456499.pdf,false
+KADUNA,IGABI,BIRNIN YERO,MAKARA HUTA,18/04/04/051,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145724/145724-1677455538.pdf,false
+KADUNA,IGABI,BIRNIN YERO,MUSA PATE,18/04/04/036,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145709/145709-1677454897.pdf,false
+KADUNA,IGABI,BIRNIN YERO,FADAN SARKI JAJI,18/04/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52475/52475-1677454322.pdf,false
+KADUNA,IGABI,BIRNIN YERO,POLICE OUTPOST JAJI,18/04/04/039,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145712/145712-1677453230.pdf,false
+KADUNA,IGABI,BIRNIN YERO,TRAINING PITCH  JAJI CANTONMENT,18/04/04/048,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145721/145721-1677452769.pdf,false
+KADUNA,IGABI,BIRNIN YERO,MAMI MARKET  JAJI CANTONMENT,18/04/04/045,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145718/145718-1677452208.pdf,false
+KADUNA,IGABI,BIRNIN YERO,UNG. RIMI JAJI I,18/04/04/040,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/145713/145713-1677451608.pdf,false
+KADUNA,IGABI,BIRNIN YERO,UNG. GALADIMA,18/04/04/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3452/ward/21564/pu/52491/52491-1677451549.pdf,false
+KADUNA,IGABI,BIRNIN YERO,LAYIN BAKI,18/04/04/032,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/04/pu/032/032-1677395558.pdf,false

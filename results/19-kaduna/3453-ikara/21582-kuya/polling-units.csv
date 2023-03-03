@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,IKARA,,UNG. AREWA KUYA/ NEAR K/MAIANGUWA,18/05/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52818/result_112927_1677651518_thumb.jpg,false
-KADUNA,IKARA,,BABBAN SAURA/ PRIMARY SCHOOL,18/05/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52819/result_112928_1677651114_thumb.jpg,false
-KADUNA,IKARA,,UNG. SADA/ NEAR K/MAIANGUWA,18/05/10/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52831/result_112940_1677650963_thumb.jpg,false
-KADUNA,IKARA,,UNG. SAIDA/ NEAR K/MAIANGUWA,18/05/10/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52829/result_112938_1677650813_thumb.jpg,false
-KADUNA,IKARA,,GANGARIDA II/ PRIMARY SCHOOL,18/05/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52828/result_112937_1677650467_thumb.jpg,false
-KADUNA,IKARA,,UNG. M. YAKO/ NEAR K/MAIANGUWA,18/05/10/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52830/result_112939_1677650306_thumb.jpg,false
-KADUNA,IKARA,,GANGARIDA KWARI/ PRIMARY SCHOOL,18/05/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52826/result_112935_1677649575_thumb.jpg,false
-KADUNA,IKARA,,UNG. GALADIMA/ PRIMARY SCHOOL,18/05/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52824/result_112933_1677649456_thumb.jpg,false
-KADUNA,IKARA,,P.H.C KUYA GARI,18/05/10/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641252/result_112943_1677649063_thumb.jpg,false
-KADUNA,IKARA,,UNG. ANGO/ PRIMARY SCHOOL,18/05/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-KADUNA,IKARA,,KUYA GARI/ PRIMARY SCHOOL,18/05/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52817/result_112926_1677648827_thumb.jpg,false
-KADUNA,IKARA,,KUYA GARI II/ PRIMARY SCHOOL,18/05/10/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52832/result_112941_1677648660_thumb.jpg,false
-KADUNA,IKARA,,DOGON JURI/ NEAR K/MAIANGUWA,18/05/10/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52825/result_112934_1677586130_thumb.jpg,false
-KADUNA,IKARA,,GANGARIDA I/ PRIMARY SCHOOL,18/05/10/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52827/result_112936_1677581310_thumb.jpg,false
-KADUNA,IKARA,,L.E.A. CENT. PRI. SCH. KUYA,18/05/10/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641251/result_112942_1677585395_thumb.jpg,false
-KADUNA,IKARA,,HAYIN KUYA/ NEAR K/MAIANGUWA,18/05/10/004,,false
-KADUNA,IKARA,,BAMUYAYI/ NEAR K/MAIANGUWA,18/05/10/007,,false
-KADUNA,IKARA,,TASHAN NABAI/ PRIMARY SCHOOL,18/05/10/006,,false
+KADUNA,IKARA,KUYA,UNG. AREWA KUYA/ NEAR K/MAIANGUWA,18/05/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52818/result_112927_1677651518_thumb.jpg,false
+KADUNA,IKARA,KUYA,BABBAN SAURA/ PRIMARY SCHOOL,18/05/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52819/result_112928_1677651114_thumb.jpg,false
+KADUNA,IKARA,KUYA,UNG. SADA/ NEAR K/MAIANGUWA,18/05/10/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52831/result_112940_1677650963_thumb.jpg,false
+KADUNA,IKARA,KUYA,UNG. SAIDA/ NEAR K/MAIANGUWA,18/05/10/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52829/result_112938_1677650813_thumb.jpg,false
+KADUNA,IKARA,KUYA,GANGARIDA II/ PRIMARY SCHOOL,18/05/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52828/result_112937_1677650467_thumb.jpg,false
+KADUNA,IKARA,KUYA,UNG. M. YAKO/ NEAR K/MAIANGUWA,18/05/10/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52830/result_112939_1677650306_thumb.jpg,false
+KADUNA,IKARA,KUYA,GANGARIDA KWARI/ PRIMARY SCHOOL,18/05/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52826/result_112935_1677649575_thumb.jpg,false
+KADUNA,IKARA,KUYA,UNG. GALADIMA/ PRIMARY SCHOOL,18/05/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52824/result_112933_1677649456_thumb.jpg,false
+KADUNA,IKARA,KUYA,P.H.C KUYA GARI,18/05/10/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641252/result_112943_1677649063_thumb.jpg,false
+KADUNA,IKARA,KUYA,UNG. ANGO/ PRIMARY SCHOOL,18/05/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,IKARA,KUYA,KUYA GARI/ PRIMARY SCHOOL,18/05/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52817/result_112926_1677648827_thumb.jpg,false
+KADUNA,IKARA,KUYA,KUYA GARI II/ PRIMARY SCHOOL,18/05/10/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52832/result_112941_1677648660_thumb.jpg,false
+KADUNA,IKARA,KUYA,DOGON JURI/ NEAR K/MAIANGUWA,18/05/10/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52825/result_112934_1677586130_thumb.jpg,false
+KADUNA,IKARA,KUYA,GANGARIDA I/ PRIMARY SCHOOL,18/05/10/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/52827/result_112936_1677581310_thumb.jpg,false
+KADUNA,IKARA,KUYA,L.E.A. CENT. PRI. SCH. KUYA,18/05/10/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/641251/result_112942_1677585395_thumb.jpg,false
+KADUNA,IKARA,KUYA,HAYIN KUYA/ NEAR K/MAIANGUWA,18/05/10/004,,false
+KADUNA,IKARA,KUYA,BAMUYAYI/ NEAR K/MAIANGUWA,18/05/10/007,,false
+KADUNA,IKARA,KUYA,TASHAN NABAI/ PRIMARY SCHOOL,18/05/10/006,,false

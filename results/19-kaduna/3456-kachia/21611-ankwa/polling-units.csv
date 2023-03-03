@@ -1,18 +1,18 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,KACHIA,,ANKWA/ PRI.SCH. ANKWA,18/08/07/001,,true
-KADUNA,KACHIA,,MAIDO RAFI/ K/G MAI UNGUWA,18/08/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/017/017-1677426033.pdf,false
-KADUNA,KACHIA,,ANKWA DAJI/ KOFAR G/SARKI,18/08/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/010/010-1677403759.pdf,false
-KADUNA,KACHIA,,UNG. JIBRIN/ K/G/SARKI,18/08/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/003/003-1677403725.pdf,false
-KADUNA,KACHIA,,ANKWA II/ KOFAR G/SARKI,18/08/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/013/013-1677403470.pdf,false
-KADUNA,KACHIA,,BANIN KANWA/ KOFAR G/SARKI,18/08/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/012/012-1677403406.pdf,false
-KADUNA,KACHIA,,SABON GIDA/ GIDAN SARKI,18/08/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/016/016-1677402601.pdf,false
-KADUNA,KACHIA,,UNG. PAH/ KOFAR M/ANGUWA,18/08/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/007/007-1677395964.pdf,false
-KADUNA,KACHIA,,MAI IDO RAFI/ GIDAN SARKI,18/08/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/005/005-1677393442.pdf,false
-KADUNA,KACHIA,,GABACHUA/ GIDAN SARKI,18/08/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/015/015-1677392482.pdf,false
-KADUNA,KACHIA,,ANGUWAN WAZIRI/ KOFAR G/M/ANGUWAN,18/08/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/014/014-1677392246.pdf,false
-KADUNA,KACHIA,,YAJI/ GIDAN SARKI,18/08/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/008/008-1677390464.pdf,false
-KADUNA,KACHIA,,MAI IDO KUFAI/ LEA PRI.SCH.,18/08/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/004/004-1677386555.pdf,false
-KADUNA,KACHIA,,GIDAN GIZAGO/ KOFAR G/SARKI,18/08/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/011/011-1677384789.pdf,false
-KADUNA,KACHIA,,KASAN KOGI/ LEA KASAN/KOGI,18/08/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/009/009-1677366494.pdf,false
-KADUNA,KACHIA,,ABURON/ GIDAN SARKI,18/08/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/006/006-1677364621.pdf,false
-KADUNA,KACHIA,,PACHI/ K/G/SARKI PACHI,18/08/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/002/002-1677362448.pdf,false
+KADUNA,KACHIA,ANKWA,ANKWA/ PRI.SCH. ANKWA,18/08/07/001,,true
+KADUNA,KACHIA,ANKWA,MAIDO RAFI/ K/G MAI UNGUWA,18/08/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/017/017-1677426033.pdf,false
+KADUNA,KACHIA,ANKWA,ANKWA DAJI/ KOFAR G/SARKI,18/08/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/010/010-1677403759.pdf,false
+KADUNA,KACHIA,ANKWA,UNG. JIBRIN/ K/G/SARKI,18/08/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/003/003-1677403725.pdf,false
+KADUNA,KACHIA,ANKWA,ANKWA II/ KOFAR G/SARKI,18/08/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/013/013-1677403470.pdf,false
+KADUNA,KACHIA,ANKWA,BANIN KANWA/ KOFAR G/SARKI,18/08/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/012/012-1677403406.pdf,false
+KADUNA,KACHIA,ANKWA,SABON GIDA/ GIDAN SARKI,18/08/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/016/016-1677402601.pdf,false
+KADUNA,KACHIA,ANKWA,UNG. PAH/ KOFAR M/ANGUWA,18/08/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/007/007-1677395964.pdf,false
+KADUNA,KACHIA,ANKWA,MAI IDO RAFI/ GIDAN SARKI,18/08/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/005/005-1677393442.pdf,false
+KADUNA,KACHIA,ANKWA,GABACHUA/ GIDAN SARKI,18/08/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/015/015-1677392482.pdf,false
+KADUNA,KACHIA,ANKWA,ANGUWAN WAZIRI/ KOFAR G/M/ANGUWAN,18/08/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/014/014-1677392246.pdf,false
+KADUNA,KACHIA,ANKWA,YAJI/ GIDAN SARKI,18/08/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/008/008-1677390464.pdf,false
+KADUNA,KACHIA,ANKWA,MAI IDO KUFAI/ LEA PRI.SCH.,18/08/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/004/004-1677386555.pdf,false
+KADUNA,KACHIA,ANKWA,GIDAN GIZAGO/ KOFAR G/SARKI,18/08/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/011/011-1677384789.pdf,false
+KADUNA,KACHIA,ANKWA,KASAN KOGI/ LEA KASAN/KOGI,18/08/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/009/009-1677366494.pdf,false
+KADUNA,KACHIA,ANKWA,ABURON/ GIDAN SARKI,18/08/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/006/006-1677364621.pdf,false
+KADUNA,KACHIA,ANKWA,PACHI/ K/G/SARKI PACHI,18/08/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/002/002-1677362448.pdf,false
