@@ -1,5 +1,5 @@
 import axios from "axios";
-import { State, StateSchema } from "./schema";
+import { StateSchema } from "./schema";
 import fs from "fs";
 import path from "path";
 import { assert } from "./utils/assert.utils";
@@ -20,9 +20,9 @@ const archiveState = async (
   {
     createDirectory = (dirName: string) =>
       fs.mkdirSync(path.join(resultsDir, dirName), { recursive: true }),
-    saveData = <TData>(dirName: string, data: TData) =>
+    saveData = <TData>(fileName: string, data: TData) =>
       fs.writeFileSync(
-        path.join(resultsDir, dirName, "index.json"),
+        path.join(resultsDir, fileName),
         JSON.stringify(data, null, 2)
       ),
   } = {}
@@ -37,11 +37,11 @@ const archiveState = async (
   console.log("Archiving", state.name);
   const stateDir = normalize(`${state.state_id}-${state.name}`);
   createDirectory(stateDir);
-  saveData(stateDir, state);
+  saveData(path.join(stateDir, "state.json"), state);
   for (let lga of lgas) {
     const lgaDir = path.join(stateDir, normalize(`${lga.lga_id}-${lga.name}`));
     createDirectory(lgaDir);
-    saveData(lgaDir, lga);
+    saveData(path.join(lgaDir, "lga.json"), lga);
     const wards = assert(data.find((row) => row.lga._id === lga._id)).wards;
     for (let ward of wards) {
       const wardDir = path.join(
@@ -49,7 +49,11 @@ const archiveState = async (
         normalize(`${ward.ward_id}-${ward.name}`)
       );
       createDirectory(wardDir);
-      saveData(wardDir, ward);
+      saveData(path.join(wardDir, "ward.json"), {
+        ...ward,
+        state_name: state.name,
+        lga_name: lga.name,
+      });
     }
   }
 };
