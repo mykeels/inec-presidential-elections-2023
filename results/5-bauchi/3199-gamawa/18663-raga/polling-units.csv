@@ -1,0 +1,32 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BAUCHI,GAMAWA,RAGA,"BAKATA,   BAKATA  VILLAGE",05/07/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14302/result_172547_1677663807_thumb.jpg,false
+BAUCHI,GAMAWA,RAGA,"SHALUM, SHALUM VILLAGE",05/07/09/031,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14328/result_172573_1677663678_thumb.jpg,false
+BAUCHI,GAMAWA,RAGA,"RAGA,   PRIMARY SCHOOL III",05/07/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14300/result_172545_1677661050_thumb.jpg,false
+BAUCHI,GAMAWA,RAGA,BAKORI  BAKORI  VILLAGE,05/07/09/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14314/result_172559_1677660342_thumb.jpg,false
+BAUCHI,GAMAWA,RAGA,"BAGEL, BAGEL VILLAGE",05/07/09/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14312/result_172557_1677659881_thumb.jpg,false
+BAUCHI,GAMAWA,RAGA,GAYAWA PRIMARY SCHOOL,05/07/09/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+BAUCHI,GAMAWA,RAGA,"LUGAGU,   LUGA  VILLAGE",05/07/09/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14310/result_172555_1677659079_thumb.jpg,false
+BAUCHI,GAMAWA,RAGA,"LADE, LADE  VILLAGE",05/07/09/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14309/result_172554_1677658826_thumb.jpg,false
+BAUCHI,GAMAWA,RAGA,AIDO  G/ALHAJI HARDO,05/07/09/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14308/result_172553_1677633901_thumb.jpg,false
+BAUCHI,GAMAWA,RAGA,AIDO  PRIMARY SCHOOL,05/07/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14307/result_172552_1677633674_thumb.jpg,false
+BAUCHI,GAMAWA,RAGA,SAMO  PRIMARY SCHOOL,05/07/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14306/result_172551_1677633525_thumb.jpg,false
+BAUCHI,GAMAWA,RAGA,"DANCHUWA,  PRIMARY SCHOOL",05/07/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14305/result_172550_1677633323_thumb.jpg,false
+BAUCHI,GAMAWA,RAGA,"ISARI,  ISARI  VILLAGE",05/07/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14304/result_172549_1677633133_thumb.jpg,false
+BAUCHI,GAMAWA,RAGA,"MAGAJIRI,  MAGAJIRI  VILLAGE",05/07/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14303/result_172548_1677632866_thumb.jpg,false
+BAUCHI,GAMAWA,RAGA,"RAGA,   PRIMARY SCHOOL IV",05/07/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14301/result_172546_1677632579_thumb.jpg,false
+BAUCHI,GAMAWA,RAGA,"AGWADO, AGWADO VILLAGE",05/07/09/029,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+BAUCHI,GAMAWA,RAGA,"GANGAWA,GANGAWA VILLAGE",05/07/09/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14325/result_172570_1677632157_thumb.jpg,false
+BAUCHI,GAMAWA,RAGA,"TARANKA,TARANKA VILLAGE",05/07/09/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14324/result_172569_1677632018_thumb.jpg,false
+BAUCHI,GAMAWA,RAGA,"MABANNI,MABANNI VILLAGE",05/07/09/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14323/result_172568_1677631861_thumb.jpg,false
+BAUCHI,GAMAWA,RAGA,"TURAKIRI, TURAKIRI VILLAGE",05/07/09/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14322/result_172567_1677631699_thumb.jpg,false
+BAUCHI,GAMAWA,RAGA,"FEWA DAM, FEWA DAM VILLAGE",05/07/09/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14321/result_172566_1677631455_thumb.jpg,false
+BAUCHI,GAMAWA,RAGA,"BUSKUWA, BUSKUWA VILLAGE",05/07/09/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14320/result_172565_1677631266_thumb.jpg,false
+BAUCHI,GAMAWA,RAGA,"DUMBARI,   DUMBARI  VILLAGE II",05/07/09/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14319/result_172564_1677631039_thumb.jpg,false
+BAUCHI,GAMAWA,RAGA,"DAGALERI,  DAMBARI  VILLAGE I",05/07/09/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14318/result_172563_1677630908_thumb.jpg,false
+BAUCHI,GAMAWA,RAGA,"BILABIRIN, BILABIRIN VILLAGE",05/07/09/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14317/result_172562_1677630731_thumb.jpg,false
+BAUCHI,GAMAWA,RAGA,"DANBAYEL, DANBAYEL VILLAGE",05/07/09/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14316/result_172561_1677630590_thumb.jpg,false
+BAUCHI,GAMAWA,RAGA,BAKORI 'B' BAKORI PRIMARY SCHOOL,05/07/09/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14315/result_172560_1677630354_thumb.jpg,false
+BAUCHI,GAMAWA,RAGA,"ZIKIDIRI, ZIKIDIRI VILLAGE",05/07/09/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14313/result_172558_1677630016_thumb.jpg,false
+BAUCHI,GAMAWA,RAGA,RAGA PRIMARY SCHOOL II,05/07/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14299/result_172544_1677614240_thumb.jpg,false
+BAUCHI,GAMAWA,RAGA,RAGA PRIMARY SCHOOL I,05/07/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14298/result_172543_1677614061_thumb.jpg,false
+BAUCHI,GAMAWA,RAGA,"DANGURI, DANGURI VILLAGE",05/07/09/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14327/result_172572_1677611154_thumb.jpg,false

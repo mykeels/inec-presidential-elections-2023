@@ -1,0 +1,13 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BAUCHI,BOGORO,"LUSA  ""B""","MBALL,   MBALL  PRIMARY SCHOOL",05/03/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/13662/result_171754_1677535560_thumb.jpg,true
+BAUCHI,BOGORO,"LUSA  ""B""","KWABLANG,  KWANLANG PRIMARY SCHOOL",05/03/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/13660/result_171752_1677534884_thumb.jpg,true
+BAUCHI,BOGORO,"LUSA  ""B""","DUNGA GALADIMA,  DUNGA PRIMARY SCHOOL",05/03/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/13659/result_171751_1677534702_thumb.jpg,true
+BAUCHI,BOGORO,"LUSA  ""B""","DUNGA/KWASKWA,   F/KABBA",05/03/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/13658/result_171750_1677534574_thumb.jpg,true
+BAUCHI,BOGORO,"LUSA  ""B""","LUSA AREWA,   LUSA PRIMARY SCHOOL I",05/03/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/13656/result_171748_1677531366_thumb.jpg,true
+BAUCHI,BOGORO,"LUSA  ""B""","RAFIN ZURFI,   RAFIN ZURFI PRIMARY SCHOOL",05/03/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/13661/result_171753_1677577302_thumb.jpg,true
+BAUCHI,BOGORO,"LUSA  ""B""",UPPER BASIC LUSA,05/03/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/624041/result_171755_1677577453_thumb.jpg,false
+BAUCHI,BOGORO,"LUSA  ""B""","LUSA AREWA,   LUSA PRIMARY SCHOOL II",05/03/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/13657/result_171749_1677577084_thumb.jpg,false
+BAUCHI,BOGORO,"LUSA  ""B""",GALADIMAWA,05/03/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/624043/result_171757_1677577630_thumb.jpg,true
+BAUCHI,BOGORO,"LUSA  ""B""",KWABLANG B,05/03/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/012/012-1677401202.pdf,false
+BAUCHI,BOGORO,"LUSA  ""B""",UPPER BASIC GWASKA,05/03/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/009/009-1677387704.pdf,false
+BAUCHI,BOGORO,"LUSA  ""B""",WURGUP,05/03/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/011/011-1677373140.pdf,false

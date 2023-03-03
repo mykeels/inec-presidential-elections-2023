@@ -1,0 +1,18 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BAUCHI,BOGORO,"BOGORO ""C""",GIRMALA,05/03/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3195/ward/18616/pu/131289/131289-1677588113.pdf,true
+BAUCHI,BOGORO,"BOGORO ""C""",SARKIN KUDU B,05/03/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3195/ward/18616/pu/131286/131286-1677587542.pdf,true
+BAUCHI,BOGORO,"BOGORO ""C""",YELWAN GWARANGAH,05/03/03/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3195/ward/18616/pu/131291/131291-1677587213.pdf,true
+BAUCHI,BOGORO,"BOGORO ""C""",GWASKA,05/03/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3195/ward/18616/pu/131285/131285-1677585808.pdf,false
+BAUCHI,BOGORO,"BOGORO ""C""",MARANG,05/03/03/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3195/ward/18616/pu/131290/131290-1677585441.pdf,false
+BAUCHI,BOGORO,"BOGORO ""C""","SARKIN KUDU,   PRIMARY SCHOOL",05/03/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3195/ward/18616/pu/13627/13627-1677583854.pdf,false
+BAUCHI,BOGORO,"BOGORO ""C""",BOM PRIMARY SCHOOL,05/03/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3195/ward/18616/pu/13625/13625-1677583512.pdf,false
+BAUCHI,BOGORO,"BOGORO ""C""","GWARANGA,  GWARANGA PRIMARY SCHOOL",05/03/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3195/ward/18616/pu/13629/13629-1677583143.pdf,false
+BAUCHI,BOGORO,"BOGORO ""C""","YOLA,   K/SARKI",05/03/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3195/ward/18616/pu/13626/13626-1677582768.pdf,false
+BAUCHI,BOGORO,"BOGORO ""C""",BAMSHI MAGISTRATE COURT,05/03/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3195/ward/18616/pu/131283/131283-1677582181.pdf,true
+BAUCHI,BOGORO,"BOGORO ""C""","KURUM DODO,   PRIMARY SCHOOL",05/03/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3195/ward/18616/pu/13628/13628-1677579282.pdf,true
+BAUCHI,BOGORO,"BOGORO ""C""","BAMSHI,   BAMSHI AREA COURT I",05/03/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3195/ward/18616/pu/13623/13623-1677510106.pdf,false
+BAUCHI,BOGORO,"BOGORO ""C""",KADUNA,05/03/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3195/ward/18616/pu/131284/131284-1677508516.pdf,false
+BAUCHI,BOGORO,"BOGORO ""C""","BAMSHI,   BAMSHI AREA COURT II",05/03/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/03/pu/002/002-1677412407.pdf,false
+BAUCHI,BOGORO,"BOGORO ""C""",NOMADIC BOGORO,05/03/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/03/pu/013/013-1677408894.pdf,false
+BAUCHI,BOGORO,"BOGORO ""C""",KURUM BAKIN KASUWA,05/03/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/03/pu/014/014-1677396575.pdf,false
+BAUCHI,BOGORO,"BOGORO ""C""","SARAUTA,   K/SARKI",05/03/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/03/pu/008/008-1677394572.pdf,false

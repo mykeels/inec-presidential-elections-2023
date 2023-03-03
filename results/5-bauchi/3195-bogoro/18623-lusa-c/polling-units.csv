@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BAUCHI,BOGORO,"LUSA  ""C""",BUGUN B,05/03/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3195/ward/18623/pu/131326/131326-1677593047.pdf,true
+BAUCHI,BOGORO,"LUSA  ""C""",DATSANG,05/03/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3195/ward/18623/pu/131325/131325-1677592771.pdf,true
+BAUCHI,BOGORO,"LUSA  ""C""","BADAGARI B, PHC SABON BADAGARI",05/03/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3195/ward/18623/pu/131324/131324-1677592573.pdf,true
+BAUCHI,BOGORO,"LUSA  ""C""","MOL  MOL,  MOL  MOL  PRIMARY SCHOOL",05/03/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3195/ward/18623/pu/13676/13676-1677592310.pdf,false
+BAUCHI,BOGORO,"LUSA  ""C""","GIZAKI,  GIZAKI PRIMARY SCHOOL II",05/03/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3195/ward/18623/pu/13673/13673-1677592155.pdf,true
+BAUCHI,BOGORO,"LUSA  ""C""","GIZAKI,  GIZAKI PRIMARY SCHOOL I",05/03/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3195/ward/18623/pu/13672/13672-1677591909.pdf,true
+BAUCHI,BOGORO,"LUSA  ""C""","NDIT,   NDIT PRIMARY SCHOOL",05/03/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/10/pu/004/004-1677406422.pdf,false
+BAUCHI,BOGORO,"LUSA  ""C""","BADAGARI,  BADAGARI  PRIMARY  SCHOOL",05/03/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/10/pu/003/003-1677400811.pdf,false
+BAUCHI,BOGORO,"LUSA  ""C""","BUGUM,  BUGUM  PRIMARY SCHOOL",05/03/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/10/pu/006/006-1677399691.pdf,false

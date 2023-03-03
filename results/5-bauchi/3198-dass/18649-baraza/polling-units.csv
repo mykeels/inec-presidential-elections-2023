@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BAUCHI,DASS,BARAZA,LUMANA PRIMARY SCHOOL  II,05/06/05/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/624128/result_172275_1677529749_thumb.jpg,true
+BAUCHI,DASS,BARAZA,"MADAKI/WAKILI,   LUMANA PRIMARY SCHOOL",05/06/05/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14063/result_172268_1677529034_thumb.jpg,true
+BAUCHI,DASS,BARAZA,"BUZURI,  KOFAR  SARKIN  BUZURI",05/06/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14064/result_172269_1677529162_thumb.jpg,true
+BAUCHI,DASS,BARAZA,"UNGUWAR MAGAJI,   BARAZA MATERNITY",05/06/05/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14069/result_172274_1677528855_thumb.jpg,true
+BAUCHI,DASS,BARAZA,"GIBKIR/MAGAJI,  TASHAN  GIBKIR",05/06/05/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14065/result_172270_1677528561_thumb.jpg,true
+BAUCHI,DASS,BARAZA,"GUMTI,   GUMTI PRIMARY SCHOOL",05/06/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14062/result_172267_1677528292_thumb.jpg,true
+BAUCHI,DASS,BARAZA,"BAGAN,   BAGAN PRIMARY SCHOOL",05/06/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+BAUCHI,DASS,BARAZA,"BANDAS,   BANDAS PRIMARY SCHOOL",05/06/05/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14067/result_172272_1677608058_thumb.jpg,false
+BAUCHI,DASS,BARAZA,"GALA,   GALA PRIMARY SCHOOL",05/06/05/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/14066/result_172271_1677607830_thumb.jpg,false

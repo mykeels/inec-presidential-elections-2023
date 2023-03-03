@@ -1,0 +1,15 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BAUCHI,KIRFI,DEWU EAST,"GOLO,   KOFAR SARKI -II",05/13/06/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/15334/result_173824_1677509341_thumb.jpg,true
+BAUCHI,KIRFI,DEWU EAST,"GUZAN AMADU,   KOFAR SARKI",05/13/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/15331/result_173821_1677575083_thumb.jpg,false
+BAUCHI,KIRFI,DEWU EAST,"GADUJI  NORTH,   KOFAR  MAI UNG.",05/13/06/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/15338/result_173828_1677575922_thumb.jpg,false
+BAUCHI,KIRFI,DEWU EAST,"KAFIN IYA,  PRIMARY SCHOOL II",05/13/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/15328/result_173818_1677574512_thumb.jpg,false
+BAUCHI,KIRFI,DEWU EAST,"KAFIN IYA,  PRIMARY SCHOOL I",05/13/06/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/15327/result_173817_1677574404_thumb.jpg,false
+BAUCHI,KIRFI,DEWU EAST,"BUKKAJI,  KOFAR BUKKAJI",05/13/06/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/15330/result_173820_1677574870_thumb.jpg,false
+BAUCHI,KIRFI,DEWU EAST,"GADUJI  SOUTH,   KOFAR SARKI",05/13/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/15337/result_173827_1677575814_thumb.jpg,false
+BAUCHI,KIRFI,DEWU EAST,KAFIN IYA GARU SECURITY,05/13/06/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/624350/result_173830_1677576215_thumb.jpg,false
+BAUCHI,KIRFI,DEWU EAST,"WURO GUMBAL,   KOFAR SARKI",05/13/06/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/15332/result_173822_1677575001_thumb.jpg,false
+BAUCHI,KIRFI,DEWU EAST,"GOLO,   KOFAR SARKI- I",05/13/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/15333/result_173823_1677575223_thumb.jpg,false
+BAUCHI,KIRFI,DEWU EAST,"HARDO  BAWA,    KOFAR HARDO BAWA",05/13/06/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/15329/result_173819_1677574694_thumb.jpg,false
+BAUCHI,KIRFI,DEWU EAST,"GAGIRO,   KOFAR SARKI",05/13/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3205/ward/18723/pu/15346/15346-1677570222.pdf,true
+BAUCHI,KIRFI,DEWU EAST,"GULA,   KOFAR SARKI",05/13/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/06/pu/009/009-1677407425.pdf,false
+BAUCHI,KIRFI,DEWU EAST,"GUZAN SARKIWO,   KOFAR SARKI",05/13/06/010,,false

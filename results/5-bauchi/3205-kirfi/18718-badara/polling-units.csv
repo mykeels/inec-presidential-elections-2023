@@ -1,0 +1,19 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BAUCHI,KIRFI,BADARA,BAKIN KASUWA BADARA,05/13/01/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/624337/result_173754_1677764095_thumb.jpg,true
+BAUCHI,KIRFI,BADARA,GJSS BADARA,05/13/01/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/624336/result_173753_1677763837_thumb.jpg,false
+BAUCHI,KIRFI,BADARA,"KESU,    KOFAR SARKI",05/13/01/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/15276/result_173752_1677763661_thumb.jpg,false
+BAUCHI,KIRFI,BADARA,"MAINARI,   KOFAR SARKI",05/13/01/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/15275/result_173751_1677763478_thumb.jpg,false
+BAUCHI,KIRFI,BADARA,"DAMBORI,   PRIMARY SCHOOL",05/13/01/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/15274/result_173750_1677763267_thumb.jpg,true
+BAUCHI,KIRFI,BADARA,DAMBORI PRI. SCH. II,05/13/01/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/15273/result_173749_1677763088_thumb.jpg,false
+BAUCHI,KIRFI,BADARA,DAMBORI PRIMARY SCHOOL I,05/13/01/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/15272/result_173748_1677762839_thumb.jpg,false
+BAUCHI,KIRFI,BADARA,"KUNBIN FULANI,   KOFAR HARDO",05/13/01/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/15271/result_173747_1677762658_thumb.jpg,false
+BAUCHI,KIRFI,BADARA,"GORONDO,   KOFAR SARKI",05/13/01/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/15270/result_173746_1677762507_thumb.jpg,false
+BAUCHI,KIRFI,BADARA,"BADAWAIRE,    BADAWAIRE",05/13/01/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/15269/result_173745_1677762246_thumb.jpg,false
+BAUCHI,KIRFI,BADARA,"HARDO BAKARI,  KOFAR HARDO",05/13/01/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/15268/result_173744_1677761807_thumb.jpg,false
+BAUCHI,KIRFI,BADARA,"BABA  SOUTH,    KOFAR M. UNG.",05/13/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/15267/result_173743_1677760861_thumb.jpg,true
+BAUCHI,KIRFI,BADARA,"BABA NORTH,    KOFAR SARKI - II",05/13/01/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/15266/result_173742_1677760701_thumb.jpg,false
+BAUCHI,KIRFI,BADARA,"BABA NORTH,    KOFAR SARKI - I",05/13/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/15265/result_173741_1677760452_thumb.jpg,false
+BAUCHI,KIRFI,BADARA,"BADARA YARIMA,  UNG. YARIMA",05/13/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/15264/result_173740_1677760285_thumb.jpg,true
+BAUCHI,KIRFI,BADARA,"BADARA WEST,   PRIMARY SCHOOL BADARA",05/13/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/15263/result_173739_1677759444_thumb.jpg,true
+BAUCHI,KIRFI,BADARA,"BADARA EAST,   PRIMARY SCHOOL BADARA",05/13/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/15262/result_173738_1677759263_thumb.jpg,false
+BAUCHI,KIRFI,BADARA,"UNG. AJIYA,    B.S.A.P. BADARA",05/13/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/15261/result_173737_1677758465_thumb.jpg,false
