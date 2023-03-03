@@ -17,5 +17,7 @@
   "ward_id": 25885,
   "created_at": "2020-07-15T17:38:35.631Z",
   "updated_at": "2020-07-15T17:38:35.631Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "TARABA",
+  "lga_name": "GASSOL"
 }
