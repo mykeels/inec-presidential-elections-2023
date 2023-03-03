@@ -17,5 +17,7 @@
   "ward_id": 20263,
   "created_at": "2020-07-15T17:24:29.063Z",
   "updated_at": "2020-07-15T17:24:29.063Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "EDO",
+  "lga_name": "ORHIONMWON"
 }
