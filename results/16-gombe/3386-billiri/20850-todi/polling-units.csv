@@ -1,15 +1,15 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-GOMBE,BILLIRI,,"LAKOLLO, K. JAURO LAKOLLO",15/03/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20850/pu/43134/43134-1677491596.pdf,false
-GOMBE,BILLIRI,,"WURO DOYA, K. JAURO WURO DOYA",15/03/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20850/pu/43135/43135-1677491306.pdf,false
-GOMBE,BILLIRI,,SHELA PRIMARY SCH.  I,15/03/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20850/pu/142888/142888-1677490232.pdf,false
-GOMBE,BILLIRI,,LATANA K.J LATANA  I,15/03/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20850/pu/142887/142887-1677490018.pdf,false
-GOMBE,BILLIRI,,DONGOR II PRIMARY SCH.  I,15/03/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20850/pu/142886/142886-1677489771.pdf,false
-GOMBE,BILLIRI,,"LAYER, K. JAURO LAYER",15/03/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20850/pu/43133/43133-1677489309.pdf,false
-GOMBE,BILLIRI,,"SHELA  II, PRI. SCH.",15/03/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20850/pu/43132/43132-1677489082.pdf,false
-GOMBE,BILLIRI,,"SHELA  I, PRI. SCH.",15/03/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20850/pu/43131/43131-1677488851.pdf,false
-GOMBE,BILLIRI,,"YAN SARI, K. JAURO YAN SARI",15/03/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20850/pu/43130/43130-1677488682.pdf,false
-GOMBE,BILLIRI,,"LATANA, K. JAURO LATANA",15/03/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20850/pu/43129/43129-1677488441.pdf,false
-GOMBE,BILLIRI,,"LAKULE, K. JAURO LATANA",15/03/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20850/pu/43128/43128-1677488250.pdf,false
-GOMBE,BILLIRI,,"DONGOR  II, PRI. SCH.",15/03/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20850/pu/43127/43127-1677488060.pdf,false
-GOMBE,BILLIRI,,"DONGOR  I, PRI. SCH.",15/03/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20850/pu/43126/43126-1677487588.pdf,false
-GOMBE,BILLIRI,,DONGOR I PRIMARY SCH.  I,15/03/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/011/011-1677391324.pdf,false
+GOMBE,BILLIRI,TODI,"LAKOLLO, K. JAURO LAKOLLO",15/03/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20850/pu/43134/43134-1677491596.pdf,false
+GOMBE,BILLIRI,TODI,"WURO DOYA, K. JAURO WURO DOYA",15/03/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20850/pu/43135/43135-1677491306.pdf,false
+GOMBE,BILLIRI,TODI,SHELA PRIMARY SCH.  I,15/03/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20850/pu/142888/142888-1677490232.pdf,false
+GOMBE,BILLIRI,TODI,LATANA K.J LATANA  I,15/03/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20850/pu/142887/142887-1677490018.pdf,false
+GOMBE,BILLIRI,TODI,DONGOR II PRIMARY SCH.  I,15/03/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20850/pu/142886/142886-1677489771.pdf,false
+GOMBE,BILLIRI,TODI,"LAYER, K. JAURO LAYER",15/03/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20850/pu/43133/43133-1677489309.pdf,false
+GOMBE,BILLIRI,TODI,"SHELA  II, PRI. SCH.",15/03/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20850/pu/43132/43132-1677489082.pdf,false
+GOMBE,BILLIRI,TODI,"SHELA  I, PRI. SCH.",15/03/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20850/pu/43131/43131-1677488851.pdf,false
+GOMBE,BILLIRI,TODI,"YAN SARI, K. JAURO YAN SARI",15/03/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20850/pu/43130/43130-1677488682.pdf,false
+GOMBE,BILLIRI,TODI,"LATANA, K. JAURO LATANA",15/03/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20850/pu/43129/43129-1677488441.pdf,false
+GOMBE,BILLIRI,TODI,"LAKULE, K. JAURO LATANA",15/03/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20850/pu/43128/43128-1677488250.pdf,false
+GOMBE,BILLIRI,TODI,"DONGOR  II, PRI. SCH.",15/03/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20850/pu/43127/43127-1677488060.pdf,false
+GOMBE,BILLIRI,TODI,"DONGOR  I, PRI. SCH.",15/03/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20850/pu/43126/43126-1677487588.pdf,false
+GOMBE,BILLIRI,TODI,DONGOR I PRIMARY SCH.  I,15/03/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/011/011-1677391324.pdf,false

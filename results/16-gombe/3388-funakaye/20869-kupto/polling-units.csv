@@ -1,18 +1,18 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-GOMBE,FUNAKAYE,,"UNG. GALADIMA, DISPENSARY",15/05/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43513/43513-1677522999.pdf,false
-GOMBE,FUNAKAYE,,"GARIN ABARE, KOFAR ABARE",15/05/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43528/43528-1677522027.pdf,false
-GOMBE,FUNAKAYE,,"GARIN ABBA, KOFAR JAURO",15/05/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43527/43527-1677521868.pdf,false
-GOMBE,FUNAKAYE,,"DAN GALADIMA, KOFAR JAURO",15/05/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43526/43526-1677521472.pdf,false
-GOMBE,FUNAKAYE,,"UNG. SARKI KUPTO, KOFAR BABADALA",15/05/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43512/43512-1677521313.pdf,false
-GOMBE,FUNAKAYE,,"WURO KOLONG, KOFAR JAURO",15/05/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43525/43525-1677521235.pdf,false
-GOMBE,FUNAKAYE,,"GARIN ALMAKASHI, KOFAR JAURO",15/05/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43524/43524-1677521075.pdf,false
-GOMBE,FUNAKAYE,,"KUKA BAKWAI, KOFAR JAURO",15/05/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43523/43523-1677520936.pdf,false
-GOMBE,FUNAKAYE,,"UNG. CHIROMA, PRIMARY SCHOOL",15/05/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43514/43514-1677520845.pdf,false
-GOMBE,FUNAKAYE,,"GASOL, KOFAR JAURO",15/05/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43520/43520-1677520744.pdf,false
-GOMBE,FUNAKAYE,,"MALAM GONI, KOFAR JAURO",15/05/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43522/43522-1677520784.pdf,false
-GOMBE,FUNAKAYE,,"WINDE, KOFAR JAURO",15/05/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43521/43521-1677520491.pdf,false
-GOMBE,FUNAKAYE,,"UNG. BOLARI, KOFAR JAURO",15/05/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43515/43515-1677520429.pdf,false
-GOMBE,FUNAKAYE,,"HASHIMARI, KOFAR JAURO",15/05/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43519/43519-1677520259.pdf,false
-GOMBE,FUNAKAYE,,"DANNISKI, KOFAR SARKI",15/05/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43518/43518-1677519943.pdf,false
-GOMBE,FUNAKAYE,,"UNG. JANGADE, DISPENSARY",15/05/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43516/43516-1677519925.pdf,false
-GOMBE,FUNAKAYE,,"JAURO MATI, KOFAR JAURO",15/05/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43517/43517-1677519670.pdf,false
+GOMBE,FUNAKAYE,KUPTO,"UNG. GALADIMA, DISPENSARY",15/05/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43513/43513-1677522999.pdf,false
+GOMBE,FUNAKAYE,KUPTO,"GARIN ABARE, KOFAR ABARE",15/05/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43528/43528-1677522027.pdf,false
+GOMBE,FUNAKAYE,KUPTO,"GARIN ABBA, KOFAR JAURO",15/05/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43527/43527-1677521868.pdf,false
+GOMBE,FUNAKAYE,KUPTO,"DAN GALADIMA, KOFAR JAURO",15/05/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43526/43526-1677521472.pdf,false
+GOMBE,FUNAKAYE,KUPTO,"UNG. SARKI KUPTO, KOFAR BABADALA",15/05/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43512/43512-1677521313.pdf,false
+GOMBE,FUNAKAYE,KUPTO,"WURO KOLONG, KOFAR JAURO",15/05/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43525/43525-1677521235.pdf,false
+GOMBE,FUNAKAYE,KUPTO,"GARIN ALMAKASHI, KOFAR JAURO",15/05/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43524/43524-1677521075.pdf,false
+GOMBE,FUNAKAYE,KUPTO,"KUKA BAKWAI, KOFAR JAURO",15/05/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43523/43523-1677520936.pdf,false
+GOMBE,FUNAKAYE,KUPTO,"UNG. CHIROMA, PRIMARY SCHOOL",15/05/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43514/43514-1677520845.pdf,false
+GOMBE,FUNAKAYE,KUPTO,"GASOL, KOFAR JAURO",15/05/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43520/43520-1677520744.pdf,false
+GOMBE,FUNAKAYE,KUPTO,"MALAM GONI, KOFAR JAURO",15/05/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43522/43522-1677520784.pdf,false
+GOMBE,FUNAKAYE,KUPTO,"WINDE, KOFAR JAURO",15/05/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43521/43521-1677520491.pdf,false
+GOMBE,FUNAKAYE,KUPTO,"UNG. BOLARI, KOFAR JAURO",15/05/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43515/43515-1677520429.pdf,false
+GOMBE,FUNAKAYE,KUPTO,"HASHIMARI, KOFAR JAURO",15/05/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43519/43519-1677520259.pdf,false
+GOMBE,FUNAKAYE,KUPTO,"DANNISKI, KOFAR SARKI",15/05/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43518/43518-1677519943.pdf,false
+GOMBE,FUNAKAYE,KUPTO,"UNG. JANGADE, DISPENSARY",15/05/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43516/43516-1677519925.pdf,false
+GOMBE,FUNAKAYE,KUPTO,"JAURO MATI, KOFAR JAURO",15/05/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20869/pu/43517/43517-1677519670.pdf,false

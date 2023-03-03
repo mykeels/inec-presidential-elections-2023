@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-GOMBE,GOMBE,,OLD NEPA OFFICE,15/06/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/143106/143106-1677523222.pdf,false
-GOMBE,GOMBE,,JAURO NASARAWO IV PRIMARY SCH.,15/06/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/143104/143104-1677522851.pdf,false
-GOMBE,GOMBE,,NASARAWO MATERNITY,15/06/09/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/143107/143107-1677518724.pdf,false
-GOMBE,GOMBE,,JAURO NASARAWO VETERINARY CLINIC,15/06/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/143105/143105-1677518204.pdf,false
-GOMBE,GOMBE,,"JAURO NASARAWA II, K. NASARAWA PRI. SCH.",15/06/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/43722/43722-1677517866.pdf,false
-GOMBE,GOMBE,,"YALAH GURUZA, K. J. YALAN  GURUZA",15/06/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/43720/43720-1677517373.pdf,false
-GOMBE,GOMBE,,KOFAR JULDE II OPEN SPACE,15/06/09/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/143109/143109-1677516740.pdf,false
-GOMBE,GOMBE,,"SODENGI, KOFAR  J. SODENGI",15/06/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/43725/43725-1677516147.pdf,false
-GOMBE,GOMBE,,KOFAR JAURO Y/GURUZA II,15/06/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/143101/143101-1677515563.pdf,false
-GOMBE,GOMBE,,"JULDE, KOFAR  JULDE",15/06/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/43724/43724-1677514991.pdf,false
-GOMBE,GOMBE,,YALANGURUZA MATERNITY,15/06/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/143100/143100-1677514583.pdf,false
-GOMBE,GOMBE,,"SABON GARI DANLAMI, KOFAR  M.  DANLAMI",15/06/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/43726/43726-1677514100.pdf,false
-GOMBE,GOMBE,,GDSS YALANGURUZA,15/06/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/143102/143102-1677513586.pdf,false
-GOMBE,GOMBE,,GJDSS SABON GARI,15/06/09/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/143110/143110-1677511968.pdf,false
-GOMBE,GOMBE,,"MALAM BAPPA, KOFAR M. BAPPA",15/06/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/43723/43723-1677511476.pdf,false
-GOMBE,GOMBE,,"JAURO NASARAWA I, K. NASARAWA PRI. SCH.",15/06/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/43721/43721-1677510780.pdf,false
-GOMBE,GOMBE,,JAURO NASARAWA PRIM. SCH. III,15/06/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/143103/143103-1677510307.pdf,false
-GOMBE,GOMBE,,OPP. MALAM BAPPAH HOUSE,15/06/09/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/143108/143108-1677509008.pdf,false
+GOMBE,GOMBE,NASARAWA,OLD NEPA OFFICE,15/06/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/143106/143106-1677523222.pdf,false
+GOMBE,GOMBE,NASARAWA,JAURO NASARAWO IV PRIMARY SCH.,15/06/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/143104/143104-1677522851.pdf,false
+GOMBE,GOMBE,NASARAWA,NASARAWO MATERNITY,15/06/09/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/143107/143107-1677518724.pdf,false
+GOMBE,GOMBE,NASARAWA,JAURO NASARAWO VETERINARY CLINIC,15/06/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/143105/143105-1677518204.pdf,false
+GOMBE,GOMBE,NASARAWA,"JAURO NASARAWA II, K. NASARAWA PRI. SCH.",15/06/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/43722/43722-1677517866.pdf,false
+GOMBE,GOMBE,NASARAWA,"YALAH GURUZA, K. J. YALAN  GURUZA",15/06/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/43720/43720-1677517373.pdf,false
+GOMBE,GOMBE,NASARAWA,KOFAR JULDE II OPEN SPACE,15/06/09/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/143109/143109-1677516740.pdf,false
+GOMBE,GOMBE,NASARAWA,"SODENGI, KOFAR  J. SODENGI",15/06/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/43725/43725-1677516147.pdf,false
+GOMBE,GOMBE,NASARAWA,KOFAR JAURO Y/GURUZA II,15/06/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/143101/143101-1677515563.pdf,false
+GOMBE,GOMBE,NASARAWA,"JULDE, KOFAR  JULDE",15/06/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/43724/43724-1677514991.pdf,false
+GOMBE,GOMBE,NASARAWA,YALANGURUZA MATERNITY,15/06/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/143100/143100-1677514583.pdf,false
+GOMBE,GOMBE,NASARAWA,"SABON GARI DANLAMI, KOFAR  M.  DANLAMI",15/06/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/43726/43726-1677514100.pdf,false
+GOMBE,GOMBE,NASARAWA,GDSS YALANGURUZA,15/06/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/143102/143102-1677513586.pdf,false
+GOMBE,GOMBE,NASARAWA,GJDSS SABON GARI,15/06/09/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/143110/143110-1677511968.pdf,false
+GOMBE,GOMBE,NASARAWA,"MALAM BAPPA, KOFAR M. BAPPA",15/06/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/43723/43723-1677511476.pdf,false
+GOMBE,GOMBE,NASARAWA,"JAURO NASARAWA I, K. NASARAWA PRI. SCH.",15/06/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/43721/43721-1677510780.pdf,false
+GOMBE,GOMBE,NASARAWA,JAURO NASARAWA PRIM. SCH. III,15/06/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/143103/143103-1677510307.pdf,false
+GOMBE,GOMBE,NASARAWA,OPP. MALAM BAPPAH HOUSE,15/06/09/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3389/ward/20881/pu/143108/143108-1677509008.pdf,false

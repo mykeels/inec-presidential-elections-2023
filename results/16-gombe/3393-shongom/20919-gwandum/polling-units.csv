@@ -1,20 +1,20 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-GOMBE,SHONGOM,,TAMBAU/GWALANMACHI K/DANAMORO,15/10/06/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/143316/143316-1677499979.pdf,false
-GOMBE,SHONGOM,,"BALADE, KOFAR SARKI II",15/10/06/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/143315/143315-1677499547.pdf,false
-GOMBE,SHONGOM,,GWANDUM PRI. SCH,15/10/06/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/143314/143314-1677499166.pdf,false
-GOMBE,SHONGOM,,"GARU / GOLOMBI, KOFAR DAN ASALI",15/10/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44336/44336-1677498884.pdf,false
-GOMBE,SHONGOM,,"TAMBAU  / GWALANMACHI, KOFAR J/ DANSOMORO",15/10/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44335/44335-1677498520.pdf,false
-GOMBE,SHONGOM,,"LALINGLING, KOFAR J/ BABAYO",15/10/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44334/44334-1677497992.pdf,false
-GOMBE,SHONGOM,,"GWARAH / GAHAMARI, KOFAR J/ DANLADI",15/10/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44333/44333-1677497620.pdf,false
-GOMBE,SHONGOM,,"POKULUN, PRI. SCH. POKULUN",15/10/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44332/44332-1677497163.pdf,false
-GOMBE,SHONGOM,,"GUJUBA, KOFAR J/ NAKASHERE",15/10/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44331/44331-1677495972.pdf,false
-GOMBE,SHONGOM,,"PAMADU / KWALE / JANYE, PAMADU PRI. SCH.",15/10/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44330/44330-1677495448.pdf,false
-GOMBE,SHONGOM,,"POPANDI / KATAGUM, KOFAR J. / BUBA",15/10/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44329/44329-1677494940.pdf,false
-GOMBE,SHONGOM,,"YELWA, YELWA K./ JAURO",15/10/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44328/44328-1677494484.pdf,false
-GOMBE,SHONGOM,,"MAJIDADI, KOFAR J. / AJUYI",15/10/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44327/44327-1677493985.pdf,false
-GOMBE,SHONGOM,,"TORO, KOFAR ILIYASU",15/10/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44326/44326-1677493494.pdf,false
-GOMBE,SHONGOM,,"KEFFI, KEFFI  PRI. SCH.",15/10/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44325/44325-1677492919.pdf,false
-GOMBE,SHONGOM,,"DAMJIGIRI / KUKA / KODILE, KUKAR PRI. SCH.",15/10/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44324/44324-1677492299.pdf,false
-GOMBE,SHONGOM,,"GARKO, KOFAR MAGAJI BUNU",15/10/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44323/44323-1677491630.pdf,false
-GOMBE,SHONGOM,,"BALADE, KOFAR SARKI",15/10/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44322/44322-1677490678.pdf,false
-GOMBE,SHONGOM,,"KURMI, GWANDUM PRI. SCH",15/10/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44321/44321-1677489300.pdf,false
+GOMBE,SHONGOM,GWANDUM,TAMBAU/GWALANMACHI K/DANAMORO,15/10/06/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/143316/143316-1677499979.pdf,false
+GOMBE,SHONGOM,GWANDUM,"BALADE, KOFAR SARKI II",15/10/06/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/143315/143315-1677499547.pdf,false
+GOMBE,SHONGOM,GWANDUM,GWANDUM PRI. SCH,15/10/06/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/143314/143314-1677499166.pdf,false
+GOMBE,SHONGOM,GWANDUM,"GARU / GOLOMBI, KOFAR DAN ASALI",15/10/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44336/44336-1677498884.pdf,false
+GOMBE,SHONGOM,GWANDUM,"TAMBAU  / GWALANMACHI, KOFAR J/ DANSOMORO",15/10/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44335/44335-1677498520.pdf,false
+GOMBE,SHONGOM,GWANDUM,"LALINGLING, KOFAR J/ BABAYO",15/10/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44334/44334-1677497992.pdf,false
+GOMBE,SHONGOM,GWANDUM,"GWARAH / GAHAMARI, KOFAR J/ DANLADI",15/10/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44333/44333-1677497620.pdf,false
+GOMBE,SHONGOM,GWANDUM,"POKULUN, PRI. SCH. POKULUN",15/10/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44332/44332-1677497163.pdf,false
+GOMBE,SHONGOM,GWANDUM,"GUJUBA, KOFAR J/ NAKASHERE",15/10/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44331/44331-1677495972.pdf,false
+GOMBE,SHONGOM,GWANDUM,"PAMADU / KWALE / JANYE, PAMADU PRI. SCH.",15/10/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44330/44330-1677495448.pdf,false
+GOMBE,SHONGOM,GWANDUM,"POPANDI / KATAGUM, KOFAR J. / BUBA",15/10/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44329/44329-1677494940.pdf,false
+GOMBE,SHONGOM,GWANDUM,"YELWA, YELWA K./ JAURO",15/10/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44328/44328-1677494484.pdf,false
+GOMBE,SHONGOM,GWANDUM,"MAJIDADI, KOFAR J. / AJUYI",15/10/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44327/44327-1677493985.pdf,false
+GOMBE,SHONGOM,GWANDUM,"TORO, KOFAR ILIYASU",15/10/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44326/44326-1677493494.pdf,false
+GOMBE,SHONGOM,GWANDUM,"KEFFI, KEFFI  PRI. SCH.",15/10/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44325/44325-1677492919.pdf,false
+GOMBE,SHONGOM,GWANDUM,"DAMJIGIRI / KUKA / KODILE, KUKAR PRI. SCH.",15/10/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44324/44324-1677492299.pdf,false
+GOMBE,SHONGOM,GWANDUM,"GARKO, KOFAR MAGAJI BUNU",15/10/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44323/44323-1677491630.pdf,false
+GOMBE,SHONGOM,GWANDUM,"BALADE, KOFAR SARKI",15/10/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44322/44322-1677490678.pdf,false
+GOMBE,SHONGOM,GWANDUM,"KURMI, GWANDUM PRI. SCH",15/10/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20919/pu/44321/44321-1677489300.pdf,false

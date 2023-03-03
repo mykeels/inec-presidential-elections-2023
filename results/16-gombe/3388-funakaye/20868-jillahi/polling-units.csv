@@ -1,17 +1,17 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-GOMBE,FUNAKAYE,,"MUTUKE, KOFAR JAURO",15/05/06/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/43416/result_100516_1677506145_thumb.jpg,true
-GOMBE,FUNAKAYE,,"UNG. GALADIMA, DISPENSARY",15/05/06/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/43407/result_100507_1677507216_thumb.jpg,true
-GOMBE,FUNAKAYE,,"UNG.  MADAKI, PRI. SCH.",15/05/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/43406/result_100506_1677509956_thumb.jpg,true
-GOMBE,FUNAKAYE,,"KACACCIYA, KOFAR JAURO",15/05/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20868/pu/43504/43504-1677522221.pdf,false
-GOMBE,FUNAKAYE,,"FETILA, KOFAR JAURO",15/05/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20868/pu/43506/43506-1677518270.pdf,false
-GOMBE,FUNAKAYE,,"JARKUM, KOFAR JAURO",15/05/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20868/pu/43505/43505-1677518048.pdf,false
-GOMBE,FUNAKAYE,,"BUSUM, KOFAR JAURO",15/05/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20868/pu/43499/43499-1677516967.pdf,false
-GOMBE,FUNAKAYE,,"UNG. BAUCHI JILLAHI, KOFAR SARKI",15/05/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20868/pu/43496/43496-1677516633.pdf,false
-GOMBE,FUNAKAYE,,"WURO ARSI, PRI. SCH.",15/05/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20868/pu/43500/43500-1677516019.pdf,false
-GOMBE,FUNAKAYE,,"DUBBEL, PRI. SCH.",15/05/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20868/pu/43501/43501-1677515565.pdf,false
-GOMBE,FUNAKAYE,,"BODORYEL, KOFAR JAURO",15/05/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20868/pu/43508/43508-1677515000.pdf,false
-GOMBE,FUNAKAYE,,"DUGA SABO, KOFAR DAMJI",15/05/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20868/pu/43511/43511-1677514054.pdf,false
-GOMBE,FUNAKAYE,,"MANGARI, KOFAR JAURO",15/05/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20868/pu/43510/43510-1677513599.pdf,false
-GOMBE,FUNAKAYE,,"JAGABALI, KOFAR JAURO",15/05/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20868/pu/43503/43503-1677513074.pdf,false
-GOMBE,FUNAKAYE,,"JAMTARI, KOFAR JAURO",15/05/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20868/pu/43509/43509-1677512418.pdf,false
-GOMBE,FUNAKAYE,,PRIMARY / SCHOOL / MARMAGANI,15/05/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20868/pu/43502/43502-1677511929.pdf,false
+GOMBE,FUNAKAYE,JILLAHI,"MUTUKE, KOFAR JAURO",15/05/06/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/43416/result_100516_1677506145_thumb.jpg,true
+GOMBE,FUNAKAYE,JILLAHI,"UNG. GALADIMA, DISPENSARY",15/05/06/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/43407/result_100507_1677507216_thumb.jpg,true
+GOMBE,FUNAKAYE,JILLAHI,"UNG.  MADAKI, PRI. SCH.",15/05/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/43406/result_100506_1677509956_thumb.jpg,true
+GOMBE,FUNAKAYE,JILLAHI,"KACACCIYA, KOFAR JAURO",15/05/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20868/pu/43504/43504-1677522221.pdf,false
+GOMBE,FUNAKAYE,JILLAHI,"FETILA, KOFAR JAURO",15/05/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20868/pu/43506/43506-1677518270.pdf,false
+GOMBE,FUNAKAYE,JILLAHI,"JARKUM, KOFAR JAURO",15/05/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20868/pu/43505/43505-1677518048.pdf,false
+GOMBE,FUNAKAYE,JILLAHI,"BUSUM, KOFAR JAURO",15/05/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20868/pu/43499/43499-1677516967.pdf,false
+GOMBE,FUNAKAYE,JILLAHI,"UNG. BAUCHI JILLAHI, KOFAR SARKI",15/05/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20868/pu/43496/43496-1677516633.pdf,false
+GOMBE,FUNAKAYE,JILLAHI,"WURO ARSI, PRI. SCH.",15/05/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20868/pu/43500/43500-1677516019.pdf,false
+GOMBE,FUNAKAYE,JILLAHI,"DUBBEL, PRI. SCH.",15/05/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20868/pu/43501/43501-1677515565.pdf,false
+GOMBE,FUNAKAYE,JILLAHI,"BODORYEL, KOFAR JAURO",15/05/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20868/pu/43508/43508-1677515000.pdf,false
+GOMBE,FUNAKAYE,JILLAHI,"DUGA SABO, KOFAR DAMJI",15/05/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20868/pu/43511/43511-1677514054.pdf,false
+GOMBE,FUNAKAYE,JILLAHI,"MANGARI, KOFAR JAURO",15/05/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20868/pu/43510/43510-1677513599.pdf,false
+GOMBE,FUNAKAYE,JILLAHI,"JAGABALI, KOFAR JAURO",15/05/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20868/pu/43503/43503-1677513074.pdf,false
+GOMBE,FUNAKAYE,JILLAHI,"JAMTARI, KOFAR JAURO",15/05/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20868/pu/43509/43509-1677512418.pdf,false
+GOMBE,FUNAKAYE,JILLAHI,PRIMARY / SCHOOL / MARMAGANI,15/05/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20868/pu/43502/43502-1677511929.pdf,false

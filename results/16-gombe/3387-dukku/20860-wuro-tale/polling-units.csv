@@ -1,18 +1,18 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-GOMBE,DUKKU,,"MAYO LAMIDO, PRI. SCH.",15/04/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20860/pu/43341/43341-1677666395.pdf,false
-GOMBE,DUKKU,,MAYO LAMIDO PRIM. SCH. I,15/04/09/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20860/pu/142920/142920-1677665544.pdf,false
-GOMBE,DUKKU,,"KALAM GAYE, KALAM PRI. SCH.",15/04/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/003/003-1677407478.pdf,false
-GOMBE,DUKKU,,"KABADE, PRI. SCH.",15/04/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/014/014-1677404364.pdf,false
-GOMBE,DUKKU,,"WURO BOGGA, KOFAR SARKI",15/04/09/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/016/016-1677401869.pdf,false
-GOMBE,DUKKU,,"GADUM/FULATARI/FALANGAYA, KOFAR S. GADUM",15/04/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/004/004-1677401566.pdf,false
-GOMBE,DUKKU,,"MAYO MADAKI, PRI. SCH.",15/04/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/013/013-1677401157.pdf,false
-GOMBE,DUKKU,,"NGALTO, KOFAR SARKI",15/04/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/010/010-1677400296.pdf,false
-GOMBE,DUKKU,,"KOLE /SHABEWAWO, KOFAR S. KOLE",15/04/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/007/007-1677400052.pdf,false
-GOMBE,DUKKU,,"WURO TALE, PRI. SCH.",15/04/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/001/001-1677399656.pdf,false
-GOMBE,DUKKU,,"GABCIYARI MABAMI, KOFAR S. GABCIYARI",15/04/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/005/005-1677398982.pdf,false
-GOMBE,DUKKU,,"GUDEMUNU, PRI. SCH.",15/04/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/006/006-1677398650.pdf,false
-GOMBE,DUKKU,,"GOJONGORI, KOFAR SARKI",15/04/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/009/009-1677398592.pdf,false
-GOMBE,DUKKU,,"TINBU/BADANBO, KOFAR BAMAI",15/04/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/011/011-1677397995.pdf,false
-GOMBE,DUKKU,,"WURO WAZIRI BATOYI, KOFAR WURO WAZIRI",15/04/09/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/015/015-1677397827.pdf,false
-GOMBE,DUKKU,,"ALAGARNO/CHIKAUJE, KOFAR S. CHIKAUJE",15/04/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/008/008-1677397164.pdf,false
-GOMBE,DUKKU,,"NUMPASO HASHIDUWO, KOFAR S. NUMPASO",15/04/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/002/002-1677394126.pdf,false
+GOMBE,DUKKU,WURO TALE,"MAYO LAMIDO, PRI. SCH.",15/04/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20860/pu/43341/43341-1677666395.pdf,false
+GOMBE,DUKKU,WURO TALE,MAYO LAMIDO PRIM. SCH. I,15/04/09/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20860/pu/142920/142920-1677665544.pdf,false
+GOMBE,DUKKU,WURO TALE,"KALAM GAYE, KALAM PRI. SCH.",15/04/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/003/003-1677407478.pdf,false
+GOMBE,DUKKU,WURO TALE,"KABADE, PRI. SCH.",15/04/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/014/014-1677404364.pdf,false
+GOMBE,DUKKU,WURO TALE,"WURO BOGGA, KOFAR SARKI",15/04/09/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/016/016-1677401869.pdf,false
+GOMBE,DUKKU,WURO TALE,"GADUM/FULATARI/FALANGAYA, KOFAR S. GADUM",15/04/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/004/004-1677401566.pdf,false
+GOMBE,DUKKU,WURO TALE,"MAYO MADAKI, PRI. SCH.",15/04/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/013/013-1677401157.pdf,false
+GOMBE,DUKKU,WURO TALE,"NGALTO, KOFAR SARKI",15/04/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/010/010-1677400296.pdf,false
+GOMBE,DUKKU,WURO TALE,"KOLE /SHABEWAWO, KOFAR S. KOLE",15/04/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/007/007-1677400052.pdf,false
+GOMBE,DUKKU,WURO TALE,"WURO TALE, PRI. SCH.",15/04/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/001/001-1677399656.pdf,false
+GOMBE,DUKKU,WURO TALE,"GABCIYARI MABAMI, KOFAR S. GABCIYARI",15/04/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/005/005-1677398982.pdf,false
+GOMBE,DUKKU,WURO TALE,"GUDEMUNU, PRI. SCH.",15/04/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/006/006-1677398650.pdf,false
+GOMBE,DUKKU,WURO TALE,"GOJONGORI, KOFAR SARKI",15/04/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/009/009-1677398592.pdf,false
+GOMBE,DUKKU,WURO TALE,"TINBU/BADANBO, KOFAR BAMAI",15/04/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/011/011-1677397995.pdf,false
+GOMBE,DUKKU,WURO TALE,"WURO WAZIRI BATOYI, KOFAR WURO WAZIRI",15/04/09/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/015/015-1677397827.pdf,false
+GOMBE,DUKKU,WURO TALE,"ALAGARNO/CHIKAUJE, KOFAR S. CHIKAUJE",15/04/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/008/008-1677397164.pdf,false
+GOMBE,DUKKU,WURO TALE,"NUMPASO HASHIDUWO, KOFAR S. NUMPASO",15/04/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/002/002-1677394126.pdf,false

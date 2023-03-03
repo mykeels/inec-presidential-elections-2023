@@ -1,23 +1,23 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-GOMBE,KWAMI,,"GAFARA GALADIMA, KOFAR GAFARA GALADIMA",15/08/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44026/44026-1677589498.pdf,true
-GOMBE,KWAMI,,"KOFAR JAURO YAYA BAGOGGO,  KOFAR JAURO YAYA BAGOGGO",15/08/04/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44040/44040-1677518808.pdf,false
-GOMBE,KWAMI,,"BIRIBUTU, BIRIBUTU  PRI. SCH.",15/08/04/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44039/44039-1677518431.pdf,false
-GOMBE,KWAMI,,"BULTURI, BULTURI PRI. SCH.",15/08/04/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44038/44038-1677517837.pdf,false
-GOMBE,KWAMI,,"BAGADU, KOFAR JAURO BAGADU",15/08/04/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44037/44037-1677517407.pdf,false
-GOMBE,KWAMI,,"WURO JOHE, WURO JOHE PRI. SCH.",15/08/04/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44036/44036-1677516877.pdf,false
-GOMBE,KWAMI,,"NJOKHIRE, KOFAR JAURO NJOKHIRE",15/08/04/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44035/44035-1677516527.pdf,false
-GOMBE,KWAMI,,"DINAWA,  DINAWA",15/08/04/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44034/44034-1677515824.pdf,false
-GOMBE,KWAMI,,"YERIMA, KOFAR SARKIN DUKUL",15/08/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44019/44019-1677515162.pdf,false
-GOMBE,KWAMI,,"ALLUGER, DISPENSARY",15/08/04/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44033/44033-1677514938.pdf,false
-GOMBE,KWAMI,,"BUSUM, KOFAR JAURO BUSUM",15/08/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44032/44032-1677514494.pdf,false
-GOMBE,KWAMI,,"KALAGARI (ARIKIME), KOFAR JAURO ARIKIME",15/08/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44031/44031-1677514261.pdf,false
-GOMBE,KWAMI,,"GAFARA MADAKI,  GAFARA MADAKI",15/08/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44029/44029-1677513159.pdf,false
-GOMBE,KWAMI,,"SHANIN TERA, K. /J. SHANIN TERA",15/08/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44028/44028-1677512751.pdf,false
-GOMBE,KWAMI,,"SHANIN FULANI, K. /J. SHANIN FULANI",15/08/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44027/44027-1677512394.pdf,false
-GOMBE,KWAMI,,"WALAMA,  WALAMA",15/08/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44025/44025-1677511604.pdf,false
-GOMBE,KWAMI,,"YERIMA, DISPENSARY",15/08/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44024/44024-1677510789.pdf,false
-GOMBE,KWAMI,,"JADA DUKUL,  JADA DUKUL",15/08/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44023/44023-1677510425.pdf,false
-GOMBE,KWAMI,,"SITTAMANE, KOFAR JAURO SITTAMANE",15/08/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44022/44022-1677509935.pdf,false
-GOMBE,KWAMI,,"GAJI BAUCHI, GAJI BAUCHI PRI. SCH.",15/08/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44021/44021-1677509696.pdf,false
-GOMBE,KWAMI,,"MADAKI, AREA COURT",15/08/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44020/44020-1677509319.pdf,false
-GOMBE,KWAMI,,"GWARAM, GWARAM KALAGARI",15/08/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44030/44030-1677508611.pdf,false
+GOMBE,KWAMI,DUKUL,"GAFARA GALADIMA, KOFAR GAFARA GALADIMA",15/08/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44026/44026-1677589498.pdf,true
+GOMBE,KWAMI,DUKUL,"KOFAR JAURO YAYA BAGOGGO,  KOFAR JAURO YAYA BAGOGGO",15/08/04/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44040/44040-1677518808.pdf,false
+GOMBE,KWAMI,DUKUL,"BIRIBUTU, BIRIBUTU  PRI. SCH.",15/08/04/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44039/44039-1677518431.pdf,false
+GOMBE,KWAMI,DUKUL,"BULTURI, BULTURI PRI. SCH.",15/08/04/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44038/44038-1677517837.pdf,false
+GOMBE,KWAMI,DUKUL,"BAGADU, KOFAR JAURO BAGADU",15/08/04/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44037/44037-1677517407.pdf,false
+GOMBE,KWAMI,DUKUL,"WURO JOHE, WURO JOHE PRI. SCH.",15/08/04/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44036/44036-1677516877.pdf,false
+GOMBE,KWAMI,DUKUL,"NJOKHIRE, KOFAR JAURO NJOKHIRE",15/08/04/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44035/44035-1677516527.pdf,false
+GOMBE,KWAMI,DUKUL,"DINAWA,  DINAWA",15/08/04/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44034/44034-1677515824.pdf,false
+GOMBE,KWAMI,DUKUL,"YERIMA, KOFAR SARKIN DUKUL",15/08/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44019/44019-1677515162.pdf,false
+GOMBE,KWAMI,DUKUL,"ALLUGER, DISPENSARY",15/08/04/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44033/44033-1677514938.pdf,false
+GOMBE,KWAMI,DUKUL,"BUSUM, KOFAR JAURO BUSUM",15/08/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44032/44032-1677514494.pdf,false
+GOMBE,KWAMI,DUKUL,"KALAGARI (ARIKIME), KOFAR JAURO ARIKIME",15/08/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44031/44031-1677514261.pdf,false
+GOMBE,KWAMI,DUKUL,"GAFARA MADAKI,  GAFARA MADAKI",15/08/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44029/44029-1677513159.pdf,false
+GOMBE,KWAMI,DUKUL,"SHANIN TERA, K. /J. SHANIN TERA",15/08/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44028/44028-1677512751.pdf,false
+GOMBE,KWAMI,DUKUL,"SHANIN FULANI, K. /J. SHANIN FULANI",15/08/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44027/44027-1677512394.pdf,false
+GOMBE,KWAMI,DUKUL,"WALAMA,  WALAMA",15/08/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44025/44025-1677511604.pdf,false
+GOMBE,KWAMI,DUKUL,"YERIMA, DISPENSARY",15/08/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44024/44024-1677510789.pdf,false
+GOMBE,KWAMI,DUKUL,"JADA DUKUL,  JADA DUKUL",15/08/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44023/44023-1677510425.pdf,false
+GOMBE,KWAMI,DUKUL,"SITTAMANE, KOFAR JAURO SITTAMANE",15/08/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44022/44022-1677509935.pdf,false
+GOMBE,KWAMI,DUKUL,"GAJI BAUCHI, GAJI BAUCHI PRI. SCH.",15/08/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44021/44021-1677509696.pdf,false
+GOMBE,KWAMI,DUKUL,"MADAKI, AREA COURT",15/08/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44020/44020-1677509319.pdf,false
+GOMBE,KWAMI,DUKUL,"GWARAM, GWARAM KALAGARI",15/08/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3391/ward/20897/pu/44030/44030-1677508611.pdf,false

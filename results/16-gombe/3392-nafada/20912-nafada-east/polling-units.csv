@@ -1,16 +1,16 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-GOMBE,NAFADA,,NAFADA MOTOR PARK,15/09/09/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20912/pu/143296/143296-1677602422.pdf,true
-GOMBE,NAFADA,,AREA COURT NAFADA,15/09/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20912/pu/143293/143293-1677602313.pdf,false
-GOMBE,NAFADA,,JUNIOR SCI. TECH COLLEGE NAFADA,15/09/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20912/pu/143295/143295-1677602235.pdf,true
-GOMBE,NAFADA,,NAFADA MODEL PRIMARY SCHOOL,15/09/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20912/pu/143294/143294-1677602211.pdf,false
-GOMBE,NAFADA,,"DALLATI, VIEWING CENTRE",15/09/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20912/pu/44266/44266-1677602175.pdf,true
-GOMBE,NAFADA,,CENTRAL PRIMARY SCH,15/09/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20912/pu/143292/143292-1677602159.pdf,true
-GOMBE,NAFADA,,"UBANDOMA, CENTRAL PRI. SCH.",15/09/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20912/pu/44271/44271-1677602042.pdf,true
-GOMBE,NAFADA,,"SHOLE JADA, KOFAR J. ALH. ALI",15/09/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20912/pu/44270/44270-1677602021.pdf,false
-GOMBE,NAFADA,,"GADARI CHESDERI, KOFAR J. GADARI",15/09/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20912/pu/44269/44269-1677601948.pdf,true
-GOMBE,NAFADA,,"SHOLE GOI-GOI, KOFAR J. MANU",15/09/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20912/pu/44268/44268-1677601961.pdf,false
-GOMBE,NAFADA,,"DALLATI, CENTRAL PRI. SCH.",15/09/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20912/pu/44265/44265-1677601892.pdf,false
-GOMBE,NAFADA,,"SHOLE MANGO, PRIMARY SCHOOL",15/09/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20912/pu/44267/44267-1677601849.pdf,false
-GOMBE,NAFADA,,"UNG. MAAGAJI    II, DAUDA BOLA",15/09/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20912/pu/44263/44263-1677601754.pdf,true
-GOMBE,NAFADA,,"UNG. MAAGAJI I, DAUDA BOLA",15/09/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20912/pu/44262/44262-1677601613.pdf,false
-GOMBE,NAFADA,,"UNG. UBANDOMA, KOFAR UBANDOMA",15/09/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/003/003-1677367131.pdf,false
+GOMBE,NAFADA,NAFADA EAST,NAFADA MOTOR PARK,15/09/09/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20912/pu/143296/143296-1677602422.pdf,true
+GOMBE,NAFADA,NAFADA EAST,AREA COURT NAFADA,15/09/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20912/pu/143293/143293-1677602313.pdf,false
+GOMBE,NAFADA,NAFADA EAST,JUNIOR SCI. TECH COLLEGE NAFADA,15/09/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20912/pu/143295/143295-1677602235.pdf,true
+GOMBE,NAFADA,NAFADA EAST,NAFADA MODEL PRIMARY SCHOOL,15/09/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20912/pu/143294/143294-1677602211.pdf,false
+GOMBE,NAFADA,NAFADA EAST,"DALLATI, VIEWING CENTRE",15/09/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20912/pu/44266/44266-1677602175.pdf,true
+GOMBE,NAFADA,NAFADA EAST,CENTRAL PRIMARY SCH,15/09/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20912/pu/143292/143292-1677602159.pdf,true
+GOMBE,NAFADA,NAFADA EAST,"UBANDOMA, CENTRAL PRI. SCH.",15/09/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20912/pu/44271/44271-1677602042.pdf,true
+GOMBE,NAFADA,NAFADA EAST,"SHOLE JADA, KOFAR J. ALH. ALI",15/09/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20912/pu/44270/44270-1677602021.pdf,false
+GOMBE,NAFADA,NAFADA EAST,"GADARI CHESDERI, KOFAR J. GADARI",15/09/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20912/pu/44269/44269-1677601948.pdf,true
+GOMBE,NAFADA,NAFADA EAST,"SHOLE GOI-GOI, KOFAR J. MANU",15/09/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20912/pu/44268/44268-1677601961.pdf,false
+GOMBE,NAFADA,NAFADA EAST,"DALLATI, CENTRAL PRI. SCH.",15/09/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20912/pu/44265/44265-1677601892.pdf,false
+GOMBE,NAFADA,NAFADA EAST,"SHOLE MANGO, PRIMARY SCHOOL",15/09/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20912/pu/44267/44267-1677601849.pdf,false
+GOMBE,NAFADA,NAFADA EAST,"UNG. MAAGAJI    II, DAUDA BOLA",15/09/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20912/pu/44263/44263-1677601754.pdf,true
+GOMBE,NAFADA,NAFADA EAST,"UNG. MAAGAJI I, DAUDA BOLA",15/09/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20912/pu/44262/44262-1677601613.pdf,false
+GOMBE,NAFADA,NAFADA EAST,"UNG. UBANDOMA, KOFAR UBANDOMA",15/09/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/003/003-1677367131.pdf,false

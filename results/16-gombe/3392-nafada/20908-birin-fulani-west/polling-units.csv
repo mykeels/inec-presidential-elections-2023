@@ -1,11 +1,11 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-GOMBE,NAFADA,,"SHAGANAWA I, KOFAR J. USMAN",15/09/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20908/pu/44222/44222-1677604360.pdf,false
-GOMBE,NAFADA,,WALI GDSS BIRIN FULANI WEST,15/09/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20908/pu/143285/143285-1677603162.pdf,false
-GOMBE,NAFADA,,"SHAGANAWA II, KOFAR J. USMAN",15/09/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20908/pu/44223/44223-1677603150.pdf,false
-GOMBE,NAFADA,,"DABA, KOFAR J.  JUNGUDO",15/09/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20908/pu/44225/44225-1677603063.pdf,true
-GOMBE,NAFADA,,MADAKI MODEL PRI. SCH.,15/09/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20908/pu/143284/143284-1677603034.pdf,false
-GOMBE,NAFADA,,"WALI, KOFAR J.  ABDULKADIR",15/09/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20908/pu/44226/44226-1677602990.pdf,false
-GOMBE,NAFADA,,"MADAKI LAMU / WAGULE, KOFAR J. AHMADU",15/09/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20908/pu/44224/44224-1677602955.pdf,true
-GOMBE,NAFADA,,"WURO BUNDU, KOFAR J. ASHAU",15/09/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20908/pu/44221/44221-1677602908.pdf,true
-GOMBE,NAFADA,,"JAURO ALH., KOFAR J. ALH.",15/09/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20908/pu/44227/44227-1677590651.pdf,true
-GOMBE,NAFADA,,"UNG. MADAKI, VETERINARY OFFICE",15/09/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20908/pu/44220/44220-1677590412.pdf,true
+GOMBE,NAFADA,BIRIN FULANI WEST,"SHAGANAWA I, KOFAR J. USMAN",15/09/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20908/pu/44222/44222-1677604360.pdf,false
+GOMBE,NAFADA,BIRIN FULANI WEST,WALI GDSS BIRIN FULANI WEST,15/09/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20908/pu/143285/143285-1677603162.pdf,false
+GOMBE,NAFADA,BIRIN FULANI WEST,"SHAGANAWA II, KOFAR J. USMAN",15/09/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20908/pu/44223/44223-1677603150.pdf,false
+GOMBE,NAFADA,BIRIN FULANI WEST,"DABA, KOFAR J.  JUNGUDO",15/09/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20908/pu/44225/44225-1677603063.pdf,true
+GOMBE,NAFADA,BIRIN FULANI WEST,MADAKI MODEL PRI. SCH.,15/09/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20908/pu/143284/143284-1677603034.pdf,false
+GOMBE,NAFADA,BIRIN FULANI WEST,"WALI, KOFAR J.  ABDULKADIR",15/09/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20908/pu/44226/44226-1677602990.pdf,false
+GOMBE,NAFADA,BIRIN FULANI WEST,"MADAKI LAMU / WAGULE, KOFAR J. AHMADU",15/09/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20908/pu/44224/44224-1677602955.pdf,true
+GOMBE,NAFADA,BIRIN FULANI WEST,"WURO BUNDU, KOFAR J. ASHAU",15/09/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20908/pu/44221/44221-1677602908.pdf,true
+GOMBE,NAFADA,BIRIN FULANI WEST,"JAURO ALH., KOFAR J. ALH.",15/09/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20908/pu/44227/44227-1677590651.pdf,true
+GOMBE,NAFADA,BIRIN FULANI WEST,"UNG. MADAKI, VETERINARY OFFICE",15/09/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20908/pu/44220/44220-1677590412.pdf,true

@@ -1,39 +1,39 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-GOMBE,AKKO,,"KUMO GALADIMA, LIB. VIEW CENTRE",15/01/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42649/42649-1677510464.pdf,false
-GOMBE,AKKO,,"KUMO S.YAKI, K. S. YAKI",15/01/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42648/42648-1677510343.pdf,false
-GOMBE,AKKO,,"GARIN LIMAN II, PRIMARY SCH.",15/01/05/038,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/142707/142707-1677509661.pdf,false
-GOMBE,AKKO,,"GARIN LIMAN I, PRIMARY SCH.",15/01/05/037,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/142706/142706-1677509549.pdf,false
-GOMBE,AKKO,,"DAKKITI II, BAKIN RIJIYA OPEN SPACE",15/01/05/036,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/142705/142705-1677509450.pdf,false
-GOMBE,AKKO,,"KUMO FULOTI, KOFAR ADAMU II  ANGUWAN TIKE",15/01/05/034,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/142703/142703-1677509329.pdf,false
-GOMBE,AKKO,,"KUMO FULOTI, KOFAR LIMAN SHUAIBU II",15/01/05/032,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/142701/142701-1677509141.pdf,false
-GOMBE,AKKO,,"SARKIN YAKI, KUMO MATERNITY II, CENTRAL PRI. SCH.",15/01/05/031,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/142700/142700-1677509044.pdf,false
-GOMBE,AKKO,,"KUMO SARKIN YAKI II, CENTRAL PRI. SCH.",15/01/05/030,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/142699/142699-1677508949.pdf,false
-GOMBE,AKKO,,"KUMO BAKOSHI II, CENTRAL PRI. SCH.",15/01/05/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/142697/142697-1677508802.pdf,false
-GOMBE,AKKO,,"KUMO BAKOSHI I, CENTRAL PRI. SCH.",15/01/05/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/142696/142696-1677508696.pdf,false
-GOMBE,AKKO,,"KUMO GALADIMA II,  LIB. VIEW CENTRE",15/01/05/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/142695/142695-1677508601.pdf,false
-GOMBE,AKKO,,"WURO BAPPA, JAURO BAPPA",15/01/05/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42672/42672-1677508505.pdf,false
-GOMBE,AKKO,,"NGAUDARE, KOFAR JAURO",15/01/05/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42670/42670-1677508304.pdf,false
-GOMBE,AKKO,,"KOMBANIYEL, KOFAR JAURO",15/01/05/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42669/42669-1677508202.pdf,false
-GOMBE,AKKO,,"LAMBO J. A. BOSE, KOFAR JAURO",15/01/05/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42668/42668-1677508076.pdf,false
-GOMBE,AKKO,,"LERGO, LEGRO PRI. SCH.",15/01/05/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42667/42667-1677507905.pdf,false
-GOMBE,AKKO,,"LAMBA J. MUSA, KOFAR JAURO",15/01/05/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42666/42666-1677505061.pdf,false
-GOMBE,AKKO,,"DAKKITI, KOFAR JAURO",15/01/05/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42665/42665-1677504094.pdf,false
-GOMBE,AKKO,,"CHIROMA DAWA, K. CHIROMA DAWA",15/01/05/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42663/42663-1677503902.pdf,false
-GOMBE,AKKO,,"KUMO FULANI EAST, K. J. MAGAJI",15/01/05/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42662/42662-1677503721.pdf,false
-GOMBE,AKKO,,"NAYINAWA, KOFAR J. DAUDA",15/01/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42661/42661-1677503519.pdf,false
-GOMBE,AKKO,,"KUMO BAKOSHI, CENTRAL PRI. SCH.",15/01/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42659/42659-1677503215.pdf,false
-GOMBE,AKKO,,"KUMO FULOT, KOFAR LIMAN SHUIBU",15/01/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42658/42658-1677503082.pdf,false
-GOMBE,AKKO,,"KUMO BAKOSHI, CENTRAL PRI. SCH.",15/01/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42656/42656-1677502809.pdf,false
-GOMBE,AKKO,,"KUMO FULOTI, KOFAR DANFULANI",15/01/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42654/42654-1677502403.pdf,false
-GOMBE,AKKO,,"KUMO SARDAUNA, KUMO SARDAUNA",15/01/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42653/42653-1677502293.pdf,false
-GOMBE,AKKO,,"KUMO S/YAKI, KUMO MARTENITY",15/01/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42652/42652-1677502154.pdf,false
-GOMBE,AKKO,,"KUMO B-KASUWA, KOFAR S. YAKI",15/01/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42651/42651-1677502030.pdf,false
-GOMBE,AKKO,,"KUMO SARDAUNA, DOS OFFICE",15/01/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42650/42650-1677501888.pdf,false
-GOMBE,AKKO,,"KUMO FULANI II , JAURO TUKUR PRI. SCHOOL",15/01/05/035,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/142704/142704-1677501023.pdf,false
-GOMBE,AKKO,,"KUMO FULOTI, KOFAR ADAMU",15/01/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/010/010-1677418394.pdf,false
-GOMBE,AKKO,,"KUMO FULOTI, GOFAR DANKOMISHI",15/01/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/008/008-1677413370.pdf,false
-GOMBE,AKKO,,"GAUDARE, SHABBAL PRI. SCH.",15/01/05/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/017/017-1677391067.pdf,false
-GOMBE,AKKO,,"KUMO FULOTI, KOFAR DANFULANI II",15/01/05/033,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/033/033-1677390421.pdf,false
-GOMBE,AKKO,,"GARIN M. BA, GARIN M. BA PRI. SCH.",15/01/05/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/024/024-1677374690.pdf,false
-GOMBE,AKKO,,"KUMO BAKOSHI III, CENT PRI SCH",15/01/05/029,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/029/029-1677373879.pdf,false
-GOMBE,AKKO,,"KUMO FULANI, JAURO TUKUR PRI. SCH.",15/01/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/013/013-1677359473.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"KUMO GALADIMA, LIB. VIEW CENTRE",15/01/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42649/42649-1677510464.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"KUMO S.YAKI, K. S. YAKI",15/01/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42648/42648-1677510343.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"GARIN LIMAN II, PRIMARY SCH.",15/01/05/038,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/142707/142707-1677509661.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"GARIN LIMAN I, PRIMARY SCH.",15/01/05/037,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/142706/142706-1677509549.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"DAKKITI II, BAKIN RIJIYA OPEN SPACE",15/01/05/036,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/142705/142705-1677509450.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"KUMO FULOTI, KOFAR ADAMU II  ANGUWAN TIKE",15/01/05/034,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/142703/142703-1677509329.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"KUMO FULOTI, KOFAR LIMAN SHUAIBU II",15/01/05/032,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/142701/142701-1677509141.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"SARKIN YAKI, KUMO MATERNITY II, CENTRAL PRI. SCH.",15/01/05/031,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/142700/142700-1677509044.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"KUMO SARKIN YAKI II, CENTRAL PRI. SCH.",15/01/05/030,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/142699/142699-1677508949.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"KUMO BAKOSHI II, CENTRAL PRI. SCH.",15/01/05/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/142697/142697-1677508802.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"KUMO BAKOSHI I, CENTRAL PRI. SCH.",15/01/05/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/142696/142696-1677508696.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"KUMO GALADIMA II,  LIB. VIEW CENTRE",15/01/05/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/142695/142695-1677508601.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"WURO BAPPA, JAURO BAPPA",15/01/05/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42672/42672-1677508505.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"NGAUDARE, KOFAR JAURO",15/01/05/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42670/42670-1677508304.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"KOMBANIYEL, KOFAR JAURO",15/01/05/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42669/42669-1677508202.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"LAMBO J. A. BOSE, KOFAR JAURO",15/01/05/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42668/42668-1677508076.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"LERGO, LEGRO PRI. SCH.",15/01/05/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42667/42667-1677507905.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"LAMBA J. MUSA, KOFAR JAURO",15/01/05/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42666/42666-1677505061.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"DAKKITI, KOFAR JAURO",15/01/05/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42665/42665-1677504094.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"CHIROMA DAWA, K. CHIROMA DAWA",15/01/05/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42663/42663-1677503902.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"KUMO FULANI EAST, K. J. MAGAJI",15/01/05/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42662/42662-1677503721.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"NAYINAWA, KOFAR J. DAUDA",15/01/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42661/42661-1677503519.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"KUMO BAKOSHI, CENTRAL PRI. SCH.",15/01/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42659/42659-1677503215.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"KUMO FULOT, KOFAR LIMAN SHUIBU",15/01/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42658/42658-1677503082.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"KUMO BAKOSHI, CENTRAL PRI. SCH.",15/01/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42656/42656-1677502809.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"KUMO FULOTI, KOFAR DANFULANI",15/01/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42654/42654-1677502403.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"KUMO SARDAUNA, KUMO SARDAUNA",15/01/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42653/42653-1677502293.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"KUMO S/YAKI, KUMO MARTENITY",15/01/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42652/42652-1677502154.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"KUMO B-KASUWA, KOFAR S. YAKI",15/01/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42651/42651-1677502030.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"KUMO SARDAUNA, DOS OFFICE",15/01/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/42650/42650-1677501888.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"KUMO FULANI II , JAURO TUKUR PRI. SCHOOL",15/01/05/035,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20825/pu/142704/142704-1677501023.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"KUMO FULOTI, KOFAR ADAMU",15/01/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/010/010-1677418394.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"KUMO FULOTI, GOFAR DANKOMISHI",15/01/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/008/008-1677413370.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"GAUDARE, SHABBAL PRI. SCH.",15/01/05/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/017/017-1677391067.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"KUMO FULOTI, KOFAR DANFULANI II",15/01/05/033,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/033/033-1677390421.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"GARIN M. BA, GARIN M. BA PRI. SCH.",15/01/05/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/024/024-1677374690.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"KUMO BAKOSHI III, CENT PRI SCH",15/01/05/029,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/029/029-1677373879.pdf,false
+GOMBE,AKKO,KUMO CENTRAL,"KUMO FULANI, JAURO TUKUR PRI. SCH.",15/01/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/013/013-1677359473.pdf,false

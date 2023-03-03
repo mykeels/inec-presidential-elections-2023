@@ -1,17 +1,17 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-GOMBE,NAFADA,,"MADAKIRI, KOFAR J. GARGA",15/09/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20906/pu/44210/44210-1677593517.pdf,true
-GOMBE,NAFADA,,"GARIN MAJIDADI, PRI. SCHOOLS",15/09/03/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20906/pu/143280/143280-1677593539.pdf,false
-GOMBE,NAFADA,,"ABBA ISARI, KOFAR MAI ISARI",15/09/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20906/pu/44211/44211-1677593484.pdf,true
-GOMBE,NAFADA,,"KUNKURURI, KOFAR J. GIMBA",15/09/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20906/pu/44208/44208-1677593412.pdf,true
-GOMBE,NAFADA,,"DAWAKI, KOFAR J. DAWAKI",15/09/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20906/pu/44209/44209-1677593372.pdf,true
-GOMBE,NAFADA,,"DANGE, KOFAR J. DURA",15/09/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20906/pu/44207/44207-1677593242.pdf,true
-GOMBE,NAFADA,,"MAI DUKULI, KOFAR  SARKI",15/09/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20906/pu/44206/44206-1677593240.pdf,true
-GOMBE,NAFADA,,"MUNDA, KOFAR  J. MUNDA",15/09/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20906/pu/44205/44205-1677593113.pdf,true
-GOMBE,NAFADA,,"DANGE, KOFAR  J. ABBA",15/09/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20906/pu/44204/44204-1677592965.pdf,true
-GOMBE,NAFADA,,"BURARU, KOFAR J. BURARU",15/09/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20906/pu/44200/44200-1677592911.pdf,true
-GOMBE,NAFADA,,"TASHAN KARGO, KOFAR J. ALI",15/09/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20906/pu/44201/44201-1677592858.pdf,true
-GOMBE,NAFADA,,"GULMARI, KOFAR  SARKI",15/09/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20906/pu/44203/44203-1677592806.pdf,true
-GOMBE,NAFADA,,"UNG. DAWAKI, KOFAR CHIROMA",15/09/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20906/pu/44199/44199-1677592794.pdf,true
-GOMBE,NAFADA,,"UNG. GALADIMA, KOFAR GALADIMA",15/09/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20906/pu/44198/44198-1677592633.pdf,true
-GOMBE,NAFADA,,GALADIMA COMPUTER CENTRE,15/09/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/03/pu/015/015-1677414106.pdf,false
-GOMBE,NAFADA,,"WURO ABBA, KOFAR  ALH. MANU",15/09/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/03/pu/005/005-1677414092.pdf,false
+GOMBE,NAFADA,BIRIN BOLEWA,"MADAKIRI, KOFAR J. GARGA",15/09/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20906/pu/44210/44210-1677593517.pdf,true
+GOMBE,NAFADA,BIRIN BOLEWA,"GARIN MAJIDADI, PRI. SCHOOLS",15/09/03/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20906/pu/143280/143280-1677593539.pdf,false
+GOMBE,NAFADA,BIRIN BOLEWA,"ABBA ISARI, KOFAR MAI ISARI",15/09/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20906/pu/44211/44211-1677593484.pdf,true
+GOMBE,NAFADA,BIRIN BOLEWA,"KUNKURURI, KOFAR J. GIMBA",15/09/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20906/pu/44208/44208-1677593412.pdf,true
+GOMBE,NAFADA,BIRIN BOLEWA,"DAWAKI, KOFAR J. DAWAKI",15/09/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20906/pu/44209/44209-1677593372.pdf,true
+GOMBE,NAFADA,BIRIN BOLEWA,"DANGE, KOFAR J. DURA",15/09/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20906/pu/44207/44207-1677593242.pdf,true
+GOMBE,NAFADA,BIRIN BOLEWA,"MAI DUKULI, KOFAR  SARKI",15/09/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20906/pu/44206/44206-1677593240.pdf,true
+GOMBE,NAFADA,BIRIN BOLEWA,"MUNDA, KOFAR  J. MUNDA",15/09/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20906/pu/44205/44205-1677593113.pdf,true
+GOMBE,NAFADA,BIRIN BOLEWA,"DANGE, KOFAR  J. ABBA",15/09/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20906/pu/44204/44204-1677592965.pdf,true
+GOMBE,NAFADA,BIRIN BOLEWA,"BURARU, KOFAR J. BURARU",15/09/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20906/pu/44200/44200-1677592911.pdf,true
+GOMBE,NAFADA,BIRIN BOLEWA,"TASHAN KARGO, KOFAR J. ALI",15/09/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20906/pu/44201/44201-1677592858.pdf,true
+GOMBE,NAFADA,BIRIN BOLEWA,"GULMARI, KOFAR  SARKI",15/09/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20906/pu/44203/44203-1677592806.pdf,true
+GOMBE,NAFADA,BIRIN BOLEWA,"UNG. DAWAKI, KOFAR CHIROMA",15/09/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20906/pu/44199/44199-1677592794.pdf,true
+GOMBE,NAFADA,BIRIN BOLEWA,"UNG. GALADIMA, KOFAR GALADIMA",15/09/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20906/pu/44198/44198-1677592633.pdf,true
+GOMBE,NAFADA,BIRIN BOLEWA,GALADIMA COMPUTER CENTRE,15/09/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/03/pu/015/015-1677414106.pdf,false
+GOMBE,NAFADA,BIRIN BOLEWA,"WURO ABBA, KOFAR  ALH. MANU",15/09/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/03/pu/005/005-1677414092.pdf,false

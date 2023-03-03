@@ -1,21 +1,21 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-GOMBE,KALTUNGO,,"TAULE / DALAN, LAFIA PRI. SCH.",15/07/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-GOMBE,KALTUNGO,,"JONGRI /J/AUDI, KOFAR JAURO",15/07/06/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/43805/result_101168_1677659988_thumb.jpg,false
-GOMBE,KALTUNGO,,"BILADIRA, BAULE PRI. SCH.",15/07/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/43804/result_101167_1677659767_thumb.jpg,false
-GOMBE,KALTUNGO,,JALINGO PRIMARY SCH. /B/,15/07/06/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/143234/143234-1677633655.pdf,true
-GOMBE,KALTUNGO,,"TIYE / BUSSAM, BASWALE",15/07/06/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43908/43908-1677632307.pdf,true
-GOMBE,KALTUNGO,,"BUSSA  /  BAYALE,  BASUWALE",15/07/06/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43909/43909-1677632205.pdf,true
-GOMBE,KALTUNGO,,"GARIN WAZIRI/ KALARI, JAURO HAMIDU",15/07/06/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43907/43907-1677632115.pdf,true
-GOMBE,KALTUNGO,,"BILAKWARE II, KASUWA FWITI",15/07/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43906/43906-1677632046.pdf,true
-GOMBE,KALTUNGO,,"BILAKWARE I, KASUWA FWITI",15/07/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43905/43905-1677631967.pdf,true
-GOMBE,KALTUNGO,,"LOJURO, FILANTIMEH",15/07/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43903/43903-1677631894.pdf,true
-GOMBE,KALTUNGO,,"JALINGO, JALINGO PRI. SCH.",15/07/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43898/43898-1677631826.pdf,true
-GOMBE,KALTUNGO,,"LUNGERI / YELWA, LUNGERI PRI. SCH.",15/07/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43897/43897-1677631749.pdf,true
-GOMBE,KALTUNGO,,"YAKWALE, BAULE PRI. SCH.",15/07/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43894/43894-1677631680.pdf,true
-GOMBE,KALTUNGO,,"BILKI TAMAN, K. JAURO",15/07/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43891/43891-1677631598.pdf,true
-GOMBE,KALTUNGO,,"SILAWANGHE, KOFAR JAURO",15/07/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43904/43904-1677630982.pdf,true
-GOMBE,KALTUNGO,,"BILATUKU, FILANTIMEH",15/07/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43902/43902-1677630904.pdf,true
-GOMBE,KALTUNGO,,"LAFIA / TAULE, LAFIA PRI. SCH.",15/07/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43900/43900-1677630822.pdf,true
-GOMBE,KALTUNGO,,"KUTUSHE, JALINGO PRI. SCH.",15/07/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43899/43899-1677630726.pdf,true
-GOMBE,KALTUNGO,,"BWAITAI, BAULE PRI. SCH.",15/07/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43893/43893-1677630614.pdf,true
-GOMBE,KALTUNGO,,"KWALLAM, BAULE PRI. SCH.",15/07/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43892/43892-1677630499.pdf,true
+GOMBE,KALTUNGO,TULA BAULE,"TAULE / DALAN, LAFIA PRI. SCH.",15/07/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+GOMBE,KALTUNGO,TULA BAULE,"JONGRI /J/AUDI, KOFAR JAURO",15/07/06/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/43805/result_101168_1677659988_thumb.jpg,false
+GOMBE,KALTUNGO,TULA BAULE,"BILADIRA, BAULE PRI. SCH.",15/07/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/43804/result_101167_1677659767_thumb.jpg,false
+GOMBE,KALTUNGO,TULA BAULE,JALINGO PRIMARY SCH. /B/,15/07/06/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/143234/143234-1677633655.pdf,true
+GOMBE,KALTUNGO,TULA BAULE,"TIYE / BUSSAM, BASWALE",15/07/06/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43908/43908-1677632307.pdf,true
+GOMBE,KALTUNGO,TULA BAULE,"BUSSA  /  BAYALE,  BASUWALE",15/07/06/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43909/43909-1677632205.pdf,true
+GOMBE,KALTUNGO,TULA BAULE,"GARIN WAZIRI/ KALARI, JAURO HAMIDU",15/07/06/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43907/43907-1677632115.pdf,true
+GOMBE,KALTUNGO,TULA BAULE,"BILAKWARE II, KASUWA FWITI",15/07/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43906/43906-1677632046.pdf,true
+GOMBE,KALTUNGO,TULA BAULE,"BILAKWARE I, KASUWA FWITI",15/07/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43905/43905-1677631967.pdf,true
+GOMBE,KALTUNGO,TULA BAULE,"LOJURO, FILANTIMEH",15/07/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43903/43903-1677631894.pdf,true
+GOMBE,KALTUNGO,TULA BAULE,"JALINGO, JALINGO PRI. SCH.",15/07/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43898/43898-1677631826.pdf,true
+GOMBE,KALTUNGO,TULA BAULE,"LUNGERI / YELWA, LUNGERI PRI. SCH.",15/07/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43897/43897-1677631749.pdf,true
+GOMBE,KALTUNGO,TULA BAULE,"YAKWALE, BAULE PRI. SCH.",15/07/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43894/43894-1677631680.pdf,true
+GOMBE,KALTUNGO,TULA BAULE,"BILKI TAMAN, K. JAURO",15/07/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43891/43891-1677631598.pdf,true
+GOMBE,KALTUNGO,TULA BAULE,"SILAWANGHE, KOFAR JAURO",15/07/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43904/43904-1677630982.pdf,true
+GOMBE,KALTUNGO,TULA BAULE,"BILATUKU, FILANTIMEH",15/07/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43902/43902-1677630904.pdf,true
+GOMBE,KALTUNGO,TULA BAULE,"LAFIA / TAULE, LAFIA PRI. SCH.",15/07/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43900/43900-1677630822.pdf,true
+GOMBE,KALTUNGO,TULA BAULE,"KUTUSHE, JALINGO PRI. SCH.",15/07/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43899/43899-1677630726.pdf,true
+GOMBE,KALTUNGO,TULA BAULE,"BWAITAI, BAULE PRI. SCH.",15/07/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43893/43893-1677630614.pdf,true
+GOMBE,KALTUNGO,TULA BAULE,"KWALLAM, BAULE PRI. SCH.",15/07/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3390/ward/20889/pu/43892/43892-1677630499.pdf,true

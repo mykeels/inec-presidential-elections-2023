@@ -1,7 +1,7 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-GOMBE,SHONGOM,,DWAJA / KOFAR J/DAHIRU,15/10/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20918/pu/44320/44320-1677459529.pdf,false
-GOMBE,SHONGOM,,"DWALA, KOFAR J/SALE",15/10/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20918/pu/44319/44319-1677459143.pdf,false
-GOMBE,SHONGOM,,"DWAJA, DWAJA PRI. SCH.",15/10/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20918/pu/44318/44318-1677458733.pdf,false
-GOMBE,SHONGOM,,"GURWA, KOFAR J/GURWA",15/10/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20918/pu/44317/44317-1677458184.pdf,false
-GOMBE,SHONGOM,,"KAMBULUK, GUNDALE PRI. SCH.",15/10/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20918/pu/44316/44316-1677457834.pdf,false
-GOMBE,SHONGOM,,"AMPOKBOJE,  KOFAR J/AMPOKBOJE",15/10/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20918/pu/44315/44315-1677457040.pdf,false
+GOMBE,SHONGOM,GUNDALE,DWAJA / KOFAR J/DAHIRU,15/10/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20918/pu/44320/44320-1677459529.pdf,false
+GOMBE,SHONGOM,GUNDALE,"DWALA, KOFAR J/SALE",15/10/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20918/pu/44319/44319-1677459143.pdf,false
+GOMBE,SHONGOM,GUNDALE,"DWAJA, DWAJA PRI. SCH.",15/10/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20918/pu/44318/44318-1677458733.pdf,false
+GOMBE,SHONGOM,GUNDALE,"GURWA, KOFAR J/GURWA",15/10/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20918/pu/44317/44317-1677458184.pdf,false
+GOMBE,SHONGOM,GUNDALE,"KAMBULUK, GUNDALE PRI. SCH.",15/10/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20918/pu/44316/44316-1677457834.pdf,false
+GOMBE,SHONGOM,GUNDALE,"AMPOKBOJE,  KOFAR J/AMPOKBOJE",15/10/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20918/pu/44315/44315-1677457040.pdf,false

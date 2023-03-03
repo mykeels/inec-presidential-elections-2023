@@ -1,29 +1,29 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-GOMBE,BALANGA,,MATINJA MATERNITY,15/02/04/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20835/pu/142777/142777-1677502203.pdf,false
-GOMBE,BALANGA,,"BAKASI SOUTH I, BAKASI PRI. SCH.",15/02/04/003,https://docs.inecelectionresults.net/elections/1292/1677448989-42879.pdf,false
-GOMBE,BALANGA,,"BAKASI SOUTH II, BAKASI PRI. SCH.",15/02/04/004,https://docs.inecelectionresults.net/elections/1292/1677448702-42880.pdf,false
-GOMBE,BALANGA,,GAMJI BOREHOLE BALAN SANE,15/02/04/027,https://docs.inecelectionresults.net/elections/1292/1677448414-142776.pdf,false
-GOMBE,BALANGA,,GELENGU PRI SCH,15/02/04/024,https://docs.inecelectionresults.net/elections/1292/1677448183-142773.pdf,false
-GOMBE,BALANGA,,"JURARE, MATERNITY",15/02/04/017,https://docs.inecelectionresults.net/elections/1292/1677447936-42893.pdf,false
-GOMBE,BALANGA,,"GARU EAST II, GELENGU PRI. SCH.",15/02/04/011,https://docs.inecelectionresults.net/elections/1292/1677447715-42887.pdf,false
-GOMBE,BALANGA,,"GUMSA, GUMSA PRI. SCH.",15/02/04/013,https://docs.inecelectionresults.net/elections/1292/1677447471-42889.pdf,false
-GOMBE,BALANGA,,"GARU EAST I, GELENGU PRI. SCH.",15/02/04/010,https://docs.inecelectionresults.net/elections/1292/1677447175-42886.pdf,false
-GOMBE,BALANGA,,"BAKASI NORTH I, BAKASI PRI. SCH.",15/02/04/001,https://docs.inecelectionresults.net/elections/1292/1677446895-42877.pdf,false
-GOMBE,BALANGA,,BALAN SANE PRI SCH,15/02/04/026,https://docs.inecelectionresults.net/elections/1292/1677446459-142775.pdf,false
-GOMBE,BALANGA,,"GARIN KUKA, KOFAR JAURO",15/02/04/007,https://docs.inecelectionresults.net/elections/1292/1677446209-42883.pdf,false
-GOMBE,BALANGA,,KAWALA UNGWA YAMMA,15/02/04/025,https://docs.inecelectionresults.net/elections/1292/1677445930-142774.pdf,false
-GOMBE,BALANGA,,"JURARA JULA, JULE  GELENGU",15/02/04/016,https://docs.inecelectionresults.net/elections/1292/1677445533-42892.pdf,false
-GOMBE,BALANGA,,"BALANGA SOUTH, BALANGA PRI. SCH.",15/02/04/020,https://docs.inecelectionresults.net/elections/1292/1677445289-42896.pdf,false
-GOMBE,BALANGA,,"BALANGA  NORTH, BALANGA PRI. SCH.",15/02/04/021,https://docs.inecelectionresults.net/elections/1292/1677445010-42897.pdf,false
-GOMBE,BALANGA,,"TAKASA  II, J.S.S. GELENGU",15/02/04/015,https://docs.inecelectionresults.net/elections/1292/1677444557-42891.pdf,false
-GOMBE,BALANGA,,"TAKASA  I, J.S.S. GELENGU",15/02/04/014,https://docs.inecelectionresults.net/elections/1292/1677444209-42890.pdf,false
-GOMBE,BALANGA,,"JONGWAM GWAM, KOFAR ADARI",15/02/04/023,https://docs.inecelectionresults.net/elections/1292/1677443317-42899.pdf,false
-GOMBE,BALANGA,,"GARU  I, KOFAR KALAU",15/02/04/018,https://docs.inecelectionresults.net/elections/1292/1677443105-42894.pdf,false
-GOMBE,BALANGA,,"BAKASI NORTH II, BAKASI PRI. SCH.",15/02/04/002,https://docs.inecelectionresults.net/elections/1292/1677442486-42878.pdf,false
-GOMBE,BALANGA,,"KEMBU MATINJA, KEMBU PRI.  SCH.",15/02/04/008,https://docs.inecelectionresults.net/elections/1292/1677441249-42884.pdf,false
-GOMBE,BALANGA,,"GANGA WARE, KOFAR MAI UNG.",15/02/04/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/04/pu/022/022-1677388486.pdf,false
-GOMBE,BALANGA,,"BALAN SANE II, KOFAR MAI UNG.",15/02/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/04/pu/006/006-1677388452.pdf,false
-GOMBE,BALANGA,,"GARU WEST, MATERNITY",15/02/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/04/pu/012/012-1677388096.pdf,false
-GOMBE,BALANGA,,"GARU II, KOFAR KALAU",15/02/04/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/04/pu/019/019-1677387871.pdf,false
-GOMBE,BALANGA,,"BALAN SANE I, KOFAR MAI UNG.",15/02/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/04/pu/005/005-1677387807.pdf,false
-GOMBE,BALANGA,,"KEMBU, KEMBU PRI. SCH.",15/02/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/04/pu/009/009-1677362954.pdf,false
+GOMBE,BALANGA,GELENGU / BALANGA,MATINJA MATERNITY,15/02/04/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20835/pu/142777/142777-1677502203.pdf,false
+GOMBE,BALANGA,GELENGU / BALANGA,"BAKASI SOUTH I, BAKASI PRI. SCH.",15/02/04/003,https://docs.inecelectionresults.net/elections/1292/1677448989-42879.pdf,false
+GOMBE,BALANGA,GELENGU / BALANGA,"BAKASI SOUTH II, BAKASI PRI. SCH.",15/02/04/004,https://docs.inecelectionresults.net/elections/1292/1677448702-42880.pdf,false
+GOMBE,BALANGA,GELENGU / BALANGA,GAMJI BOREHOLE BALAN SANE,15/02/04/027,https://docs.inecelectionresults.net/elections/1292/1677448414-142776.pdf,false
+GOMBE,BALANGA,GELENGU / BALANGA,GELENGU PRI SCH,15/02/04/024,https://docs.inecelectionresults.net/elections/1292/1677448183-142773.pdf,false
+GOMBE,BALANGA,GELENGU / BALANGA,"JURARE, MATERNITY",15/02/04/017,https://docs.inecelectionresults.net/elections/1292/1677447936-42893.pdf,false
+GOMBE,BALANGA,GELENGU / BALANGA,"GARU EAST II, GELENGU PRI. SCH.",15/02/04/011,https://docs.inecelectionresults.net/elections/1292/1677447715-42887.pdf,false
+GOMBE,BALANGA,GELENGU / BALANGA,"GUMSA, GUMSA PRI. SCH.",15/02/04/013,https://docs.inecelectionresults.net/elections/1292/1677447471-42889.pdf,false
+GOMBE,BALANGA,GELENGU / BALANGA,"GARU EAST I, GELENGU PRI. SCH.",15/02/04/010,https://docs.inecelectionresults.net/elections/1292/1677447175-42886.pdf,false
+GOMBE,BALANGA,GELENGU / BALANGA,"BAKASI NORTH I, BAKASI PRI. SCH.",15/02/04/001,https://docs.inecelectionresults.net/elections/1292/1677446895-42877.pdf,false
+GOMBE,BALANGA,GELENGU / BALANGA,BALAN SANE PRI SCH,15/02/04/026,https://docs.inecelectionresults.net/elections/1292/1677446459-142775.pdf,false
+GOMBE,BALANGA,GELENGU / BALANGA,"GARIN KUKA, KOFAR JAURO",15/02/04/007,https://docs.inecelectionresults.net/elections/1292/1677446209-42883.pdf,false
+GOMBE,BALANGA,GELENGU / BALANGA,KAWALA UNGWA YAMMA,15/02/04/025,https://docs.inecelectionresults.net/elections/1292/1677445930-142774.pdf,false
+GOMBE,BALANGA,GELENGU / BALANGA,"JURARA JULA, JULE  GELENGU",15/02/04/016,https://docs.inecelectionresults.net/elections/1292/1677445533-42892.pdf,false
+GOMBE,BALANGA,GELENGU / BALANGA,"BALANGA SOUTH, BALANGA PRI. SCH.",15/02/04/020,https://docs.inecelectionresults.net/elections/1292/1677445289-42896.pdf,false
+GOMBE,BALANGA,GELENGU / BALANGA,"BALANGA  NORTH, BALANGA PRI. SCH.",15/02/04/021,https://docs.inecelectionresults.net/elections/1292/1677445010-42897.pdf,false
+GOMBE,BALANGA,GELENGU / BALANGA,"TAKASA  II, J.S.S. GELENGU",15/02/04/015,https://docs.inecelectionresults.net/elections/1292/1677444557-42891.pdf,false
+GOMBE,BALANGA,GELENGU / BALANGA,"TAKASA  I, J.S.S. GELENGU",15/02/04/014,https://docs.inecelectionresults.net/elections/1292/1677444209-42890.pdf,false
+GOMBE,BALANGA,GELENGU / BALANGA,"JONGWAM GWAM, KOFAR ADARI",15/02/04/023,https://docs.inecelectionresults.net/elections/1292/1677443317-42899.pdf,false
+GOMBE,BALANGA,GELENGU / BALANGA,"GARU  I, KOFAR KALAU",15/02/04/018,https://docs.inecelectionresults.net/elections/1292/1677443105-42894.pdf,false
+GOMBE,BALANGA,GELENGU / BALANGA,"BAKASI NORTH II, BAKASI PRI. SCH.",15/02/04/002,https://docs.inecelectionresults.net/elections/1292/1677442486-42878.pdf,false
+GOMBE,BALANGA,GELENGU / BALANGA,"KEMBU MATINJA, KEMBU PRI.  SCH.",15/02/04/008,https://docs.inecelectionresults.net/elections/1292/1677441249-42884.pdf,false
+GOMBE,BALANGA,GELENGU / BALANGA,"GANGA WARE, KOFAR MAI UNG.",15/02/04/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/04/pu/022/022-1677388486.pdf,false
+GOMBE,BALANGA,GELENGU / BALANGA,"BALAN SANE II, KOFAR MAI UNG.",15/02/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/04/pu/006/006-1677388452.pdf,false
+GOMBE,BALANGA,GELENGU / BALANGA,"GARU WEST, MATERNITY",15/02/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/04/pu/012/012-1677388096.pdf,false
+GOMBE,BALANGA,GELENGU / BALANGA,"GARU II, KOFAR KALAU",15/02/04/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/04/pu/019/019-1677387871.pdf,false
+GOMBE,BALANGA,GELENGU / BALANGA,"BALAN SANE I, KOFAR MAI UNG.",15/02/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/04/pu/005/005-1677387807.pdf,false
+GOMBE,BALANGA,GELENGU / BALANGA,"KEMBU, KEMBU PRI. SCH.",15/02/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/04/pu/009/009-1677362954.pdf,false

@@ -1,16 +1,16 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-GOMBE,BILLIRI,,KALMAI K. SARKI  II,15/03/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20847/pu/142867/142867-1677510016.pdf,false
-GOMBE,BILLIRI,,POBAWURE PRI. SCH.  I,15/03/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20847/pu/142872/142872-1677494503.pdf,false
-GOMBE,BILLIRI,,LAUKEREK PRI. SCH.  I,15/03/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20847/pu/142871/142871-1677493680.pdf,false
-GOMBE,BILLIRI,,POWISHI AMTADAM  II,15/03/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20847/pu/142870/142870-1677493248.pdf,false
-GOMBE,BILLIRI,,KALMAI K. POLMO  I,15/03/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20847/pu/142868/142868-1677492895.pdf,false
-GOMBE,BILLIRI,,"LAKELEMBU, K. JAURO LAKELEMBU",15/03/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20847/pu/43095/43095-1677492505.pdf,false
-GOMBE,BILLIRI,,"WURO LADDE, K. JAURO LADDE",15/03/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20847/pu/43094/43094-1677492083.pdf,false
-GOMBE,BILLIRI,,"KALTANGO, K. J. KALTANGO",15/03/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20847/pu/43093/43093-1677491426.pdf,false
-GOMBE,BILLIRI,,"POBAWURE, K. JAURO POBAWURE",15/03/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20847/pu/43092/43092-1677491014.pdf,false
-GOMBE,BILLIRI,,"LABATENE/POWISHI, PRI. SCH.",15/03/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20847/pu/43090/43090-1677490168.pdf,false
-GOMBE,BILLIRI,,"KALMAI, K. POLMO",15/03/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20847/pu/43089/43089-1677489638.pdf,false
-GOMBE,BILLIRI,,"KALMAI, K. SARKI",15/03/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20847/pu/43088/43088-1677489108.pdf,false
-GOMBE,BILLIRI,,KALMAI K. SARKI  I,15/03/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20847/pu/142866/142866-1677488538.pdf,false
-GOMBE,BILLIRI,,"AMTAWALAM, PRI. SCH.",15/03/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20847/pu/43091/43091-1677487367.pdf,false
-GOMBE,BILLIRI,,POWISHI PRI SCH.  I,15/03/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20847/pu/142869/142869-1677485839.pdf,false
+GOMBE,BILLIRI,KALMAI,KALMAI K. SARKI  II,15/03/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20847/pu/142867/142867-1677510016.pdf,false
+GOMBE,BILLIRI,KALMAI,POBAWURE PRI. SCH.  I,15/03/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20847/pu/142872/142872-1677494503.pdf,false
+GOMBE,BILLIRI,KALMAI,LAUKEREK PRI. SCH.  I,15/03/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20847/pu/142871/142871-1677493680.pdf,false
+GOMBE,BILLIRI,KALMAI,POWISHI AMTADAM  II,15/03/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20847/pu/142870/142870-1677493248.pdf,false
+GOMBE,BILLIRI,KALMAI,KALMAI K. POLMO  I,15/03/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20847/pu/142868/142868-1677492895.pdf,false
+GOMBE,BILLIRI,KALMAI,"LAKELEMBU, K. JAURO LAKELEMBU",15/03/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20847/pu/43095/43095-1677492505.pdf,false
+GOMBE,BILLIRI,KALMAI,"WURO LADDE, K. JAURO LADDE",15/03/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20847/pu/43094/43094-1677492083.pdf,false
+GOMBE,BILLIRI,KALMAI,"KALTANGO, K. J. KALTANGO",15/03/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20847/pu/43093/43093-1677491426.pdf,false
+GOMBE,BILLIRI,KALMAI,"POBAWURE, K. JAURO POBAWURE",15/03/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20847/pu/43092/43092-1677491014.pdf,false
+GOMBE,BILLIRI,KALMAI,"LABATENE/POWISHI, PRI. SCH.",15/03/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20847/pu/43090/43090-1677490168.pdf,false
+GOMBE,BILLIRI,KALMAI,"KALMAI, K. POLMO",15/03/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20847/pu/43089/43089-1677489638.pdf,false
+GOMBE,BILLIRI,KALMAI,"KALMAI, K. SARKI",15/03/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20847/pu/43088/43088-1677489108.pdf,false
+GOMBE,BILLIRI,KALMAI,KALMAI K. SARKI  I,15/03/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20847/pu/142866/142866-1677488538.pdf,false
+GOMBE,BILLIRI,KALMAI,"AMTAWALAM, PRI. SCH.",15/03/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20847/pu/43091/43091-1677487367.pdf,false
+GOMBE,BILLIRI,KALMAI,POWISHI PRI SCH.  I,15/03/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20847/pu/142869/142869-1677485839.pdf,false

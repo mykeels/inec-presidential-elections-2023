@@ -26,6 +26,7 @@
     "pu_code_string": "150705010",
     "state_name": "GOMBE",
     "lga_name": "KALTUNGO",
+    "ward_name": "KAMO",
     "document": {
       "external": true,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "150705027",
     "state_name": "GOMBE",
     "lga_name": "KALTUNGO",
+    "ward_name": "KAMO",
     "document": {
       "external": false,
       "status": 1,
@@ -111,6 +113,7 @@
     "pu_code_string": "150705026",
     "state_name": "GOMBE",
     "lga_name": "KALTUNGO",
+    "ward_name": "KAMO",
     "document": {
       "external": false,
       "status": 1,
@@ -158,6 +161,7 @@
     "pu_code_string": "150705028",
     "state_name": "GOMBE",
     "lga_name": "KALTUNGO",
+    "ward_name": "KAMO",
     "document": {
       "external": false,
       "status": 1,
@@ -205,6 +209,7 @@
     "pu_code_string": "150705025",
     "state_name": "GOMBE",
     "lga_name": "KALTUNGO",
+    "ward_name": "KAMO",
     "document": {
       "external": false,
       "status": 1,
@@ -252,6 +257,7 @@
     "pu_code_string": "150705024",
     "state_name": "GOMBE",
     "lga_name": "KALTUNGO",
+    "ward_name": "KAMO",
     "document": {
       "external": false,
       "status": 1,
@@ -290,6 +296,7 @@
     "pu_code_string": "150705020",
     "state_name": "GOMBE",
     "lga_name": "KALTUNGO",
+    "ward_name": "KAMO",
     "document": {
       "external": false,
       "status": 1,
@@ -328,6 +335,7 @@
     "pu_code_string": "150705023",
     "state_name": "GOMBE",
     "lga_name": "KALTUNGO",
+    "ward_name": "KAMO",
     "document": {
       "external": false,
       "status": 1,
@@ -366,6 +374,7 @@
     "pu_code_string": "150705022",
     "state_name": "GOMBE",
     "lga_name": "KALTUNGO",
+    "ward_name": "KAMO",
     "document": {
       "external": false,
       "status": 1,
@@ -404,6 +413,7 @@
     "pu_code_string": "150705019",
     "state_name": "GOMBE",
     "lga_name": "KALTUNGO",
+    "ward_name": "KAMO",
     "document": {
       "external": false,
       "status": 1,
@@ -451,6 +461,7 @@
     "pu_code_string": "150705021",
     "state_name": "GOMBE",
     "lga_name": "KALTUNGO",
+    "ward_name": "KAMO",
     "document": {
       "external": false,
       "status": 1,
@@ -498,6 +509,7 @@
     "pu_code_string": "150705018",
     "state_name": "GOMBE",
     "lga_name": "KALTUNGO",
+    "ward_name": "KAMO",
     "document": {
       "external": false,
       "status": 1,
@@ -545,6 +557,7 @@
     "pu_code_string": "150705017",
     "state_name": "GOMBE",
     "lga_name": "KALTUNGO",
+    "ward_name": "KAMO",
     "document": {
       "external": false,
       "status": 1,
@@ -592,6 +605,7 @@
     "pu_code_string": "150705009",
     "state_name": "GOMBE",
     "lga_name": "KALTUNGO",
+    "ward_name": "KAMO",
     "document": {
       "external": false,
       "status": 1,
@@ -639,6 +653,7 @@
     "pu_code_string": "150705016",
     "state_name": "GOMBE",
     "lga_name": "KALTUNGO",
+    "ward_name": "KAMO",
     "document": {
       "external": false,
       "status": 1,
@@ -686,6 +701,7 @@
     "pu_code_string": "150705008",
     "state_name": "GOMBE",
     "lga_name": "KALTUNGO",
+    "ward_name": "KAMO",
     "document": {
       "external": false,
       "status": 1,
@@ -733,6 +749,7 @@
     "pu_code_string": "150705015",
     "state_name": "GOMBE",
     "lga_name": "KALTUNGO",
+    "ward_name": "KAMO",
     "document": {
       "external": false,
       "status": 1,
@@ -780,6 +797,7 @@
     "pu_code_string": "150705007",
     "state_name": "GOMBE",
     "lga_name": "KALTUNGO",
+    "ward_name": "KAMO",
     "document": {
       "external": false,
       "status": 1,
@@ -818,6 +836,7 @@
     "pu_code_string": "150705014",
     "state_name": "GOMBE",
     "lga_name": "KALTUNGO",
+    "ward_name": "KAMO",
     "document": {
       "external": false,
       "status": 1,
@@ -865,6 +884,7 @@
     "pu_code_string": "150705005",
     "state_name": "GOMBE",
     "lga_name": "KALTUNGO",
+    "ward_name": "KAMO",
     "document": {
       "external": false,
       "status": 1,
@@ -912,6 +932,7 @@
     "pu_code_string": "150705013",
     "state_name": "GOMBE",
     "lga_name": "KALTUNGO",
+    "ward_name": "KAMO",
     "document": {
       "external": false,
       "status": 1,
@@ -959,6 +980,7 @@
     "pu_code_string": "150705004",
     "state_name": "GOMBE",
     "lga_name": "KALTUNGO",
+    "ward_name": "KAMO",
     "document": {
       "external": false,
       "status": 1,
@@ -1006,6 +1028,7 @@
     "pu_code_string": "150705012",
     "state_name": "GOMBE",
     "lga_name": "KALTUNGO",
+    "ward_name": "KAMO",
     "document": {
       "external": false,
       "status": 1,
@@ -1053,6 +1076,7 @@
     "pu_code_string": "150705003",
     "state_name": "GOMBE",
     "lga_name": "KALTUNGO",
+    "ward_name": "KAMO",
     "document": {
       "external": false,
       "status": 1,
@@ -1100,6 +1124,7 @@
     "pu_code_string": "150705011",
     "state_name": "GOMBE",
     "lga_name": "KALTUNGO",
+    "ward_name": "KAMO",
     "document": {
       "external": false,
       "status": 1,
@@ -1147,6 +1172,7 @@
     "pu_code_string": "150705002",
     "state_name": "GOMBE",
     "lga_name": "KALTUNGO",
+    "ward_name": "KAMO",
     "document": {
       "external": false,
       "status": 1,
@@ -1194,6 +1220,7 @@
     "pu_code_string": "150705001",
     "state_name": "GOMBE",
     "lga_name": "KALTUNGO",
+    "ward_name": "KAMO",
     "document": {
       "external": false,
       "status": 1,
@@ -1232,6 +1259,7 @@
     "pu_code_string": "150705006",
     "state_name": "GOMBE",
     "lga_name": "KALTUNGO",
+    "ward_name": "KAMO",
     "document": {
       "external": false,
       "status": 1,

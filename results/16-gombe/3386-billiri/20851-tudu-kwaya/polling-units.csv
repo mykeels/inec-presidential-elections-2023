@@ -1,17 +1,17 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-GOMBE,BILLIRI,,"PANGURU, BAKIN TASHA",15/03/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20851/pu/43147/43147-1677510819.pdf,false
-GOMBE,BILLIRI,,"LAKONDO, KOFAR JAURO LAKONDO",15/03/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20851/pu/43141/43141-1677510571.pdf,false
-GOMBE,BILLIRI,,"FULANI JILO, K. JAURO FULANI JILO",15/03/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20851/pu/43143/43143-1677510255.pdf,false
-GOMBE,BILLIRI,,LAYONA K.J LAYONA  I,15/03/10/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20851/pu/142892/142892-1677503213.pdf,false
-GOMBE,BILLIRI,,HAMMADU HAZO PRI. SCH.  I,15/03/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20851/pu/142891/142891-1677502947.pdf,false
-GOMBE,BILLIRI,,"TUDUN KWAYA II, PRI. SCH. KWAYA  I",15/03/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20851/pu/142890/142890-1677502708.pdf,false
-GOMBE,BILLIRI,,"TUDUN KWAYA I, PRI SCH. KWAYA  I",15/03/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20851/pu/142889/142889-1677502383.pdf,false
-GOMBE,BILLIRI,,POSHALO K.J POSHALO,15/03/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20851/pu/43146/43146-1677501596.pdf,false
-GOMBE,BILLIRI,,"LATANA  II, K. JAURO LATANA",15/03/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20851/pu/43145/43145-1677501374.pdf,false
-GOMBE,BILLIRI,,"LATANA  I, K. JAURO LATANA",15/03/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20851/pu/43144/43144-1677501051.pdf,false
-GOMBE,BILLIRI,,"LAYONA, KOFAR JAURO LAYONA",15/03/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20851/pu/43142/43142-1677500016.pdf,false
-GOMBE,BILLIRI,,"LAWISHI, K.  JAURO LAWISHI",15/03/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20851/pu/43140/43140-1677499525.pdf,false
-GOMBE,BILLIRI,,"YOLDE, K. JAURO YOLDE",15/03/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20851/pu/43139/43139-1677499105.pdf,false
-GOMBE,BILLIRI,,"TUDU KWAYA  III,  K. SARKI TUDU",15/03/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20851/pu/43138/43138-1677498817.pdf,false
-GOMBE,BILLIRI,,"TUDU KWAYA  I,  PRI. SCH. KWAYA",15/03/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20851/pu/43136/43136-1677498398.pdf,false
-GOMBE,BILLIRI,,"TUDU KWAYA  II,  PRI. SCH. KWAYA",15/03/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/10/pu/002/002-1677407561.pdf,false
+GOMBE,BILLIRI,TUDU KWAYA,"PANGURU, BAKIN TASHA",15/03/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20851/pu/43147/43147-1677510819.pdf,false
+GOMBE,BILLIRI,TUDU KWAYA,"LAKONDO, KOFAR JAURO LAKONDO",15/03/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20851/pu/43141/43141-1677510571.pdf,false
+GOMBE,BILLIRI,TUDU KWAYA,"FULANI JILO, K. JAURO FULANI JILO",15/03/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20851/pu/43143/43143-1677510255.pdf,false
+GOMBE,BILLIRI,TUDU KWAYA,LAYONA K.J LAYONA  I,15/03/10/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20851/pu/142892/142892-1677503213.pdf,false
+GOMBE,BILLIRI,TUDU KWAYA,HAMMADU HAZO PRI. SCH.  I,15/03/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20851/pu/142891/142891-1677502947.pdf,false
+GOMBE,BILLIRI,TUDU KWAYA,"TUDUN KWAYA II, PRI. SCH. KWAYA  I",15/03/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20851/pu/142890/142890-1677502708.pdf,false
+GOMBE,BILLIRI,TUDU KWAYA,"TUDUN KWAYA I, PRI SCH. KWAYA  I",15/03/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20851/pu/142889/142889-1677502383.pdf,false
+GOMBE,BILLIRI,TUDU KWAYA,POSHALO K.J POSHALO,15/03/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20851/pu/43146/43146-1677501596.pdf,false
+GOMBE,BILLIRI,TUDU KWAYA,"LATANA  II, K. JAURO LATANA",15/03/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20851/pu/43145/43145-1677501374.pdf,false
+GOMBE,BILLIRI,TUDU KWAYA,"LATANA  I, K. JAURO LATANA",15/03/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20851/pu/43144/43144-1677501051.pdf,false
+GOMBE,BILLIRI,TUDU KWAYA,"LAYONA, KOFAR JAURO LAYONA",15/03/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20851/pu/43142/43142-1677500016.pdf,false
+GOMBE,BILLIRI,TUDU KWAYA,"LAWISHI, K.  JAURO LAWISHI",15/03/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20851/pu/43140/43140-1677499525.pdf,false
+GOMBE,BILLIRI,TUDU KWAYA,"YOLDE, K. JAURO YOLDE",15/03/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20851/pu/43139/43139-1677499105.pdf,false
+GOMBE,BILLIRI,TUDU KWAYA,"TUDU KWAYA  III,  K. SARKI TUDU",15/03/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20851/pu/43138/43138-1677498817.pdf,false
+GOMBE,BILLIRI,TUDU KWAYA,"TUDU KWAYA  I,  PRI. SCH. KWAYA",15/03/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3386/ward/20851/pu/43136/43136-1677498398.pdf,false
+GOMBE,BILLIRI,TUDU KWAYA,"TUDU KWAYA  II,  PRI. SCH. KWAYA",15/03/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/10/pu/002/002-1677407561.pdf,false

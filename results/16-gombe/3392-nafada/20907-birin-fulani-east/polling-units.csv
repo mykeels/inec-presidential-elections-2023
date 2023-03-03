@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-GOMBE,NAFADA,,DISPENSARY BIRI EAST,15/09/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20907/pu/143281/143281-1677601558.pdf,false
-GOMBE,NAFADA,,"LUMBO DASHI, KOFAR J. LUMBO / DASHI",15/09/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20907/pu/44219/44219-1677601301.pdf,false
-GOMBE,NAFADA,,"SODINGO, PRIMARY SCHOOL",15/09/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20907/pu/44215/44215-1677601251.pdf,false
-GOMBE,NAFADA,,"GADI, KOFAR J. GADI",15/09/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20907/pu/44218/44218-1677601245.pdf,false
-GOMBE,NAFADA,,BIRI I PRIMARY SCHOOL,15/09/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20907/pu/143283/143283-1677601237.pdf,false
-GOMBE,NAFADA,,"UNG. UBANDOMA, KOFAR SARKI",15/09/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20907/pu/44214/44214-1677601236.pdf,false
-GOMBE,NAFADA,,"GURAJAWA, KOFAR MAL. ABDU",15/09/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20907/pu/44217/44217-1677601196.pdf,false
-GOMBE,NAFADA,,"UNG. GALADIMA, KOFAR UBANDOMA",15/09/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20907/pu/44212/44212-1677601195.pdf,false
-GOMBE,NAFADA,,J.S.S BIRI II BAUCHI,15/09/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/04/pu/010/010-1677395817.pdf,false
-GOMBE,NAFADA,,"SORODO, KOFARN J. GANI",15/09/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/04/pu/005/005-1677375549.pdf,false
-GOMBE,NAFADA,,"UNG. BARDE, PRIMARY SCHOOL",15/09/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/04/pu/002/002-1677359282.pdf,false
+GOMBE,NAFADA,BIRIN FULANI EAST,DISPENSARY BIRI EAST,15/09/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20907/pu/143281/143281-1677601558.pdf,false
+GOMBE,NAFADA,BIRIN FULANI EAST,"LUMBO DASHI, KOFAR J. LUMBO / DASHI",15/09/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20907/pu/44219/44219-1677601301.pdf,false
+GOMBE,NAFADA,BIRIN FULANI EAST,"SODINGO, PRIMARY SCHOOL",15/09/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20907/pu/44215/44215-1677601251.pdf,false
+GOMBE,NAFADA,BIRIN FULANI EAST,"GADI, KOFAR J. GADI",15/09/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20907/pu/44218/44218-1677601245.pdf,false
+GOMBE,NAFADA,BIRIN FULANI EAST,BIRI I PRIMARY SCHOOL,15/09/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20907/pu/143283/143283-1677601237.pdf,false
+GOMBE,NAFADA,BIRIN FULANI EAST,"UNG. UBANDOMA, KOFAR SARKI",15/09/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20907/pu/44214/44214-1677601236.pdf,false
+GOMBE,NAFADA,BIRIN FULANI EAST,"GURAJAWA, KOFAR MAL. ABDU",15/09/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20907/pu/44217/44217-1677601196.pdf,false
+GOMBE,NAFADA,BIRIN FULANI EAST,"UNG. GALADIMA, KOFAR UBANDOMA",15/09/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3392/ward/20907/pu/44212/44212-1677601195.pdf,false
+GOMBE,NAFADA,BIRIN FULANI EAST,J.S.S BIRI II BAUCHI,15/09/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/04/pu/010/010-1677395817.pdf,false
+GOMBE,NAFADA,BIRIN FULANI EAST,"SORODO, KOFARN J. GANI",15/09/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/04/pu/005/005-1677375549.pdf,false
+GOMBE,NAFADA,BIRIN FULANI EAST,"UNG. BARDE, PRIMARY SCHOOL",15/09/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/04/pu/002/002-1677359282.pdf,false

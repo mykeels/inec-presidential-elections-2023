@@ -1,18 +1,18 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-GOMBE,SHONGOM,,LASANJANG PRIM. SCH. II,15/10/10/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/143328/143328-1677498181.pdf,false
-GOMBE,SHONGOM,,"GOVT. SEC. SCH, LAPAN KALAKU",15/10/10/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/143327/143327-1677497905.pdf,false
-GOMBE,SHONGOM,,LANTAME PRIMARY SCHOOL,15/10/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/143326/143326-1677497679.pdf,false
-GOMBE,SHONGOM,,PRIMARY HEALTH CARE KWALKWARI,15/10/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/143325/143325-1677497447.pdf,false
-GOMBE,SHONGOM,,"MANGO IV, LAPAN PRIM. SCHOOL",15/10/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/143324/143324-1677497236.pdf,false
-GOMBE,SHONGOM,,"MANGO III, LAPAN PRIM. SCHOOL",15/10/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/143323/143323-1677496984.pdf,false
-GOMBE,SHONGOM,,"LASANJANG,. LASANGJANG PRI. SCH.",15/10/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/44374/44374-1677496523.pdf,false
-GOMBE,SHONGOM,,"LABAYO, LASSASAR PRI. SCH.",15/10/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/44373/44373-1677496198.pdf,false
-GOMBE,SHONGOM,,"LASSASAP, KOFAR J./ PETER",15/10/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/44372/44372-1677495926.pdf,false
-GOMBE,SHONGOM,,"LALEKTAR  II, LALATAR PRI. SCH.",15/10/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/44371/44371-1677495689.pdf,false
-GOMBE,SHONGOM,,"LALEKTAR  I, LALATAR PRI. SCH.",15/10/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/44370/44370-1677495529.pdf,false
-GOMBE,SHONGOM,,"KALAKU, KOFAR LARATU",15/10/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/44369/44369-1677495338.pdf,false
-GOMBE,SHONGOM,,"KALAKU, KOFAR ALH. MOHAMMED",15/10/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/44368/44368-1677494901.pdf,false
-GOMBE,SHONGOM,,"KWALKWARI II, J. S. S.S.   LAPAN",15/10/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/44367/44367-1677494707.pdf,false
-GOMBE,SHONGOM,,"KWALKWARI I, J. S. S.S.   LAPAN",15/10/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/44366/44366-1677494512.pdf,false
-GOMBE,SHONGOM,,"MANGO II, KOFAR J / AKWAGE",15/10/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/44365/44365-1677494276.pdf,false
-GOMBE,SHONGOM,,"MANGO I, KOFAR J / AKWAGE",15/10/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/44364/44364-1677494111.pdf,false
+GOMBE,SHONGOM,LAPAN,LASANJANG PRIM. SCH. II,15/10/10/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/143328/143328-1677498181.pdf,false
+GOMBE,SHONGOM,LAPAN,"GOVT. SEC. SCH, LAPAN KALAKU",15/10/10/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/143327/143327-1677497905.pdf,false
+GOMBE,SHONGOM,LAPAN,LANTAME PRIMARY SCHOOL,15/10/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/143326/143326-1677497679.pdf,false
+GOMBE,SHONGOM,LAPAN,PRIMARY HEALTH CARE KWALKWARI,15/10/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/143325/143325-1677497447.pdf,false
+GOMBE,SHONGOM,LAPAN,"MANGO IV, LAPAN PRIM. SCHOOL",15/10/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/143324/143324-1677497236.pdf,false
+GOMBE,SHONGOM,LAPAN,"MANGO III, LAPAN PRIM. SCHOOL",15/10/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/143323/143323-1677496984.pdf,false
+GOMBE,SHONGOM,LAPAN,"LASANJANG,. LASANGJANG PRI. SCH.",15/10/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/44374/44374-1677496523.pdf,false
+GOMBE,SHONGOM,LAPAN,"LABAYO, LASSASAR PRI. SCH.",15/10/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/44373/44373-1677496198.pdf,false
+GOMBE,SHONGOM,LAPAN,"LASSASAP, KOFAR J./ PETER",15/10/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/44372/44372-1677495926.pdf,false
+GOMBE,SHONGOM,LAPAN,"LALEKTAR  II, LALATAR PRI. SCH.",15/10/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/44371/44371-1677495689.pdf,false
+GOMBE,SHONGOM,LAPAN,"LALEKTAR  I, LALATAR PRI. SCH.",15/10/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/44370/44370-1677495529.pdf,false
+GOMBE,SHONGOM,LAPAN,"KALAKU, KOFAR LARATU",15/10/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/44369/44369-1677495338.pdf,false
+GOMBE,SHONGOM,LAPAN,"KALAKU, KOFAR ALH. MOHAMMED",15/10/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/44368/44368-1677494901.pdf,false
+GOMBE,SHONGOM,LAPAN,"KWALKWARI II, J. S. S.S.   LAPAN",15/10/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/44367/44367-1677494707.pdf,false
+GOMBE,SHONGOM,LAPAN,"KWALKWARI I, J. S. S.S.   LAPAN",15/10/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/44366/44366-1677494512.pdf,false
+GOMBE,SHONGOM,LAPAN,"MANGO II, KOFAR J / AKWAGE",15/10/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/44365/44365-1677494276.pdf,false
+GOMBE,SHONGOM,LAPAN,"MANGO I, KOFAR J / AKWAGE",15/10/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20923/pu/44364/44364-1677494111.pdf,false

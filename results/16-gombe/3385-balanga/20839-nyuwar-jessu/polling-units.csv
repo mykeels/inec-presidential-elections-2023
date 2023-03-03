@@ -1,23 +1,23 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-GOMBE,BALANGA,,SABON LAYI HEALTH CENTER  JESSU,15/02/08/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/142799/142799-1677495909.pdf,false
-GOMBE,BALANGA,,"TSIBO, K. MAI UNG.",15/02/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/42962/42962-1677495704.pdf,false
-GOMBE,BALANGA,,"GULYIMORA, K. DAN PRI. SCH. I",15/02/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/42960/42960-1677495062.pdf,false
-GOMBE,BALANGA,,"D/GULYIMORA, J.S.S. JESSU II",15/02/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/42966/42966-1677494828.pdf,false
-GOMBE,BALANGA,,"GULYIMORA, K. DAN PRI. SCH. II",15/02/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/42961/42961-1677494610.pdf,false
-GOMBE,BALANGA,,"GABIKISHAU II, DISPENSARY",15/02/08/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/42968/42968-1677494372.pdf,false
-GOMBE,BALANGA,,TSWAKU PRI SCH,15/02/08/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/142798/142798-1677494117.pdf,false
-GOMBE,BALANGA,,"CHUNYI III, NYUWAR PRI. SCH.",15/02/08/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/142797/142797-1677493893.pdf,false
-GOMBE,BALANGA,,KANBURAI PRI SCH NYUWAR,15/02/08/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/142802/142802-1677493675.pdf,false
-GOMBE,BALANGA,,"BWAZA, K. BUBA DOGO",15/02/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/42958/42958-1677493264.pdf,false
-GOMBE,BALANGA,,"CHUNYI I, NYUWAR PRI. SCH.",15/02/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/42956/42956-1677492976.pdf,false
-GOMBE,BALANGA,,"DO'ARA  I, K. WANDO",15/02/08/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/42969/42969-1677492763.pdf,false
-GOMBE,BALANGA,,"CHUNYI II, NYUWAR PRI. SCH.",15/02/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/42957/42957-1677492453.pdf,false
-GOMBE,BALANGA,,"DO'ARA  III, K. WANDO",15/02/08/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/42971/42971-1677492045.pdf,false
-GOMBE,BALANGA,,"SABON LAYI, JESSU PRI. SCH. I",15/02/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/42963/42963-1677491732.pdf,false
-GOMBE,BALANGA,,"D/GULYIMORA, J.S.S. JESSU I",15/02/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/42965/42965-1677491433.pdf,false
-GOMBE,BALANGA,,"DO'ARA  II, K. WANDO",15/02/08/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/42970/42970-1677490881.pdf,false
-GOMBE,BALANGA,,BEMIN BOREHOLE SABON LAYI,15/02/08/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/142800/142800-1677490648.pdf,false
-GOMBE,BALANGA,,KOROWA JNR SEC SCH,15/02/08/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/142801/142801-1677489678.pdf,false
-GOMBE,BALANGA,,"GABIKISHAU I, DISPENSARY",15/02/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/42967/42967-1677489104.pdf,false
-GOMBE,BALANGA,,"SABON LAYI, JESSU PRI. SCH. II",15/02/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/009/009-1677378092.pdf,false
-GOMBE,BALANGA,,"GILANGITU, GILANGITU PRI. SCH.",15/02/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/004/004-1677362637.pdf,false
+GOMBE,BALANGA,NYUWAR / JESSU,SABON LAYI HEALTH CENTER  JESSU,15/02/08/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/142799/142799-1677495909.pdf,false
+GOMBE,BALANGA,NYUWAR / JESSU,"TSIBO, K. MAI UNG.",15/02/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/42962/42962-1677495704.pdf,false
+GOMBE,BALANGA,NYUWAR / JESSU,"GULYIMORA, K. DAN PRI. SCH. I",15/02/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/42960/42960-1677495062.pdf,false
+GOMBE,BALANGA,NYUWAR / JESSU,"D/GULYIMORA, J.S.S. JESSU II",15/02/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/42966/42966-1677494828.pdf,false
+GOMBE,BALANGA,NYUWAR / JESSU,"GULYIMORA, K. DAN PRI. SCH. II",15/02/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/42961/42961-1677494610.pdf,false
+GOMBE,BALANGA,NYUWAR / JESSU,"GABIKISHAU II, DISPENSARY",15/02/08/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/42968/42968-1677494372.pdf,false
+GOMBE,BALANGA,NYUWAR / JESSU,TSWAKU PRI SCH,15/02/08/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/142798/142798-1677494117.pdf,false
+GOMBE,BALANGA,NYUWAR / JESSU,"CHUNYI III, NYUWAR PRI. SCH.",15/02/08/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/142797/142797-1677493893.pdf,false
+GOMBE,BALANGA,NYUWAR / JESSU,KANBURAI PRI SCH NYUWAR,15/02/08/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/142802/142802-1677493675.pdf,false
+GOMBE,BALANGA,NYUWAR / JESSU,"BWAZA, K. BUBA DOGO",15/02/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/42958/42958-1677493264.pdf,false
+GOMBE,BALANGA,NYUWAR / JESSU,"CHUNYI I, NYUWAR PRI. SCH.",15/02/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/42956/42956-1677492976.pdf,false
+GOMBE,BALANGA,NYUWAR / JESSU,"DO'ARA  I, K. WANDO",15/02/08/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/42969/42969-1677492763.pdf,false
+GOMBE,BALANGA,NYUWAR / JESSU,"CHUNYI II, NYUWAR PRI. SCH.",15/02/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/42957/42957-1677492453.pdf,false
+GOMBE,BALANGA,NYUWAR / JESSU,"DO'ARA  III, K. WANDO",15/02/08/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/42971/42971-1677492045.pdf,false
+GOMBE,BALANGA,NYUWAR / JESSU,"SABON LAYI, JESSU PRI. SCH. I",15/02/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/42963/42963-1677491732.pdf,false
+GOMBE,BALANGA,NYUWAR / JESSU,"D/GULYIMORA, J.S.S. JESSU I",15/02/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/42965/42965-1677491433.pdf,false
+GOMBE,BALANGA,NYUWAR / JESSU,"DO'ARA  II, K. WANDO",15/02/08/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/42970/42970-1677490881.pdf,false
+GOMBE,BALANGA,NYUWAR / JESSU,BEMIN BOREHOLE SABON LAYI,15/02/08/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/142800/142800-1677490648.pdf,false
+GOMBE,BALANGA,NYUWAR / JESSU,KOROWA JNR SEC SCH,15/02/08/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/142801/142801-1677489678.pdf,false
+GOMBE,BALANGA,NYUWAR / JESSU,"GABIKISHAU I, DISPENSARY",15/02/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20839/pu/42967/42967-1677489104.pdf,false
+GOMBE,BALANGA,NYUWAR / JESSU,"SABON LAYI, JESSU PRI. SCH. II",15/02/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/009/009-1677378092.pdf,false
+GOMBE,BALANGA,NYUWAR / JESSU,"GILANGITU, GILANGITU PRI. SCH.",15/02/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/004/004-1677362637.pdf,false

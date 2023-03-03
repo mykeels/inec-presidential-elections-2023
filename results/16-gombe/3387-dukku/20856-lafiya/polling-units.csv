@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-GOMBE,DUKKU,,"TALE YERIMA, TALE PRI. SCH.",15/04/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20856/pu/43233/43233-1677670006.pdf,true
-GOMBE,DUKKU,,"NYOLDEWO, KOFAR MAI UNG.",15/04/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20856/pu/43235/43235-1677603551.pdf,true
-GOMBE,DUKKU,,"DIRANGO JONORDI, KOFAR S. DIRANGO",15/04/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20856/pu/43234/43234-1677603448.pdf,false
-GOMBE,DUKKU,,"KALOMA/GADUM, KOFAR S. KALOMA",15/04/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20856/pu/43232/43232-1677603336.pdf,false
-GOMBE,DUKKU,,"MALTEWO, KOFAR S. MALTEWO",15/04/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20856/pu/43231/43231-1677603202.pdf,false
-GOMBE,DUKKU,,"JALINGO, KOFAR S. JALINGO",15/04/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20856/pu/43230/43230-1677603072.pdf,true
-GOMBE,DUKKU,,"JAURO ADI/MALTEWO, KOFAR JAURO ADI",15/04/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20856/pu/43229/43229-1677602945.pdf,true
-GOMBE,DUKKU,,"LAFIYA YERIMA, KOFAR S. LAFIYA",15/04/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20856/pu/43228/43228-1677602788.pdf,false
-GOMBE,DUKKU,,"LAFIYA CHIROMA, K/DAN MADAMI LAFIYA",15/04/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20856/pu/43227/43227-1677602657.pdf,true
-GOMBE,DUKKU,,"LAFIYA CHIROMA, LAFIYA PRI. SCH.",15/04/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20856/pu/43226/43226-1677594356.pdf,false
-GOMBE,DUKKU,,"ALKALERI, KOFAR S. ALKALERI",15/04/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20856/pu/43236/43236-1677593123.pdf,true
+GOMBE,DUKKU,LAFIYA,"TALE YERIMA, TALE PRI. SCH.",15/04/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20856/pu/43233/43233-1677670006.pdf,true
+GOMBE,DUKKU,LAFIYA,"NYOLDEWO, KOFAR MAI UNG.",15/04/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20856/pu/43235/43235-1677603551.pdf,true
+GOMBE,DUKKU,LAFIYA,"DIRANGO JONORDI, KOFAR S. DIRANGO",15/04/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20856/pu/43234/43234-1677603448.pdf,false
+GOMBE,DUKKU,LAFIYA,"KALOMA/GADUM, KOFAR S. KALOMA",15/04/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20856/pu/43232/43232-1677603336.pdf,false
+GOMBE,DUKKU,LAFIYA,"MALTEWO, KOFAR S. MALTEWO",15/04/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20856/pu/43231/43231-1677603202.pdf,false
+GOMBE,DUKKU,LAFIYA,"JALINGO, KOFAR S. JALINGO",15/04/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20856/pu/43230/43230-1677603072.pdf,true
+GOMBE,DUKKU,LAFIYA,"JAURO ADI/MALTEWO, KOFAR JAURO ADI",15/04/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20856/pu/43229/43229-1677602945.pdf,true
+GOMBE,DUKKU,LAFIYA,"LAFIYA YERIMA, KOFAR S. LAFIYA",15/04/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20856/pu/43228/43228-1677602788.pdf,false
+GOMBE,DUKKU,LAFIYA,"LAFIYA CHIROMA, K/DAN MADAMI LAFIYA",15/04/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20856/pu/43227/43227-1677602657.pdf,true
+GOMBE,DUKKU,LAFIYA,"LAFIYA CHIROMA, LAFIYA PRI. SCH.",15/04/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20856/pu/43226/43226-1677594356.pdf,false
+GOMBE,DUKKU,LAFIYA,"ALKALERI, KOFAR S. ALKALERI",15/04/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20856/pu/43236/43236-1677593123.pdf,true

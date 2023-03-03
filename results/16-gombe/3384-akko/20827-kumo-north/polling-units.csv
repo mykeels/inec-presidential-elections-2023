@@ -1,20 +1,20 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-GOMBE,AKKO,,"MAIDUGU, MAIDUGU PRI. SCH.",15/01/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20827/pu/42733/42733-1677508111.pdf,false
-GOMBE,AKKO,,"BARAMBU I, BARAMBU PRI. SCH.",15/01/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20827/pu/42729/42729-1677504323.pdf,false
-GOMBE,AKKO,,"WURO SALE LEMBI II, ZEGO PRIMARY SCHOOL",15/01/07/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20827/pu/142713/142713-1677503153.pdf,false
-GOMBE,AKKO,,"LONDO, KOFAR JAURO",15/01/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20827/pu/42737/42737-1677503020.pdf,false
-GOMBE,AKKO,,"GARIN GARBA, K. JAURO",15/01/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20827/pu/42731/42731-1677502408.pdf,false
-GOMBE,AKKO,,"GAMAWA, KOFAR JAURO",15/01/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20827/pu/42724/42724-1677502192.pdf,false
-GOMBE,AKKO,,"WURO SALE LEMBI, K. JAURO",15/01/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20827/pu/42727/42727-1677502086.pdf,false
-GOMBE,AKKO,,"BARAMBU II, BARAMBU PRI. SCH.",15/01/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20827/pu/42730/42730-1677501891.pdf,false
-GOMBE,AKKO,,"WURO BAKA, K. JAURO",15/01/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20827/pu/42732/42732-1677501763.pdf,false
-GOMBE,AKKO,,"NAHUTA WURO YAYA II, NAHUTA PRIMARY SCHOOL",15/01/07/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20827/pu/142714/142714-1677501606.pdf,false
-GOMBE,AKKO,,"LEMBI, LEMBI PRI. SCH.",15/01/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20827/pu/42722/42722-1677501176.pdf,false
-GOMBE,AKKO,,"LEMBI II, LEMBI PRI SCHOOL",15/01/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/07/pu/017/017-1677428637.pdf,false
-GOMBE,AKKO,,"NAHUTA W/YAYA, KOFAR JAURO",15/01/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/07/pu/004/004-1677426844.pdf,false
-GOMBE,AKKO,,"KOROTI, KOFAR JAURO",15/01/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/07/pu/014/014-1677424613.pdf,false
-GOMBE,AKKO,,"YELWA MARARRABA, K. JAURO",15/01/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/07/pu/005/005-1677424211.pdf,false
-GOMBE,AKKO,,"HAMMA SHANU, KOFAR JAURO",15/01/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/07/pu/015/015-1677423649.pdf,false
-GOMBE,AKKO,,"TONGO SAMBO, KOFAR JAURO",15/01/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/07/pu/013/013-1677423232.pdf,false
-GOMBE,AKKO,,"WURO YAYA, K. JAURO",15/01/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/07/pu/007/007-1677421461.pdf,false
-GOMBE,AKKO,,"LEMBE WEDDARE, KOFAR JAURO",15/01/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/07/pu/002/002-1677364199.pdf,false
+GOMBE,AKKO,KUMO NORTH,"MAIDUGU, MAIDUGU PRI. SCH.",15/01/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20827/pu/42733/42733-1677508111.pdf,false
+GOMBE,AKKO,KUMO NORTH,"BARAMBU I, BARAMBU PRI. SCH.",15/01/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20827/pu/42729/42729-1677504323.pdf,false
+GOMBE,AKKO,KUMO NORTH,"WURO SALE LEMBI II, ZEGO PRIMARY SCHOOL",15/01/07/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20827/pu/142713/142713-1677503153.pdf,false
+GOMBE,AKKO,KUMO NORTH,"LONDO, KOFAR JAURO",15/01/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20827/pu/42737/42737-1677503020.pdf,false
+GOMBE,AKKO,KUMO NORTH,"GARIN GARBA, K. JAURO",15/01/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20827/pu/42731/42731-1677502408.pdf,false
+GOMBE,AKKO,KUMO NORTH,"GAMAWA, KOFAR JAURO",15/01/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20827/pu/42724/42724-1677502192.pdf,false
+GOMBE,AKKO,KUMO NORTH,"WURO SALE LEMBI, K. JAURO",15/01/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20827/pu/42727/42727-1677502086.pdf,false
+GOMBE,AKKO,KUMO NORTH,"BARAMBU II, BARAMBU PRI. SCH.",15/01/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20827/pu/42730/42730-1677501891.pdf,false
+GOMBE,AKKO,KUMO NORTH,"WURO BAKA, K. JAURO",15/01/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20827/pu/42732/42732-1677501763.pdf,false
+GOMBE,AKKO,KUMO NORTH,"NAHUTA WURO YAYA II, NAHUTA PRIMARY SCHOOL",15/01/07/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20827/pu/142714/142714-1677501606.pdf,false
+GOMBE,AKKO,KUMO NORTH,"LEMBI, LEMBI PRI. SCH.",15/01/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3384/ward/20827/pu/42722/42722-1677501176.pdf,false
+GOMBE,AKKO,KUMO NORTH,"LEMBI II, LEMBI PRI SCHOOL",15/01/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/07/pu/017/017-1677428637.pdf,false
+GOMBE,AKKO,KUMO NORTH,"NAHUTA W/YAYA, KOFAR JAURO",15/01/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/07/pu/004/004-1677426844.pdf,false
+GOMBE,AKKO,KUMO NORTH,"KOROTI, KOFAR JAURO",15/01/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/07/pu/014/014-1677424613.pdf,false
+GOMBE,AKKO,KUMO NORTH,"YELWA MARARRABA, K. JAURO",15/01/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/07/pu/005/005-1677424211.pdf,false
+GOMBE,AKKO,KUMO NORTH,"HAMMA SHANU, KOFAR JAURO",15/01/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/07/pu/015/015-1677423649.pdf,false
+GOMBE,AKKO,KUMO NORTH,"TONGO SAMBO, KOFAR JAURO",15/01/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/07/pu/013/013-1677423232.pdf,false
+GOMBE,AKKO,KUMO NORTH,"WURO YAYA, K. JAURO",15/01/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/07/pu/007/007-1677421461.pdf,false
+GOMBE,AKKO,KUMO NORTH,"LEMBE WEDDARE, KOFAR JAURO",15/01/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/07/pu/002/002-1677364199.pdf,false

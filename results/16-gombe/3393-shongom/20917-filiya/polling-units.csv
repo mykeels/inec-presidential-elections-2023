@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-GOMBE,SHONGOM,,"YARWANA, KOFAR J/ALHASSAN",15/10/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/44313/44313-1677499369.pdf,false
-GOMBE,SHONGOM,,"YAPILO / YANGA / YELWA, KOFAR J/ADAMU  / DIGA",15/10/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/44312/44312-1677498722.pdf,false
-GOMBE,SHONGOM,,DODIMO/ HAUSAWA KOFAR ALH. AUDU,15/10/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/143309/143309-1677497163.pdf,false
-GOMBE,SHONGOM,,"ANKONBO F. KASA, KOFAR J/ DANBIRAM",15/10/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/44306/44306-1677496721.pdf,false
-GOMBE,SHONGOM,,MATERNITY ANKOMBO F. KASSA K/J/MATI. II,15/10/04/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/143311/143311-1677496279.pdf,false
-GOMBE,SHONGOM,,UNGUWA ROGO K/MAI UNGUWA,15/10/04/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/143312/143312-1677495895.pdf,false
-GOMBE,SHONGOM,,"ANYAKUBI / CHOGE, KOFAR M. AGADI",15/10/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/44308/44308-1677495559.pdf,false
-GOMBE,SHONGOM,,YATAREN K/J ALHASSAN,15/10/04/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/143313/143313-1677495287.pdf,false
-GOMBE,SHONGOM,,"DODIMO / HAUSAWA, KOFAR ALH. AUDU",15/10/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/44305/44305-1677494963.pdf,false
-GOMBE,SHONGOM,,YAKWANDI / FILIYA PRI. SCH.,15/10/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/44302/44302-1677494602.pdf,false
-GOMBE,SHONGOM,,"JAURO SAJO / LABABALE, JAURO SAJO  PRI. SCH.",15/10/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/44310/44310-1677494164.pdf,false
-GOMBE,SHONGOM,,"ANKONBO F. KASA, KOFAR J/ MATI",15/10/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/44307/44307-1677493804.pdf,false
-GOMBE,SHONGOM,,"DIGA / YAGANGA / YABANDI, KOFAR J/MAIKUDI",15/10/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/44311/44311-1677493404.pdf,false
-GOMBE,SHONGOM,,ANYAKUBI/ CHOGE PERO PRI. SCH. II,15/10/04/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/143310/143310-1677493133.pdf,false
-GOMBE,SHONGOM,,"ANYAKUBI / CHOGE,  PERO PRI. SCH.",15/10/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/44309/44309-1677492781.pdf,false
-GOMBE,SHONGOM,,"YAPANDI / CHEWEGE, KOFAR MIYA",15/10/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/44314/44314-1677455873.pdf,false
-GOMBE,SHONGOM,,"DODIMO / HAUSAWA, KOFAR J. /TUKUR",15/10/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/04/pu/003/003-1677359167.pdf,false
-GOMBE,SHONGOM,,"UNGUWA ROGO, KOFAR MAIUNG.",15/10/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/04/pu/002/002-1677359021.pdf,false
+GOMBE,SHONGOM,FILIYA,"YARWANA, KOFAR J/ALHASSAN",15/10/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/44313/44313-1677499369.pdf,false
+GOMBE,SHONGOM,FILIYA,"YAPILO / YANGA / YELWA, KOFAR J/ADAMU  / DIGA",15/10/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/44312/44312-1677498722.pdf,false
+GOMBE,SHONGOM,FILIYA,DODIMO/ HAUSAWA KOFAR ALH. AUDU,15/10/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/143309/143309-1677497163.pdf,false
+GOMBE,SHONGOM,FILIYA,"ANKONBO F. KASA, KOFAR J/ DANBIRAM",15/10/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/44306/44306-1677496721.pdf,false
+GOMBE,SHONGOM,FILIYA,MATERNITY ANKOMBO F. KASSA K/J/MATI. II,15/10/04/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/143311/143311-1677496279.pdf,false
+GOMBE,SHONGOM,FILIYA,UNGUWA ROGO K/MAI UNGUWA,15/10/04/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/143312/143312-1677495895.pdf,false
+GOMBE,SHONGOM,FILIYA,"ANYAKUBI / CHOGE, KOFAR M. AGADI",15/10/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/44308/44308-1677495559.pdf,false
+GOMBE,SHONGOM,FILIYA,YATAREN K/J ALHASSAN,15/10/04/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/143313/143313-1677495287.pdf,false
+GOMBE,SHONGOM,FILIYA,"DODIMO / HAUSAWA, KOFAR ALH. AUDU",15/10/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/44305/44305-1677494963.pdf,false
+GOMBE,SHONGOM,FILIYA,YAKWANDI / FILIYA PRI. SCH.,15/10/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/44302/44302-1677494602.pdf,false
+GOMBE,SHONGOM,FILIYA,"JAURO SAJO / LABABALE, JAURO SAJO  PRI. SCH.",15/10/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/44310/44310-1677494164.pdf,false
+GOMBE,SHONGOM,FILIYA,"ANKONBO F. KASA, KOFAR J/ MATI",15/10/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/44307/44307-1677493804.pdf,false
+GOMBE,SHONGOM,FILIYA,"DIGA / YAGANGA / YABANDI, KOFAR J/MAIKUDI",15/10/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/44311/44311-1677493404.pdf,false
+GOMBE,SHONGOM,FILIYA,ANYAKUBI/ CHOGE PERO PRI. SCH. II,15/10/04/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/143310/143310-1677493133.pdf,false
+GOMBE,SHONGOM,FILIYA,"ANYAKUBI / CHOGE,  PERO PRI. SCH.",15/10/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/44309/44309-1677492781.pdf,false
+GOMBE,SHONGOM,FILIYA,"YAPANDI / CHEWEGE, KOFAR MIYA",15/10/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3393/ward/20917/pu/44314/44314-1677455873.pdf,false
+GOMBE,SHONGOM,FILIYA,"DODIMO / HAUSAWA, KOFAR J. /TUKUR",15/10/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/04/pu/003/003-1677359167.pdf,false
+GOMBE,SHONGOM,FILIYA,"UNGUWA ROGO, KOFAR MAIUNG.",15/10/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/04/pu/002/002-1677359021.pdf,false

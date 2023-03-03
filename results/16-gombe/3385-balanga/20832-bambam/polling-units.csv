@@ -1,23 +1,23 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-GOMBE,BALANGA,,FULOTI PRI. SCH.,15/02/01/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/142757/142757-1677503763.pdf,false
-GOMBE,BALANGA,,"BAJOGA NASARAWO, BAMBAM PRI. SCH.",15/02/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/42836/42836-1677503111.pdf,false
-GOMBE,BALANGA,,"KAKUR, GIDAN GONA",15/02/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/42838/42838-1677502904.pdf,false
-GOMBE,BALANGA,,"GADAMAYO, GADAMAYO K. J.",15/02/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/42840/42840-1677500975.pdf,false
-GOMBE,BALANGA,,"GANGARE, K. MAI UNG. USMAN",15/02/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/42842/42842-1677500829.pdf,false
-GOMBE,BALANGA,,"TIKEN SHANU POST OFFICE, BAMBAM",15/02/01/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/142758/142758-1677500277.pdf,false
-GOMBE,BALANGA,,"GADAMAYO, GADAMAYO PRY. SCH.",15/02/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/42839/42839-1677499677.pdf,false
-GOMBE,BALANGA,,KASHARE BAMBAM OPEN SPACE,15/02/01/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/142759/142759-1677499467.pdf,false
-GOMBE,BALANGA,,GADAMAYO OPEN SPACE,15/02/01/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/142755/142755-1677499266.pdf,false
-GOMBE,BALANGA,,KWATA BAMBAM,15/02/01/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/142761/142761-1677498991.pdf,false
-GOMBE,BALANGA,,YARABAAWA,15/02/01/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/142763/142763-1677498449.pdf,false
-GOMBE,BALANGA,,"YARABAWA/GALADIMA, K. SARKI",15/02/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/42837/42837-1677498134.pdf,false
-GOMBE,BALANGA,,UNG. LAMBAWA BAMBAM,15/02/01/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/142760/142760-1677496978.pdf,false
-GOMBE,BALANGA,,"TALIYAYI, SARKIN ASKA",15/02/01/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/142762/142762-1677496102.pdf,false
-GOMBE,BALANGA,,GADAMAYO VOCATIONAL SCHOOL,15/02/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/142754/142754-1677495661.pdf,false
-GOMBE,BALANGA,,"JAURO TUKUR, K. JAURO TUKUR",15/02/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/42841/42841-1677494886.pdf,false
-GOMBE,BALANGA,,"BAKIN KASUWA, KOFAR MAI UNG.",15/02/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/42831/42831-1677494029.pdf,false
-GOMBE,BALANGA,,"BAJOGA GADAMAYO, KOFAR ADAMU",15/02/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/42834/42834-1677492624.pdf,false
-GOMBE,BALANGA,,"UNG. FARUK, DISPENSARY",15/02/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/42832/42832-1677492288.pdf,false
-GOMBE,BALANGA,,"GODOBE YULO, POST OFFICE",15/02/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/42835/42835-1677491832.pdf,false
-GOMBE,BALANGA,,"TALIYAYI, COURT HOUSE",15/02/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/42833/42833-1677490406.pdf,false
-GOMBE,BALANGA,,YULU PRI. SCH.,15/02/01/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/01/pu/015/015-1677392928.pdf,false
+GOMBE,BALANGA,BAMBAM,FULOTI PRI. SCH.,15/02/01/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/142757/142757-1677503763.pdf,false
+GOMBE,BALANGA,BAMBAM,"BAJOGA NASARAWO, BAMBAM PRI. SCH.",15/02/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/42836/42836-1677503111.pdf,false
+GOMBE,BALANGA,BAMBAM,"KAKUR, GIDAN GONA",15/02/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/42838/42838-1677502904.pdf,false
+GOMBE,BALANGA,BAMBAM,"GADAMAYO, GADAMAYO K. J.",15/02/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/42840/42840-1677500975.pdf,false
+GOMBE,BALANGA,BAMBAM,"GANGARE, K. MAI UNG. USMAN",15/02/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/42842/42842-1677500829.pdf,false
+GOMBE,BALANGA,BAMBAM,"TIKEN SHANU POST OFFICE, BAMBAM",15/02/01/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/142758/142758-1677500277.pdf,false
+GOMBE,BALANGA,BAMBAM,"GADAMAYO, GADAMAYO PRY. SCH.",15/02/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/42839/42839-1677499677.pdf,false
+GOMBE,BALANGA,BAMBAM,KASHARE BAMBAM OPEN SPACE,15/02/01/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/142759/142759-1677499467.pdf,false
+GOMBE,BALANGA,BAMBAM,GADAMAYO OPEN SPACE,15/02/01/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/142755/142755-1677499266.pdf,false
+GOMBE,BALANGA,BAMBAM,KWATA BAMBAM,15/02/01/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/142761/142761-1677498991.pdf,false
+GOMBE,BALANGA,BAMBAM,YARABAAWA,15/02/01/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/142763/142763-1677498449.pdf,false
+GOMBE,BALANGA,BAMBAM,"YARABAWA/GALADIMA, K. SARKI",15/02/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/42837/42837-1677498134.pdf,false
+GOMBE,BALANGA,BAMBAM,UNG. LAMBAWA BAMBAM,15/02/01/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/142760/142760-1677496978.pdf,false
+GOMBE,BALANGA,BAMBAM,"TALIYAYI, SARKIN ASKA",15/02/01/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/142762/142762-1677496102.pdf,false
+GOMBE,BALANGA,BAMBAM,GADAMAYO VOCATIONAL SCHOOL,15/02/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/142754/142754-1677495661.pdf,false
+GOMBE,BALANGA,BAMBAM,"JAURO TUKUR, K. JAURO TUKUR",15/02/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/42841/42841-1677494886.pdf,false
+GOMBE,BALANGA,BAMBAM,"BAKIN KASUWA, KOFAR MAI UNG.",15/02/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/42831/42831-1677494029.pdf,false
+GOMBE,BALANGA,BAMBAM,"BAJOGA GADAMAYO, KOFAR ADAMU",15/02/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/42834/42834-1677492624.pdf,false
+GOMBE,BALANGA,BAMBAM,"UNG. FARUK, DISPENSARY",15/02/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/42832/42832-1677492288.pdf,false
+GOMBE,BALANGA,BAMBAM,"GODOBE YULO, POST OFFICE",15/02/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/42835/42835-1677491832.pdf,false
+GOMBE,BALANGA,BAMBAM,"TALIYAYI, COURT HOUSE",15/02/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3385/ward/20832/pu/42833/42833-1677490406.pdf,false
+GOMBE,BALANGA,BAMBAM,YULU PRI. SCH.,15/02/01/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/01/pu/015/015-1677392928.pdf,false

@@ -1,17 +1,17 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-GOMBE,DUKKU,,DAMINYA DAN BURAM I,15/04/04/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/142897/142897-1677661324.pdf,true
-GOMBE,DUKKU,,"JAGALIWOL, KUNDE MATERNITY",15/04/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/43212/43212-1677527429.pdf,false
-GOMBE,DUKKU,,"WURO BALI, KOFAR S. WURO BALI",15/04/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/43224/43224-1677527265.pdf,false
-GOMBE,DUKKU,,"JANGIRA, KOFAR SARKI GASKAHE",15/04/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/43223/43223-1677527132.pdf,false
-GOMBE,DUKKU,,"JANGIRA, JANGIRA PRI. SCH.",15/04/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/43222/43222-1677526991.pdf,false
-GOMBE,DUKKU,,"WALOWA ARDO, KOFAR ARDO",15/04/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/43220/43220-1677526815.pdf,false
-GOMBE,DUKKU,,"KOKKOBE, KOFAR S. KOKKOBE",15/04/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/43219/43219-1677526699.pdf,false
-GOMBE,DUKKU,,"DAMINYA, DAN BURAM",15/04/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/43218/43218-1677526514.pdf,false
-GOMBE,DUKKU,,"SEBIDU, PRI. SCH.",15/04/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/43216/43216-1677526381.pdf,false
-GOMBE,DUKKU,,"ZEGO, ZEGO DISPENSARY",15/04/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/43215/43215-1677526268.pdf,false
-GOMBE,DUKKU,,"BAWA, KOFAR MAI UNG. JIBO",15/04/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/43214/43214-1677526145.pdf,false
-GOMBE,DUKKU,,"WALOWA MAUDE, KOFAR MAUDE",15/04/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/43221/43221-1677523690.pdf,false
-GOMBE,DUKKU,,"SEBIDU, KOFAR DAN BURAM",15/04/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/43217/43217-1677523544.pdf,false
-GOMBE,DUKKU,,"WURO NYOLDE, KOFAR ARDO",15/04/04/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/43225/43225-1677523372.pdf,false
-GOMBE,DUKKU,,"BAWA, BAWA PRI. SCH.",15/04/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/43213/43213-1677523170.pdf,false
-GOMBE,DUKKU,,"CHIROMA, KUNDE PRI. S CH.",15/04/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/43211/43211-1677522612.pdf,false
+GOMBE,DUKKU,KUNDE,DAMINYA DAN BURAM I,15/04/04/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/142897/142897-1677661324.pdf,true
+GOMBE,DUKKU,KUNDE,"JAGALIWOL, KUNDE MATERNITY",15/04/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/43212/43212-1677527429.pdf,false
+GOMBE,DUKKU,KUNDE,"WURO BALI, KOFAR S. WURO BALI",15/04/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/43224/43224-1677527265.pdf,false
+GOMBE,DUKKU,KUNDE,"JANGIRA, KOFAR SARKI GASKAHE",15/04/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/43223/43223-1677527132.pdf,false
+GOMBE,DUKKU,KUNDE,"JANGIRA, JANGIRA PRI. SCH.",15/04/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/43222/43222-1677526991.pdf,false
+GOMBE,DUKKU,KUNDE,"WALOWA ARDO, KOFAR ARDO",15/04/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/43220/43220-1677526815.pdf,false
+GOMBE,DUKKU,KUNDE,"KOKKOBE, KOFAR S. KOKKOBE",15/04/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/43219/43219-1677526699.pdf,false
+GOMBE,DUKKU,KUNDE,"DAMINYA, DAN BURAM",15/04/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/43218/43218-1677526514.pdf,false
+GOMBE,DUKKU,KUNDE,"SEBIDU, PRI. SCH.",15/04/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/43216/43216-1677526381.pdf,false
+GOMBE,DUKKU,KUNDE,"ZEGO, ZEGO DISPENSARY",15/04/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/43215/43215-1677526268.pdf,false
+GOMBE,DUKKU,KUNDE,"BAWA, KOFAR MAI UNG. JIBO",15/04/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/43214/43214-1677526145.pdf,false
+GOMBE,DUKKU,KUNDE,"WALOWA MAUDE, KOFAR MAUDE",15/04/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/43221/43221-1677523690.pdf,false
+GOMBE,DUKKU,KUNDE,"SEBIDU, KOFAR DAN BURAM",15/04/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/43217/43217-1677523544.pdf,false
+GOMBE,DUKKU,KUNDE,"WURO NYOLDE, KOFAR ARDO",15/04/04/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/43225/43225-1677523372.pdf,false
+GOMBE,DUKKU,KUNDE,"BAWA, BAWA PRI. SCH.",15/04/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/43213/43213-1677523170.pdf,false
+GOMBE,DUKKU,KUNDE,"CHIROMA, KUNDE PRI. S CH.",15/04/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3387/ward/20855/pu/43211/43211-1677522612.pdf,false

@@ -1,16 +1,16 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-GOMBE,FUNAKAYE,,"GARIN ALKALI, KOFAR JAURO",15/05/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20872/pu/43583/43583-1677520935.pdf,false
-GOMBE,FUNAKAYE,,"ZONGOMA KARI, PRIMARY SCHOOL",15/05/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20872/pu/43578/43578-1677520558.pdf,false
-GOMBE,FUNAKAYE,,"ZAZIMARI, KOFAR JAURO",15/05/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20872/pu/43581/43581-1677520274.pdf,false
-GOMBE,FUNAKAYE,,"ZONGOMA KARI, KOFAR SARKI",15/05/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20872/pu/43577/43577-1677519675.pdf,false
-GOMBE,FUNAKAYE,,"UNG. GALADIMA, KOFAR GALADIMA",15/05/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/002/002-1677397132.pdf,false
-GOMBE,FUNAKAYE,,"UNG. MADAKI WAWA, PRIMARY SCHOOL",15/05/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/001/001-1677394828.pdf,false
-GOMBE,FUNAKAYE,,"KOMI BOLEWA, PRIMARY SCHOOL",15/05/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/005/005-1677394705.pdf,false
-GOMBE,FUNAKAYE,,"UNG. FULANI, KOFAR MAI UNG.",15/05/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/003/003-1677394189.pdf,false
-GOMBE,FUNAKAYE,,"UNG. MADAKI, DISPENSARY",15/05/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/015/015-1677393974.pdf,false
-GOMBE,FUNAKAYE,,"KOMI KUFAYI, KOFAR HARUNA",15/05/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/014/014-1677393805.pdf,false
-GOMBE,FUNAKAYE,,"KOMI BOLEWA, KOFAR SARKI",15/05/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/006/006-1677393434.pdf,false
-GOMBE,FUNAKAYE,,"UNG.  SARKI YAKI, KOFAR SARKI YAKI",15/05/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/004/004-1677392658.pdf,false
-GOMBE,FUNAKAYE,,"UNG. GALADIMA, KOFAR GALADIMA",15/05/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/010/010-1677392042.pdf,false
-GOMBE,FUNAKAYE,,"BOGGA REDUWA, KOFAR JAURO",15/05/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/012/012-1677391617.pdf,false
-GOMBE,FUNAKAYE,,"WAKKALTU, PRIMARY SCHOOL",15/05/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/009/009-1677391545.pdf,false
+GOMBE,FUNAKAYE,WAWA / WAKKULUTU,"GARIN ALKALI, KOFAR JAURO",15/05/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20872/pu/43583/43583-1677520935.pdf,false
+GOMBE,FUNAKAYE,WAWA / WAKKULUTU,"ZONGOMA KARI, PRIMARY SCHOOL",15/05/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20872/pu/43578/43578-1677520558.pdf,false
+GOMBE,FUNAKAYE,WAWA / WAKKULUTU,"ZAZIMARI, KOFAR JAURO",15/05/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20872/pu/43581/43581-1677520274.pdf,false
+GOMBE,FUNAKAYE,WAWA / WAKKULUTU,"ZONGOMA KARI, KOFAR SARKI",15/05/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3388/ward/20872/pu/43577/43577-1677519675.pdf,false
+GOMBE,FUNAKAYE,WAWA / WAKKULUTU,"UNG. GALADIMA, KOFAR GALADIMA",15/05/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/002/002-1677397132.pdf,false
+GOMBE,FUNAKAYE,WAWA / WAKKULUTU,"UNG. MADAKI WAWA, PRIMARY SCHOOL",15/05/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/001/001-1677394828.pdf,false
+GOMBE,FUNAKAYE,WAWA / WAKKULUTU,"KOMI BOLEWA, PRIMARY SCHOOL",15/05/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/005/005-1677394705.pdf,false
+GOMBE,FUNAKAYE,WAWA / WAKKULUTU,"UNG. FULANI, KOFAR MAI UNG.",15/05/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/003/003-1677394189.pdf,false
+GOMBE,FUNAKAYE,WAWA / WAKKULUTU,"UNG. MADAKI, DISPENSARY",15/05/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/015/015-1677393974.pdf,false
+GOMBE,FUNAKAYE,WAWA / WAKKULUTU,"KOMI KUFAYI, KOFAR HARUNA",15/05/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/014/014-1677393805.pdf,false
+GOMBE,FUNAKAYE,WAWA / WAKKULUTU,"KOMI BOLEWA, KOFAR SARKI",15/05/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/006/006-1677393434.pdf,false
+GOMBE,FUNAKAYE,WAWA / WAKKULUTU,"UNG.  SARKI YAKI, KOFAR SARKI YAKI",15/05/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/004/004-1677392658.pdf,false
+GOMBE,FUNAKAYE,WAWA / WAKKULUTU,"UNG. GALADIMA, KOFAR GALADIMA",15/05/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/010/010-1677392042.pdf,false
+GOMBE,FUNAKAYE,WAWA / WAKKULUTU,"BOGGA REDUWA, KOFAR JAURO",15/05/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/012/012-1677391617.pdf,false
+GOMBE,FUNAKAYE,WAWA / WAKKULUTU,"WAKKALTU, PRIMARY SCHOOL",15/05/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/009/009-1677391545.pdf,false
