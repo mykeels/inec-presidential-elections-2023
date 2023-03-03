@@ -1,0 +1,19 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+JIGAWA,GUMEL,,NASORO PRI. SCH,17/09/07/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3430/ward/21331/pu/144562/144562-1677745520.pdf,true
+JIGAWA,GUMEL,,GUSAU K/G  IBRA SOJA,17/09/07/006,,true
+JIGAWA,GUMEL,,GUSAU FALWAYAR YANDARU,17/09/07/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49343/result_108029_1677518551_thumb.jpg,false
+JIGAWA,GUMEL,,FAUWAYAR YANDARU II,17/09/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/07/pu/016/016-1677422747.pdf,false
+JIGAWA,GUMEL,,GUSAU KOFAR MAIDORI,17/09/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/07/pu/003/003-1677421532.pdf,false
+JIGAWA,GUMEL,,GUSAU SAHARA,17/09/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/07/pu/001/001-1677413525.pdf,false
+JIGAWA,GUMEL,,GUSAU SHAGON KWAMARADO,17/09/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/07/pu/002/002-1677402061.pdf,false
+JIGAWA,GUMEL,,GUSAU GIDAN OSTA,17/09/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/07/pu/010/010-1677400209.pdf,false
+JIGAWA,GUMEL,,GUSAU K/G SULE DINDI,17/09/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/07/pu/004/004-1677393636.pdf,false
+JIGAWA,GUMEL,,AHMED MUHD SANI PRI SCH  NASSARAWA,17/09/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/07/pu/017/017-1677392340.pdf,false
+JIGAWA,GUMEL,,GUSAU K/GIDAN  HAJIYA TABAWA,17/09/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/07/pu/005/005-1677392260.pdf,false
+JIGAWA,GUMEL,,GUSAU GIDAN MAGUL,17/09/07/008,,false
+JIGAWA,GUMEL,,GUSAU NITEL,17/09/07/013,,false
+JIGAWA,GUMEL,,GUSAU GIDAN HAJIYA TABAWA,17/09/07/011,,false
+JIGAWA,GUMEL,,ABUJA PRI SCH  (OLD KWATA),17/09/07/014,,false
+JIGAWA,GUMEL,,GUSAU TSAMIYAR OSI,17/09/07/007,,false
+JIGAWA,GUMEL,,ABUJA PRI SCH I (OLD KWATA),17/09/07/012,,false
+JIGAWA,GUMEL,,TSAMIYAR OSI II,17/09/07/015,,false

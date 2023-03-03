@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+JIGAWA,KAUGAMA,,HADIN PRI. SCH./HADIN  I,17/16/05/001,,true
+JIGAWA,KAUGAMA,,HADIN PRI. SCH./ HADIN  III,17/16/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21405/pu/50423/50423-1677614768.pdf,true
+JIGAWA,KAUGAMA,,DINGARE PRI. SCH./ DINGARE,17/16/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21405/pu/50424/50424-1677612832.pdf,false
+JIGAWA,KAUGAMA,,JSS HADIN III,17/16/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21405/pu/144804/144804-1677611867.pdf,false
+JIGAWA,KAUGAMA,,TAURA PRI. SCH./ TAURA BABBA,17/16/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21405/pu/50425/50425-1677609874.pdf,true
+JIGAWA,KAUGAMA,,KATAUDAWA,17/16/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21405/pu/144803/144803-1677605852.pdf,true
+JIGAWA,KAUGAMA,,TAURA GABAS,17/16/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21405/pu/50426/50426-1677602787.pdf,false
+JIGAWA,KAUGAMA,,HADIN PRI. SCH./ HADIN  II,17/16/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21405/pu/50422/50422-1677593232.pdf,true
+JIGAWA,KAUGAMA,,JSS HADIN I,17/16/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3437/ward/21405/pu/144802/144802-1677499389.pdf,false

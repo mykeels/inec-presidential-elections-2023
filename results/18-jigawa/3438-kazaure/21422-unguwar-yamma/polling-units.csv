@@ -1,0 +1,14 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+JIGAWA,KAZAURE,,KOFAR USAINI CUSTOM/FILI,17/17/11/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640087/result_109505_1677507336_thumb.jpg,true
+JIGAWA,KAZAURE,,BIRRIL WALIDAINI ISLAMIYYA KANTUDU,17/17/11/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640089/result_109507_1677507326_thumb.jpg,false
+JIGAWA,KAZAURE,,KOFAR MADAKI/LOKON MADAKI,17/17/11/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640088/result_109506_1677510668_thumb.jpg,false
+JIGAWA,KAZAURE,,KOFAR WANDAWA / KANTUDU,17/17/11/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50493/result_109501_1677506195_thumb.jpg,true
+JIGAWA,KAZAURE,,MAGAMA/MAGAMA,17/17/11/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50489/result_109497_1677509934_thumb.jpg,false
+JIGAWA,KAZAURE,,GIDAN RUWA/FOFAR GARI GANGULI,17/17/11/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640084/result_109502_1677508076_thumb.jpg,false
+JIGAWA,KAZAURE,,GWALE VET./UNG. KAURA,17/17/11/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50490/result_109498_1677509259_thumb.jpg,false
+JIGAWA,KAZAURE,,K/YARIMA / UNGUWAR YARIMAWA,17/17/11/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50492/result_109500_1677509166_thumb.jpg,true
+JIGAWA,KAZAURE,,KOFAR MA'AJI MAGAMA,17/17/11/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640085/result_109503_1677507981_thumb.jpg,false
+JIGAWA,KAZAURE,,KOFAR ALH. BAGARI/YARIMAWA,17/17/11/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640086/result_109504_1677506816_thumb.jpg,false
+JIGAWA,KAZAURE,,K/WAKILI YAMMA/UNG. YAMMA,17/17/11/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50491/result_109499_1677505427_thumb.jpg,true
+JIGAWA,KAZAURE,,K/MAIUNGUWA/GANGULI  KUDU,17/17/11/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/50488/result_109496_1677510579_thumb.jpg,true
+JIGAWA,KAZAURE,,KOFAR DANMADAMI,17/17/11/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/640090/result_109508_1677505417_thumb.jpg,true

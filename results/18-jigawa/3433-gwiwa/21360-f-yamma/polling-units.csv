@@ -1,0 +1,7 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+JIGAWA,GWIWA,,KURMA RUWA PRI. SCH./KURAMAN RUWA,17/12/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/49732/result_108520_1677545197_thumb.jpg,true
+JIGAWA,GWIWA,,BENGEL/BENGEL,17/12/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,true
+JIGAWA,GWIWA,,WAAILARE CIKIN GARI/ WAILARE,17/12/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/04/pu/004/004-1677401095.pdf,false
+JIGAWA,GWIWA,,FIRJI YAMMA II,17/12/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/04/pu/005/005-1677400348.pdf,false
+JIGAWA,GWIWA,,FIRJI YAMMA III,17/12/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/04/pu/006/006-1677393762.pdf,false
+JIGAWA,GWIWA,,FURJI YAMMA C/GARI/FURJI YAMMA,17/12/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/04/pu/002/002-1677379302.pdf,false
