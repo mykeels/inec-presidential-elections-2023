@@ -1,0 +1,14 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+OYO,ITESIWAJU,KOMU,"BAPTIST SCH, KOMO",30/17/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+OYO,ITESIWAJU,KOMU,"COURT HALL, KOMU",30/17/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/101763/result_88847_1677661975_thumb.jpg,false
+OYO,ITESIWAJU,KOMU,"ADS SCHOOL, KOMU",30/17/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/664612/result_88855_1677534975_thumb.jpg,true
+OYO,ITESIWAJU,KOMU,"COMMUNITY SCHOOL, TEMIDIRE",30/17/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/101769/result_88853_1677612526_thumb.jpg,false
+OYO,ITESIWAJU,KOMU,"COMMUNITY SCHOOL, ATOOGUN",30/17/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/101768/result_88852_1677612026_thumb.jpg,false
+OYO,ITESIWAJU,KOMU,ABUJA LEATHER/TOWN HALL,30/17/04/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/664614/result_88858_1677611745_thumb.jpg,false
+OYO,ITESIWAJU,KOMU,OLUNLADE,30/17/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+OYO,ITESIWAJU,KOMU,ABA OTUN,30/17/04/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/101766/result_88850_1677611310_thumb.jpg,false
+OYO,ITESIWAJU,KOMU,IFERIN/OLOGEDE/ILEPO,30/17/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/101765/result_88849_1677611053_thumb.jpg,false
+OYO,ITESIWAJU,KOMU,ADEGBODU/OLOPOTO,30/17/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/101764/result_88848_1677602203_thumb.jpg,false
+OYO,ITESIWAJU,KOMU,AKOKO/KOROYI,30/17/04/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/101770/result_88854_1677600421_thumb.jpg,false
+OYO,ITESIWAJU,KOMU,OPEN SPACE MATERNITY,30/17/04/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/664611/result_88856_1677598744_thumb.jpg,false
+OYO,ITESIWAJU,KOMU,AGET OPEN SPACE,30/17/04/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/664613/result_88857_1677598083_thumb.jpg,false

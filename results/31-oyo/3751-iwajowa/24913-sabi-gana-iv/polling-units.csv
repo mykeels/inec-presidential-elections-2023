@@ -1,0 +1,12 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+OYO,IWAJOWA,SABI GANA IV,ABULE TAPA,30/18/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3751/ward/24913/pu/103036/103036-1677593921.pdf,false
+OYO,IWAJOWA,SABI GANA IV,OLOKUNOLA VILLAGE,30/18/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3751/ward/24913/pu/103034/103034-1677593734.pdf,true
+OYO,IWAJOWA,SABI GANA IV,BALOGUN VILLAGE,30/18/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3751/ward/24913/pu/103035/103035-1677593753.pdf,false
+OYO,IWAJOWA,SABI GANA IV,"COMMUNITY PRIMARY SCHOOL, ADEJUMO",30/18/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3751/ward/24913/pu/103033/103033-1677593401.pdf,true
+OYO,IWAJOWA,SABI GANA IV,KARIMU VILLAGE,30/18/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3751/ward/24913/pu/103032/103032-1677593368.pdf,true
+OYO,IWAJOWA,SABI GANA IV,"COMMUNITY PRIMARY SCHOOL, ADEOGBA",30/18/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3751/ward/24913/pu/103031/103031-1677593196.pdf,true
+OYO,IWAJOWA,SABI GANA IV,"COMMUNITY PRIMARY SCHOOL, INAMERE",30/18/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3751/ward/24913/pu/103030/103030-1677593040.pdf,true
+OYO,IWAJOWA,SABI GANA IV,ELEKOKAN VILLAGE II,30/18/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3751/ward/24913/pu/103029/103029-1677592896.pdf,true
+OYO,IWAJOWA,SABI GANA IV,ELEKOKAN VILLAGE I,30/18/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3751/ward/24913/pu/103028/103028-1677592578.pdf,true
+OYO,IWAJOWA,SABI GANA IV,"COMMUNITY PRIMARY SCHOOL, ELEKOKAN II",30/18/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3751/ward/24913/pu/103027/103027-1677592197.pdf,false
+OYO,IWAJOWA,SABI GANA IV,"COMMUNITY PRIMARY SCHOOL, ELEKOKAN I",30/18/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3751/ward/24913/pu/103026/103026-1677590980.pdf,false

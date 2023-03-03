@@ -1,0 +1,15 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+OYO,OGBOMOSO SOUTH,ILOGBO,ODE OLOGBO/KOLARA I,30/22/07/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/102441/result_89704_1677689519_thumb.jpg,false
+OYO,OGBOMOSO SOUTH,ILOGBO,ODE OLOGBO II,30/22/07/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/102443/result_89706_1677689360_thumb.jpg,false
+OYO,OGBOMOSO SOUTH,ILOGBO,ODE AREMU II,30/22/07/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/102447/result_89710_1677689245_thumb.jpg,false
+OYO,OGBOMOSO SOUTH,ILOGBO,ODE LEKEWOGBE I,30/22/07/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/102448/result_89711_1677689137_thumb.jpg,false
+OYO,OGBOMOSO SOUTH,ILOGBO,CUSTOMARY COURT II,30/22/07/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/102451/result_89714_1677688938_thumb.jpg,false
+OYO,OGBOMOSO SOUTH,ILOGBO,CUSTOMARY COURT III,30/22/07/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+OYO,OGBOMOSO SOUTH,ILOGBO,CUSTOMARY COURT V,30/22/07/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/102454/result_89717_1677688521_thumb.jpg,false
+OYO,OGBOMOSO SOUTH,ILOGBO,CUSTOMARY COURT IV,30/22/07/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/102453/result_89716_1677688331_thumb.jpg,false
+OYO,OGBOMOSO SOUTH,ILOGBO,CUSTOMARY COURT I,30/22/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3755/ward/24955/pu/103548/103548-1677657466.pdf,false
+OYO,OGBOMOSO SOUTH,ILOGBO,ODE LEKEWOGBE II,30/22/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3755/ward/24955/pu/103547/103547-1677606909.pdf,true
+OYO,OGBOMOSO SOUTH,ILOGBO,ODE OLOPETE II,30/22/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/07/pu/005/005-1677428573.pdf,false
+OYO,OGBOMOSO SOUTH,ILOGBO,ODE AREMU I,30/22/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/07/pu/006/006-1677427616.pdf,false
+OYO,OGBOMOSO SOUTH,ILOGBO,ODE OLOGBO/KOLARA II,30/22/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/07/pu/002/002-1677403297.pdf,false
+OYO,OGBOMOSO SOUTH,ILOGBO,ODE OLOPETE I,30/22/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/07/pu/004/004-1677396209.pdf,false

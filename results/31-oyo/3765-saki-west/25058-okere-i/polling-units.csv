@@ -1,0 +1,14 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+OYO,SAKI WEST,OKERE I,ILE OYE OKE DAODU III,30/32/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3765/ward/25058/pu/104612/104612-1677704779.pdf,true
+OYO,SAKI WEST,OKERE I,ILE OYE OKE DAODU II,30/32/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/32/ward/08/pu/004/004-1677411362.pdf,false
+OYO,SAKI WEST,OKERE I,JANGBADI I,30/32/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/32/ward/08/pu/012/012-1677409720.pdf,false
+OYO,SAKI WEST,OKERE I,ILE OYE OKE DAODU I,30/32/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/32/ward/08/pu/003/003-1677408622.pdf,false
+OYO,SAKI WEST,OKERE I,OGBOGBO IBUKE I,30/32/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/32/ward/08/pu/010/010-1677406402.pdf,false
+OYO,SAKI WEST,OKERE I,JANGBADI II,30/32/08/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/32/ward/08/pu/013/013-1677403927.pdf,false
+OYO,SAKI WEST,OKERE I,IDI-AGBON I,30/32/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/32/ward/08/pu/006/006-1677403281.pdf,false
+OYO,SAKI WEST,OKERE I,ADABO MARKET II,30/32/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/32/ward/08/pu/009/009-1677403228.pdf,false
+OYO,SAKI WEST,OKERE I,ADABO MARKET I,30/32/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/32/ward/08/pu/008/008-1677402850.pdf,false
+OYO,SAKI WEST,OKERE I,OGBOGBO IBUKE II,30/32/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/32/ward/08/pu/011/011-1677401905.pdf,false
+OYO,SAKI WEST,OKERE I,IDI-AGBON II,30/32/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/32/ward/08/pu/007/007-1677399113.pdf,false
+OYO,SAKI WEST,OKERE I,TOWN HALL I,30/32/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/32/ward/08/pu/001/001-1677396817.pdf,false
+OYO,SAKI WEST,OKERE I,TOWN HALL II,30/32/08/002,,false

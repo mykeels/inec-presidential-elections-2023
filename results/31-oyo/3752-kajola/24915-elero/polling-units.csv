@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+OYO,KAJOLA,ELERO,GBENAGBENA COMPOUND,30/19/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3752/ward/24915/pu/103046/103046-1677606144.pdf,true
+OYO,KAJOLA,ELERO,ERO COMPOUND,30/19/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3752/ward/24915/pu/103047/103047-1677604657.pdf,true
+OYO,KAJOLA,ELERO,"2ND BAPTIST SCHOOL, OJETE ILERO",30/19/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/02/pu/009/009-1677409194.pdf,false
+OYO,KAJOLA,ELERO,"MATERNITY CENTRE, ILERO",30/19/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/02/pu/008/008-1677408413.pdf,false
+OYO,KAJOLA,ELERO,ALAMURO COMPOUND II,30/19/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/02/pu/007/007-1677407562.pdf,false
+OYO,KAJOLA,ELERO,ALAMURO COMPOUND I,30/19/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/02/pu/006/006-1677407098.pdf,false
+OYO,KAJOLA,ELERO,AGBERO COMPOUND,30/19/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/02/pu/005/005-1677406362.pdf,false
+OYO,KAJOLA,ELERO,OLUKOTUN/ONILU COMPOUND,30/19/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/02/pu/002/002-1677402373.pdf,false
+OYO,KAJOLA,ELERO,IGBO COMPOUND,30/19/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/02/pu/001/001-1677400663.pdf,false

@@ -1,0 +1,7 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+OYO,OLORUNSOGO,WARO/APATA-ALAJE,KUNBI AMUDA,30/24/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3757/ward/24978/pu/103741/103741-1677593053.pdf,true
+OYO,OLORUNSOGO,WARO/APATA-ALAJE,OLUPO,30/24/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3757/ward/24978/pu/103742/103742-1677591836.pdf,false
+OYO,OLORUNSOGO,WARO/APATA-ALAJE,PAKOKO/WARO,30/24/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/10/pu/006/006-1677369485.pdf,false
+OYO,OLORUNSOGO,WARO/APATA-ALAJE,KARAMO,30/24/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/10/pu/003/003-1677368663.pdf,false
+OYO,OLORUNSOGO,WARO/APATA-ALAJE,OJO ARO,30/24/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/10/pu/002/002-1677368035.pdf,false
+OYO,OLORUNSOGO,WARO/APATA-ALAJE,APATA ALAJE,30/24/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/10/pu/001/001-1677364802.pdf,false

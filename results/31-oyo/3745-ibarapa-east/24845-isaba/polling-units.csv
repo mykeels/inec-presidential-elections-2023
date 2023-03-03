@@ -1,0 +1,11 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+OYO,IBARAPA EAST,ISABA,OLAORE COMPOUND I,30/12/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/101162/result_88027_1677671810_thumb.jpg,true
+OYO,IBARAPA EAST,ISABA,OLAORE COMPOUND II,30/12/03/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/101163/result_88028_1677671767_thumb.jpg,true
+OYO,IBARAPA EAST,ISABA,"BAPTIST SCHOOL, ISABA I",30/12/03/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/101164/result_88029_1677671718_thumb.jpg,true
+OYO,IBARAPA EAST,ISABA,"BAPTIST SCHOOL, ISABA II",30/12/03/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/101165/result_88030_1677671667_thumb.jpg,true
+OYO,IBARAPA EAST,ISABA,"METHODIST SCHOOL, AGOAJALA",30/12/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/101166/result_88031_1677671301_thumb.jpg,true
+OYO,IBARAPA EAST,ISABA,ALONLE VILLAGE I,30/12/03/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/101167/result_88032_1677671239_thumb.jpg,true
+OYO,IBARAPA EAST,ISABA,ALONLE VILLAGE (AIGBEDE),30/12/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3745/ward/24845/pu/102268/102268-1677488318.pdf,false
+OYO,IBARAPA EAST,ISABA,LAWOORE VILLAGE II,30/12/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3745/ward/24845/pu/102270/102270-1677487798.pdf,false
+OYO,IBARAPA EAST,ISABA,IDI-OPE VILLAGE,30/12/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3745/ward/24845/pu/102271/102271-1677487116.pdf,false
+OYO,IBARAPA EAST,ISABA,LAWOORE VILLAGE I,30/12/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3745/ward/24845/pu/102269/102269-1677486619.pdf,false
