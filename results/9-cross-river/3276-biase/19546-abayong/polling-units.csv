@@ -1,0 +1,13 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+CROSS RIVER,BIASE,ABAYONG,ABREDANG UWOM ASE OBAI,09/06/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3276/ward/19546/pu/26914/26914-1677759448.pdf,true
+CROSS RIVER,BIASE,ABAYONG,"PRIMARY SCHOOL, ABAMBA",09/06/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3276/ward/19546/pu/26915/26915-1677759192.pdf,true
+CROSS RIVER,BIASE,ABAYONG,"PLAYGROUND, ABRIJANG",09/06/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3276/ward/19546/pu/26916/26916-1677758929.pdf,true
+CROSS RIVER,BIASE,ABAYONG,"PLAYGROUND, ABAPIA",09/06/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3276/ward/19546/pu/26917/26917-1677758659.pdf,true
+CROSS RIVER,BIASE,ABAYONG,"PLAYGROUND, ABARIBARA",09/06/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3276/ward/19546/pu/26918/26918-1677758396.pdf,true
+CROSS RIVER,BIASE,ABAYONG,PLAYGROUND ABARIBARA II,09/06/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3276/ward/19546/pu/135272/135272-1677758144.pdf,true
+CROSS RIVER,BIASE,ABAYONG,"PLAYGROUND, ABREDANG",09/06/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26901/result_252271_1677573438_thumb.jpg,false
+CROSS RIVER,BIASE,ABAYONG,"PRIMARY SCHOOL, IJOM",09/06/01/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26907/result_252277_1677573323_thumb.jpg,false
+CROSS RIVER,BIASE,ABAYONG,"PLAYGROUND, INUK",09/06/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26900/result_252270_1677573529_thumb.jpg,false
+CROSS RIVER,BIASE,ABAYONG,"PLAYGROUND, IJOM I",09/06/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26897/result_252267_1677573802_thumb.jpg,false
+CROSS RIVER,BIASE,ABAYONG,"PLAYGROUND, IJOM II",09/06/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26898/result_252268_1677573722_thumb.jpg,false
+CROSS RIVER,BIASE,ABAYONG,"PLAYGROUND, IJOM III",09/06/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26899/result_252269_1677573627_thumb.jpg,false
