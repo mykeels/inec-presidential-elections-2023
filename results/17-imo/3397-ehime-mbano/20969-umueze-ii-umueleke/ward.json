@@ -17,5 +17,7 @@
   "ward_id": 20969,
   "created_at": "2020-07-15T17:26:13.194Z",
   "updated_at": "2020-07-15T17:26:13.194Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "IMO",
+  "lga_name": "EHIME MBANO"
 }

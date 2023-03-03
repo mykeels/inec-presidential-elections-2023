@@ -17,5 +17,7 @@
   "ward_id": 20951,
   "created_at": "2020-07-15T17:26:08.168Z",
   "updated_at": "2020-07-15T17:26:08.168Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "IMO",
+  "lga_name": "AHIAZU MBAISE"
 }

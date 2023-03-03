@@ -17,5 +17,7 @@
   "ward_id": 21055,
   "created_at": "2020-07-15T17:26:25.532Z",
   "updated_at": "2020-07-15T17:26:25.532Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "IMO",
+  "lga_name": "MBAITOLI (NWAORIEUBI)"
 }

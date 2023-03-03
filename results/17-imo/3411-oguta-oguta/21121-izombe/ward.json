@@ -17,5 +17,7 @@
   "ward_id": 21121,
   "created_at": "2020-07-15T17:26:34.916Z",
   "updated_at": "2020-07-15T17:26:34.916Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "IMO",
+  "lga_name": "OGUTA (OGUTA)"
 }

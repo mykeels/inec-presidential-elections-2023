@@ -17,5 +17,7 @@
   "ward_id": 21050,
   "created_at": "2020-07-15T17:26:24.808Z",
   "updated_at": "2020-07-15T17:26:24.808Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "IMO",
+  "lga_name": "ISU (UMUNDUGBA)"
 }
