@@ -1,0 +1,40 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+PLATEAU,JOS SOUTH,VWANG,DARANGI II,31/06/10/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104934/result_93572_1677691490_thumb.jpg,true
+PLATEAU,JOS SOUTH,VWANG,CHAKARUM,31/06/10/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104931/result_93569_1677691245_thumb.jpg,false
+PLATEAU,JOS SOUTH,VWANG,LONIYENG  11,31/06/10/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104933/result_93571_1677691021_thumb.jpg,false
+PLATEAU,JOS SOUTH,VWANG,FWIL,31/06/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104919/result_93557_1677690769_thumb.jpg,false
+PLATEAU,JOS SOUTH,VWANG,VWANG KOGOT,31/06/10/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104929/result_93567_1677690299_thumb.jpg,false
+PLATEAU,JOS SOUTH,VWANG,DAHWOLENG,31/06/10/032,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/665371/result_93579_1677669154_thumb.jpg,false
+PLATEAU,JOS SOUTH,VWANG,CHUNI,31/06/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/005/005-1677420085.pdf,false
+PLATEAU,JOS SOUTH,VWANG,SOT,31/06/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/006/006-1677412604.pdf,false
+PLATEAU,JOS SOUTH,VWANG,LEA PRI. SCH. KATONG,31/06/10/039,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/039/039-1677402108.pdf,false
+PLATEAU,JOS SOUTH,VWANG,DANGASHET,31/06/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/002/002-1677398289.pdf,false
+PLATEAU,JOS SOUTH,VWANG,RAWUK,31/06/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/007/007-1677398191.pdf,false
+PLATEAU,JOS SOUTH,VWANG,CHAHA,31/06/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/012/012-1677397145.pdf,false
+PLATEAU,JOS SOUTH,VWANG,CHOLL,31/06/10/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/017/017-1677396896.pdf,false
+PLATEAU,JOS SOUTH,VWANG,DUSU MEMORIAL SCHOOL,31/06/10/027,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/027/027-1677396795.pdf,false
+PLATEAU,JOS SOUTH,VWANG,LEA PRI. SCH. DEME,31/06/10/031,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/031/031-1677396690.pdf,false
+PLATEAU,JOS SOUTH,VWANG,HEITA,31/06/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/014/014-1677396574.pdf,false
+PLATEAU,JOS SOUTH,VWANG,LEA PRI. SCH. KAFANCHAN,31/06/10/035,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/035/035-1677396370.pdf,false
+PLATEAU,JOS SOUTH,VWANG,DALYOHO,31/06/10/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/016/016-1677396176.pdf,false
+PLATEAU,JOS SOUTH,VWANG,LOKUN  1,31/06/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/001/001-1677395956.pdf,false
+PLATEAU,JOS SOUTH,VWANG,LEA PRI. SCH. DANDA,31/06/10/036,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/036/036-1677395847.pdf,false
+PLATEAU,JOS SOUTH,VWANG,LONIYENG  1,31/06/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/004/004-1677395596.pdf,false
+PLATEAU,JOS SOUTH,VWANG,LOKUN  11,31/06/10/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/023/023-1677395590.pdf,false
+PLATEAU,JOS SOUTH,VWANG,KWIT,31/06/10/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/021/021-1677395214.pdf,false
+PLATEAU,JOS SOUTH,VWANG,DARANGI  1,31/06/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/011/011-1677395030.pdf,false
+PLATEAU,JOS SOUTH,VWANG,LEA PRI. SCH. SHAGUN,31/06/10/029,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/029/029-1677394980.pdf,false
+PLATEAU,JOS SOUTH,VWANG,DANDYES,31/06/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/015/015-1677394710.pdf,false
+PLATEAU,JOS SOUTH,VWANG,KOGOM RAK,31/06/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/008/008-1677394356.pdf,false
+PLATEAU,JOS SOUTH,VWANG,LOJANKON,31/06/10/033,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/033/033-1677394181.pdf,false
+PLATEAU,JOS SOUTH,VWANG,GSS SOT,31/06/10/030,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/030/030-1677393763.pdf,false
+PLATEAU,JOS SOUTH,VWANG,KOGOM TAK,31/06/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/009/009-1677393588.pdf,false
+PLATEAU,JOS SOUTH,VWANG,LEA PRI. SCH. HEITA-FWIL,31/06/10/038,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/038/038-1677393360.pdf,false
+PLATEAU,JOS SOUTH,VWANG,LEA PRI SCH. CHAKO,31/06/10/026,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/026/026-1677392932.pdf,false
+PLATEAU,JOS SOUTH,VWANG,DAROS,31/06/10/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/018/018-1677392884.pdf,false
+PLATEAU,JOS SOUTH,VWANG,GSS CHUGWI,31/06/10/034,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/034/034-1677392583.pdf,false
+PLATEAU,JOS SOUTH,VWANG,HWON,31/06/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/013/013-1677392541.pdf,false
+PLATEAU,JOS SOUTH,VWANG,DABWANG,31/06/10/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/019/019-1677391881.pdf,false
+PLATEAU,JOS SOUTH,VWANG,LEA PRI. SCH. DASHE,31/06/10/028,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/028/028-1677391315.pdf,false
+PLATEAU,JOS SOUTH,VWANG,DALLOH,31/06/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/003/003-1677391186.pdf,false
+PLATEAU,JOS SOUTH,VWANG,LOJAH FWAT,31/06/10/037,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/037/037-1677390897.pdf,false

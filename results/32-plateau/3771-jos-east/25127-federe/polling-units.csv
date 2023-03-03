@@ -1,0 +1,11 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+PLATEAU,JOS EAST,FEDERE,FEBAS/D/KURMI,31/04/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104134/result_93028_1677744360_thumb.jpg,true
+PLATEAU,JOS EAST,FEDERE,NABAR,31/04/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/01/pu/005/005-1677409408.pdf,false
+PLATEAU,JOS EAST,FEDERE,FEDERE  I,31/04/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/01/pu/007/007-1677408320.pdf,false
+PLATEAU,JOS EAST,FEDERE,KORIMIN,31/04/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/01/pu/009/009-1677408193.pdf,false
+PLATEAU,JOS EAST,FEDERE,KUDEDU,31/04/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/01/pu/006/006-1677407975.pdf,false
+PLATEAU,JOS EAST,FEDERE,FEDERE  II,31/04/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/01/pu/008/008-1677407755.pdf,false
+PLATEAU,JOS EAST,FEDERE,KEBEN,31/04/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/01/pu/003/003-1677407372.pdf,false
+PLATEAU,JOS EAST,FEDERE,UNG MADAKI,31/04/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/01/pu/010/010-1677407280.pdf,false
+PLATEAU,JOS EAST,FEDERE,FEDERE/CLINIC,31/04/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/01/pu/001/001-1677406331.pdf,false
+PLATEAU,JOS EAST,FEDERE,FEDERE / MARKET,31/04/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/01/pu/002/002-1677394392.pdf,false

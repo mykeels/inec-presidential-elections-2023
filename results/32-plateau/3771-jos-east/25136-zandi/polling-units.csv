@@ -1,0 +1,16 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+PLATEAU,JOS EAST,ZANDI,NAKWANG 1,31/04/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104214/result_93149_1677495013_thumb.jpg,true
+PLATEAU,JOS EAST,ZANDI,NAKWANG 11,31/04/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104215/result_93150_1677495675_thumb.jpg,true
+PLATEAU,JOS EAST,ZANDI,DAMSHUN,31/04/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104209/result_93144_1677494607_thumb.jpg,true
+PLATEAU,JOS EAST,ZANDI,GORA SABON LAYI,31/04/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104212/result_93147_1677497246_thumb.jpg,false
+PLATEAU,JOS EAST,ZANDI,ZIGAM 11,31/04/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104211/result_93146_1677497017_thumb.jpg,true
+PLATEAU,JOS EAST,ZANDI,GANDI,31/04/10/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104216/result_93151_1677497419_thumb.jpg,false
+PLATEAU,JOS EAST,ZANDI,ZIGAM 1,31/04/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104210/result_93145_1677496854_thumb.jpg,false
+PLATEAU,JOS EAST,ZANDI,ZANDI,31/04/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104208/result_93143_1677493528_thumb.jpg,false
+PLATEAU,JOS EAST,ZANDI,DORONG,31/04/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104217/result_93152_1677497963_thumb.jpg,true
+PLATEAU,JOS EAST,ZANDI,NABAR,31/04/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104219/result_93154_1677498450_thumb.jpg,false
+PLATEAU,JOS EAST,ZANDI,NAKWANG UNG SARKI,31/04/10/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104220/result_93155_1677498691_thumb.jpg,false
+PLATEAU,JOS EAST,ZANDI,GANDI SHOM,31/04/10/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/665188/result_93157_1677498876_thumb.jpg,false
+PLATEAU,JOS EAST,ZANDI,YELWA,31/04/10/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104218/result_93153_1677498094_thumb.jpg,false
+PLATEAU,JOS EAST,ZANDI,TUDUN DORONG,31/04/10/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/665187/result_93156_1677495809_thumb.jpg,false
+PLATEAU,JOS EAST,ZANDI,RISE ZAZI,31/04/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104213/result_93148_1677494812_thumb.jpg,true

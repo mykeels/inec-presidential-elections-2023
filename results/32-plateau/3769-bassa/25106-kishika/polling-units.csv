@@ -1,0 +1,17 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+PLATEAU,BASSA,KISHIKA,KASAKUK,31/02/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/103956/result_92696_1677763221_thumb.jpg,false
+PLATEAU,BASSA,KISHIKA,BAGURO,31/02/10/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666038/result_92706_1677616389_thumb.jpg,false
+PLATEAU,BASSA,KISHIKA,BURUMI,31/02/10/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666037/result_92705_1677616258_thumb.jpg,false
+PLATEAU,BASSA,KISHIKA,KANKPA,31/02/10/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666036/result_92704_1677616167_thumb.jpg,false
+PLATEAU,BASSA,KISHIKA,BALAK,31/02/10/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666035/result_92703_1677616037_thumb.jpg,false
+PLATEAU,BASSA,KISHIKA,KUCHIP,31/02/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666034/result_92702_1677615978_thumb.jpg,false
+PLATEAU,BASSA,KISHIKA,KISHI 111,31/02/10/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/103961/result_92701_1677615874_thumb.jpg,false
+PLATEAU,BASSA,KISHIKA,KISHI 11,31/02/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/103960/result_92700_1677615763_thumb.jpg,false
+PLATEAU,BASSA,KISHIKA,KISHI 1,31/02/10/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/103959/result_92699_1677615590_thumb.jpg,false
+PLATEAU,BASSA,KISHIKA,KISHIKA  II,31/02/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/103958/result_92698_1677615457_thumb.jpg,false
+PLATEAU,BASSA,KISHIKA,KUMEL,31/02/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/103957/result_92697_1677615364_thumb.jpg,false
+PLATEAU,BASSA,KISHIKA,BUYO,31/02/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+PLATEAU,BASSA,KISHIKA,KISANCHI,31/02/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/103954/result_92694_1677615120_thumb.jpg,false
+PLATEAU,BASSA,KISHIKA,KISHIKA  I,31/02/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/103953/result_92693_1677615046_thumb.jpg,false
+PLATEAU,BASSA,KISHIKA,BINCHIN II,31/02/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/103952/result_92692_1677614945_thumb.jpg,false
+PLATEAU,BASSA,KISHIKA,BINCHIN I,31/02/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false

@@ -1,0 +1,12 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+PLATEAU,BASSA,BUJI,MARUJA,31/02/02/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/665958/result_92550_1677606154_thumb.jpg,false
+PLATEAU,BASSA,BUJI,HWOL BUJI B,31/02/02/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/665960/result_92552_1677606093_thumb.jpg,false
+PLATEAU,BASSA,BUJI,ZUKKU B,31/02/02/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/665959/result_92551_1677605974_thumb.jpg,false
+PLATEAU,BASSA,BUJI,GANGAREN MAIRAGA,31/02/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/665956/result_92548_1677605861_thumb.jpg,false
+PLATEAU,BASSA,BUJI,RUMFAN GWAMNA II,31/02/02/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/665957/result_92549_1677605802_thumb.jpg,false
+PLATEAU,BASSA,BUJI,TUMU,31/02/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+PLATEAU,BASSA,BUJI,TILLA,31/02/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/103885/result_92546_1677605463_thumb.jpg,false
+PLATEAU,BASSA,BUJI,HOWL BUJI,31/02/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+PLATEAU,BASSA,BUJI,ZUKKU,31/02/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/103883/result_92544_1677604422_thumb.jpg,false
+PLATEAU,BASSA,BUJI,RUNFAM GWAMNA,31/02/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+PLATEAU,BASSA,BUJI,BINTIRI,31/02/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false

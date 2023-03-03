@@ -1,0 +1,12 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+PLATEAU,KANAM,JARMAI,KUM KUM NORMADIC PRIMARY SCHOOL,31/07/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666711/result_93881_1677525717_thumb.jpg,true
+PLATEAU,KANAM,JARMAI,CENTRAL PRY SCHL JARMAI II,31/07/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666710/result_93880_1677525596_thumb.jpg,false
+PLATEAU,KANAM,JARMAI,SWAMWARGA JARMAI,31/07/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666708/result_93878_1677525021_thumb.jpg,false
+PLATEAU,KANAM,JARMAI,UNG. DADI PRI SCH.,31/07/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666709/result_93879_1677525143_thumb.jpg,false
+PLATEAU,KANAM,JARMAI,GURUNTUNG,31/07/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105063/result_93874_1677524590_thumb.jpg,false
+PLATEAU,KANAM,JARMAI,MULAS SABON GIDA I,31/07/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105064/result_93875_1677524674_thumb.jpg,true
+PLATEAU,KANAM,JARMAI,MULAS SABON GIDA II,31/07/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105065/result_93876_1677524848_thumb.jpg,true
+PLATEAU,KANAM,JARMAI,TASHAN GURUMTUNG,31/07/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/675068/result_93877_1677524938_thumb.jpg,true
+PLATEAU,KANAM,JARMAI,UNG. HAUSAWA PRY. SCHOOL,31/07/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105062/result_93873_1677524413_thumb.jpg,false
+PLATEAU,KANAM,JARMAI,JARMAI CENTRAL PRY. SCHOOL,31/07/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105060/result_93871_1677524278_thumb.jpg,false
+PLATEAU,KANAM,JARMAI,JARMAI PRY. SCHOOL,31/07/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105061/result_93872_1677524349_thumb.jpg,false

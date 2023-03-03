@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+PLATEAU,KANAM,JOM,BAKAMANU,31/07/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666715/result_93890_1677531710_thumb.jpg,false
+PLATEAU,KANAM,JOM,WAWUR PRI SCHOOL,31/07/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666714/result_93889_1677531609_thumb.jpg,false
+PLATEAU,KANAM,JOM,SABON LAYI II,31/07/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666713/result_93888_1677531457_thumb.jpg,false
+PLATEAU,KANAM,JOM,UNG GWAK,31/07/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666712/result_93887_1677531213_thumb.jpg,true
+PLATEAU,KANAM,JOM,BAZAI,31/07/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/675069/result_93886_1677531074_thumb.jpg,true
+PLATEAU,KANAM,JOM,S'ABON LAYI,31/07/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105069/result_93885_1677530890_thumb.jpg,false
+PLATEAU,KANAM,JOM,UNG. SARKIN YAMMA,31/07/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105068/result_93884_1677530708_thumb.jpg,false
+PLATEAU,KANAM,JOM,GANGAR,31/07/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105067/result_93883_1677530461_thumb.jpg,false
+PLATEAU,KANAM,JOM,JOM PRY. SCHOOL,31/07/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105066/result_93882_1677528577_thumb.jpg,false

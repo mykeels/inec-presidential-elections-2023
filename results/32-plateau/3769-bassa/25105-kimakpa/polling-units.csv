@@ -1,0 +1,15 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+PLATEAU,BASSA,KIMAKPA,ANGWAN DAUDU,31/02/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3769/ward/25105/pu/169303/169303-1677615466.pdf,false
+PLATEAU,BASSA,KIMAKPA,ZASHI ADU,31/02/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3769/ward/25105/pu/169302/169302-1677615397.pdf,false
+PLATEAU,BASSA,KIMAKPA,ZIKKE,31/02/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3769/ward/25105/pu/169301/169301-1677615295.pdf,false
+PLATEAU,BASSA,KIMAKPA,ANGALE KWALL,31/02/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3769/ward/25105/pu/169300/169300-1677615149.pdf,false
+PLATEAU,BASSA,KIMAKPA,TEBRA TINJE,31/02/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3769/ward/25105/pu/169299/169299-1677615077.pdf,false
+PLATEAU,BASSA,KIMAKPA,KWALL,31/02/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3769/ward/25105/pu/169298/169298-1677614997.pdf,true
+PLATEAU,BASSA,KIMAKPA,DAN MANGU  III,31/02/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3769/ward/25105/pu/105522/105522-1677614910.pdf,false
+PLATEAU,BASSA,KIMAKPA,DAN MANGU  II,31/02/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3769/ward/25105/pu/105521/105521-1677614845.pdf,false
+PLATEAU,BASSA,KIMAKPA,DUNDU,31/02/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3769/ward/25105/pu/105520/105520-1677614703.pdf,false
+PLATEAU,BASSA,KIMAKPA,TINJE II,31/02/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3769/ward/25105/pu/105519/105519-1677614630.pdf,false
+PLATEAU,BASSA,KIMAKPA,DAN MANGU ZODU,31/02/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3769/ward/25105/pu/105518/105518-1677614516.pdf,false
+PLATEAU,BASSA,KIMAKPA,TINJE I,31/02/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3769/ward/25105/pu/105517/105517-1677614441.pdf,true
+PLATEAU,BASSA,KIMAKPA,ORREE DAM,31/02/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3769/ward/25105/pu/105516/105516-1677614353.pdf,false
+PLATEAU,BASSA,KIMAKPA,MAIYANGA,31/02/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3769/ward/25105/pu/105515/105515-1677614262.pdf,false

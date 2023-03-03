@@ -1,0 +1,15 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+PLATEAU,JOS EAST,SHERE EAST,SHERE ISHA,31/04/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3771/ward/25134/pu/105768/105768-1677663284.pdf,true
+PLATEAU,JOS EAST,SHERE EAST,FEZUMUNG,31/04/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104194/result_93123_1677534195_thumb.jpg,false
+PLATEAU,JOS EAST,SHERE EAST,DAYONG,31/04/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104195/result_93124_1677533222_thumb.jpg,false
+PLATEAU,JOS EAST,SHERE EAST,FULANI,31/04/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104197/result_93126_1677533080_thumb.jpg,false
+PLATEAU,JOS EAST,SHERE EAST,SHERE DABO,31/04/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104198/result_93127_1677532882_thumb.jpg,false
+PLATEAU,JOS EAST,SHERE EAST,ZAKIM II,31/04/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/665181/result_93130_1677532577_thumb.jpg,false
+PLATEAU,JOS EAST,SHERE EAST,PHC SHERE EKAN,31/04/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/665183/result_93132_1677514742_thumb.jpg,false
+PLATEAU,JOS EAST,SHERE EAST,KASHIDUNG  II,31/04/08/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/665186/result_93135_1677511691_thumb.jpg,false
+PLATEAU,JOS EAST,SHERE EAST,RABIN SHERE,31/04/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104199/result_93128_1677512007_thumb.jpg,false
+PLATEAU,JOS EAST,SHERE EAST,ZAKIM,31/04/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104193/result_93122_1677511488_thumb.jpg,true
+PLATEAU,JOS EAST,SHERE EAST,ISHONG KAKUM,31/04/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/665182/result_93131_1677511846_thumb.jpg,false
+PLATEAU,JOS EAST,SHERE EAST,KASHIDUNG,31/04/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104200/result_93129_1677515255_thumb.jpg,false
+PLATEAU,JOS EAST,SHERE EAST,SHERE ISHA  II,31/04/08/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/665185/result_93134_1677514446_thumb.jpg,true
+PLATEAU,JOS EAST,SHERE EAST,SHERE DABO  II,31/04/08/012,,false

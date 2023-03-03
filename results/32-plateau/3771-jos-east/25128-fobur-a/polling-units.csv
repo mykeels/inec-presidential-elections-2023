@@ -1,0 +1,18 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+PLATEAU,JOS EAST,FOBUR 'A',WADA FARIN YASHI,31/04/02/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104146/result_93044_1677746488_thumb.jpg,true
+PLATEAU,JOS EAST,FOBUR 'A',FARIN YASHI,31/04/02/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,true
+PLATEAU,JOS EAST,FOBUR 'A',FURAKA,31/04/02/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104144/result_93042_1677744072_thumb.jpg,true
+PLATEAU,JOS EAST,FOBUR 'A',NEW FOBUR/PRIMARY SC HOOL,31/04/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104142/result_93040_1677743994_thumb.jpg,true
+PLATEAU,JOS EAST,FOBUR 'A',FOBUR EKAN,31/04/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104138/result_93036_1677743873_thumb.jpg,true
+PLATEAU,JOS EAST,FOBUR 'A',FADAN FOBUR,31/04/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104137/result_93035_1677743771_thumb.jpg,true
+PLATEAU,JOS EAST,FOBUR 'A',AFOZI,31/04/02/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104147/result_93045_1677594135_thumb.jpg,false
+PLATEAU,JOS EAST,FOBUR 'A',WADA,31/04/02/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/665152/result_93051_1677595258_thumb.jpg,false
+PLATEAU,JOS EAST,FOBUR 'A',FADAN DABO,31/04/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+PLATEAU,JOS EAST,FOBUR 'A',NEW FOBUR/P.H.C,31/04/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/02/pu/007/007-1677425293.pdf,false
+PLATEAU,JOS EAST,FOBUR 'A',FEGOM,31/04/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/02/pu/013/013-1677424080.pdf,false
+PLATEAU,JOS EAST,FOBUR 'A',NUKES,31/04/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/02/pu/014/014-1677423150.pdf,false
+PLATEAU,JOS EAST,FOBUR 'A',BODA,31/04/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/02/pu/005/005-1677422671.pdf,false
+PLATEAU,JOS EAST,FOBUR 'A',FOBUR EKAN  II,31/04/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/02/pu/015/015-1677421785.pdf,false
+PLATEAU,JOS EAST,FOBUR 'A',KUNYITSER,31/04/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/02/pu/012/012-1677421349.pdf,false
+PLATEAU,JOS EAST,FOBUR 'A',BODA  II,31/04/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/02/pu/016/016-1677420947.pdf,false
+PLATEAU,JOS EAST,FOBUR 'A',HARDO ADAMU,31/04/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/02/pu/004/004-1677420376.pdf,false

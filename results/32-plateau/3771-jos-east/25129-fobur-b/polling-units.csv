@@ -1,0 +1,17 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+PLATEAU,JOS EAST,FOBUR    'B',ZARAZON,31/04/03/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104152/result_93053_1677741750_thumb.jpg,true
+PLATEAU,JOS EAST,FOBUR    'B',KWANGA,31/04/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104151/result_93052_1677741623_thumb.jpg,true
+PLATEAU,JOS EAST,FOBUR    'B',NABATONG,31/04/03/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104157/result_93058_1677496300_thumb.jpg,false
+PLATEAU,JOS EAST,FOBUR    'B',KANU RIBAKOK,31/04/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104161/result_93062_1677496783_thumb.jpg,false
+PLATEAU,JOS EAST,FOBUR    'B',RIZEK PHC,31/04/03/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104156/result_93057_1677496192_thumb.jpg,true
+PLATEAU,JOS EAST,FOBUR    'B',SABON GARI,31/04/03/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104154/result_93055_1677495515_thumb.jpg,true
+PLATEAU,JOS EAST,FOBUR    'B',ZOTT SABO,31/04/03/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104162/result_93063_1677496872_thumb.jpg,false
+PLATEAU,JOS EAST,FOBUR    'B',KAMPALA,31/04/03/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/665156/result_93067_1677497338_thumb.jpg,false
+PLATEAU,JOS EAST,FOBUR    'B',LAMINGA,31/04/03/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104153/result_93054_1677495284_thumb.jpg,true
+PLATEAU,JOS EAST,FOBUR    'B',IWARZE,31/04/03/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104160/result_93061_1677496602_thumb.jpg,false
+PLATEAU,JOS EAST,FOBUR    'B',KERKER,31/04/03/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104158/result_93059_1677496408_thumb.jpg,false
+PLATEAU,JOS EAST,FOBUR    'B',KURON,31/04/03/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104159/result_93060_1677496516_thumb.jpg,true
+PLATEAU,JOS EAST,FOBUR    'B',ZARAZON II (JUTH MSC),31/04/03/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/665155/result_93066_1677497230_thumb.jpg,false
+PLATEAU,JOS EAST,FOBUR    'B',NCRS,31/04/03/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/665153/result_93064_1677496964_thumb.jpg,false
+PLATEAU,JOS EAST,FOBUR    'B',RIZEK/PRY. SCHOOL,31/04/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/104155/result_93056_1677585038_thumb.jpg,false
+PLATEAU,JOS EAST,FOBUR    'B',ABOK-AZUMI (NCRS),31/04/03/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/665154/result_93065_1677497135_thumb.jpg,true

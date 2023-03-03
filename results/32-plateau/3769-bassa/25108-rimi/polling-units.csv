@@ -1,0 +1,19 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+PLATEAU,BASSA,RIMI,RADDE,31/02/12/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3769/ward/25108/pu/169319/169319-1677613616.pdf,false
+PLATEAU,BASSA,RIMI,BANGA,31/02/12/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3769/ward/25108/pu/169317/169317-1677613507.pdf,true
+PLATEAU,BASSA,RIMI,REMA,31/02/12/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3769/ward/25108/pu/105548/105548-1677613292.pdf,false
+PLATEAU,BASSA,RIMI,FADI SONKO,31/02/12/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3769/ward/25108/pu/105546/105546-1677613146.pdf,false
+PLATEAU,BASSA,RIMI,CHOKOBO,31/02/12/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3769/ward/25108/pu/105541/105541-1677612796.pdf,true
+PLATEAU,BASSA,RIMI,TIDERE,31/02/12/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3769/ward/25108/pu/105542/105542-1677612607.pdf,false
+PLATEAU,BASSA,RIMI,KABAKE,31/02/12/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3769/ward/25108/pu/105543/105543-1677485354.pdf,false
+PLATEAU,BASSA,RIMI,GIMI,31/02/12/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/12/pu/005/005-1677428478.pdf,false
+PLATEAU,BASSA,RIMI,REMA UDI'IZI,31/02/12/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/12/pu/016/016-1677384267.pdf,false
+PLATEAU,BASSA,RIMI,LITRI,31/02/12/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/12/pu/011/011-1677399760.pdf,false
+PLATEAU,BASSA,RIMI,BUGU,31/02/12/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/12/pu/007/007-1677386676.pdf,false
+PLATEAU,BASSA,RIMI,GONDON,31/02/12/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/12/pu/015/015-1677386629.pdf,false
+PLATEAU,BASSA,RIMI,AZORRAH,31/02/12/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/12/pu/009/009-1677385356.pdf,false
+PLATEAU,BASSA,RIMI,REMA KADIGA B,31/02/12/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/12/pu/018/018-1677384587.pdf,false
+PLATEAU,BASSA,RIMI,URAWA,31/02/12/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/12/pu/010/010-1677383866.pdf,false
+PLATEAU,BASSA,RIMI,REMA KADIGA A,31/02/12/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/12/pu/017/017-1677383747.pdf,false
+PLATEAU,BASSA,RIMI,BAKIN KOGI,31/02/12/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/12/pu/004/004-1677383693.pdf,false
+PLATEAU,BASSA,RIMI,GITU,31/02/12/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/12/pu/013/013-1677383217.pdf,false
