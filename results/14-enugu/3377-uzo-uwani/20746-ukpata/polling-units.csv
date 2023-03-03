@@ -1,8 +1,8 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,UZO-UWANI,,ACHALA ODA SQUARE I,14/17/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41745/result_160565_1677540606_thumb.jpg,true
-ENUGU,UZO-UWANI,,ACHALA ODA SQUARE II,14/17/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41748/result_160568_1677610365_thumb.jpg,false
-ENUGU,UZO-UWANI,,UMUEZE ANUKWULU SQUARE II,14/17/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41747/result_160567_1677610186_thumb.jpg,false
-ENUGU,UZO-UWANI,,AMUFIA VILLAGE SQUARE II,14/17/04/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41746/result_160566_1677610016_thumb.jpg,false
-ENUGU,UZO-UWANI,,UMUEZE ANUKWULU SQUARE I,14/17/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41744/result_160564_1677609603_thumb.jpg,false
-ENUGU,UZO-UWANI,,AMUFIA VILLAGE SQUARE I,14/17/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41743/result_160563_1677609331_thumb.jpg,false
-ENUGU,UZO-UWANI,,UMUDINGWU VILLAGE SQUARE,14/17/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41742/result_160562_1677608947_thumb.jpg,false
+ENUGU,UZO-UWANI,UKPATA,ACHALA ODA SQUARE I,14/17/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41745/result_160565_1677540606_thumb.jpg,true
+ENUGU,UZO-UWANI,UKPATA,ACHALA ODA SQUARE II,14/17/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41748/result_160568_1677610365_thumb.jpg,false
+ENUGU,UZO-UWANI,UKPATA,UMUEZE ANUKWULU SQUARE II,14/17/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41747/result_160567_1677610186_thumb.jpg,false
+ENUGU,UZO-UWANI,UKPATA,AMUFIA VILLAGE SQUARE II,14/17/04/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41746/result_160566_1677610016_thumb.jpg,false
+ENUGU,UZO-UWANI,UKPATA,UMUEZE ANUKWULU SQUARE I,14/17/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41744/result_160564_1677609603_thumb.jpg,false
+ENUGU,UZO-UWANI,UKPATA,AMUFIA VILLAGE SQUARE I,14/17/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41743/result_160563_1677609331_thumb.jpg,false
+ENUGU,UZO-UWANI,UKPATA,UMUDINGWU VILLAGE SQUARE,14/17/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41742/result_160562_1677608947_thumb.jpg,false

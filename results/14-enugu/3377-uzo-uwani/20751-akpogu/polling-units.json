@@ -26,6 +26,7 @@
     "pu_code_string": "141709004",
     "state_name": "ENUGU",
     "lga_name": "UZO-UWANI",
+    "ward_name": "AKPOGU",
     "document": {
       "external": true,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "141709003",
     "state_name": "ENUGU",
     "lga_name": "UZO-UWANI",
+    "ward_name": "AKPOGU",
     "document": {
       "external": true,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "141709002",
     "state_name": "ENUGU",
     "lga_name": "UZO-UWANI",
+    "ward_name": "AKPOGU",
     "document": {
       "external": true,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "141709001",
     "state_name": "ENUGU",
     "lga_name": "UZO-UWANI",
+    "ward_name": "AKPOGU",
     "document": {
       "external": true,
       "status": 1,

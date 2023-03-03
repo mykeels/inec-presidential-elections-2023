@@ -1,6 +1,6 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,UZO-UWANI,,C.S. NROBO II,14/17/15/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41831/result_160662_1677611121_thumb.jpg,false
-ENUGU,UZO-UWANI,,UMUIYA VILLAGE SQUARE,14/17/15/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41830/result_160661_1677610926_thumb.jpg,false
-ENUGU,UZO-UWANI,,COMMUNITY PRIMARY SCHOOL AJAYIGO (OLIPARA),14/17/15/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41829/result_160660_1677610780_thumb.jpg,false
-ENUGU,UZO-UWANI,,COMMUNITY PRIMARY SCHOOL NROBO,14/17/15/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41828/result_160659_1677610606_thumb.jpg,false
-ENUGU,UZO-UWANI,,CENTRAL SCHOOL NROBO I,14/17/15/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41827/result_160658_1677610414_thumb.jpg,false
+ENUGU,UZO-UWANI,NROBO,C.S. NROBO II,14/17/15/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41831/result_160662_1677611121_thumb.jpg,false
+ENUGU,UZO-UWANI,NROBO,UMUIYA VILLAGE SQUARE,14/17/15/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41830/result_160661_1677610926_thumb.jpg,false
+ENUGU,UZO-UWANI,NROBO,COMMUNITY PRIMARY SCHOOL AJAYIGO (OLIPARA),14/17/15/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41829/result_160660_1677610780_thumb.jpg,false
+ENUGU,UZO-UWANI,NROBO,COMMUNITY PRIMARY SCHOOL NROBO,14/17/15/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41828/result_160659_1677610606_thumb.jpg,false
+ENUGU,UZO-UWANI,NROBO,CENTRAL SCHOOL NROBO I,14/17/15/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41827/result_160658_1677610414_thumb.jpg,false

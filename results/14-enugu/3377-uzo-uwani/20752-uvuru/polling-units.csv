@@ -1,9 +1,9 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,UZO-UWANI,,UTOMAKA VIL. HALL,14/17/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635604/result_160620_1677603030_thumb.jpg,false
-ENUGU,UZO-UWANI,,UWANI MGBOKO II,14/17/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-ENUGU,UZO-UWANI,,COMMUNITY PRIMARY SCHOOL UVURU,14/17/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41794/result_160618_1677601803_thumb.jpg,false
-ENUGU,UZO-UWANI,,UGBENE-UVURU,14/17/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41793/result_160617_1677601218_thumb.jpg,false
-ENUGU,UZO-UWANI,,UVURU ANI VILLAGE SQUARE,14/17/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41791/result_160615_1677600878_thumb.jpg,false
-ENUGU,UZO-UWANI,,UWANI - UMUINAMA,14/17/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-ENUGU,UZO-UWANI,,UWANI MGBOKO I,14/17/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41790/result_160614_1677599634_thumb.jpg,false
-ENUGU,UZO-UWANI,,OGWU UVURU,14/17/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41789/result_160613_1677599442_thumb.jpg,false
+ENUGU,UZO-UWANI,UVURU,UTOMAKA VIL. HALL,14/17/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635604/result_160620_1677603030_thumb.jpg,false
+ENUGU,UZO-UWANI,UVURU,UWANI MGBOKO II,14/17/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+ENUGU,UZO-UWANI,UVURU,COMMUNITY PRIMARY SCHOOL UVURU,14/17/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41794/result_160618_1677601803_thumb.jpg,false
+ENUGU,UZO-UWANI,UVURU,UGBENE-UVURU,14/17/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41793/result_160617_1677601218_thumb.jpg,false
+ENUGU,UZO-UWANI,UVURU,UVURU ANI VILLAGE SQUARE,14/17/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41791/result_160615_1677600878_thumb.jpg,false
+ENUGU,UZO-UWANI,UVURU,UWANI - UMUINAMA,14/17/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+ENUGU,UZO-UWANI,UVURU,UWANI MGBOKO I,14/17/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41790/result_160614_1677599634_thumb.jpg,false
+ENUGU,UZO-UWANI,UVURU,OGWU UVURU,14/17/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41789/result_160613_1677599442_thumb.jpg,false

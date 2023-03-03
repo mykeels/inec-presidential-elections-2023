@@ -1,7 +1,7 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,UZO-UWANI,,C.S. UGBENE-AJIMA,14/17/13/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41817/result_160646_1677525674_thumb.jpg,true
-ENUGU,UZO-UWANI,,AMAISIEKE UGWU SQUARE II,14/17/13/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41818/result_160647_1677525857_thumb.jpg,true
-ENUGU,UZO-UWANI,,ISIAMA VILLAGE SQUARE,14/17/13/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41813/result_160642_1677580196_thumb.jpg,false
-ENUGU,UZO-UWANI,,UWENU ONYISI SQUARE,14/17/13/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41814/result_160643_1677579048_thumb.jpg,false
-ENUGU,UZO-UWANI,,AMAISIEKE UGWU SQUARE I,14/17/13/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41816/result_160645_1677586605_thumb.jpg,false
-ENUGU,UZO-UWANI,,AMANYI AMAOGIDI,14/17/13/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41815/result_160644_1677579962_thumb.jpg,false
+ENUGU,UZO-UWANI,UGBENE I,C.S. UGBENE-AJIMA,14/17/13/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41817/result_160646_1677525674_thumb.jpg,true
+ENUGU,UZO-UWANI,UGBENE I,AMAISIEKE UGWU SQUARE II,14/17/13/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41818/result_160647_1677525857_thumb.jpg,true
+ENUGU,UZO-UWANI,UGBENE I,ISIAMA VILLAGE SQUARE,14/17/13/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41813/result_160642_1677580196_thumb.jpg,false
+ENUGU,UZO-UWANI,UGBENE I,UWENU ONYISI SQUARE,14/17/13/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41814/result_160643_1677579048_thumb.jpg,false
+ENUGU,UZO-UWANI,UGBENE I,AMAISIEKE UGWU SQUARE I,14/17/13/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41816/result_160645_1677586605_thumb.jpg,false
+ENUGU,UZO-UWANI,UGBENE I,AMANYI AMAOGIDI,14/17/13/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41815/result_160644_1677579962_thumb.jpg,false
