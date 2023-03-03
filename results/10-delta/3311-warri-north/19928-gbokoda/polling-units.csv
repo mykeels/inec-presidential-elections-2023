@@ -1,18 +1,18 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,WARRI  NORTH,,"ARUNTON TOWN HALL, TEBU",10/23/02/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19928/pu/138031/138031-1677629883.pdf,true
-DELTA,WARRI  NORTH,,"DIARE PRY. SCH, GBOKODA",10/23/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19928/pu/138029/138029-1677606242.pdf,true
-DELTA,WARRI  NORTH,,"TEBU WATER BOARD, TEBU",10/23/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19928/pu/138030/138030-1677594312.pdf,true
-DELTA,WARRI  NORTH,,"UDO CONCRETE JETTY BY HOUSING ESTATE, UDO",10/23/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19928/pu/138028/138028-1677594109.pdf,false
-DELTA,WARRI  NORTH,,"UDO WATER BOARD, UDO",10/23/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19928/pu/138027/138027-1677593825.pdf,true
-DELTA,WARRI  NORTH,,"AJAMITA WATER BOARD, AJAMITA",10/23/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19928/pu/138026/138026-1677593559.pdf,false
-DELTA,WARRI  NORTH,,"GBOKODA HEALTH CENTRE,  GBOKODA",10/23/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19928/pu/138025/138025-1677593347.pdf,true
-DELTA,WARRI  NORTH,,GINUWA GRAMMAR SCHOOL GBOKODA II,10/23/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19928/pu/31806/31806-1677593104.pdf,true
-DELTA,WARRI  NORTH,,"DIARE PRIMARY SCHOOL,  GBOKODA I",10/23/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19928/pu/31805/31805-1677592921.pdf,true
-DELTA,WARRI  NORTH,,"UDO TOWN HALL, UDO II",10/23/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19928/pu/31804/31804-1677592721.pdf,true
-DELTA,WARRI  NORTH,,"UDO TOWN HALL, UDO I",10/23/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19928/pu/31803/31803-1677592503.pdf,true
-DELTA,WARRI  NORTH,,"TEBU  TOWN HALL,  TEBU III",10/23/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19928/pu/31802/31802-1677592317.pdf,false
-DELTA,WARRI  NORTH,,"TEBU  TOWN HALL,  TEBU II",10/23/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19928/pu/31801/31801-1677592076.pdf,false
-DELTA,WARRI  NORTH,,"TEBU  TOWN HALL,  TEBU I",10/23/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19928/pu/31800/31800-1677591797.pdf,true
-DELTA,WARRI  NORTH,,"AJAMITA TOWN  HALL, AJAMITA III",10/23/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/02/pu/003/003-1677426213.pdf,false
-DELTA,WARRI  NORTH,,"AJAMITA TOWN  HALL, AJAMITA II",10/23/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/02/pu/002/002-1677424805.pdf,false
-DELTA,WARRI  NORTH,,"AJAMITA TOWN  HALL, AJAMITA I",10/23/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/02/pu/001/001-1677420468.pdf,false
+DELTA,WARRI  NORTH,GBOKODA,"ARUNTON TOWN HALL, TEBU",10/23/02/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19928/pu/138031/138031-1677629883.pdf,true
+DELTA,WARRI  NORTH,GBOKODA,"DIARE PRY. SCH, GBOKODA",10/23/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19928/pu/138029/138029-1677606242.pdf,true
+DELTA,WARRI  NORTH,GBOKODA,"TEBU WATER BOARD, TEBU",10/23/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19928/pu/138030/138030-1677594312.pdf,true
+DELTA,WARRI  NORTH,GBOKODA,"UDO CONCRETE JETTY BY HOUSING ESTATE, UDO",10/23/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19928/pu/138028/138028-1677594109.pdf,false
+DELTA,WARRI  NORTH,GBOKODA,"UDO WATER BOARD, UDO",10/23/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19928/pu/138027/138027-1677593825.pdf,true
+DELTA,WARRI  NORTH,GBOKODA,"AJAMITA WATER BOARD, AJAMITA",10/23/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19928/pu/138026/138026-1677593559.pdf,false
+DELTA,WARRI  NORTH,GBOKODA,"GBOKODA HEALTH CENTRE,  GBOKODA",10/23/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19928/pu/138025/138025-1677593347.pdf,true
+DELTA,WARRI  NORTH,GBOKODA,GINUWA GRAMMAR SCHOOL GBOKODA II,10/23/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19928/pu/31806/31806-1677593104.pdf,true
+DELTA,WARRI  NORTH,GBOKODA,"DIARE PRIMARY SCHOOL,  GBOKODA I",10/23/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19928/pu/31805/31805-1677592921.pdf,true
+DELTA,WARRI  NORTH,GBOKODA,"UDO TOWN HALL, UDO II",10/23/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19928/pu/31804/31804-1677592721.pdf,true
+DELTA,WARRI  NORTH,GBOKODA,"UDO TOWN HALL, UDO I",10/23/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19928/pu/31803/31803-1677592503.pdf,true
+DELTA,WARRI  NORTH,GBOKODA,"TEBU  TOWN HALL,  TEBU III",10/23/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19928/pu/31802/31802-1677592317.pdf,false
+DELTA,WARRI  NORTH,GBOKODA,"TEBU  TOWN HALL,  TEBU II",10/23/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19928/pu/31801/31801-1677592076.pdf,false
+DELTA,WARRI  NORTH,GBOKODA,"TEBU  TOWN HALL,  TEBU I",10/23/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19928/pu/31800/31800-1677591797.pdf,true
+DELTA,WARRI  NORTH,GBOKODA,"AJAMITA TOWN  HALL, AJAMITA III",10/23/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/02/pu/003/003-1677426213.pdf,false
+DELTA,WARRI  NORTH,GBOKODA,"AJAMITA TOWN  HALL, AJAMITA II",10/23/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/02/pu/002/002-1677424805.pdf,false
+DELTA,WARRI  NORTH,GBOKODA,"AJAMITA TOWN  HALL, AJAMITA I",10/23/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/02/pu/001/001-1677420468.pdf,false

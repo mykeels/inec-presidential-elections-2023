@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,WARRI  NORTH,,"EBROHIMI HEALTH CENTRE, EBROHIMI",10/23/03/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19929/pu/138032/138032-1677710404.pdf,true
-DELTA,WARRI  NORTH,,"OLUMAGADA TOWN HALL, OLUMAGADA",10/23/03/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19929/pu/31823/31823-1677710161.pdf,true
-DELTA,WARRI  NORTH,,"EDO PRIMARY SCHOOL, OBAGHORO IV",10/23/03/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19929/pu/31822/31822-1677708656.pdf,true
-DELTA,WARRI  NORTH,,"EDO PRIMARY SCHOOL, OBAGHORO III",10/23/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19929/pu/31821/31821-1677708460.pdf,false
-DELTA,WARRI  NORTH,,"EDO PRIMARY SCHOOL, OBAGHORO II",10/23/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19929/pu/31820/31820-1677667076.pdf,true
-DELTA,WARRI  NORTH,,"EDO PRIMARY SCHOOL, OBAGHORO I",10/23/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19929/pu/31819/31819-1677666788.pdf,true
-DELTA,WARRI  NORTH,,"UGBENYEN TOWN HALL, UGBENYEN",10/23/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19929/pu/31818/31818-1677666398.pdf,true
-DELTA,WARRI  NORTH,,"UREJU  PRIMARY SCHOOL, UREJU II",10/23/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19929/pu/31816/31816-1677665551.pdf,true
-DELTA,WARRI  NORTH,,"UREJU  PRIMARY SCHOOL, UREJU I",10/23/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19929/pu/31815/31815-1677665094.pdf,true
-DELTA,WARRI  NORTH,,"EBROHIMI TOWN HALL, EBROHIMI",10/23/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19929/pu/31814/31814-1677661327.pdf,true
-DELTA,WARRI  NORTH,,"OLOMU PRIMARY SCHOOL, EBROHIMI III",10/23/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19929/pu/31813/31813-1677661108.pdf,true
-DELTA,WARRI  NORTH,,"OLOMU PRIMARY SCHOOL, EBROHIMI II",10/23/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19929/pu/31812/31812-1677660233.pdf,true
-DELTA,WARRI  NORTH,,"DUDU  PRIMARY  SCHOOL,  OBONTIE GHANREDA IV",10/23/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19929/pu/31810/31810-1677656210.pdf,true
-DELTA,WARRI  NORTH,,"DUDU  PRIMARY  SCHOOL,  OBONTIE GHANREDA III",10/23/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19929/pu/31809/31809-1677655748.pdf,true
-DELTA,WARRI  NORTH,,"UREJU  PRIMARY SCHOOL, UREJU III",10/23/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31807/result_149208_1677508810_thumb.jpg,true
-DELTA,WARRI  NORTH,,"OLOMU PRIMARY SCHOOL, EBROHIMI I",10/23/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31801/result_149202_1677508375_thumb.jpg,true
-DELTA,WARRI  NORTH,,"DUDU  PRIMARY  SCHOOL,  OBONTIE GHANREDA I",10/23/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31797/result_149198_1677508131_thumb.jpg,true
-DELTA,WARRI  NORTH,,"DUDU  PRIMARY  SCHOOL,  OBONTIE GHANREDA II",10/23/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/03/pu/002/002-1677417643.pdf,false
+DELTA,WARRI  NORTH,EBROHIMI,"EBROHIMI HEALTH CENTRE, EBROHIMI",10/23/03/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19929/pu/138032/138032-1677710404.pdf,true
+DELTA,WARRI  NORTH,EBROHIMI,"OLUMAGADA TOWN HALL, OLUMAGADA",10/23/03/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19929/pu/31823/31823-1677710161.pdf,true
+DELTA,WARRI  NORTH,EBROHIMI,"EDO PRIMARY SCHOOL, OBAGHORO IV",10/23/03/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19929/pu/31822/31822-1677708656.pdf,true
+DELTA,WARRI  NORTH,EBROHIMI,"EDO PRIMARY SCHOOL, OBAGHORO III",10/23/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19929/pu/31821/31821-1677708460.pdf,false
+DELTA,WARRI  NORTH,EBROHIMI,"EDO PRIMARY SCHOOL, OBAGHORO II",10/23/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19929/pu/31820/31820-1677667076.pdf,true
+DELTA,WARRI  NORTH,EBROHIMI,"EDO PRIMARY SCHOOL, OBAGHORO I",10/23/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19929/pu/31819/31819-1677666788.pdf,true
+DELTA,WARRI  NORTH,EBROHIMI,"UGBENYEN TOWN HALL, UGBENYEN",10/23/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19929/pu/31818/31818-1677666398.pdf,true
+DELTA,WARRI  NORTH,EBROHIMI,"UREJU  PRIMARY SCHOOL, UREJU II",10/23/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19929/pu/31816/31816-1677665551.pdf,true
+DELTA,WARRI  NORTH,EBROHIMI,"UREJU  PRIMARY SCHOOL, UREJU I",10/23/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19929/pu/31815/31815-1677665094.pdf,true
+DELTA,WARRI  NORTH,EBROHIMI,"EBROHIMI TOWN HALL, EBROHIMI",10/23/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19929/pu/31814/31814-1677661327.pdf,true
+DELTA,WARRI  NORTH,EBROHIMI,"OLOMU PRIMARY SCHOOL, EBROHIMI III",10/23/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19929/pu/31813/31813-1677661108.pdf,true
+DELTA,WARRI  NORTH,EBROHIMI,"OLOMU PRIMARY SCHOOL, EBROHIMI II",10/23/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19929/pu/31812/31812-1677660233.pdf,true
+DELTA,WARRI  NORTH,EBROHIMI,"DUDU  PRIMARY  SCHOOL,  OBONTIE GHANREDA IV",10/23/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19929/pu/31810/31810-1677656210.pdf,true
+DELTA,WARRI  NORTH,EBROHIMI,"DUDU  PRIMARY  SCHOOL,  OBONTIE GHANREDA III",10/23/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19929/pu/31809/31809-1677655748.pdf,true
+DELTA,WARRI  NORTH,EBROHIMI,"UREJU  PRIMARY SCHOOL, UREJU III",10/23/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31807/result_149208_1677508810_thumb.jpg,true
+DELTA,WARRI  NORTH,EBROHIMI,"OLOMU PRIMARY SCHOOL, EBROHIMI I",10/23/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31801/result_149202_1677508375_thumb.jpg,true
+DELTA,WARRI  NORTH,EBROHIMI,"DUDU  PRIMARY  SCHOOL,  OBONTIE GHANREDA I",10/23/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31797/result_149198_1677508131_thumb.jpg,true
+DELTA,WARRI  NORTH,EBROHIMI,"DUDU  PRIMARY  SCHOOL,  OBONTIE GHANREDA II",10/23/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/03/pu/002/002-1677417643.pdf,false

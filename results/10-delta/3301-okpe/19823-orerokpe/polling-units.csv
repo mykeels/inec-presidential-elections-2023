@@ -1,31 +1,31 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,OKPE,,"HEALTH CARE CENTRE, OREROKPE",10/13/01/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629673/result_146683_1677821150_thumb.jpg,false
-DELTA,OKPE,,"BAPTIST HIGH SCHOOL I, OREROKPE",10/13/01/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629677/result_146687_1677821061_thumb.jpg,false
-DELTA,OKPE,,"OPEN SPACE BY RURAL ELECTRICITY BOARD, OREROKPE",10/13/01/029,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629678/result_146689_1677820975_thumb.jpg,false
-DELTA,OKPE,,"OPEN SPACE BY ORHORO ROAD JUNCTION, OREROKPE",10/13/01/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629679/result_146690_1677820865_thumb.jpg,false
-DELTA,OKPE,,"OPEN SPACE BY DELTA HOTEL JUNCTION, OREROKPE",10/13/01/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629676/result_146686_1677820779_thumb.jpg,false
-DELTA,OKPE,,"OPEN SPACE BY BANK STREET JUNCTION, OREROKPE",10/13/01/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629674/result_146684_1677820705_thumb.jpg,false
-DELTA,OKPE,,"ADANE - OKPE PRIMARY SCHOOL, OREROKPE IV",10/13/01/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30412/result_146668_1677820629_thumb.jpg,false
-DELTA,OKPE,,"ADANE - OKPE PRIMARY SCHOOL, OREROKPE III",10/13/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30411/result_146667_1677820519_thumb.jpg,false
-DELTA,OKPE,,"ORHUE PRIMARY SCHOOL, OREROKPE II",10/13/01/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30416/result_146672_1677820431_thumb.jpg,false
-DELTA,OKPE,,"OPEN SPACE BY LIBRARY, OREROKPE",10/13/01/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629668/result_146678_1677820216_thumb.jpg,false
-DELTA,OKPE,,PAVILION POLICE STATION II,10/13/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30406/result_146662_1677820107_thumb.jpg,false
-DELTA,OKPE,,"ADANE - OKPE PRIMARY SCHOOL, OREROKPE I",10/13/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30409/result_146665_1677819916_thumb.jpg,false
-DELTA,OKPE,,"OPEN  SPACE BY POLICE STATION, OREROKPE",10/13/01/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629666/result_146676_1677819850_thumb.jpg,false
-DELTA,OKPE,,"OPEN SPACE BY HOSPITAL ROAD JUNCTION II, OREROKPE",10/13/01/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629672/result_146682_1677819750_thumb.jpg,false
-DELTA,OKPE,,PALACE GATE I,10/13/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30407/result_146663_1677819640_thumb.jpg,false
-DELTA,OKPE,,PALACE GATE II,10/13/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30408/result_146664_1677819552_thumb.jpg,false
-DELTA,OKPE,,"BUS STOP BY CATHOLIC CHURCH, OREROKPE",10/13/01/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629667/result_146677_1677819422_thumb.jpg,false
-DELTA,OKPE,,"OKULOHO PRIMARY SCHOOL, OKULOHO II",10/13/01/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30418/result_146674_1677819209_thumb.jpg,false
-DELTA,OKPE,,"ORHUE PRIMARY SCHOOL, OREROKPE I",10/13/01/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-DELTA,OKPE,,"OPEN SPACE BY FACTORY ROAD JUNCTION BY OREROKPE OHA ROAD, OREROKPE",10/13/01/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629665/result_146675_1677818988_thumb.jpg,false
-DELTA,OKPE,,"OPEN SPACE BY HOSPITAL ROAD JUNCTION I, OREROKPE",10/13/01/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/01/pu/021/021-1677376384.pdf,false
-DELTA,OKPE,,"COUNCIL MULTI PURPOSE HALL, OREROKPE",10/13/01/019,,false
-DELTA,OKPE,,"OKULOHO PRIMARY SCHOOL, OKULOHO I",10/13/01/013,,false
-DELTA,OKPE,,BAPTIST HIGH SCHOOL II,10/13/01/028,,false
-DELTA,OKPE,,"OPEN SPACE BY OLD MARKET SQUARE, OREROKPE",10/13/01/020,,false
-DELTA,OKPE,,"OPEN SPACE BY BEDC, OREROKPE",10/13/01/025,,false
-DELTA,OKPE,,"ADANE - OKPE PRIMARY SCHOOL, OREROKPE V",10/13/01/009,,false
-DELTA,OKPE,,PAVILION POLICE STATION I,10/13/01/001,,false
-DELTA,OKPE,,"ADANE - OKPE PRIMARY SCHOOL, OREROKPE II",10/13/01/006,,false
-DELTA,OKPE,,"CUSTOMARY COURT, ORODJE ROAD",10/13/01/010,,false
+DELTA,OKPE,OREROKPE,"OPEN SPACE BY BEDC, OREROKPE",10/13/01/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629675/result_146685_1677821852_thumb.jpg,false
+DELTA,OKPE,OREROKPE,"ADANE - OKPE PRIMARY SCHOOL, OREROKPE V",10/13/01/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30413/result_146669_1677821699_thumb.jpg,false
+DELTA,OKPE,OREROKPE,"OPEN SPACE BY HOSPITAL ROAD JUNCTION I, OREROKPE",10/13/01/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629671/result_146681_1677821574_thumb.jpg,false
+DELTA,OKPE,OREROKPE,"CUSTOMARY COURT, ORODJE ROAD",10/13/01/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30414/result_146670_1677821479_thumb.jpg,false
+DELTA,OKPE,OREROKPE,PAVILION POLICE STATION I,10/13/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30405/result_146661_1677821396_thumb.jpg,false
+DELTA,OKPE,OREROKPE,"OPEN SPACE BY OLD MARKET SQUARE, OREROKPE",10/13/01/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629670/result_146680_1677821319_thumb.jpg,false
+DELTA,OKPE,OREROKPE,"COUNCIL MULTI PURPOSE HALL, OREROKPE",10/13/01/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629669/result_146679_1677821237_thumb.jpg,false
+DELTA,OKPE,OREROKPE,"HEALTH CARE CENTRE, OREROKPE",10/13/01/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629673/result_146683_1677821150_thumb.jpg,false
+DELTA,OKPE,OREROKPE,"BAPTIST HIGH SCHOOL I, OREROKPE",10/13/01/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629677/result_146687_1677821061_thumb.jpg,false
+DELTA,OKPE,OREROKPE,"OPEN SPACE BY RURAL ELECTRICITY BOARD, OREROKPE",10/13/01/029,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629678/result_146689_1677820975_thumb.jpg,false
+DELTA,OKPE,OREROKPE,"OPEN SPACE BY ORHORO ROAD JUNCTION, OREROKPE",10/13/01/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629679/result_146690_1677820865_thumb.jpg,false
+DELTA,OKPE,OREROKPE,"OPEN SPACE BY DELTA HOTEL JUNCTION, OREROKPE",10/13/01/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629676/result_146686_1677820779_thumb.jpg,false
+DELTA,OKPE,OREROKPE,"OPEN SPACE BY BANK STREET JUNCTION, OREROKPE",10/13/01/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629674/result_146684_1677820705_thumb.jpg,false
+DELTA,OKPE,OREROKPE,"ADANE - OKPE PRIMARY SCHOOL, OREROKPE IV",10/13/01/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30412/result_146668_1677820629_thumb.jpg,false
+DELTA,OKPE,OREROKPE,"ADANE - OKPE PRIMARY SCHOOL, OREROKPE III",10/13/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30411/result_146667_1677820519_thumb.jpg,false
+DELTA,OKPE,OREROKPE,"ORHUE PRIMARY SCHOOL, OREROKPE II",10/13/01/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30416/result_146672_1677820431_thumb.jpg,false
+DELTA,OKPE,OREROKPE,"OPEN SPACE BY LIBRARY, OREROKPE",10/13/01/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629668/result_146678_1677820216_thumb.jpg,false
+DELTA,OKPE,OREROKPE,PAVILION POLICE STATION II,10/13/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30406/result_146662_1677820107_thumb.jpg,false
+DELTA,OKPE,OREROKPE,"ADANE - OKPE PRIMARY SCHOOL, OREROKPE I",10/13/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30409/result_146665_1677819916_thumb.jpg,false
+DELTA,OKPE,OREROKPE,"OPEN  SPACE BY POLICE STATION, OREROKPE",10/13/01/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629666/result_146676_1677819850_thumb.jpg,false
+DELTA,OKPE,OREROKPE,"OPEN SPACE BY HOSPITAL ROAD JUNCTION II, OREROKPE",10/13/01/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629672/result_146682_1677819750_thumb.jpg,false
+DELTA,OKPE,OREROKPE,PALACE GATE I,10/13/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30407/result_146663_1677819640_thumb.jpg,false
+DELTA,OKPE,OREROKPE,PALACE GATE II,10/13/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30408/result_146664_1677819552_thumb.jpg,false
+DELTA,OKPE,OREROKPE,"BUS STOP BY CATHOLIC CHURCH, OREROKPE",10/13/01/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629667/result_146677_1677819422_thumb.jpg,false
+DELTA,OKPE,OREROKPE,"OKULOHO PRIMARY SCHOOL, OKULOHO II",10/13/01/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30418/result_146674_1677819209_thumb.jpg,false
+DELTA,OKPE,OREROKPE,"ORHUE PRIMARY SCHOOL, OREROKPE I",10/13/01/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+DELTA,OKPE,OREROKPE,"OPEN SPACE BY FACTORY ROAD JUNCTION BY OREROKPE OHA ROAD, OREROKPE",10/13/01/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629665/result_146675_1677818988_thumb.jpg,false
+DELTA,OKPE,OREROKPE,"OKULOHO PRIMARY SCHOOL, OKULOHO I",10/13/01/013,,false
+DELTA,OKPE,OREROKPE,BAPTIST HIGH SCHOOL II,10/13/01/028,,false
+DELTA,OKPE,OREROKPE,"ADANE - OKPE PRIMARY SCHOOL, OREROKPE II",10/13/01/006,,false

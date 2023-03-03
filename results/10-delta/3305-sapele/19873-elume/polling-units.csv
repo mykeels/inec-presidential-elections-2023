@@ -1,27 +1,27 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,SAPELE,,O/S DEGHELE VILLAGE,10/17/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19873/pu/30984/30984-1677484166.pdf,false
-DELTA,SAPELE,,O/S IRIABOME,10/17/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19873/pu/30987/30987-1677483873.pdf,false
-DELTA,SAPELE,,IBADA-ELUME COMMUNITY TOWNHALL,10/17/10/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19873/pu/137372/137372-1677483583.pdf,false
-DELTA,SAPELE,,ADAGBRASSA PRIMARY SCHOOL,10/17/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19873/pu/30986/30986-1677483433.pdf,false
-DELTA,SAPELE,,OTORAMUAN PRIMARY SCHOOL II,10/17/10/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19873/pu/30994/30994-1677482814.pdf,false
-DELTA,SAPELE,,JAKPA TOWN HALL,10/17/10/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/020/020-1677421065.pdf,false
-DELTA,SAPELE,,ELUME JUNCTION,10/17/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/009/009-1677420655.pdf,false
-DELTA,SAPELE,,O/S  OGIRISEN  VILLAGE,10/17/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/006/006-1677418945.pdf,false
-DELTA,SAPELE,,ENWOE PRIMARY SCHOOL AMUOKPOKPO,10/17/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/015/015-1677418119.pdf,false
-DELTA,SAPELE,,"OFURHE PRIMARY SCHOOL, UGBIMIDAKA II",10/17/10/025,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/025/025-1677417420.pdf,false
-DELTA,SAPELE,,JAKPA VILLAGE,10/17/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/013/013-1677411684.pdf,false
-DELTA,SAPELE,,"EGBELE PRIMARY SCHOOL, OGIEDE-ELUME",10/17/10/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/024/024-1677415844.pdf,false
-DELTA,SAPELE,,ITURU I  AND II   VILLAGE,10/17/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/004/004-1677415306.pdf,false
-DELTA,SAPELE,,O/S IBADA VILLAGE,10/17/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/002/002-1677414788.pdf,false
-DELTA,SAPELE,,OGIEDE SECONDARY SCHOOL,10/17/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/007/007-1677413931.pdf,false
-DELTA,SAPELE,,OTORAMUAN PRIMARY SCHOOL I,10/17/10/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/017/017-1677413155.pdf,false
-DELTA,SAPELE,,O/S EDEGBRODE,10/17/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/012/012-1677412241.pdf,false
-DELTA,SAPELE,,"OFURHE PRIMARY SCHOOL, IBIMIDAKA",10/17/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/003/003-1677410545.pdf,false
-DELTA,SAPELE,,OTORAMUAN PRIMARY SCHOOL III,10/17/10/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/019/019-1677410112.pdf,false
-DELTA,SAPELE,,OCHEMU PRIMARY SCHOOL,10/17/10/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/022/022-1677408915.pdf,false
-DELTA,SAPELE,,O/S OKU,10/17/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/014/014-1677407671.pdf,false
-DELTA,SAPELE,,"MEN TOWNHALL, ELUME JUNCTION",10/17/10/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/023/023-1677406657.pdf,false
-DELTA,SAPELE,,OYEHEN,10/17/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/001/001-1677405742.pdf,false
-DELTA,SAPELE,,O/S ONYEKE VILLAGE,10/17/10/005,,false
-DELTA,SAPELE,,O/S OLOHO VILLAGE,10/17/10/016,,false
-DELTA,SAPELE,,"OKUOKE PRIMARY SCHOOL, OKUOKE-ELUME",10/17/10/026,,false
+DELTA,SAPELE,ELUME,O/S DEGHELE VILLAGE,10/17/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19873/pu/30984/30984-1677484166.pdf,false
+DELTA,SAPELE,ELUME,O/S IRIABOME,10/17/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19873/pu/30987/30987-1677483873.pdf,false
+DELTA,SAPELE,ELUME,IBADA-ELUME COMMUNITY TOWNHALL,10/17/10/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19873/pu/137372/137372-1677483583.pdf,false
+DELTA,SAPELE,ELUME,ADAGBRASSA PRIMARY SCHOOL,10/17/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19873/pu/30986/30986-1677483433.pdf,false
+DELTA,SAPELE,ELUME,OTORAMUAN PRIMARY SCHOOL II,10/17/10/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19873/pu/30994/30994-1677482814.pdf,false
+DELTA,SAPELE,ELUME,JAKPA TOWN HALL,10/17/10/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/020/020-1677421065.pdf,false
+DELTA,SAPELE,ELUME,ELUME JUNCTION,10/17/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/009/009-1677420655.pdf,false
+DELTA,SAPELE,ELUME,O/S  OGIRISEN  VILLAGE,10/17/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/006/006-1677418945.pdf,false
+DELTA,SAPELE,ELUME,ENWOE PRIMARY SCHOOL AMUOKPOKPO,10/17/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/015/015-1677418119.pdf,false
+DELTA,SAPELE,ELUME,"OFURHE PRIMARY SCHOOL, UGBIMIDAKA II",10/17/10/025,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/025/025-1677417420.pdf,false
+DELTA,SAPELE,ELUME,JAKPA VILLAGE,10/17/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/013/013-1677411684.pdf,false
+DELTA,SAPELE,ELUME,"EGBELE PRIMARY SCHOOL, OGIEDE-ELUME",10/17/10/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/024/024-1677415844.pdf,false
+DELTA,SAPELE,ELUME,ITURU I  AND II   VILLAGE,10/17/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/004/004-1677415306.pdf,false
+DELTA,SAPELE,ELUME,O/S IBADA VILLAGE,10/17/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/002/002-1677414788.pdf,false
+DELTA,SAPELE,ELUME,OGIEDE SECONDARY SCHOOL,10/17/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/007/007-1677413931.pdf,false
+DELTA,SAPELE,ELUME,OTORAMUAN PRIMARY SCHOOL I,10/17/10/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/017/017-1677413155.pdf,false
+DELTA,SAPELE,ELUME,O/S EDEGBRODE,10/17/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/012/012-1677412241.pdf,false
+DELTA,SAPELE,ELUME,"OFURHE PRIMARY SCHOOL, IBIMIDAKA",10/17/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/003/003-1677410545.pdf,false
+DELTA,SAPELE,ELUME,OTORAMUAN PRIMARY SCHOOL III,10/17/10/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/019/019-1677410112.pdf,false
+DELTA,SAPELE,ELUME,OCHEMU PRIMARY SCHOOL,10/17/10/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/022/022-1677408915.pdf,false
+DELTA,SAPELE,ELUME,O/S OKU,10/17/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/014/014-1677407671.pdf,false
+DELTA,SAPELE,ELUME,"MEN TOWNHALL, ELUME JUNCTION",10/17/10/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/023/023-1677406657.pdf,false
+DELTA,SAPELE,ELUME,OYEHEN,10/17/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/10/pu/001/001-1677405742.pdf,false
+DELTA,SAPELE,ELUME,O/S ONYEKE VILLAGE,10/17/10/005,,false
+DELTA,SAPELE,ELUME,O/S OLOHO VILLAGE,10/17/10/016,,false
+DELTA,SAPELE,ELUME,"OKUOKE PRIMARY SCHOOL, OKUOKE-ELUME",10/17/10/026,,false

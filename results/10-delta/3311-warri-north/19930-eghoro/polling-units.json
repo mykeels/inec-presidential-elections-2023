@@ -26,6 +26,7 @@
     "pu_code_string": "102304016",
     "state_name": "DELTA",
     "lga_name": "WARRI  NORTH",
+    "ward_name": "EGHORO",
     "document": {
       "external": false,
       "status": 1,
@@ -73,6 +74,7 @@
     "pu_code_string": "102304015",
     "state_name": "DELTA",
     "lga_name": "WARRI  NORTH",
+    "ward_name": "EGHORO",
     "document": {
       "external": false,
       "status": 1,
@@ -111,6 +113,7 @@
     "pu_code_string": "102304009",
     "state_name": "DELTA",
     "lga_name": "WARRI  NORTH",
+    "ward_name": "EGHORO",
     "document": {
       "external": false,
       "status": 1,
@@ -158,6 +161,7 @@
     "pu_code_string": "102304008",
     "state_name": "DELTA",
     "lga_name": "WARRI  NORTH",
+    "ward_name": "EGHORO",
     "document": {
       "external": false,
       "status": 1,
@@ -196,6 +200,7 @@
     "pu_code_string": "102304006",
     "state_name": "DELTA",
     "lga_name": "WARRI  NORTH",
+    "ward_name": "EGHORO",
     "document": {
       "external": false,
       "status": 1,
@@ -234,6 +239,7 @@
     "pu_code_string": "102304005",
     "state_name": "DELTA",
     "lga_name": "WARRI  NORTH",
+    "ward_name": "EGHORO",
     "document": {
       "external": false,
       "status": 1,
@@ -272,6 +278,7 @@
     "pu_code_string": "102304004",
     "state_name": "DELTA",
     "lga_name": "WARRI  NORTH",
+    "ward_name": "EGHORO",
     "document": {
       "external": false,
       "status": 1,
@@ -310,6 +317,7 @@
     "pu_code_string": "102304003",
     "state_name": "DELTA",
     "lga_name": "WARRI  NORTH",
+    "ward_name": "EGHORO",
     "document": {
       "external": false,
       "status": 1,
@@ -348,6 +356,7 @@
     "pu_code_string": "102304002",
     "state_name": "DELTA",
     "lga_name": "WARRI  NORTH",
+    "ward_name": "EGHORO",
     "document": {
       "external": false,
       "status": 1,
@@ -386,6 +395,7 @@
     "pu_code_string": "102304001",
     "state_name": "DELTA",
     "lga_name": "WARRI  NORTH",
+    "ward_name": "EGHORO",
     "document": {
       "external": false,
       "status": 1,
@@ -433,6 +443,7 @@
     "pu_code_string": "102304011",
     "state_name": "DELTA",
     "lga_name": "WARRI  NORTH",
+    "ward_name": "EGHORO",
     "document": {
       "external": false,
       "status": 1,
@@ -471,6 +482,7 @@
     "pu_code_string": "102304014",
     "state_name": "DELTA",
     "lga_name": "WARRI  NORTH",
+    "ward_name": "EGHORO",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -501,6 +513,7 @@
     "pu_code_string": "102304007",
     "state_name": "DELTA",
     "lga_name": "WARRI  NORTH",
+    "ward_name": "EGHORO",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -531,6 +544,7 @@
     "pu_code_string": "102304012",
     "state_name": "DELTA",
     "lga_name": "WARRI  NORTH",
+    "ward_name": "EGHORO",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -561,6 +575,7 @@
     "pu_code_string": "102304010",
     "state_name": "DELTA",
     "lga_name": "WARRI  NORTH",
+    "ward_name": "EGHORO",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -591,6 +606,7 @@
     "pu_code_string": "102304013",
     "state_name": "DELTA",
     "lga_name": "WARRI  NORTH",
+    "ward_name": "EGHORO",
     "old_documents": [],
     "has_old_documents": false
   }

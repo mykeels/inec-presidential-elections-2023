@@ -1,20 +1,20 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,WARRI SOUTH,,ISIBOVBE PRY SCH,10/24/03/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/138116/138116-1677500909.pdf,false
-DELTA,WARRI SOUTH,,EKUREDE T/H V,10/24/03/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/138113/138113-1677500081.pdf,false
-DELTA,WARRI SOUTH,,"OGUNU TOWN HALL, OGUNU I",10/24/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/31936/31936-1677498584.pdf,false
-DELTA,WARRI SOUTH,,FEDERAL GOVERNMENT COLLEGE OGUNU I,10/24/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/31934/31934-1677498083.pdf,false
-DELTA,WARRI SOUTH,,FEDERAL GOVERNMENT COLLEGE OGUNU II,10/24/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/31935/31935-1677497568.pdf,false
-DELTA,WARRI SOUTH,,"EKUREDE TOWN HALL, EKUREDE-URHOBO IV",10/24/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/31931/31931-1677497118.pdf,false
-DELTA,WARRI SOUTH,,"EKUREDE TOWN HALL, EKUREDE-URHOBO II",10/24/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/31929/31929-1677496282.pdf,false
-DELTA,WARRI SOUTH,,"SHELL GATE, OGUNU II",10/24/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/31927/31927-1677495719.pdf,false
-DELTA,WARRI SOUTH,,"OGUNU TOWN HALL, OGUNU II",10/24/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/31937/31937-1677495037.pdf,false
-DELTA,WARRI SOUTH,,EKUREDE T/H VI,10/24/03/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/138114/138114-1677494435.pdf,false
-DELTA,WARRI SOUTH,,OGUNU / EKUREDE-URHOBO,10/24/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/31925/31925-1677493902.pdf,false
-DELTA,WARRI SOUTH,,"SHELL GATE, OGUNU I",10/24/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/31926/31926-1677493314.pdf,false
-DELTA,WARRI SOUTH,,"EKUREDE TOWN HALL, EKUREDE-URHOBO III",10/24/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/31930/31930-1677492625.pdf,false
-DELTA,WARRI SOUTH,,"OGUNU PRIMARY SCHOOL, OGUNU II",10/24/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/31924/31924-1677492216.pdf,false
-DELTA,WARRI SOUTH,,EKUREDE T/H VII,10/24/03/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/138115/138115-1677491900.pdf,false
-DELTA,WARRI SOUTH,,"EKUREDE TOWN HALL, EKUREDE-URHOBO I",10/24/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/31928/31928-1677491119.pdf,false
-DELTA,WARRI SOUTH,,"COURT FOUR, EKUREDE-URHOBO I",10/24/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/31932/31932-1677490732.pdf,false
-DELTA,WARRI SOUTH,,"COURT FOUR, EKUREDE-URHOBO II",10/24/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/31933/31933-1677489932.pdf,false
-DELTA,WARRI SOUTH,,"OGUNU PRIMARY SCHOOL, OGUNU I",10/24/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/31923/31923-1677484891.pdf,false
+DELTA,WARRI SOUTH,OGUNU/EKUREDE-URHOBO,ISIBOVBE PRY SCH,10/24/03/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/138116/138116-1677500909.pdf,false
+DELTA,WARRI SOUTH,OGUNU/EKUREDE-URHOBO,EKUREDE T/H V,10/24/03/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/138113/138113-1677500081.pdf,false
+DELTA,WARRI SOUTH,OGUNU/EKUREDE-URHOBO,"OGUNU TOWN HALL, OGUNU I",10/24/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/31936/31936-1677498584.pdf,false
+DELTA,WARRI SOUTH,OGUNU/EKUREDE-URHOBO,FEDERAL GOVERNMENT COLLEGE OGUNU I,10/24/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/31934/31934-1677498083.pdf,false
+DELTA,WARRI SOUTH,OGUNU/EKUREDE-URHOBO,FEDERAL GOVERNMENT COLLEGE OGUNU II,10/24/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/31935/31935-1677497568.pdf,false
+DELTA,WARRI SOUTH,OGUNU/EKUREDE-URHOBO,"EKUREDE TOWN HALL, EKUREDE-URHOBO IV",10/24/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/31931/31931-1677497118.pdf,false
+DELTA,WARRI SOUTH,OGUNU/EKUREDE-URHOBO,"EKUREDE TOWN HALL, EKUREDE-URHOBO II",10/24/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/31929/31929-1677496282.pdf,false
+DELTA,WARRI SOUTH,OGUNU/EKUREDE-URHOBO,"SHELL GATE, OGUNU II",10/24/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/31927/31927-1677495719.pdf,false
+DELTA,WARRI SOUTH,OGUNU/EKUREDE-URHOBO,"OGUNU TOWN HALL, OGUNU II",10/24/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/31937/31937-1677495037.pdf,false
+DELTA,WARRI SOUTH,OGUNU/EKUREDE-URHOBO,EKUREDE T/H VI,10/24/03/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/138114/138114-1677494435.pdf,false
+DELTA,WARRI SOUTH,OGUNU/EKUREDE-URHOBO,OGUNU / EKUREDE-URHOBO,10/24/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/31925/31925-1677493902.pdf,false
+DELTA,WARRI SOUTH,OGUNU/EKUREDE-URHOBO,"SHELL GATE, OGUNU I",10/24/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/31926/31926-1677493314.pdf,false
+DELTA,WARRI SOUTH,OGUNU/EKUREDE-URHOBO,"EKUREDE TOWN HALL, EKUREDE-URHOBO III",10/24/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/31930/31930-1677492625.pdf,false
+DELTA,WARRI SOUTH,OGUNU/EKUREDE-URHOBO,"OGUNU PRIMARY SCHOOL, OGUNU II",10/24/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/31924/31924-1677492216.pdf,false
+DELTA,WARRI SOUTH,OGUNU/EKUREDE-URHOBO,EKUREDE T/H VII,10/24/03/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/138115/138115-1677491900.pdf,false
+DELTA,WARRI SOUTH,OGUNU/EKUREDE-URHOBO,"EKUREDE TOWN HALL, EKUREDE-URHOBO I",10/24/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/31928/31928-1677491119.pdf,false
+DELTA,WARRI SOUTH,OGUNU/EKUREDE-URHOBO,"COURT FOUR, EKUREDE-URHOBO I",10/24/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/31932/31932-1677490732.pdf,false
+DELTA,WARRI SOUTH,OGUNU/EKUREDE-URHOBO,"COURT FOUR, EKUREDE-URHOBO II",10/24/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/31933/31933-1677489932.pdf,false
+DELTA,WARRI SOUTH,OGUNU/EKUREDE-URHOBO,"OGUNU PRIMARY SCHOOL, OGUNU I",10/24/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3312/ward/19939/pu/31923/31923-1677484891.pdf,false

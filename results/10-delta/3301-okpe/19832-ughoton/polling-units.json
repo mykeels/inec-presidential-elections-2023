@@ -26,6 +26,7 @@
     "pu_code_string": "101310031",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "101310021",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "101310005",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -132,6 +135,7 @@
     "pu_code_string": "101310010",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -162,6 +166,7 @@
     "pu_code_string": "101310015",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -192,6 +197,7 @@
     "pu_code_string": "101310028",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -222,6 +228,7 @@
     "pu_code_string": "101310033",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -252,6 +259,7 @@
     "pu_code_string": "101310038",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -282,6 +290,7 @@
     "pu_code_string": "101310020",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -312,6 +321,7 @@
     "pu_code_string": "101310025",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -342,6 +352,7 @@
     "pu_code_string": "101310003",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -372,6 +383,7 @@
     "pu_code_string": "101310008",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -402,6 +414,7 @@
     "pu_code_string": "101310013",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -432,6 +445,7 @@
     "pu_code_string": "101310018",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -462,6 +476,7 @@
     "pu_code_string": "101310036",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -492,6 +507,7 @@
     "pu_code_string": "101310002",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -522,6 +538,7 @@
     "pu_code_string": "101310041",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -552,6 +569,7 @@
     "pu_code_string": "101310007",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -582,6 +600,7 @@
     "pu_code_string": "101310023",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -612,6 +631,7 @@
     "pu_code_string": "101310012",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -642,6 +662,7 @@
     "pu_code_string": "101310017",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -672,6 +693,7 @@
     "pu_code_string": "101310030",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -702,6 +724,7 @@
     "pu_code_string": "101310035",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -732,6 +755,7 @@
     "pu_code_string": "101310040",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -762,6 +786,7 @@
     "pu_code_string": "101310004",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -792,6 +817,7 @@
     "pu_code_string": "101310022",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -822,6 +848,7 @@
     "pu_code_string": "101310009",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -852,6 +879,7 @@
     "pu_code_string": "101310014",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -882,6 +910,7 @@
     "pu_code_string": "101310027",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -912,6 +941,7 @@
     "pu_code_string": "101310019",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -942,6 +972,7 @@
     "pu_code_string": "101310032",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -972,6 +1003,7 @@
     "pu_code_string": "101310037",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1002,6 +1034,7 @@
     "pu_code_string": "101310001",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1032,6 +1065,7 @@
     "pu_code_string": "101310042",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1062,6 +1096,7 @@
     "pu_code_string": "101310006",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1092,6 +1127,7 @@
     "pu_code_string": "101310024",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1122,6 +1158,7 @@
     "pu_code_string": "101310011",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1152,6 +1189,7 @@
     "pu_code_string": "101310016",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1182,6 +1220,7 @@
     "pu_code_string": "101310029",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1212,6 +1251,7 @@
     "pu_code_string": "101310034",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1242,6 +1282,7 @@
     "pu_code_string": "101310039",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1272,6 +1313,7 @@
     "pu_code_string": "101310026",
     "state_name": "DELTA",
     "lga_name": "OKPE",
+    "ward_name": "UGHOTON",
     "old_documents": [],
     "has_old_documents": false
   }

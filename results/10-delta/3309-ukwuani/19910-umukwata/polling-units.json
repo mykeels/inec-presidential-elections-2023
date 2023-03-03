@@ -26,6 +26,7 @@
     "pu_code_string": "102104005",
     "state_name": "DELTA",
     "lga_name": "UKWUANI",
+    "ward_name": "UMUKWATA",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "102104009",
     "state_name": "DELTA",
     "lga_name": "UKWUANI",
+    "ward_name": "UMUKWATA",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "102104007",
     "state_name": "DELTA",
     "lga_name": "UKWUANI",
+    "ward_name": "UMUKWATA",
     "document": {
       "external": false,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "102104011",
     "state_name": "DELTA",
     "lga_name": "UKWUANI",
+    "ward_name": "UMUKWATA",
     "document": {
       "external": false,
       "status": 1,
@@ -178,6 +182,7 @@
     "pu_code_string": "102104003",
     "state_name": "DELTA",
     "lga_name": "UKWUANI",
+    "ward_name": "UMUKWATA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -208,6 +213,7 @@
     "pu_code_string": "102104008",
     "state_name": "DELTA",
     "lga_name": "UKWUANI",
+    "ward_name": "UMUKWATA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -238,6 +244,7 @@
     "pu_code_string": "102104013",
     "state_name": "DELTA",
     "lga_name": "UKWUANI",
+    "ward_name": "UMUKWATA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -268,6 +275,7 @@
     "pu_code_string": "102104001",
     "state_name": "DELTA",
     "lga_name": "UKWUANI",
+    "ward_name": "UMUKWATA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -298,6 +306,7 @@
     "pu_code_string": "102104006",
     "state_name": "DELTA",
     "lga_name": "UKWUANI",
+    "ward_name": "UMUKWATA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -328,6 +337,7 @@
     "pu_code_string": "102104016",
     "state_name": "DELTA",
     "lga_name": "UKWUANI",
+    "ward_name": "UMUKWATA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -358,6 +368,7 @@
     "pu_code_string": "102104002",
     "state_name": "DELTA",
     "lga_name": "UKWUANI",
+    "ward_name": "UMUKWATA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -388,6 +399,7 @@
     "pu_code_string": "102104004",
     "state_name": "DELTA",
     "lga_name": "UKWUANI",
+    "ward_name": "UMUKWATA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -418,6 +430,7 @@
     "pu_code_string": "102104012",
     "state_name": "DELTA",
     "lga_name": "UKWUANI",
+    "ward_name": "UMUKWATA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -448,6 +461,7 @@
     "pu_code_string": "102104014",
     "state_name": "DELTA",
     "lga_name": "UKWUANI",
+    "ward_name": "UMUKWATA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -478,6 +492,7 @@
     "pu_code_string": "102104010",
     "state_name": "DELTA",
     "lga_name": "UKWUANI",
+    "ward_name": "UMUKWATA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -508,6 +523,7 @@
     "pu_code_string": "102104015",
     "state_name": "DELTA",
     "lga_name": "UKWUANI",
+    "ward_name": "UMUKWATA",
     "old_documents": [],
     "has_old_documents": false
   }

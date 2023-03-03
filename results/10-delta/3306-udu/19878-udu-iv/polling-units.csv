@@ -1,22 +1,22 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,UDU,,"JEHOVAH WITNESS FIELD, UBOGO",10/18/04/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31039/result_147803_1677786286_thumb.jpg,false
-DELTA,UDU,,ENIOVOSAN OPEN SPACE,10/18/04/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/630254/result_147811_1677786042_thumb.jpg,false
-DELTA,UDU,,EKROTA PRIMARY SCH,10/18/04/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/630253/result_147810_1677785962_thumb.jpg,false
-DELTA,UDU,,EMADAJA CIVIC CENTRE,10/18/04/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/630251/result_147808_1677785892_thumb.jpg,false
-DELTA,UDU,,EWHEWHEYA HALL,10/18/04/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/630250/result_147807_1677785722_thumb.jpg,false
-DELTA,UDU,,EGBEVWIE  OPEN SPACE,10/18/04/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/630249/result_147806_1677785646_thumb.jpg,false
-DELTA,UDU,,EMADAJA COMMUNITY CENTRAL HALL,10/18/04/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/630252/result_147809_1677785566_thumb.jpg,false
-DELTA,UDU,,UBOGO SEC SCHOOL,10/18/04/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/630248/result_147805_1677785420_thumb.jpg,false
-DELTA,UDU,,EGWARE OPEN SPACE,10/18/04/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/630247/result_147804_1677785166_thumb.jpg,false
-DELTA,UDU,,"UGBISI TOWN HALL,  UGBISI",10/18/04/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31038/result_147802_1677784726_thumb.jpg,false
-DELTA,UDU,,"UGBISI PRIMARY SCHOOL, UGBISI",10/18/04/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31037/result_147801_1677784641_thumb.jpg,false
-DELTA,UDU,,"OBUBU PRIMARY SCHOOL, OBUBU II",10/18/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31036/result_147800_1677784537_thumb.jpg,false
-DELTA,UDU,,"UKPERERHEN TOWN HALL,  UKPERERHEN",10/18/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31034/result_147798_1677784422_thumb.jpg,false
-DELTA,UDU,,"UBOGO TOWN HALL, UBOGO",10/18/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31030/result_147794_1677783948_thumb.jpg,false
-DELTA,UDU,,"UBOGO PRIMARY SCHOOL, UBOGO I",10/18/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31029/result_147793_1677783621_thumb.jpg,false
-DELTA,UDU,,"EMADAJA PRIMARY SCHOOL, EMADAJA II",10/18/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31028/result_147792_1677783427_thumb.jpg,false
-DELTA,UDU,,"EMADAJA PRIMARY SCHOOL, EMADAJA I",10/18/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31027/result_147791_1677783128_thumb.jpg,false
-DELTA,UDU,,"OBUBU PRIMARY SCHOOL, OBUBU I",10/18/04/009,,false
-DELTA,UDU,,"UKPERERHEN PRIMARY SCHOOL, UKPERERHEN",10/18/04/007,,false
-DELTA,UDU,,"EKROTA TOWN HALL, EKROTA",10/18/04/006,,false
-DELTA,UDU,,"UBOGO PRIMARY SCHOOL, UBOGO II",10/18/04/005,,false
+DELTA,UDU,UDU  IV,"JEHOVAH WITNESS FIELD, UBOGO",10/18/04/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31039/result_147803_1677786286_thumb.jpg,false
+DELTA,UDU,UDU  IV,ENIOVOSAN OPEN SPACE,10/18/04/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/630254/result_147811_1677786042_thumb.jpg,false
+DELTA,UDU,UDU  IV,EKROTA PRIMARY SCH,10/18/04/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/630253/result_147810_1677785962_thumb.jpg,false
+DELTA,UDU,UDU  IV,EMADAJA CIVIC CENTRE,10/18/04/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/630251/result_147808_1677785892_thumb.jpg,false
+DELTA,UDU,UDU  IV,EWHEWHEYA HALL,10/18/04/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/630250/result_147807_1677785722_thumb.jpg,false
+DELTA,UDU,UDU  IV,EGBEVWIE  OPEN SPACE,10/18/04/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/630249/result_147806_1677785646_thumb.jpg,false
+DELTA,UDU,UDU  IV,EMADAJA COMMUNITY CENTRAL HALL,10/18/04/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/630252/result_147809_1677785566_thumb.jpg,false
+DELTA,UDU,UDU  IV,UBOGO SEC SCHOOL,10/18/04/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/630248/result_147805_1677785420_thumb.jpg,false
+DELTA,UDU,UDU  IV,EGWARE OPEN SPACE,10/18/04/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/630247/result_147804_1677785166_thumb.jpg,false
+DELTA,UDU,UDU  IV,"UGBISI TOWN HALL,  UGBISI",10/18/04/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31038/result_147802_1677784726_thumb.jpg,false
+DELTA,UDU,UDU  IV,"UGBISI PRIMARY SCHOOL, UGBISI",10/18/04/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31037/result_147801_1677784641_thumb.jpg,false
+DELTA,UDU,UDU  IV,"OBUBU PRIMARY SCHOOL, OBUBU II",10/18/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31036/result_147800_1677784537_thumb.jpg,false
+DELTA,UDU,UDU  IV,"UKPERERHEN TOWN HALL,  UKPERERHEN",10/18/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31034/result_147798_1677784422_thumb.jpg,false
+DELTA,UDU,UDU  IV,"UBOGO TOWN HALL, UBOGO",10/18/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31030/result_147794_1677783948_thumb.jpg,false
+DELTA,UDU,UDU  IV,"UBOGO PRIMARY SCHOOL, UBOGO I",10/18/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31029/result_147793_1677783621_thumb.jpg,false
+DELTA,UDU,UDU  IV,"EMADAJA PRIMARY SCHOOL, EMADAJA II",10/18/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31028/result_147792_1677783427_thumb.jpg,false
+DELTA,UDU,UDU  IV,"EMADAJA PRIMARY SCHOOL, EMADAJA I",10/18/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31027/result_147791_1677783128_thumb.jpg,false
+DELTA,UDU,UDU  IV,"OBUBU PRIMARY SCHOOL, OBUBU I",10/18/04/009,,false
+DELTA,UDU,UDU  IV,"UKPERERHEN PRIMARY SCHOOL, UKPERERHEN",10/18/04/007,,false
+DELTA,UDU,UDU  IV,"EKROTA TOWN HALL, EKROTA",10/18/04/006,,false
+DELTA,UDU,UDU  IV,"UBOGO PRIMARY SCHOOL, UBOGO II",10/18/04/005,,false

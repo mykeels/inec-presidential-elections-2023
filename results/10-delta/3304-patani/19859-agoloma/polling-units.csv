@@ -1,8 +1,8 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,PATANI,,OSINZI  QUARTERS  HALL  I,10/16/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/006/006-1677422444.pdf,false
-DELTA,PATANI,,ENGBELEMAZI,10/16/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/005/005-1677420861.pdf,false
-DELTA,PATANI,,BOUNAMAZI,10/16/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/003/003-1677419592.pdf,false
-DELTA,PATANI,,BOUNAMAZI,10/16/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/004/004-1677417108.pdf,false
-DELTA,PATANI,,KOROBAZI   II,10/16/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/002/002-1677413885.pdf,false
-DELTA,PATANI,,KOROBAZI   I,10/16/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/001/001-1677412640.pdf,false
-DELTA,PATANI,,OSINZI  QUARTERS  HALL  II,10/16/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/007/007-1677407837.pdf,false
+DELTA,PATANI,AGOLOMA,OSINZI  QUARTERS  HALL  I,10/16/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/006/006-1677422444.pdf,false
+DELTA,PATANI,AGOLOMA,ENGBELEMAZI,10/16/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/005/005-1677420861.pdf,false
+DELTA,PATANI,AGOLOMA,BOUNAMAZI,10/16/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/003/003-1677419592.pdf,false
+DELTA,PATANI,AGOLOMA,BOUNAMAZI,10/16/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/004/004-1677417108.pdf,false
+DELTA,PATANI,AGOLOMA,KOROBAZI   II,10/16/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/002/002-1677413885.pdf,false
+DELTA,PATANI,AGOLOMA,KOROBAZI   I,10/16/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/001/001-1677412640.pdf,false
+DELTA,PATANI,AGOLOMA,OSINZI  QUARTERS  HALL  II,10/16/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/007/007-1677407837.pdf,false

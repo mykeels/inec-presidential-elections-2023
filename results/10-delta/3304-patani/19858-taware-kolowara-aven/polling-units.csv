@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,PATANI,,TAWARE  I  BY ODOKO COMPOUND,10/16/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/001/001-1677428308.pdf,false
-DELTA,PATANI,,TAWARE  II  BY WATER MAN,10/16/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/002/002-1677426320.pdf,false
-DELTA,PATANI,,"AVEN  I I   A.P.S.,  AVEN",10/16/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/005/005-1677424848.pdf,false
-DELTA,PATANI,,"AVEN  I  A.P.S.,  AVEN",10/16/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/004/004-1677419583.pdf,false
-DELTA,PATANI,,TORU - KOLOWARE II,10/16/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/007/007-1677418013.pdf,false
-DELTA,PATANI,,"AVEN IV, A.P.S
+DELTA,PATANI,TAWARE/KOLOWARA AVEN,TAWARE  I  BY ODOKO COMPOUND,10/16/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/001/001-1677428308.pdf,false
+DELTA,PATANI,TAWARE/KOLOWARA AVEN,TAWARE  II  BY WATER MAN,10/16/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/002/002-1677426320.pdf,false
+DELTA,PATANI,TAWARE/KOLOWARA AVEN,"AVEN  I I   A.P.S.,  AVEN",10/16/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/005/005-1677424848.pdf,false
+DELTA,PATANI,TAWARE/KOLOWARA AVEN,"AVEN  I  A.P.S.,  AVEN",10/16/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/004/004-1677419583.pdf,false
+DELTA,PATANI,TAWARE/KOLOWARA AVEN,TORU - KOLOWARE II,10/16/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/007/007-1677418013.pdf,false
+DELTA,PATANI,TAWARE/KOLOWARA AVEN,"AVEN IV, A.P.S
 AVEN",10/16/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/009/009-1677414006.pdf,false
-DELTA,PATANI,,TORU - KOLOWARE I,10/16/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/006/006-1677399499.pdf,false
-DELTA,PATANI,,KOLOWARE  PRIMARY SCHOOL,10/16/05/003,,false
-DELTA,PATANI,,"AVEN III, A.P.S.
+DELTA,PATANI,TAWARE/KOLOWARA AVEN,TORU - KOLOWARE I,10/16/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/006/006-1677399499.pdf,false
+DELTA,PATANI,TAWARE/KOLOWARA AVEN,KOLOWARE  PRIMARY SCHOOL,10/16/05/003,,false
+DELTA,PATANI,TAWARE/KOLOWARA AVEN,"AVEN III, A.P.S.
 AVEN",10/16/05/008,,false

@@ -26,6 +26,7 @@
     "pu_code_string": "102411027",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "102411010",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "102411009",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "document": {
       "external": false,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "102411021",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "document": {
       "external": false,
       "status": 1,
@@ -178,6 +182,7 @@
     "pu_code_string": "102411016",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "document": {
       "external": false,
       "status": 1,
@@ -216,6 +221,7 @@
     "pu_code_string": "102411020",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "document": {
       "external": false,
       "status": 1,
@@ -254,6 +260,7 @@
     "pu_code_string": "102411023",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "document": {
       "external": false,
       "status": 1,
@@ -292,6 +299,7 @@
     "pu_code_string": "102411003",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "document": {
       "external": false,
       "status": 1,
@@ -330,6 +338,7 @@
     "pu_code_string": "102411015",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "document": {
       "external": false,
       "status": 1,
@@ -368,6 +377,7 @@
     "pu_code_string": "102411014",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "document": {
       "external": false,
       "status": 1,
@@ -406,6 +416,7 @@
     "pu_code_string": "102411032",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "document": {
       "external": false,
       "status": 1,
@@ -444,6 +455,7 @@
     "pu_code_string": "102411002",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "document": {
       "external": false,
       "status": 1,
@@ -482,6 +494,7 @@
     "pu_code_string": "102411001",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "document": {
       "external": false,
       "status": 1,
@@ -520,6 +533,7 @@
     "pu_code_string": "102411013",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "document": {
       "external": false,
       "status": 1,
@@ -558,6 +572,7 @@
     "pu_code_string": "102411022",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "document": {
       "external": false,
       "status": 1,
@@ -596,6 +611,7 @@
     "pu_code_string": "102411025",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "document": {
       "external": false,
       "status": 1,
@@ -634,6 +650,7 @@
     "pu_code_string": "102411019",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "document": {
       "external": false,
       "status": 1,
@@ -672,6 +689,7 @@
     "pu_code_string": "102411005",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "document": {
       "external": false,
       "status": 1,
@@ -710,6 +728,7 @@
     "pu_code_string": "102411004",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -740,6 +759,7 @@
     "pu_code_string": "102411024",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -770,6 +790,7 @@
     "pu_code_string": "102411029",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -800,6 +821,7 @@
     "pu_code_string": "102411007",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -830,6 +852,7 @@
     "pu_code_string": "102411012",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -860,6 +883,7 @@
     "pu_code_string": "102411017",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -890,6 +914,7 @@
     "pu_code_string": "102411006",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -920,6 +945,7 @@
     "pu_code_string": "102411008",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -950,6 +976,7 @@
     "pu_code_string": "102411011",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -980,6 +1007,7 @@
     "pu_code_string": "102411018",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1010,6 +1038,7 @@
     "pu_code_string": "102411030",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1040,6 +1069,7 @@
     "pu_code_string": "102411026",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1070,6 +1100,7 @@
     "pu_code_string": "102411028",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1100,6 +1131,7 @@
     "pu_code_string": "102411031",
     "state_name": "DELTA",
     "lga_name": "WARRI SOUTH",
+    "ward_name": "OKUMAGBA I",
     "old_documents": [],
     "has_old_documents": false
   }

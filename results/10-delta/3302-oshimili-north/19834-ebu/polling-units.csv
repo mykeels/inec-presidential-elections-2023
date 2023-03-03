@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,OSHIMILI - NORTH,,UBUENI PRIMARY SCHOOL - OKUDU/OKELE/OGOR,10/14/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30563/result_146916_1677513359_thumb.jpg,true
-DELTA,OSHIMILI - NORTH,,"ST. PAUL'S G/SCHOOL, EKPECHORI/EKPECHOR VILLAGE I",10/14/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,true
-DELTA,OSHIMILI - NORTH,,EKPECHOR TOWN HALL,10/14/02/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629717/result_146926_1677515717_thumb.jpg,true
-DELTA,OSHIMILI - NORTH,,AGINIKE-OJENIGBIRO NEW SETTLEMENT (OPEN SPACE),10/14/02/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629715/result_146924_1677515203_thumb.jpg,true
-DELTA,OSHIMILI - NORTH,,OKE OPEN SPACE,10/14/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629713/result_146922_1677514962_thumb.jpg,true
-DELTA,OSHIMILI - NORTH,,UCHEBE ULOKO TOWN HALL,10/14/02/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629714/result_146923_1677495458_thumb.jpg,true
-DELTA,OSHIMILI - NORTH,,OKURU TOWN HALL,10/14/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629712/result_146921_1677514749_thumb.jpg,true
-DELTA,OSHIMILI - NORTH,,OJA PRIMARY SCHOOL - IYIAGASHIMILI/AGANIKE/AMAMA - LEGELE/UGBOLO,10/14/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30565/result_146918_1677513903_thumb.jpg,true
-DELTA,OSHIMILI - NORTH,,UBUENI PRIMARY SCHOOL - ARAKA-OGOLI/ARAKODIEKE/OGBE - OGAOLE,10/14/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30564/result_146917_1677513590_thumb.jpg,true
-DELTA,OSHIMILI - NORTH,,AMOKHALE TOWN HALL,10/14/02/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629716/result_146925_1677515488_thumb.jpg,true
-DELTA,OSHIMILI - NORTH,,"ST. PAUL'S G/SCHOOL, EKPECHORI/EKPECHOR VILLAGE II",10/14/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30567/result_146920_1677514459_thumb.jpg,true
+DELTA,OSHIMILI - NORTH,EBU,UBUENI PRIMARY SCHOOL - OKUDU/OKELE/OGOR,10/14/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30563/result_146916_1677513359_thumb.jpg,true
+DELTA,OSHIMILI - NORTH,EBU,"ST. PAUL'S G/SCHOOL, EKPECHORI/EKPECHOR VILLAGE I",10/14/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,true
+DELTA,OSHIMILI - NORTH,EBU,EKPECHOR TOWN HALL,10/14/02/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629717/result_146926_1677515717_thumb.jpg,true
+DELTA,OSHIMILI - NORTH,EBU,AGINIKE-OJENIGBIRO NEW SETTLEMENT (OPEN SPACE),10/14/02/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629715/result_146924_1677515203_thumb.jpg,true
+DELTA,OSHIMILI - NORTH,EBU,OKE OPEN SPACE,10/14/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629713/result_146922_1677514962_thumb.jpg,true
+DELTA,OSHIMILI - NORTH,EBU,UCHEBE ULOKO TOWN HALL,10/14/02/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629714/result_146923_1677495458_thumb.jpg,true
+DELTA,OSHIMILI - NORTH,EBU,OKURU TOWN HALL,10/14/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629712/result_146921_1677514749_thumb.jpg,true
+DELTA,OSHIMILI - NORTH,EBU,OJA PRIMARY SCHOOL - IYIAGASHIMILI/AGANIKE/AMAMA - LEGELE/UGBOLO,10/14/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30565/result_146918_1677513903_thumb.jpg,true
+DELTA,OSHIMILI - NORTH,EBU,UBUENI PRIMARY SCHOOL - ARAKA-OGOLI/ARAKODIEKE/OGBE - OGAOLE,10/14/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30564/result_146917_1677513590_thumb.jpg,true
+DELTA,OSHIMILI - NORTH,EBU,AMOKHALE TOWN HALL,10/14/02/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629716/result_146925_1677515488_thumb.jpg,true
+DELTA,OSHIMILI - NORTH,EBU,"ST. PAUL'S G/SCHOOL, EKPECHORI/EKPECHOR VILLAGE II",10/14/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30567/result_146920_1677514459_thumb.jpg,true

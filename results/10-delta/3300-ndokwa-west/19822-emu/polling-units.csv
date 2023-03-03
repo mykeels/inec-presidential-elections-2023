@@ -1,21 +1,21 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,NDOKWA WEST,,EBENDO PRIMARY SCHOOL - OGBE UKWU QUARTERS,10/12/10/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30401/result_146657_1677698587_thumb.jpg,false
-DELTA,NDOKWA WEST,,OTUOLE PRIMARY SCHOOL - OBIANWU/IFEOMA/OGBE ISO,10/12/10/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30398/result_146654_1677698339_thumb.jpg,false
-DELTA,NDOKWA WEST,,EMU IYASELE PRIMARY SCHOOL - EMU IYASELE  I & II QUARTERS,10/12/10/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-DELTA,NDOKWA WEST,,OBIOGWU - OGBENODI/UMU OJUGBELI,10/12/10/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30403/result_146659_1677610659_thumb.jpg,false
-DELTA,NDOKWA WEST,,TOWN HALL - UKU/OKA,10/12/10/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30402/result_146658_1677610515_thumb.jpg,false
-DELTA,NDOKWA WEST,,EMU IYASELE PRIMARY SCHOOL - EMU IYASELE  I & II,10/12/10/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30400/result_146656_1677610181_thumb.jpg,false
-DELTA,NDOKWA WEST,,"OTUOLE PRIMARY SCHOOL - UKU, IYASELE, WARRI",10/12/10/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30399/result_146655_1677609804_thumb.jpg,false
-DELTA,NDOKWA WEST,,"OTUOLE PRIMARY SCHOOL - IBABU, ODORO, ATA QUARTERS",10/12/10/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30397/result_146653_1677584582_thumb.jpg,false
-DELTA,NDOKWA WEST,,"MATERNITY HOME - UMUODIO, AKU, IKOSA QUARTERS",10/12/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30391/result_146647_1677582503_thumb.jpg,false
-DELTA,NDOKWA WEST,,OBIOGO PRIMARY SCHOOL - OGBE OGWASHI/OKPAI QUARTERS,10/12/10/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30393/result_146649_1677582735_thumb.jpg,false
-DELTA,NDOKWA WEST,,"OLOR PRIMARY SCHOOL -OGBOLUM, AKU UMUSE, IKOSA QUARTERS",10/12/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30386/result_146642_1677581929_thumb.jpg,false
-DELTA,NDOKWA WEST,,OLOR PRIMARY SCHOOL - UMU OFE/UMU AKPASHIA QUARTERS,10/12/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30390/result_146646_1677582338_thumb.jpg,false
-DELTA,NDOKWA WEST,,"OLOR PRIMARY SCHOOL - ETEVIE UMUSE, OGBE ONODI",10/12/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30385/result_146641_1677581808_thumb.jpg,false
-DELTA,NDOKWA WEST,,OLOR PRIMARY SCHOOL - AJONOGU/OBI OFU QUARTERS,10/12/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30387/result_146643_1677582031_thumb.jpg,false
-DELTA,NDOKWA WEST,,"ETITI PRIMARY SCHOOL - ENWESHI , UKU,OKA QUARTERS",10/12/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30394/result_146650_1677583321_thumb.jpg,false
-DELTA,NDOKWA WEST,,"ETITI PRIMARY SCHOOL - AGBAI/ODOLU, EMU, OBODETI",10/12/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-DELTA,NDOKWA WEST,,OBIOGO PRIMARY SCHOOL - OBIOGO QUARTERS,10/12/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30392/result_146648_1677582619_thumb.jpg,false
-DELTA,NDOKWA WEST,,"ETITI PRIMARY SCHOOL - ENWESHI OKU, OKA/ODOLU QUARTERS",10/12/10/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30395/result_146651_1677583901_thumb.jpg,false
-DELTA,NDOKWA WEST,,OLOR PRIMARY SCHOOL - IKOSA UKU/IYASELE QUARTERS,10/12/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30389/result_146645_1677582229_thumb.jpg,false
-DELTA,NDOKWA WEST,,OLOR PRIMARY SCHOOL - UMU-OZEGBE OSSAI QUARTERS,10/12/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30388/result_146644_1677582139_thumb.jpg,false
+DELTA,NDOKWA WEST,EMU,EBENDO PRIMARY SCHOOL - OGBE UKWU QUARTERS,10/12/10/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30401/result_146657_1677698587_thumb.jpg,false
+DELTA,NDOKWA WEST,EMU,OTUOLE PRIMARY SCHOOL - OBIANWU/IFEOMA/OGBE ISO,10/12/10/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30398/result_146654_1677698339_thumb.jpg,false
+DELTA,NDOKWA WEST,EMU,EMU IYASELE PRIMARY SCHOOL - EMU IYASELE  I & II QUARTERS,10/12/10/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+DELTA,NDOKWA WEST,EMU,OBIOGWU - OGBENODI/UMU OJUGBELI,10/12/10/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30403/result_146659_1677610659_thumb.jpg,false
+DELTA,NDOKWA WEST,EMU,TOWN HALL - UKU/OKA,10/12/10/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30402/result_146658_1677610515_thumb.jpg,false
+DELTA,NDOKWA WEST,EMU,EMU IYASELE PRIMARY SCHOOL - EMU IYASELE  I & II,10/12/10/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30400/result_146656_1677610181_thumb.jpg,false
+DELTA,NDOKWA WEST,EMU,"OTUOLE PRIMARY SCHOOL - UKU, IYASELE, WARRI",10/12/10/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30399/result_146655_1677609804_thumb.jpg,false
+DELTA,NDOKWA WEST,EMU,"OTUOLE PRIMARY SCHOOL - IBABU, ODORO, ATA QUARTERS",10/12/10/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30397/result_146653_1677584582_thumb.jpg,false
+DELTA,NDOKWA WEST,EMU,"MATERNITY HOME - UMUODIO, AKU, IKOSA QUARTERS",10/12/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30391/result_146647_1677582503_thumb.jpg,false
+DELTA,NDOKWA WEST,EMU,OBIOGO PRIMARY SCHOOL - OGBE OGWASHI/OKPAI QUARTERS,10/12/10/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30393/result_146649_1677582735_thumb.jpg,false
+DELTA,NDOKWA WEST,EMU,"OLOR PRIMARY SCHOOL -OGBOLUM, AKU UMUSE, IKOSA QUARTERS",10/12/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30386/result_146642_1677581929_thumb.jpg,false
+DELTA,NDOKWA WEST,EMU,OLOR PRIMARY SCHOOL - UMU OFE/UMU AKPASHIA QUARTERS,10/12/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30390/result_146646_1677582338_thumb.jpg,false
+DELTA,NDOKWA WEST,EMU,"OLOR PRIMARY SCHOOL - ETEVIE UMUSE, OGBE ONODI",10/12/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30385/result_146641_1677581808_thumb.jpg,false
+DELTA,NDOKWA WEST,EMU,OLOR PRIMARY SCHOOL - AJONOGU/OBI OFU QUARTERS,10/12/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30387/result_146643_1677582031_thumb.jpg,false
+DELTA,NDOKWA WEST,EMU,"ETITI PRIMARY SCHOOL - ENWESHI , UKU,OKA QUARTERS",10/12/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30394/result_146650_1677583321_thumb.jpg,false
+DELTA,NDOKWA WEST,EMU,"ETITI PRIMARY SCHOOL - AGBAI/ODOLU, EMU, OBODETI",10/12/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+DELTA,NDOKWA WEST,EMU,OBIOGO PRIMARY SCHOOL - OBIOGO QUARTERS,10/12/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30392/result_146648_1677582619_thumb.jpg,false
+DELTA,NDOKWA WEST,EMU,"ETITI PRIMARY SCHOOL - ENWESHI OKU, OKA/ODOLU QUARTERS",10/12/10/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30395/result_146651_1677583901_thumb.jpg,false
+DELTA,NDOKWA WEST,EMU,OLOR PRIMARY SCHOOL - IKOSA UKU/IYASELE QUARTERS,10/12/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30389/result_146645_1677582229_thumb.jpg,false
+DELTA,NDOKWA WEST,EMU,OLOR PRIMARY SCHOOL - UMU-OZEGBE OSSAI QUARTERS,10/12/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30388/result_146644_1677582139_thumb.jpg,false

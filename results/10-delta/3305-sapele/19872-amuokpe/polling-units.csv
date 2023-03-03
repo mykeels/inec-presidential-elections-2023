@@ -1,55 +1,55 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,SAPELE,,"OKPE GRAMMAR SCHOOL, SAPELE III",10/17/09/040,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137357/137357-1677500880.pdf,false
-DELTA,SAPELE,,"OVWORE PRIMARY SCHOOL,IBADA AMUOKPE",10/17/09/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30967/30967-1677500655.pdf,false
-DELTA,SAPELE,,OKWOVWURI VILLAGE I,10/17/09/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30970/30970-1677499926.pdf,false
-DELTA,SAPELE,,"ETHIOPE PRIMARY SCHOOL, AMUOKPE IV",10/17/09/035,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137352/137352-1677499390.pdf,false
-DELTA,SAPELE,,AJIMILE ROAD BY CHIEF WARRI COMP,10/17/09/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30976/30976-1677499261.pdf,false
-DELTA,SAPELE,,O/S OLD SAPELE WARRI ROAD OPPOSITE AMUOKPE GARRAGE,10/17/09/032,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137349/137349-1677498803.pdf,false
-DELTA,SAPELE,,FRONT OF S.T.C SAPELE II,10/17/09/054,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137371/137371-1677497660.pdf,false
-DELTA,SAPELE,,O/S AFTER OPPM OGORODE-AMUOKPE I,10/17/09/037,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137354/137354-1677497173.pdf,false
-DELTA,SAPELE,,UGBURUMU COMMUNITY HALL,10/17/09/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137344/137344-1677496911.pdf,false
-DELTA,SAPELE,,FRONT OF OLD VITAFOAM,10/17/09/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137345/137345-1677496676.pdf,false
-DELTA,SAPELE,,O/S AGBEKU,10/17/09/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30968/30968-1677495605.pdf,false
-DELTA,SAPELE,,OKWOVWURI VILLAGE II,10/17/09/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30971/30971-1677495141.pdf,false
-DELTA,SAPELE,,"ETHIOPE PRIMARY SCHOOL, AMUOKPE I",10/17/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30962/30962-1677494849.pdf,false
-DELTA,SAPELE,,ADAGBRASSA AMUOKPE,10/17/09/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30969/30969-1677494572.pdf,false
-DELTA,SAPELE,,O/S IN FRONT OF JOVAD HOTEL,10/17/09/038,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137355/137355-1677494313.pdf,false
-DELTA,SAPELE,,"FRONT OF FORMER POLICE BARRACKS , OFF S/W ROAD, AJOGODO",10/17/09/048,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137365/137365-1677492374.pdf,false
-DELTA,SAPELE,,"OGODO PRIMARY SCHOOL, SAPELE IV",10/17/09/047,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137364/137364-1677491709.pdf,false
-DELTA,SAPELE,,"OGODO PRIMARY SCHOOL, SAPELE III",10/17/09/046,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137363/137363-1677491243.pdf,false
-DELTA,SAPELE,,"OKPE GRAMMAR SCHOOL, SAPELE",10/17/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30960/30960-1677490676.pdf,false
-DELTA,SAPELE,,"ORODJE SECONDARY SCHOOL, SHELL ROAD II",10/17/09/051,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137368/137368-1677488858.pdf,false
-DELTA,SAPELE,,"ST. MALACHY GRAMMAR SCHOOL, SAPELE",10/17/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30956/30956-1677488440.pdf,false
-DELTA,SAPELE,,"ETHIOPE PRIMARY SCHOOL, OKIRIGWRE",10/17/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30958/30958-1677488195.pdf,false
-DELTA,SAPELE,,"ETHIOPE PRIMARY SCHOOL, AMUOKPE III",10/17/09/034,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137351/137351-1677486583.pdf,false
-DELTA,SAPELE,,OKWOVWURI VILLAGE II BY ECONET JUNCTION,10/17/09/029,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137346/137346-1677486129.pdf,false
-DELTA,SAPELE,,"EFEGHREN PRIMARY SCHOOL, ADJEKIMONI",10/17/09/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30973/30973-1677485634.pdf,false
-DELTA,SAPELE,,AJIMIKARA,10/17/09/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30974/30974-1677485390.pdf,false
-DELTA,SAPELE,,ST. ITAS GIRLS GRAMMAR SCHOOL II,10/17/09/043,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137360/137360-1677485065.pdf,false
-DELTA,SAPELE,,"ORODJE SECONDARY SCHOOL, SHELL ROAD I",10/17/09/050,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137367/137367-1677484878.pdf,false
-DELTA,SAPELE,,ST MALACHY GRAMMAR SCHOOL III,10/17/09/045,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137362/137362-1677484674.pdf,false
-DELTA,SAPELE,,"OKPE GRAMMAR SCHOOL, SAPELE II",10/17/09/039,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137356/137356-1677484382.pdf,false
-DELTA,SAPELE,,O/S ALONG OTITE ROAD/OKPOBRISI,10/17/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30957/30957-1677483490.pdf,false
-DELTA,SAPELE,,"ST. ITAS GIRLS' GRAMMAR SCHOOL, SAPELE",10/17/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30955/30955-1677481297.pdf,false
-DELTA,SAPELE,,ALONG OLD EKU ROAD BY IGBEWOR'S COMP,10/17/09/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30965/30965-1677479922.pdf,false
-DELTA,SAPELE,,O/S AJEMILE,10/17/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30954/30954-1677478991.pdf,false
-DELTA,SAPELE,,AMUOKPE HALL II,10/17/09/033,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137350/137350-1677478685.pdf,false
-DELTA,SAPELE,,OLD ROAD BY OGAGA ROAD JUNCTION,10/17/09/031,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137348/137348-1677478156.pdf,false
-DELTA,SAPELE,,"ETHIOPE PRIMARY SCHOOL, OKIRIGWRE II",10/17/09/041,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137358/137358-1677477616.pdf,false
-DELTA,SAPELE,,"FRONT OF NYSC ZONAL SECRETARIAT, SAPELE",10/17/09/049,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137366/137366-1677476790.pdf,false
-DELTA,SAPELE,,"O/S OPP. K'S EVENTS, AMUOKPE",10/17/09/036,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137353/137353-1677476726.pdf,false
-DELTA,SAPELE,,"FRONT OF MONA SCHOOL, OFF SHELL ROAD",10/17/09/052,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137369/137369-1677476115.pdf,false
-DELTA,SAPELE,,FRONT OF S.T.C SAPELE I,10/17/09/053,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137370/137370-1677475770.pdf,false
-DELTA,SAPELE,,O/S EKO VILLAGE,10/17/09/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30966/30966-1677475319.pdf,false
-DELTA,SAPELE,,"ETHIOPE PRIMARY SCHOOL, AMUOKPE I",10/17/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30963/30963-1677475130.pdf,false
-DELTA,SAPELE,,"OGODO PRIMARY SCHOOL, SAPELE I",10/17/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30951/30951-1677474694.pdf,false
-DELTA,SAPELE,,"OGODO PRIMARY SCHOOL, SAPELE II",10/17/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30952/30952-1677474310.pdf,false
-DELTA,SAPELE,,O/S OPP. OKIRIGWRE GARRAGE,10/17/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30953/30953-1677472494.pdf,false
-DELTA,SAPELE,,O/S OGORODE AMUOKPE,10/17/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30961/30961-1677471884.pdf,false
-DELTA,SAPELE,,O/S OKUOSAJERE,10/17/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30959/30959-1677470492.pdf,false
-DELTA,SAPELE,,"OGWERE PRIMARY SCHOOL, IKWEGWU",10/17/09/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/09/pu/022/022-1677428707.pdf,false
-DELTA,SAPELE,,O/S OLD ROAD JUNCTION BY ABELLA FLOWER,10/17/09/030,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/09/pu/030/030-1677415303.pdf,false
-DELTA,SAPELE,,ST MALACHY GRAMMAR SCHOOL II,10/17/09/044,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/09/pu/044/044-1677412566.pdf,false
-DELTA,SAPELE,,AMUOKPE HALL,10/17/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/09/pu/014/014-1677408402.pdf,false
-DELTA,SAPELE,,"ETHIOPE PRIMARY SCHOOL, OKIRIGWRE III",10/17/09/042,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/09/pu/042/042-1677362852.pdf,false
-DELTA,SAPELE,,IBIWHOR,10/17/09/025,,false
+DELTA,SAPELE,AMUOKPE,"OKPE GRAMMAR SCHOOL, SAPELE III",10/17/09/040,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137357/137357-1677500880.pdf,false
+DELTA,SAPELE,AMUOKPE,"OVWORE PRIMARY SCHOOL,IBADA AMUOKPE",10/17/09/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30967/30967-1677500655.pdf,false
+DELTA,SAPELE,AMUOKPE,OKWOVWURI VILLAGE I,10/17/09/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30970/30970-1677499926.pdf,false
+DELTA,SAPELE,AMUOKPE,"ETHIOPE PRIMARY SCHOOL, AMUOKPE IV",10/17/09/035,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137352/137352-1677499390.pdf,false
+DELTA,SAPELE,AMUOKPE,AJIMILE ROAD BY CHIEF WARRI COMP,10/17/09/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30976/30976-1677499261.pdf,false
+DELTA,SAPELE,AMUOKPE,O/S OLD SAPELE WARRI ROAD OPPOSITE AMUOKPE GARRAGE,10/17/09/032,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137349/137349-1677498803.pdf,false
+DELTA,SAPELE,AMUOKPE,FRONT OF S.T.C SAPELE II,10/17/09/054,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137371/137371-1677497660.pdf,false
+DELTA,SAPELE,AMUOKPE,O/S AFTER OPPM OGORODE-AMUOKPE I,10/17/09/037,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137354/137354-1677497173.pdf,false
+DELTA,SAPELE,AMUOKPE,UGBURUMU COMMUNITY HALL,10/17/09/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137344/137344-1677496911.pdf,false
+DELTA,SAPELE,AMUOKPE,FRONT OF OLD VITAFOAM,10/17/09/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137345/137345-1677496676.pdf,false
+DELTA,SAPELE,AMUOKPE,O/S AGBEKU,10/17/09/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30968/30968-1677495605.pdf,false
+DELTA,SAPELE,AMUOKPE,OKWOVWURI VILLAGE II,10/17/09/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30971/30971-1677495141.pdf,false
+DELTA,SAPELE,AMUOKPE,"ETHIOPE PRIMARY SCHOOL, AMUOKPE I",10/17/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30962/30962-1677494849.pdf,false
+DELTA,SAPELE,AMUOKPE,ADAGBRASSA AMUOKPE,10/17/09/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30969/30969-1677494572.pdf,false
+DELTA,SAPELE,AMUOKPE,O/S IN FRONT OF JOVAD HOTEL,10/17/09/038,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137355/137355-1677494313.pdf,false
+DELTA,SAPELE,AMUOKPE,"FRONT OF FORMER POLICE BARRACKS , OFF S/W ROAD, AJOGODO",10/17/09/048,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137365/137365-1677492374.pdf,false
+DELTA,SAPELE,AMUOKPE,"OGODO PRIMARY SCHOOL, SAPELE IV",10/17/09/047,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137364/137364-1677491709.pdf,false
+DELTA,SAPELE,AMUOKPE,"OGODO PRIMARY SCHOOL, SAPELE III",10/17/09/046,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137363/137363-1677491243.pdf,false
+DELTA,SAPELE,AMUOKPE,"OKPE GRAMMAR SCHOOL, SAPELE",10/17/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30960/30960-1677490676.pdf,false
+DELTA,SAPELE,AMUOKPE,"ORODJE SECONDARY SCHOOL, SHELL ROAD II",10/17/09/051,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137368/137368-1677488858.pdf,false
+DELTA,SAPELE,AMUOKPE,"ST. MALACHY GRAMMAR SCHOOL, SAPELE",10/17/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30956/30956-1677488440.pdf,false
+DELTA,SAPELE,AMUOKPE,"ETHIOPE PRIMARY SCHOOL, OKIRIGWRE",10/17/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30958/30958-1677488195.pdf,false
+DELTA,SAPELE,AMUOKPE,"ETHIOPE PRIMARY SCHOOL, AMUOKPE III",10/17/09/034,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137351/137351-1677486583.pdf,false
+DELTA,SAPELE,AMUOKPE,OKWOVWURI VILLAGE II BY ECONET JUNCTION,10/17/09/029,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137346/137346-1677486129.pdf,false
+DELTA,SAPELE,AMUOKPE,"EFEGHREN PRIMARY SCHOOL, ADJEKIMONI",10/17/09/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30973/30973-1677485634.pdf,false
+DELTA,SAPELE,AMUOKPE,AJIMIKARA,10/17/09/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30974/30974-1677485390.pdf,false
+DELTA,SAPELE,AMUOKPE,ST. ITAS GIRLS GRAMMAR SCHOOL II,10/17/09/043,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137360/137360-1677485065.pdf,false
+DELTA,SAPELE,AMUOKPE,"ORODJE SECONDARY SCHOOL, SHELL ROAD I",10/17/09/050,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137367/137367-1677484878.pdf,false
+DELTA,SAPELE,AMUOKPE,ST MALACHY GRAMMAR SCHOOL III,10/17/09/045,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137362/137362-1677484674.pdf,false
+DELTA,SAPELE,AMUOKPE,"OKPE GRAMMAR SCHOOL, SAPELE II",10/17/09/039,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137356/137356-1677484382.pdf,false
+DELTA,SAPELE,AMUOKPE,O/S ALONG OTITE ROAD/OKPOBRISI,10/17/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30957/30957-1677483490.pdf,false
+DELTA,SAPELE,AMUOKPE,"ST. ITAS GIRLS' GRAMMAR SCHOOL, SAPELE",10/17/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30955/30955-1677481297.pdf,false
+DELTA,SAPELE,AMUOKPE,ALONG OLD EKU ROAD BY IGBEWOR'S COMP,10/17/09/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30965/30965-1677479922.pdf,false
+DELTA,SAPELE,AMUOKPE,O/S AJEMILE,10/17/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30954/30954-1677478991.pdf,false
+DELTA,SAPELE,AMUOKPE,AMUOKPE HALL II,10/17/09/033,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137350/137350-1677478685.pdf,false
+DELTA,SAPELE,AMUOKPE,OLD ROAD BY OGAGA ROAD JUNCTION,10/17/09/031,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137348/137348-1677478156.pdf,false
+DELTA,SAPELE,AMUOKPE,"ETHIOPE PRIMARY SCHOOL, OKIRIGWRE II",10/17/09/041,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137358/137358-1677477616.pdf,false
+DELTA,SAPELE,AMUOKPE,"FRONT OF NYSC ZONAL SECRETARIAT, SAPELE",10/17/09/049,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137366/137366-1677476790.pdf,false
+DELTA,SAPELE,AMUOKPE,"O/S OPP. K'S EVENTS, AMUOKPE",10/17/09/036,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137353/137353-1677476726.pdf,false
+DELTA,SAPELE,AMUOKPE,"FRONT OF MONA SCHOOL, OFF SHELL ROAD",10/17/09/052,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137369/137369-1677476115.pdf,false
+DELTA,SAPELE,AMUOKPE,FRONT OF S.T.C SAPELE I,10/17/09/053,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/137370/137370-1677475770.pdf,false
+DELTA,SAPELE,AMUOKPE,O/S EKO VILLAGE,10/17/09/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30966/30966-1677475319.pdf,false
+DELTA,SAPELE,AMUOKPE,"ETHIOPE PRIMARY SCHOOL, AMUOKPE I",10/17/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30963/30963-1677475130.pdf,false
+DELTA,SAPELE,AMUOKPE,"OGODO PRIMARY SCHOOL, SAPELE I",10/17/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30951/30951-1677474694.pdf,false
+DELTA,SAPELE,AMUOKPE,"OGODO PRIMARY SCHOOL, SAPELE II",10/17/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30952/30952-1677474310.pdf,false
+DELTA,SAPELE,AMUOKPE,O/S OPP. OKIRIGWRE GARRAGE,10/17/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30953/30953-1677472494.pdf,false
+DELTA,SAPELE,AMUOKPE,O/S OGORODE AMUOKPE,10/17/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30961/30961-1677471884.pdf,false
+DELTA,SAPELE,AMUOKPE,O/S OKUOSAJERE,10/17/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19872/pu/30959/30959-1677470492.pdf,false
+DELTA,SAPELE,AMUOKPE,"OGWERE PRIMARY SCHOOL, IKWEGWU",10/17/09/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/09/pu/022/022-1677428707.pdf,false
+DELTA,SAPELE,AMUOKPE,O/S OLD ROAD JUNCTION BY ABELLA FLOWER,10/17/09/030,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/09/pu/030/030-1677415303.pdf,false
+DELTA,SAPELE,AMUOKPE,ST MALACHY GRAMMAR SCHOOL II,10/17/09/044,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/09/pu/044/044-1677412566.pdf,false
+DELTA,SAPELE,AMUOKPE,AMUOKPE HALL,10/17/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/09/pu/014/014-1677408402.pdf,false
+DELTA,SAPELE,AMUOKPE,"ETHIOPE PRIMARY SCHOOL, OKIRIGWRE III",10/17/09/042,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/09/pu/042/042-1677362852.pdf,false
+DELTA,SAPELE,AMUOKPE,IBIWHOR,10/17/09/025,,false

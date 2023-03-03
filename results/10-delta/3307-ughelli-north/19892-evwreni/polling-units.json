@@ -26,6 +26,7 @@
     "pu_code_string": "101908004",
     "state_name": "DELTA",
     "lga_name": "UGHELLI NORTH",
+    "ward_name": "EVWRENI",
     "document": {
       "external": false,
       "status": 1,
@@ -89,6 +90,7 @@
     "pu_code_string": "101908012",
     "state_name": "DELTA",
     "lga_name": "UGHELLI NORTH",
+    "ward_name": "EVWRENI",
     "document": {
       "external": false,
       "status": 1,
@@ -127,6 +129,7 @@
     "pu_code_string": "101908015",
     "state_name": "DELTA",
     "lga_name": "UGHELLI NORTH",
+    "ward_name": "EVWRENI",
     "document": {
       "external": false,
       "status": 1,
@@ -165,6 +168,7 @@
     "pu_code_string": "101908010",
     "state_name": "DELTA",
     "lga_name": "UGHELLI NORTH",
+    "ward_name": "EVWRENI",
     "document": {
       "external": false,
       "status": 1,
@@ -203,6 +207,7 @@
     "pu_code_string": "101908005",
     "state_name": "DELTA",
     "lga_name": "UGHELLI NORTH",
+    "ward_name": "EVWRENI",
     "document": {
       "external": false,
       "status": 1,
@@ -241,6 +246,7 @@
     "pu_code_string": "101908001",
     "state_name": "DELTA",
     "lga_name": "UGHELLI NORTH",
+    "ward_name": "EVWRENI",
     "document": {
       "external": false,
       "status": 1,
@@ -288,6 +294,7 @@
     "pu_code_string": "101908013",
     "state_name": "DELTA",
     "lga_name": "UGHELLI NORTH",
+    "ward_name": "EVWRENI",
     "document": {
       "external": false,
       "status": 1,
@@ -326,6 +333,7 @@
     "pu_code_string": "101908007",
     "state_name": "DELTA",
     "lga_name": "UGHELLI NORTH",
+    "ward_name": "EVWRENI",
     "document": {
       "external": false,
       "status": 1,
@@ -373,6 +381,7 @@
     "pu_code_string": "101908018",
     "state_name": "DELTA",
     "lga_name": "UGHELLI NORTH",
+    "ward_name": "EVWRENI",
     "document": {
       "external": false,
       "status": 1,
@@ -411,6 +420,7 @@
     "pu_code_string": "101908006",
     "state_name": "DELTA",
     "lga_name": "UGHELLI NORTH",
+    "ward_name": "EVWRENI",
     "document": {
       "external": false,
       "status": 1,
@@ -458,6 +468,7 @@
     "pu_code_string": "101908002",
     "state_name": "DELTA",
     "lga_name": "UGHELLI NORTH",
+    "ward_name": "EVWRENI",
     "document": {
       "external": false,
       "status": 1,
@@ -569,6 +580,7 @@
     "pu_code_string": "101908009",
     "state_name": "DELTA",
     "lga_name": "UGHELLI NORTH",
+    "ward_name": "EVWRENI",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -599,6 +611,7 @@
     "pu_code_string": "101908014",
     "state_name": "DELTA",
     "lga_name": "UGHELLI NORTH",
+    "ward_name": "EVWRENI",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -629,6 +642,7 @@
     "pu_code_string": "101908017",
     "state_name": "DELTA",
     "lga_name": "UGHELLI NORTH",
+    "ward_name": "EVWRENI",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -659,6 +673,7 @@
     "pu_code_string": "101908003",
     "state_name": "DELTA",
     "lga_name": "UGHELLI NORTH",
+    "ward_name": "EVWRENI",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -689,6 +704,7 @@
     "pu_code_string": "101908008",
     "state_name": "DELTA",
     "lga_name": "UGHELLI NORTH",
+    "ward_name": "EVWRENI",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -719,6 +735,7 @@
     "pu_code_string": "101908011",
     "state_name": "DELTA",
     "lga_name": "UGHELLI NORTH",
+    "ward_name": "EVWRENI",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -749,6 +766,7 @@
     "pu_code_string": "101908016",
     "state_name": "DELTA",
     "lga_name": "UGHELLI NORTH",
+    "ward_name": "EVWRENI",
     "old_documents": [],
     "has_old_documents": false
   }

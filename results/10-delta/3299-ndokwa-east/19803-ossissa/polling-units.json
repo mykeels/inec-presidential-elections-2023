@@ -26,6 +26,7 @@
     "pu_code_string": "101101005",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "OSSISSA",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "101101008",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "OSSISSA",
     "document": {
       "external": false,
       "status": 1,
@@ -111,6 +113,7 @@
     "pu_code_string": "101101007",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "OSSISSA",
     "document": {
       "external": false,
       "status": 1,
@@ -149,6 +152,7 @@
     "pu_code_string": "101101006",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "OSSISSA",
     "document": {
       "external": false,
       "status": 1,
@@ -187,6 +191,7 @@
     "pu_code_string": "101101004",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "OSSISSA",
     "document": {
       "external": false,
       "status": 1,
@@ -234,6 +239,7 @@
     "pu_code_string": "101101003",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "OSSISSA",
     "document": {
       "external": false,
       "status": 1,
@@ -281,6 +287,7 @@
     "pu_code_string": "101101002",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "OSSISSA",
     "document": {
       "external": false,
       "status": 1,
@@ -328,6 +335,7 @@
     "pu_code_string": "101101001",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "OSSISSA",
     "document": {
       "external": false,
       "status": 1,
@@ -366,6 +374,7 @@
     "pu_code_string": "101101009",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "OSSISSA",
     "document": {
       "external": false,
       "status": 1,
@@ -404,6 +413,7 @@
     "pu_code_string": "101101010",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "OSSISSA",
     "old_documents": [],
     "has_old_documents": false
   }

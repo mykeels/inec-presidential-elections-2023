@@ -26,6 +26,7 @@
     "pu_code_string": "101110012",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "ASHAKA",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "101110017",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "ASHAKA",
     "document": {
       "external": false,
       "status": 1,
@@ -111,6 +113,7 @@
     "pu_code_string": "101110013",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "ASHAKA",
     "document": {
       "external": false,
       "status": 1,
@@ -158,6 +161,7 @@
     "pu_code_string": "101110015",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "ASHAKA",
     "document": {
       "external": false,
       "status": 1,
@@ -205,6 +209,7 @@
     "pu_code_string": "101110016",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "ASHAKA",
     "document": {
       "external": false,
       "status": 1,
@@ -252,6 +257,7 @@
     "pu_code_string": "101110018",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "ASHAKA",
     "document": {
       "external": false,
       "status": 1,
@@ -299,6 +305,7 @@
     "pu_code_string": "101110010",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "ASHAKA",
     "document": {
       "external": false,
       "status": 1,
@@ -337,6 +344,7 @@
     "pu_code_string": "101110014",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "ASHAKA",
     "document": {
       "external": false,
       "status": 1,
@@ -375,6 +383,7 @@
     "pu_code_string": "101110019",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "ASHAKA",
     "document": {
       "external": false,
       "status": 1,
@@ -413,6 +422,7 @@
     "pu_code_string": "101110011",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "ASHAKA",
     "document": {
       "external": false,
       "status": 1,
@@ -451,6 +461,7 @@
     "pu_code_string": "101110020",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "ASHAKA",
     "document": {
       "external": false,
       "status": 1,
@@ -489,6 +500,7 @@
     "pu_code_string": "101110009",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "ASHAKA",
     "document": {
       "external": false,
       "status": 1,
@@ -527,6 +539,7 @@
     "pu_code_string": "101110006",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "ASHAKA",
     "document": {
       "external": false,
       "status": 1,
@@ -565,6 +578,7 @@
     "pu_code_string": "101110021",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "ASHAKA",
     "document": {
       "external": false,
       "status": 1,
@@ -603,6 +617,7 @@
     "pu_code_string": "101110008",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "ASHAKA",
     "document": {
       "external": false,
       "status": 1,
@@ -641,6 +656,7 @@
     "pu_code_string": "101110004",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "ASHAKA",
     "document": {
       "external": false,
       "status": 1,
@@ -679,6 +695,7 @@
     "pu_code_string": "101110005",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "ASHAKA",
     "document": {
       "external": false,
       "status": 1,
@@ -726,6 +743,7 @@
     "pu_code_string": "101110003",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "ASHAKA",
     "document": {
       "external": false,
       "status": 1,
@@ -773,6 +791,7 @@
     "pu_code_string": "101110001",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "ASHAKA",
     "document": {
       "external": false,
       "status": 1,
@@ -820,6 +839,7 @@
     "pu_code_string": "101110002",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "ASHAKA",
     "document": {
       "external": false,
       "status": 1,
@@ -867,6 +887,7 @@
     "pu_code_string": "101110007",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "ASHAKA",
     "old_documents": [],
     "has_old_documents": false
   }

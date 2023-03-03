@@ -1,24 +1,24 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,NDOKWA WEST,,OBIOGWA - OLIOGO    OLIOGO  UMUSETI,10/12/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30292/result_146533_1677575734_thumb.jpg,false
-DELTA,NDOKWA WEST,,"ULOGWE PRIMARY SCHOOL,   ULOGWE ISUMPE II",10/12/03/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30296/result_146537_1677576022_thumb.jpg,false
-DELTA,NDOKWA WEST,,AKPUAFOR  PRIMARY SCHOOL  AKPUAFOR/OBIUNOR,10/12/03/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30290/result_146531_1677575584_thumb.jpg,false
-DELTA,NDOKWA WEST,,"ULOGWE TOWN HALL, ULOGWE ISUMPE",10/12/03/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629612/result_146543_1677576499_thumb.jpg,false
-DELTA,NDOKWA WEST,,"OBIOGWA  NDEMILI,   NDEMILI II",10/12/03/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30299/result_146540_1677576236_thumb.jpg,false
-DELTA,NDOKWA WEST,,OLIGO TOWN HALL,10/12/03/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629614/result_146545_1677576793_thumb.jpg,false
-DELTA,NDOKWA WEST,,"ADEGE PRIMARY SCHOOL,  UMUNZE/UMUAKALA II",10/12/03/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30285/result_146526_1677575218_thumb.jpg,false
-DELTA,NDOKWA WEST,,"ULOGWE PRIMARY SCHOOL,   ULOGWE ISUMPE I",10/12/03/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30295/result_146536_1677575945_thumb.jpg,false
-DELTA,NDOKWA WEST,,IGALA - UKU PRIMARY SCHOOL  UMUEBO/OSSAI/UMUALAM II,10/12/03/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30288/result_146529_1677575433_thumb.jpg,false
-DELTA,NDOKWA WEST,,GIRLS SECONDARY SCHOOL EBO/UMUZE/ANEH/UMUANZE,10/12/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30286/result_146527_1677575296_thumb.jpg,false
-DELTA,NDOKWA WEST,,"OBIOGWA  NDEMILI,   NDEMILI",10/12/03/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30301/result_146542_1677576432_thumb.jpg,false
-DELTA,NDOKWA WEST,,"FARM SETTLEMENT PRIMARY SCHOOL,  FARM SETTL. ENVR.",10/12/03/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30283/result_146524_1677574928_thumb.jpg,false
-DELTA,NDOKWA WEST,,"ONYEKACHIE PRIMARY SCHOOL, IKU  UMUSAM",10/12/03/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30291/result_146532_1677575658_thumb.jpg,false
-DELTA,NDOKWA WEST,,"OBIOGWA,   OBI  ILUGO",10/12/03/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30300/result_146541_1677576340_thumb.jpg,false
-DELTA,NDOKWA WEST,,"ADEGE PRIMARY SCHOOL,  UMUNZE/UMUAKALA I",10/12/03/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30284/result_146525_1677575074_thumb.jpg,false
-DELTA,NDOKWA WEST,,"EZETI PRIMARY SCHOOL, OGBE ASABA/OGBE - ISE II",10/12/03/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30294/result_146535_1677575873_thumb.jpg,false
-DELTA,NDOKWA WEST,,"OBIOGWA  NDEMILI,   NDEMILI I",10/12/03/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30298/result_146539_1677576166_thumb.jpg,false
-DELTA,NDOKWA WEST,,OBI - UNO  ISUMPE - OBI - UNO  ISUMPE,10/12/03/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30297/result_146538_1677576110_thumb.jpg,false
-DELTA,NDOKWA WEST,,IGALA - UKU PRIMARY SCHOOL  UMUEBO/OSSAI/UMUALAM I,10/12/03/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30287/result_146528_1677575367_thumb.jpg,false
-DELTA,NDOKWA WEST,,"EZETI PRIMARY SCHOOL, OGBE ASABA/OGBE - ISE I",10/12/03/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30293/result_146534_1677575809_thumb.jpg,false
-DELTA,NDOKWA WEST,,EDIKE OZAH PRY. SCH NDEMILI,10/12/03/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629613/result_146544_1677576699_thumb.jpg,false
-DELTA,NDOKWA WEST,,OBIOGWA      OKPUCHINI,10/12/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30282/result_146523_1677574854_thumb.jpg,false
-DELTA,NDOKWA WEST,,OBIOGWA  UMUZE/UMUELEKU,10/12/03/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30289/result_146530_1677575522_thumb.jpg,false
+DELTA,NDOKWA WEST,UTAGBA  UNO  II,OBIOGWA - OLIOGO    OLIOGO  UMUSETI,10/12/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30292/result_146533_1677575734_thumb.jpg,false
+DELTA,NDOKWA WEST,UTAGBA  UNO  II,"ULOGWE PRIMARY SCHOOL,   ULOGWE ISUMPE II",10/12/03/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30296/result_146537_1677576022_thumb.jpg,false
+DELTA,NDOKWA WEST,UTAGBA  UNO  II,AKPUAFOR  PRIMARY SCHOOL  AKPUAFOR/OBIUNOR,10/12/03/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30290/result_146531_1677575584_thumb.jpg,false
+DELTA,NDOKWA WEST,UTAGBA  UNO  II,"ULOGWE TOWN HALL, ULOGWE ISUMPE",10/12/03/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629612/result_146543_1677576499_thumb.jpg,false
+DELTA,NDOKWA WEST,UTAGBA  UNO  II,"OBIOGWA  NDEMILI,   NDEMILI II",10/12/03/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30299/result_146540_1677576236_thumb.jpg,false
+DELTA,NDOKWA WEST,UTAGBA  UNO  II,OLIGO TOWN HALL,10/12/03/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629614/result_146545_1677576793_thumb.jpg,false
+DELTA,NDOKWA WEST,UTAGBA  UNO  II,"ADEGE PRIMARY SCHOOL,  UMUNZE/UMUAKALA II",10/12/03/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30285/result_146526_1677575218_thumb.jpg,false
+DELTA,NDOKWA WEST,UTAGBA  UNO  II,"ULOGWE PRIMARY SCHOOL,   ULOGWE ISUMPE I",10/12/03/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30295/result_146536_1677575945_thumb.jpg,false
+DELTA,NDOKWA WEST,UTAGBA  UNO  II,IGALA - UKU PRIMARY SCHOOL  UMUEBO/OSSAI/UMUALAM II,10/12/03/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30288/result_146529_1677575433_thumb.jpg,false
+DELTA,NDOKWA WEST,UTAGBA  UNO  II,GIRLS SECONDARY SCHOOL EBO/UMUZE/ANEH/UMUANZE,10/12/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30286/result_146527_1677575296_thumb.jpg,false
+DELTA,NDOKWA WEST,UTAGBA  UNO  II,"OBIOGWA  NDEMILI,   NDEMILI",10/12/03/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30301/result_146542_1677576432_thumb.jpg,false
+DELTA,NDOKWA WEST,UTAGBA  UNO  II,"FARM SETTLEMENT PRIMARY SCHOOL,  FARM SETTL. ENVR.",10/12/03/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30283/result_146524_1677574928_thumb.jpg,false
+DELTA,NDOKWA WEST,UTAGBA  UNO  II,"ONYEKACHIE PRIMARY SCHOOL, IKU  UMUSAM",10/12/03/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30291/result_146532_1677575658_thumb.jpg,false
+DELTA,NDOKWA WEST,UTAGBA  UNO  II,"OBIOGWA,   OBI  ILUGO",10/12/03/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30300/result_146541_1677576340_thumb.jpg,false
+DELTA,NDOKWA WEST,UTAGBA  UNO  II,"ADEGE PRIMARY SCHOOL,  UMUNZE/UMUAKALA I",10/12/03/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30284/result_146525_1677575074_thumb.jpg,false
+DELTA,NDOKWA WEST,UTAGBA  UNO  II,"EZETI PRIMARY SCHOOL, OGBE ASABA/OGBE - ISE II",10/12/03/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30294/result_146535_1677575873_thumb.jpg,false
+DELTA,NDOKWA WEST,UTAGBA  UNO  II,"OBIOGWA  NDEMILI,   NDEMILI I",10/12/03/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30298/result_146539_1677576166_thumb.jpg,false
+DELTA,NDOKWA WEST,UTAGBA  UNO  II,OBI - UNO  ISUMPE - OBI - UNO  ISUMPE,10/12/03/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30297/result_146538_1677576110_thumb.jpg,false
+DELTA,NDOKWA WEST,UTAGBA  UNO  II,IGALA - UKU PRIMARY SCHOOL  UMUEBO/OSSAI/UMUALAM I,10/12/03/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30287/result_146528_1677575367_thumb.jpg,false
+DELTA,NDOKWA WEST,UTAGBA  UNO  II,"EZETI PRIMARY SCHOOL, OGBE ASABA/OGBE - ISE I",10/12/03/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30293/result_146534_1677575809_thumb.jpg,false
+DELTA,NDOKWA WEST,UTAGBA  UNO  II,EDIKE OZAH PRY. SCH NDEMILI,10/12/03/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629613/result_146544_1677576699_thumb.jpg,false
+DELTA,NDOKWA WEST,UTAGBA  UNO  II,OBIOGWA      OKPUCHINI,10/12/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30282/result_146523_1677574854_thumb.jpg,false
+DELTA,NDOKWA WEST,UTAGBA  UNO  II,OBIOGWA  UMUZE/UMUELEKU,10/12/03/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30289/result_146530_1677575522_thumb.jpg,false

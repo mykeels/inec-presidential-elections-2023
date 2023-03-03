@@ -1,23 +1,23 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,SAPELE,,NEPA STAFF SCHOOL II,10/17/08/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/137343/137343-1677499606.pdf,false
-DELTA,SAPELE,,NAVAL BASE II,10/17/08/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/137342/137342-1677499250.pdf,false
-DELTA,SAPELE,,"OKOTIE - EBOH GRAMMAR SCHOOL, SAPELE III",10/17/08/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/137341/137341-1677498951.pdf,false
-DELTA,SAPELE,,"ASSOCIATION PRIMARY SCHOOL, SAPELE IV",10/17/08/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/137340/137340-1677498566.pdf,false
-DELTA,SAPELE,,"ASSOCIATION PRIMARY SCHOOL, SAPELE III",10/17/08/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/137339/137339-1677497902.pdf,false
-DELTA,SAPELE,,"AIYETAN PRIMARY SCHOOL, SAPELE IV",10/17/08/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/137338/137338-1677497558.pdf,false
-DELTA,SAPELE,,"AIYETAN PRIMARY SCHOOL, SAPELE III",10/17/08/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/137337/137337-1677497112.pdf,false
-DELTA,SAPELE,,"OMATSOLA PRIMARY SCHOOL, SAPELE III",10/17/08/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/137336/137336-1677496538.pdf,false
-DELTA,SAPELE,,AJAJIEWOR,10/17/08/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/30950/30950-1677495945.pdf,false
-DELTA,SAPELE,,NAVAL BASE,10/17/08/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/30949/30949-1677495377.pdf,false
-DELTA,SAPELE,,NEPA STAFF SCHOOL,10/17/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/30948/30948-1677494113.pdf,false
-DELTA,SAPELE,,FRONT OF PREMIER CINEMA,10/17/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/30947/30947-1677493655.pdf,false
-DELTA,SAPELE,,"ASSOCIATION PRIMARY SCHOOL, SAPELE II",10/17/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/30946/30946-1677493239.pdf,false
-DELTA,SAPELE,,"ASSOCIATION PRIMARY SCHOOL, SAPELE I",10/17/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/30945/30945-1677492751.pdf,false
-DELTA,SAPELE,,"OKOTIE - EBOH GRAMMAR SCHOOL, SAPELE II",10/17/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/30944/30944-1677492224.pdf,false
-DELTA,SAPELE,,"OKOTIE - EBOH GRAMMAR SCHOOL, SAPELE I",10/17/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/30943/30943-1677491005.pdf,false
-DELTA,SAPELE,,ALONG IKOMI ROAD BY OGBOGBO,10/17/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/30942/30942-1677490535.pdf,false
-DELTA,SAPELE,,"AIYETAN PRIMARY SCHOOL, SAPELE II",10/17/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/30941/30941-1677490037.pdf,false
-DELTA,SAPELE,,YORUBA ROAD BY EXT. MACPHERSON,10/17/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/30939/30939-1677489570.pdf,false
-DELTA,SAPELE,,"OMATSOLA PRIMARY SCHOOL, SAPELE II",10/17/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/30938/30938-1677488823.pdf,false
-DELTA,SAPELE,,"OMATSOLA PRIMARY SCHOOL, SAPELE I",10/17/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/30937/30937-1677488463.pdf,false
-DELTA,SAPELE,,"AIYETAN PRIMARY SCHOOL, SAPELE I",10/17/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/30940/30940-1677466068.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VIII,NEPA STAFF SCHOOL II,10/17/08/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/137343/137343-1677499606.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VIII,NAVAL BASE II,10/17/08/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/137342/137342-1677499250.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VIII,"OKOTIE - EBOH GRAMMAR SCHOOL, SAPELE III",10/17/08/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/137341/137341-1677498951.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VIII,"ASSOCIATION PRIMARY SCHOOL, SAPELE IV",10/17/08/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/137340/137340-1677498566.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VIII,"ASSOCIATION PRIMARY SCHOOL, SAPELE III",10/17/08/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/137339/137339-1677497902.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VIII,"AIYETAN PRIMARY SCHOOL, SAPELE IV",10/17/08/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/137338/137338-1677497558.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VIII,"AIYETAN PRIMARY SCHOOL, SAPELE III",10/17/08/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/137337/137337-1677497112.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VIII,"OMATSOLA PRIMARY SCHOOL, SAPELE III",10/17/08/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/137336/137336-1677496538.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VIII,AJAJIEWOR,10/17/08/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/30950/30950-1677495945.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VIII,NAVAL BASE,10/17/08/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/30949/30949-1677495377.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VIII,NEPA STAFF SCHOOL,10/17/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/30948/30948-1677494113.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VIII,FRONT OF PREMIER CINEMA,10/17/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/30947/30947-1677493655.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VIII,"ASSOCIATION PRIMARY SCHOOL, SAPELE II",10/17/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/30946/30946-1677493239.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VIII,"ASSOCIATION PRIMARY SCHOOL, SAPELE I",10/17/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/30945/30945-1677492751.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VIII,"OKOTIE - EBOH GRAMMAR SCHOOL, SAPELE II",10/17/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/30944/30944-1677492224.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VIII,"OKOTIE - EBOH GRAMMAR SCHOOL, SAPELE I",10/17/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/30943/30943-1677491005.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VIII,ALONG IKOMI ROAD BY OGBOGBO,10/17/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/30942/30942-1677490535.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VIII,"AIYETAN PRIMARY SCHOOL, SAPELE II",10/17/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/30941/30941-1677490037.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VIII,YORUBA ROAD BY EXT. MACPHERSON,10/17/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/30939/30939-1677489570.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VIII,"OMATSOLA PRIMARY SCHOOL, SAPELE II",10/17/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/30938/30938-1677488823.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VIII,"OMATSOLA PRIMARY SCHOOL, SAPELE I",10/17/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/30937/30937-1677488463.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VIII,"AIYETAN PRIMARY SCHOOL, SAPELE I",10/17/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19871/pu/30940/30940-1677466068.pdf,false

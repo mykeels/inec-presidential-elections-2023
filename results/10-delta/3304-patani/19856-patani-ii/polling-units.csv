@@ -1,11 +1,11 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,PATANI,,OGOR   I,10/16/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3304/ward/19856/pu/30782/30782-1677482479.pdf,false
-DELTA,PATANI,,EKISE    IV,10/16/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3304/ward/19856/pu/30780/30780-1677481879.pdf,false
-DELTA,PATANI,,EKISE VI,10/16/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3304/ward/19856/pu/137262/137262-1677481391.pdf,false
-DELTA,PATANI,,EKISE   I,10/16/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3304/ward/19856/pu/30777/30777-1677481055.pdf,false
-DELTA,PATANI,,EKISE VII,10/16/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3304/ward/19856/pu/137263/137263-1677480655.pdf,false
-DELTA,PATANI,,OGOR   II,10/16/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/007/007-1677426915.pdf,false
-DELTA,PATANI,,EKISE    II,10/16/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/002/002-1677422894.pdf,false
-DELTA,PATANI,,EKISE    V,10/16/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/005/005-1677360749.pdf,false
-DELTA,PATANI,,EKISE VIII,10/16/03/010,,false
-DELTA,PATANI,,EKISE    III,10/16/03/003,,false
+DELTA,PATANI,PATANI   II,OGOR   I,10/16/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3304/ward/19856/pu/30782/30782-1677482479.pdf,false
+DELTA,PATANI,PATANI   II,EKISE    IV,10/16/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3304/ward/19856/pu/30780/30780-1677481879.pdf,false
+DELTA,PATANI,PATANI   II,EKISE VI,10/16/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3304/ward/19856/pu/137262/137262-1677481391.pdf,false
+DELTA,PATANI,PATANI   II,EKISE   I,10/16/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3304/ward/19856/pu/30777/30777-1677481055.pdf,false
+DELTA,PATANI,PATANI   II,EKISE VII,10/16/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3304/ward/19856/pu/137263/137263-1677480655.pdf,false
+DELTA,PATANI,PATANI   II,OGOR   II,10/16/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/007/007-1677426915.pdf,false
+DELTA,PATANI,PATANI   II,EKISE    II,10/16/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/002/002-1677422894.pdf,false
+DELTA,PATANI,PATANI   II,EKISE    V,10/16/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/005/005-1677360749.pdf,false
+DELTA,PATANI,PATANI   II,EKISE VIII,10/16/03/010,,false
+DELTA,PATANI,PATANI   II,EKISE    III,10/16/03/003,,false

@@ -1,18 +1,18 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,PATANI,,"BOLOU
+DELTA,PATANI,ODORUBU/ADOBU/BOLOU APELEBRI,"BOLOU
 APELEBIRI
 TOWN HALL I",10/16/10/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/630004/result_147479_1677623083_thumb.jpg,false
-DELTA,PATANI,,"BOLOU
+DELTA,PATANI,ODORUBU/ADOBU/BOLOU APELEBRI,"BOLOU
 APELEBIRI PRY. SCH. III",10/16/10/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/630003/result_147478_1677622922_thumb.jpg,false
-DELTA,PATANI,,ORIE PRY. SCH.ADOBU III,10/16/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/630002/result_147477_1677622744_thumb.jpg,false
-DELTA,PATANI,,BOLOU-APELEBIRI TOWN HALL,10/16/10/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30827/result_147476_1677622612_thumb.jpg,false
-DELTA,PATANI,,BOLOU-APELEBIRI PRIMARY SCHOOL II,10/16/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-DELTA,PATANI,,BOLOU-APELEBIRI PRIMARY SCHOOL I,10/16/10/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30825/result_147474_1677622320_thumb.jpg,false
-DELTA,PATANI,,"ORIE PRIMARY SCHOOL, ADOBU II",10/16/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30824/result_147473_1677622151_thumb.jpg,false
-DELTA,PATANI,,"ORIE PRIMARY SCHOOL, ADOBU I",10/16/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30823/result_147472_1677622060_thumb.jpg,false
-DELTA,PATANI,,ODURUBU  COLLEGE,10/16/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30822/result_147471_1677621896_thumb.jpg,false
-DELTA,PATANI,,EKROVIE HALL,10/16/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30821/result_147470_1677621701_thumb.jpg,false
-DELTA,PATANI,,UDUOVIE  PRIMARY SCHOOL II,10/16/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30820/result_147469_1677621592_thumb.jpg,false
-DELTA,PATANI,,UDUOVIE  PRIMARY SCHOOL I,10/16/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30819/result_147468_1677621412_thumb.jpg,false
-DELTA,PATANI,,ODURUBU BY  CATHOLIC CHURCH,10/16/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30818/result_147467_1677620597_thumb.jpg,false
-DELTA,PATANI,,ODURUBU TOWN HALL,10/16/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30817/result_147466_1677620216_thumb.jpg,false
+DELTA,PATANI,ODORUBU/ADOBU/BOLOU APELEBRI,ORIE PRY. SCH.ADOBU III,10/16/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/630002/result_147477_1677622744_thumb.jpg,false
+DELTA,PATANI,ODORUBU/ADOBU/BOLOU APELEBRI,BOLOU-APELEBIRI TOWN HALL,10/16/10/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30827/result_147476_1677622612_thumb.jpg,false
+DELTA,PATANI,ODORUBU/ADOBU/BOLOU APELEBRI,BOLOU-APELEBIRI PRIMARY SCHOOL II,10/16/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+DELTA,PATANI,ODORUBU/ADOBU/BOLOU APELEBRI,BOLOU-APELEBIRI PRIMARY SCHOOL I,10/16/10/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30825/result_147474_1677622320_thumb.jpg,false
+DELTA,PATANI,ODORUBU/ADOBU/BOLOU APELEBRI,"ORIE PRIMARY SCHOOL, ADOBU II",10/16/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30824/result_147473_1677622151_thumb.jpg,false
+DELTA,PATANI,ODORUBU/ADOBU/BOLOU APELEBRI,"ORIE PRIMARY SCHOOL, ADOBU I",10/16/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30823/result_147472_1677622060_thumb.jpg,false
+DELTA,PATANI,ODORUBU/ADOBU/BOLOU APELEBRI,ODURUBU  COLLEGE,10/16/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30822/result_147471_1677621896_thumb.jpg,false
+DELTA,PATANI,ODORUBU/ADOBU/BOLOU APELEBRI,EKROVIE HALL,10/16/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30821/result_147470_1677621701_thumb.jpg,false
+DELTA,PATANI,ODORUBU/ADOBU/BOLOU APELEBRI,UDUOVIE  PRIMARY SCHOOL II,10/16/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30820/result_147469_1677621592_thumb.jpg,false
+DELTA,PATANI,ODORUBU/ADOBU/BOLOU APELEBRI,UDUOVIE  PRIMARY SCHOOL I,10/16/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30819/result_147468_1677621412_thumb.jpg,false
+DELTA,PATANI,ODORUBU/ADOBU/BOLOU APELEBRI,ODURUBU BY  CATHOLIC CHURCH,10/16/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30818/result_147467_1677620597_thumb.jpg,false
+DELTA,PATANI,ODORUBU/ADOBU/BOLOU APELEBRI,ODURUBU TOWN HALL,10/16/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30817/result_147466_1677620216_thumb.jpg,false

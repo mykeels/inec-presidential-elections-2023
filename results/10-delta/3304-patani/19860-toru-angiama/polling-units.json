@@ -26,6 +26,7 @@
     "pu_code_string": "101607004",
     "state_name": "DELTA",
     "lga_name": "PATANI",
+    "ward_name": "TORU-ANGIAMA",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "101607003",
     "state_name": "DELTA",
     "lga_name": "PATANI",
+    "ward_name": "TORU-ANGIAMA",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "101607002",
     "state_name": "DELTA",
     "lga_name": "PATANI",
+    "ward_name": "TORU-ANGIAMA",
     "document": {
       "external": false,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "101607001",
     "state_name": "DELTA",
     "lga_name": "PATANI",
+    "ward_name": "TORU-ANGIAMA",
     "document": {
       "external": false,
       "status": 1,
@@ -178,6 +182,7 @@
     "pu_code_string": "101607005",
     "state_name": "DELTA",
     "lga_name": "PATANI",
+    "ward_name": "TORU-ANGIAMA",
     "old_documents": [],
     "has_old_documents": false
   }

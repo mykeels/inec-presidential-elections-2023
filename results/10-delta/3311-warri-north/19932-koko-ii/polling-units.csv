@@ -1,25 +1,25 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,WARRI  NORTH,,"OBAOGOLO TOWN HALL, ABIGBERODO",10/23/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19932/pu/138051/138051-1677573178.pdf,true
-DELTA,WARRI  NORTH,,"UMEUGBE PRIMARY SCHOOL, ABEGBERODO IV",10/23/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19932/pu/31856/31856-1677570975.pdf,true
-DELTA,WARRI  NORTH,,"UMEUGBE PRIMARY SCHOOL, ABEGBERODO I",10/23/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19932/pu/31853/31853-1677569835.pdf,true
-DELTA,WARRI  NORTH,,AJAGBODUDU PRIMARY SCHOOL  II,10/23/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19932/pu/31861/31861-1677486810.pdf,false
-DELTA,WARRI  NORTH,,"OLIBUOGHO TOWN HALL, ABIGBERODO",10/23/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/010/010-1677420585.pdf,false
-DELTA,WARRI  NORTH,,"OLOGBOJO TOWN, OLOGBOJO",10/23/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/015/015-1677415530.pdf,false
-DELTA,WARRI  NORTH,,"UBAGBORO HEALTH CENTRE, UBAGBORO",10/23/06/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/017/017-1677413587.pdf,false
-DELTA,WARRI  NORTH,,OKOGHO  TOWN,10/23/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/008/008-1677413521.pdf,false
-DELTA,WARRI  NORTH,,"OKOGHO PRY. SCH, OKOGHO",10/23/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/016/016-1677412083.pdf,false
-DELTA,WARRI  NORTH,,"IKENGBUWA  PRIMARY SCHOOL, UBAGBORO",10/23/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/006/006-1677409649.pdf,false
-DELTA,WARRI  NORTH,,"ABIEYEN TOWN, ABIGBERODO",10/23/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/014/014-1677409278.pdf,false
-DELTA,WARRI  NORTH,,"ALEMA MODERN COLLEGE II, ABIGBERODO",10/23/06/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/021/021-1677405496.pdf,false
-DELTA,WARRI  NORTH,,"ALEMA MODERN COLLEGE, ABIGBERODO",10/23/06/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/019/019-1677402026.pdf,false
-DELTA,WARRI  NORTH,,"AJAGBODUDU TOWN, HALL, AJAGBODUDU",10/23/06/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/023/023-1677401776.pdf,false
-DELTA,WARRI  NORTH,,"UMEUGBE PRIMARY SCHOOL, ABEGBERODO II",10/23/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/002/002-1677400051.pdf,false
-DELTA,WARRI  NORTH,,"ITAMEREN TOWN HALL, ABIGBERODO",10/23/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/012/012-1677398548.pdf,false
-DELTA,WARRI  NORTH,,"AJAGBODUDU PRIMARY SCHOOL, AJAGBODUDU",10/23/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/005/005-1677398442.pdf,false
-DELTA,WARRI  NORTH,,"ABIGBERODO TOWN HALL, ABIGBERODO",10/23/06/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/018/018-1677397357.pdf,false
-DELTA,WARRI  NORTH,,"PROPOSED POLYTECHNIC SITE, ABIGBERODO",10/23/06/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/020/020-1677396328.pdf,false
-DELTA,WARRI  NORTH,,"UMEUGBE PRIMARY SCHOOL, ABEGBERODO III",10/23/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/003/003-1677395310.pdf,false
-DELTA,WARRI  NORTH,,OBITUGBO TOWN,10/23/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/007/007-1677388887.pdf,false
-DELTA,WARRI  NORTH,,"UGBOGELETE TOWN HALL, UGBOGELETE",10/23/06/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/022/022-1677386870.pdf,false
-DELTA,WARRI  NORTH,,"UBAESIN TOWN, ABIGBERODO",10/23/06/013,,false
-DELTA,WARRI  NORTH,,"OBITEGBO TOWN HALL, OBITEGBO",10/23/06/024,,false
+DELTA,WARRI  NORTH,KOKO  II,"OBAOGOLO TOWN HALL, ABIGBERODO",10/23/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19932/pu/138051/138051-1677573178.pdf,true
+DELTA,WARRI  NORTH,KOKO  II,"UMEUGBE PRIMARY SCHOOL, ABEGBERODO IV",10/23/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19932/pu/31856/31856-1677570975.pdf,true
+DELTA,WARRI  NORTH,KOKO  II,"UMEUGBE PRIMARY SCHOOL, ABEGBERODO I",10/23/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19932/pu/31853/31853-1677569835.pdf,true
+DELTA,WARRI  NORTH,KOKO  II,AJAGBODUDU PRIMARY SCHOOL  II,10/23/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19932/pu/31861/31861-1677486810.pdf,false
+DELTA,WARRI  NORTH,KOKO  II,"OLIBUOGHO TOWN HALL, ABIGBERODO",10/23/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/010/010-1677420585.pdf,false
+DELTA,WARRI  NORTH,KOKO  II,"OLOGBOJO TOWN, OLOGBOJO",10/23/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/015/015-1677415530.pdf,false
+DELTA,WARRI  NORTH,KOKO  II,"UBAGBORO HEALTH CENTRE, UBAGBORO",10/23/06/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/017/017-1677413587.pdf,false
+DELTA,WARRI  NORTH,KOKO  II,OKOGHO  TOWN,10/23/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/008/008-1677413521.pdf,false
+DELTA,WARRI  NORTH,KOKO  II,"OKOGHO PRY. SCH, OKOGHO",10/23/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/016/016-1677412083.pdf,false
+DELTA,WARRI  NORTH,KOKO  II,"IKENGBUWA  PRIMARY SCHOOL, UBAGBORO",10/23/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/006/006-1677409649.pdf,false
+DELTA,WARRI  NORTH,KOKO  II,"ABIEYEN TOWN, ABIGBERODO",10/23/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/014/014-1677409278.pdf,false
+DELTA,WARRI  NORTH,KOKO  II,"ALEMA MODERN COLLEGE II, ABIGBERODO",10/23/06/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/021/021-1677405496.pdf,false
+DELTA,WARRI  NORTH,KOKO  II,"ALEMA MODERN COLLEGE, ABIGBERODO",10/23/06/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/019/019-1677402026.pdf,false
+DELTA,WARRI  NORTH,KOKO  II,"AJAGBODUDU TOWN, HALL, AJAGBODUDU",10/23/06/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/023/023-1677401776.pdf,false
+DELTA,WARRI  NORTH,KOKO  II,"UMEUGBE PRIMARY SCHOOL, ABEGBERODO II",10/23/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/002/002-1677400051.pdf,false
+DELTA,WARRI  NORTH,KOKO  II,"ITAMEREN TOWN HALL, ABIGBERODO",10/23/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/012/012-1677398548.pdf,false
+DELTA,WARRI  NORTH,KOKO  II,"AJAGBODUDU PRIMARY SCHOOL, AJAGBODUDU",10/23/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/005/005-1677398442.pdf,false
+DELTA,WARRI  NORTH,KOKO  II,"ABIGBERODO TOWN HALL, ABIGBERODO",10/23/06/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/018/018-1677397357.pdf,false
+DELTA,WARRI  NORTH,KOKO  II,"PROPOSED POLYTECHNIC SITE, ABIGBERODO",10/23/06/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/020/020-1677396328.pdf,false
+DELTA,WARRI  NORTH,KOKO  II,"UMEUGBE PRIMARY SCHOOL, ABEGBERODO III",10/23/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/003/003-1677395310.pdf,false
+DELTA,WARRI  NORTH,KOKO  II,OBITUGBO TOWN,10/23/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/007/007-1677388887.pdf,false
+DELTA,WARRI  NORTH,KOKO  II,"UGBOGELETE TOWN HALL, UGBOGELETE",10/23/06/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/022/022-1677386870.pdf,false
+DELTA,WARRI  NORTH,KOKO  II,"UBAESIN TOWN, ABIGBERODO",10/23/06/013,,false
+DELTA,WARRI  NORTH,KOKO  II,"OBITEGBO TOWN HALL, OBITEGBO",10/23/06/024,,false

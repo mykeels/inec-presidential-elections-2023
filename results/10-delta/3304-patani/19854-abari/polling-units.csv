@@ -1,10 +1,10 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,PATANI,,NEW AREDEINGHAZI/AYINMA PRIMARY SCHOOL I,10/16/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/006/006-1677426823.pdf,false
-DELTA,PATANI,,PREWARI,10/16/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/001/001-1677426353.pdf,false
-DELTA,PATANI,,"NEW AREDEINGHAZI
+DELTA,PATANI,ABARI,NEW AREDEINGHAZI/AYINMA PRIMARY SCHOOL I,10/16/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/006/006-1677426823.pdf,false
+DELTA,PATANI,ABARI,PREWARI,10/16/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/001/001-1677426353.pdf,false
+DELTA,PATANI,ABARI,"NEW AREDEINGHAZI
 AYINMA PRY. SCH. III",10/16/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/008/008-1677422902.pdf,false
-DELTA,PATANI,,NEW PERWARI,10/16/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/005/005-1677419871.pdf,false
-DELTA,PATANI,,KABEZI,10/16/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/004/004-1677419790.pdf,false
-DELTA,PATANI,,NEW AREDEINGHAZI/AYINMA PRIMARY SCHOOL II,10/16/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/007/007-1677417311.pdf,false
-DELTA,PATANI,,AREDEINGHARI,10/16/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/002/002-1677413830.pdf,false
-DELTA,PATANI,,ABAZI,10/16/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/003/003-1677399566.pdf,false
+DELTA,PATANI,ABARI,NEW PERWARI,10/16/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/005/005-1677419871.pdf,false
+DELTA,PATANI,ABARI,KABEZI,10/16/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/004/004-1677419790.pdf,false
+DELTA,PATANI,ABARI,NEW AREDEINGHAZI/AYINMA PRIMARY SCHOOL II,10/16/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/007/007-1677417311.pdf,false
+DELTA,PATANI,ABARI,AREDEINGHARI,10/16/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/002/002-1677413830.pdf,false
+DELTA,PATANI,ABARI,ABAZI,10/16/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/003/003-1677399566.pdf,false

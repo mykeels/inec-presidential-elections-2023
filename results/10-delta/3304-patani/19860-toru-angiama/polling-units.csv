@@ -1,6 +1,6 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,PATANI,,"FORMER SECONDARY SCHOOL, TORU-ANGIAMA I",10/16/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3304/ward/19860/pu/30808/30808-1677472212.pdf,false
-DELTA,PATANI,,"TAMUKUNU, TORU-ANGIAMA",10/16/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3304/ward/19860/pu/30807/30807-1677471682.pdf,false
-DELTA,PATANI,,"MATERNITY CENTRE, TORU-ANGIAMA",10/16/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3304/ward/19860/pu/30806/30806-1677471059.pdf,false
-DELTA,PATANI,,"TORU-ANGIAMA PRIMARY SCHOOL, TORU-ANGIAMA",10/16/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3304/ward/19860/pu/30805/30805-1677470356.pdf,false
-DELTA,PATANI,,"FORMER SECONDARY SCHOOL, TORU-ANGIAMA II",10/16/07/005,,false
+DELTA,PATANI,TORU-ANGIAMA,"FORMER SECONDARY SCHOOL, TORU-ANGIAMA I",10/16/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3304/ward/19860/pu/30808/30808-1677472212.pdf,false
+DELTA,PATANI,TORU-ANGIAMA,"TAMUKUNU, TORU-ANGIAMA",10/16/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3304/ward/19860/pu/30807/30807-1677471682.pdf,false
+DELTA,PATANI,TORU-ANGIAMA,"MATERNITY CENTRE, TORU-ANGIAMA",10/16/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3304/ward/19860/pu/30806/30806-1677471059.pdf,false
+DELTA,PATANI,TORU-ANGIAMA,"TORU-ANGIAMA PRIMARY SCHOOL, TORU-ANGIAMA",10/16/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3304/ward/19860/pu/30805/30805-1677470356.pdf,false
+DELTA,PATANI,TORU-ANGIAMA,"FORMER SECONDARY SCHOOL, TORU-ANGIAMA II",10/16/07/005,,false

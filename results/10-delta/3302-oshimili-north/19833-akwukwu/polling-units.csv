@@ -1,20 +1,20 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,OSHIMILI - NORTH,,GOVERNMENT DAY CARE NURSERY AND PRIMARY SCHOOL,10/14/01/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629708/result_146912_1677498962_thumb.jpg,true
-DELTA,OSHIMILI - NORTH,,UMU-ONAI VILLAGE SQUARE (OPEN SPACE),10/14/01/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629710/result_146914_1677499294_thumb.jpg,true
-DELTA,OSHIMILI - NORTH,,ATUMA IGA PRIMARY SCHOOL - OGBE-ANI/AJAJI,10/14/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30553/result_146897_1677495641_thumb.jpg,true
-DELTA,OSHIMILI - NORTH,,EZI-EKE OGBE-OKODE UMU-EKEKE (OPEN SPACE),10/14/01/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629709/result_146913_1677499120_thumb.jpg,true
-DELTA,OSHIMILI - NORTH,,ANIDINMA PRIMARY SCHOOL - ANIDINMA CAMP AND ENVIRONS II,10/14/01/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30562/result_146906_1677497842_thumb.jpg,true
-DELTA,OSHIMILI - NORTH,,AKWUKWU IGBO GRAMMAR SCHOOL,10/14/01/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629707/result_146911_1677498829_thumb.jpg,true
-DELTA,OSHIMILI - NORTH,,ATUMA IGA TOWN HALL - OGBE-ONIHA/OGBE OBI,10/14/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30554/result_146898_1677496198_thumb.jpg,true
-DELTA,OSHIMILI - NORTH,,AGBOGIDI PRIMARY SCHOOL-OGBE ONISHE/OGBE ANI/OGBE IYASE,10/14/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30556/result_146900_1677496773_thumb.jpg,true
-DELTA,OSHIMILI - NORTH,,OKOTOMI HALL - OKOTOMI CAMP AND ENVIRONS,10/14/01/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30560/result_146904_1677497490_thumb.jpg,true
-DELTA,OSHIMILI - NORTH,,OGWA-AWOLO OPEN SPACE,10/14/01/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629703/result_146907_1677498258_thumb.jpg,true
-DELTA,OSHIMILI - NORTH,,ANIDINMA PRIMARY SCHOOL - ANIDINMA CAMP AND ENVIRONS I,10/14/01/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30561/result_146905_1677497686_thumb.jpg,true
-DELTA,OSHIMILI - NORTH,,ODOZIENU PRIMARY SCHOOL - ODOZIENU CAMP AND ENVIRONS,10/14/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30559/result_146903_1677497306_thumb.jpg,true
-DELTA,OSHIMILI - NORTH,,D-10 CAMP HALL,10/14/01/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629711/result_146915_1677499404_thumb.jpg,true
-DELTA,OSHIMILI - NORTH,,OPP. OBI'S PALACE - UMUONAI/UMUEKEKE AND ENVIRONS,10/14/01/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30558/result_146902_1677497105_thumb.jpg,true
-DELTA,OSHIMILI - NORTH,,OLIE PRIMARY SCHOOL - OGBE AGBOR/OLIGBO/UMUOKUKU/UMUOPU/ACHALLA/UMUOLUM/OGBE IYASE,10/14/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30557/result_146901_1677496925_thumb.jpg,true
-DELTA,OSHIMILI - NORTH,,OGWA ABILIJA - ABILIJA/OJUGBANA/VILLAGES/AKALOR/AKPU/NWAFOR ANWULU CAMPS,10/14/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30555/result_146899_1677496376_thumb.jpg,true
-DELTA,OSHIMILI - NORTH,,COMMUNITY PARK IDUMU-OMONA,10/14/01/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629706/result_146910_1677498679_thumb.jpg,true
-DELTA,OSHIMILI - NORTH,,ILOH OGBE-ONISHE OPEN SPACE,10/14/01/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629704/result_146908_1677498391_thumb.jpg,true
-DELTA,OSHIMILI - NORTH,,OGBE ANI COMMUNITY HALL,10/14/01/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629705/result_146909_1677498542_thumb.jpg,true
+DELTA,OSHIMILI - NORTH,AKWUKWU,GOVERNMENT DAY CARE NURSERY AND PRIMARY SCHOOL,10/14/01/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629708/result_146912_1677498962_thumb.jpg,true
+DELTA,OSHIMILI - NORTH,AKWUKWU,UMU-ONAI VILLAGE SQUARE (OPEN SPACE),10/14/01/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629710/result_146914_1677499294_thumb.jpg,true
+DELTA,OSHIMILI - NORTH,AKWUKWU,ATUMA IGA PRIMARY SCHOOL - OGBE-ANI/AJAJI,10/14/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30553/result_146897_1677495641_thumb.jpg,true
+DELTA,OSHIMILI - NORTH,AKWUKWU,EZI-EKE OGBE-OKODE UMU-EKEKE (OPEN SPACE),10/14/01/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629709/result_146913_1677499120_thumb.jpg,true
+DELTA,OSHIMILI - NORTH,AKWUKWU,ANIDINMA PRIMARY SCHOOL - ANIDINMA CAMP AND ENVIRONS II,10/14/01/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30562/result_146906_1677497842_thumb.jpg,true
+DELTA,OSHIMILI - NORTH,AKWUKWU,AKWUKWU IGBO GRAMMAR SCHOOL,10/14/01/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629707/result_146911_1677498829_thumb.jpg,true
+DELTA,OSHIMILI - NORTH,AKWUKWU,ATUMA IGA TOWN HALL - OGBE-ONIHA/OGBE OBI,10/14/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30554/result_146898_1677496198_thumb.jpg,true
+DELTA,OSHIMILI - NORTH,AKWUKWU,AGBOGIDI PRIMARY SCHOOL-OGBE ONISHE/OGBE ANI/OGBE IYASE,10/14/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30556/result_146900_1677496773_thumb.jpg,true
+DELTA,OSHIMILI - NORTH,AKWUKWU,OKOTOMI HALL - OKOTOMI CAMP AND ENVIRONS,10/14/01/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30560/result_146904_1677497490_thumb.jpg,true
+DELTA,OSHIMILI - NORTH,AKWUKWU,OGWA-AWOLO OPEN SPACE,10/14/01/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629703/result_146907_1677498258_thumb.jpg,true
+DELTA,OSHIMILI - NORTH,AKWUKWU,ANIDINMA PRIMARY SCHOOL - ANIDINMA CAMP AND ENVIRONS I,10/14/01/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30561/result_146905_1677497686_thumb.jpg,true
+DELTA,OSHIMILI - NORTH,AKWUKWU,ODOZIENU PRIMARY SCHOOL - ODOZIENU CAMP AND ENVIRONS,10/14/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30559/result_146903_1677497306_thumb.jpg,true
+DELTA,OSHIMILI - NORTH,AKWUKWU,D-10 CAMP HALL,10/14/01/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629711/result_146915_1677499404_thumb.jpg,true
+DELTA,OSHIMILI - NORTH,AKWUKWU,OPP. OBI'S PALACE - UMUONAI/UMUEKEKE AND ENVIRONS,10/14/01/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30558/result_146902_1677497105_thumb.jpg,true
+DELTA,OSHIMILI - NORTH,AKWUKWU,OLIE PRIMARY SCHOOL - OGBE AGBOR/OLIGBO/UMUOKUKU/UMUOPU/ACHALLA/UMUOLUM/OGBE IYASE,10/14/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30557/result_146901_1677496925_thumb.jpg,true
+DELTA,OSHIMILI - NORTH,AKWUKWU,OGWA ABILIJA - ABILIJA/OJUGBANA/VILLAGES/AKALOR/AKPU/NWAFOR ANWULU CAMPS,10/14/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30555/result_146899_1677496376_thumb.jpg,true
+DELTA,OSHIMILI - NORTH,AKWUKWU,COMMUNITY PARK IDUMU-OMONA,10/14/01/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629706/result_146910_1677498679_thumb.jpg,true
+DELTA,OSHIMILI - NORTH,AKWUKWU,ILOH OGBE-ONISHE OPEN SPACE,10/14/01/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629704/result_146908_1677498391_thumb.jpg,true
+DELTA,OSHIMILI - NORTH,AKWUKWU,OGBE ANI COMMUNITY HALL,10/14/01/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629705/result_146909_1677498542_thumb.jpg,true

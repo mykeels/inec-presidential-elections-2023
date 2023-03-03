@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,SAPELE,,"ZIK GRAMMAR SCHOOL, SAPELE II",10/17/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/30913/30913-1677566605.pdf,true
-DELTA,SAPELE,,"ST. LUKE  PRIMARY SCHOOL, SAPELE II",10/17/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/30922/30922-1677565477.pdf,true
-DELTA,SAPELE,,O/S YORUBA ROAD BY PALMER JUNCTION,10/17/06/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/137322/137322-1677565078.pdf,true
-DELTA,SAPELE,,O/S URHOBO  ROAD BY PALMER JUNCTION,10/17/06/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/137323/137323-1677547755.pdf,false
-DELTA,SAPELE,,"CROWTHER PRIMARY SCHOOL, SAPELE II",10/17/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/30920/30920-1677547105.pdf,false
-DELTA,SAPELE,,"ETHIOPE PRIMARY SCHOOL, SAPELE I",10/17/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/30915/30915-1677546693.pdf,false
-DELTA,SAPELE,,"ETHIOPE PRIMARY SCHOOL, SAPELE III",10/17/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/30917/30917-1677546136.pdf,false
-DELTA,SAPELE,,HAUSA ROAD EXT. BY OBIRE QUARTERS,10/17/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/30914/30914-1677545703.pdf,false
-DELTA,SAPELE,,"ST. LUKE  PRIMARY SCHOOL, SAPELE I",10/17/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/30921/30921-1677528245.pdf,false
-DELTA,SAPELE,,"ETHIOPE PRIMARY SCHOOL, SAPELE II",10/17/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/30916/30916-1677527138.pdf,false
-DELTA,SAPELE,,"CROWTHER PRIMARY SCHOOL, SAPELE I",10/17/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/30919/30919-1677523432.pdf,false
-DELTA,SAPELE,,"ZIK GRAMMAR SCHOOL, SAPELE I",10/17/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/30912/30912-1677502557.pdf,false
-DELTA,SAPELE,,BY EKWARE  QUARTERS II,10/17/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/30910/30910-1677496341.pdf,false
-DELTA,SAPELE,,BY EKWARE  QUARTERS I,10/17/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/30909/30909-1677494809.pdf,false
-DELTA,SAPELE,,"OKOTIE - EBOH PRIMARY SCHOOL, SAPELE II",10/17/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/30908/30908-1677493996.pdf,false
-DELTA,SAPELE,,"OKOTIE - EBOH PRIMARY SCHOOL, SAPELE I",10/17/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/30907/30907-1677491663.pdf,false
-DELTA,SAPELE,,BY 48 COMMERCIAL AVENUE,10/17/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/06/pu/005/005-1677411168.pdf,false
-DELTA,SAPELE,,HAUSA QUARTERS BY URHOBO ROAD,10/17/06/012,,false
+DELTA,SAPELE,SAPELE  URBAN  VI,"ZIK GRAMMAR SCHOOL, SAPELE II",10/17/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/30913/30913-1677566605.pdf,true
+DELTA,SAPELE,SAPELE  URBAN  VI,"ST. LUKE  PRIMARY SCHOOL, SAPELE II",10/17/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/30922/30922-1677565477.pdf,true
+DELTA,SAPELE,SAPELE  URBAN  VI,O/S YORUBA ROAD BY PALMER JUNCTION,10/17/06/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/137322/137322-1677565078.pdf,true
+DELTA,SAPELE,SAPELE  URBAN  VI,O/S URHOBO  ROAD BY PALMER JUNCTION,10/17/06/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/137323/137323-1677547755.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VI,"CROWTHER PRIMARY SCHOOL, SAPELE II",10/17/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/30920/30920-1677547105.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VI,"ETHIOPE PRIMARY SCHOOL, SAPELE I",10/17/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/30915/30915-1677546693.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VI,"ETHIOPE PRIMARY SCHOOL, SAPELE III",10/17/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/30917/30917-1677546136.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VI,HAUSA ROAD EXT. BY OBIRE QUARTERS,10/17/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/30914/30914-1677545703.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VI,"ST. LUKE  PRIMARY SCHOOL, SAPELE I",10/17/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/30921/30921-1677528245.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VI,"ETHIOPE PRIMARY SCHOOL, SAPELE II",10/17/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/30916/30916-1677527138.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VI,"CROWTHER PRIMARY SCHOOL, SAPELE I",10/17/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/30919/30919-1677523432.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VI,"ZIK GRAMMAR SCHOOL, SAPELE I",10/17/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/30912/30912-1677502557.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VI,BY EKWARE  QUARTERS II,10/17/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/30910/30910-1677496341.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VI,BY EKWARE  QUARTERS I,10/17/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/30909/30909-1677494809.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VI,"OKOTIE - EBOH PRIMARY SCHOOL, SAPELE II",10/17/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/30908/30908-1677493996.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VI,"OKOTIE - EBOH PRIMARY SCHOOL, SAPELE I",10/17/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3305/ward/19869/pu/30907/30907-1677491663.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VI,BY 48 COMMERCIAL AVENUE,10/17/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/06/pu/005/005-1677411168.pdf,false
+DELTA,SAPELE,SAPELE  URBAN  VI,HAUSA QUARTERS BY URHOBO ROAD,10/17/06/012,,false

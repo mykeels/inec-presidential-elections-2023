@@ -26,6 +26,7 @@
     "pu_code_string": "101704021",
     "state_name": "DELTA",
     "lga_name": "SAPELE",
+    "ward_name": "SAPELE  URBAN  IV",
     "document": {
       "external": false,
       "status": 1,
@@ -73,6 +74,7 @@
     "pu_code_string": "101704024",
     "state_name": "DELTA",
     "lga_name": "SAPELE",
+    "ward_name": "SAPELE  URBAN  IV",
     "document": {
       "external": false,
       "status": 1,
@@ -120,6 +122,7 @@
     "pu_code_string": "101704019",
     "state_name": "DELTA",
     "lga_name": "SAPELE",
+    "ward_name": "SAPELE  URBAN  IV",
     "document": {
       "external": false,
       "status": 1,
@@ -167,6 +170,7 @@
     "pu_code_string": "101704011",
     "state_name": "DELTA",
     "lga_name": "SAPELE",
+    "ward_name": "SAPELE  URBAN  IV",
     "document": {
       "external": false,
       "status": 1,
@@ -214,6 +218,7 @@
     "pu_code_string": "101704004",
     "state_name": "DELTA",
     "lga_name": "SAPELE",
+    "ward_name": "SAPELE  URBAN  IV",
     "document": {
       "external": false,
       "status": 1,
@@ -252,6 +257,7 @@
     "pu_code_string": "101704013",
     "state_name": "DELTA",
     "lga_name": "SAPELE",
+    "ward_name": "SAPELE  URBAN  IV",
     "document": {
       "external": false,
       "status": 1,
@@ -299,6 +305,7 @@
     "pu_code_string": "101704008",
     "state_name": "DELTA",
     "lga_name": "SAPELE",
+    "ward_name": "SAPELE  URBAN  IV",
     "document": {
       "external": false,
       "status": 1,
@@ -346,6 +353,7 @@
     "pu_code_string": "101704003",
     "state_name": "DELTA",
     "lga_name": "SAPELE",
+    "ward_name": "SAPELE  URBAN  IV",
     "document": {
       "external": false,
       "status": 1,
@@ -393,6 +401,7 @@
     "pu_code_string": "101704015",
     "state_name": "DELTA",
     "lga_name": "SAPELE",
+    "ward_name": "SAPELE  URBAN  IV",
     "document": {
       "external": false,
       "status": 1,
@@ -440,6 +449,7 @@
     "pu_code_string": "101704020",
     "state_name": "DELTA",
     "lga_name": "SAPELE",
+    "ward_name": "SAPELE  URBAN  IV",
     "document": {
       "external": false,
       "status": 1,
@@ -478,6 +488,7 @@
     "pu_code_string": "101704006",
     "state_name": "DELTA",
     "lga_name": "SAPELE",
+    "ward_name": "SAPELE  URBAN  IV",
     "document": {
       "external": false,
       "status": 1,
@@ -516,6 +527,7 @@
     "pu_code_string": "101704025",
     "state_name": "DELTA",
     "lga_name": "SAPELE",
+    "ward_name": "SAPELE  URBAN  IV",
     "document": {
       "external": false,
       "status": 1,
@@ -554,6 +566,7 @@
     "pu_code_string": "101704018",
     "state_name": "DELTA",
     "lga_name": "SAPELE",
+    "ward_name": "SAPELE  URBAN  IV",
     "document": {
       "external": false,
       "status": 1,
@@ -592,6 +605,7 @@
     "pu_code_string": "101704005",
     "state_name": "DELTA",
     "lga_name": "SAPELE",
+    "ward_name": "SAPELE  URBAN  IV",
     "document": {
       "external": false,
       "status": 1,
@@ -630,6 +644,7 @@
     "pu_code_string": "101704012",
     "state_name": "DELTA",
     "lga_name": "SAPELE",
+    "ward_name": "SAPELE  URBAN  IV",
     "document": {
       "external": false,
       "status": 1,
@@ -668,6 +683,7 @@
     "pu_code_string": "101704001",
     "state_name": "DELTA",
     "lga_name": "SAPELE",
+    "ward_name": "SAPELE  URBAN  IV",
     "document": {
       "external": false,
       "status": 1,
@@ -706,6 +722,7 @@
     "pu_code_string": "101704002",
     "state_name": "DELTA",
     "lga_name": "SAPELE",
+    "ward_name": "SAPELE  URBAN  IV",
     "document": {
       "external": false,
       "status": 1,
@@ -744,6 +761,7 @@
     "pu_code_string": "101704010",
     "state_name": "DELTA",
     "lga_name": "SAPELE",
+    "ward_name": "SAPELE  URBAN  IV",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -774,6 +792,7 @@
     "pu_code_string": "101704023",
     "state_name": "DELTA",
     "lga_name": "SAPELE",
+    "ward_name": "SAPELE  URBAN  IV",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -804,6 +823,7 @@
     "pu_code_string": "101704007",
     "state_name": "DELTA",
     "lga_name": "SAPELE",
+    "ward_name": "SAPELE  URBAN  IV",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -834,6 +854,7 @@
     "pu_code_string": "101704017",
     "state_name": "DELTA",
     "lga_name": "SAPELE",
+    "ward_name": "SAPELE  URBAN  IV",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -864,6 +885,7 @@
     "pu_code_string": "101704009",
     "state_name": "DELTA",
     "lga_name": "SAPELE",
+    "ward_name": "SAPELE  URBAN  IV",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -894,6 +916,7 @@
     "pu_code_string": "101704014",
     "state_name": "DELTA",
     "lga_name": "SAPELE",
+    "ward_name": "SAPELE  URBAN  IV",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -924,6 +947,7 @@
     "pu_code_string": "101704022",
     "state_name": "DELTA",
     "lga_name": "SAPELE",
+    "ward_name": "SAPELE  URBAN  IV",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -954,6 +978,7 @@
     "pu_code_string": "101704016",
     "state_name": "DELTA",
     "lga_name": "SAPELE",
+    "ward_name": "SAPELE  URBAN  IV",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -984,6 +1009,7 @@
     "pu_code_string": "101704026",
     "state_name": "DELTA",
     "lga_name": "SAPELE",
+    "ward_name": "SAPELE  URBAN  IV",
     "old_documents": [],
     "has_old_documents": false
   }

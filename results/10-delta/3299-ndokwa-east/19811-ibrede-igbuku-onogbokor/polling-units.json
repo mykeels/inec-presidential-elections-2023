@@ -26,6 +26,7 @@
     "pu_code_string": "101109007",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "IBREDE/IGBUKU / ONOGBOKOR",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "101109003",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "IBREDE/IGBUKU / ONOGBOKOR",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "101109019",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "IBREDE/IGBUKU / ONOGBOKOR",
     "document": {
       "external": false,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "101109002",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "IBREDE/IGBUKU / ONOGBOKOR",
     "document": {
       "external": false,
       "status": 1,
@@ -178,6 +182,7 @@
     "pu_code_string": "101109014",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "IBREDE/IGBUKU / ONOGBOKOR",
     "document": {
       "external": false,
       "status": 1,
@@ -216,6 +221,7 @@
     "pu_code_string": "101109010",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "IBREDE/IGBUKU / ONOGBOKOR",
     "document": {
       "external": false,
       "status": 1,
@@ -254,6 +260,7 @@
     "pu_code_string": "101109001",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "IBREDE/IGBUKU / ONOGBOKOR",
     "document": {
       "external": false,
       "status": 1,
@@ -301,6 +308,7 @@
     "pu_code_string": "101109020",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "IBREDE/IGBUKU / ONOGBOKOR",
     "document": {
       "external": false,
       "status": 1,
@@ -339,6 +347,7 @@
     "pu_code_string": "101109016",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "IBREDE/IGBUKU / ONOGBOKOR",
     "document": {
       "external": false,
       "status": 1,
@@ -386,6 +395,7 @@
     "pu_code_string": "101109015",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "IBREDE/IGBUKU / ONOGBOKOR",
     "document": {
       "external": false,
       "status": 1,
@@ -433,6 +443,7 @@
     "pu_code_string": "101109005",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "IBREDE/IGBUKU / ONOGBOKOR",
     "document": {
       "external": false,
       "status": 1,
@@ -480,6 +491,7 @@
     "pu_code_string": "101109017",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "IBREDE/IGBUKU / ONOGBOKOR",
     "document": {
       "external": false,
       "status": 1,
@@ -527,6 +539,7 @@
     "pu_code_string": "101109018",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "IBREDE/IGBUKU / ONOGBOKOR",
     "document": {
       "external": false,
       "status": 1,
@@ -574,6 +587,7 @@
     "pu_code_string": "101109011",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "IBREDE/IGBUKU / ONOGBOKOR",
     "document": {
       "external": false,
       "status": 1,
@@ -621,6 +635,7 @@
     "pu_code_string": "101109012",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "IBREDE/IGBUKU / ONOGBOKOR",
     "document": {
       "external": false,
       "status": 1,
@@ -668,6 +683,7 @@
     "pu_code_string": "101109013",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "IBREDE/IGBUKU / ONOGBOKOR",
     "document": {
       "external": false,
       "status": 1,
@@ -715,6 +731,7 @@
     "pu_code_string": "101109006",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "IBREDE/IGBUKU / ONOGBOKOR",
     "document": {
       "external": false,
       "status": 1,
@@ -762,6 +779,7 @@
     "pu_code_string": "101109008",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "IBREDE/IGBUKU / ONOGBOKOR",
     "document": {
       "external": false,
       "status": 1,
@@ -800,6 +818,7 @@
     "pu_code_string": "101109004",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "IBREDE/IGBUKU / ONOGBOKOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -830,6 +849,7 @@
     "pu_code_string": "101109009",
     "state_name": "DELTA",
     "lga_name": "NDOKWA EAST",
+    "ward_name": "IBREDE/IGBUKU / ONOGBOKOR",
     "old_documents": [],
     "has_old_documents": false
   }
