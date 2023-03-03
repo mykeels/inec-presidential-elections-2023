@@ -17,5 +17,7 @@
   "ward_id": 20788,
   "created_at": "2020-07-15T17:25:45.222Z",
   "updated_at": "2020-07-15T17:25:45.222Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "FCT",
+  "lga_name": "GWAGWALADA"
 }
