@@ -1,0 +1,17 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,MOBBAR,ZANNA UMORTI,KADAURI II,08/23/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3266/ward/19447/pu/25982/25982-1677766421.pdf,false
+BORNO,MOBBAR,ZANNA UMORTI,KADAURI I,08/23/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3266/ward/19447/pu/25981/25981-1677765375.pdf,false
+BORNO,MOBBAR,ZANNA UMORTI,ZANNA UMARTI I,08/23/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3266/ward/19447/pu/25986/25986-1677764792.pdf,false
+BORNO,MOBBAR,ZANNA UMORTI,ZANNA UMARTI II,08/23/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3266/ward/19447/pu/25987/25987-1677763355.pdf,false
+BORNO,MOBBAR,ZANNA UMORTI,YUSUFARI,08/23/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3266/ward/19447/pu/25985/25985-1677690886.pdf,false
+BORNO,MOBBAR,ZANNA UMORTI,KALE KURA,08/23/09/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3266/ward/19447/pu/135039/135039-1677688911.pdf,false
+BORNO,MOBBAR,ZANNA UMORTI,KALIMBORI,08/23/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3266/ward/19447/pu/135037/135037-1677590118.pdf,true
+BORNO,MOBBAR,ZANNA UMORTI,BULAMA HAJAJA,08/23/09/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3266/ward/19447/pu/135040/135040-1677524871.pdf,false
+BORNO,MOBBAR,ZANNA UMORTI,BASHIR KWALI KWALI,08/23/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3266/ward/19447/pu/135036/135036-1677523355.pdf,false
+BORNO,MOBBAR,ZANNA UMORTI,NGIRIMARI,08/23/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3266/ward/19447/pu/135034/135034-1677522472.pdf,false
+BORNO,MOBBAR,ZANNA UMORTI,ALHAJI MUKAILA,08/23/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3266/ward/19447/pu/135038/135038-1677520894.pdf,false
+BORNO,MOBBAR,ZANNA UMORTI,BURA UMARA,08/23/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3266/ward/19447/pu/135035/135035-1677518430.pdf,false
+BORNO,MOBBAR,ZANNA UMORTI,MALARI,08/23/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3266/ward/19447/pu/25984/25984-1677516872.pdf,false
+BORNO,MOBBAR,ZANNA UMORTI,KALUSARI,08/23/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3266/ward/19447/pu/25983/25983-1677516218.pdf,false
+BORNO,MOBBAR,ZANNA UMORTI,GONI JINDARI,08/23/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3266/ward/19447/pu/25980/25980-1677514434.pdf,false
+BORNO,MOBBAR,ZANNA UMORTI,BULAMA B. KYARI,08/23/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3266/ward/19447/pu/25979/25979-1677507391.pdf,false

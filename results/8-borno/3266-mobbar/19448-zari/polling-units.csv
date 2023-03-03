@@ -1,0 +1,8 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,MOBBAR,ZARI,KACHALLA KENNARI,08/23/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3266/ward/19448/pu/25990/25990-1677760079.pdf,true
+BORNO,MOBBAR,ZARI,KWAILO,08/23/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3266/ward/19448/pu/25992/25992-1677727250.pdf,true
+BORNO,MOBBAR,ZARI,GABCHIYARI,08/23/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3266/ward/19448/pu/25989/25989-1677516003.pdf,false
+BORNO,MOBBAR,ZARI,KAIRI,08/23/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3266/ward/19448/pu/25991/25991-1677512026.pdf,false
+BORNO,MOBBAR,ZARI,ZARI PRI. SCH.,08/23/10/007,,false
+BORNO,MOBBAR,ZARI,ALIRI,08/23/10/001,,false
+BORNO,MOBBAR,ZARI,ZARI LAWANTI,08/23/10/006,,false

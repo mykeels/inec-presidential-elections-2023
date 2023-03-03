@@ -1,0 +1,5 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,NGALA,WURGE,WURGE,08/25/12/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26161/result_188057_1677672219_thumb.jpg,false
+BORNO,NGALA,WURGE,WOFIO,08/25/12/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26160/result_188056_1677672132_thumb.jpg,false
+BORNO,NGALA,WURGE,TAMBAJAM,08/25/12/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26159/result_188055_1677672058_thumb.jpg,false
+BORNO,NGALA,WURGE,ROGO,08/25/12/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26158/result_188054_1677671967_thumb.jpg,false

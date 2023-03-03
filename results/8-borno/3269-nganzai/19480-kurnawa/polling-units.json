@@ -1,0 +1,242 @@
+[
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4bbcc440353badb13d11",
+    "state_id": 8,
+    "state": "5f0eb6e16dda22674979bf29",
+    "lga_id": 3269,
+    "ward_id": 19480,
+    "state_constituency_id": 219,
+    "state_constituency": "5f0f372893d20b39ceee208f",
+    "federal_constituency_id": 72,
+    "federal_constituency": "5f0f37f72d77c83a06f0f356",
+    "senatorial_district_id": 114,
+    "senatorial_district": "5f0f3959970bd83a6f453a1b",
+    "name": "GOYO BULAMARI",
+    "code": "003",
+    "pu_code": "08/26/08/003",
+    "old_name": "",
+    "polling_unit_id": 26226,
+    "created_at": "2020-07-15T18:32:28.120Z",
+    "updated_at": "2023-02-23T20:30:56.658Z",
+    "__v": 0,
+    "pu_code_string": "082608003",
+    "state_name": "BORNO",
+    "lga_name": "NGANZAI",
+    "ward_name": "KURNAWA",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe75045e25666708798bd0",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26215/result_188118_1677496778_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T21:41:24.567Z"
+    },
+    "old_documents": [
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fc80ff3f5b1a741294b599",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3269/ward/19480/pu/26226/26226-1677492422.pdf",
+        "size": 66673,
+        "updated_at": "2023-02-28T21:41:24.567Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcef41e6efd20cc276f184",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26215/result_188118_1677496778_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T21:41:24.567Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4bbcc440353badb13d0f",
+    "state_id": 8,
+    "state": "5f0eb6e16dda22674979bf29",
+    "lga_id": 3269,
+    "ward_id": 19480,
+    "state_constituency_id": 219,
+    "state_constituency": "5f0f372893d20b39ceee208f",
+    "federal_constituency_id": 72,
+    "federal_constituency": "5f0f37f72d77c83a06f0f356",
+    "senatorial_district_id": 114,
+    "senatorial_district": "5f0f3959970bd83a6f453a1b",
+    "name": "KURNAWA PRI. SCH.",
+    "code": "001",
+    "pu_code": "08/26/08/001",
+    "old_name": "",
+    "polling_unit_id": 26224,
+    "created_at": "2020-07-15T18:32:28.005Z",
+    "updated_at": "2023-02-23T20:30:56.563Z",
+    "__v": 0,
+    "pu_code_string": "082608001",
+    "state_name": "BORNO",
+    "lga_name": "NGANZAI",
+    "ward_name": "KURNAWA",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe6739d74638649a13d11e",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26213/result_188116_1677499357_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T20:42:33.220Z"
+    },
+    "old_documents": [
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fc75c047198d6101104d09",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3269/ward/19480/pu/26224/26224-1677489563.pdf",
+        "size": 59303,
+        "updated_at": "2023-02-28T20:42:33.220Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceee6e6efd20cc2767605",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26213/result_188116_1677499357_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T20:42:33.220Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4bbcc440353badb13d10",
+    "state_id": 8,
+    "state": "5f0eb6e16dda22674979bf29",
+    "lga_id": 3269,
+    "ward_id": 19480,
+    "state_constituency_id": 219,
+    "state_constituency": "5f0f372893d20b39ceee208f",
+    "federal_constituency_id": 72,
+    "federal_constituency": "5f0f37f72d77c83a06f0f356",
+    "senatorial_district_id": 114,
+    "senatorial_district": "5f0f3959970bd83a6f453a1b",
+    "name": "KURNAWA LAWANTI",
+    "code": "002",
+    "pu_code": "08/26/08/002",
+    "old_name": "",
+    "polling_unit_id": 26225,
+    "created_at": "2020-07-15T18:32:28.065Z",
+    "updated_at": "2023-02-23T20:30:56.611Z",
+    "__v": 0,
+    "pu_code_string": "082608002",
+    "state_name": "BORNO",
+    "lga_name": "NGANZAI",
+    "ward_name": "KURNAWA",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe6524d74638649a138ce1",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26214/result_188117_1677497538_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T20:33:41.001Z"
+    },
+    "old_documents": [
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fc79bc3f5b1a741294a0a1",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3269/ward/19480/pu/26225/26225-1677490599.pdf",
+        "size": 68388,
+        "updated_at": "2023-02-28T20:33:41.001Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceec1e6efd20cc27642b2",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26214/result_188117_1677497538_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T20:33:41.001Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4bbcc440353badb13d12",
+    "state_id": 8,
+    "state": "5f0eb6e16dda22674979bf29",
+    "lga_id": 3269,
+    "ward_id": 19480,
+    "state_constituency_id": 219,
+    "state_constituency": "5f0f372893d20b39ceee208f",
+    "federal_constituency_id": 72,
+    "federal_constituency": "5f0f37f72d77c83a06f0f356",
+    "senatorial_district_id": 114,
+    "senatorial_district": "5f0f3959970bd83a6f453a1b",
+    "name": "KURNAWA NJEMARI",
+    "code": "004",
+    "pu_code": "08/26/08/004",
+    "old_name": "",
+    "polling_unit_id": 26227,
+    "created_at": "2020-07-15T18:32:28.175Z",
+    "updated_at": "2023-02-23T20:30:56.715Z",
+    "__v": 0,
+    "pu_code_string": "082608004",
+    "state_name": "BORNO",
+    "lga_name": "NGANZAI",
+    "ward_name": "KURNAWA",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe3c0b6f2c3d5c2e712c2c",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26216/result_188119_1677499006_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T17:38:19.830Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcd8cf8f41741d1230f677",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26216/result_188119_1677499006_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:13:39.831Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fce9b0e6efd20cc2751ac3",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26216/result_188119_1677499006_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:13:39.831Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fce9b0e6efd20cc2751ac3",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26216/result_188119_1677499006_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:38:19.830Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe3643d86c3a5b6d10f0aa",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26216/result_188119_1677499006_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:38:19.830Z"
+      }
+    ],
+    "has_old_documents": true
+  }
+]

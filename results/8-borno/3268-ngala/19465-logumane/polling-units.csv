@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,NGALA,LOGUMANE,GUMSHE,08/25/05/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26102/result_187978_1677670417_thumb.jpg,false
+BORNO,NGALA,LOGUMANE,AJIWA,08/25/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19465/pu/26115/26115-1677607782.pdf,false
+BORNO,NGALA,LOGUMANE,NGURO I,08/25/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19465/pu/26109/26109-1677606341.pdf,true
+BORNO,NGALA,LOGUMANE,LOGOMANE I,08/25/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19465/pu/26111/26111-1677604081.pdf,true
+BORNO,NGALA,LOGUMANE,MAGARE,08/25/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19465/pu/26114/26114-1677603060.pdf,true
+BORNO,NGALA,LOGUMANE,NGURO II,08/25/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19465/pu/26110/26110-1677602434.pdf,false
+BORNO,NGALA,LOGUMANE,ADA PRI. SCH.,08/25/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19465/pu/135093/135093-1677601225.pdf,true
+BORNO,NGALA,LOGUMANE,LOGOMANE II,08/25/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19465/pu/26112/26112-1677600458.pdf,false

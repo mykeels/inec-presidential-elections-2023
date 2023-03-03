@@ -1,0 +1,8 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,MONGUNO,MOFIO,NGUMARI ALI KOLORI,08/24/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3267/ward/19452/pu/135043/135043-1677772747.pdf,false
+BORNO,MONGUNO,MOFIO,NGUMATIYANA MAMMANTI,08/24/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3267/ward/19452/pu/135044/135044-1677772562.pdf,true
+BORNO,MONGUNO,MOFIO,ZAIAN,08/24/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3267/ward/19452/pu/26013/26013-1677769802.pdf,false
+BORNO,MONGUNO,MOFIO,MOFIO LAWANTI,08/24/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3267/ward/19452/pu/26009/26009-1677768391.pdf,false
+BORNO,MONGUNO,MOFIO,MOFIO,08/24/04/002,,false
+BORNO,MONGUNO,MOFIO,JELE KURA,08/24/04/004,,false
+BORNO,MONGUNO,MOFIO,BIDA MARKET,08/24/04/003,,false

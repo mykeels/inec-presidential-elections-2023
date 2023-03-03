@@ -1,0 +1,14 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,NGALA,WULGO,FISHERY OFFICE,08/25/11/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/627710/result_188053_1677678980_thumb.jpg,false
+BORNO,NGALA,WULGO,BULA KESSABE,08/25/11/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26154/result_188048_1677678916_thumb.jpg,false
+BORNO,NGALA,WULGO,GARAL VILLAGE,08/25/11/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26155/result_188049_1677678848_thumb.jpg,false
+BORNO,NGALA,WULGO,HAUSARI,08/25/11/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+BORNO,NGALA,WULGO,YERWA KURA,08/25/11/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26157/result_188051_1677678693_thumb.jpg,false
+BORNO,NGALA,WULGO,WULGO TOWN VIEWING CENTRE I,08/25/11/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26147/result_188041_1677678631_thumb.jpg,false
+BORNO,NGALA,WULGO,WULGO CENTRAL PRI. SCH.,08/25/11/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/627709/result_188052_1677678564_thumb.jpg,false
+BORNO,NGALA,WULGO,WULGO CENTRAL,08/25/11/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26153/result_188047_1677678472_thumb.jpg,false
+BORNO,NGALA,WULGO,JAGARAWAJI,08/25/11/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26156/result_188050_1677678365_thumb.jpg,false
+BORNO,NGALA,WULGO,WULGO DAJIRI I,08/25/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19471/pu/26159/26159-1677676569.pdf,false
+BORNO,NGALA,WULGO,WULGO DAJIRI II,08/25/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19471/pu/26160/26160-1677589679.pdf,true
+BORNO,NGALA,WULGO,ZANNARI,08/25/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19471/pu/26162/26162-1677589226.pdf,true
+BORNO,NGALA,WULGO,WULGO,08/25/11/006,,false

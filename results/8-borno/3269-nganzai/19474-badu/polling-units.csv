@@ -1,0 +1,11 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,NGANZAI,BADU,BADU MARKET,08/26/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26169/result_188066_1677491891_thumb.jpg,true
+BORNO,NGANZAI,BADU,ZA'A BORE HOLE II,08/26/02/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26175/result_188072_1677496396_thumb.jpg,true
+BORNO,NGANZAI,BADU,ZA'A BORE HOLE I,08/26/02/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26174/result_188071_1677493707_thumb.jpg,true
+BORNO,NGANZAI,BADU,MALLAM KYARIRI I,08/26/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26172/result_188069_1677492620_thumb.jpg,true
+BORNO,NGANZAI,BADU,GONI YETCHARI I,08/26/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26170/result_188067_1677491921_thumb.jpg,true
+BORNO,NGANZAI,BADU,GONI YETCHARI II,08/26/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3269/ward/19474/pu/26182/26182-1677498100.pdf,false
+BORNO,NGANZAI,BADU,ZA'A BORE HOLE III,08/26/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3269/ward/19474/pu/26187/26187-1677497857.pdf,false
+BORNO,NGANZAI,BADU,MALLAM KYARIRI II,08/26/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3269/ward/19474/pu/26184/26184-1677494123.pdf,false
+BORNO,NGANZAI,BADU,BADU PRI. SCH.,08/26/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3269/ward/19474/pu/26179/26179-1677488654.pdf,false
+BORNO,NGANZAI,BADU,BADU LAWANTI,08/26/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3269/ward/19474/pu/26178/26178-1677488025.pdf,false

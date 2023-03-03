@@ -1,0 +1,6 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,MONGUNO,NGURNO,NGURNO,08/24/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3267/ward/19456/pu/26046/26046-1677771948.pdf,false
+BORNO,MONGUNO,NGURNO,FANAMARI,08/24/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3267/ward/19456/pu/26049/26049-1677771327.pdf,false
+BORNO,MONGUNO,NGURNO,DAM II,08/24/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3267/ward/19456/pu/26048/26048-1677770631.pdf,false
+BORNO,MONGUNO,NGURNO,KANUMBURI,08/24/08/001,,false
+BORNO,MONGUNO,NGURNO,DAM I,08/24/08/003,,false

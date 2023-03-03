@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,SHANI,KWABA,"LAKUNDUM PRI. SCH., LAKUNDUM I",08/27/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3270/ward/19493/pu/26340/26340-1677586243.pdf,true
+BORNO,SHANI,KWABA,KOFAR DANJUMA,08/27/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3270/ward/19493/pu/135132/135132-1677584039.pdf,false
+BORNO,SHANI,KWABA,UBE PRI. SCH. LAKUNDUM,08/27/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3270/ward/19493/pu/135131/135131-1677582992.pdf,false
+BORNO,SHANI,KWABA,"KOFAR B. ISA, LABILIS",08/27/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3270/ward/19493/pu/26345/26345-1677582325.pdf,false
+BORNO,SHANI,KWABA,"JAURO MAGAJI, DIDANGO I",08/27/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3270/ward/19493/pu/26342/26342-1677582021.pdf,true
+BORNO,SHANI,KWABA,"KOFAR BULAMA MUSA, LAKUNDUM II",08/27/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3270/ward/19493/pu/26341/26341-1677581378.pdf,false
+BORNO,SHANI,KWABA,"JAURO MAGAJI, DIDANGO II",08/27/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3270/ward/19493/pu/26343/26343-1677580340.pdf,true
+BORNO,SHANI,KWABA,"KOFAR B. ADAMU, JIGAWA",08/27/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3270/ward/19493/pu/26344/26344-1677579319.pdf,true

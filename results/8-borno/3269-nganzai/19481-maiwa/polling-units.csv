@@ -1,0 +1,6 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,NGANZAI,MAIWA,ZINDIR,08/26/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26221/result_188124_1677504382_thumb.jpg,true
+BORNO,NGANZAI,MAIWA,CHINGOWA BULAMARI,08/26/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26218/result_188121_1677501363_thumb.jpg,true
+BORNO,NGANZAI,MAIWA,MUNGU BULAMARI II,08/26/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26220/result_188123_1677501121_thumb.jpg,true
+BORNO,NGANZAI,MAIWA,MAIWA LAWANTI PRI. SCH.,08/26/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3269/ward/19481/pu/26228/26228-1677501885.pdf,false
+BORNO,NGANZAI,MAIWA,MUNGU BULAMARI I,08/26/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3269/ward/19481/pu/26230/26230-1677499764.pdf,false

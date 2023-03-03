@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,MONGUNO,MINTAR,MINTAR MALUMRI,08/24/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3267/ward/19454/pu/135046/135046-1677776365.pdf,false
+BORNO,MONGUNO,MINTAR,MINTAR,08/24/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3267/ward/19454/pu/26021/26021-1677775793.pdf,false
+BORNO,MONGUNO,MINTAR,ALIYA,08/24/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3267/ward/19454/pu/26023/26023-1677774985.pdf,false
+BORNO,MONGUNO,MINTAR,DEBELE,08/24/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3267/ward/19454/pu/26020/26020-1677774565.pdf,false
+BORNO,MONGUNO,MINTAR,MAGARAM,08/24/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3267/ward/19454/pu/26022/26022-1677773635.pdf,false
+BORNO,MONGUNO,MINTAR,NGOLLOM KURA,08/24/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3267/ward/19454/pu/135045/135045-1677772746.pdf,true
+BORNO,MONGUNO,MINTAR,MODUARI,08/24/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3267/ward/19454/pu/26024/26024-1677772604.pdf,false
+BORNO,MONGUNO,MINTAR,DIFFINOWA,08/24/06/001,,false
+BORNO,MONGUNO,MINTAR,NGOLLOM,08/24/06/002,,false

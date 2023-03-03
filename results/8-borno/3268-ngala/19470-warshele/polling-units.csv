@@ -1,0 +1,12 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,NGALA,WARSHELE,ANTILISKE VILLAGE,08/25/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26137/result_188031_1677680263_thumb.jpg,true
+BORNO,NGALA,WARSHELE,TUSUYE,08/25/10/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26146/result_188040_1677679487_thumb.jpg,false
+BORNO,NGALA,WARSHELE,KESAWA,08/25/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26145/result_188039_1677679154_thumb.jpg,false
+BORNO,NGALA,WARSHELE,NDUFUNE I,08/25/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26140/result_188034_1677678903_thumb.jpg,false
+BORNO,NGALA,WARSHELE,NGAIWA,08/25/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26143/result_188037_1677678700_thumb.jpg,false
+BORNO,NGALA,WARSHELE,WARSHELE VILLAGE,08/25/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26136/result_188030_1677678331_thumb.jpg,false
+BORNO,NGALA,WARSHELE,HASSANARI,08/25/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19470/pu/26150/26150-1677676650.pdf,false
+BORNO,NGALA,WARSHELE,KOMA VILLAGE,08/25/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19470/pu/26149/26149-1677612505.pdf,true
+BORNO,NGALA,WARSHELE,TONGULE,08/25/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19470/pu/26155/26155-1677610049.pdf,false
+BORNO,NGALA,WARSHELE,NDUFUNE II,08/25/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19470/pu/26152/26152-1677608241.pdf,false
+BORNO,NGALA,WARSHELE,MUKDOLO,08/25/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19470/pu/26153/26153-1677606931.pdf,true

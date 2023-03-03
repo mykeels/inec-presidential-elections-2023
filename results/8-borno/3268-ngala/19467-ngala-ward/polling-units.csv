@@ -1,0 +1,13 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,NGALA,NGALA WARD,C.B.D.A. QUARTERS,08/25/07/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26116/result_187993_1677681522_thumb.jpg,false
+BORNO,NGALA,NGALA WARD,NGALA CENTRAL PRI. SCH. I,08/25/07/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26117/result_187994_1677681363_thumb.jpg,false
+BORNO,NGALA,NGALA WARD,LOWCOST NGALA,08/25/07/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26119/result_187996_1677681251_thumb.jpg,false
+BORNO,NGALA,NGALA WARD,SUNABAKO,08/25/07/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26120/result_187997_1677681180_thumb.jpg,false
+BORNO,NGALA,NGALA WARD,SHETTIMARI,08/25/07/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26115/result_187992_1677681064_thumb.jpg,false
+BORNO,NGALA,NGALA WARD,NGALA CENTRAL PRI. SCH. II,08/25/07/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26118/result_187995_1677680960_thumb.jpg,false
+BORNO,NGALA,NGALA WARD,KIRSAKKATA,08/25/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19467/pu/135095/135095-1677608472.pdf,false
+BORNO,NGALA,NGALA WARD,JUNIOR QUARTERS,08/25/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19467/pu/135096/135096-1677606370.pdf,true
+BORNO,NGALA,NGALA WARD,NGALA VIEWING CENTRE,08/25/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19467/pu/135098/135098-1677605642.pdf,true
+BORNO,NGALA,NGALA WARD,MAIRI,08/25/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19467/pu/135097/135097-1677604826.pdf,true
+BORNO,NGALA,NGALA WARD,NGALA GENERAL HOSPITAL,08/25/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19467/pu/135099/135099-1677603927.pdf,true
+BORNO,NGALA,NGALA WARD,AJARI,08/25/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19467/pu/135094/135094-1677601332.pdf,true

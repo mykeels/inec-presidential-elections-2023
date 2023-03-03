@@ -1,0 +1,5 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,NGANZAI,SABSABUWA,SABSABUWA LAWANTI,08/26/11/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26233/result_188138_1677489806_thumb.jpg,true
+BORNO,NGANZAI,SABSABUWA,SABSABUWA PRI. SCH.,08/26/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3269/ward/19483/pu/26245/26245-1677488217.pdf,false
+BORNO,NGANZAI,SABSABUWA,DOWO BORE HOLE I,08/26/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3269/ward/19483/pu/26246/26246-1677487721.pdf,false
+BORNO,NGANZAI,SABSABUWA,DOWO BORE HOLE II,08/26/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3269/ward/19483/pu/26247/26247-1677487237.pdf,false

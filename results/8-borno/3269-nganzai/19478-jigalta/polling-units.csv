@@ -1,0 +1,6 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,NGANZAI,JIGALTA,GASARWA PRI. SCH. I,08/26/06/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26205/result_188107_1677503384_thumb.jpg,true
+BORNO,NGANZAI,JIGALTA,BURIMARI,08/26/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3269/ward/19478/pu/26218/26218-1677493599.pdf,false
+BORNO,NGANZAI,JIGALTA,GASARWA PRI. SCH. II,08/26/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3269/ward/19478/pu/26217/26217-1677492671.pdf,false
+BORNO,NGANZAI,JIGALTA,JIGALTA LAWANTI II,08/26/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3269/ward/19478/pu/26215/26215-1677491811.pdf,false
+BORNO,NGANZAI,JIGALTA,JIGALTA LAWANTI I,08/26/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3269/ward/19478/pu/26214/26214-1677489676.pdf,false

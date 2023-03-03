@@ -1,0 +1,13 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,NGALA,FUYE,FUYE,08/25/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26068/result_187928_1677680026_thumb.jpg,false
+BORNO,NGALA,FUYE,DEJIRI,08/25/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26071/result_187931_1677679948_thumb.jpg,false
+BORNO,NGALA,FUYE,DARAJIMAL,08/25/02/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26077/result_187937_1677679803_thumb.jpg,false
+BORNO,NGALA,FUYE,KINEMUBA,08/25/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26070/result_187930_1677679717_thumb.jpg,false
+BORNO,NGALA,FUYE,KUSUMA,08/25/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19462/pu/26087/26087-1677659717.pdf,false
+BORNO,NGALA,FUYE,BULA MALUMBE,08/25/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19462/pu/26089/26089-1677611035.pdf,false
+BORNO,NGALA,FUYE,GIRLE LAWANTI,08/25/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19462/pu/135077/135077-1677609278.pdf,false
+BORNO,NGALA,FUYE,MUSUNE,08/25/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19462/pu/26086/26086-1677607659.pdf,false
+BORNO,NGALA,FUYE,GULWA,08/25/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19462/pu/26085/26085-1677607408.pdf,false
+BORNO,NGALA,FUYE,GIRLE,08/25/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19462/pu/26084/26084-1677607093.pdf,true
+BORNO,NGALA,FUYE,BUKDA,08/25/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26069/result_187929_1677595632_thumb.jpg,false
+BORNO,NGALA,FUYE,GISHIRI,08/25/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/25/ward/02/pu/005/005-1677359769.pdf,false

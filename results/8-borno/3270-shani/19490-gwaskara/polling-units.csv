@@ -1,0 +1,8 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,SHANI,GWASKARA,GWASKARA PRIMARY SCHOOL II,08/27/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3270/ward/19490/pu/135129/135129-1677595369.pdf,false
+BORNO,SHANI,GWASKARA,"GWASKARA PRI. SCH. , GWASKARA  I",08/27/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3270/ward/19490/pu/26313/26313-1677593380.pdf,true
+BORNO,SHANI,GWASKARA,"KOFAR BULAMA YUSUFU , GORMODO",08/27/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3270/ward/19490/pu/26318/26318-1677591208.pdf,false
+BORNO,SHANI,GWASKARA,"LAJADA PRI. SCH. , LAJADA  I",08/27/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3270/ward/19490/pu/26315/26315-1677590273.pdf,true
+BORNO,SHANI,GWASKARA,"KOFAR LAWAN , GWASKARA  II",08/27/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3270/ward/19490/pu/26314/26314-1677589413.pdf,true
+BORNO,SHANI,GWASKARA,"KOFAR BULAMA ADAMU , WAJANG",08/27/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3270/ward/19490/pu/26317/26317-1677587527.pdf,true
+BORNO,SHANI,GWASKARA,"LAJADA PRI. SCH. , LAJADA  II",08/27/06/004,,false

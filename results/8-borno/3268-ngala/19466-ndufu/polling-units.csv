@@ -1,0 +1,11 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,NGALA,NDUFU,DUKSALA,08/25/06/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+BORNO,NGALA,NDUFU,ABBARI,08/25/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26111/result_187988_1677676668_thumb.jpg,false
+BORNO,NGALA,NDUFU,SALERI,08/25/06/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26107/result_187984_1677676601_thumb.jpg,false
+BORNO,NGALA,NDUFU,JOKONA,08/25/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/26106/result_187983_1677676503_thumb.jpg,false
+BORNO,NGALA,NDUFU,AMKULA,08/25/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19466/pu/26123/26123-1677607355.pdf,true
+BORNO,NGALA,NDUFU,FAIRAM,08/25/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19466/pu/26119/26119-1677606629.pdf,true
+BORNO,NGALA,NDUFU,NDUFU PRI. SCH.,08/25/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19466/pu/26116/26116-1677603926.pdf,true
+BORNO,NGALA,NDUFU,MELERI,08/25/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19466/pu/26121/26121-1677602159.pdf,true
+BORNO,NGALA,NDUFU,DIME,08/25/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19466/pu/26120/26120-1677601609.pdf,false
+BORNO,NGALA,NDUFU,MUKTU,08/25/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3268/ward/19466/pu/26125/26125-1677601045.pdf,false

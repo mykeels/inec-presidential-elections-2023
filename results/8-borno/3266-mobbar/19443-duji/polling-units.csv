@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,MOBBAR,DUJI,CUSTOM AREA,08/23/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3266/ward/19443/pu/25954/25954-1677772021.pdf,true
+BORNO,MOBBAR,DUJI,DUJI PRI. SCH.,08/23/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3266/ward/19443/pu/25955/25955-1677768703.pdf,false
+BORNO,MOBBAR,DUJI,LUMBURAM,08/23/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3266/ward/19443/pu/135031/135031-1677762721.pdf,true
+BORNO,MOBBAR,DUJI,MELERI,08/23/05/006,https://docs.inecelectionresults.net/elections/1292/1677759747-25958.pdf,false
+BORNO,MOBBAR,DUJI,KACHALLA KELLURI,08/23/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3266/ward/19443/pu/25957/25957-1677759210.pdf,false
+BORNO,MOBBAR,DUJI,LAWANTI,08/23/05/008,https://docs.inecelectionresults.net/elections/1292/1677758011-135030.pdf,false
+BORNO,MOBBAR,DUJI,AMINARI,08/23/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3266/ward/19443/pu/25953/25953-1677690459.pdf,false
+BORNO,MOBBAR,DUJI,MARKET AREA,08/23/05/007,,false
+BORNO,MOBBAR,DUJI,FADANA GARUWA,08/23/05/004,,false

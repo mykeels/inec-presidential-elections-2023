@@ -1,0 +1,5 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,MONGUNO,DAMAKULI,GIZZA,08/24/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3267/ward/19449/pu/25997/25997-1677767116.pdf,false
+BORNO,MONGUNO,DAMAKULI,DAMAKULI I,08/24/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3267/ward/19449/pu/25995/25995-1677764875.pdf,false
+BORNO,MONGUNO,DAMAKULI,MUNYE KURA,08/24/01/004,,false
+BORNO,MONGUNO,DAMAKULI,DAMAKULI II,08/24/01/002,,false

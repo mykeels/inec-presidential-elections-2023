@@ -1,0 +1,6 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BORNO,MOBBAR,LAYI,LADANTI I,08/23/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3266/ward/19446/pu/25976/25976-1677771255.pdf,true
+BORNO,MOBBAR,LAYI,JINDA,08/23/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3266/ward/19446/pu/25975/25975-1677517776.pdf,false
+BORNO,MOBBAR,LAYI,GONI ABBARI,08/23/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3266/ward/19446/pu/25974/25974-1677517009.pdf,false
+BORNO,MOBBAR,LAYI,LADANTI II,08/23/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3266/ward/19446/pu/25977/25977-1677514036.pdf,false
+BORNO,MOBBAR,LAYI,LAYI PRI. SCH.,08/23/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3266/ward/19446/pu/25978/25978-1677513771.pdf,false
