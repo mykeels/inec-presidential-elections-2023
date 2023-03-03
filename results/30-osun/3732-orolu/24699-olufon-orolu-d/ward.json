@@ -17,5 +17,7 @@
   "ward_id": 24699,
   "created_at": "2020-07-15T17:35:33.563Z",
   "updated_at": "2020-07-15T17:35:33.563Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "OSUN",
+  "lga_name": "OROLU"
 }
