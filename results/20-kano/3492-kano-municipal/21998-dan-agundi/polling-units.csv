@@ -1,0 +1,30 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,KANO MUNICIPAL,DAN'AGUNDI,ADO BAYERO ISLAMIYYA VII (INDABAWA VII),19/21/02/016,,true
+KANO,KANO MUNICIPAL,DAN'AGUNDI,ADO BAYERO ISLAMIYYA VI (INDABAWA VI),19/21/02/015,,true
+KANO,KANO MUNICIPAL,DAN'AGUNDI,WASILA ISLAIMIYYA IV (KURMAWA IV),19/21/02/021,,true
+KANO,KANO MUNICIPAL,DAN'AGUNDI,DAN'AGUNDI S.P.S IV (DAN'AGUNDI IV),19/21/02/004,,true
+KANO,KANO MUNICIPAL,DAN'AGUNDI,DAN AGUNDI S.P.S XXVI,19/21/02/026,,true
+KANO,KANO MUNICIPAL,DAN'AGUNDI,DAN'AGUNDI S.P.S I (DAN'AGUNDI I),19/21/02/001,,true
+KANO,KANO MUNICIPAL,DAN'AGUNDI,DAN'AGUNDI S.P.S II (DAN'AGUNDI II),19/21/02/002,,true
+KANO,KANO MUNICIPAL,DAN'AGUNDI,ADO BAYERO ISLAMIYYA II (INDABAWA II),19/21/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/011/011-1677413279.pdf,false
+KANO,KANO MUNICIPAL,DAN'AGUNDI,INDABAWA ADO BAYERO ISLAMIYYA XXVII,19/21/02/027,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/027/027-1677411551.pdf,false
+KANO,KANO MUNICIPAL,DAN'AGUNDI,ADO BAYERO ISLAMIYYA I (INDABAWA I),19/21/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/010/010-1677411345.pdf,false
+KANO,KANO MUNICIPAL,DAN'AGUNDI,WAJILA ISLAMIYYA KURAMAWA XXVI,19/21/02/028,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/028/028-1677387221.pdf,false
+KANO,KANO MUNICIPAL,DAN'AGUNDI,ADO BAYERO ISLAMIYYA III (INDABAWA III),19/21/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/012/012-1677376148.pdf,false
+KANO,KANO MUNICIPAL,DAN'AGUNDI,DAN'AGUNDI S.P.S V (DAN'AGUNDI V),19/21/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/005/005-1677374898.pdf,false
+KANO,KANO MUNICIPAL,DAN'AGUNDI,ADO BAYERO ISLAMIYYA V (INDABAWA V),19/21/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/014/014-1677374345.pdf,false
+KANO,KANO MUNICIPAL,DAN'AGUNDI,WAJILA ISLAMIYYA KURAMAWA,19/21/02/029,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/029/029-1677373400.pdf,false
+KANO,KANO MUNICIPAL,DAN'AGUNDI,DAN'AGUNDI S.P.S IX (DAN'AGUNDI IX),19/21/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/009/009-1677373192.pdf,false
+KANO,KANO MUNICIPAL,DAN'AGUNDI,DAN'AGUNDI S.P.S VI (DAN'AGUNDI VI),19/21/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/006/006-1677373050.pdf,false
+KANO,KANO MUNICIPAL,DAN'AGUNDI,DAN'AGUNDI S.P.S VIII (DAN'AGUNDI VIII),19/21/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/008/008-1677372809.pdf,false
+KANO,KANO MUNICIPAL,DAN'AGUNDI,WASILA ISLAIMIYYA V (KURMAWA V),19/21/02/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/022/022-1677372755.pdf,false
+KANO,KANO MUNICIPAL,DAN'AGUNDI,KURMAWA VIII/WASILA ISLAIMIYYA (KURMAWA VIII),19/21/02/025,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/025/025-1677372730.pdf,false
+KANO,KANO MUNICIPAL,DAN'AGUNDI,WASILA ISLAIMIYYA III (KURMAWA III),19/21/02/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/020/020-1677371989.pdf,false
+KANO,KANO MUNICIPAL,DAN'AGUNDI,DAN'AGUNDI S.P.S VII (DAN'AGUNDI VII),19/21/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/007/007-1677371525.pdf,false
+KANO,KANO MUNICIPAL,DAN'AGUNDI,DAN'AGUNDI S.P.S III (DAN'AGUNDI III),19/21/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/003/003-1677371430.pdf,false
+KANO,KANO MUNICIPAL,DAN'AGUNDI,WASILA ISLAIMIYYA I (KURMAWA I),19/21/02/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/018/018-1677371360.pdf,false
+KANO,KANO MUNICIPAL,DAN'AGUNDI,WASILA ISLAIMIYYA VII (KURMAWA VII),19/21/02/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/024/024-1677371358.pdf,false
+KANO,KANO MUNICIPAL,DAN'AGUNDI,WASILA ISLAIMIYYA II (KURMAWA II),19/21/02/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/019/019-1677371289.pdf,false
+KANO,KANO MUNICIPAL,DAN'AGUNDI,WASILA ISLAIMIYYA VI (KURMAWA VI),19/21/02/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/023/023-1677370899.pdf,false
+KANO,KANO MUNICIPAL,DAN'AGUNDI,ADO BAYERO ISLAMIYYA VIII (INDABAWA VIII),19/21/02/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/017/017-1677370604.pdf,false
+KANO,KANO MUNICIPAL,DAN'AGUNDI,ADO BAYERO ISLAMIYYA IV (INDABAWA IV),19/21/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/013/013-1677369343.pdf,false

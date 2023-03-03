@@ -1,0 +1,16 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,GARUN MALAM,MAKWARO,KWIWAR GABAS,19/15/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21943/pu/59704/59704-1677671195.pdf,false
+KANO,GARUN MALAM,MAKWARO,KWIWAR GABAS II,19/15/08/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21943/pu/149027/149027-1677629840.pdf,true
+KANO,GARUN MALAM,MAKWARO,UNGUWA UKU,19/15/08/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21943/pu/59712/59712-1677626902.pdf,true
+KANO,GARUN MALAM,MAKWARO,SAMAWA,19/15/08/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21943/pu/59711/59711-1677626077.pdf,true
+KANO,GARUN MALAM,MAKWARO,MAKWARO TUDU II,19/15/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21943/pu/59710/59710-1677625592.pdf,true
+KANO,GARUN MALAM,MAKWARO,MAKWARO TUDU I,19/15/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21943/pu/59709/59709-1677625267.pdf,true
+KANO,GARUN MALAM,MAKWARO,MAKWARO CIKI II,19/15/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21943/pu/59708/59708-1677624605.pdf,true
+KANO,GARUN MALAM,MAKWARO,MAKWARO CIKI I,19/15/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21943/pu/59707/59707-1677621040.pdf,true
+KANO,GARUN MALAM,MAKWARO,KWIWAR YAMMA II,19/15/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21943/pu/59706/59706-1677619652.pdf,true
+KANO,GARUN MALAM,MAKWARO,KWIWAR YAMMA I,19/15/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21943/pu/59705/59705-1677618886.pdf,true
+KANO,GARUN MALAM,MAKWARO,KWARKYAN II,19/15/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21943/pu/59703/59703-1677594176.pdf,true
+KANO,GARUN MALAM,MAKWARO,KWARKYAN I,19/15/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21943/pu/59702/59702-1677593822.pdf,true
+KANO,GARUN MALAM,MAKWARO,AGALAWAR SABON FEGI,19/15/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21943/pu/59701/59701-1677593567.pdf,true
+KANO,GARUN MALAM,MAKWARO,AGALWA II,19/15/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21943/pu/59700/59700-1677592856.pdf,true
+KANO,GARUN MALAM,MAKWARO,AGALWA I,19/15/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59608/result_122766_1677569987_thumb.jpg,false

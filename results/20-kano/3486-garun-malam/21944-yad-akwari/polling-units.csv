@@ -1,0 +1,14 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,GARUN MALAM,YAD AKWARI,KOFAR FADA,19/15/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21944/pu/59716/59716-1677606347.pdf,true
+KANO,GARUN MALAM,YAD AKWARI,CEDI GABAS,19/15/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21944/pu/59713/59713-1677602162.pdf,true
+KANO,GARUN MALAM,YAD AKWARI,CEDI YAMMA,19/15/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21944/pu/59714/59714-1677602042.pdf,true
+KANO,GARUN MALAM,YAD AKWARI,DAN MAURA,19/15/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21944/pu/59715/59715-1677601929.pdf,true
+KANO,GARUN MALAM,YAD AKWARI,MARMARA I,19/15/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21944/pu/59717/59717-1677601826.pdf,false
+KANO,GARUN MALAM,YAD AKWARI,MARMARA II,19/15/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21944/pu/59718/59718-1677601691.pdf,true
+KANO,GARUN MALAM,YAD AKWARI,YADAKWARI CIKI I,19/15/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21944/pu/59720/59720-1677594329.pdf,true
+KANO,GARUN MALAM,YAD AKWARI,YADAKWARI CIKI II,19/15/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21944/pu/59721/59721-1677594103.pdf,false
+KANO,GARUN MALAM,YAD AKWARI,YADAKWARI CIKI III,19/15/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21944/pu/59722/59722-1677593972.pdf,false
+KANO,GARUN MALAM,YAD AKWARI,YADAKWARI CIKI IV,19/15/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21944/pu/149029/149029-1677593239.pdf,true
+KANO,GARUN MALAM,YAD AKWARI,YADAKWARI CIKI V,19/15/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21944/pu/149030/149030-1677592964.pdf,true
+KANO,GARUN MALAM,YAD AKWARI,TUDUN FULANI,19/15/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/09/pu/007/007-1677380106.pdf,false
+KANO,GARUN MALAM,YAD AKWARI,CHEDI YAMMA II,19/15/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/09/pu/011/011-1677364155.pdf,false

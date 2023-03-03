@@ -1,0 +1,17 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,DOGUWA,DOGON KAWO,BEGUWA,19/11/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3482/ward/21896/pu/58857/58857-1677678839.pdf,false
+KANO,DOGUWA,DOGON KAWO,DOGON KAWO MAKARANTA,19/11/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3482/ward/21896/pu/148748/148748-1677673413.pdf,false
+KANO,DOGUWA,DOGON KAWO,BAKIN KASUWA TSOHUWA,19/11/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3482/ward/21896/pu/148747/148747-1677673157.pdf,false
+KANO,DOGUWA,DOGON KAWO,KAMPALA,19/11/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3482/ward/21896/pu/148746/148746-1677672911.pdf,false
+KANO,DOGUWA,DOGON KAWO,UNG. MAGAJI,19/11/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3482/ward/21896/pu/58869/58869-1677672753.pdf,false
+KANO,DOGUWA,DOGON KAWO,UNG. LEMO,19/11/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3482/ward/21896/pu/58868/58868-1677672264.pdf,false
+KANO,DOGUWA,DOGON KAWO,UNG. GARDI II,19/11/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3482/ward/21896/pu/58867/58867-1677672092.pdf,false
+KANO,DOGUWA,DOGON KAWO,RUWAN FAYA,19/11/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3482/ward/21896/pu/58865/58865-1677671924.pdf,false
+KANO,DOGUWA,DOGON KAWO,GULBAI,19/11/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3482/ward/21896/pu/58864/58864-1677671674.pdf,false
+KANO,DOGUWA,DOGON KAWO,DOGON KAWO II,19/11/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3482/ward/21896/pu/58863/58863-1677671520.pdf,true
+KANO,DOGUWA,DOGON KAWO,DOGON KAWO I,19/11/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3482/ward/21896/pu/58862/58862-1677671305.pdf,false
+KANO,DOGUWA,DOGON KAWO,"BURJI, C/GARI IV",19/11/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3482/ward/21896/pu/58861/58861-1677671118.pdf,false
+KANO,DOGUWA,DOGON KAWO,"BURJI, C/GARI III",19/11/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3482/ward/21896/pu/58860/58860-1677670925.pdf,false
+KANO,DOGUWA,DOGON KAWO,"BURJI, C/GARI II",19/11/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3482/ward/21896/pu/58859/58859-1677670707.pdf,false
+KANO,DOGUWA,DOGON KAWO,"BURJI, C/GARI I",19/11/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3482/ward/21896/pu/58858/58858-1677670360.pdf,false
+KANO,DOGUWA,DOGON KAWO,UNG. GARDI I,19/11/02/010,,false

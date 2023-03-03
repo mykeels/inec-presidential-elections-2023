@@ -1,0 +1,13 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,KIRU,ZUWO,FAGOJI I,19/24/15/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3495/ward/22044/pu/61517/61517-1677686558.pdf,true
+KANO,KIRU,ZUWO,DANASHINA,19/24/15/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3495/ward/22044/pu/61516/61516-1677686106.pdf,true
+KANO,KIRU,ZUWO,UNGUWAR GANJI I,19/24/15/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61429/result_125281_1677622001_thumb.jpg,false
+KANO,KIRU,ZUWO,UNGUWAR GARBA I,19/24/15/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61427/result_125279_1677490672_thumb.jpg,false
+KANO,KIRU,ZUWO,DANASHINA II,19/24/15/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/645008/result_125287_1677490340_thumb.jpg,false
+KANO,KIRU,ZUWO,FAGOJI II,19/24/15/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61426/result_125278_1677488640_thumb.jpg,false
+KANO,KIRU,ZUWO,ZUWO CIKIN GARI I,19/24/15/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61432/result_125284_1677489938_thumb.jpg,false
+KANO,KIRU,ZUWO,UNGUWAR GANJI II,19/24/15/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61430/result_125282_1677489485_thumb.jpg,false
+KANO,KIRU,ZUWO,ZUWO CIKIN GARI II,19/24/15/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61433/result_125285_1677490055_thumb.jpg,false
+KANO,KIRU,ZUWO,UNGUWAR GARBA II,19/24/15/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61428/result_125280_1677488984_thumb.jpg,false
+KANO,KIRU,ZUWO,ZUWO CIKIN GARI III,19/24/15/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61434/result_125286_1677490196_thumb.jpg,false
+KANO,KIRU,ZUWO,YAN GYARA,19/24/15/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61431/result_125283_1677489591_thumb.jpg,true

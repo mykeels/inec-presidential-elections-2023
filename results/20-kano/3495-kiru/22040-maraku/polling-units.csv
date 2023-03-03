@@ -1,0 +1,14 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,KIRU,MARAKU,MARAKU ISLAMIYA,19/24/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3495/ward/22040/pu/149699/149699-1677685693.pdf,true
+KANO,KIRU,MARAKU,MARAKU CIKIN KUDU,19/24/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3495/ward/22040/pu/61471/61471-1677685585.pdf,true
+KANO,KIRU,MARAKU,KWANKWARO II,19/24/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3495/ward/22040/pu/61470/61470-1677684974.pdf,true
+KANO,KIRU,MARAKU,U/MAKERA CO-EXIT J S S,19/24/11/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3495/ward/22040/pu/149700/149700-1677684628.pdf,true
+KANO,KIRU,MARAKU,RINJI,19/24/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3495/ward/22040/pu/61473/61473-1677684370.pdf,true
+KANO,KIRU,MARAKU,KWANKWARO I,19/24/11/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61377/result_125207_1677496509_thumb.jpg,false
+KANO,KIRU,MARAKU,SARKAKIYA I,19/24/11/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61382/result_125212_1677509246_thumb.jpg,false
+KANO,KIRU,MARAKU,UNGUWAR MAKERA I,19/24/11/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61384/result_125214_1677504647_thumb.jpg,false
+KANO,KIRU,MARAKU,UNGUWAR MAKERA II,19/24/11/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61385/result_125215_1677504839_thumb.jpg,false
+KANO,KIRU,MARAKU,BADA II,19/24/11/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644986/result_125216_1677504954_thumb.jpg,false
+KANO,KIRU,MARAKU,MARKAKU CIKIN GARI,19/24/11/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61380/result_125210_1677498011_thumb.jpg,false
+KANO,KIRU,MARAKU,BADA,19/24/11/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61376/result_125206_1677496330_thumb.jpg,true
+KANO,KIRU,MARAKU,SARKAKIYA II,19/24/11/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61383/result_125213_1677504581_thumb.jpg,true

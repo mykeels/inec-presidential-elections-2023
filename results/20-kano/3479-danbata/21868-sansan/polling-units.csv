@@ -1,0 +1,18 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,DANBATA,SANSAN,UNGUWAR MAMMAN II,19/08/10/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643914/result_121108_1677543444_thumb.jpg,false
+KANO,DANBATA,SANSAN,SANSAN II,19/08/10/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643913/result_121107_1677543343_thumb.jpg,true
+KANO,DANBATA,SANSAN,KWASAURI II,19/08/10/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643912/result_121106_1677543237_thumb.jpg,true
+KANO,DANBATA,SANSAN,SANSAN CIKIN GARI II,19/08/10/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643911/result_121105_1677543145_thumb.jpg,true
+KANO,DANBATA,SANSAN,"U/SHA'AIBU, OPEN SPACE",19/08/10/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58344/result_121104_1677543050_thumb.jpg,true
+KANO,DANBATA,SANSAN,"U/MAMMAN, OPEN SPACE",19/08/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58343/result_121103_1677542969_thumb.jpg,false
+KANO,DANBATA,SANSAN,"TSALLEWA, OPEN SPACE",19/08/10/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58342/result_121102_1677542747_thumb.jpg,false
+KANO,DANBATA,SANSAN,"MAIFARU, OPEN SPACE",19/08/10/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58340/result_121100_1677542466_thumb.jpg,false
+KANO,DANBATA,SANSAN,"SANSAN, PRIMARY SCHOOL",19/08/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58341/result_121101_1677542354_thumb.jpg,false
+KANO,DANBATA,SANSAN,"KWASHURI, PRI. SCH.",19/08/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58339/result_121099_1677523695_thumb.jpg,true
+KANO,DANBATA,SANSAN,"KANWAYE, OPEN SPACE",19/08/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58338/result_121098_1677523559_thumb.jpg,true
+KANO,DANBATA,SANSAN,"DUNGU, OPEN SPACE",19/08/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58333/result_121093_1677517156_thumb.jpg,false
+KANO,DANBATA,SANSAN,"GANGARADUNGURMI, OPEN SPACE",19/08/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58335/result_121095_1677517776_thumb.jpg,true
+KANO,DANBATA,SANSAN,"DUNGURMI, PRI. SCH.",19/08/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58334/result_121094_1677517453_thumb.jpg,true
+KANO,DANBATA,SANSAN,"CHIROMA, OPEN SPACE",19/08/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58332/result_121092_1677514877_thumb.jpg,true
+KANO,DANBATA,SANSAN,"GANDU ,OPEN SPACE",19/08/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58337/result_121097_1677518393_thumb.jpg,false
+KANO,DANBATA,SANSAN,"GANGARE, OPEN SPACE",19/08/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58336/result_121096_1677517911_thumb.jpg,true

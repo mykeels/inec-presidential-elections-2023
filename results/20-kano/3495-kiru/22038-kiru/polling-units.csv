@@ -1,0 +1,39 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,KIRU,KIRU,CIKIN GARI III,19/24/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3495/ward/22038/pu/61433/61433-1677717768.pdf,true
+KANO,KIRU,KIRU,CIKIN GARI V,19/24/09/007,https://docs.inecelectionresults.net/elections/1292/1677687764-61435.pdf,true
+KANO,KIRU,KIRU,BUREMAWA I,19/24/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3495/ward/22038/pu/61429/61429-1677679724.pdf,true
+KANO,KIRU,KIRU,ABDULLAHI BN ABBAS ISLAMIYA I,19/24/09/035,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644979/result_125188_1677620883_thumb.jpg,false
+KANO,KIRU,KIRU,KATSINAWA IV,19/24/09/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61359/result_125176_1677620689_thumb.jpg,false
+KANO,KIRU,KIRU,KATSINAWA I,19/24/09/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61356/result_125173_1677620591_thumb.jpg,false
+KANO,KIRU,KIRU,SHARIA COURT II,19/24/09/038,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644982/result_125191_1677619997_thumb.jpg,false
+KANO,KIRU,KIRU,SHARIA COURT I,19/24/09/037,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644981/result_125190_1677619916_thumb.jpg,false
+KANO,KIRU,KIRU,ABDULLAHI BN ABBAS ISLAMIYA II,19/24/09/036,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644980/result_125189_1677619850_thumb.jpg,false
+KANO,KIRU,KIRU,MADINATUL MUNAWWARA ISLAMIYA II,19/24/09/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644978/result_125187_1677619781_thumb.jpg,false
+KANO,KIRU,KIRU,MADINATUL MUNAWWARA  ISLAMIYA I,19/24/09/033,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644977/result_125186_1677619724_thumb.jpg,false
+KANO,KIRU,KIRU,CHILD FRIENDLY PRI II,19/24/09/032,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644976/result_125185_1677619658_thumb.jpg,false
+KANO,KIRU,KIRU,CHILD FRIENDLY PRI I,19/24/09/031,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644975/result_125184_1677619570_thumb.jpg,false
+KANO,KIRU,KIRU,ISLAMIYA K/KUDU II,19/24/09/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644974/result_125183_1677619512_thumb.jpg,false
+KANO,KIRU,KIRU,ISLAMIYA K/KUDU I,19/24/09/029,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644973/result_125182_1677619395_thumb.jpg,false
+KANO,KIRU,KIRU,TURAKANCI,19/24/09/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61364/result_125181_1677619304_thumb.jpg,false
+KANO,KIRU,KIRU,NATARE GABAS II,19/24/09/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61363/result_125180_1677619242_thumb.jpg,false
+KANO,KIRU,KIRU,NATARE GABAS I,19/24/09/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61362/result_125179_1677619106_thumb.jpg,false
+KANO,KIRU,KIRU,KATSINAWA VI,19/24/09/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61361/result_125178_1677619043_thumb.jpg,false
+KANO,KIRU,KIRU,KATSINAWA V,19/24/09/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61360/result_125177_1677618959_thumb.jpg,false
+KANO,KIRU,KIRU,KATSINAWA III,19/24/09/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61358/result_125175_1677618812_thumb.jpg,false
+KANO,KIRU,KIRU,KATSINAWA II,19/24/09/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61357/result_125174_1677618733_thumb.jpg,false
+KANO,KIRU,KIRU,KADAUJE II,19/24/09/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61355/result_125172_1677618428_thumb.jpg,false
+KANO,KIRU,KIRU,KADAUJE I,19/24/09/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61354/result_125171_1677618380_thumb.jpg,false
+KANO,KIRU,KIRU,ISLAMIYYA III,19/24/09/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61353/result_125170_1677618324_thumb.jpg,false
+KANO,KIRU,KIRU,ISLAMIYYA II,19/24/09/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61352/result_125169_1677618281_thumb.jpg,false
+KANO,KIRU,KIRU,ISLAMIYYA I,19/24/09/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61351/result_125168_1677618238_thumb.jpg,false
+KANO,KIRU,KIRU,GIDAN HAKIMI III,19/24/09/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61350/result_125167_1677618121_thumb.jpg,false
+KANO,KIRU,KIRU,GIDAN HAKIMI II,19/24/09/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61349/result_125166_1677618063_thumb.jpg,false
+KANO,KIRU,KIRU,GIDAN HAKIMI I,19/24/09/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61348/result_125165_1677617997_thumb.jpg,false
+KANO,KIRU,KIRU,GAZAN II,19/24/09/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61347/result_125164_1677617950_thumb.jpg,false
+KANO,KIRU,KIRU,GAZAN I,19/24/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61346/result_125163_1677617733_thumb.jpg,false
+KANO,KIRU,KIRU,DARBO,19/24/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61345/result_125162_1677617629_thumb.jpg,false
+KANO,KIRU,KIRU,CIKIN GARI VI,19/24/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61344/result_125161_1677617425_thumb.jpg,false
+KANO,KIRU,KIRU,CIKIN GARI IV,19/24/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61342/result_125159_1677617235_thumb.jpg,false
+KANO,KIRU,KIRU,CIKIN GARI II,19/24/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61340/result_125157_1677615727_thumb.jpg,false
+KANO,KIRU,KIRU,CIKIN GARI I,19/24/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61339/result_125156_1677615587_thumb.jpg,false
+KANO,KIRU,KIRU,BUREMAWA II,19/24/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61338/result_125155_1677615483_thumb.jpg,false

@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,GABASAWA,TARAUNI,WAILARE KUMBOTSO,19/13/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3484/ward/21920/pu/59412/59412-1677762108.pdf,false
+KANO,GABASAWA,TARAUNI,JUGORON DANGAGE,19/13/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3484/ward/21920/pu/59405/59405-1677761816.pdf,false
+KANO,GABASAWA,TARAUNI,"TARAUNI,  LARABAWA",19/13/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3484/ward/21920/pu/59409/59409-1677761144.pdf,false
+KANO,GABASAWA,TARAUNI,JUGORON FULANI,19/13/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3484/ward/21920/pu/59406/59406-1677748237.pdf,true
+KANO,GABASAWA,TARAUNI,JUGORON KANAWA,19/13/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3484/ward/21920/pu/59407/59407-1677610641.pdf,false
+KANO,GABASAWA,TARAUNI,"WAILARE,  JINAN",19/13/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3484/ward/21920/pu/59411/59411-1677610443.pdf,false
+KANO,GABASAWA,TARAUNI,"WAILARE,  CIKIN GARI",19/13/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3484/ward/21920/pu/59410/59410-1677610365.pdf,false
+KANO,GABASAWA,TARAUNI,"TARAUNI,  CIKIN GARI",19/13/06/004,,false

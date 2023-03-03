@@ -1,0 +1,16 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,KARAYE,YAMMEDI,UNGUWAR KURE,19/22/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22018/pu/61206/61206-1677693230.pdf,false
+KANO,KARAYE,YAMMEDI,KANGARAWA,19/22/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22018/pu/61201/61201-1677692742.pdf,true
+KANO,KARAYE,YAMMEDI,GIDAN DABAI,19/22/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22018/pu/61200/61200-1677692179.pdf,false
+KANO,KARAYE,YAMMEDI,YAMMEDI II,19/22/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22018/pu/61210/61210-1677691606.pdf,false
+KANO,KARAYE,YAMMEDI,YAMMEDI I,19/22/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22018/pu/61209/61209-1677689276.pdf,false
+KANO,KARAYE,YAMMEDI,DEDERI II,19/22/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22018/pu/61199/61199-1677688522.pdf,false
+KANO,KARAYE,YAMMEDI,DEDERI I,19/22/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22018/pu/61198/61198-1677686827.pdf,true
+KANO,KARAYE,YAMMEDI,TSOHUWAR KARAYE I,19/22/09/007,,false
+KANO,KARAYE,YAMMEDI,WALAWA,19/22/09/012,,false
+KANO,KARAYE,YAMMEDI,ZANGO MAKERA,19/22/09/015,,false
+KANO,KARAYE,YAMMEDI,TSOHUWAR KARAYE II,19/22/09/008,,false
+KANO,KARAYE,YAMMEDI,AUDAWA,19/22/09/001,,false
+KANO,KARAYE,YAMMEDI,MAKERAR YAMMEDA,19/22/09/006,,false
+KANO,KARAYE,YAMMEDI,UNGUWAR TAIKI,19/22/09/011,,false
+KANO,KARAYE,YAMMEDI,UNGUWAR MADAKI,19/22/09/009,,false

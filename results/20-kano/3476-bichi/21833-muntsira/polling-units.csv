@@ -1,0 +1,20 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,BICHI,MUNTSIRA,MUNTSIRA II,19/05/08/016,https://docs.inecelectionresults.net/elections/1292/1677762514-148315.pdf,true
+KANO,BICHI,MUNTSIRA,KARGON BICHI SEC. SCH I (KARGON BICHI I),19/05/08/004,https://docs.inecelectionresults.net/elections/1292/1677762007-57602.pdf,true
+KANO,BICHI,MUNTSIRA,KARGON BICHI SEC. SCH,19/05/08/014,https://docs.inecelectionresults.net/elections/1292/1677758662-148313.pdf,true
+KANO,BICHI,MUNTSIRA,SABARU MUNTSIRA II,19/05/08/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643606/result_119970_1677668858_thumb.jpg,false
+KANO,BICHI,MUNTSIRA,MUNTSIRA ISLAMIYYA II,19/05/08/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643604/result_119968_1677668700_thumb.jpg,false
+KANO,BICHI,MUNTSIRA,MADINAI PRI. SCH. II (KARGON BICHII),19/05/08/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643602/result_119966_1677668387_thumb.jpg,false
+KANO,BICHI,MUNTSIRA,TSARAKA A'AWA CLINIC (TSARAKA AAWA III),19/05/08/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/57520/result_119964_1677668043_thumb.jpg,false
+KANO,BICHI,MUNTSIRA,TSARAKA AAWA II,19/05/08/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/57519/result_119963_1677667774_thumb.jpg,false
+KANO,BICHI,MUNTSIRA,TSARAKA AAWA I,19/05/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/57518/result_119962_1677667637_thumb.jpg,false
+KANO,BICHI,MUNTSIRA,SADI IYAWA,19/05/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/57517/result_119961_1677667533_thumb.jpg,false
+KANO,BICHI,MUNTSIRA,SABARU PRIMARY SCHOOL (SABARU MUNTSIRA),19/05/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/57516/result_119960_1677667292_thumb.jpg,false
+KANO,BICHI,MUNTSIRA,MUNTSIRA ILAMIYYA (MUNTSIRA II),19/05/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/57515/result_119959_1677667195_thumb.jpg,false
+KANO,BICHI,MUNTSIRA,MUNTSIRA I,19/05/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/57514/result_119958_1677666672_thumb.jpg,false
+KANO,BICHI,MUNTSIRA,MADINAI PRI. SCH. (KARGON BICHI III),19/05/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/57513/result_119957_1677662932_thumb.jpg,false
+KANO,BICHI,MUNTSIRA,KARGON BICHI SEC. SCH II (KARGON BICHI II),19/05/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/57512/result_119956_1677662705_thumb.jpg,false
+KANO,BICHI,MUNTSIRA,IYAWA PRI. SCHOOL (IYAWA),19/05/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/57510/result_119954_1677618610_thumb.jpg,false
+KANO,BICHI,MUNTSIRA,NEW PRIMARY SCHOOL (A'AWA II),19/05/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/57509/result_119953_1677618435_thumb.jpg,false
+KANO,BICHI,MUNTSIRA,ISLAMIYYA CENTRE (A'AWA I),19/05/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KANO,BICHI,MUNTSIRA,IYAWA II,19/05/08/018,,false

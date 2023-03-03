@@ -1,0 +1,18 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,DAWAKI TOFA,MARKE,SABARU,19/10/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3481/ward/21892/pu/58800/58800-1677689460.pdf,true
+KANO,DAWAKI TOFA,MARKE,DANBAJE,19/10/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3481/ward/21892/pu/58790/58790-1677674474.pdf,true
+KANO,DAWAKI TOFA,MARKE,KADIRAWA PHC,19/10/09/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644023/result_121581_1677533987_thumb.jpg,false
+KANO,DAWAKI TOFA,MARKE,YANSHADO II,19/10/09/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58714/result_121580_1677533915_thumb.jpg,false
+KANO,DAWAKI TOFA,MARKE,YANSHADO I,19/10/09/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58713/result_121579_1677533850_thumb.jpg,false
+KANO,DAWAKI TOFA,MARKE,YAN RUTU YAMA AR GABAS,19/10/09/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58712/result_121578_1677533782_thumb.jpg,false
+KANO,DAWAKI TOFA,MARKE,YAN RUTU GWANJI,19/10/09/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58711/result_121577_1677533668_thumb.jpg,false
+KANO,DAWAKI TOFA,MARKE,UNGUWAR RIMI,19/10/09/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58710/result_121576_1677533591_thumb.jpg,false
+KANO,DAWAKI TOFA,MARKE,MARKE P.S,19/10/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58708/result_121574_1677533474_thumb.jpg,true
+KANO,DAWAKI TOFA,MARKE,MARKE CIKIN GARI,19/10/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58707/result_121573_1677533381_thumb.jpg,false
+KANO,DAWAKI TOFA,MARKE,KARANBANI,19/10/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58706/result_121572_1677533289_thumb.jpg,false
+KANO,DAWAKI TOFA,MARKE,KALEKU KANAWA,19/10/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58705/result_121571_1677533204_thumb.jpg,false
+KANO,DAWAKI TOFA,MARKE,KALEKUN FULANI,19/10/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58704/result_121570_1677533101_thumb.jpg,false
+KANO,DAWAKI TOFA,MARKE,JAUBEN MARKE,19/10/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KANO,DAWAKI TOFA,MARKE,JAMA AR GABAS,19/10/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58702/result_121568_1677532877_thumb.jpg,false
+KANO,DAWAKI TOFA,MARKE,GAURAKI II,19/10/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58701/result_121567_1677532797_thumb.jpg,false
+KANO,DAWAKI TOFA,MARKE,GAURAKI I,19/10/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58700/result_121566_1677532694_thumb.jpg,false

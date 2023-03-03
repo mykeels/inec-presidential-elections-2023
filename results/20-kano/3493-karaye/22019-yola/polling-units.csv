@@ -1,0 +1,13 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,KARAYE,YOLA,BANGA I,19/22/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22019/pu/61212/61212-1677686014.pdf,true
+KANO,KARAYE,YOLA,YOLA ADAMA,19/22/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61131/result_124892_1677662772_thumb.jpg,false
+KANO,KARAYE,YOLA,YOLA ZAUNA GARI II,19/22/10/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61130/result_124891_1677662702_thumb.jpg,false
+KANO,KARAYE,YOLA,YOLA ZAUNA GARI I,19/22/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61129/result_124890_1677662625_thumb.jpg,false
+KANO,KARAYE,YOLA,YOLA II,19/22/10/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61128/result_124889_1677662411_thumb.jpg,false
+KANO,KARAYE,YOLA,YOLA I,19/22/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61127/result_124888_1677662313_thumb.jpg,false
+KANO,KARAYE,YOLA,MAI ALKAMA I,19/22/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61126/result_124887_1677662227_thumb.jpg,false
+KANO,KARAYE,YOLA,MA I,19/22/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KANO,KARAYE,YOLA,JAMA'AR MANZO II,19/22/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61123/result_124884_1677661962_thumb.jpg,false
+KANO,KARAYE,YOLA,JAMA'AR MANZO I,19/22/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61122/result_124883_1677661795_thumb.jpg,false
+KANO,KARAYE,YOLA,BANGA II,19/22/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61121/result_124882_1677661711_thumb.jpg,false
+KANO,KARAYE,YOLA,MA II,19/22/10/006,,false

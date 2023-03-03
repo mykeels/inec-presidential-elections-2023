@@ -1,0 +1,12 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,DAWAKI KUDU,YANBARAU,SARAI C/GARI,19/09/12/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3480/ward/21880/pu/58615/58615-1677611573.pdf,false
+KANO,DAWAKI KUDU,YANBARAU,FEGI,19/09/12/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3480/ward/21880/pu/58614/58614-1677611342.pdf,true
+KANO,DAWAKI KUDU,YANBARAU,YAMBARAU II,19/09/12/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3480/ward/21880/pu/58620/58620-1677610689.pdf,true
+KANO,DAWAKI KUDU,YANBARAU,YANBARAU III,19/09/12/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3480/ward/21880/pu/148717/148717-1677610364.pdf,false
+KANO,DAWAKI KUDU,YANBARAU,YAMBARAU I,19/09/12/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3480/ward/21880/pu/58619/58619-1677609197.pdf,false
+KANO,DAWAKI KUDU,YANBARAU,YABURRAWA,19/09/12/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3480/ward/21880/pu/58621/58621-1677608308.pdf,false
+KANO,DAWAKI KUDU,YANBARAU,WAMAN SULE,19/09/12/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3480/ward/21880/pu/58618/58618-1677608023.pdf,false
+KANO,DAWAKI KUDU,YANBARAU,TAMAWA,19/09/12/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3480/ward/21880/pu/58617/58617-1677607783.pdf,false
+KANO,DAWAKI KUDU,YANBARAU,SARAI G/MAMA,19/09/12/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3480/ward/21880/pu/58616/58616-1677607520.pdf,false
+KANO,DAWAKI KUDU,YANBARAU,BUSAYE C/GARI,19/09/12/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3480/ward/21880/pu/58613/58613-1677607148.pdf,true
+KANO,DAWAKI KUDU,YANBARAU,BUSAYE P.S.,19/09/12/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3480/ward/21880/pu/58612/58612-1677606867.pdf,true

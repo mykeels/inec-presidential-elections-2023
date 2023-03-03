@@ -1,0 +1,12 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,GARUN MALAM,JOBAWA,YAULEN KWARI,19/15/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21941/pu/59683/59683-1677743009.pdf,false
+KANO,GARUN MALAM,JOBAWA,JOBAWA CIKI II,19/15/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21941/pu/149022/149022-1677592362.pdf,false
+KANO,GARUN MALAM,JOBAWA,ZANGO KUDU,19/15/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21941/pu/59686/59686-1677592287.pdf,true
+KANO,GARUN MALAM,JOBAWA,ZANGO,19/15/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21941/pu/59685/59685-1677592192.pdf,false
+KANO,GARUN MALAM,JOBAWA,YAULEN TUDU,19/15/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21941/pu/59684/59684-1677592108.pdf,false
+KANO,GARUN MALAM,JOBAWA,YASHI,19/15/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21941/pu/59682/59682-1677591998.pdf,false
+KANO,GARUN MALAM,JOBAWA,YAN CIKO,19/15/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21941/pu/59681/59681-1677591891.pdf,false
+KANO,GARUN MALAM,JOBAWA,RIGA,19/15/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21941/pu/59680/59680-1677591799.pdf,true
+KANO,GARUN MALAM,JOBAWA,MAJE,19/15/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21941/pu/59679/59679-1677591726.pdf,true
+KANO,GARUN MALAM,JOBAWA,LANJAN,19/15/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21941/pu/59678/59678-1677591648.pdf,false
+KANO,GARUN MALAM,JOBAWA,JOBAWA CIKI,19/15/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21941/pu/59677/59677-1677589309.pdf,true

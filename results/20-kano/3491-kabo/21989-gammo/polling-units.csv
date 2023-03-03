@@ -1,0 +1,17 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,KABO,GAMMO,SARKIN YA,19/20/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21989/pu/60490/60490-1677685583.pdf,false
+KANO,KABO,GAMMO,TSAMAIMAI,19/20/03/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21989/pu/60491/60491-1677685470.pdf,false
+KANO,KABO,GAMMO,RIGAR MADO,19/20/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21989/pu/60488/60488-1677685245.pdf,false
+KANO,KABO,GAMMO,RINJIN YADI,19/20/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21989/pu/60489/60489-1677685210.pdf,false
+KANO,KABO,GAMMO,RIGAR JAWO,19/20/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21989/pu/60487/60487-1677684962.pdf,true
+KANO,KABO,GAMMO,KAUYERE,19/20/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21989/pu/60486/60486-1677684826.pdf,false
+KANO,KABO,GAMMO,MALIKAWA II,19/20/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21989/pu/60485/60485-1677684666.pdf,false
+KANO,KABO,GAMMO,MALIKAWA I,19/20/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21989/pu/60484/60484-1677684172.pdf,false
+KANO,KABO,GAMMO,KATSALLE/SABARU,19/20/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21989/pu/60483/60483-1677684149.pdf,false
+KANO,KABO,GAMMO,GWANEJI,19/20/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21989/pu/60482/60482-1677683779.pdf,false
+KANO,KABO,GAMMO,GWADABE/DUKAWA,19/20/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21989/pu/60481/60481-1677683670.pdf,true
+KANO,KABO,GAMMO,FALGORE,19/20/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21989/pu/60480/60480-1677683248.pdf,false
+KANO,KABO,GAMMO,DANMALIKI,19/20/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21989/pu/60479/60479-1677682114.pdf,false
+KANO,KABO,GAMMO,BUJAWA I,19/20/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21989/pu/60477/60477-1677681607.pdf,false
+KANO,KABO,GAMMO,BUJAWA II,19/20/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21989/pu/60478/60478-1677681517.pdf,false
+KANO,KABO,GAMMO,BARNAWA,19/20/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21989/pu/60476/60476-1677681187.pdf,true

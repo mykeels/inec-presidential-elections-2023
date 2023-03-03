@@ -1,0 +1,11 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,GAYA,GAMOJI,JAMA'AR GAMJI II,19/16/05/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59724/result_122918_1677784333_thumb.jpg,false
+KANO,GAYA,GAMOJI,KAGADAMA,19/16/05/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59725/result_122919_1677771351_thumb.jpg,false
+KANO,GAYA,GAMOJI,JAMA'AR GAMJI I,19/16/05/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59723/result_122917_1677771046_thumb.jpg,false
+KANO,GAYA,GAMOJI,JAHUNAWA,19/16/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59722/result_122916_1677770903_thumb.jpg,false
+KANO,GAYA,GAMOJI,GAMOJI CIKINGARI II,19/16/05/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59721/result_122915_1677770799_thumb.jpg,false
+KANO,GAYA,GAMOJI,GAMOJI CIKIN GARI I,19/16/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59720/result_122914_1677770635_thumb.jpg,false
+KANO,GAYA,GAMOJI,GAMOJI CIKIN GARI III,19/16/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21950/pu/149064/149064-1677676187.pdf,true
+KANO,GAYA,GAMOJI,GAMOJI CIKIN GARI II,19/16/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21950/pu/149063/149063-1677676084.pdf,true
+KANO,GAYA,GAMOJI,KWARSA/LARAN/KWARI,19/16/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21950/pu/59817/59817-1677676009.pdf,false
+KANO,GAYA,GAMOJI,SABARU,19/16/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21950/pu/59818/59818-1677675826.pdf,true

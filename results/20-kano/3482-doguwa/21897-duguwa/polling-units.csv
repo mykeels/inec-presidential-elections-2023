@@ -1,0 +1,25 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,DOGUWA,DUGUWA,MUNTSIRA/TURMUSAWA,19/11/03/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3482/ward/21897/pu/148755/148755-1677741734.pdf,true
+KANO,DOGUWA,DUGUWA,DOGUWA TSAKIYA I,19/11/03/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58784/result_121664_1677695416_thumb.jpg,false
+KANO,DOGUWA,DUGUWA,MAHAUTA TSAKIYA,19/11/03/020,https://docs.inecelectionresults.net/elections/1292/1677691463-148752.pdf,true
+KANO,DOGUWA,DUGUWA,"DOGUWA GABAS ,TSAKIYA I",19/11/03/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58788/result_121668_1677679525_thumb.jpg,false
+KANO,DOGUWA,DUGUWA,DANDABO,19/11/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58779/result_121659_1677679437_thumb.jpg,false
+KANO,DOGUWA,DUGUWA,YAN TABARMI II,19/11/03/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58794/result_121674_1677672386_thumb.jpg,false
+KANO,DOGUWA,DUGUWA,YAN TABARMI I,19/11/03/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58793/result_121673_1677672322_thumb.jpg,false
+KANO,DOGUWA,DUGUWA,UNG. RAMA,19/11/03/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58792/result_121672_1677672161_thumb.jpg,true
+KANO,DOGUWA,DUGUWA,UNG. MAKERI II,19/11/03/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58791/result_121671_1677671882_thumb.jpg,true
+KANO,DOGUWA,DUGUWA,UNG. MAKERI I,19/11/03/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KANO,DOGUWA,DUGUWA,"DOGUWA GABAS, TSAKIYA II",19/11/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58789/result_121669_1677671013_thumb.jpg,false
+KANO,DOGUWA,DUGUWA,DOGUWA YAMMA II,19/11/03/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58787/result_121667_1677670873_thumb.jpg,false
+KANO,DOGUWA,DUGUWA,DOGUWA YAMMA I,19/11/03/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58786/result_121666_1677670778_thumb.jpg,true
+KANO,DOGUWA,DUGUWA,DOGUWA TSAKIYA II,19/11/03/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58785/result_121665_1677670709_thumb.jpg,false
+KANO,DOGUWA,DUGUWA,DOGUWA GABAS III,19/11/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58783/result_121663_1677669925_thumb.jpg,false
+KANO,DOGUWA,DUGUWA,DOGUWA GABAS II,19/11/03/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KANO,DOGUWA,DUGUWA,DOGUWA GABAS I,19/11/03/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58781/result_121661_1677669769_thumb.jpg,false
+KANO,DOGUWA,DUGUWA,DANDOKI,19/11/03/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58780/result_121660_1677669640_thumb.jpg,false
+KANO,DOGUWA,DUGUWA,MAIKAULASAN/GANGARA STREET,19/11/03/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3482/ward/21897/pu/148749/148749-1677662537.pdf,false
+KANO,DOGUWA,DUGUWA,NASARAWA,19/11/03/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3482/ward/21897/pu/148750/148750-1677662330.pdf,false
+KANO,DOGUWA,DUGUWA,MAHAUTA GABAS,19/11/03/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3482/ward/21897/pu/148751/148751-1677661493.pdf,true
+KANO,DOGUWA,DUGUWA,MAHAUTA YAMMA,19/11/03/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3482/ward/21897/pu/148753/148753-1677649708.pdf,false
+KANO,DOGUWA,DUGUWA,MAKABARTA SOUTH SOUTH,19/11/03/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3482/ward/21897/pu/148754/148754-1677649496.pdf,false
+KANO,DOGUWA,DUGUWA,KATSALLE,19/11/03/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3482/ward/21897/pu/148756/148756-1677648962.pdf,true

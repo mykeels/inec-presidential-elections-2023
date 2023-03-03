@@ -1,0 +1,5 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,BEBEJI,ANADARIYA,TASHAR MARA II,19/04/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/57236/result_119586_1677528620_thumb.jpg,false
+KANO,BEBEJI,ANADARIYA,TASHAR MARA I,19/04/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/57235/result_119585_1677528528_thumb.jpg,false
+KANO,BEBEJI,ANADARIYA,"ANADARIYA,  CIKIN GARI II",19/04/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/57234/result_119584_1677528248_thumb.jpg,false
+KANO,BEBEJI,ANADARIYA,"ANADARIYA,  CIKIN GARI I",19/04/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/57233/result_119583_1677527912_thumb.jpg,false

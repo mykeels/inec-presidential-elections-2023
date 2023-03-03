@@ -1,0 +1,12 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,KARAYE,UNGUWAR HAJJI,JAMA'AR KOSA,19/22/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22017/pu/61189/61189-1677689704.pdf,false
+KANO,KARAYE,UNGUWAR HAJJI,UNGUWAR HAJJI IV,19/22/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22017/pu/61196/61196-1677687296.pdf,true
+KANO,KARAYE,UNGUWAR HAJJI,TINKIS II,19/22/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22017/pu/149628/149628-1677687221.pdf,false
+KANO,KARAYE,UNGUWAR HAJJI,UNGUWAR HAJJI II,19/22/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22017/pu/61194/61194-1677686345.pdf,false
+KANO,KARAYE,UNGUWAR HAJJI,KYARI I,19/22/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22017/pu/61190/61190-1677686031.pdf,false
+KANO,KARAYE,UNGUWAR HAJJI,TINKIS,19/22/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22017/pu/61192/61192-1677684280.pdf,false
+KANO,KARAYE,UNGUWAR HAJJI,UNGUWAR HAJJI V,19/22/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22017/pu/149626/149626-1677679824.pdf,false
+KANO,KARAYE,UNGUWAR HAJJI,UNGUWAR HAJJI VI,19/22/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22017/pu/149627/149627-1677678111.pdf,false
+KANO,KARAYE,UNGUWAR HAJJI,KYARI II,19/22/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22017/pu/61191/61191-1677676843.pdf,false
+KANO,KARAYE,UNGUWAR HAJJI,UNGUWAR HAJJI III,19/22/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22017/pu/61195/61195-1677675363.pdf,false
+KANO,KARAYE,UNGUWAR HAJJI,UNGUWAR HAJJI I,19/22/08/005,,false

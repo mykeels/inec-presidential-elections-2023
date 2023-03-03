@@ -1,0 +1,17 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,KABO,GUDE,LIMANCHI IV,19/20/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21992/pu/149436/149436-1677650860.pdf,false
+KANO,KABO,GUDE,LIMANCHI III,19/20/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21992/pu/149435/149435-1677650593.pdf,true
+KANO,KABO,GUDE,KWALWA II,19/20/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21992/pu/149434/149434-1677650110.pdf,true
+KANO,KABO,GUDE,HUSUREN KWARI IV,19/20/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21992/pu/149433/149433-1677649871.pdf,true
+KANO,KABO,GUDE,HUSUREN KWARI III,19/20/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21992/pu/149432/149432-1677649634.pdf,false
+KANO,KABO,GUDE,RIGAR JATAU.,19/20/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21992/pu/60543/60543-1677649344.pdf,true
+KANO,KABO,GUDE,LIMANCHI II,19/20/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21992/pu/60542/60542-1677649040.pdf,false
+KANO,KABO,GUDE,LIMANCHI I,19/20/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21992/pu/60541/60541-1677621426.pdf,true
+KANO,KABO,GUDE,KWALAWA,19/20/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21992/pu/60540/60540-1677620371.pdf,false
+KANO,KABO,GUDE,KAUYEN MAHAUTA ISLAMIYYA PRI. SCH. (KWALWA/ KAUYEN MAHAUTA.),19/20/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21992/pu/60539/60539-1677619630.pdf,true
+KANO,KABO,GUDE,HUSUREN KWARI II,19/20/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21992/pu/60538/60538-1677608691.pdf,false
+KANO,KABO,GUDE,HUSUREN KWARI I,19/20/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21992/pu/60537/60537-1677604880.pdf,true
+KANO,KABO,GUDE,HUSUREN DUTSE,19/20/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21992/pu/60536/60536-1677604258.pdf,true
+KANO,KABO,GUDE,BUWAWA/ IDOBISA I,19/20/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21992/pu/60533/60533-1677602490.pdf,false
+KANO,KABO,GUDE,BUWAWA/ IDOBISA II,19/20/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/002/002-1677395045.pdf,false
+KANO,KABO,GUDE,GUZUMBAWA,19/20/06/003,,false

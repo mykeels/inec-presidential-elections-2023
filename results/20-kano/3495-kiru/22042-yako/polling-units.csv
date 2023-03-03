@@ -1,0 +1,16 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,KIRU,YAKO,TUNKARAWA,19/24/13/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3495/ward/22042/pu/61485/61485-1677688295.pdf,true
+KANO,KIRU,YAKO,YAKO GIRLS SEC SCH II,19/24/13/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644992/result_125240_1677624914_thumb.jpg,false
+KANO,KIRU,YAKO,YAKO GIRLS SEC SCH I,19/24/13/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644991/result_125239_1677624847_thumb.jpg,false
+KANO,KIRU,YAKO,YAKO KUDU III,19/24/13/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KANO,KIRU,YAKO,YAKO KUDU II,19/24/13/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61402/result_125237_1677624730_thumb.jpg,false
+KANO,KIRU,YAKO,YAKO KUDU I,19/24/13/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61401/result_125236_1677624678_thumb.jpg,false
+KANO,KIRU,YAKO,YAKO C/GARI  IV,19/24/13/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61400/result_125235_1677624630_thumb.jpg,false
+KANO,KIRU,YAKO,YAKO C/GARI  III,19/24/13/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61399/result_125234_1677624578_thumb.jpg,false
+KANO,KIRU,YAKO,YAKO C/GARI  II,19/24/13/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61398/result_125233_1677624535_thumb.jpg,false
+KANO,KIRU,YAKO,YAKO C/GARI I,19/24/13/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61397/result_125232_1677624454_thumb.jpg,false
+KANO,KIRU,YAKO,TSAMIYAR SHWARA,19/24/13/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61396/result_125231_1677624407_thumb.jpg,false
+KANO,KIRU,YAKO,UNGUWAR MAZA,19/24/13/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61395/result_125230_1677624357_thumb.jpg,false
+KANO,KIRU,YAKO,UNGUWAR BATURE,19/24/13/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61394/result_125229_1677624303_thumb.jpg,false
+KANO,KIRU,YAKO,KAMFATAU,19/24/13/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61392/result_125227_1677624247_thumb.jpg,false
+KANO,KIRU,YAKO,DUKAWA,19/24/13/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61391/result_125226_1677622701_thumb.jpg,false

@@ -1,0 +1,16 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,KIBIYA,KAHU,SHAMAGE TOWN,19/23/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61181/result_124954_1677582111_thumb.jpg,false
+KANO,KIBIYA,KAHU,UNG/SHIKE PRIMARY SCHOOL II,19/23/05/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61186/result_124959_1677582710_thumb.jpg,false
+KANO,KIBIYA,KAHU,TSIRYA TOWN,19/23/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61184/result_124957_1677582476_thumb.jpg,false
+KANO,KIBIYA,KAHU,UNG/FAKAI,19/23/05/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61185/result_124958_1677582569_thumb.jpg,false
+KANO,KIBIYA,KAHU,KAHU II,19/23/05/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644929/result_124962_1677584030_thumb.jpg,false
+KANO,KIBIYA,KAHU,SHIKE -  GINDUWA,19/23/05/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61183/result_124956_1677582364_thumb.jpg,false
+KANO,KIBIYA,KAHU,SHIKE MAI GARI,19/23/05/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61187/result_124960_1677583056_thumb.jpg,false
+KANO,KIBIYA,KAHU,SHIKE,19/23/05/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61182/result_124955_1677582212_thumb.jpg,false
+KANO,KIBIYA,KAHU,SABON GARU TOWN,19/23/05/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61180/result_124953_1677581968_thumb.jpg,true
+KANO,KIBIYA,KAHU,CABARA,19/23/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/61175/result_124948_1677584293_thumb.jpg,false
+KANO,KIBIYA,KAHU,KAHU,19/23/05/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644946/result_124961_1677583494_thumb.jpg,false
+KANO,KIBIYA,KAHU,KAHU CIKIN GARI II,19/23/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3494/ward/22024/pu/61271/61271-1677581458.pdf,true
+KANO,KIBIYA,KAHU,KAHU CIKIN GARI I,19/23/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3494/ward/22024/pu/61270/61270-1677581200.pdf,true
+KANO,KIBIYA,KAHU,GURJIYA TOWN,19/23/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3494/ward/22024/pu/61269/61269-1677580935.pdf,true
+KANO,KIBIYA,KAHU,FALANGAI TOWN,19/23/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3494/ward/22024/pu/61268/61268-1677580745.pdf,true

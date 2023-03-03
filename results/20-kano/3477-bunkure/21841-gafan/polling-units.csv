@@ -1,0 +1,12 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,BUNKURE,GAFAN,ZANYA CIKIN GARI I,19/06/05/009,,true
+KANO,BUNKURE,GAFAN,ZANYA CIKIN GARI II,19/06/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3477/ward/21841/pu/57722/57722-1677524950.pdf,false
+KANO,BUNKURE,GAFAN,KANAWA,19/06/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3477/ward/21841/pu/57718/57718-1677524818.pdf,false
+KANO,BUNKURE,GAFAN,GAFAN MAKUNTURI,19/06/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3477/ward/21841/pu/57717/57717-1677524848.pdf,false
+KANO,BUNKURE,GAFAN,GABO CIKIN GARI II,19/06/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3477/ward/21841/pu/57715/57715-1677524843.pdf,false
+KANO,BUNKURE,GAFAN,SHIYE CIKIN GARI I,19/06/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3477/ward/21841/pu/57719/57719-1677524836.pdf,false
+KANO,BUNKURE,GAFAN,BUNKAU,19/06/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3477/ward/21841/pu/57713/57713-1677524674.pdf,false
+KANO,BUNKURE,GAFAN,GABO CIKIN GARI I,19/06/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3477/ward/21841/pu/57714/57714-1677524547.pdf,false
+KANO,BUNKURE,GAFAN,HAYATUL ISLAMIYYA MAKUNTURI,19/06/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/05/pu/011/011-1677378143.pdf,false
+KANO,BUNKURE,GAFAN,GAFAN CIKIN GARI,19/06/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/05/pu/004/004-1677374101.pdf,false
+KANO,BUNKURE,GAFAN,SHIYE CIKIN GARI II,19/06/05/008,,false

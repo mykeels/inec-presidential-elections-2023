@@ -1,0 +1,16 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,KARAYE,DAURA,YAMMAWA,19/22/01/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22010/pu/61089/61089-1677714149.pdf,false
+KANO,KARAYE,DAURA,UNGUWAR TOFA,19/22/01/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22010/pu/61088/61088-1677713966.pdf,false
+KANO,KARAYE,DAURA,NATURBE,19/22/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22010/pu/61087/61087-1677713296.pdf,true
+KANO,KARAYE,DAURA,MAKERA BAUNI II,19/22/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22010/pu/61086/61086-1677691910.pdf,false
+KANO,KARAYE,DAURA,MAKERA BAUNI I,19/22/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22010/pu/61085/61085-1677691384.pdf,true
+KANO,KARAYE,DAURA,JUMAWA,19/22/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22010/pu/61084/61084-1677691010.pdf,false
+KANO,KARAYE,DAURA,JAJI,19/22/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22010/pu/61083/61083-1677690549.pdf,false
+KANO,KARAYE,DAURA,GYATUMAWA,19/22/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22010/pu/61082/61082-1677690156.pdf,false
+KANO,KARAYE,DAURA,GATARAWA,19/22/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22010/pu/61081/61081-1677689926.pdf,false
+KANO,KARAYE,DAURA,DAURA SAKO,19/22/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22010/pu/61080/61080-1677689583.pdf,true
+KANO,KARAYE,DAURA,DAURA II,19/22/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22010/pu/61078/61078-1677688323.pdf,false
+KANO,KARAYE,DAURA,DAURA I,19/22/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22010/pu/61077/61077-1677688053.pdf,false
+KANO,KARAYE,DAURA,BAUNI,19/22/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22010/pu/61076/61076-1677687860.pdf,false
+KANO,KARAYE,DAURA,ALFAWA,19/22/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22010/pu/61075/61075-1677687630.pdf,false
+KANO,KARAYE,DAURA,DAURA KWARI,19/22/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3493/ward/22010/pu/61079/61079-1677590315.pdf,true

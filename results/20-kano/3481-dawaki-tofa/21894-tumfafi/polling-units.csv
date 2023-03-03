@@ -1,0 +1,38 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,DAWAKI TOFA,TUMFAFI,G.S.S CHEDI INGAWA I,19/10/11/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644024/result_121626_1677538774_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,YAKASAI II,19/10/11/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58758/result_121625_1677538578_thumb.jpg,true
+KANO,DAWAKI TOFA,TUMFAFI,RINJI II,19/10/11/033,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644029/result_121631_1677538376_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,DANRUMAU,19/10/11/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58740/result_121607_1677538199_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,JAHUNAWA,19/10/11/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58743/result_121610_1677537989_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,DANMAYAGU,19/10/11/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58739/result_121606_1677537753_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,DAMBAZAU II,19/10/11/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58734/result_121601_1677537529_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,DANDALAMA,19/10/11/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58735/result_121602_1677537292_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,DAMBAZAU I,19/10/11/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58733/result_121600_1677537016_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,DANJURAI I,19/10/11/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58737/result_121604_1677536841_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,DANDALAMA CIKIN GARI,19/10/11/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58736/result_121603_1677536653_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,DANJURAI II,19/10/11/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58738/result_121605_1677536333_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,CHEDI INGA WA,19/10/11/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58732/result_121599_1677535875_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,DANRUMAU TUMFAFI,19/10/11/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58741/result_121608_1677608227_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,GANGAREN DUTSE,19/10/11/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58742/result_121609_1677608024_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,JAJIRA,19/10/11/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58744/result_121611_1677607870_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,KALEBAWA,19/10/11/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58745/result_121612_1677607726_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,KANAWA I,19/10/11/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58746/result_121613_1677607575_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,KANAWA II,19/10/11/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58747/result_121614_1677607426_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,KANAWA III,19/10/11/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58748/result_121615_1677607244_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,KANAWA IV,19/10/11/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KANO,DAWAKI TOFA,TUMFAFI,KATAYARI,19/10/11/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58750/result_121617_1677606930_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,MAKERA,19/10/11/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58751/result_121618_1677606776_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,RINJI,19/10/11/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58752/result_121619_1677606156_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,SABUWAR KADUNA,19/10/11/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58753/result_121620_1677606019_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,TUMFAFI CIKIN GARI I,19/10/11/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58754/result_121621_1677605839_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,TUMFAFI CIKIN GARI II,19/10/11/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58755/result_121622_1677605677_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,TUMFAFI CIKIN GARI III,19/10/11/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KANO,DAWAKI TOFA,TUMFAFI,YAKASAI I,19/10/11/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58757/result_121624_1677604777_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,G.S.S CHEDI INGAWA II,19/10/11/029,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644025/result_121627_1677603657_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,DANDALAMA II,19/10/11/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644026/result_121628_1677602983_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,GANGAREN DUTSE I,19/10/11/032,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644028/result_121630_1677602603_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,BANDIRAWO MODEL PRI. SCH. I,19/10/11/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644030/result_121632_1677602354_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,BANDIRAWO MODEL PRI. SCH. II,19/10/11/035,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644031/result_121633_1677602092_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,TUMFAFI CIKN GARI IV,19/10/11/036,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644032/result_121634_1677601310_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,TUMFAFI CIKN GARI V,19/10/11/037,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644033/result_121635_1677599889_thumb.jpg,false
+KANO,DAWAKI TOFA,TUMFAFI,DANDALAMA CIKIN GARI II,19/10/11/031,,false

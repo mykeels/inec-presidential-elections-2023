@@ -1,0 +1,19 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,ALBASU,DAHO,GATARIN DAHO,19/02/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3473/ward/21795/pu/57063/57063-1677513196.pdf,false
+KANO,ALBASU,DAHO,BURUNGUI,19/02/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3473/ward/21795/pu/57058/57058-1677512768.pdf,false
+KANO,ALBASU,DAHO,BURA,19/02/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3473/ward/21795/pu/57057/57057-1677510993.pdf,false
+KANO,ALBASU,DAHO,BISKIN,19/02/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3473/ward/21795/pu/57056/57056-1677510580.pdf,false
+KANO,ALBASU,DAHO,DAHO GARI I,19/02/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3473/ward/21795/pu/57059/57059-1677509414.pdf,false
+KANO,ALBASU,DAHO,DAHO GARI II,19/02/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/04/pu/005/005-1677404076.pdf,false
+KANO,ALBASU,DAHO,DAHO GARI V,19/02/04/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/04/pu/016/016-1677402853.pdf,false
+KANO,ALBASU,DAHO,JAHUNAWA JAUDARI,19/02/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/04/pu/011/011-1677402095.pdf,false
+KANO,ALBASU,DAHO,JAHUNAWA/TAREFA,19/02/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/04/pu/010/010-1677401237.pdf,false
+KANO,ALBASU,DAHO,DAHO GARI IV,19/02/04/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/04/pu/015/015-1677400789.pdf,false
+KANO,ALBASU,DAHO,ZUWAN HAWA,19/02/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/04/pu/014/014-1677399975.pdf,false
+KANO,ALBASU,DAHO,UNG JEJI,19/02/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/04/pu/013/013-1677399482.pdf,false
+KANO,ALBASU,DAHO,JIBIRI,19/02/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/04/pu/012/012-1677398582.pdf,false
+KANO,ALBASU,DAHO,FARAN TAMA II,19/02/04/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/04/pu/018/018-1677397949.pdf,false
+KANO,ALBASU,DAHO,DAHO GARI VI,19/02/04/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/04/pu/017/017-1677397306.pdf,false
+KANO,ALBASU,DAHO,DAHO GARI III,19/02/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/04/pu/006/006-1677396782.pdf,false
+KANO,ALBASU,DAHO,GATARIN FARANTAMA,19/02/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/04/pu/009/009-1677396297.pdf,false
+KANO,ALBASU,DAHO,FARANTAMA,19/02/04/007,,false

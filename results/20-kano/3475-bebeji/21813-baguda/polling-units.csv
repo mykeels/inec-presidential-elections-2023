@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,BEBEJI,BAGUDA,BAGUDA ASIBITI,19/04/02/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643507/result_119594_1677530555_thumb.jpg,false
+KANO,BEBEJI,BAGUDA,YAKUWA II,19/04/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/57243/result_119593_1677530370_thumb.jpg,false
+KANO,BEBEJI,BAGUDA,YAKUWA I,19/04/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/57242/result_119592_1677530105_thumb.jpg,false
+KANO,BEBEJI,BAGUDA,MAIDAGAGE,19/04/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/57241/result_119591_1677529845_thumb.jpg,true
+KANO,BEBEJI,BAGUDA,FANDAKAI,19/04/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/57240/result_119590_1677529574_thumb.jpg,true
+KANO,BEBEJI,BAGUDA,DUKAWA,19/04/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/57239/result_119589_1677529089_thumb.jpg,true
+KANO,BEBEJI,BAGUDA,"BAGUDA,  C/GARI II",19/04/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/57238/result_119588_1677528718_thumb.jpg,true
+KANO,BEBEJI,BAGUDA,"BAGUDA,  C/GARI I",19/04/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/57237/result_119587_1677528357_thumb.jpg,true

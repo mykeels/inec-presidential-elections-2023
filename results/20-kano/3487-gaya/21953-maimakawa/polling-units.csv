@@ -1,0 +1,20 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,GAYA,MAIMAKAWA,MADAKANCHI,19/16/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21953/pu/59869/59869-1677674505.pdf,true
+KANO,GAYA,MAIMAKAWA,MADAKANCHI II,19/16/08/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21953/pu/149067/149067-1677674018.pdf,false
+KANO,GAYA,MAIMAKAWA,YALWAN MAKAMA,19/16/08/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59784/result_122982_1677635408_thumb.jpg,false
+KANO,GAYA,MAIMAKAWA,TSOHUWAR TSANGAYA,19/16/08/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59783/result_122981_1677635218_thumb.jpg,false
+KANO,GAYA,MAIMAKAWA,TSAIDA II,19/16/08/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59782/result_122980_1677635092_thumb.jpg,false
+KANO,GAYA,MAIMAKAWA,TSAIDA I,19/16/08/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59781/result_122979_1677634952_thumb.jpg,false
+KANO,GAYA,MAIMAKAWA,RAFINKOFA,19/16/08/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KANO,GAYA,MAIMAKAWA,MAIMAKAWA CKIN GARI,19/16/08/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59779/result_122977_1677634481_thumb.jpg,false
+KANO,GAYA,MAIMAKAWA,KURTA,19/16/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59777/result_122975_1677633986_thumb.jpg,false
+KANO,GAYA,MAIMAKAWA,KA'EL,19/16/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59776/result_122974_1677633740_thumb.jpg,false
+KANO,GAYA,MAIMAKAWA,INJIWA,19/16/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59775/result_122973_1677633497_thumb.jpg,false
+KANO,GAYA,MAIMAKAWA,HAUSAWA II,19/16/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59774/result_122972_1677633221_thumb.jpg,false
+KANO,GAYA,MAIMAKAWA,GUL,19/16/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21953/pu/59863/59863-1677611853.pdf,true
+KANO,GAYA,MAIMAKAWA,GIDAN SARKIN NOMA,19/16/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21953/pu/59862/59862-1677608901.pdf,true
+KANO,GAYA,MAIMAKAWA,ASAYAYA,19/16/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21953/pu/59859/59859-1677608023.pdf,true
+KANO,GAYA,MAIMAKAWA,ARGIDA,19/16/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21953/pu/59858/59858-1677594480.pdf,true
+KANO,GAYA,MAIMAKAWA,"FAN'IDAU, CIKIN GARI",19/16/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21953/pu/59861/59861-1677594178.pdf,true
+KANO,GAYA,MAIMAKAWA,BAYAWA,19/16/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21953/pu/59860/59860-1677593777.pdf,false
+KANO,GAYA,MAIMAKAWA,HAUSAWA I,19/16/08/007,,false

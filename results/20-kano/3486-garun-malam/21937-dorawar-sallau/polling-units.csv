@@ -1,0 +1,16 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,GARUN MALAM,DORAWAR-SALLAU,AGALAWA I,19/15/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21937/pu/59632/59632-1677822161.pdf,true
+KANO,GARUN MALAM,DORAWAR-SALLAU,DORAWAR SALLAU   II,19/15/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21937/pu/149012/149012-1677822014.pdf,true
+KANO,GARUN MALAM,DORAWAR-SALLAU,AGALAWA OPEN SPACE (AGALAWA  III),19/15/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3486/ward/21937/pu/149010/149010-1677821838.pdf,true
+KANO,GARUN MALAM,DORAWAR-SALLAU,RINGIMAWA  II,19/15/02/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644311/result_122696_1677607249_thumb.jpg,false
+KANO,GARUN MALAM,DORAWAR-SALLAU,KARGO  IV,19/15/02/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644310/result_122695_1677607036_thumb.jpg,false
+KANO,GARUN MALAM,DORAWAR-SALLAU,KARGO   III,19/15/02/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KANO,GARUN MALAM,DORAWAR-SALLAU,BAKIN RUWA II,19/15/02/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644307/result_122692_1677606799_thumb.jpg,false
+KANO,GARUN MALAM,DORAWAR-SALLAU,UNGUWAR GALADIMA,19/15/02/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59549/result_122690_1677606713_thumb.jpg,false
+KANO,GARUN MALAM,DORAWAR-SALLAU,RINGIMAWA,19/15/02/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59548/result_122689_1677606658_thumb.jpg,false
+KANO,GARUN MALAM,DORAWAR-SALLAU,RAJE,19/15/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59547/result_122688_1677606599_thumb.jpg,false
+KANO,GARUN MALAM,DORAWAR-SALLAU,KARGO II,19/15/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59546/result_122687_1677606532_thumb.jpg,false
+KANO,GARUN MALAM,DORAWAR-SALLAU,KARGO I,19/15/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59545/result_122686_1677606452_thumb.jpg,false
+KANO,GARUN MALAM,DORAWAR-SALLAU,DORAWAR SALLAU,19/15/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59544/result_122685_1677606347_thumb.jpg,false
+KANO,GARUN MALAM,DORAWAR-SALLAU,BAKIN RUWA,19/15/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59543/result_122684_1677606294_thumb.jpg,false
+KANO,GARUN MALAM,DORAWAR-SALLAU,AGALAWA II,19/15/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59542/result_122683_1677606230_thumb.jpg,false

@@ -1,0 +1,46 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,FAGGE,RIJIYAR LEMO,KWANAR DAN RIMI III,19/12/07/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59095/result_122104_1677526110_thumb.jpg,true
+KANO,FAGGE,RIJIYAR LEMO,GAWON ALI I,19/12/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59174/59174-1677604812.pdf,true
+KANO,FAGGE,RIJIYAR LEMO,GGSS SALEH MAI LEMO II,19/12/07/045,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/148888/148888-1677604696.pdf,true
+KANO,FAGGE,RIJIYAR LEMO,GGSS SALEH MAI LEMO I,19/12/07/044,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/148887/148887-1677604648.pdf,true
+KANO,FAGGE,RIJIYAR LEMO,LAYIN KANKARE II,19/12/07/043,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/148886/148886-1677604599.pdf,false
+KANO,FAGGE,RIJIYAR LEMO,LAYIN KANKARE I,19/12/07/042,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/148885/148885-1677604541.pdf,false
+KANO,FAGGE,RIJIYAR LEMO,MONGORON BALIYO II,19/12/07/041,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/148884/148884-1677604488.pdf,false
+KANO,FAGGE,RIJIYAR LEMO,MONGORON BALIYO I,19/12/07/040,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/148883/148883-1677604428.pdf,false
+KANO,FAGGE,RIJIYAR LEMO,LAYIN GAWO V,19/12/07/039,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/148882/148882-1677604373.pdf,false
+KANO,FAGGE,RIJIYAR LEMO,LAYIN GAWO IV,19/12/07/038,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/148881/148881-1677604316.pdf,false
+KANO,FAGGE,RIJIYAR LEMO,LAYIN GAWO III,19/12/07/037,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/148880/148880-1677604263.pdf,true
+KANO,FAGGE,RIJIYAR LEMO,LAYIN GAWO II,19/12/07/036,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/148879/148879-1677604212.pdf,true
+KANO,FAGGE,RIJIYAR LEMO,LAYIN GAWO I,19/12/07/035,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/148878/148878-1677604157.pdf,false
+KANO,FAGGE,RIJIYAR LEMO,KWANAR YAN TIFA X,19/12/07/033,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59206/59206-1677604049.pdf,true
+KANO,FAGGE,RIJIYAR LEMO,KWANAR YAN TIFA XI,19/12/07/034,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59207/59207-1677604104.pdf,false
+KANO,FAGGE,RIJIYAR LEMO,KWANAR YAN TIFA IX,19/12/07/032,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59205/59205-1677603988.pdf,true
+KANO,FAGGE,RIJIYAR LEMO,KWANAR YAN TIFA VIII,19/12/07/031,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59204/59204-1677603929.pdf,true
+KANO,FAGGE,RIJIYAR LEMO,KWANAR YAN TIFA VII,19/12/07/030,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59203/59203-1677603840.pdf,true
+KANO,FAGGE,RIJIYAR LEMO,KWANAR YAN TIFA VI,19/12/07/029,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59202/59202-1677603786.pdf,true
+KANO,FAGGE,RIJIYAR LEMO,KWANAR YAN TIFA V,19/12/07/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59201/59201-1677603731.pdf,true
+KANO,FAGGE,RIJIYAR LEMO,KWANAR YAN TIFA IV,19/12/07/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59200/59200-1677603663.pdf,false
+KANO,FAGGE,RIJIYAR LEMO,KWANAR YAN TIFA III,19/12/07/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59199/59199-1677603593.pdf,false
+KANO,FAGGE,RIJIYAR LEMO,KWANAR YAN TIFA II,19/12/07/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59198/59198-1677603537.pdf,false
+KANO,FAGGE,RIJIYAR LEMO,KWANAR YAN TIFA I,19/12/07/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59197/59197-1677603464.pdf,false
+KANO,FAGGE,RIJIYAR LEMO,KWANAR DAN RIMI XIII,19/12/07/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59196/59196-1677603409.pdf,false
+KANO,FAGGE,RIJIYAR LEMO,KWANAR DAN RIMI XII,19/12/07/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59195/59195-1677603339.pdf,false
+KANO,FAGGE,RIJIYAR LEMO,KWANAR DAN RIMI XI,19/12/07/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59194/59194-1677603272.pdf,false
+KANO,FAGGE,RIJIYAR LEMO,KWANAR DAN RIMI X,19/12/07/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59193/59193-1677603198.pdf,false
+KANO,FAGGE,RIJIYAR LEMO,KWANAR DAN RIMI IX,19/12/07/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59192/59192-1677603136.pdf,true
+KANO,FAGGE,RIJIYAR LEMO,KWANAR DAN RIMI VIII,19/12/07/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59191/59191-1677603085.pdf,true
+KANO,FAGGE,RIJIYAR LEMO,KWANAR DAN RIMI VII,19/12/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59190/59190-1677602989.pdf,false
+KANO,FAGGE,RIJIYAR LEMO,KWANAR DAN RIMI VI,19/12/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59189/59189-1677602927.pdf,false
+KANO,FAGGE,RIJIYAR LEMO,KWANAR DAN RIMI V,19/12/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59188/59188-1677602866.pdf,false
+KANO,FAGGE,RIJIYAR LEMO,KWANAR DAN RIMI IV,19/12/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59187/59187-1677602810.pdf,false
+KANO,FAGGE,RIJIYAR LEMO,KWANAR DAN RIMI II,19/12/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59185/59185-1677602745.pdf,false
+KANO,FAGGE,RIJIYAR LEMO,GAWON ALI X,19/12/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59183/59183-1677602611.pdf,false
+KANO,FAGGE,RIJIYAR LEMO,GAWON ALI IX,19/12/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59182/59182-1677602546.pdf,true
+KANO,FAGGE,RIJIYAR LEMO,GAWON ALI VIII,19/12/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59181/59181-1677602484.pdf,true
+KANO,FAGGE,RIJIYAR LEMO,GAWON ALI VII,19/12/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59180/59180-1677602411.pdf,true
+KANO,FAGGE,RIJIYAR LEMO,GAWON ALI VI,19/12/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59179/59179-1677602341.pdf,true
+KANO,FAGGE,RIJIYAR LEMO,GAWON ALI V,19/12/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59178/59178-1677602277.pdf,false
+KANO,FAGGE,RIJIYAR LEMO,GAWON ALI IV,19/12/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59177/59177-1677602196.pdf,false
+KANO,FAGGE,RIJIYAR LEMO,GAWON ALI III,19/12/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59176/59176-1677602066.pdf,false
+KANO,FAGGE,RIJIYAR LEMO,GAWON ALI II,19/12/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3483/ward/21911/pu/59175/59175-1677601617.pdf,false
+KANO,FAGGE,RIJIYAR LEMO,KWANAR DAN RIMI I,19/12/07/011,,false

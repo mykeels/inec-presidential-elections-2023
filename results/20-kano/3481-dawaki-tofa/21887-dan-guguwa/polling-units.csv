@@ -1,0 +1,16 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,DAWAKI TOFA,DAN GUGUWA,DANGUGUWA CIKIN GARI I,19/10/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58612/result_121478_1677748254_thumb.jpg,false
+KANO,DAWAKI TOFA,DAN GUGUWA,SAKO,19/10/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3481/ward/21887/pu/58711/58711-1677626988.pdf,true
+KANO,DAWAKI TOFA,DAN GUGUWA,DANGUGUWA CIKIN GARI II,19/10/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58613/result_121479_1677568017_thumb.jpg,false
+KANO,DAWAKI TOFA,DAN GUGUWA,UNGUWAR FARA II,19/10/04/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58626/result_121492_1677565940_thumb.jpg,false
+KANO,DAWAKI TOFA,DAN GUGUWA,UNGUWAR FARA I,19/10/04/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58625/result_121491_1677565769_thumb.jpg,false
+KANO,DAWAKI TOFA,DAN GUGUWA,TUKURA ALAKO,19/10/04/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58624/result_121490_1677565724_thumb.jpg,false
+KANO,DAWAKI TOFA,DAN GUGUWA,SARAUNIYA II,19/10/04/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58623/result_121489_1677565672_thumb.jpg,false
+KANO,DAWAKI TOFA,DAN GUGUWA,SARAUNIYA I,19/10/04/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KANO,DAWAKI TOFA,DAN GUGUWA,SANI BERE,19/10/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58621/result_121487_1677565577_thumb.jpg,false
+KANO,DAWAKI TOFA,DAN GUGUWA,SAJI/DANKOMO,19/10/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58619/result_121485_1677565475_thumb.jpg,false
+KANO,DAWAKI TOFA,DAN GUGUWA,RINJI UNGUWAR BASHARI,19/10/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58618/result_121484_1677565426_thumb.jpg,false
+KANO,DAWAKI TOFA,DAN GUGUWA,KARAS,19/10/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58617/result_121483_1677565380_thumb.jpg,false
+KANO,DAWAKI TOFA,DAN GUGUWA,KADAWA,19/10/04/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58616/result_121482_1677565326_thumb.jpg,false
+KANO,DAWAKI TOFA,DAN GUGUWA,KABACAWA,19/10/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58615/result_121481_1677565279_thumb.jpg,false
+KANO,DAWAKI TOFA,DAN GUGUWA,GABARI,19/10/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58614/result_121480_1677564104_thumb.jpg,false

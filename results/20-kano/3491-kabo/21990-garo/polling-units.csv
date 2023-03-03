@@ -1,0 +1,30 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,KABO,GARO,DANJA KWARI,19/20/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21990/pu/60496/60496-1677656536.pdf,false
+KANO,KABO,GARO,DURUN I,19/20/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21990/pu/60497/60497-1677656340.pdf,true
+KANO,KABO,GARO,DURUN II,19/20/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21990/pu/60498/60498-1677656200.pdf,false
+KANO,KABO,GARO,DURUN III,19/20/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21990/pu/60499/60499-1677656037.pdf,true
+KANO,KABO,GARO,GADAGAU,19/20/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21990/pu/60500/60500-1677655713.pdf,false
+KANO,KABO,GARO,GARO I,19/20/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21990/pu/60501/60501-1677655535.pdf,false
+KANO,KABO,GARO,AUDUN GARO PRI. SCH. I (GARO II),19/20/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21990/pu/60502/60502-1677655406.pdf,false
+KANO,KABO,GARO,AUDUN GARO PRI. SCH. II (GARO - GARIN AIFA),19/20/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21990/pu/60503/60503-1677655277.pdf,false
+KANO,KABO,GARO,GIDAN ZUME I,19/20/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21990/pu/60504/60504-1677655146.pdf,false
+KANO,KABO,GARO,GARO III,19/20/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21990/pu/60505/60505-1677655043.pdf,true
+KANO,KABO,GARO,GIDAN ZUME II,19/20/04/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21990/pu/60506/60506-1677654944.pdf,false
+KANO,KABO,GARO,KANYE I,19/20/04/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21990/pu/60507/60507-1677654816.pdf,false
+KANO,KABO,GARO,KANYE II,19/20/04/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21990/pu/60508/60508-1677654574.pdf,false
+KANO,KABO,GARO,KANYAR WAJA,19/20/04/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21990/pu/60509/60509-1677654462.pdf,false
+KANO,KABO,GARO,SARI GIRIN,19/20/04/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21990/pu/60510/60510-1677654322.pdf,false
+KANO,KABO,GARO,SARIYIRIN/ YUMBU,19/20/04/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21990/pu/60511/60511-1677653757.pdf,false
+KANO,KABO,GARO,DURUN IV,19/20/04/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21990/pu/149420/149420-1677653529.pdf,true
+KANO,KABO,GARO,DURUN V,19/20/04/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21990/pu/149421/149421-1677653225.pdf,true
+KANO,KABO,GARO,GARO IV,19/20/04/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21990/pu/149423/149423-1677653086.pdf,true
+KANO,KABO,GARO,GADAGAU II,19/20/04/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21990/pu/149422/149422-1677653064.pdf,false
+KANO,KABO,GARO,AUDUN GARO PS. III (GARO V),19/20/04/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21990/pu/149424/149424-1677652623.pdf,true
+KANO,KABO,GARO,GIDAN ZUME III,19/20/04/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21990/pu/149425/149425-1677651735.pdf,true
+KANO,KABO,GARO,GARO VI,19/20/04/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21990/pu/149426/149426-1677651581.pdf,false
+KANO,KABO,GARO,GIDAN ZUME IV,19/20/04/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21990/pu/149427/149427-1677651447.pdf,true
+KANO,KABO,GARO,SARI GIRIN II,19/20/04/029,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21990/pu/149428/149428-1677651239.pdf,true
+KANO,KABO,GARO,DANJA,19/20/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21990/pu/60495/60495-1677612806.pdf,false
+KANO,KABO,GARO,AL KALAWA III,19/20/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21990/pu/60494/60494-1677612444.pdf,false
+KANO,KABO,GARO,AL KALAWA II,19/20/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21990/pu/60493/60493-1677612104.pdf,false
+KANO,KABO,GARO,AL KALAWA I,19/20/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3491/ward/21990/pu/60492/60492-1677611724.pdf,false

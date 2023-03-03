@@ -1,0 +1,13 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,DOGUWA,TAGWAYE,MURMUSHI,19/11/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58856/result_121759_1677505606_thumb.jpg,false
+KANO,DOGUWA,TAGWAYE,KIKO,19/11/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58852/result_121755_1677506393_thumb.jpg,false
+KANO,DOGUWA,TAGWAYE,KURUNDI,19/11/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644060/result_121763_1677513902_thumb.jpg,false
+KANO,DOGUWA,TAGWAYE,TAGWAYE II,19/11/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58859/result_121762_1677513658_thumb.jpg,false
+KANO,DOGUWA,TAGWAYE,TAGWAYE I,19/11/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58858/result_121761_1677506022_thumb.jpg,false
+KANO,DOGUWA,TAGWAYE,KATURJE,19/11/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644061/result_121764_1677514063_thumb.jpg,false
+KANO,DOGUWA,TAGWAYE,MAIGWADO,19/11/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/58854/result_121757_1677506557_thumb.jpg,false
+KANO,DOGUWA,TAGWAYE,UNG. ABUJA/ TSANGAYAR AREWA,19/11/08/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644062/result_121765_1677514271_thumb.jpg,true
+KANO,DOGUWA,TAGWAYE,S/KAURA,19/11/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3482/ward/21902/pu/58948/58948-1677512295.pdf,false
+KANO,DOGUWA,TAGWAYE,MAI KWANDIRA,19/11/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3482/ward/21902/pu/58946/58946-1677511050.pdf,false
+KANO,DOGUWA,TAGWAYE,MALAM GAMBO,19/11/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3482/ward/21902/pu/58944/58944-1677510727.pdf,false
+KANO,DOGUWA,TAGWAYE,DOKAR HUDU,19/11/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3482/ward/21902/pu/58942/58942-1677510255.pdf,false

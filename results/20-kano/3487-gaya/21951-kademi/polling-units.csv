@@ -1,0 +1,24 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,GAYA,KADEMI,YANSORO TUDU/KWARI,19/16/06/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59750/result_122946_1677773334_thumb.jpg,false
+KANO,GAYA,KADEMI,"KEMBO, CIKIN GARI II",19/16/06/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59743/result_122939_1677772377_thumb.jpg,false
+KANO,GAYA,KADEMI,"KEMBO, CIKIN GARI I",19/16/06/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59742/result_122938_1677772229_thumb.jpg,false
+KANO,GAYA,KADEMI,KEMBO,19/16/06/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59741/result_122937_1677772071_thumb.jpg,false
+KANO,GAYA,KADEMI,KADEMI SOSAI III,19/16/06/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59740/result_122936_1677771877_thumb.jpg,false
+KANO,GAYA,KADEMI,KADEMI SOSAI II,19/16/06/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59739/result_122935_1677771623_thumb.jpg,false
+KANO,GAYA,KADEMI,KADEMI SOSAI I,19/16/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59738/result_122934_1677769387_thumb.jpg,false
+KANO,GAYA,KADEMI,KADEMI KUDU II,19/16/06/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59736/result_122932_1677768589_thumb.jpg,false
+KANO,GAYA,KADEMI,KABU,19/16/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21951/pu/59825/59825-1677615940.pdf,false
+KANO,GAYA,KADEMI,GUNDA II,19/16/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21951/pu/59824/59824-1677594364.pdf,true
+KANO,GAYA,KADEMI,GUNDA I,19/16/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21951/pu/59823/59823-1677594072.pdf,true
+KANO,GAYA,KADEMI,GALE/KAURA/JANKI,19/16/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21951/pu/59822/59822-1677593755.pdf,false
+KANO,GAYA,KADEMI,FILIKI,19/16/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21951/pu/59821/59821-1677593435.pdf,true
+KANO,GAYA,KADEMI,FASAU,19/16/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21951/pu/59820/59820-1677593131.pdf,true
+KANO,GAYA,KADEMI,AGUNDAWA,19/16/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21951/pu/59819/59819-1677590839.pdf,false
+KANO,GAYA,KADEMI,"KERA, ZANGO",19/16/06/019,,false
+KANO,GAYA,KADEMI,KADEMI KUDU III,19/16/06/010,,false
+KANO,GAYA,KADEMI,UNGUWAR GYADA,19/16/06/020,,false
+KANO,GAYA,KADEMI,KADEMI KUDU I,19/16/06/008,,false
+KANO,GAYA,KADEMI,"KERA, CIKIN GARI",19/16/06/018,,false
+KANO,GAYA,KADEMI,KUNNAWA,19/16/06/017,,false
+KANO,GAYA,KADEMI,YANSORO KAURA,19/16/06/022,,false
+KANO,GAYA,KADEMI,TAMBULI,19/16/06/021,,false

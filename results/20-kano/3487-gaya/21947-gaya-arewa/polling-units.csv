@@ -1,0 +1,45 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KANO,GAYA,GAYA AREWA,SINDI GABAS I,19/16/02/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59680/result_122849_1677695803_thumb.jpg,false
+KANO,GAYA,GAYA AREWA,DABKAIBABBA/ KARAMA,19/16/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21947/pu/59755/59755-1677695531.pdf,false
+KANO,GAYA,GAYA AREWA,LEMON DAN-IYA,19/16/02/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21947/pu/59767/59767-1677695442.pdf,true
+KANO,GAYA,GAYA AREWA,ZANGO I,19/16/02/032,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59687/result_122856_1677694945_thumb.jpg,false
+KANO,GAYA,GAYA AREWA,LEMON DAN IYA II,19/16/02/037,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644333/result_122861_1677694187_thumb.jpg,false
+KANO,GAYA,GAYA AREWA,SINDI YAMMA VII,19/16/02/044,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644340/result_122868_1677693916_thumb.jpg,false
+KANO,GAYA,GAYA AREWA,MATAMAWA III,19/16/02/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/644330/result_122858_1677693739_thumb.jpg,false
+KANO,GAYA,GAYA AREWA,ALKALA I,19/16/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21947/pu/59748/59748-1677693730.pdf,false
+KANO,GAYA,GAYA AREWA,ZANGO II,19/16/02/033,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21947/pu/59779/59779-1677693601.pdf,true
+KANO,GAYA,GAYA AREWA,MATAMAWA IV,19/16/02/035,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21947/pu/149039/149039-1677689223.pdf,false
+KANO,GAYA,GAYA AREWA,GYANAWA III,19/16/02/039,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21947/pu/149043/149043-1677689116.pdf,false
+KANO,GAYA,GAYA AREWA,SINDI YAMMA II,19/16/02/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21947/pu/59774/59774-1677689039.pdf,true
+KANO,GAYA,GAYA AREWA,GYANAWA IV,19/16/02/040,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21947/pu/149044/149044-1677688882.pdf,true
+KANO,GAYA,GAYA AREWA,TUDUNWADA/ YANGERO,19/16/02/031,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21947/pu/59777/59777-1677688706.pdf,false
+KANO,GAYA,GAYA AREWA,HARUNAWA/UNGUWAR GABAS,19/16/02/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21947/pu/59763/59763-1677688591.pdf,false
+KANO,GAYA,GAYA AREWA,BURJI/DAGARAWA,19/16/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21947/pu/59753/59753-1677688273.pdf,false
+KANO,GAYA,GAYA AREWA,BANGASHE C/GARIN II,19/16/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21947/pu/59752/59752-1677688142.pdf,true
+KANO,GAYA,GAYA AREWA,SINDI YAMMA V,19/16/02/042,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21947/pu/149046/149046-1677687781.pdf,false
+KANO,GAYA,GAYA AREWA,ALAGARNA/MUNA MUNA,19/16/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21947/pu/59747/59747-1677687590.pdf,false
+KANO,GAYA,GAYA AREWA,KAUYAS,19/16/02/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21947/pu/59764/59764-1677680784.pdf,false
+KANO,GAYA,GAYA AREWA,KOFAR GABARI,19/16/02/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21947/pu/59765/59765-1677680613.pdf,false
+KANO,GAYA,GAYA AREWA,GYANAWA IV,19/16/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21947/pu/59762/59762-1677680517.pdf,false
+KANO,GAYA,GAYA AREWA,RURA,19/16/02/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21947/pu/59770/59770-1677680339.pdf,true
+KANO,GAYA,GAYA AREWA,GYANAWA III,19/16/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21947/pu/59761/59761-1677678119.pdf,true
+KANO,GAYA,GAYA AREWA,SINDI YAMMA I,19/16/02/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21947/pu/59773/59773-1677677815.pdf,false
+KANO,GAYA,GAYA AREWA,MATAMAWA I,19/16/02/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21947/pu/59768/59768-1677677741.pdf,false
+KANO,GAYA,GAYA AREWA,ALKALA III,19/16/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21947/pu/59750/59750-1677677587.pdf,true
+KANO,GAYA,GAYA AREWA,GYANAWA I,19/16/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21947/pu/59759/59759-1677677515.pdf,false
+KANO,GAYA,GAYA AREWA,CHIRANCHI,19/16/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21947/pu/59754/59754-1677677367.pdf,false
+KANO,GAYA,GAYA AREWA,BANGASHE C/GARIN I,19/16/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21947/pu/59751/59751-1677677252.pdf,false
+KANO,GAYA,GAYA AREWA,GYANAWA II,19/16/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21947/pu/59760/59760-1677676754.pdf,false
+KANO,GAYA,GAYA AREWA,GACI /DASHINA,19/16/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3487/ward/21947/pu/59758/59758-1677627088.pdf,true
+KANO,GAYA,GAYA AREWA,ALKALA II,19/16/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/59658/result_122827_1677602600_thumb.jpg,false
+KANO,GAYA,GAYA AREWA,SINDI GABAS II,19/16/02/026,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/02/pu/026/026-1677390732.pdf,false
+KANO,GAYA,GAYA AREWA,MATAMAWA II,19/16/02/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/02/pu/023/023-1677377001.pdf,false
+KANO,GAYA,GAYA AREWA,KOFAR SARO,19/16/02/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/02/pu/020/020-1677367389.pdf,false
+KANO,GAYA,GAYA AREWA,KOFAR GABARI II,19/16/02/038,,false
+KANO,GAYA,GAYA AREWA,SINDI YAMMA VI,19/16/02/043,,false
+KANO,GAYA,GAYA AREWA,SINDI YAMMA III,19/16/02/029,,false
+KANO,GAYA,GAYA AREWA,CHIRANCHI II,19/16/02/036,,false
+KANO,GAYA,GAYA AREWA,HARUNAWA/UNGUWAR GABASII,19/16/02/041,,false
+KANO,GAYA,GAYA AREWA,SINDI YAMMA IV,19/16/02/030,,false
+KANO,GAYA,GAYA AREWA,DOGARAI,19/16/02/011,,false
+KANO,GAYA,GAYA AREWA,DABO KANKA/YAN ALBARKA,19/16/02/010,,false
