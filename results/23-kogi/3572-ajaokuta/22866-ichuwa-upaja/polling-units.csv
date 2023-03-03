@@ -1,0 +1,5 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KOGI,AJAOKUTA,ICHUWA/UPAJA,MARKET SQUARE INEYERE,22/02/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3572/ward/22866/pu/73052/73052-1677703469.pdf,false
+KOGI,AJAOKUTA,ICHUWA/UPAJA,OPEN SPACE II ICHUWA/UPAJA,22/02/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3572/ward/22866/pu/73051/73051-1677580640.pdf,true
+KOGI,AJAOKUTA,ICHUWA/UPAJA,OPEN SPACE I ICHUWA/UPAJA,22/02/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3572/ward/22866/pu/73050/73050-1677580337.pdf,true
+KOGI,AJAOKUTA,ICHUWA/UPAJA,BESIDE ORERE ABAGI SQUARE,22/02/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3572/ward/22866/pu/73049/73049-1677580102.pdf,true

@@ -1,0 +1,7 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KOGI,YAGBA EAST,IFE OLUKOTUN  I,"OKERE, NEAR OLD MARKET SQUARE",22/20/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/74531/result_143978_1677517653_thumb.jpg,true
+KOGI,YAGBA EAST,IFE OLUKOTUN  I,"OGBO OPEN SPACE, BEHIND OBADA'S MARKET",22/20/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/01/pu/006/006-1677396410.pdf,false
+KOGI,YAGBA EAST,IFE OLUKOTUN  I,"ERO-IFE-OLUKOTUN, OPEN SPACE ERO",22/20/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/01/pu/005/005-1677395469.pdf,false
+KOGI,YAGBA EAST,IFE OLUKOTUN  I,"OGBO/NEW ERE, OPEN SPACE OGBO",22/20/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/01/pu/004/004-1677394476.pdf,false
+KOGI,YAGBA EAST,IFE OLUKOTUN  I,"AGBALA/OKE-AGA-ILAI JUNCTION, ALONG ILAI MOPA ROAD",22/20/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/01/pu/003/003-1677393468.pdf,false
+KOGI,YAGBA EAST,IFE OLUKOTUN  I,"ILOHUN, BESIDE ERE TRANSFORMER",22/20/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/01/pu/002/002-1677372722.pdf,false

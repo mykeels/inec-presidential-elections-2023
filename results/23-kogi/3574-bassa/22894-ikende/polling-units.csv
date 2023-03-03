@@ -1,0 +1,14 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KOGI,BASSA,IKENDE,"KPOKUDU PRIMARY HEALTH CENTRE, KPOKUDU",22/04/05/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/649886/result_141383_1677525045_thumb.jpg,false
+KOGI,BASSA,IKENDE,WUSSA UZHIBU (ROME) OPEN  SPACE WUSSA ROME,22/04/05/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/72652/result_141381_1677522109_thumb.jpg,false
+KOGI,BASSA,IKENDE,WUSSA UZHIBU (AGUMA) LGEA SCHOOL WUSSA AGUMA,22/04/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/72651/result_141380_1677521491_thumb.jpg,false
+KOGI,BASSA,IKENDE,KPOKUDU OPEN SPACE KPOKUDU,22/04/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/72644/result_141373_1677514545_thumb.jpg,false
+KOGI,BASSA,IKENDE,WAMUA LGEA SCHOOL WAMUA,22/04/05/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/72649/result_141378_1677520538_thumb.jpg,false
+KOGI,BASSA,IKENDE,ODULU OPEN SPACE ODULU,22/04/05/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/72645/result_141374_1677514727_thumb.jpg,false
+KOGI,BASSA,IKENDE,ZENYI LGEA SCHOOL ZENYI,22/04/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/72648/result_141377_1677518979_thumb.jpg,false
+KOGI,BASSA,IKENDE,IKENDE I LGEA SCHOOL IKENDE,22/04/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/72642/result_141371_1677513817_thumb.jpg,true
+KOGI,BASSA,IKENDE,IKENDE II NEAR MARKET SQUARE,22/04/05/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/72643/result_141372_1677514287_thumb.jpg,true
+KOGI,BASSA,IKENDE,UGBENDE OPEN SPACE UGBENDE,22/04/05/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/72646/result_141375_1677514963_thumb.jpg,true
+KOGI,BASSA,IKENDE,GBAMU LGEA SCHOOL GBAMU,22/04/05/006,,false
+KOGI,BASSA,IKENDE,ODULO OPEN SPACE ODULO,22/04/05/012,,false
+KOGI,BASSA,IKENDE,ELEGEJI LGEA SCHOOL ELEGEJI,22/04/05/009,,false

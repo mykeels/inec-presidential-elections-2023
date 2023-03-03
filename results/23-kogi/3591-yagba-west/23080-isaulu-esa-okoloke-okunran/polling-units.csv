@@ -1,0 +1,6 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KOGI,YAGBA WEST,ISAULU ESA/OKOLOKE/OKUNRAN,"ILEOWA LOKE AREA, OKOLOKE/OKARA, OHUN",22/21/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3591/ward/23080/pu/75322/75322-1677709085.pdf,true
+KOGI,YAGBA WEST,ISAULU ESA/OKOLOKE/OKUNRAN,IPETU/FULANI/HAUSA/ ISANLU-ESSA,22/21/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3591/ward/23080/pu/75318/75318-1677706405.pdf,false
+KOGI,YAGBA WEST,ISAULU ESA/OKOLOKE/OKUNRAN,OKUNRAN VILLAGE,22/21/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3591/ward/23080/pu/75321/75321-1677594746.pdf,true
+KOGI,YAGBA WEST,ISAULU ESA/OKOLOKE/OKUNRAN,"YWLGEA AREA, ISANLU-ESSA/IDALE/OBO EKO",22/21/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3591/ward/23080/pu/75319/75319-1677589307.pdf,true
+KOGI,YAGBA WEST,ISAULU ESA/OKOLOKE/OKUNRAN,"YWLGEA AREA, OKOLOKE/EHIN OGGA/IPETU",22/21/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3591/ward/23080/pu/75320/75320-1677510230.pdf,false

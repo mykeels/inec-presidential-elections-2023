@@ -1,0 +1,6 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KOGI,AJAOKUTA,ABODI/PATESI,LGEA SCHOOL II EGANYI,22/02/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3572/ward/22865/pu/73048/73048-1677594901.pdf,true
+KOGI,AJAOKUTA,ABODI/PATESI,LGEA SCHOOL I EGANYI,22/02/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3572/ward/22865/pu/73047/73047-1677594625.pdf,true
+KOGI,AJAOKUTA,ABODI/PATESI,OPEN SPACE III HOUSE,22/02/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3572/ward/22865/pu/73046/73046-1677594398.pdf,false
+KOGI,AJAOKUTA,ABODI/PATESI,OPEN SPACE II EGANYI,22/02/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3572/ward/22865/pu/73045/73045-1677594256.pdf,true
+KOGI,AJAOKUTA,ABODI/PATESI,OPEN SPACE I EGANYI,22/02/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3572/ward/22865/pu/73044/73044-1677594054.pdf,false

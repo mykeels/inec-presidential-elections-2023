@@ -1,0 +1,13 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KOGI,OFU,OGBONICHA,EGEDE,22/14/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3584/ward/23012/pu/155212/155212-1677677164.pdf,false
+KOGI,OFU,OGBONICHA,OKADA GARRAGE OFABO,22/14/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3584/ward/23012/pu/155211/155211-1677605803.pdf,true
+KOGI,OFU,OGBONICHA,OPEN SPACE AT OKAKWU,22/14/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3584/ward/23012/pu/74456/74456-1677605696.pdf,true
+KOGI,OFU,OGBONICHA,OPEN SPACE AT EMODU,22/14/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3584/ward/23012/pu/74455/74455-1677605541.pdf,true
+KOGI,OFU,OGBONICHA,"OPEN SPACE AT EGUME, ABEJUKOLO",22/14/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3584/ward/23012/pu/74451/74451-1677605416.pdf,true
+KOGI,OFU,OGBONICHA,"OPEN SPACE AT OGALAJI/OGALAJI, OTULUKPA",22/14/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3584/ward/23012/pu/74453/74453-1677507841.pdf,false
+KOGI,OFU,OGBONICHA,"OPEN SPACE AT OFADA/OFADA, ETUKWO, OGENE",22/14/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3584/ward/23012/pu/74454/74454-1677507136.pdf,false
+KOGI,OFU,OGBONICHA,"NEAR THE FIELD OFABO/OFABO III, OKAGWU",22/14/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3584/ward/23012/pu/74452/74452-1677506000.pdf,false
+KOGI,OFU,OGBONICHA,LGEA SCH. OFABO/OFABO 1 & 2,22/14/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3584/ward/23012/pu/74450/74450-1677504045.pdf,false
+KOGI,OFU,OGBONICHA,"LGEA SCH. OGBONICHA/OFACHE, OCHI-OGBONICHA, OMODODA",22/14/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3584/ward/23012/pu/74449/74449-1677503293.pdf,false
+KOGI,OFU,OGBONICHA,"LGEA SCH. OGBONICHA/OFACHE, OCHI-OGBONICHA, OMODO FA OGBONICHA",22/14/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3584/ward/23012/pu/74448/74448-1677502243.pdf,false
+KOGI,OFU,OGBONICHA,"OPEN SPACE AT OJONE/OJONE, EMAKPS, OFANTE",22/14/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3584/ward/23012/pu/74447/74447-1677500236.pdf,false

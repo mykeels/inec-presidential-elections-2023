@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KOGI,IDAH,OWOLI APA,OPEN SPACE OPALUWA OGUCHE,22/07/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3577/ward/22923/pu/154781/154781-1677681139.pdf,false
+KOGI,IDAH,OWOLI APA,OYIFU OPEN SPACE,22/07/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3577/ward/22923/pu/154779/154779-1677609771.pdf,false
+KOGI,IDAH,OWOLI APA,"OPEN SPACE, ALLA-OGBAJADU",22/07/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3577/ward/22923/pu/73774/73774-1677609364.pdf,true
+KOGI,IDAH,OWOLI APA,"OPEN SPACE, OKOTONOWA",22/07/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3577/ward/22923/pu/73773/73773-1677609087.pdf,false
+KOGI,IDAH,OWOLI APA,"UNDER WATER TANK, WOLI-APA",22/07/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3577/ward/22923/pu/73772/73772-1677608846.pdf,false
+KOGI,IDAH,OWOLI APA,"OKETE OCHEJE/UGBOLA,OPEN SPACE",22/07/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3577/ward/22923/pu/73771/73771-1677607694.pdf,false
+KOGI,IDAH,OWOLI APA,"OPEN SPACE, ANGWA JAMA'A",22/07/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3577/ward/22923/pu/73770/73770-1677606879.pdf,true
+KOGI,IDAH,OWOLI APA,OPEN SPACE PRISON PRY/SEC. SCHOOL,22/07/02/008,,false
+KOGI,IDAH,OWOLI APA,"UBOMU/OYIFU, OPEN SPACE UBOMU",22/07/02/001,,false

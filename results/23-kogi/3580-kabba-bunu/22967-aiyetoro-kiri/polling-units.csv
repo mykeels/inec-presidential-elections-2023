@@ -1,0 +1,13 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KOGI,KABBA/BUNU,AIYETORO-KIRI,"GONDON QTRS, GONDON QTRS",22/10/11/005,,true
+KOGI,KABBA/BUNU,AIYETORO-KIRI,"ABA-AHMADU, ABA-AHMADU",22/10/11/007,,true
+KOGI,KABBA/BUNU,AIYETORO-KIRI,"OKE-IGBALA QTRS, IKE, OKE-IGBALA QTRS, IKE",22/10/11/006,,true
+KOGI,KABBA/BUNU,AIYETORO-KIRI,"ARAROMI QTRS, ARAROMI QTRS, ARAROMI",22/10/11/004,,true
+KOGI,KABBA/BUNU,AIYETORO-KIRI,"TAKI-EKANKA, EKANKA-TAKI",22/10/11/001,,true
+KOGI,KABBA/BUNU,AIYETORO-KIRI,"ARAROMI QTRS, ARAROMI QTRS, ARAROMI",22/10/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/11/pu/010/010-1677381752.pdf,false
+KOGI,KABBA/BUNU,AIYETORO-KIRI,"LGEA PRIMARY SCHOOL, TAKI",22/10/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/11/pu/011/011-1677376438.pdf,false
+KOGI,KABBA/BUNU,AIYETORO-KIRI,"IHOLO STREET, AIYETORO-KIRI, AIYETORO-KIRI",22/10/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/11/pu/009/009-1677376094.pdf,false
+KOGI,KABBA/BUNU,AIYETORO-KIRI,OPEN SPACE BESIDE OLUSADO ISADO,22/10/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/11/pu/003/003-1677374392.pdf,false
+KOGI,KABBA/BUNU,AIYETORO-KIRI,IHALE - IHALE,22/10/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/11/pu/002/002-1677372761.pdf,false
+KOGI,KABBA/BUNU,AIYETORO-KIRI,OPEN SPACE AT MARKET SQUARE IHALE,22/10/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/11/pu/012/012-1677372387.pdf,false
+KOGI,KABBA/BUNU,AIYETORO-KIRI,"JENRA QTRS, IKE, JENRA QTRS, IKE",22/10/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/11/pu/008/008-1677371907.pdf,false

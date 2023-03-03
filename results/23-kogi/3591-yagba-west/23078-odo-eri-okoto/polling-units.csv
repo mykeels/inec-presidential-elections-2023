@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KOGI,YAGBA WEST,ODO ERI OKOTO,ODO DAU/ ODO-ERI,22/21/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3591/ward/23078/pu/75301/75301-1677684521.pdf,false
+KOGI,YAGBA WEST,ODO ERI OKOTO,"NEAR AINSILA, ERO COMP.",22/21/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3591/ward/23078/pu/75302/75302-1677658256.pdf,true
+KOGI,YAGBA WEST,ODO ERI OKOTO,OKE/ODO-ERI,22/21/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/74600/result_144068_1677502274_thumb.jpg,true
+KOGI,YAGBA WEST,ODO ERI OKOTO,"OGBAJI, ODO ESA, ODO-ERI",22/21/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3591/ward/23078/pu/75304/75304-1677603156.pdf,false
+KOGI,YAGBA WEST,ODO ERI OKOTO,"AGO QUARTERS, ODO-ERI",22/21/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3591/ward/23078/pu/75299/75299-1677602640.pdf,true
+KOGI,YAGBA WEST,ODO ERI OKOTO,IDAU COMPOUND/ODO-ERI,22/21/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3591/ward/23078/pu/75305/75305-1677601105.pdf,false
+KOGI,YAGBA WEST,ODO ERI OKOTO,"POSTAL AGENCY AREA, ERO, OKA AODI",22/21/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3591/ward/23078/pu/75300/75300-1677543219.pdf,false
+KOGI,YAGBA WEST,ODO ERI OKOTO,"NEAR KOLAWOLE'S HOUSE, OKE EFA",22/21/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3591/ward/23078/pu/75298/75298-1677542646.pdf,false
+KOGI,YAGBA WEST,ODO ERI OKOTO,"IGAKOTA, IGOBE/EJIBA",22/21/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3591/ward/23078/pu/75303/75303-1677541493.pdf,false

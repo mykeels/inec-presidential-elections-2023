@@ -1,0 +1,5 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KOGI,MOPA MORO,AIYEDE/OKAGI,"AIYEDE LGEA SCHOOL, AIYEDE",22/13/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3583/ward/23002/pu/74336/74336-1677571693.pdf,true
+KOGI,MOPA MORO,AIYEDE/OKAGI,"OKEGADA LGEA SCHOOL, OKEGADA",22/13/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3583/ward/23002/pu/74335/74335-1677535720.pdf,false
+KOGI,MOPA MORO,AIYEDE/OKAGI,AIYEDE KAJOLA MARKET AIYEDE,22/13/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3583/ward/23002/pu/74337/74337-1677534874.pdf,false
+KOGI,MOPA MORO,AIYEDE/OKAGI,OKEGADA AIYEDE MARKET OKEGADA,22/13/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3583/ward/23002/pu/74334/74334-1677533841.pdf,false

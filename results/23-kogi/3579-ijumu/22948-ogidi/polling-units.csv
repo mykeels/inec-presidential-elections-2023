@@ -1,0 +1,5 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KOGI,IJUMU,OGIDI,OPEN SPACE OPPOSITE OKORO MOSQUE,22/09/07/003,https://docs.inecelectionresults.net/elections/1292/1677792008-154869.pdf,true
+KOGI,IJUMU,OGIDI,OPEN SPACE BY ST. JOHN PRIMARY SCHOOL OGIDI,22/09/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3579/ward/22948/pu/154870/154870-1677534891.pdf,false
+KOGI,IJUMU,OGIDI,"OPEN SPACE , OKORO IGAH OGIDI",22/09/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3579/ward/22948/pu/73974/73974-1677533810.pdf,false
+KOGI,IJUMU,OGIDI,"OPEN SPACE , OKORO OGIDI",22/09/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3579/ward/22948/pu/73973/73973-1677487254.pdf,false
