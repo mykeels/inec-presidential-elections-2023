@@ -1,0 +1,23 @@
+{
+  "status": "ACTIVE",
+  "_id": "5f0f3f5a8f77bb3acad0afdc",
+  "state_id": 37,
+  "state": "5f0eb6e26dda22674979bf46",
+  "lga_id": 3873,
+  "lga": "5f0f39ad4d89fc3a883de3c2",
+  "state_constituency_id": 975,
+  "state_constituency": "5f0f375c93d20b39ceee2381",
+  "federal_constituency_id": 338,
+  "federal_constituency": "5f0f38072d77c83a06f0f456",
+  "senatorial_district_id": 128,
+  "senatorial_district": "5f0f395a970bd83a6f453a28",
+  "name": "KURYA",
+  "code": "07",
+  "old_name": "",
+  "ward_id": 26297,
+  "created_at": "2020-07-15T17:39:38.469Z",
+  "updated_at": "2020-07-15T17:39:38.469Z",
+  "__v": 0,
+  "state_name": "ZAMFARA",
+  "lga_name": "SHINKAFI"
+}
