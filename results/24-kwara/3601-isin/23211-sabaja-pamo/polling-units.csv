@@ -1,0 +1,6 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KWARA,ISIN,SABAJA/PAMO,HEALTH CENTRE PAMO,23/10/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3601/ward/23211/pu/156050/156050-1677766781.pdf,true
+KWARA,ISIN,SABAJA/PAMO,TOWN HALL OBA-ISIN,23/10/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/651276/result_70285_1677752841_thumb.jpg,false
+KWARA,ISIN,SABAJA/PAMO,SABAJA OPEN SPACE,23/10/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/76121/result_70283_1677751998_thumb.jpg,false
+KWARA,ISIN,SABAJA/PAMO,OBA-ISIN LGEA SCH,23/10/09/002,,false
+KWARA,ISIN,SABAJA/PAMO,PAMO LGEA SCH,23/10/09/001,,false

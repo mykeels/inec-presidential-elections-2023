@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KWARA,ISIN,OKE ABA,ODO EKU LGEA SCH,23/10/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/76123/result_70287_1677667602_thumb.jpg,true
+KWARA,ISIN,OKE ABA,MAGAJI OLOKIN OPEN SPACE,23/10/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/76125/result_70289_1677667403_thumb.jpg,true
+KWARA,ISIN,OKE ABA,BALE'S AREA ODO ORE,23/10/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/76124/result_70288_1677667002_thumb.jpg,false
+KWARA,ISIN,OKE ABA,IDI AGBEDE OKE ABA,23/10/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/76128/result_70292_1677666915_thumb.jpg,true
+KWARA,ISIN,OKE ABA,ODO-EKU MARKET CENTRE,23/10/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/76127/result_70291_1677666707_thumb.jpg,true
+KWARA,ISIN,OKE ABA,OKE ABA TOWN HALL,23/10/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/76126/result_70290_1677666601_thumb.jpg,true
+KWARA,ISIN,OKE ABA,OKE ABA LGEA SCH,23/10/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/76122/result_70286_1677666408_thumb.jpg,true
+KWARA,ISIN,OKE ABA,OKE ABA MARKET CENTRE,23/10/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/76129/result_70293_1677665179_thumb.jpg,true

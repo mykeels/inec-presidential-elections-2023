@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KWARA,ISIN,ISANLU 1,ODOGBO OPEN SPACE,23/10/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3601/ward/23205/pu/76778/76778-1677754334.pdf,true
+KWARA,ISIN,ISANLU 1,AIYETORO OPEN SPACE,23/10/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3601/ward/23205/pu/76775/76775-1677753049.pdf,false
+KWARA,ISIN,ISANLU 1,ILE OLOGBA AREA,23/10/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3601/ward/23205/pu/76779/76779-1677751736.pdf,false
+KWARA,ISIN,ISANLU 1,LGEA SCH KAJOLA,23/10/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3601/ward/23205/pu/156043/156043-1677750492.pdf,true
+KWARA,ISIN,ISANLU 1,MARKET CENTRE ELEYIN,23/10/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3601/ward/23205/pu/76777/76777-1677748742.pdf,false
+KWARA,ISIN,ISANLU 1,BAPTIST L.G.E.A SCH,23/10/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3601/ward/23205/pu/76776/76776-1677747974.pdf,false
+KWARA,ISIN,ISANLU 1,ILE-LOKE ISANLU OPEN SPACE,23/10/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3601/ward/23205/pu/76773/76773-1677747407.pdf,false
+KWARA,ISIN,ISANLU 1,ST JOSEPH'S L.G.E.A SCH,23/10/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3601/ward/23205/pu/76774/76774-1677746668.pdf,true

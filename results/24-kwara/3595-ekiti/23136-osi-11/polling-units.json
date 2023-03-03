@@ -1,0 +1,506 @@
+[
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 2,
+    "is_accredited": 1,
+    "_id": "63f7901eb3695239c61c665d",
+    "state_id": 24,
+    "state": "5f0eb6e16dda22674979bf39",
+    "lga_id": 3595,
+    "ward_id": 23136,
+    "state_constituency_id": 617,
+    "state_constituency": "5f0f374493d20b39ceee221b",
+    "federal_constituency_id": 222,
+    "federal_constituency": "5f0f38002d77c83a06f0f3e2",
+    "senatorial_district_id": 106,
+    "senatorial_district": "5f0f3957970bd83a6f453a14",
+    "name": "OLD MARKET, OSI",
+    "code": "007",
+    "pu_code": "23/04/08/007",
+    "old_name": "",
+    "polling_unit_id": 155561,
+    "created_at": "2023-02-23T16:11:10.131Z",
+    "updated_at": "2023-02-23T22:17:59.571Z",
+    "__v": 0,
+    "pu_code_string": "230408007",
+    "state_name": "KWARA",
+    "lga_name": "EKITI",
+    "ward_name": "OSI 11",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "640169418b6edeae87680385",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3595/ward/23136/pu/155561/155561-1677814057.pdf",
+      "size": 3797415,
+      "updated_at": "2023-03-03T03:28:01.337Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcee7be6efd20cc275e341",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/78753/result_24937_1677517805_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-03T03:28:00.103Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe22796d4cb40e5f0e08d5",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/650848/result_68746_1677599343_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-03T03:28:00.103Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe22796d4cb40e5f0e08d5",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/650848/result_68746_1677599343_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-03T03:28:01.337Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "640169408b6edeae8768037b",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3595/ward/23136/pu/155561/155561-1677814057.pdf",
+        "size": 3797415,
+        "updated_at": "2023-03-03T03:28:01.337Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f5adac440353badb1ff90",
+    "state_id": 24,
+    "state": "5f0eb6e16dda22674979bf39",
+    "lga_id": 3595,
+    "ward_id": 23136,
+    "state_constituency_id": 617,
+    "state_constituency": "5f0f374493d20b39ceee221b",
+    "federal_constituency_id": 222,
+    "federal_constituency": "5f0f38002d77c83a06f0f3e2",
+    "senatorial_district_id": 106,
+    "senatorial_district": "5f0f3957970bd83a6f453a14",
+    "name": "OPEN SPACE IGBO-OGO, OSI",
+    "code": "006",
+    "pu_code": "23/04/08/006",
+    "old_name": "",
+    "polling_unit_id": 75769,
+    "created_at": "2020-07-15T19:36:58.965Z",
+    "updated_at": "2023-02-23T21:11:55.253Z",
+    "__v": 0,
+    "pu_code_string": "230408006",
+    "state_name": "KWARA",
+    "lga_name": "EKITI",
+    "ward_name": "OSI 11",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "640168158b6edeae87680313",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3595/ward/23136/pu/75769/75769-1677813727.pdf",
+      "size": 3547705,
+      "updated_at": "2023-03-03T03:23:01.315Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcef3de6efd20cc276ebfd",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/78752/result_24936_1677517920_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-03T03:23:00.115Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe8fa86d4cb40e5f0fa994",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/75072/result_68745_1677627296_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-03T03:23:00.115Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe8fa86d4cb40e5f0fa994",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/75072/result_68745_1677627296_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-03T03:23:01.315Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "640168148b6edeae87680308",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3595/ward/23136/pu/75769/75769-1677813727.pdf",
+        "size": 3547705,
+        "updated_at": "2023-03-03T03:23:01.315Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f5adac440353badb1ff8f",
+    "state_id": 24,
+    "state": "5f0eb6e16dda22674979bf39",
+    "lga_id": 3595,
+    "ward_id": 23136,
+    "state_constituency_id": 617,
+    "state_constituency": "5f0f374493d20b39ceee221b",
+    "federal_constituency_id": 222,
+    "federal_constituency": "5f0f38002d77c83a06f0f3e2",
+    "senatorial_district_id": 106,
+    "senatorial_district": "5f0f3957970bd83a6f453a14",
+    "name": "COMM LGEA SCH OSI",
+    "code": "005",
+    "pu_code": "23/04/08/005",
+    "old_name": "",
+    "polling_unit_id": 75768,
+    "created_at": "2020-07-15T19:36:58.899Z",
+    "updated_at": "2023-02-23T21:11:55.208Z",
+    "__v": 0,
+    "pu_code_string": "230408005",
+    "state_name": "KWARA",
+    "lga_name": "EKITI",
+    "ward_name": "OSI 11",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "640166ad8b6edeae8768029d",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3595/ward/23136/pu/75768/75768-1677813409.pdf",
+      "size": 251155,
+      "updated_at": "2023-03-03T03:17:01.318Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcecfee6efd20cc2757ed5",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/78751/result_24935_1677518029_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-03T03:17:00.222Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe19126d4cb40e5f0dc805",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/75071/result_68744_1677596917_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-03T03:17:00.222Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe19126d4cb40e5f0dc805",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/75071/result_68744_1677596917_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-03T03:17:01.318Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "640166ac8b6edeae87680292",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3595/ward/23136/pu/75768/75768-1677813409.pdf",
+        "size": 251155,
+        "updated_at": "2023-03-03T03:17:01.318Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f5adac440353badb1ff8e",
+    "state_id": 24,
+    "state": "5f0eb6e16dda22674979bf39",
+    "lga_id": 3595,
+    "ward_id": 23136,
+    "state_constituency_id": 617,
+    "state_constituency": "5f0f374493d20b39ceee221b",
+    "federal_constituency_id": 222,
+    "federal_constituency": "5f0f38002d77c83a06f0f3e2",
+    "senatorial_district_id": 106,
+    "senatorial_district": "5f0f3957970bd83a6f453a14",
+    "name": "OLD POSTAL AGENCY",
+    "code": "004",
+    "pu_code": "23/04/08/004",
+    "old_name": "",
+    "polling_unit_id": 75767,
+    "created_at": "2020-07-15T19:36:58.843Z",
+    "updated_at": "2023-02-23T21:11:55.164Z",
+    "__v": 0,
+    "pu_code_string": "230408004",
+    "state_name": "KWARA",
+    "lga_name": "EKITI",
+    "ward_name": "OSI 11",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "640165458b6edeae8768023c",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3595/ward/23136/pu/75767/75767-1677813026.pdf",
+      "size": 4227220,
+      "updated_at": "2023-03-03T03:11:01.197Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe185b6d4cb40e5f0dc391",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/75070/result_68743_1677596741_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-03T03:11:00.185Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe194d6d4cb40e5f0dc943",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com",
+        "size": 1000,
+        "updated_at": "2023-03-03T03:11:00.185Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe194d6d4cb40e5f0dc943",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com",
+        "size": 1000,
+        "updated_at": "2023-03-03T03:11:01.197Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "640165448b6edeae87680233",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3595/ward/23136/pu/75767/75767-1677813026.pdf",
+        "size": 4227220,
+        "updated_at": "2023-03-03T03:11:01.197Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f5adac440353badb1ff8d",
+    "state_id": 24,
+    "state": "5f0eb6e16dda22674979bf39",
+    "lga_id": 3595,
+    "ward_id": 23136,
+    "state_constituency_id": 617,
+    "state_constituency": "5f0f374493d20b39ceee221b",
+    "federal_constituency_id": 222,
+    "federal_constituency": "5f0f38002d77c83a06f0f3e2",
+    "senatorial_district_id": 106,
+    "senatorial_district": "5f0f3957970bd83a6f453a14",
+    "name": "OPEN SPACE ODORE-OKE, OSI",
+    "code": "003",
+    "pu_code": "23/04/08/003",
+    "old_name": "",
+    "polling_unit_id": 75766,
+    "created_at": "2020-07-15T19:36:58.785Z",
+    "updated_at": "2023-02-23T21:11:55.120Z",
+    "__v": 0,
+    "pu_code_string": "230408003",
+    "state_name": "KWARA",
+    "lga_name": "EKITI",
+    "ward_name": "OSI 11",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "640163dd8b6edeae876801eb",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3595/ward/23136/pu/75766/75766-1677812646.pdf",
+      "size": 3409424,
+      "updated_at": "2023-03-03T03:05:01.113Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceab7e6efd20cc2753a10",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/78749/result_24933_1677518258_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-03T03:05:00.125Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe16466d4cb40e5f0db48f",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/75069/result_68742_1677596196_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-03T03:05:00.125Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe16466d4cb40e5f0db48f",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/75069/result_68742_1677596196_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-03T03:05:01.113Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "640163dc8b6edeae876801e0",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3595/ward/23136/pu/75766/75766-1677812646.pdf",
+        "size": 3409424,
+        "updated_at": "2023-03-03T03:05:01.113Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f5adac440353badb1ff8c",
+    "state_id": 24,
+    "state": "5f0eb6e16dda22674979bf39",
+    "lga_id": 3595,
+    "ward_id": 23136,
+    "state_constituency_id": 617,
+    "state_constituency": "5f0f374493d20b39ceee221b",
+    "federal_constituency_id": 222,
+    "federal_constituency": "5f0f38002d77c83a06f0f3e2",
+    "senatorial_district_id": 106,
+    "senatorial_district": "5f0f3957970bd83a6f453a14",
+    "name": "AREA COURT, OSI",
+    "code": "002",
+    "pu_code": "23/04/08/002",
+    "old_name": "",
+    "polling_unit_id": 75765,
+    "created_at": "2020-07-15T19:36:58.728Z",
+    "updated_at": "2023-02-23T21:11:55.076Z",
+    "__v": 0,
+    "pu_code_string": "230408002",
+    "state_name": "KWARA",
+    "lga_name": "EKITI",
+    "ward_name": "OSI 11",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "640162758b6edeae8768019d",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3595/ward/23136/pu/75765/75765-1677812313.pdf",
+      "size": 3527803,
+      "updated_at": "2023-03-03T02:59:01.312Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcee74e6efd20cc275d91e",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/78748/result_24932_1677518347_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-03T02:59:00.107Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe0a0f3c40b21e3b50d2ec",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/75068/result_68741_1677584966_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-03T02:59:00.107Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe0a0f3c40b21e3b50d2ec",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/75068/result_68741_1677584966_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-03T02:59:01.312Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "640162748b6edeae87680192",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3595/ward/23136/pu/75765/75765-1677812313.pdf",
+        "size": 3527803,
+        "updated_at": "2023-03-03T02:59:01.312Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f5adac440353badb1ff8b",
+    "state_id": 24,
+    "state": "5f0eb6e16dda22674979bf39",
+    "lga_id": 3595,
+    "ward_id": 23136,
+    "state_constituency_id": 617,
+    "state_constituency": "5f0f374493d20b39ceee221b",
+    "federal_constituency_id": 222,
+    "federal_constituency": "5f0f38002d77c83a06f0f3e2",
+    "senatorial_district_id": 106,
+    "senatorial_district": "5f0f3957970bd83a6f453a14",
+    "name": "ST BRIDGE'S SCH, OSI",
+    "code": "001",
+    "pu_code": "23/04/08/001",
+    "old_name": "",
+    "polling_unit_id": 75764,
+    "created_at": "2020-07-15T19:36:58.673Z",
+    "updated_at": "2023-02-23T21:11:55.039Z",
+    "__v": 0,
+    "pu_code_string": "230408001",
+    "state_name": "KWARA",
+    "lga_name": "EKITI",
+    "ward_name": "OSI 11",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "6401610d8b6edeae8768013c",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3595/ward/23136/pu/75764/75764-1677811963.pdf",
+      "size": 3409603,
+      "updated_at": "2023-03-03T02:53:01.390Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceed4e6efd20cc2765c97",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/78747/result_24931_1677518441_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-03T02:53:00.197Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe08fd3c40b21e3b502c4b",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/75067/result_68740_1677588730_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-03T02:53:00.197Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe08fd3c40b21e3b502c4b",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/75067/result_68740_1677588730_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-03T02:53:01.390Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "6401610c8b6edeae87680131",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3595/ward/23136/pu/75764/75764-1677811963.pdf",
+        "size": 3409603,
+        "updated_at": "2023-03-03T02:53:01.390Z"
+      }
+    ],
+    "has_old_documents": true
+  }
+]

@@ -1,0 +1,6 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KWARA,ISIN,ALLA,PRIMARY HEALTH CENTRE ALLA,23/10/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3601/ward/23203/pu/156041/156041-1677815427.pdf,true
+KWARA,ISIN,ALLA,OWODE KAJOLA OPEN SPACE,23/10/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3601/ward/23203/pu/76767/76767-1677814311.pdf,true
+KWARA,ISIN,ALLA,"ILE OBA, ALLA OPEN SPACE",23/10/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3601/ward/23203/pu/76768/76768-1677813657.pdf,true
+KWARA,ISIN,ALLA,L.G.E.A SCH OPONDA,23/10/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/76069/result_70222_1677593311_thumb.jpg,false
+KWARA,ISIN,ALLA,MARKET CENTRE OPEN SPACE,23/10/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/76068/result_70221_1677590755_thumb.jpg,false

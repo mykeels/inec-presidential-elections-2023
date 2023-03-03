@@ -1,0 +1,13 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KWARA,IREPODUN,OMU-ARAN 1 (ARAN),ST. PAUL SCH. II,23/09/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3600/ward/23197/pu/156024/156024-1677680412.pdf,true
+KWARA,IREPODUN,OMU-ARAN 1 (ARAN),ST PAUL'S SCH OMU-ARAN,23/09/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3600/ward/23197/pu/76709/76709-1677680299.pdf,false
+KWARA,IREPODUN,OMU-ARAN 1 (ARAN),ILE OTAN OMU-ARAN,23/09/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3600/ward/23197/pu/76708/76708-1677680146.pdf,false
+KWARA,IREPODUN,OMU-ARAN 1 (ARAN),OKE AJAH OMU-ARAN,23/09/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3600/ward/23197/pu/76707/76707-1677679911.pdf,false
+KWARA,IREPODUN,OMU-ARAN 1 (ARAN),ILE ADE/ODO-OPIN OMU-ARAN,23/09/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3600/ward/23197/pu/76706/76706-1677679767.pdf,false
+KWARA,IREPODUN,OMU-ARAN 1 (ARAN),OKE APA COMPOUND OMU-ARAN,23/09/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3600/ward/23197/pu/76705/76705-1677679632.pdf,false
+KWARA,IREPODUN,OMU-ARAN 1 (ARAN),OKESAN COMPOUND OMU-ARAN,23/09/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3600/ward/23197/pu/76704/76704-1677679421.pdf,false
+KWARA,IREPODUN,OMU-ARAN 1 (ARAN),MODE COMPOUND OMU-ARAN,23/09/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3600/ward/23197/pu/76702/76702-1677679144.pdf,true
+KWARA,IREPODUN,OMU-ARAN 1 (ARAN),ILE OLUPO  ODO OMU-ARAN II,23/09/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3600/ward/23197/pu/76701/76701-1677678857.pdf,false
+KWARA,IREPODUN,OMU-ARAN 1 (ARAN),ILE OLUPO  OKE OMU-ARAN I,23/09/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/06/pu/001/001-1677389867.pdf,false
+KWARA,IREPODUN,OMU-ARAN 1 (ARAN),ADEKUN COMPOUND OMU-ARAN,23/09/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/06/pu/004/004-1677387322.pdf,false
+KWARA,IREPODUN,OMU-ARAN 1 (ARAN),ILE AROGUN/AMULE OMU-ARAN,23/09/06/011,,false

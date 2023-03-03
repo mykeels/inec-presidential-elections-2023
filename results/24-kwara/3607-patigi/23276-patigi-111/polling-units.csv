@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KWARA,PATIGI,PATIGI 111,TSADU'S GATE,23/16/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3607/ward/23276/pu/77212/77212-1677761285.pdf,true
+KWARA,PATIGI,PATIGI 111,DISPENSARY CENTRE,23/16/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/76513/result_70941_1677527101_thumb.jpg,false
+KWARA,PATIGI,PATIGI 111,SHESHI SHAABA OPEN SPACE,23/16/03/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/651573/result_70948_1677526148_thumb.jpg,true
+KWARA,PATIGI,PATIGI 111,PUBLIC HEALTH OPEN SPACE,23/16/03/002,,true
+KWARA,PATIGI,PATIGI 111,LAZHIYISA OPEN SPACE,23/16/03/006,,true
+KWARA,PATIGI,PATIGI 111,MAMANNAWO'S GATE,23/16/03/004,,true
+KWARA,PATIGI,PATIGI 111,ALIKALI GANA WOSHI OPEN SPACE,23/16/03/005,,true
+KWARA,PATIGI,PATIGI 111,ETSU IDRIS GANA PRIMARY SCHOOL,23/16/03/007,,true

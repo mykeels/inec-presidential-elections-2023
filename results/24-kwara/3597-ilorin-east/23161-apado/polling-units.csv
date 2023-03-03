@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KWARA,ILORIN EAST,APADO,FAMOLE L.G.E.A SCH,23/06/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3597/ward/23161/pu/76061/76061-1677756849.pdf,false
+KWARA,ILORIN EAST,APADO,APADO L.G.E.A SCH,23/06/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3597/ward/23161/pu/76067/76067-1677669064.pdf,true
+KWARA,ILORIN EAST,APADO,APADO VILLAGE II,23/06/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3597/ward/23161/pu/76068/76068-1677663788.pdf,false
+KWARA,ILORIN EAST,APADO,APADO VILLAGE I,23/06/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3597/ward/23161/pu/76066/76066-1677662630.pdf,false
+KWARA,ILORIN EAST,APADO,ALOKO/AFARA L.G.E.A SCH,23/06/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3597/ward/23161/pu/76065/76065-1677601876.pdf,true
+KWARA,ILORIN EAST,APADO,APADO L.G.E.A SCH,23/06/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3597/ward/23161/pu/76063/76063-1677601335.pdf,true
+KWARA,ILORIN EAST,APADO,AIGORO,23/06/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/05/pu/004/004-1677409998.pdf,false
+KWARA,ILORIN EAST,APADO,WORU L.G.E.A SCH,23/06/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/05/pu/002/002-1677408125.pdf,false
