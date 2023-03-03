@@ -1,0 +1,11 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+PLATEAU,MIKANG,PIAPUNG 'A',GWEIDET MARKET SQUARE,31/12/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667189/result_95008_1677523414_thumb.jpg,true
+PLATEAU,MIKANG,PIAPUNG 'A',LEA PRI SCH PANGYEN,31/12/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667187/result_95006_1677523281_thumb.jpg,true
+PLATEAU,MIKANG,PIAPUNG 'A',LEA PRI SCH TANGGUK,31/12/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667188/result_95007_1677523345_thumb.jpg,true
+PLATEAU,MIKANG,PIAPUNG 'A',LEA PRI SCH GANGGOEVOEL,31/12/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/675132/result_95003_1677523080_thumb.jpg,true
+PLATEAU,MIKANG,PIAPUNG 'A',LEA PRI SCH MATBUEN,31/12/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,true
+PLATEAU,MIKANG,PIAPUNG 'A',LEA PRI SCH LONGBIS,31/12/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667185/result_95004_1677523145_thumb.jpg,false
+PLATEAU,MIKANG,PIAPUNG 'A',KOETES PRY. SCHOOL,31/12/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105648/result_95002_1677523013_thumb.jpg,false
+PLATEAU,MIKANG,PIAPUNG 'A',GOTLONG,31/12/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105647/result_95001_1677522922_thumb.jpg,true
+PLATEAU,MIKANG,PIAPUNG 'A',GWOTKAT,31/12/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105645/result_94999_1677522757_thumb.jpg,true
+PLATEAU,MIKANG,PIAPUNG 'A',PEOKAT,31/12/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105646/result_95000_1677522839_thumb.jpg,true

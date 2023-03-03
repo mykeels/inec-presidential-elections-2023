@@ -1,0 +1,40 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+PLATEAU,MANGU,PAN YAM,WASHNA,31/11/15/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105580/result_94880_1677601196_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,ANG. SARKI   111,31/11/15/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105566/result_94866_1677580064_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,TWASPUGHAL,31/11/15/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667148/result_94897_1677586645_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,KOPAL  11,31/11/15/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105587/result_94887_1677582826_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,LEET,31/11/15/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105582/result_94882_1677582106_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,LARKAS  1,31/11/15/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105576/result_94876_1677581260_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,PHC PANYAM,31/11/15/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/675123/result_94888_1677583069_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,KOPAL  1,31/11/15/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105584/result_94884_1677582518_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,DEPURI,31/11/15/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105586/result_94886_1677582742_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,MANGNI,31/11/15/035,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667149/result_94898_1677592948_thumb.jpg,true
+PLATEAU,MANGU,PAN YAM,CHANGAL,31/11/15/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105579/result_94879_1677581743_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,BWOR,31/11/15/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105585/result_94885_1677582607_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,LARKAS  11,31/11/15/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105577/result_94877_1677581389_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,KODAGHAS,31/11/15/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667141/result_94890_1677583898_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,PUKA,31/11/15/032,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667146/result_94895_1677586348_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,KWA,31/11/15/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105569/result_94869_1677580508_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,NIYES,31/11/15/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105581/result_94881_1677582023_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,MUWET,31/11/15/037,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667151/result_94900_1677585497_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,GSS PANYAM,31/11/15/029,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667143/result_94892_1677584486_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,ANG. MADAKI  1,31/11/15/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105567/result_94867_1677580256_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,AJING II,31/11/15/039,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667153/result_94902_1677586027_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,KOMBILI,31/11/15/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105578/result_94878_1677592609_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,KWAHAS,31/11/15/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105572/result_94872_1677580883_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,DAIKA  11,31/11/15/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105574/result_94874_1677581084_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,DAIKA  1,31/11/15/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105573/result_94873_1677580997_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,JWAK,31/11/15/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105571/result_94871_1677580713_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,BINDIYES,31/11/15/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667144/result_94893_1677584958_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,AJING,31/11/15/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105575/result_94875_1677581176_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,ANGWAN SARKI  1,31/11/15/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105564/result_94864_1677579669_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,KOGUL,31/11/15/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105583/result_94883_1677582188_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,MPANG,31/11/15/031,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667145/result_94894_1677585272_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,MADING,31/11/15/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105570/result_94870_1677580625_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,ANG. MADAKI  11,31/11/15/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105568/result_94868_1677580382_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,TEPAN,31/11/15/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667140/result_94889_1677583762_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,DANGDAI,31/11/15/038,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667152/result_94901_1677585838_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,B/TILENGTEN,31/11/15/033,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667147/result_94896_1677586542_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,ANG. SARKI  11,31/11/15/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105565/result_94865_1677579920_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,DUNGLONG,31/11/15/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667142/result_94891_1677584044_thumb.jpg,false
+PLATEAU,MANGU,PAN YAM,LAWEET,31/11/15/036,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3777/ward/25211/pu/170788/170788-1677586480.pdf,false

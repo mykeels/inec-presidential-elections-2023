@@ -1,0 +1,22 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+PLATEAU,KANAM,KANAM,DOGHOL,31/07/10/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666721/result_93910_1677526138_thumb.jpg,true
+PLATEAU,KANAM,KANAM,GYOGHOB PRI. SCHOOL,31/07/10/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666719/result_93908_1677525996_thumb.jpg,false
+PLATEAU,KANAM,KANAM,PIDUNG GILONG,31/07/10/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666722/result_93911_1677526204_thumb.jpg,true
+PLATEAU,KANAM,KANAM,MAJE PRI. SCH.,31/07/10/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666720/result_93909_1677526060_thumb.jpg,false
+PLATEAU,KANAM,KANAM,KANANA PRI SCH.,31/07/10/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/675070/result_93904_1677525644_thumb.jpg,true
+PLATEAU,KANAM,KANAM,GULANG PRI. SCH,31/07/10/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666717/result_93906_1677525770_thumb.jpg,false
+PLATEAU,KANAM,KANAM,KWALMIYA PRI. HEALTH CARE,31/07/10/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666718/result_93907_1677525851_thumb.jpg,true
+PLATEAU,KANAM,KANAM,MUN KANO LEA PRI. SCH.,31/07/10/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666716/result_93905_1677525706_thumb.jpg,false
+PLATEAU,KANAM,KANAM,PIDUM PRY.. SCHOOL  II,31/07/10/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105080/result_93901_1677525412_thumb.jpg,false
+PLATEAU,KANAM,KANAM,PIDUM PRY. SCHOOL  I,31/07/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105079/result_93900_1677525321_thumb.jpg,false
+PLATEAU,KANAM,KANAM,PIDUM PRY.SCHOOL  III,31/07/10/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105082/result_93903_1677525569_thumb.jpg,false
+PLATEAU,KANAM,KANAM,MASHIYAW DINYA PRY. SCH.  II,31/07/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105081/result_93902_1677525490_thumb.jpg,false
+PLATEAU,KANAM,KANAM,GALAMKYA PRY. SCH. II,31/07/10/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105078/result_93899_1677525248_thumb.jpg,false
+PLATEAU,KANAM,KANAM,GILONG,31/07/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105074/result_93895_1677524893_thumb.jpg,false
+PLATEAU,KANAM,KANAM,TUDUN WADA,31/07/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105073/result_93894_1677524780_thumb.jpg,true
+PLATEAU,KANAM,KANAM,KWALMIYA  PRY. SCH.  II,31/07/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105071/result_93892_1677524582_thumb.jpg,false
+PLATEAU,KANAM,KANAM,MASHIYAW DINYA PRY. SCH.  I,31/07/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105072/result_93893_1677524652_thumb.jpg,true
+PLATEAU,KANAM,KANAM,KWALMIYA  PRY. SCH.  I,31/07/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105070/result_93891_1677524496_thumb.jpg,false
+PLATEAU,KANAM,KANAM,KUNSHA'AM PRY. SCHOOL,31/07/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105076/result_93897_1677525048_thumb.jpg,true
+PLATEAU,KANAM,KANAM,GALAMKYA PRY.SCH. I,31/07/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105077/result_93898_1677525154_thumb.jpg,true
+PLATEAU,KANAM,KANAM,TAKYIROK PRY. SCHOOL,31/07/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105075/result_93896_1677524965_thumb.jpg,false

@@ -1,0 +1,15 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+PLATEAU,LANGTANG NORTH,KWANPE,KWANPE PRY. SCHOOL,31/09/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3775/ward/25178/pu/106342/106342-1677670851.pdf,false
+PLATEAU,LANGTANG NORTH,KWANPE,SHIVAM,31/09/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3775/ward/25178/pu/170490/170490-1677656522.pdf,true
+PLATEAU,LANGTANG NORTH,KWANPE,PAKUK,31/09/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3775/ward/25178/pu/106345/106345-1677648183.pdf,false
+PLATEAU,LANGTANG NORTH,KWANPE,YABIT/MYAM SHIKO,31/09/06/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105243/result_94252_1677570946_thumb.jpg,false
+PLATEAU,LANGTANG NORTH,KWANPE,KWANPE/PAGWAM II,31/09/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3775/ward/25178/pu/170493/170493-1677580859.pdf,true
+PLATEAU,LANGTANG NORTH,KWANPE,KWANPE,31/09/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3775/ward/25178/pu/170492/170492-1677580473.pdf,true
+PLATEAU,LANGTANG NORTH,KWANPE,KPADIAR,31/09/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3775/ward/25178/pu/170489/170489-1677579992.pdf,true
+PLATEAU,LANGTANG NORTH,KWANPE,KWANPE PHC,31/09/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3775/ward/25178/pu/170491/170491-1677579458.pdf,true
+PLATEAU,LANGTANG NORTH,KWANPE,NYAPKAI,31/09/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3775/ward/25178/pu/170488/170488-1677578660.pdf,false
+PLATEAU,LANGTANG NORTH,KWANPE,TILLAM,31/09/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3775/ward/25178/pu/170487/170487-1677578114.pdf,false
+PLATEAU,LANGTANG NORTH,KWANPE,GSS KWANPE,31/09/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3775/ward/25178/pu/170486/170486-1677576212.pdf,false
+PLATEAU,LANGTANG NORTH,KWANPE,KWANPE/PAGWAM,31/09/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3775/ward/25178/pu/106346/106346-1677574213.pdf,true
+PLATEAU,LANGTANG NORTH,KWANPE,PAGWAM,31/09/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3775/ward/25178/pu/106343/106343-1677566845.pdf,true
+PLATEAU,LANGTANG NORTH,KWANPE,TUNKUN/TILLAM/NYAPKAI,31/09/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/06/pu/004/004-1677408277.pdf,false

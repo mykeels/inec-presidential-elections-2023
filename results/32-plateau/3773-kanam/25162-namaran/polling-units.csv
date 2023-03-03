@@ -1,0 +1,19 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+PLATEAU,KANAM,NAMARAN,BIRUWA,31/07/14/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3773/ward/25162/pu/106217/106217-1677763518.pdf,false
+PLATEAU,KANAM,NAMARAN,UNG. BUNU NAMARAN,31/07/14/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666748/result_93978_1677588052_thumb.jpg,false
+PLATEAU,KANAM,NAMARAN,PRIMARY SCHOOL UNG. FADA,31/07/14/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+PLATEAU,KANAM,NAMARAN,BIRUWA II,31/07/14/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666751/result_93981_1677588778_thumb.jpg,false
+PLATEAU,KANAM,NAMARAN,NAHUTA,31/07/14/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666754/result_93984_1677588559_thumb.jpg,false
+PLATEAU,KANAM,NAMARAN,BAKIN KASUWA,31/07/14/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666750/result_93980_1677588585_thumb.jpg,false
+PLATEAU,KANAM,NAMARAN,GAMMA DAJI PRI. SCH.,31/07/14/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666749/result_93979_1677588352_thumb.jpg,false
+PLATEAU,KANAM,NAMARAN,PRIMARY SCHOOL KASS,31/07/14/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+PLATEAU,KANAM,NAMARAN,MARKET PLACE KAFEL AREWA,31/07/14/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/675074/result_93975_1677589237_thumb.jpg,true
+PLATEAU,KANAM,NAMARAN,UNG. SARKIN NAMARAN,31/07/14/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3773/ward/25162/pu/170334/170334-1677588853.pdf,false
+PLATEAU,KANAM,NAMARAN,UNG. TAHIRU GOBRO,31/07/14/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3773/ward/25162/pu/170333/170333-1677587530.pdf,true
+PLATEAU,KANAM,NAMARAN,GOBRO PRY. SCHOOL,31/07/14/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3773/ward/25162/pu/106216/106216-1677586390.pdf,true
+PLATEAU,KANAM,NAMARAN,DUTSEN KURA PRY.SCH.,31/07/14/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3773/ward/25162/pu/106215/106215-1677586094.pdf,true
+PLATEAU,KANAM,NAMARAN,KAFEL AREWA,31/07/14/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3773/ward/25162/pu/106214/106214-1677585700.pdf,false
+PLATEAU,KANAM,NAMARAN,DUTSE KURA PRY. SCHOOL,31/07/14/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3773/ward/25162/pu/106213/106213-1677585478.pdf,false
+PLATEAU,KANAM,NAMARAN,KASS,31/07/14/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3773/ward/25162/pu/106212/106212-1677584912.pdf,false
+PLATEAU,KANAM,NAMARAN,NAMARAN PRY. SCHOOL II,31/07/14/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3773/ward/25162/pu/106211/106211-1677584173.pdf,false
+PLATEAU,KANAM,NAMARAN,NAMARAN PRY. SCHOOL I,31/07/14/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3773/ward/25162/pu/106210/106210-1677583597.pdf,false

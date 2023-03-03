@@ -1,0 +1,18 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+PLATEAU,KANKE,AMPER CHIKA 'A',ALITQAN,31/08/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3774/ward/25164/pu/170357/170357-1677763361.pdf,true
+PLATEAU,KANKE,AMPER CHIKA 'A',DIBIR,31/08/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3774/ward/25164/pu/170351/170351-1677762665.pdf,true
+PLATEAU,KANKE,AMPER CHIKA 'A',KAWUM,31/08/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3774/ward/25164/pu/170355/170355-1677760230.pdf,true
+PLATEAU,KANKE,AMPER CHIKA 'A',BOMBOM/KURTAT,31/08/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3774/ward/25164/pu/170353/170353-1677758882.pdf,true
+PLATEAU,KANKE,AMPER CHIKA 'A',LUWARANG I,31/08/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105130/result_94004_1677512239_thumb.jpg,false
+PLATEAU,KANKE,AMPER CHIKA 'A',CHIKA ll,31/08/02/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105138/result_94012_1677512738_thumb.jpg,false
+PLATEAU,KANKE,AMPER CHIKA 'A',KANTEM,31/08/02/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666765/result_94016_1677513021_thumb.jpg,false
+PLATEAU,KANKE,AMPER CHIKA 'A',LAMPWAI,31/08/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105132/result_94006_1677512363_thumb.jpg,false
+PLATEAU,KANKE,AMPER CHIKA 'A',CHIKA I,31/08/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105134/result_94008_1677512514_thumb.jpg,false
+PLATEAU,KANKE,AMPER CHIKA 'A',LUWARANG II,31/08/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105131/result_94005_1677512315_thumb.jpg,true
+PLATEAU,KANKE,AMPER CHIKA 'A',LERPYE/DIBIR,31/08/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105135/result_94009_1677512569_thumb.jpg,false
+PLATEAU,KANKE,AMPER CHIKA 'A',GANTANG/KAPKAL,31/08/02/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666769/result_94020_1677513301_thumb.jpg,false
+PLATEAU,KANKE,AMPER CHIKA 'A',LAMPWAI,31/08/02/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105137/result_94011_1677512684_thumb.jpg,false
+PLATEAU,KANKE,AMPER CHIKA 'A',LERPYE,31/08/02/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666767/result_94018_1677513176_thumb.jpg,true
+PLATEAU,KANKE,AMPER CHIKA 'A',KALASHI,31/08/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105133/result_94007_1677512448_thumb.jpg,true
+PLATEAU,KANKE,AMPER CHIKA 'A',GOLTEN,31/08/02/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666763/result_94014_1677512883_thumb.jpg,true
+PLATEAU,KANKE,AMPER CHIKA 'A',AMNET,31/08/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105136/result_94010_1677512628_thumb.jpg,true

@@ -1,0 +1,11 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+PLATEAU,PANKSHIN,DOK-PAI,PENANG,31/13/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25224/pu/170874/170874-1677651575.pdf,true
+PLATEAU,PANKSHIN,DOK-PAI,KUP,31/13/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25224/pu/170873/170873-1677650819.pdf,true
+PLATEAU,PANKSHIN,DOK-PAI,NYONG,31/13/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105684/result_95080_1677612933_thumb.jpg,false
+PLATEAU,PANKSHIN,DOK-PAI,LASSIM,31/13/02/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667229/result_95086_1677610921_thumb.jpg,false
+PLATEAU,PANKSHIN,DOK-PAI,KWASSAM,31/13/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105687/result_95083_1677609832_thumb.jpg,false
+PLATEAU,PANKSHIN,DOK-PAI,KAMCHIK,31/13/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105683/result_95079_1677607473_thumb.jpg,false
+PLATEAU,PANKSHIN,DOK-PAI,NGOLONG DOK,31/13/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25224/pu/106779/106779-1677604652.pdf,true
+PLATEAU,PANKSHIN,DOK-PAI,BWER,31/13/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25224/pu/106780/106780-1677603904.pdf,true
+PLATEAU,PANKSHIN,DOK-PAI,NGOLONG BAN,31/13/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25224/pu/106783/106783-1677601691.pdf,true
+PLATEAU,PANKSHIN,DOK-PAI,TANGOL,31/13/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25224/pu/106784/106784-1677599747.pdf,false

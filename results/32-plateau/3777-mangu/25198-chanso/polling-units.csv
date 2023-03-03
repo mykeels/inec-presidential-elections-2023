@@ -1,0 +1,14 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+PLATEAU,MANGU,CHANSO,ZANDUR,31/11/02/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/675110/result_94565_1677516593_thumb.jpg,false
+PLATEAU,MANGU,CHANSO,ANG. SARKI II,31/11/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105402/result_94555_1677513532_thumb.jpg,false
+PLATEAU,MANGU,CHANSO,DUKLI  1,31/11/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105406/result_94559_1677514637_thumb.jpg,false
+PLATEAU,MANGU,CHANSO,VOKTI,31/11/02/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105409/result_94562_1677515712_thumb.jpg,false
+PLATEAU,MANGU,CHANSO,PYEMGIJI I,31/11/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105403/result_94556_1677513730_thumb.jpg,false
+PLATEAU,MANGU,CHANSO,PYEMGIJI II,31/11/02/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105411/result_94564_1677516261_thumb.jpg,false
+PLATEAU,MANGU,CHANSO,DUKLI  11,31/11/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105407/result_94560_1677514898_thumb.jpg,false
+PLATEAU,MANGU,CHANSO,ANG. SARKI I,31/11/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105401/result_94554_1677513200_thumb.jpg,true
+PLATEAU,MANGU,CHANSO,BADNI PRY. SCHOOL,31/11/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105405/result_94558_1677514125_thumb.jpg,false
+PLATEAU,MANGU,CHANSO,DUKLI SABON LAYI,31/11/02/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105410/result_94563_1677515924_thumb.jpg,false
+PLATEAU,MANGU,CHANSO,BADNI PADA,31/11/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105404/result_94557_1677513940_thumb.jpg,true
+PLATEAU,MANGU,CHANSO,CHENGERKA,31/11/02/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667006/result_94566_1677516836_thumb.jpg,false
+PLATEAU,MANGU,CHANSO,SHANGAL,31/11/02/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105408/result_94561_1677591282_thumb.jpg,false

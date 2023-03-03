@@ -1,0 +1,13 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+PLATEAU,RIYOM,RIM,JANDA SHARU,31/15/06/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/106019/result_95661_1677709816_thumb.jpg,false
+PLATEAU,RIYOM,RIM,DALO FWAJUR,31/15/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/675163/result_95665_1677709040_thumb.jpg,true
+PLATEAU,RIYOM,RIM,EKAN PRIMARY SCHOOL RIM,31/15/06/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/106021/result_95663_1677708713_thumb.jpg,true
+PLATEAU,RIYOM,RIM,JANDA SHARU,31/15/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3781/ward/25251/pu/107120/107120-1677610871.pdf,false
+PLATEAU,RIYOM,RIM,DALO/CHIROMA,31/15/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3781/ward/25251/pu/107115/107115-1677506110.pdf,false
+PLATEAU,RIYOM,RIM,WERENG RIM PRY. SCHOOL,31/15/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3781/ward/25251/pu/107113/107113-1677503478.pdf,false
+PLATEAU,RIYOM,RIM,WERENG RIM PRY. SCHOOL,31/15/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3781/ward/25251/pu/107114/107114-1677502185.pdf,false
+PLATEAU,RIYOM,RIM,DIYAN/GAKO PRY. SCHOOL,31/15/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3781/ward/25251/pu/107118/107118-1677501618.pdf,false
+PLATEAU,RIYOM,RIM,PHC WERENG RIM,31/15/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3781/ward/25251/pu/171120/171120-1677500428.pdf,false
+PLATEAU,RIYOM,RIM,GAKO PHC,31/15/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3781/ward/25251/pu/171121/171121-1677497838.pdf,false
+PLATEAU,RIYOM,RIM,TOROK WERENG,31/15/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/06/pu/005/005-1677378777.pdf,false
+PLATEAU,RIYOM,RIM,"EKAN PRY. SCHOOL, RIM",31/15/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/06/pu/001/001-1677369030.pdf,false

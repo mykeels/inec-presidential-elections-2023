@@ -1,0 +1,28 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+PLATEAU,MANGU,MANGUN,DANKONG/PATJWAR,31/11/13/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105546/result_94816_1677588006_thumb.jpg,false
+PLATEAU,MANGU,MANGUN,YILPIYA II,31/11/13/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667128/result_94821_1677585703_thumb.jpg,false
+PLATEAU,MANGU,MANGUN,JING,31/11/13/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667137/result_94830_1677584355_thumb.jpg,false
+PLATEAU,MANGU,MANGUN,YEMDUNG,31/11/13/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105542/result_94812_1677588594_thumb.jpg,false
+PLATEAU,MANGU,MANGUN,TSOHON KOTU I,31/11/13/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105538/result_94808_1677581816_thumb.jpg,false
+PLATEAU,MANGU,MANGUN,RA'AS,31/11/13/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667129/result_94822_1677587329_thumb.jpg,false
+PLATEAU,MANGU,MANGUN,GWAKSHESH,31/11/13/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667131/result_94824_1677582633_thumb.jpg,false
+PLATEAU,MANGU,MANGUN,PATJWAR,31/11/13/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/675121/result_94819_1677586379_thumb.jpg,false
+PLATEAU,MANGU,MANGUN,GUNG / DE,31/11/13/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105547/result_94817_1677589214_thumb.jpg,false
+PLATEAU,MANGU,MANGUN,BIKWANG/KARYAM,31/11/13/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105539/result_94809_1677589803_thumb.jpg,false
+PLATEAU,MANGU,MANGUN,TOCHAR/ANG. HAUSAWA,31/11/13/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105537/result_94807_1677581881_thumb.jpg,false
+PLATEAU,MANGU,MANGUN,LANGKANG/KOPNANLE,31/11/13/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105544/result_94814_1677591003_thumb.jpg,false
+PLATEAU,MANGU,MANGUN,TSOHON KOTU II,31/11/13/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105548/result_94818_1677589327_thumb.jpg,false
+PLATEAU,MANGU,MANGUN,ANG. MADAKI/GIDAN MAI,31/11/13/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105536/result_94806_1677584839_thumb.jpg,false
+PLATEAU,MANGU,MANGUN,YILPIA,31/11/13/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+PLATEAU,MANGU,MANGUN,GULANG,31/11/13/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105540/result_94810_1677589802_thumb.jpg,false
+PLATEAU,MANGU,MANGUN,DYIS/LAMSHET,31/11/13/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105543/result_94813_1677582350_thumb.jpg,false
+PLATEAU,MANGU,MANGUN,DEP,31/11/13/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3777/ward/25209/pu/170748/170748-1677585066.pdf,false
+PLATEAU,MANGU,MANGUN,LUTOM,31/11/13/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3777/ward/25209/pu/170751/170751-1677584804.pdf,false
+PLATEAU,MANGU,MANGUN,KONGDEP,31/11/13/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3777/ward/25209/pu/170760/170760-1677584508.pdf,false
+PLATEAU,MANGU,MANGUN,KONGPAS,31/11/13/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3777/ward/25209/pu/170759/170759-1677583587.pdf,true
+PLATEAU,MANGU,MANGUN,DANTING,31/11/13/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3777/ward/25209/pu/170757/170757-1677583197.pdf,false
+PLATEAU,MANGU,MANGUN,KOPETA,31/11/13/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3777/ward/25209/pu/170756/170756-1677582957.pdf,false
+PLATEAU,MANGU,MANGUN,KOPKULI,31/11/13/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3777/ward/25209/pu/170753/170753-1677582649.pdf,false
+PLATEAU,MANGU,MANGUN,DIPUT,31/11/13/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3777/ward/25209/pu/170755/170755-1677582433.pdf,true
+PLATEAU,MANGU,MANGUN,"KINING/PAINT, LONG",31/11/13/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3777/ward/25209/pu/106643/106643-1677582108.pdf,false
+PLATEAU,MANGU,MANGUN,LARKWAS,31/11/13/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3777/ward/25209/pu/170754/170754-1677581808.pdf,true

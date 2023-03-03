@@ -1,0 +1,29 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+PLATEAU,SHENDAM,MOEKAT,COMPANY UNIT,31/16/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/106112/result_95825_1677498446_thumb.jpg,true
+PLATEAU,SHENDAM,MOEKAT,TUNWAN (OPEN SPACE),31/16/05/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667410/result_95849_1677497623_thumb.jpg,true
+PLATEAU,SHENDAM,MOEKAT,RIJAM (OPEN SPACE),31/16/05/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667409/result_95848_1677502742_thumb.jpg,false
+PLATEAU,SHENDAM,MOEKAT,YANBES (OPEN SPACE),31/16/05/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667403/result_95842_1677501608_thumb.jpg,false
+PLATEAU,SHENDAM,MOEKAT,NIEMAN (OPEN SPACE),31/16/05/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667406/result_95845_1677501150_thumb.jpg,false
+PLATEAU,SHENDAM,MOEKAT,PAPE,31/16/05/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/106119/result_95832_1677519101_thumb.jpg,false
+PLATEAU,SHENDAM,MOEKAT,KUKA UNG. GALADIMA I,31/16/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/106114/result_95827_1677499522_thumb.jpg,false
+PLATEAU,SHENDAM,MOEKAT,ZEMLONG (OPEN SPACE),31/16/05/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667402/result_95841_1677501277_thumb.jpg,false
+PLATEAU,SHENDAM,MOEKAT,MOEKAT TOWN II,31/16/05/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/106125/result_95838_1677501873_thumb.jpg,false
+PLATEAU,SHENDAM,MOEKAT,LATWAL (OPEN SPACE),31/16/05/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/675172/result_95840_1677518576_thumb.jpg,false
+PLATEAU,SHENDAM,MOEKAT,KUKA UNG. GALADIMA II,31/16/05/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/106124/result_95837_1677519581_thumb.jpg,true
+PLATEAU,SHENDAM,MOEKAT,ANGWAN DAM (OPEN SPACE),31/16/05/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667404/result_95843_1677502583_thumb.jpg,false
+PLATEAU,SHENDAM,MOEKAT,TIL POE,31/16/05/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667405/result_95844_1677502456_thumb.jpg,false
+PLATEAU,SHENDAM,MOEKAT,TONGILEI (OPEN SPACE),31/16/05/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667413/result_95852_1677495797_thumb.jpg,false
+PLATEAU,SHENDAM,MOEKAT,KUKA BAPTIST,31/16/05/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/106116/result_95829_1677499734_thumb.jpg,false
+PLATEAU,SHENDAM,MOEKAT,MOEKAT NPOLL I,31/16/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/106121/result_95834_1677500110_thumb.jpg,false
+PLATEAU,SHENDAM,MOEKAT,MOEKAT PRY. SCH. II,31/16/05/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+PLATEAU,SHENDAM,MOEKAT,MOEKAT TOWN I,31/16/05/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/106120/result_95833_1677501998_thumb.jpg,false
+PLATEAU,SHENDAM,MOEKAT,MOEKAT PRY. SCH. I,31/16/05/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/106122/result_95835_1677500221_thumb.jpg,false
+PLATEAU,SHENDAM,MOEKAT,KUKA UNG. ALI,31/16/05/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/106113/result_95826_1677499298_thumb.jpg,true
+PLATEAU,SHENDAM,MOEKAT,POLE WIRE AREA (OPEN SPACE),31/16/05/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667408/result_95847_1677510142_thumb.jpg,true
+PLATEAU,SHENDAM,MOEKAT,NUWANG,31/16/05/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667412/result_95851_1677496609_thumb.jpg,true
+PLATEAU,SHENDAM,MOEKAT,NZAM KUKA,31/16/05/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/106117/result_95830_1677499904_thumb.jpg,true
+PLATEAU,SHENDAM,MOEKAT,DAKDELUU (OPEN SPACE),31/16/05/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667411/result_95850_1677595816_thumb.jpg,false
+PLATEAU,SHENDAM,MOEKAT,KUKA PRY. SCHOOL,31/16/05/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/106115/result_95828_1677595585_thumb.jpg,false
+PLATEAU,SHENDAM,MOEKAT,KUKA MARKET,31/16/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/106118/result_95831_1677595175_thumb.jpg,false
+PLATEAU,SHENDAM,MOEKAT,SHABANG (OPEN SPACE),31/16/05/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667407/result_95846_1677594793_thumb.jpg,false
+PLATEAU,SHENDAM,MOEKAT,MOEKAT NPOLL II,31/16/05/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/106126/result_95839_1677594498_thumb.jpg,false

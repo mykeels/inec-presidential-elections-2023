@@ -1,0 +1,36 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+PLATEAU,PANKSHIN,CHIP,MINTING,31/13/01/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/170854/170854-1677649530.pdf,true
+PLATEAU,PANKSHIN,CHIP,KWARMUT,31/13/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/106776/106776-1677624200.pdf,true
+PLATEAU,PANKSHIN,CHIP,JIBAM,31/13/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/106775/106775-1677623181.pdf,false
+PLATEAU,PANKSHIN,CHIP,MHI'ES DAMJING,31/13/01/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/170858/170858-1677622063.pdf,false
+PLATEAU,PANKSHIN,CHIP,KHI'PYA,31/13/01/030,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/170867/170867-1677620649.pdf,false
+PLATEAU,PANKSHIN,CHIP,MHINZAM,31/13/01/033,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/170870/170870-1677619817.pdf,false
+PLATEAU,PANKSHIN,CHIP,BAKWAR II,31/13/01/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/170865/170865-1677618099.pdf,true
+PLATEAU,PANKSHIN,CHIP,MUNDUNG,31/13/01/034,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/170871/170871-1677617752.pdf,false
+PLATEAU,PANKSHIN,CHIP,BUZUK,31/13/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/106774/106774-1677616911.pdf,false
+PLATEAU,PANKSHIN,CHIP,DUNGKONG,31/13/01/032,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/170869/170869-1677616586.pdf,false
+PLATEAU,PANKSHIN,CHIP,DUNGWAN,31/13/01/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/170855/170855-1677616063.pdf,false
+PLATEAU,PANKSHIN,CHIP,KHISHAL,31/13/01/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/170861/170861-1677614834.pdf,false
+PLATEAU,PANKSHIN,CHIP,KHIDUHUN,31/13/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105666/result_95042_1677610764_thumb.jpg,false
+PLATEAU,PANKSHIN,CHIP,KWALLA II,31/13/01/029,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/170866/170866-1677609641.pdf,false
+PLATEAU,PANKSHIN,CHIP,DIMMAI,31/13/01/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/106777/106777-1677608681.pdf,false
+PLATEAU,PANKSHIN,CHIP,LONGKAT,31/13/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/106771/106771-1677608026.pdf,false
+PLATEAU,PANKSHIN,CHIP,JIBAM II,31/13/01/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/170857/170857-1677607458.pdf,true
+PLATEAU,PANKSHIN,CHIP,NADU,31/13/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/106772/106772-1677606711.pdf,true
+PLATEAU,PANKSHIN,CHIP,MEL,31/13/01/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/170860/170860-1677605496.pdf,true
+PLATEAU,PANKSHIN,CHIP,BAKWAR,31/13/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/106770/106770-1677604853.pdf,true
+PLATEAU,PANKSHIN,CHIP,MUNGKOHOT,31/13/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/106773/106773-1677603880.pdf,true
+PLATEAU,PANKSHIN,CHIP,KAPIL II,31/13/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/106766/106766-1677603244.pdf,true
+PLATEAU,PANKSHIN,CHIP,JEPMIDYEL,31/13/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/106768/106768-1677602277.pdf,false
+PLATEAU,PANKSHIN,CHIP,GRONG,31/13/01/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/170859/170859-1677601213.pdf,true
+PLATEAU,PANKSHIN,CHIP,KHILOT,31/13/01/035,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/170872/170872-1677598829.pdf,false
+PLATEAU,PANKSHIN,CHIP,KAPIL I,31/13/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/106765/106765-1677598358.pdf,false
+PLATEAU,PANKSHIN,CHIP,TWASKAT,31/13/01/031,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/170868/170868-1677597379.pdf,false
+PLATEAU,PANKSHIN,CHIP,PYABOR,31/13/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/106767/106767-1677596971.pdf,true
+PLATEAU,PANKSHIN,CHIP,KWALLA,31/13/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/106769/106769-1677595096.pdf,false
+PLATEAU,PANKSHIN,CHIP,JEPNIAKHAL,31/13/01/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/170864/170864-1677593233.pdf,true
+PLATEAU,PANKSHIN,CHIP,KHI'ES MINTING,31/13/01/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/170862/170862-1677591071.pdf,true
+PLATEAU,PANKSHIN,CHIP,LATOK,31/13/01/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/170856/170856-1677589757.pdf,true
+PLATEAU,PANKSHIN,CHIP,KOPSHAKAP,31/13/01/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3779/ward/25223/pu/106778/106778-1677588097.pdf,true
+PLATEAU,PANKSHIN,CHIP,LONGKAT II,31/13/01/026,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/01/pu/026/026-1677400617.pdf,false
+PLATEAU,PANKSHIN,CHIP,KAMSHAR,31/13/01/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/01/pu/016/016-1677398668.pdf,false

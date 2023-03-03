@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+PLATEAU,LANGTANG NORTH,LIPCHOK,MANTAM TAM,31/09/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3775/ward/25179/pu/106348/106348-1677669701.pdf,false
+PLATEAU,LANGTANG NORTH,LIPCHOK,BALI,31/09/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3775/ward/25179/pu/106349/106349-1677669554.pdf,false
+PLATEAU,LANGTANG NORTH,LIPCHOK,GALADIMA KUMBWANG,31/09/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3775/ward/25179/pu/106350/106350-1677669444.pdf,false
+PLATEAU,LANGTANG NORTH,LIPCHOK,LIPCHOK,31/09/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3775/ward/25179/pu/106351/106351-1677669330.pdf,true
+PLATEAU,LANGTANG NORTH,LIPCHOK,DENJANG,31/09/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3775/ward/25179/pu/170495/170495-1677669174.pdf,false
+PLATEAU,LANGTANG NORTH,LIPCHOK,ZAMKUMKUM,31/09/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3775/ward/25179/pu/170496/170496-1677668986.pdf,false
+PLATEAU,LANGTANG NORTH,LIPCHOK,DINJOR,31/09/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3775/ward/25179/pu/106347/106347-1677668797.pdf,false
+PLATEAU,LANGTANG NORTH,LIPCHOK,ZAMTILAM,31/09/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3775/ward/25179/pu/170494/170494-1677668348.pdf,false

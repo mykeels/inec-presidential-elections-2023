@@ -1,0 +1,15 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+PLATEAU,MIKANG,PIAPUNG 'B',LEA PRI SCH SHIOR,31/12/09/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667192/result_95020_1677518241_thumb.jpg,false
+PLATEAU,MIKANG,PIAPUNG 'B',LEA PRI SCH PEER,31/12/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667190/result_95018_1677517890_thumb.jpg,false
+PLATEAU,MIKANG,PIAPUNG 'B',ANGUWAN HAUSAWA I,31/12/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105654/result_95014_1677517054_thumb.jpg,false
+PLATEAU,MIKANG,PIAPUNG 'B',MBOER,31/12/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105652/result_95012_1677516645_thumb.jpg,true
+PLATEAU,MIKANG,PIAPUNG 'B',SOEMDOK,31/12/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105650/result_95010_1677516312_thumb.jpg,false
+PLATEAU,MIKANG,PIAPUNG 'B',MOELAI,31/12/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105649/result_95009_1677516033_thumb.jpg,false
+PLATEAU,MIKANG,PIAPUNG 'B',LEA PRI SCH KOT-KUNG,31/12/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/675133/result_95017_1677517738_thumb.jpg,false
+PLATEAU,MIKANG,PIAPUNG 'B',LEA PRI SC KUP,31/12/09/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667191/result_95019_1677518026_thumb.jpg,false
+PLATEAU,MIKANG,PIAPUNG 'B',ZAMKOE OP,31/12/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105653/result_95013_1677516785_thumb.jpg,false
+PLATEAU,MIKANG,PIAPUNG 'B',FIABER (P.H.C),31/12/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105651/result_95011_1677516478_thumb.jpg,false
+PLATEAU,MIKANG,PIAPUNG 'B',FIABER (G.S.S.),31/12/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105656/result_95016_1677517564_thumb.jpg,false
+PLATEAU,MIKANG,PIAPUNG 'B',LEA PRI SCH PANGMOEKA,31/12/09/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667193/result_95021_1677518412_thumb.jpg,false
+PLATEAU,MIKANG,PIAPUNG 'B',ANGUWAN HAUSAWA II,31/12/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105655/result_95015_1677517436_thumb.jpg,false
+PLATEAU,MIKANG,PIAPUNG 'B',PHC CLINIC LUA,31/12/09/014,,false

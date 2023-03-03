@@ -1,0 +1,33 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+PLATEAU,MANGU,AMPANG WEST,KOPJI  11,31/11/01/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105398/result_94537_1677508657_thumb.jpg,true
+PLATEAU,MANGU,AMPANG WEST,KOPSHU,31/11/01/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105394/result_94533_1677508449_thumb.jpg,false
+PLATEAU,MANGU,AMPANG WEST,AMPANG WEST MARKET,31/11/01/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667002/result_94548_1677510233_thumb.jpg,false
+PLATEAU,MANGU,AMPANG WEST,B/TIM,31/11/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105389/result_94528_1677508244_thumb.jpg,false
+PLATEAU,MANGU,AMPANG WEST,PUSHIK 1,31/11/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105385/result_94524_1677507812_thumb.jpg,false
+PLATEAU,MANGU,AMPANG WEST,DANGU,31/11/01/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666996/result_94542_1677509217_thumb.jpg,false
+PLATEAU,MANGU,AMPANG WEST,AMKWE,31/11/01/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105393/result_94532_1677508548_thumb.jpg,false
+PLATEAU,MANGU,AMPANG WEST,TOGKONG,31/11/01/032,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/665497/result_94553_1677510898_thumb.jpg,false
+PLATEAU,MANGU,AMPANG WEST,NGA'AL,31/11/01/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667001/result_94547_1677509985_thumb.jpg,false
+PLATEAU,MANGU,AMPANG WEST,KOPSHU  11,31/11/01/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105399/result_94538_1677508789_thumb.jpg,false
+PLATEAU,MANGU,AMPANG WEST,KWAHAS NGWAN,31/11/01/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667000/result_94546_1677509771_thumb.jpg,false
+PLATEAU,MANGU,AMPANG WEST,BIDOL,31/11/01/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105395/result_94534_1677508552_thumb.jpg,false
+PLATEAU,MANGU,AMPANG WEST,PERKA,31/11/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105387/result_94526_1677508160_thumb.jpg,false
+PLATEAU,MANGU,AMPANG WEST,TASHAN KUBWAT,31/11/01/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667005/result_94551_1677510662_thumb.jpg,false
+PLATEAU,MANGU,AMPANG WEST,PYEM,31/11/01/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/675109/result_94540_1677509032_thumb.jpg,false
+PLATEAU,MANGU,AMPANG WEST,KOPJI,31/11/01/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105392/result_94531_1677508355_thumb.jpg,false
+PLATEAU,MANGU,AMPANG WEST,AMPANG,31/11/01/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105400/result_94539_1677508929_thumb.jpg,false
+PLATEAU,MANGU,AMPANG WEST,MPAAT II,31/11/01/031,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/665496/result_94552_1677510970_thumb.jpg,false
+PLATEAU,MANGU,AMPANG WEST,LARPIA,31/11/01/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666998/result_94544_1677509564_thumb.jpg,false
+PLATEAU,MANGU,AMPANG WEST,FOHOLMWOR,31/11/01/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666995/result_94541_1677509285_thumb.jpg,false
+PLATEAU,MANGU,AMPANG WEST,NPAT,31/11/01/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105390/result_94529_1677508336_thumb.jpg,false
+PLATEAU,MANGU,AMPANG WEST,SHIPANG,31/11/01/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667003/result_94549_1677510348_thumb.jpg,false
+PLATEAU,MANGU,AMPANG WEST,AMPANG 1,31/11/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105383/result_94522_1677507271_thumb.jpg,false
+PLATEAU,MANGU,AMPANG WEST,KOKIDA,31/11/01/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666997/result_94543_1677509441_thumb.jpg,false
+PLATEAU,MANGU,AMPANG WEST,BWONPE,31/11/01/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105388/result_94527_1677508075_thumb.jpg,false
+PLATEAU,MANGU,AMPANG WEST,PERKA  11,31/11/01/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105397/result_94536_1677508716_thumb.jpg,false
+PLATEAU,MANGU,AMPANG WEST,AMPANG 11,31/11/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105384/result_94523_1677507956_thumb.jpg,true
+PLATEAU,MANGU,AMPANG WEST,FWAM,31/11/01/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105396/result_94535_1677508773_thumb.jpg,true
+PLATEAU,MANGU,AMPANG WEST,ADIYES,31/11/01/029,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667004/result_94550_1677510501_thumb.jpg,true
+PLATEAU,MANGU,AMPANG WEST,PUSHIK 11,31/11/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105386/result_94525_1677508051_thumb.jpg,true
+PLATEAU,MANGU,AMPANG WEST,JIREP,31/11/01/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666999/result_94545_1677510139_thumb.jpg,true
+PLATEAU,MANGU,AMPANG WEST,KUBWAT,31/11/01/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105391/result_94530_1677508514_thumb.jpg,true

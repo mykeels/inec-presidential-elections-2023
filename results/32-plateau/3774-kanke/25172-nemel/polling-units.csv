@@ -1,0 +1,16 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+PLATEAU,KANKE,NEMEL,NEKONG,31/08/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105197/result_94156_1677515721_thumb.jpg,true
+PLATEAU,KANKE,NEMEL,LERPYE,31/08/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105198/result_94157_1677517506_thumb.jpg,true
+PLATEAU,KANKE,NEMEL,NEMEL,31/08/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105196/result_94155_1677515236_thumb.jpg,true
+PLATEAU,KANKE,NEMEL,NEKONG II,31/08/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/10/pu/013/013-1677395754.pdf,false
+PLATEAU,KANKE,NEMEL,LEPLEK,31/08/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/10/pu/004/004-1677393899.pdf,false
+PLATEAU,KANKE,NEMEL,KUTANGLE,31/08/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/10/pu/006/006-1677392215.pdf,false
+PLATEAU,KANKE,NEMEL,KALIN,31/08/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/10/pu/005/005-1677391400.pdf,false
+PLATEAU,KANKE,NEMEL,LEPTUL,31/08/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/10/pu/014/014-1677389110.pdf,false
+PLATEAU,KANKE,NEMEL,LEPLEK II,31/08/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/10/pu/009/009-1677388504.pdf,false
+PLATEAU,KANKE,NEMEL,SONGPAL/KATCHIM,31/08/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/10/pu/007/007-1677387045.pdf,false
+PLATEAU,KANKE,NEMEL,LEPYIL/GALADIMA,31/08/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/10/pu/008/008-1677385044.pdf,false
+PLATEAU,KANKE,NEMEL,KALIN II,31/08/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/10/pu/010/010-1677380501.pdf,false
+PLATEAU,KANKE,NEMEL,NEKONG III,31/08/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/10/pu/015/015-1677378707.pdf,false
+PLATEAU,KANKE,NEMEL,NEMEL II,31/08/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/10/pu/012/012-1677375733.pdf,false
+PLATEAU,KANKE,NEMEL,NEMEL I,31/08/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/10/pu/011/011-1677369892.pdf,false

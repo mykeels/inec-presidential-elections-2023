@@ -1,0 +1,37 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+PLATEAU,WASE,KADARKO,MAGARYA,31/17/04/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/106274/result_96140_1677705554_thumb.jpg,false
+PLATEAU,WASE,KADARKO,JAWURI,31/17/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/106273/result_96139_1677705224_thumb.jpg,false
+PLATEAU,WASE,KADARKO,GIMBI NG. MALL. DA,31/17/04/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/106278/result_96144_1677588290_thumb.jpg,false
+PLATEAU,WASE,KADARKO,"PRY. SCHOOL, BIYAK",31/17/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/106270/result_96136_1677612153_thumb.jpg,false
+PLATEAU,WASE,KADARKO,RUWAN GOGGO,31/17/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3783/ward/25270/pu/107374/107374-1677601049.pdf,false
+PLATEAU,WASE,KADARKO,TUNGAN HARDO JUMBA,31/17/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3783/ward/25270/pu/107375/107375-1677600850.pdf,true
+PLATEAU,WASE,KADARKO,PRY. SCH. PINAU I,31/17/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3783/ward/25270/pu/107380/107380-1677600439.pdf,false
+PLATEAU,WASE,KADARKO,PHC PINAU,31/17/04/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/665733/result_96169_1677585464_thumb.jpg,false
+PLATEAU,WASE,KADARKO,GEWA PRI SCH,31/17/04/032,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/665731/result_96167_1677585884_thumb.jpg,false
+PLATEAU,WASE,KADARKO,SUKU SARKI,31/17/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/106272/result_96138_1677588676_thumb.jpg,false
+PLATEAU,WASE,KADARKO,PRY. SCH. PINAU II,31/17/04/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/106283/result_96149_1677588409_thumb.jpg,false
+PLATEAU,WASE,KADARKO,BIYAK HAUSAWA,31/17/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/106275/result_96141_1677587596_thumb.jpg,false
+PLATEAU,WASE,KADARKO,DEM LABARE PRI SCH,31/17/04/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/665729/result_96165_1677589135_thumb.jpg,true
+PLATEAU,WASE,KADARKO,UNG PONZHI I,31/17/04/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/675182/result_96152_1677589477_thumb.jpg,false
+PLATEAU,WASE,KADARKO,"PRY. SCHOOL, KADARKO",31/17/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/106271/result_96137_1677588960_thumb.jpg,false
+PLATEAU,WASE,KADARKO,PRY. SCHOOL GIMBI,31/17/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/106279/result_96145_1677587843_thumb.jpg,false
+PLATEAU,WASE,KADARKO,DEM TSAMIYA PRI SCH,31/17/04/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/665720/result_96156_1677588841_thumb.jpg,false
+PLATEAU,WASE,KADARKO,JAWONDO,31/17/04/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/106280/result_96146_1677586631_thumb.jpg,false
+PLATEAU,WASE,KADARKO,GINDIN DUTSE,31/17/04/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/106285/result_96151_1677587778_thumb.jpg,false
+PLATEAU,WASE,KADARKO,LABAR PRI SCH,31/17/04/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/665718/result_96154_1677588875_thumb.jpg,false
+PLATEAU,WASE,KADARKO,PELAWA NOMADIC PRI SCH,31/17/04/035,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/665734/result_96170_1677583853_thumb.jpg,false
+PLATEAU,WASE,KADARKO,RAFIN DUTSE,31/17/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3783/ward/25270/pu/107379/107379-1677589352.pdf,true
+PLATEAU,WASE,KADARKO,DEM SHENYA,31/17/04/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3783/ward/25270/pu/107382/107382-1677589338.pdf,true
+PLATEAU,WASE,KADARKO,MABOK,31/17/04/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3783/ward/25270/pu/171344/171344-1677589107.pdf,true
+PLATEAU,WASE,KADARKO,TIMGWANG PRI SCH,31/17/04/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3783/ward/25270/pu/171346/171346-1677588967.pdf,true
+PLATEAU,WASE,KADARKO,PRI SCH DEM ONE,31/17/04/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3783/ward/25270/pu/171348/171348-1677588641.pdf,false
+PLATEAU,WASE,KADARKO,PEKAT MARKET,31/17/04/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3783/ward/25270/pu/171349/171349-1677587861.pdf,true
+PLATEAU,WASE,KADARKO,KUKUKI PRI SCH,31/17/04/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3783/ward/25270/pu/171350/171350-1677587632.pdf,true
+PLATEAU,WASE,KADARKO,BESIDE SOLAR BOREHOLE,31/17/04/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3783/ward/25270/pu/171351/171351-1677587499.pdf,true
+PLATEAU,WASE,KADARKO,NZHI MADARA,31/17/04/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3783/ward/25270/pu/171352/171352-1677587334.pdf,true
+PLATEAU,WASE,KADARKO,MUTUM BIYU PRI SCH,31/17/04/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3783/ward/25270/pu/171353/171353-1677587139.pdf,true
+PLATEAU,WASE,KADARKO,UNG PONZHI II,31/17/04/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3783/ward/25270/pu/171354/171354-1677586969.pdf,true
+PLATEAU,WASE,KADARKO,MONDAY MARKET,31/17/04/029,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3783/ward/25270/pu/171355/171355-1677586814.pdf,true
+PLATEAU,WASE,KADARKO,TURKI UNG CHIROMA GIMBI,31/17/04/031,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3783/ward/25270/pu/171357/171357-1677586496.pdf,false
+PLATEAU,WASE,KADARKO,G/KOGI PRI SCH,31/17/04/033,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3783/ward/25270/pu/171359/171359-1677586226.pdf,true
+PLATEAU,WASE,KADARKO,JAWANDO,31/17/04/036,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3783/ward/25270/pu/171362/171362-1677585222.pdf,false

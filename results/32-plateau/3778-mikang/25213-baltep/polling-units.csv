@@ -1,0 +1,14 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+PLATEAU,MIKANG,BALTEP,KONGWAN,31/12/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/105606/result_94931_1677579128_thumb.jpg,false
+PLATEAU,MIKANG,BALTEP,PANGOETIP,31/12/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3778/ward/25213/pu/106705/106705-1677487271.pdf,false
+PLATEAU,MIKANG,BALTEP,DIN L.E.A PRY. SCHOOL,31/12/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/01/pu/003/003-1677369137.pdf,false
+PLATEAU,MIKANG,BALTEP,KWOM LEA PRI SCH,31/12/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/01/pu/013/013-1677363713.pdf,false
+PLATEAU,MIKANG,BALTEP,TALME,31/12/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/01/pu/004/004-1677362880.pdf,false
+PLATEAU,MIKANG,BALTEP,DIN. L.E.A. SCHOOL,31/12/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/01/pu/006/006-1677361258.pdf,false
+PLATEAU,MIKANG,BALTEP,LEA PUKIEN,31/12/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/01/pu/007/007-1677360162.pdf,false
+PLATEAU,MIKANG,BALTEP,KABANG,31/12/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/01/pu/008/008-1677359334.pdf,false
+PLATEAU,MIKANG,BALTEP,BALTEP PHC CLINIC,31/12/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/01/pu/010/010-1677363495.pdf,false
+PLATEAU,MIKANG,BALTEP,LADWAM MARKET SQUARE,31/12/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/01/pu/009/009-1677361358.pdf,false
+PLATEAU,MIKANG,BALTEP,BALTEP,31/12/01/005,,false
+PLATEAU,MIKANG,BALTEP,LEA PANGPIT,31/12/01/011,,false
+PLATEAU,MIKANG,BALTEP,LEA LONGKAT,31/12/01/012,,false
