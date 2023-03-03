@@ -1,0 +1,17 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KATSINA,JIBIA,FARU,FARU T.V VIEWING CENTRE,20/16/07/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KATSINA,JIBIA,FARU,MALAMAI/GARIN M IBRAHIM OPEN SPACE,20/16/07/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/67139/result_133308_1677596757_thumb.jpg,false
+KATSINA,JIBIA,FARU,GURBIN MARGAYA II PRI SCHOOL,20/16/07/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/67145/result_133314_1677596231_thumb.jpg,false
+KATSINA,JIBIA,FARU,GARIN DAN / INDO PRI.SCHOOL,20/16/07/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/67138/result_133307_1677595122_thumb.jpg,false
+KATSINA,JIBIA,FARU,MAI KWARI II O/S,20/16/07/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/647298/result_133316_1677595001_thumb.jpg,false
+KATSINA,JIBIA,FARU,FARU/GURBIN M.FULANI FARU PRI.SCHOOL,20/16/07/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/67132/result_133301_1677584481_thumb.jpg,false
+KATSINA,JIBIA,FARU,LANKWASAU - OPEN SPACE,20/16/07/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KATSINA,JIBIA,FARU,GARIN-GADO/UNG. NASARAWA OPEN SPACE,20/16/07/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/67143/result_133312_1677589178_thumb.jpg,false
+KATSINA,JIBIA,FARU,SABON GARIN MALLAMAWA OPEN SPACE G/RIJIYA,20/16/07/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/67135/result_133304_1677586926_thumb.jpg,false
+KATSINA,JIBIA,FARU,MAKADA OPEN SPACE/GIDAN M.GARI,20/16/07/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/67134/result_133303_1677582816_thumb.jpg,false
+KATSINA,JIBIA,FARU,MAI KWARI OPEN SPACE,20/16/07/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/67144/result_133313_1677593031_thumb.jpg,false
+KATSINA,JIBIA,FARU,JIBYA MAJE OPEN SPACE,20/16/07/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/67133/result_133302_1677581932_thumb.jpg,true
+KATSINA,JIBIA,FARU,SHABBA K/GIDAN M.UNGUWA,20/16/07/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/67136/result_133305_1677586713_thumb.jpg,false
+KATSINA,JIBIA,FARU,GURBIN MAGARYA I OPEN SPACE,20/16/07/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/67137/result_133306_1677587622_thumb.jpg,false
+KATSINA,JIBIA,FARU,FARFARUN MALAMAI/MAKIYAWA PRI.SCHOOL,20/16/07/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/67140/result_133309_1677591210_thumb.jpg,false
+KATSINA,JIBIA,FARU,MAIGARKE OPEN SPACE,20/16/07/010,,false
