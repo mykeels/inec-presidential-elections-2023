@@ -1,0 +1,11 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+AKWA IBOM,ONNA,AWA 11,"VILLAGE SQUARE, IKOT NKANG II",03/24/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3164/ward/18178/pu/7468/7468-1677606224.pdf,true
+AKWA IBOM,ONNA,AWA 11,"VILLAGE SQUARE, IKOT NKANG I",03/24/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3164/ward/18178/pu/7467/7467-1677605463.pdf,true
+AKWA IBOM,ONNA,AWA 11,"PRY SCH, IKOT AKPAN NKPE II",03/24/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3164/ward/18178/pu/7466/7466-1677604934.pdf,true
+AKWA IBOM,ONNA,AWA 11,"PRY SCH, IKOT AKPAN NKPE II",03/24/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/7455/result_257950_1677603888_thumb.jpg,true
+AKWA IBOM,ONNA,AWA 11,"PRY SCH, IKOT AKPAN NKPE I",03/24/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/7454/result_257949_1677602662_thumb.jpg,false
+AKWA IBOM,ONNA,AWA 11,"MARKET SQUARE , IKOT EDEM UDO",03/24/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/7453/result_257948_1677602527_thumb.jpg,false
+AKWA IBOM,ONNA,AWA 11,"PRY SCH, IKOT EDEM UDO II",03/24/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/7452/result_257947_1677602246_thumb.jpg,false
+AKWA IBOM,ONNA,AWA 11,"PRY SCH, IKOT EDEM UDO I",03/24/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/7451/result_257946_1677602005_thumb.jpg,false
+AKWA IBOM,ONNA,AWA 11,"TOWN HALL, AFAHA ATAI. II",03/24/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/7450/result_257945_1677601688_thumb.jpg,false
+AKWA IBOM,ONNA,AWA 11,"TOWN HALL, AFAHA ATAI. I",03/24/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/7449/result_257944_1677601286_thumb.jpg,false

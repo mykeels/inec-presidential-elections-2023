@@ -1,0 +1,16 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+AKWA IBOM,ONNA,AWA 1,"VILLAGE SQUARE, AWA NKOP I",03/24/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3164/ward/18177/pu/7451/7451-1677608823.pdf,true
+AKWA IBOM,ONNA,AWA 1,"VILLAGE SQUARE, AWA NKOP II",03/24/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+AKWA IBOM,ONNA,AWA 1,"CIVIC CENTER, AWA ATAI",03/24/01/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/621923/result_257943_1677606052_thumb.jpg,false
+AKWA IBOM,ONNA,AWA 1,"TOWN HALL, AWA NDON I",03/24/01/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/7445/result_257938_1677605868_thumb.jpg,false
+AKWA IBOM,ONNA,AWA 1,"MARKET SQUARE, AWA IMAN",03/24/01/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/621922/result_257942_1677605721_thumb.jpg,false
+AKWA IBOM,ONNA,AWA 1,"PRY SCH, AWA IMAN III",03/24/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/7440/result_257933_1677605583_thumb.jpg,false
+AKWA IBOM,ONNA,AWA 1,"PRY SCH, AWA IMAN I",03/24/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/7438/result_257931_1677605460_thumb.jpg,false
+AKWA IBOM,ONNA,AWA 1,"TOWN HALL, AWA NDON II",03/24/01/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/7446/result_257939_1677605292_thumb.jpg,false
+AKWA IBOM,ONNA,AWA 1,"VILLAGE SQUARE, AWA NDON I",03/24/01/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/7443/result_257936_1677604975_thumb.jpg,false
+AKWA IBOM,ONNA,AWA 1,"PRY SCH, AWA IMAN II",03/24/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/7439/result_257932_1677604657_thumb.jpg,false
+AKWA IBOM,ONNA,AWA 1,"VILLAGE SQUARE, AWA NDON II",03/24/01/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/7444/result_257937_1677603565_thumb.jpg,true
+AKWA IBOM,ONNA,AWA 1,"MARKET SQUARE, AFAHA UBIUM",03/24/01/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/7448/result_257941_1677603083_thumb.jpg,false
+AKWA IBOM,ONNA,AWA 1,"TOWN HALL, AFAHA UBIUM",03/24/01/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/7447/result_257940_1677602611_thumb.jpg,true
+AKWA IBOM,ONNA,AWA 1,"TOWN HALL, AWA IMAN II",03/24/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/7437/result_257930_1677602081_thumb.jpg,false
+AKWA IBOM,ONNA,AWA 1,"TOWN HALL, AWA IMAN I",03/24/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/7436/result_257929_1677601236_thumb.jpg,false

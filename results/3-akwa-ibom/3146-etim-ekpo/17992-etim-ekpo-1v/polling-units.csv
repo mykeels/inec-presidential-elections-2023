@@ -1,0 +1,12 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+AKWA IBOM,ETIM EKPO,ETIM EKPO 1V,"Q.I.C SCH, IKOT EDET",03/06/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3146/ward/17992/pu/5810/5810-1677671816.pdf,true
+AKWA IBOM,ETIM EKPO,ETIM EKPO 1V,"VILLAGE HALL URUK ATA, IKOT AKPAN",03/06/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3146/ward/17992/pu/5812/5812-1677670447.pdf,true
+AKWA IBOM,ETIM EKPO,ETIM EKPO 1V,"OPEN SPACE,IKOT EDET MISSION JUNCTION",03/06/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3146/ward/17992/pu/129720/129720-1677669869.pdf,true
+AKWA IBOM,ETIM EKPO,ETIM EKPO 1V,"V/HALL, NUNG OKU IKOT",03/06/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3146/ward/17992/pu/5813/5813-1677669043.pdf,true
+AKWA IBOM,ETIM EKPO,ETIM EKPO 1V,"V/HALL, URUK ATA IKOT AKPAKPAN",03/06/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3146/ward/17992/pu/5807/5807-1677668359.pdf,true
+AKWA IBOM,ETIM EKPO,ETIM EKPO 1V,"NTO AKPAN INYANG HALL, NKWOT IKOT EBO",03/06/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+AKWA IBOM,ETIM EKPO,ETIM EKPO 1V,"SEC SCH, IKOT EDET",03/06/04/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/5807/result_255705_1677607949_thumb.jpg,false
+AKWA IBOM,ETIM EKPO,ETIM EKPO 1V,"G/SCH, NKWOT IKOT EBO",03/06/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/5801/result_255699_1677607663_thumb.jpg,false
+AKWA IBOM,ETIM EKPO,ETIM EKPO 1V,"VILLAGE SQUARE, OBONG UTIT IDIM",03/06/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3146/ward/17992/pu/5806/5806-1677492499.pdf,false
+AKWA IBOM,ETIM EKPO,ETIM EKPO 1V,"ST JOSEPH SCH, IKOT EDET",03/06/04/006,,false
+AKWA IBOM,ETIM EKPO,ETIM EKPO 1V,"PRY SCH, NTO UNANG",03/06/04/004,,false

@@ -1,0 +1,15 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+AKWA IBOM,ABAK,OTORO 111,V/HALL IKOT ASIFON,03/01/11/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/621110/result_255087_1677599674_thumb.jpg,false
+AKWA IBOM,ABAK,OTORO 111,V/HALL IKOT ABISO,03/01/11/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/621109/result_255086_1677599125_thumb.jpg,false
+AKWA IBOM,ABAK,OTORO 111,V/HALL IKOT OBIO ASAN,03/01/11/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/621108/result_255085_1677598613_thumb.jpg,false
+AKWA IBOM,ABAK,OTORO 111,"PRY SCH, IBIAKPAN. II",03/01/11/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+AKWA IBOM,ABAK,OTORO 111,"PRY SCH, IBIAKPAN. I",03/01/11/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/5407/result_255082_1677597358_thumb.jpg,false
+AKWA IBOM,ABAK,OTORO 111,"V/H, IBONG IKOT AKPAN ABASI",03/01/11/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/5406/result_255081_1677596738_thumb.jpg,false
+AKWA IBOM,ABAK,OTORO 111,"PRY SCH , IBONG OTORO",03/01/11/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/5405/result_255080_1677596485_thumb.jpg,false
+AKWA IBOM,ABAK,OTORO 111,"VILLAGE SQUARE, IKOT EBOK II",03/01/11/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/5404/result_255079_1677596362_thumb.jpg,false
+AKWA IBOM,ABAK,OTORO 111,"VILLAGE SQUARE, IKOT EBOK I",03/01/11/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+AKWA IBOM,ABAK,OTORO 111,"VILLAGE SQUARE, IKOT ETUKUDO",03/01/11/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+AKWA IBOM,ABAK,OTORO 111,"PRY SCH, IKOT ETUKUDO",03/01/11/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/5401/result_255076_1677593594_thumb.jpg,false
+AKWA IBOM,ABAK,OTORO 111,"V/H, IKOT ODON",03/01/11/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/5400/result_255075_1677593053_thumb.jpg,false
+AKWA IBOM,ABAK,OTORO 111,"VILLAGE SQUARE, IKOT ATA UDO",03/01/11/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/5399/result_255074_1677592813_thumb.jpg,false
+AKWA IBOM,ABAK,OTORO 111,"HEALTH CENTRE, IKOT ETOK UDO",03/01/11/011,,false
