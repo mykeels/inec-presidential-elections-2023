@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,NKANU WEST,,OBE HEALTH CENTRE,14/12/06/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3372/ward/20664/pu/142257/142257-1677488015.pdf,false
-ENUGU,NKANU WEST,,UGWU NKPUME MARKET SQUARE,14/12/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3372/ward/20664/pu/40840/40840-1677487357.pdf,false
-ENUGU,NKANU WEST,,CIVIC CENTRE OBE UNO,14/12/06/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3372/ward/20664/pu/142256/142256-1677485653.pdf,false
-ENUGU,NKANU WEST,,ORIE MARKET VILLAGE SQUARE,14/12/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/015/015-1677423252.pdf,false
-ENUGU,NKANU WEST,,UKWUDARA IHUWUAKO VILLAGE SQUARE,14/12/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/014/014-1677422738.pdf,false
-ENUGU,NKANU WEST,,EZIOBODO ENUGU OBE VILLAGE SQUARE,14/12/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/013/013-1677422491.pdf,false
-ENUGU,NKANU WEST,,OBODO ONU VILLAGE SQUARE II,14/12/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/011/011-1677421747.pdf,false
-ENUGU,NKANU WEST,,TECHNICAL SCH. OBE II,14/12/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/010/010-1677421248.pdf,false
-ENUGU,NKANU WEST,,COMMUNITY SCHOOL ENUGU OBE II,14/12/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/009/009-1677421057.pdf,false
-ENUGU,NKANU WEST,,UNION PRIMARY SCHOOL OBE II,14/12/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/008/008-1677420395.pdf,false
-ENUGU,NKANU WEST,,GIRLS' SECONDARY SCHOOL OBE I,14/12/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/007/007-1677420047.pdf,false
-ENUGU,NKANU WEST,,TECHNICAL SCH. OBE I,14/12/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/006/006-1677419842.pdf,false
-ENUGU,NKANU WEST,,COMMUNITY SCHOOL ENUGU OBE I,14/12/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/005/005-1677419249.pdf,false
-ENUGU,NKANU WEST,,UNION PRIMARY SCHOOL,14/12/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/004/004-1677418749.pdf,false
-ENUGU,NKANU WEST,,OBODO ONU VILLAGE SQUARE I,14/12/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/003/003-1677418060.pdf,false
-ENUGU,NKANU WEST,,COMMUNITY CENTRAL SCHOOL II,14/12/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/002/002-1677417296.pdf,false
-ENUGU,NKANU WEST,,COMMUNITY CENTRAL SCHOOL I,14/12/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/001/001-1677416223.pdf,false
-ENUGU,NKANU WEST,,UGWU MKPUME VILLAGE SQUARE,14/12/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/012/012-1677360510.pdf,false
+ENUGU,NKANU WEST,OBE,OBE HEALTH CENTRE,14/12/06/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3372/ward/20664/pu/142257/142257-1677488015.pdf,false
+ENUGU,NKANU WEST,OBE,UGWU NKPUME MARKET SQUARE,14/12/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3372/ward/20664/pu/40840/40840-1677487357.pdf,false
+ENUGU,NKANU WEST,OBE,CIVIC CENTRE OBE UNO,14/12/06/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3372/ward/20664/pu/142256/142256-1677485653.pdf,false
+ENUGU,NKANU WEST,OBE,ORIE MARKET VILLAGE SQUARE,14/12/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/015/015-1677423252.pdf,false
+ENUGU,NKANU WEST,OBE,UKWUDARA IHUWUAKO VILLAGE SQUARE,14/12/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/014/014-1677422738.pdf,false
+ENUGU,NKANU WEST,OBE,EZIOBODO ENUGU OBE VILLAGE SQUARE,14/12/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/013/013-1677422491.pdf,false
+ENUGU,NKANU WEST,OBE,OBODO ONU VILLAGE SQUARE II,14/12/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/011/011-1677421747.pdf,false
+ENUGU,NKANU WEST,OBE,TECHNICAL SCH. OBE II,14/12/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/010/010-1677421248.pdf,false
+ENUGU,NKANU WEST,OBE,COMMUNITY SCHOOL ENUGU OBE II,14/12/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/009/009-1677421057.pdf,false
+ENUGU,NKANU WEST,OBE,UNION PRIMARY SCHOOL OBE II,14/12/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/008/008-1677420395.pdf,false
+ENUGU,NKANU WEST,OBE,GIRLS' SECONDARY SCHOOL OBE I,14/12/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/007/007-1677420047.pdf,false
+ENUGU,NKANU WEST,OBE,TECHNICAL SCH. OBE I,14/12/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/006/006-1677419842.pdf,false
+ENUGU,NKANU WEST,OBE,COMMUNITY SCHOOL ENUGU OBE I,14/12/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/005/005-1677419249.pdf,false
+ENUGU,NKANU WEST,OBE,UNION PRIMARY SCHOOL,14/12/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/004/004-1677418749.pdf,false
+ENUGU,NKANU WEST,OBE,OBODO ONU VILLAGE SQUARE I,14/12/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/003/003-1677418060.pdf,false
+ENUGU,NKANU WEST,OBE,COMMUNITY CENTRAL SCHOOL II,14/12/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/002/002-1677417296.pdf,false
+ENUGU,NKANU WEST,OBE,COMMUNITY CENTRAL SCHOOL I,14/12/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/001/001-1677416223.pdf,false
+ENUGU,NKANU WEST,OBE,UGWU MKPUME VILLAGE SQUARE,14/12/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/06/pu/012/012-1677360510.pdf,false

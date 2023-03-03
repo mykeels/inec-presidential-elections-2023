@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,UDI,,ONU-ODO EMENE,14/16/14/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/41659/41659-1677481162.pdf,false
-ENUGU,UDI,,CENTRAL SCHOOL AMOKWU II,14/16/14/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/41653/41653-1677480729.pdf,false
-ENUGU,UDI,,CENTRAL SCHOOL AMOFIA/IMEZI,14/16/14/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/41651/41651-1677480317.pdf,false
-ENUGU,UDI,,NKWO AMOFIA,14/16/14/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/41652/41652-1677480006.pdf,false
-ENUGU,UDI,,"PRIMARY SCHOOL, EZEUGAMA",14/16/14/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/41650/41650-1677479661.pdf,false
-ENUGU,UDI,,AMAUBE QUARTERS AMOKWU,14/16/14/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/41658/41658-1677479161.pdf,false
-ENUGU,UDI,,IKEDIMKPA HEALTH CENTRE II,14/16/14/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/41648/41648-1677478594.pdf,false
-ENUGU,UDI,,OBODO AGBA SQUARE,14/16/14/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/41646/41646-1677478087.pdf,false
-ENUGU,UDI,,CENTRAL SCHOOL OBINAGU  AFFA,14/16/14/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/41654/41654-1677477687.pdf,false
-ENUGU,UDI,,CENTRAL SCHOOL AMOKWU I,14/16/14/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/41645/41645-1677456747.pdf,false
-ENUGU,UDI,,IKEDIMKPA HEALTH CENTRE I,14/16/14/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/41647/41647-1677455707.pdf,false
-ENUGU,UDI,,AMAOZALLA VILLAGE HALL AFFA,14/16/14/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/142589/142589-1677455384.pdf,false
-ENUGU,UDI,,"VILLAGE TOWN HALL, NKWO AMOFIA",14/16/14/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/142590/142590-1677454984.pdf,false
-ENUGU,UDI,,UNIVERSAL PRIMARY SCHOOL UMUKOLOMA,14/16/14/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/41649/41649-1677454510.pdf,false
-ENUGU,UDI,,IKONO VILLAGE SQUARE,14/16/14/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/41656/41656-1677454098.pdf,false
-ENUGU,UDI,,P.S. EZEUGAMA,14/16/14/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/41657/41657-1677453998.pdf,false
-ENUGU,UDI,,OGHU VILLAGE SQUARE,14/16/14/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/41655/41655-1677453265.pdf,false
-ENUGU,UDI,,"COMMUNITY PRIMARY SCHOOL, AMACHALLA",14/16/14/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/14/pu/001/001-1677397144.pdf,false
+ENUGU,UDI,AFFA/OGHU/IKONO,ONU-ODO EMENE,14/16/14/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/41659/41659-1677481162.pdf,false
+ENUGU,UDI,AFFA/OGHU/IKONO,CENTRAL SCHOOL AMOKWU II,14/16/14/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/41653/41653-1677480729.pdf,false
+ENUGU,UDI,AFFA/OGHU/IKONO,CENTRAL SCHOOL AMOFIA/IMEZI,14/16/14/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/41651/41651-1677480317.pdf,false
+ENUGU,UDI,AFFA/OGHU/IKONO,NKWO AMOFIA,14/16/14/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/41652/41652-1677480006.pdf,false
+ENUGU,UDI,AFFA/OGHU/IKONO,"PRIMARY SCHOOL, EZEUGAMA",14/16/14/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/41650/41650-1677479661.pdf,false
+ENUGU,UDI,AFFA/OGHU/IKONO,AMAUBE QUARTERS AMOKWU,14/16/14/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/41658/41658-1677479161.pdf,false
+ENUGU,UDI,AFFA/OGHU/IKONO,IKEDIMKPA HEALTH CENTRE II,14/16/14/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/41648/41648-1677478594.pdf,false
+ENUGU,UDI,AFFA/OGHU/IKONO,OBODO AGBA SQUARE,14/16/14/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/41646/41646-1677478087.pdf,false
+ENUGU,UDI,AFFA/OGHU/IKONO,CENTRAL SCHOOL OBINAGU  AFFA,14/16/14/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/41654/41654-1677477687.pdf,false
+ENUGU,UDI,AFFA/OGHU/IKONO,CENTRAL SCHOOL AMOKWU I,14/16/14/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/41645/41645-1677456747.pdf,false
+ENUGU,UDI,AFFA/OGHU/IKONO,IKEDIMKPA HEALTH CENTRE I,14/16/14/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/41647/41647-1677455707.pdf,false
+ENUGU,UDI,AFFA/OGHU/IKONO,AMAOZALLA VILLAGE HALL AFFA,14/16/14/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/142589/142589-1677455384.pdf,false
+ENUGU,UDI,AFFA/OGHU/IKONO,"VILLAGE TOWN HALL, NKWO AMOFIA",14/16/14/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/142590/142590-1677454984.pdf,false
+ENUGU,UDI,AFFA/OGHU/IKONO,UNIVERSAL PRIMARY SCHOOL UMUKOLOMA,14/16/14/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/41649/41649-1677454510.pdf,false
+ENUGU,UDI,AFFA/OGHU/IKONO,IKONO VILLAGE SQUARE,14/16/14/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/41656/41656-1677454098.pdf,false
+ENUGU,UDI,AFFA/OGHU/IKONO,P.S. EZEUGAMA,14/16/14/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/41657/41657-1677453998.pdf,false
+ENUGU,UDI,AFFA/OGHU/IKONO,OGHU VILLAGE SQUARE,14/16/14/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20736/pu/41655/41655-1677453265.pdf,false
+ENUGU,UDI,AFFA/OGHU/IKONO,"COMMUNITY PRIMARY SCHOOL, AMACHALLA",14/16/14/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/14/pu/001/001-1677397144.pdf,false

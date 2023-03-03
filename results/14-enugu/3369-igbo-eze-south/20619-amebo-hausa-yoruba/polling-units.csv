@@ -1,17 +1,17 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,IGBO EZE SOUTH,,C.P.S. AGU OGBARA,14/09/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40400/result_158682_1677511240_thumb.jpg,true
-ENUGU,IGBO EZE SOUTH,,UMUAROJI CENTRE II,14/09/02/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40405/result_158687_1677512126_thumb.jpg,true
-ENUGU,IGBO EZE SOUTH,,ALA-OHA VILL HALL,14/09/02/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635055/result_158691_1677512984_thumb.jpg,true
-ENUGU,IGBO EZE SOUTH,,AMAGU-ECHARA TOWN HALL,14/09/02/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635056/result_158692_1677513200_thumb.jpg,true
-ENUGU,IGBO EZE SOUTH,,UMU-UGWUONYIMA VILL HALL,14/09/02/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635054/result_158690_1677512666_thumb.jpg,true
-ENUGU,IGBO EZE SOUTH,,UMULOLO TOWN HALL,14/09/02/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635053/result_158689_1677512500_thumb.jpg,true
-ENUGU,IGBO EZE SOUTH,,UMUAROJI CENTRE I,14/09/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40402/result_158684_1677511572_thumb.jpg,true
-ENUGU,IGBO EZE SOUTH,,UMUDI AMAJI HALL I,14/09/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40399/result_158681_1677510916_thumb.jpg,true
-ENUGU,IGBO EZE SOUTH,,OLD MARKET SQUARE II,14/09/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40403/result_158685_1677511760_thumb.jpg,true
-ENUGU,IGBO EZE SOUTH,,ACHOM TOWN HALL,14/09/02/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635059/result_158695_1677513745_thumb.jpg,true
-ENUGU,IGBO EZE SOUTH,,UMUIDI AMAJI HALL II,14/09/02/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40406/result_158688_1677512340_thumb.jpg,true
-ENUGU,IGBO EZE SOUTH,,UZO-EGO HEALTH CENTER,14/09/02/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635058/result_158694_1677513566_thumb.jpg,true
-ENUGU,IGBO EZE SOUTH,,OLD MARKET SQUARE I,14/09/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40398/result_158680_1677510550_thumb.jpg,true
-ENUGU,IGBO EZE SOUTH,,UMU-DIETA TOWN HALL,14/09/02/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635057/result_158693_1677513397_thumb.jpg,true
-ENUGU,IGBO EZE SOUTH,,OTOBO IKEMU,14/09/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40404/result_158686_1677511904_thumb.jpg,true
-ENUGU,IGBO EZE SOUTH,,C.P.S. EBURU MIRI,14/09/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40401/result_158683_1677511397_thumb.jpg,true
+ENUGU,IGBO EZE SOUTH,AMEBO /HAUSA/ YORUBA,C.P.S. AGU OGBARA,14/09/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40400/result_158682_1677511240_thumb.jpg,true
+ENUGU,IGBO EZE SOUTH,AMEBO /HAUSA/ YORUBA,UMUAROJI CENTRE II,14/09/02/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40405/result_158687_1677512126_thumb.jpg,true
+ENUGU,IGBO EZE SOUTH,AMEBO /HAUSA/ YORUBA,ALA-OHA VILL HALL,14/09/02/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635055/result_158691_1677512984_thumb.jpg,true
+ENUGU,IGBO EZE SOUTH,AMEBO /HAUSA/ YORUBA,AMAGU-ECHARA TOWN HALL,14/09/02/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635056/result_158692_1677513200_thumb.jpg,true
+ENUGU,IGBO EZE SOUTH,AMEBO /HAUSA/ YORUBA,UMU-UGWUONYIMA VILL HALL,14/09/02/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635054/result_158690_1677512666_thumb.jpg,true
+ENUGU,IGBO EZE SOUTH,AMEBO /HAUSA/ YORUBA,UMULOLO TOWN HALL,14/09/02/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635053/result_158689_1677512500_thumb.jpg,true
+ENUGU,IGBO EZE SOUTH,AMEBO /HAUSA/ YORUBA,UMUAROJI CENTRE I,14/09/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40402/result_158684_1677511572_thumb.jpg,true
+ENUGU,IGBO EZE SOUTH,AMEBO /HAUSA/ YORUBA,UMUDI AMAJI HALL I,14/09/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40399/result_158681_1677510916_thumb.jpg,true
+ENUGU,IGBO EZE SOUTH,AMEBO /HAUSA/ YORUBA,OLD MARKET SQUARE II,14/09/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40403/result_158685_1677511760_thumb.jpg,true
+ENUGU,IGBO EZE SOUTH,AMEBO /HAUSA/ YORUBA,ACHOM TOWN HALL,14/09/02/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635059/result_158695_1677513745_thumb.jpg,true
+ENUGU,IGBO EZE SOUTH,AMEBO /HAUSA/ YORUBA,UMUIDI AMAJI HALL II,14/09/02/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40406/result_158688_1677512340_thumb.jpg,true
+ENUGU,IGBO EZE SOUTH,AMEBO /HAUSA/ YORUBA,UZO-EGO HEALTH CENTER,14/09/02/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635058/result_158694_1677513566_thumb.jpg,true
+ENUGU,IGBO EZE SOUTH,AMEBO /HAUSA/ YORUBA,OLD MARKET SQUARE I,14/09/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40398/result_158680_1677510550_thumb.jpg,true
+ENUGU,IGBO EZE SOUTH,AMEBO /HAUSA/ YORUBA,UMU-DIETA TOWN HALL,14/09/02/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635057/result_158693_1677513397_thumb.jpg,true
+ENUGU,IGBO EZE SOUTH,AMEBO /HAUSA/ YORUBA,OTOBO IKEMU,14/09/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40404/result_158686_1677511904_thumb.jpg,true
+ENUGU,IGBO EZE SOUTH,AMEBO /HAUSA/ YORUBA,C.P.S. EBURU MIRI,14/09/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40401/result_158683_1677511397_thumb.jpg,true

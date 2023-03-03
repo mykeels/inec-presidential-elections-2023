@@ -1,9 +1,9 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,EZEAGU,,AMAKPU EZE KINGDOM CIVIC CENTRE,14/06/13/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20570/pu/141980/141980-1677605762.pdf,true
-ENUGU,EZEAGU,,C.P.S. UMUDIM II,14/06/13/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20570/pu/39958/39958-1677605535.pdf,true
-ENUGU,EZEAGU,,C.P.S. UMUAJI III,14/06/13/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20570/pu/39957/39957-1677605155.pdf,true
-ENUGU,EZEAGU,,MGBAGBU-OWA TOWN HALL,14/06/13/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20570/pu/39956/39956-1677604863.pdf,true
-ENUGU,EZEAGU,,C.P.S. EZEMA,14/06/13/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20570/pu/39954/39954-1677604438.pdf,false
-ENUGU,EZEAGU,,C.P.S. UMUAJI II,14/06/13/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20570/pu/39953/39953-1677604216.pdf,true
-ENUGU,EZEAGU,,C.P.S. UMUAJI I,14/06/13/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20570/pu/39952/39952-1677604024.pdf,true
-ENUGU,EZEAGU,,C.P.S. UMUDIM,14/06/13/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/13/pu/004/004-1677390271.pdf,false
+ENUGU,EZEAGU,MGBAGBU OWA  I,AMAKPU EZE KINGDOM CIVIC CENTRE,14/06/13/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20570/pu/141980/141980-1677605762.pdf,true
+ENUGU,EZEAGU,MGBAGBU OWA  I,C.P.S. UMUDIM II,14/06/13/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20570/pu/39958/39958-1677605535.pdf,true
+ENUGU,EZEAGU,MGBAGBU OWA  I,C.P.S. UMUAJI III,14/06/13/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20570/pu/39957/39957-1677605155.pdf,true
+ENUGU,EZEAGU,MGBAGBU OWA  I,MGBAGBU-OWA TOWN HALL,14/06/13/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20570/pu/39956/39956-1677604863.pdf,true
+ENUGU,EZEAGU,MGBAGBU OWA  I,C.P.S. EZEMA,14/06/13/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20570/pu/39954/39954-1677604438.pdf,false
+ENUGU,EZEAGU,MGBAGBU OWA  I,C.P.S. UMUAJI II,14/06/13/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20570/pu/39953/39953-1677604216.pdf,true
+ENUGU,EZEAGU,MGBAGBU OWA  I,C.P.S. UMUAJI I,14/06/13/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20570/pu/39952/39952-1677604024.pdf,true
+ENUGU,EZEAGU,MGBAGBU OWA  I,C.P.S. UMUDIM,14/06/13/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/13/pu/004/004-1677390271.pdf,false

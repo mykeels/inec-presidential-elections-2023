@@ -1,9 +1,9 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,EZEAGU,,C.P.S. UKPATA EZEMA III,14/06/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20568/pu/39942/39942-1677604415.pdf,false
-ENUGU,EZEAGU,,C.P.S. UMUAJI/IMUDIM II,14/06/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20568/pu/39941/39941-1677604211.pdf,true
-ENUGU,EZEAGU,,C.P.S. UKPATA EZEMA II,14/06/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20568/pu/39940/39940-1677604022.pdf,true
-ENUGU,EZEAGU,,C.P.S. UKPATA EZEMA I,14/06/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20568/pu/39939/39939-1677603699.pdf,false
-ENUGU,EZEAGU,,C.P.S. UMUAJI/UMUDIM I,14/06/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20568/pu/39938/39938-1677603592.pdf,false
-ENUGU,EZEAGU,,ANIAKAA UMUAJI SQUARE,14/06/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20568/pu/39937/39937-1677603418.pdf,false
-ENUGU,EZEAGU,,P.S. UMUDIOHA II,14/06/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20568/pu/39936/39936-1677603252.pdf,true
-ENUGU,EZEAGU,,P.S. UMUDIOHA I,14/06/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/11/pu/001/001-1677363695.pdf,false
+ENUGU,EZEAGU,IMEZI OWA I,C.P.S. UKPATA EZEMA III,14/06/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20568/pu/39942/39942-1677604415.pdf,false
+ENUGU,EZEAGU,IMEZI OWA I,C.P.S. UMUAJI/IMUDIM II,14/06/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20568/pu/39941/39941-1677604211.pdf,true
+ENUGU,EZEAGU,IMEZI OWA I,C.P.S. UKPATA EZEMA II,14/06/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20568/pu/39940/39940-1677604022.pdf,true
+ENUGU,EZEAGU,IMEZI OWA I,C.P.S. UKPATA EZEMA I,14/06/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20568/pu/39939/39939-1677603699.pdf,false
+ENUGU,EZEAGU,IMEZI OWA I,C.P.S. UMUAJI/UMUDIM I,14/06/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20568/pu/39938/39938-1677603592.pdf,false
+ENUGU,EZEAGU,IMEZI OWA I,ANIAKAA UMUAJI SQUARE,14/06/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20568/pu/39937/39937-1677603418.pdf,false
+ENUGU,EZEAGU,IMEZI OWA I,P.S. UMUDIOHA II,14/06/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20568/pu/39936/39936-1677603252.pdf,true
+ENUGU,EZEAGU,IMEZI OWA I,P.S. UMUDIOHA I,14/06/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/11/pu/001/001-1677363695.pdf,false

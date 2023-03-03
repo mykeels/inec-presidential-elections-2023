@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,IGBO EZE NORTH,,OBINETITI HALL,14/08/10/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634996/result_158526_1677533746_thumb.jpg,true
-ENUGU,IGBO EZE NORTH,,UMUEYA EDUGU HALL,14/08/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634995/result_158525_1677533553_thumb.jpg,true
-ENUGU,IGBO EZE NORTH,,UROSHI HEALTH CENTRE,14/08/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634997/result_158527_1677533264_thumb.jpg,true
-ENUGU,IGBO EZE NORTH,,UMUJA HALL OKPALIGBO,14/08/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40284/result_158523_1677532962_thumb.jpg,true
-ENUGU,IGBO EZE NORTH,,C.P.S. UDA III,14/08/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40283/result_158522_1677532809_thumb.jpg,true
-ENUGU,IGBO EZE NORTH,,C.P.S. UROSHI,14/08/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40282/result_158521_1677532671_thumb.jpg,true
-ENUGU,IGBO EZE NORTH,,C.S.S. UDA,14/08/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40281/result_158520_1677532506_thumb.jpg,true
-ENUGU,IGBO EZE NORTH,,UMUOKWO UDAH HALL,14/08/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40280/result_158519_1677532236_thumb.jpg,true
-ENUGU,IGBO EZE NORTH,,UMUOZZI HALL,14/08/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40279/result_158518_1677531863_thumb.jpg,true
-ENUGU,IGBO EZE NORTH,,C.P.S. UDA II,14/08/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40278/result_158517_1677531612_thumb.jpg,true
-ENUGU,IGBO EZE NORTH,,C.P.S. UDA I,14/08/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40277/result_158516_1677531165_thumb.jpg,true
-ENUGU,IGBO EZE NORTH,,ULOCHE UMU-OSSANYI,14/08/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/10/pu/009/009-1677358868.pdf,false
+ENUGU,IGBO EZE NORTH,EZZODO,OBINETITI HALL,14/08/10/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634996/result_158526_1677533746_thumb.jpg,true
+ENUGU,IGBO EZE NORTH,EZZODO,UMUEYA EDUGU HALL,14/08/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634995/result_158525_1677533553_thumb.jpg,true
+ENUGU,IGBO EZE NORTH,EZZODO,UROSHI HEALTH CENTRE,14/08/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634997/result_158527_1677533264_thumb.jpg,true
+ENUGU,IGBO EZE NORTH,EZZODO,UMUJA HALL OKPALIGBO,14/08/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40284/result_158523_1677532962_thumb.jpg,true
+ENUGU,IGBO EZE NORTH,EZZODO,C.P.S. UDA III,14/08/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40283/result_158522_1677532809_thumb.jpg,true
+ENUGU,IGBO EZE NORTH,EZZODO,C.P.S. UROSHI,14/08/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40282/result_158521_1677532671_thumb.jpg,true
+ENUGU,IGBO EZE NORTH,EZZODO,C.S.S. UDA,14/08/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40281/result_158520_1677532506_thumb.jpg,true
+ENUGU,IGBO EZE NORTH,EZZODO,UMUOKWO UDAH HALL,14/08/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40280/result_158519_1677532236_thumb.jpg,true
+ENUGU,IGBO EZE NORTH,EZZODO,UMUOZZI HALL,14/08/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40279/result_158518_1677531863_thumb.jpg,true
+ENUGU,IGBO EZE NORTH,EZZODO,C.P.S. UDA II,14/08/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40278/result_158517_1677531612_thumb.jpg,true
+ENUGU,IGBO EZE NORTH,EZZODO,C.P.S. UDA I,14/08/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40277/result_158516_1677531165_thumb.jpg,true
+ENUGU,IGBO EZE NORTH,EZZODO,ULOCHE UMU-OSSANYI,14/08/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/10/pu/009/009-1677358868.pdf,false

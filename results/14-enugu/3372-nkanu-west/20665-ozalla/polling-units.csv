@@ -1,23 +1,23 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,NKANU WEST,,COMMUNITY PRIMARY SCHOOL AMIGBO II,14/12/07/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3372/ward/20665/pu/40858/40858-1677769072.pdf,true
-ENUGU,NKANU WEST,,NKWO MARKET SQUARE,14/12/07/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40833/result_159301_1677535876_thumb.jpg,true
-ENUGU,NKANU WEST,,COMMUNITY PRIMARY SCHOOL OBEAGWU,14/12/07/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,true
-ENUGU,NKANU WEST,,COURT PREMISES,14/12/07/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40841/result_159309_1677528422_thumb.jpg,true
-ENUGU,NKANU WEST,,CENTRAL SCHOOL OZALLA II,14/12/07/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40840/result_159308_1677527807_thumb.jpg,true
-ENUGU,NKANU WEST,,OBODO OKWE COMMUNITY HALL,14/12/07/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40834/result_159302_1677527412_thumb.jpg,true
-ENUGU,NKANU WEST,,NDIUNO ENUAGU AGU VILLAGE SQUARE,14/12/07/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3372/ward/20665/pu/40861/40861-1677609187.pdf,true
-ENUGU,NKANU WEST,,UGWU-OHANE VILLAGE HALL,14/12/07/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40837/result_159305_1677584410_thumb.jpg,false
-ENUGU,NKANU WEST,,EKE MARKET SQUARE,14/12/07/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40838/result_159306_1677586376_thumb.jpg,false
-ENUGU,NKANU WEST,,UMU-OKOLOUBA HALL,14/12/07/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40842/result_159310_1677584465_thumb.jpg,false
-ENUGU,NKANU WEST,,RIVER-SIDE PRIMARY SCHOOL II,14/12/07/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40848/result_159316_1677586243_thumb.jpg,false
-ENUGU,NKANU WEST,,UMUHU OZALLA,14/12/07/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3372/ward/20665/pu/40862/40862-1677579589.pdf,true
-ENUGU,NKANU WEST,,UKPAETTE VILLAGE SQUARE I,14/12/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3372/ward/20665/pu/40855/40855-1677570366.pdf,true
-ENUGU,NKANU WEST,,CENTRAL SCHOOL OZALLA I,14/12/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3372/ward/20665/pu/40848/40848-1677566958.pdf,true
-ENUGU,NKANU WEST,,ONU-AKPARATA UMUEKWE VILLAGE SQUARE,14/12/07/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3372/ward/20665/pu/40859/40859-1677536932.pdf,false
-ENUGU,NKANU WEST,,UMUNGWU VILLAGE SQUARE-UMUOKOLOUBA,14/12/07/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3372/ward/20665/pu/40860/40860-1677530832.pdf,false
-ENUGU,NKANU WEST,,RIVER-SIDE PRIMARY SCHOOL,14/12/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3372/ward/20665/pu/40844/40844-1677530498.pdf,false
-ENUGU,NKANU WEST,,UMUANIAGU VILLAGE SQUARE,14/12/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3372/ward/20665/pu/40856/40856-1677503764.pdf,false
-ENUGU,NKANU WEST,,UMUONYIA ANEE VILLAGE HALL,14/12/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3372/ward/20665/pu/40854/40854-1677498918.pdf,false
-ENUGU,NKANU WEST,,UMUAGU VILLAGE SQUARE,14/12/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/07/pu/013/013-1677407765.pdf,false
-ENUGU,NKANU WEST,,COMMUNITY PRIMARY SCHOOL AMIGBO I,14/12/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/07/pu/001/001-1677404276.pdf,false
-ENUGU,NKANU WEST,,BOYS' SECONDARY SCHOOL,14/12/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/07/pu/012/012-1677400603.pdf,false
+ENUGU,NKANU WEST,OZALLA,COMMUNITY PRIMARY SCHOOL AMIGBO II,14/12/07/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3372/ward/20665/pu/40858/40858-1677769072.pdf,true
+ENUGU,NKANU WEST,OZALLA,NKWO MARKET SQUARE,14/12/07/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40833/result_159301_1677535876_thumb.jpg,true
+ENUGU,NKANU WEST,OZALLA,COMMUNITY PRIMARY SCHOOL OBEAGWU,14/12/07/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,true
+ENUGU,NKANU WEST,OZALLA,COURT PREMISES,14/12/07/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40841/result_159309_1677528422_thumb.jpg,true
+ENUGU,NKANU WEST,OZALLA,CENTRAL SCHOOL OZALLA II,14/12/07/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40840/result_159308_1677527807_thumb.jpg,true
+ENUGU,NKANU WEST,OZALLA,OBODO OKWE COMMUNITY HALL,14/12/07/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40834/result_159302_1677527412_thumb.jpg,true
+ENUGU,NKANU WEST,OZALLA,NDIUNO ENUAGU AGU VILLAGE SQUARE,14/12/07/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3372/ward/20665/pu/40861/40861-1677609187.pdf,true
+ENUGU,NKANU WEST,OZALLA,UGWU-OHANE VILLAGE HALL,14/12/07/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40837/result_159305_1677584410_thumb.jpg,false
+ENUGU,NKANU WEST,OZALLA,EKE MARKET SQUARE,14/12/07/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40838/result_159306_1677586376_thumb.jpg,false
+ENUGU,NKANU WEST,OZALLA,UMU-OKOLOUBA HALL,14/12/07/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40842/result_159310_1677584465_thumb.jpg,false
+ENUGU,NKANU WEST,OZALLA,RIVER-SIDE PRIMARY SCHOOL II,14/12/07/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40848/result_159316_1677586243_thumb.jpg,false
+ENUGU,NKANU WEST,OZALLA,UMUHU OZALLA,14/12/07/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3372/ward/20665/pu/40862/40862-1677579589.pdf,true
+ENUGU,NKANU WEST,OZALLA,UKPAETTE VILLAGE SQUARE I,14/12/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3372/ward/20665/pu/40855/40855-1677570366.pdf,true
+ENUGU,NKANU WEST,OZALLA,CENTRAL SCHOOL OZALLA I,14/12/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3372/ward/20665/pu/40848/40848-1677566958.pdf,true
+ENUGU,NKANU WEST,OZALLA,ONU-AKPARATA UMUEKWE VILLAGE SQUARE,14/12/07/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3372/ward/20665/pu/40859/40859-1677536932.pdf,false
+ENUGU,NKANU WEST,OZALLA,UMUNGWU VILLAGE SQUARE-UMUOKOLOUBA,14/12/07/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3372/ward/20665/pu/40860/40860-1677530832.pdf,false
+ENUGU,NKANU WEST,OZALLA,RIVER-SIDE PRIMARY SCHOOL,14/12/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3372/ward/20665/pu/40844/40844-1677530498.pdf,false
+ENUGU,NKANU WEST,OZALLA,UMUANIAGU VILLAGE SQUARE,14/12/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3372/ward/20665/pu/40856/40856-1677503764.pdf,false
+ENUGU,NKANU WEST,OZALLA,UMUONYIA ANEE VILLAGE HALL,14/12/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3372/ward/20665/pu/40854/40854-1677498918.pdf,false
+ENUGU,NKANU WEST,OZALLA,UMUAGU VILLAGE SQUARE,14/12/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/07/pu/013/013-1677407765.pdf,false
+ENUGU,NKANU WEST,OZALLA,COMMUNITY PRIMARY SCHOOL AMIGBO I,14/12/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/07/pu/001/001-1677404276.pdf,false
+ENUGU,NKANU WEST,OZALLA,BOYS' SECONDARY SCHOOL,14/12/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/07/pu/012/012-1677400603.pdf,false

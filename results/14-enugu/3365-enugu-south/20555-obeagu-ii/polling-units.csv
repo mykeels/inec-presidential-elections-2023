@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,ENUGU SOUTH,,ST. JAMES PRIMARY SCHOOL OBEAGU VII,14/05/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3365/ward/20555/pu/39830/39830-1677692624.pdf,false
-ENUGU,ENUGU SOUTH,,ST. JAMES PRIMARY SCHOOL OBEAGU VI,14/05/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3365/ward/20555/pu/39829/39829-1677692500.pdf,false
-ENUGU,ENUGU SOUTH,,CENTRAL SCHOOL OBEAGU IV,14/05/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3365/ward/20555/pu/39828/39828-1677692387.pdf,false
-ENUGU,ENUGU SOUTH,,"CENTRAL SCHOOL, OBEAGU III",14/05/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3365/ward/20555/pu/39827/39827-1677692240.pdf,false
-ENUGU,ENUGU SOUTH,,"ST. JAMES PRIMARY SCHOOL, OBEAGU V",14/05/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3365/ward/20555/pu/39826/39826-1677692136.pdf,false
-ENUGU,ENUGU SOUTH,,"ST. JAMES PRIMARY SCHOOL, OBEAGU IV",14/05/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3365/ward/20555/pu/39825/39825-1677692027.pdf,false
-ENUGU,ENUGU SOUTH,,"ST. JAMES PRIMARY SCHOOL, OBEAGU III",14/05/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3365/ward/20555/pu/39824/39824-1677691869.pdf,false
-ENUGU,ENUGU SOUTH,,"ST. JAMES PRIMARY SCHOOL, OBEAGU II",14/05/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3365/ward/20555/pu/39823/39823-1677577608.pdf,false
-ENUGU,ENUGU SOUTH,,"ST. JAMES PRIMARY SCHOOL, OBEAGU I",14/05/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3365/ward/20555/pu/39822/39822-1677577478.pdf,false
-ENUGU,ENUGU SOUTH,,"CENTRAL SCHOOL, OBEAGU II",14/05/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3365/ward/20555/pu/39821/39821-1677577194.pdf,false
-ENUGU,ENUGU SOUTH,,"CENTRAL SCHOOL, OBEAGU I",14/05/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3365/ward/20555/pu/39820/39820-1677577028.pdf,false
+ENUGU,ENUGU SOUTH,OBEAGU II,ST. JAMES PRIMARY SCHOOL OBEAGU VII,14/05/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3365/ward/20555/pu/39830/39830-1677692624.pdf,false
+ENUGU,ENUGU SOUTH,OBEAGU II,ST. JAMES PRIMARY SCHOOL OBEAGU VI,14/05/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3365/ward/20555/pu/39829/39829-1677692500.pdf,false
+ENUGU,ENUGU SOUTH,OBEAGU II,CENTRAL SCHOOL OBEAGU IV,14/05/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3365/ward/20555/pu/39828/39828-1677692387.pdf,false
+ENUGU,ENUGU SOUTH,OBEAGU II,"CENTRAL SCHOOL, OBEAGU III",14/05/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3365/ward/20555/pu/39827/39827-1677692240.pdf,false
+ENUGU,ENUGU SOUTH,OBEAGU II,"ST. JAMES PRIMARY SCHOOL, OBEAGU V",14/05/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3365/ward/20555/pu/39826/39826-1677692136.pdf,false
+ENUGU,ENUGU SOUTH,OBEAGU II,"ST. JAMES PRIMARY SCHOOL, OBEAGU IV",14/05/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3365/ward/20555/pu/39825/39825-1677692027.pdf,false
+ENUGU,ENUGU SOUTH,OBEAGU II,"ST. JAMES PRIMARY SCHOOL, OBEAGU III",14/05/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3365/ward/20555/pu/39824/39824-1677691869.pdf,false
+ENUGU,ENUGU SOUTH,OBEAGU II,"ST. JAMES PRIMARY SCHOOL, OBEAGU II",14/05/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3365/ward/20555/pu/39823/39823-1677577608.pdf,false
+ENUGU,ENUGU SOUTH,OBEAGU II,"ST. JAMES PRIMARY SCHOOL, OBEAGU I",14/05/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3365/ward/20555/pu/39822/39822-1677577478.pdf,false
+ENUGU,ENUGU SOUTH,OBEAGU II,"CENTRAL SCHOOL, OBEAGU II",14/05/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3365/ward/20555/pu/39821/39821-1677577194.pdf,false
+ENUGU,ENUGU SOUTH,OBEAGU II,"CENTRAL SCHOOL, OBEAGU I",14/05/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3365/ward/20555/pu/39820/39820-1677577028.pdf,false

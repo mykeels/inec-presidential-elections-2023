@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,NSUKKA,,COMMUNITY PRIMARY SCHOOL ANUKA,14/13/19/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41198/result_159780_1677590505_thumb.jpg,false
-ENUGU,NSUKKA,,COMMUNITY PRIMARY SCHOOL OKPUJE,14/13/19/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41191/result_159773_1677588805_thumb.jpg,false
-ENUGU,NSUKKA,,UWENU OKPUJE,14/13/19/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41193/result_159775_1677589446_thumb.jpg,false
-ENUGU,NSUKKA,,COMMUNITY PRIMARY SCHOOL OKUTU,14/13/19/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41195/result_159777_1677589750_thumb.jpg,false
-ENUGU,NSUKKA,,COMMUNITY SCHOOL OKPUJE,14/13/19/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41192/result_159774_1677589279_thumb.jpg,false
-ENUGU,NSUKKA,,UNIVERSAL  PRIMARY EDUCATION II (U.P.E.),14/13/19/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41190/result_159772_1677588433_thumb.jpg,false
-ENUGU,NSUKKA,,AGBOGAZI VILL. HALL OKUTU,14/13/19/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635353/result_159782_1677591557_thumb.jpg,false
-ENUGU,NSUKKA,,AKOKORO OKPUJE,14/13/19/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41194/result_159776_1677589624_thumb.jpg,false
-ENUGU,NSUKKA,,ACHARA UGWU OKPUJE,14/13/19/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41199/result_159781_1677590879_thumb.jpg,false
-ENUGU,NSUKKA,,AGBO ENUGU OKUTU,14/13/19/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41197/result_159779_1677590328_thumb.jpg,false
-ENUGU,NSUKKA,,COMMUNITY SCHOOL OKUTU,14/13/19/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41196/result_159778_1677589991_thumb.jpg,false
-ENUGU,NSUKKA,,UNIVERSAL  PRIMARY EDUCATION I (U.P.E.),14/13/19/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41189/result_159771_1677588340_thumb.jpg,false
+ENUGU,NSUKKA,OKPUJE/OKUTU/ANUKA,COMMUNITY PRIMARY SCHOOL ANUKA,14/13/19/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41198/result_159780_1677590505_thumb.jpg,false
+ENUGU,NSUKKA,OKPUJE/OKUTU/ANUKA,COMMUNITY PRIMARY SCHOOL OKPUJE,14/13/19/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41191/result_159773_1677588805_thumb.jpg,false
+ENUGU,NSUKKA,OKPUJE/OKUTU/ANUKA,UWENU OKPUJE,14/13/19/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41193/result_159775_1677589446_thumb.jpg,false
+ENUGU,NSUKKA,OKPUJE/OKUTU/ANUKA,COMMUNITY PRIMARY SCHOOL OKUTU,14/13/19/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41195/result_159777_1677589750_thumb.jpg,false
+ENUGU,NSUKKA,OKPUJE/OKUTU/ANUKA,COMMUNITY SCHOOL OKPUJE,14/13/19/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41192/result_159774_1677589279_thumb.jpg,false
+ENUGU,NSUKKA,OKPUJE/OKUTU/ANUKA,UNIVERSAL  PRIMARY EDUCATION II (U.P.E.),14/13/19/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41190/result_159772_1677588433_thumb.jpg,false
+ENUGU,NSUKKA,OKPUJE/OKUTU/ANUKA,AGBOGAZI VILL. HALL OKUTU,14/13/19/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635353/result_159782_1677591557_thumb.jpg,false
+ENUGU,NSUKKA,OKPUJE/OKUTU/ANUKA,AKOKORO OKPUJE,14/13/19/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41194/result_159776_1677589624_thumb.jpg,false
+ENUGU,NSUKKA,OKPUJE/OKUTU/ANUKA,ACHARA UGWU OKPUJE,14/13/19/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41199/result_159781_1677590879_thumb.jpg,false
+ENUGU,NSUKKA,OKPUJE/OKUTU/ANUKA,AGBO ENUGU OKUTU,14/13/19/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41197/result_159779_1677590328_thumb.jpg,false
+ENUGU,NSUKKA,OKPUJE/OKUTU/ANUKA,COMMUNITY SCHOOL OKUTU,14/13/19/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41196/result_159778_1677589991_thumb.jpg,false
+ENUGU,NSUKKA,OKPUJE/OKUTU/ANUKA,UNIVERSAL  PRIMARY EDUCATION I (U.P.E.),14/13/19/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41189/result_159771_1677588340_thumb.jpg,false

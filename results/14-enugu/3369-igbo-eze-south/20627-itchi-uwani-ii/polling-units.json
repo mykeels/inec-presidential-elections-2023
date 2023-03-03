@@ -26,6 +26,7 @@
     "pu_code_string": "140910008",
     "state_name": "ENUGU",
     "lga_name": "IGBO EZE SOUTH",
+    "ward_name": "ITCHI/UWANI II",
     "document": {
       "external": true,
       "status": 1,
@@ -97,6 +98,7 @@
     "pu_code_string": "140910002",
     "state_name": "ENUGU",
     "lga_name": "IGBO EZE SOUTH",
+    "ward_name": "ITCHI/UWANI II",
     "document": {
       "external": true,
       "status": 1,
@@ -144,6 +146,7 @@
     "pu_code_string": "140910001",
     "state_name": "ENUGU",
     "lga_name": "IGBO EZE SOUTH",
+    "ward_name": "ITCHI/UWANI II",
     "document": {
       "external": true,
       "status": 1,
@@ -191,6 +194,7 @@
     "pu_code_string": "140910005",
     "state_name": "ENUGU",
     "lga_name": "IGBO EZE SOUTH",
+    "ward_name": "ITCHI/UWANI II",
     "document": {
       "external": true,
       "status": 1,
@@ -238,6 +242,7 @@
     "pu_code_string": "140910009",
     "state_name": "ENUGU",
     "lga_name": "IGBO EZE SOUTH",
+    "ward_name": "ITCHI/UWANI II",
     "document": {
       "external": true,
       "status": 1,
@@ -285,6 +290,7 @@
     "pu_code_string": "140910003",
     "state_name": "ENUGU",
     "lga_name": "IGBO EZE SOUTH",
+    "ward_name": "ITCHI/UWANI II",
     "document": {
       "external": true,
       "status": 1,
@@ -332,6 +338,7 @@
     "pu_code_string": "140910004",
     "state_name": "ENUGU",
     "lga_name": "IGBO EZE SOUTH",
+    "ward_name": "ITCHI/UWANI II",
     "document": {
       "external": true,
       "status": 1,
@@ -379,6 +386,7 @@
     "pu_code_string": "140910006",
     "state_name": "ENUGU",
     "lga_name": "IGBO EZE SOUTH",
+    "ward_name": "ITCHI/UWANI II",
     "document": {
       "external": true,
       "status": 1,
@@ -426,6 +434,7 @@
     "pu_code_string": "140910007",
     "state_name": "ENUGU",
     "lga_name": "IGBO EZE SOUTH",
+    "ward_name": "ITCHI/UWANI II",
     "old_documents": [],
     "has_old_documents": false
   }

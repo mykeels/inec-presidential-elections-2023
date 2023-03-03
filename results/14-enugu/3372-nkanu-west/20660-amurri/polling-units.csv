@@ -1,21 +1,21 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,NKANU WEST,,OBODO OKOLO CHUKWU VILLAGE SQUARE,14/12/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/014/014-1677427032.pdf,false
-ENUGU,NKANU WEST,,COMMUNITY CENTRAL SCHOOL UMUIGBO,14/12/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/005/005-1677426448.pdf,false
-ENUGU,NKANU WEST,,UMUIGBO VILLAGE HALL,14/12/02/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/020/020-1677426100.pdf,false
-ENUGU,NKANU WEST,,OBINAGU EZIOKWE VILLAGE SQUARE,14/12/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/013/013-1677425751.pdf,false
-ENUGU,NKANU WEST,,PRIMARY SCHOOL OBEAGU,14/12/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/004/004-1677425388.pdf,false
-ENUGU,NKANU WEST,,OBODO OJIRI VILLAGE SQUARE II,14/12/02/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/019/019-1677424984.pdf,false
-ENUGU,NKANU WEST,,COMMUNITY SCHOOL AMANKANU,14/12/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/007/007-1677424690.pdf,false
-ENUGU,NKANU WEST,,NKWO MARKET SQUARE,14/12/02/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/018/018-1677423428.pdf,false
-ENUGU,NKANU WEST,,OBODO OJIRI VILLAGE SQUARE,14/12/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/001/001-1677422933.pdf,false
-ENUGU,NKANU WEST,,COMMUNITY PRIMARY SCHOOL ENUAGU,14/12/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/008/008-1677422185.pdf,false
-ENUGU,NKANU WEST,,UPATA PRIMARY SCHOOL I,14/12/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/009/009-1677421698.pdf,false
-ENUGU,NKANU WEST,,COMMUNITY PRIMARY SCHOOL ENUAGU,14/12/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/016/016-1677421107.pdf,false
-ENUGU,NKANU WEST,,UMUEDUM VILLAGE HALL,14/12/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/010/010-1677417199.pdf,false
-ENUGU,NKANU WEST,,COMMUNITY CENTRAL SCHOL EZIOKWE I,14/12/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/002/002-1677415799.pdf,false
-ENUGU,NKANU WEST,,IHUNGWU VILLAGE SQUARE,14/12/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/011/011-1677413841.pdf,false
-ENUGU,NKANU WEST,,AMACHARA SQUARE,14/12/02/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/017/017-1677412456.pdf,false
-ENUGU,NKANU WEST,,AFFIA NWAKPATA SQUARE,14/12/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/012/012-1677412071.pdf,false
-ENUGU,NKANU WEST,,PRIMARY SCHOOL AMANKANU,14/12/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/006/006-1677411195.pdf,false
-ENUGU,NKANU WEST,,COMMUNITY CENTRAL SCHOL EZIOKWE II,14/12/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/003/003-1677410825.pdf,false
-ENUGU,NKANU WEST,,OBODO IDE UMUAGBU-ENUGU VILLAGE SQUARE,14/12/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/015/015-1677408918.pdf,false
+ENUGU,NKANU WEST,AMURRI,OBODO OKOLO CHUKWU VILLAGE SQUARE,14/12/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/014/014-1677427032.pdf,false
+ENUGU,NKANU WEST,AMURRI,COMMUNITY CENTRAL SCHOOL UMUIGBO,14/12/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/005/005-1677426448.pdf,false
+ENUGU,NKANU WEST,AMURRI,UMUIGBO VILLAGE HALL,14/12/02/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/020/020-1677426100.pdf,false
+ENUGU,NKANU WEST,AMURRI,OBINAGU EZIOKWE VILLAGE SQUARE,14/12/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/013/013-1677425751.pdf,false
+ENUGU,NKANU WEST,AMURRI,PRIMARY SCHOOL OBEAGU,14/12/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/004/004-1677425388.pdf,false
+ENUGU,NKANU WEST,AMURRI,OBODO OJIRI VILLAGE SQUARE II,14/12/02/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/019/019-1677424984.pdf,false
+ENUGU,NKANU WEST,AMURRI,COMMUNITY SCHOOL AMANKANU,14/12/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/007/007-1677424690.pdf,false
+ENUGU,NKANU WEST,AMURRI,NKWO MARKET SQUARE,14/12/02/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/018/018-1677423428.pdf,false
+ENUGU,NKANU WEST,AMURRI,OBODO OJIRI VILLAGE SQUARE,14/12/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/001/001-1677422933.pdf,false
+ENUGU,NKANU WEST,AMURRI,COMMUNITY PRIMARY SCHOOL ENUAGU,14/12/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/008/008-1677422185.pdf,false
+ENUGU,NKANU WEST,AMURRI,UPATA PRIMARY SCHOOL I,14/12/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/009/009-1677421698.pdf,false
+ENUGU,NKANU WEST,AMURRI,COMMUNITY PRIMARY SCHOOL ENUAGU,14/12/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/016/016-1677421107.pdf,false
+ENUGU,NKANU WEST,AMURRI,UMUEDUM VILLAGE HALL,14/12/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/010/010-1677417199.pdf,false
+ENUGU,NKANU WEST,AMURRI,COMMUNITY CENTRAL SCHOL EZIOKWE I,14/12/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/002/002-1677415799.pdf,false
+ENUGU,NKANU WEST,AMURRI,IHUNGWU VILLAGE SQUARE,14/12/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/011/011-1677413841.pdf,false
+ENUGU,NKANU WEST,AMURRI,AMACHARA SQUARE,14/12/02/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/017/017-1677412456.pdf,false
+ENUGU,NKANU WEST,AMURRI,AFFIA NWAKPATA SQUARE,14/12/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/012/012-1677412071.pdf,false
+ENUGU,NKANU WEST,AMURRI,PRIMARY SCHOOL AMANKANU,14/12/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/006/006-1677411195.pdf,false
+ENUGU,NKANU WEST,AMURRI,COMMUNITY CENTRAL SCHOL EZIOKWE II,14/12/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/003/003-1677410825.pdf,false
+ENUGU,NKANU WEST,AMURRI,OBODO IDE UMUAGBU-ENUGU VILLAGE SQUARE,14/12/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/015/015-1677408918.pdf,false

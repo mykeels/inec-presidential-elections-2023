@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,NKANU EAST,,MBAGUZO VILLAGE SQUARE,14/11/14/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/14/pu/007/007-1677384600.pdf,false
-ENUGU,NKANU EAST,,IDODO RIVER PRIMARY SCHOOL,14/11/14/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/14/pu/004/004-1677384251.pdf,false
-ENUGU,NKANU EAST,,AFOR ANYA VILL. SQUARE,14/11/14/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/14/pu/010/010-1677383266.pdf,false
-ENUGU,NKANU EAST,,ONUOBODO ISAIAH NJOM MBULU OWO,14/11/14/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/14/pu/006/006-1677383034.pdf,false
-ENUGU,NKANU EAST,,OGERE OWO TOWN HALL,14/11/14/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/14/pu/011/011-1677382990.pdf,false
-ENUGU,NKANU EAST,,CENTRAL SCHOOL OWO III,14/11/14/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/14/pu/005/005-1677382343.pdf,false
-ENUGU,NKANU EAST,,CENTRAL SCHOOL OWO II,14/11/14/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/14/pu/002/002-1677381938.pdf,false
-ENUGU,NKANU EAST,,AJA OGBO VILL. SQUARE,14/11/14/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/14/pu/009/009-1677381785.pdf,false
-ENUGU,NKANU EAST,,ORIE MBULU OWO,14/11/14/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/14/pu/008/008-1677381937.pdf,false
-ENUGU,NKANU EAST,,CENTRAL SCHOOL OWO I,14/11/14/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/14/pu/001/001-1677381779.pdf,false
-ENUGU,NKANU EAST,,COMMUNITY PRIMARY SCHOOL MBURU OWO,14/11/14/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/14/pu/003/003-1677381376.pdf,false
+ENUGU,NKANU EAST,OWO,MBAGUZO VILLAGE SQUARE,14/11/14/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/14/pu/007/007-1677384600.pdf,false
+ENUGU,NKANU EAST,OWO,IDODO RIVER PRIMARY SCHOOL,14/11/14/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/14/pu/004/004-1677384251.pdf,false
+ENUGU,NKANU EAST,OWO,AFOR ANYA VILL. SQUARE,14/11/14/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/14/pu/010/010-1677383266.pdf,false
+ENUGU,NKANU EAST,OWO,ONUOBODO ISAIAH NJOM MBULU OWO,14/11/14/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/14/pu/006/006-1677383034.pdf,false
+ENUGU,NKANU EAST,OWO,OGERE OWO TOWN HALL,14/11/14/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/14/pu/011/011-1677382990.pdf,false
+ENUGU,NKANU EAST,OWO,CENTRAL SCHOOL OWO III,14/11/14/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/14/pu/005/005-1677382343.pdf,false
+ENUGU,NKANU EAST,OWO,CENTRAL SCHOOL OWO II,14/11/14/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/14/pu/002/002-1677381938.pdf,false
+ENUGU,NKANU EAST,OWO,AJA OGBO VILL. SQUARE,14/11/14/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/14/pu/009/009-1677381785.pdf,false
+ENUGU,NKANU EAST,OWO,ORIE MBULU OWO,14/11/14/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/14/pu/008/008-1677381937.pdf,false
+ENUGU,NKANU EAST,OWO,CENTRAL SCHOOL OWO I,14/11/14/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/14/pu/001/001-1677381779.pdf,false
+ENUGU,NKANU EAST,OWO,COMMUNITY PRIMARY SCHOOL MBURU OWO,14/11/14/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/14/pu/003/003-1677381376.pdf,false

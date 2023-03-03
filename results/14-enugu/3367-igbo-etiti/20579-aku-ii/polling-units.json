@@ -26,6 +26,7 @@
     "pu_code_string": "140702007",
     "state_name": "ENUGU",
     "lga_name": "IGBO ETITI",
+    "ward_name": "AKU II",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "140702004",
     "state_name": "ENUGU",
     "lga_name": "IGBO ETITI",
+    "ward_name": "AKU II",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "140702005",
     "state_name": "ENUGU",
     "lga_name": "IGBO ETITI",
+    "ward_name": "AKU II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -132,6 +135,7 @@
     "pu_code_string": "140702001",
     "state_name": "ENUGU",
     "lga_name": "IGBO ETITI",
+    "ward_name": "AKU II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -162,6 +166,7 @@
     "pu_code_string": "140702006",
     "state_name": "ENUGU",
     "lga_name": "IGBO ETITI",
+    "ward_name": "AKU II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -192,6 +197,7 @@
     "pu_code_string": "140702002",
     "state_name": "ENUGU",
     "lga_name": "IGBO ETITI",
+    "ward_name": "AKU II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -222,6 +228,7 @@
     "pu_code_string": "140702003",
     "state_name": "ENUGU",
     "lga_name": "IGBO ETITI",
+    "ward_name": "AKU II",
     "old_documents": [],
     "has_old_documents": false
   }

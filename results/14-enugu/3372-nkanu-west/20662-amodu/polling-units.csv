@@ -1,11 +1,11 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,NKANU WEST,,ACHARA ORIE ODENIGBO SQUARE,14/12/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40806/result_159269_1677514453_thumb.jpg,true
-ENUGU,NKANU WEST,,AMODU NIGHT MARKET  SQUARE I,14/12/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40801/result_159264_1677513660_thumb.jpg,true
-ENUGU,NKANU WEST,,IHU-UNO ANI AGU SQUARE,14/12/04/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40807/result_159270_1677514604_thumb.jpg,true
-ENUGU,NKANU WEST,,AMODU ACHALLA TOWN HALL I,14/12/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40802/result_159265_1677513805_thumb.jpg,true
-ENUGU,NKANU WEST,,UNION PRIMARY SCHOOL AMODU I,14/12/04/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40803/result_159266_1677513976_thumb.jpg,true
-ENUGU,NKANU WEST,,UMUOLOME HALL,14/12/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635239/result_159271_1677514781_thumb.jpg,true
-ENUGU,NKANU WEST,,ENUGU-UGBUAKPU SQUARE,14/12/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40805/result_159268_1677514279_thumb.jpg,true
-ENUGU,NKANU WEST,,COMMUNITY SCHOOL AMODU I,14/12/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40799/result_159262_1677512386_thumb.jpg,true
-ENUGU,NKANU WEST,,COMMUNITY SCHOOL AMODU II,14/12/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40800/result_159263_1677513298_thumb.jpg,true
-ENUGU,NKANU WEST,,UNION PRIMARY SCHOOL AMODU II,14/12/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40804/result_159267_1677514144_thumb.jpg,true
+ENUGU,NKANU WEST,AMODU,ACHARA ORIE ODENIGBO SQUARE,14/12/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40806/result_159269_1677514453_thumb.jpg,true
+ENUGU,NKANU WEST,AMODU,AMODU NIGHT MARKET  SQUARE I,14/12/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40801/result_159264_1677513660_thumb.jpg,true
+ENUGU,NKANU WEST,AMODU,IHU-UNO ANI AGU SQUARE,14/12/04/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40807/result_159270_1677514604_thumb.jpg,true
+ENUGU,NKANU WEST,AMODU,AMODU ACHALLA TOWN HALL I,14/12/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40802/result_159265_1677513805_thumb.jpg,true
+ENUGU,NKANU WEST,AMODU,UNION PRIMARY SCHOOL AMODU I,14/12/04/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40803/result_159266_1677513976_thumb.jpg,true
+ENUGU,NKANU WEST,AMODU,UMUOLOME HALL,14/12/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635239/result_159271_1677514781_thumb.jpg,true
+ENUGU,NKANU WEST,AMODU,ENUGU-UGBUAKPU SQUARE,14/12/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40805/result_159268_1677514279_thumb.jpg,true
+ENUGU,NKANU WEST,AMODU,COMMUNITY SCHOOL AMODU I,14/12/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40799/result_159262_1677512386_thumb.jpg,true
+ENUGU,NKANU WEST,AMODU,COMMUNITY SCHOOL AMODU II,14/12/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40800/result_159263_1677513298_thumb.jpg,true
+ENUGU,NKANU WEST,AMODU,UNION PRIMARY SCHOOL AMODU II,14/12/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40804/result_159267_1677514144_thumb.jpg,true

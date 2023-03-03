@@ -1,8 +1,8 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,NKANU EAST,,MBURUBU COURT PREMISES,14/11/13/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/13/pu/004/004-1677394904.pdf,false
-ENUGU,NKANU EAST,,CENTRAL SCHOOL MBUBUBU I,14/11/13/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/13/pu/001/001-1677392660.pdf,false
-ENUGU,NKANU EAST,,OBODO AKPAKA VILLAGE SQUARE,14/11/13/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/13/pu/007/007-1677389323.pdf,false
-ENUGU,NKANU EAST,,OBODO OGBUKE VILLAGE SQUARE,14/11/13/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/13/pu/006/006-1677388238.pdf,false
-ENUGU,NKANU EAST,,OBODO ISI ENYI VILLAGE SQUARE,14/11/13/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/13/pu/005/005-1677384723.pdf,false
-ENUGU,NKANU EAST,,CENTRAL SCHOOL MBUBUBU III,14/11/13/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/13/pu/003/003-1677381601.pdf,false
-ENUGU,NKANU EAST,,CENTRAL SCHOOL MBUBUBU II,14/11/13/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/13/pu/002/002-1677380578.pdf,false
+ENUGU,NKANU EAST,MBURUBU,MBURUBU COURT PREMISES,14/11/13/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/13/pu/004/004-1677394904.pdf,false
+ENUGU,NKANU EAST,MBURUBU,CENTRAL SCHOOL MBUBUBU I,14/11/13/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/13/pu/001/001-1677392660.pdf,false
+ENUGU,NKANU EAST,MBURUBU,OBODO AKPAKA VILLAGE SQUARE,14/11/13/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/13/pu/007/007-1677389323.pdf,false
+ENUGU,NKANU EAST,MBURUBU,OBODO OGBUKE VILLAGE SQUARE,14/11/13/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/13/pu/006/006-1677388238.pdf,false
+ENUGU,NKANU EAST,MBURUBU,OBODO ISI ENYI VILLAGE SQUARE,14/11/13/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/13/pu/005/005-1677384723.pdf,false
+ENUGU,NKANU EAST,MBURUBU,CENTRAL SCHOOL MBUBUBU III,14/11/13/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/13/pu/003/003-1677381601.pdf,false
+ENUGU,NKANU EAST,MBURUBU,CENTRAL SCHOOL MBUBUBU II,14/11/13/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/13/pu/002/002-1677380578.pdf,false

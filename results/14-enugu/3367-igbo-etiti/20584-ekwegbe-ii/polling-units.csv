@@ -1,11 +1,11 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,IGBO ETITI,,AHIA OHURU  MKT SQ AMAONUCHA,14/07/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/009/009-1677384050.pdf,false
-ENUGU,IGBO ETITI,,AMAONUCHA PRIMARY SCHOOL,14/07/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/002/002-1677381367.pdf,false
-ENUGU,IGBO ETITI,,IBEGAMA HALL,14/07/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/005/005-1677380391.pdf,false
-ENUGU,IGBO ETITI,,C.P.S. AGUEKWEGBE II,14/07/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/007/007-1677377529.pdf,false
-ENUGU,IGBO ETITI,,AJUONA HALL/AGURU HALL,14/07/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/001/001-1677374838.pdf,false
-ENUGU,IGBO ETITI,,COMMUNITY  PRIMARY  SCHOOL  AGU EKWEGBE,14/07/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/004/004-1677374497.pdf,false
-ENUGU,IGBO ETITI,,ETITI AMAOBU HALL,14/07/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/006/006-1677372521.pdf,false
-ENUGU,IGBO ETITI,,"COMMUNITY PRIMARY SCHOOL, EKWEGBE II",14/07/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/008/008-1677371358.pdf,false
-ENUGU,IGBO ETITI,,UMUEKE HALL ETITI,14/07/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/010/010-1677370908.pdf,false
-ENUGU,IGBO ETITI,,OGBODU HALL,14/07/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/003/003-1677369214.pdf,false
+ENUGU,IGBO ETITI,EKWEGBE II,AHIA OHURU  MKT SQ AMAONUCHA,14/07/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/009/009-1677384050.pdf,false
+ENUGU,IGBO ETITI,EKWEGBE II,AMAONUCHA PRIMARY SCHOOL,14/07/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/002/002-1677381367.pdf,false
+ENUGU,IGBO ETITI,EKWEGBE II,IBEGAMA HALL,14/07/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/005/005-1677380391.pdf,false
+ENUGU,IGBO ETITI,EKWEGBE II,C.P.S. AGUEKWEGBE II,14/07/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/007/007-1677377529.pdf,false
+ENUGU,IGBO ETITI,EKWEGBE II,AJUONA HALL/AGURU HALL,14/07/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/001/001-1677374838.pdf,false
+ENUGU,IGBO ETITI,EKWEGBE II,COMMUNITY  PRIMARY  SCHOOL  AGU EKWEGBE,14/07/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/004/004-1677374497.pdf,false
+ENUGU,IGBO ETITI,EKWEGBE II,ETITI AMAOBU HALL,14/07/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/006/006-1677372521.pdf,false
+ENUGU,IGBO ETITI,EKWEGBE II,"COMMUNITY PRIMARY SCHOOL, EKWEGBE II",14/07/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/008/008-1677371358.pdf,false
+ENUGU,IGBO ETITI,EKWEGBE II,UMUEKE HALL ETITI,14/07/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/010/010-1677370908.pdf,false
+ENUGU,IGBO ETITI,EKWEGBE II,OGBODU HALL,14/07/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/07/pu/003/003-1677369214.pdf,false

@@ -26,6 +26,7 @@
     "pu_code_string": "140710006",
     "state_name": "ENUGU",
     "lga_name": "IGBO ETITI",
+    "ward_name": "OZALLA I",
     "document": {
       "external": true,
       "status": 1,
@@ -97,6 +98,7 @@
     "pu_code_string": "140710008",
     "state_name": "ENUGU",
     "lga_name": "IGBO ETITI",
+    "ward_name": "OZALLA I",
     "document": {
       "external": true,
       "status": 1,
@@ -144,6 +146,7 @@
     "pu_code_string": "140710007",
     "state_name": "ENUGU",
     "lga_name": "IGBO ETITI",
+    "ward_name": "OZALLA I",
     "document": {
       "external": true,
       "status": 1,
@@ -215,6 +218,7 @@
     "pu_code_string": "140710010",
     "state_name": "ENUGU",
     "lga_name": "IGBO ETITI",
+    "ward_name": "OZALLA I",
     "document": {
       "external": true,
       "status": 1,
@@ -262,6 +266,7 @@
     "pu_code_string": "140710004",
     "state_name": "ENUGU",
     "lga_name": "IGBO ETITI",
+    "ward_name": "OZALLA I",
     "document": {
       "external": false,
       "status": 1,
@@ -300,6 +305,7 @@
     "pu_code_string": "140710003",
     "state_name": "ENUGU",
     "lga_name": "IGBO ETITI",
+    "ward_name": "OZALLA I",
     "document": {
       "external": false,
       "status": 1,
@@ -338,6 +344,7 @@
     "pu_code_string": "140710002",
     "state_name": "ENUGU",
     "lga_name": "IGBO ETITI",
+    "ward_name": "OZALLA I",
     "document": {
       "external": false,
       "status": 1,
@@ -376,6 +383,7 @@
     "pu_code_string": "140710001",
     "state_name": "ENUGU",
     "lga_name": "IGBO ETITI",
+    "ward_name": "OZALLA I",
     "document": {
       "external": false,
       "status": 1,
@@ -414,6 +422,7 @@
     "pu_code_string": "140710011",
     "state_name": "ENUGU",
     "lga_name": "IGBO ETITI",
+    "ward_name": "OZALLA I",
     "document": {
       "external": false,
       "status": 1,
@@ -452,6 +461,7 @@
     "pu_code_string": "140710005",
     "state_name": "ENUGU",
     "lga_name": "IGBO ETITI",
+    "ward_name": "OZALLA I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -482,6 +492,7 @@
     "pu_code_string": "140710009",
     "state_name": "ENUGU",
     "lga_name": "IGBO ETITI",
+    "ward_name": "OZALLA I",
     "old_documents": [],
     "has_old_documents": false
   }

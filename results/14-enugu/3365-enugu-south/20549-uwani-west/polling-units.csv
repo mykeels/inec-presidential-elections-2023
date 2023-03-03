@@ -1,27 +1,27 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,ENUGU SOUTH,,ROBINSON STREET PRIMARY SCHOOL II,14/05/05/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39731/result_157827_1677502394_thumb.jpg,true
-ENUGU,ENUGU SOUTH,,NIGER CLOSE PRI SCH V,14/05/05/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634942/result_157840_1677504781_thumb.jpg,true
-ENUGU,ENUGU SOUTH,,ROBINSON STREET PRIMARY SCHOOL III,14/05/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39732/result_157828_1677502472_thumb.jpg,true
-ENUGU,ENUGU SOUTH,,UWANI SECONDARY SCHOOL IV,14/05/05/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39726/result_157822_1677501538_thumb.jpg,true
-ENUGU,ENUGU SOUTH,,ADELABU STR JUNCTION II BY KENYETTA MARKET,14/05/05/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634944/result_157842_1677505007_thumb.jpg,true
-ENUGU,ENUGU SOUTH,,ROBINNSON STR PRI SCH VI,14/05/05/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634940/result_157838_1677504297_thumb.jpg,true
-ENUGU,ENUGU SOUTH,,CHESHIRE HOME III,14/05/05/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39735/result_157831_1677503503_thumb.jpg,true
-ENUGU,ENUGU SOUTH,,CHESHIRE HOME IV,14/05/05/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39736/result_157832_1677503795_thumb.jpg,true
-ENUGU,ENUGU SOUTH,,NIGER CLOSE PRI SCH IV,14/05/05/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634941/result_157839_1677504421_thumb.jpg,true
-ENUGU,ENUGU SOUTH,,UWANI SECONDARY SCHOOL II,14/05/05/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39724/result_157820_1677500933_thumb.jpg,true
-ENUGU,ENUGU SOUTH,,ROBINSON STREET PRIMARY SCHOOL V,14/05/05/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39740/result_157836_1677504158_thumb.jpg,true
-ENUGU,ENUGU SOUTH,,ADELABU STR JUNCTION I BY KENYETTA MARKET,14/05/05/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634943/result_157841_1677504912_thumb.jpg,true
-ENUGU,ENUGU SOUTH,,CHESHIRE HOME II,14/05/05/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39734/result_157830_1677503304_thumb.jpg,true
-ENUGU,ENUGU SOUTH,,CHESHIRE HOME V,14/05/05/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39737/result_157833_1677503891_thumb.jpg,true
-ENUGU,ENUGU SOUTH,,ROBINSON STREET PRIMARY SCHOOL IV,14/05/05/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39739/result_157835_1677504028_thumb.jpg,true
-ENUGU,ENUGU SOUTH,,ROBINSON STREET PRIMARY SCHOOL I,14/05/05/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39730/result_157826_1677501923_thumb.jpg,true
-ENUGU,ENUGU SOUTH,,NIGER CLOSE PRIMARY SCHOOL II,14/05/05/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39728/result_157824_1677501718_thumb.jpg,true
-ENUGU,ENUGU SOUTH,,UWANI SEC SCH V,14/05/05/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634939/result_157837_1677570700_thumb.jpg,false
-ENUGU,ENUGU SOUTH,,CHESHIRE HOME I,14/05/05/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39733/result_157829_1677570556_thumb.jpg,false
-ENUGU,ENUGU SOUTH,,UWANI SECONDARY SCHOOL III,14/05/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39725/result_157821_1677570365_thumb.jpg,false
-ENUGU,ENUGU SOUTH,,UWANI MEDICAL CENTRE I,14/05/05/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634945/result_157843_1677570772_thumb.jpg,false
-ENUGU,ENUGU SOUTH,,UWANI SECONDARY SCHOOL I,14/05/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39723/result_157819_1677570295_thumb.jpg,false
-ENUGU,ENUGU SOUTH,,NIGER CLOSE PRIMARY SCHOOL I,14/05/05/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39727/result_157823_1677570429_thumb.jpg,false
-ENUGU,ENUGU SOUTH,,UWANI MEDICAL CENTRE II,14/05/05/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634946/result_157844_1677570827_thumb.jpg,false
-ENUGU,ENUGU SOUTH,,CHESHIRE HOME VI,14/05/05/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39738/result_157834_1677570628_thumb.jpg,false
-ENUGU,ENUGU SOUTH,,NIGER CLOSE PRIMARY SCHOOL III,14/05/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39729/result_157825_1677570481_thumb.jpg,false
+ENUGU,ENUGU SOUTH,UWANI WEST,ROBINSON STREET PRIMARY SCHOOL II,14/05/05/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39731/result_157827_1677502394_thumb.jpg,true
+ENUGU,ENUGU SOUTH,UWANI WEST,NIGER CLOSE PRI SCH V,14/05/05/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634942/result_157840_1677504781_thumb.jpg,true
+ENUGU,ENUGU SOUTH,UWANI WEST,ROBINSON STREET PRIMARY SCHOOL III,14/05/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39732/result_157828_1677502472_thumb.jpg,true
+ENUGU,ENUGU SOUTH,UWANI WEST,UWANI SECONDARY SCHOOL IV,14/05/05/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39726/result_157822_1677501538_thumb.jpg,true
+ENUGU,ENUGU SOUTH,UWANI WEST,ADELABU STR JUNCTION II BY KENYETTA MARKET,14/05/05/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634944/result_157842_1677505007_thumb.jpg,true
+ENUGU,ENUGU SOUTH,UWANI WEST,ROBINNSON STR PRI SCH VI,14/05/05/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634940/result_157838_1677504297_thumb.jpg,true
+ENUGU,ENUGU SOUTH,UWANI WEST,CHESHIRE HOME III,14/05/05/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39735/result_157831_1677503503_thumb.jpg,true
+ENUGU,ENUGU SOUTH,UWANI WEST,CHESHIRE HOME IV,14/05/05/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39736/result_157832_1677503795_thumb.jpg,true
+ENUGU,ENUGU SOUTH,UWANI WEST,NIGER CLOSE PRI SCH IV,14/05/05/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634941/result_157839_1677504421_thumb.jpg,true
+ENUGU,ENUGU SOUTH,UWANI WEST,UWANI SECONDARY SCHOOL II,14/05/05/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39724/result_157820_1677500933_thumb.jpg,true
+ENUGU,ENUGU SOUTH,UWANI WEST,ROBINSON STREET PRIMARY SCHOOL V,14/05/05/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39740/result_157836_1677504158_thumb.jpg,true
+ENUGU,ENUGU SOUTH,UWANI WEST,ADELABU STR JUNCTION I BY KENYETTA MARKET,14/05/05/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634943/result_157841_1677504912_thumb.jpg,true
+ENUGU,ENUGU SOUTH,UWANI WEST,CHESHIRE HOME II,14/05/05/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39734/result_157830_1677503304_thumb.jpg,true
+ENUGU,ENUGU SOUTH,UWANI WEST,CHESHIRE HOME V,14/05/05/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39737/result_157833_1677503891_thumb.jpg,true
+ENUGU,ENUGU SOUTH,UWANI WEST,ROBINSON STREET PRIMARY SCHOOL IV,14/05/05/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39739/result_157835_1677504028_thumb.jpg,true
+ENUGU,ENUGU SOUTH,UWANI WEST,ROBINSON STREET PRIMARY SCHOOL I,14/05/05/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39730/result_157826_1677501923_thumb.jpg,true
+ENUGU,ENUGU SOUTH,UWANI WEST,NIGER CLOSE PRIMARY SCHOOL II,14/05/05/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39728/result_157824_1677501718_thumb.jpg,true
+ENUGU,ENUGU SOUTH,UWANI WEST,UWANI SEC SCH V,14/05/05/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634939/result_157837_1677570700_thumb.jpg,false
+ENUGU,ENUGU SOUTH,UWANI WEST,CHESHIRE HOME I,14/05/05/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39733/result_157829_1677570556_thumb.jpg,false
+ENUGU,ENUGU SOUTH,UWANI WEST,UWANI SECONDARY SCHOOL III,14/05/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39725/result_157821_1677570365_thumb.jpg,false
+ENUGU,ENUGU SOUTH,UWANI WEST,UWANI MEDICAL CENTRE I,14/05/05/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634945/result_157843_1677570772_thumb.jpg,false
+ENUGU,ENUGU SOUTH,UWANI WEST,UWANI SECONDARY SCHOOL I,14/05/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39723/result_157819_1677570295_thumb.jpg,false
+ENUGU,ENUGU SOUTH,UWANI WEST,NIGER CLOSE PRIMARY SCHOOL I,14/05/05/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39727/result_157823_1677570429_thumb.jpg,false
+ENUGU,ENUGU SOUTH,UWANI WEST,UWANI MEDICAL CENTRE II,14/05/05/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634946/result_157844_1677570827_thumb.jpg,false
+ENUGU,ENUGU SOUTH,UWANI WEST,CHESHIRE HOME VI,14/05/05/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39738/result_157834_1677570628_thumb.jpg,false
+ENUGU,ENUGU SOUTH,UWANI WEST,NIGER CLOSE PRIMARY SCHOOL III,14/05/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39729/result_157825_1677570481_thumb.jpg,false

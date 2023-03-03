@@ -26,6 +26,7 @@
     "pu_code_string": "140813008",
     "state_name": "ENUGU",
     "lga_name": "IGBO EZE NORTH",
+    "ward_name": "UMUOZZI III",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "140813010",
     "state_name": "ENUGU",
     "lga_name": "IGBO EZE NORTH",
+    "ward_name": "UMUOZZI III",
     "document": {
       "external": true,
       "status": 1,
@@ -119,6 +121,7 @@
     "pu_code_string": "140813011",
     "state_name": "ENUGU",
     "lga_name": "IGBO EZE NORTH",
+    "ward_name": "UMUOZZI III",
     "document": {
       "external": true,
       "status": 1,
@@ -174,6 +177,7 @@
     "pu_code_string": "140813002",
     "state_name": "ENUGU",
     "lga_name": "IGBO EZE NORTH",
+    "ward_name": "UMUOZZI III",
     "document": {
       "external": true,
       "status": 1,
@@ -229,6 +233,7 @@
     "pu_code_string": "140813007",
     "state_name": "ENUGU",
     "lga_name": "IGBO EZE NORTH",
+    "ward_name": "UMUOZZI III",
     "document": {
       "external": true,
       "status": 1,
@@ -284,6 +289,7 @@
     "pu_code_string": "140813009",
     "state_name": "ENUGU",
     "lga_name": "IGBO EZE NORTH",
+    "ward_name": "UMUOZZI III",
     "document": {
       "external": true,
       "status": 1,
@@ -339,6 +345,7 @@
     "pu_code_string": "140813004",
     "state_name": "ENUGU",
     "lga_name": "IGBO EZE NORTH",
+    "ward_name": "UMUOZZI III",
     "document": {
       "external": true,
       "status": 1,
@@ -394,6 +401,7 @@
     "pu_code_string": "140813005",
     "state_name": "ENUGU",
     "lga_name": "IGBO EZE NORTH",
+    "ward_name": "UMUOZZI III",
     "document": {
       "external": true,
       "status": 1,
@@ -449,6 +457,7 @@
     "pu_code_string": "140813014",
     "state_name": "ENUGU",
     "lga_name": "IGBO EZE NORTH",
+    "ward_name": "UMUOZZI III",
     "document": {
       "external": true,
       "status": 1,
@@ -504,6 +513,7 @@
     "pu_code_string": "140813003",
     "state_name": "ENUGU",
     "lga_name": "IGBO EZE NORTH",
+    "ward_name": "UMUOZZI III",
     "document": {
       "external": true,
       "status": 1,
@@ -559,6 +569,7 @@
     "pu_code_string": "140813012",
     "state_name": "ENUGU",
     "lga_name": "IGBO EZE NORTH",
+    "ward_name": "UMUOZZI III",
     "document": {
       "external": true,
       "status": 1,
@@ -614,6 +625,7 @@
     "pu_code_string": "140813001",
     "state_name": "ENUGU",
     "lga_name": "IGBO EZE NORTH",
+    "ward_name": "UMUOZZI III",
     "document": {
       "external": true,
       "status": 1,
@@ -685,6 +697,7 @@
     "pu_code_string": "140813006",
     "state_name": "ENUGU",
     "lga_name": "IGBO EZE NORTH",
+    "ward_name": "UMUOZZI III",
     "document": {
       "external": true,
       "status": 1,
@@ -756,6 +769,7 @@
     "pu_code_string": "140813013",
     "state_name": "ENUGU",
     "lga_name": "IGBO EZE NORTH",
+    "ward_name": "UMUOZZI III",
     "old_documents": [],
     "has_old_documents": false
   }

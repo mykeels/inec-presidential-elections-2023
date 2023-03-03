@@ -1,10 +1,10 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,NKANU EAST,,PRIMARY SCHOOL NOMEH,14/11/12/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/12/pu/003/003-1677384316.pdf,false
-ENUGU,NKANU EAST,,C.P.S. NOMEH I,14/11/12/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/12/pu/002/002-1677384020.pdf,false
-ENUGU,NKANU EAST,,C.P.S. NOMEH II,14/11/12/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/12/pu/006/006-1677383754.pdf,false
-ENUGU,NKANU EAST,,UNION TOWN SCHOOL NOMEH I,14/11/12/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/12/pu/004/004-1677382344.pdf,false
-ENUGU,NKANU EAST,,UNION TOWN SCHOOL NOMEH II,14/11/12/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/12/pu/005/005-1677381940.pdf,false
-ENUGU,NKANU EAST,,DONUEDE PRIMARY SCHOOL AMIGBO NOMEH,14/11/12/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/12/pu/001/001-1677381171.pdf,false
-ENUGU,NKANU EAST,,UHUAFOR NOMEH I,14/11/12/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/12/pu/007/007-1677380593.pdf,false
-ENUGU,NKANU EAST,,UHUAFO NOMEH II,14/11/12/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/12/pu/008/008-1677380290.pdf,false
-ENUGU,NKANU EAST,,OBODO UKWUACHI AMAGU,14/11/12/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/12/pu/009/009-1677379086.pdf,false
+ENUGU,NKANU EAST,NOMEH,PRIMARY SCHOOL NOMEH,14/11/12/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/12/pu/003/003-1677384316.pdf,false
+ENUGU,NKANU EAST,NOMEH,C.P.S. NOMEH I,14/11/12/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/12/pu/002/002-1677384020.pdf,false
+ENUGU,NKANU EAST,NOMEH,C.P.S. NOMEH II,14/11/12/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/12/pu/006/006-1677383754.pdf,false
+ENUGU,NKANU EAST,NOMEH,UNION TOWN SCHOOL NOMEH I,14/11/12/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/12/pu/004/004-1677382344.pdf,false
+ENUGU,NKANU EAST,NOMEH,UNION TOWN SCHOOL NOMEH II,14/11/12/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/12/pu/005/005-1677381940.pdf,false
+ENUGU,NKANU EAST,NOMEH,DONUEDE PRIMARY SCHOOL AMIGBO NOMEH,14/11/12/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/12/pu/001/001-1677381171.pdf,false
+ENUGU,NKANU EAST,NOMEH,UHUAFOR NOMEH I,14/11/12/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/12/pu/007/007-1677380593.pdf,false
+ENUGU,NKANU EAST,NOMEH,UHUAFO NOMEH II,14/11/12/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/12/pu/008/008-1677380290.pdf,false
+ENUGU,NKANU EAST,NOMEH,OBODO UKWUACHI AMAGU,14/11/12/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/12/pu/009/009-1677379086.pdf,false

@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,AWGU,,OBODO ANIUNO SQUARE,14/02/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39089/result_156794_1677497852_thumb.jpg,true
-ENUGU,AWGU,,OBEAGU ROAD JUNCTION II,14/02/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39081/result_156786_1677498145_thumb.jpg,true
-ENUGU,AWGU,,OBODO AGWU,14/02/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39086/result_156791_1677495370_thumb.jpg,true
-ENUGU,AWGU,,ODUDO AMOJI SQUARE,14/02/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20514/pu/39100/39100-1677598199.pdf,false
-ENUGU,AWGU,,EBEOKPU  SQUARE,14/02/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20514/pu/39093/39093-1677597859.pdf,true
-ENUGU,AWGU,,OBODO AKPAKA EBENEBE SQUARE,14/02/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20514/pu/39101/39101-1677597675.pdf,false
-ENUGU,AWGU,,UHUEZE SQUARE,14/02/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20514/pu/39097/39097-1677597385.pdf,false
-ENUGU,AWGU,,AFOR MARKET SQUARE,14/02/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20514/pu/39098/39098-1677597010.pdf,true
-ENUGU,AWGU,,BINI HOUSE,14/02/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20514/pu/39095/39095-1677596554.pdf,false
-ENUGU,AWGU,,UGWUEFI   SQUARE,14/02/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20514/pu/39094/39094-1677596122.pdf,false
-ENUGU,AWGU,,OBEAGU ROAD JUNCTION I,14/02/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20514/pu/39090/39090-1677595503.pdf,true
-ENUGU,AWGU,,OPIGWE SQUARE,14/02/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/003/003-1677364115.pdf,false
+ENUGU,AWGU,OBEAGU,OBODO ANIUNO SQUARE,14/02/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39089/result_156794_1677497852_thumb.jpg,true
+ENUGU,AWGU,OBEAGU,OBEAGU ROAD JUNCTION II,14/02/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39081/result_156786_1677498145_thumb.jpg,true
+ENUGU,AWGU,OBEAGU,OBODO AGWU,14/02/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39086/result_156791_1677495370_thumb.jpg,true
+ENUGU,AWGU,OBEAGU,ODUDO AMOJI SQUARE,14/02/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20514/pu/39100/39100-1677598199.pdf,false
+ENUGU,AWGU,OBEAGU,EBEOKPU  SQUARE,14/02/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20514/pu/39093/39093-1677597859.pdf,true
+ENUGU,AWGU,OBEAGU,OBODO AKPAKA EBENEBE SQUARE,14/02/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20514/pu/39101/39101-1677597675.pdf,false
+ENUGU,AWGU,OBEAGU,UHUEZE SQUARE,14/02/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20514/pu/39097/39097-1677597385.pdf,false
+ENUGU,AWGU,OBEAGU,AFOR MARKET SQUARE,14/02/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20514/pu/39098/39098-1677597010.pdf,true
+ENUGU,AWGU,OBEAGU,BINI HOUSE,14/02/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20514/pu/39095/39095-1677596554.pdf,false
+ENUGU,AWGU,OBEAGU,UGWUEFI   SQUARE,14/02/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20514/pu/39094/39094-1677596122.pdf,false
+ENUGU,AWGU,OBEAGU,OBEAGU ROAD JUNCTION I,14/02/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20514/pu/39090/39090-1677595503.pdf,true
+ENUGU,AWGU,OBEAGU,OPIGWE SQUARE,14/02/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/003/003-1677364115.pdf,false

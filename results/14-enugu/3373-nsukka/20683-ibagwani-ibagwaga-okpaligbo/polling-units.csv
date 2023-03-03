@@ -1,21 +1,21 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,NSUKKA,,OTOBO UZOANYINYA UGWU HALL,14/13/11/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635287/result_159591_1677598940_thumb.jpg,false
-ENUGU,NSUKKA,,OTOBO ISHUGWU HALL,14/13/11/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635286/result_159590_1677598641_thumb.jpg,false
-ENUGU,NSUKKA,,IBAGWANI-SOCIAL CLUB HALL,14/13/11/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635285/result_159589_1677598179_thumb.jpg,false
-ENUGU,NSUKKA,,A.Y.A HALL AKUMA,14/13/11/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635284/result_159588_1677598088_thumb.jpg,false
-ENUGU,NSUKKA,,OTOBO AMAHO HALL,14/13/11/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635283/result_159587_1677597618_thumb.jpg,false
-ENUGU,NSUKKA,,UNION PRI. SCH. IBAGWA ANI,14/13/11/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635282/result_159586_1677596918_thumb.jpg,false
-ENUGU,NSUKKA,,OTOBO UMUAKPO,14/13/11/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41072/result_159585_1677596819_thumb.jpg,false
-ENUGU,NSUKKA,,COMMUNITY PRIMARY SCHOOL OTOBOLLO,14/13/11/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41071/result_159584_1677596663_thumb.jpg,false
-ENUGU,NSUKKA,,COMMUNITY PRIMARY SCHOOL OBIETTE,14/13/11/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41070/result_159583_1677596345_thumb.jpg,false
-ENUGU,NSUKKA,,COMMUNITY PRIMARY SCHOOL IBAGWANI IV,14/13/11/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41069/result_159582_1677596216_thumb.jpg,false
-ENUGU,NSUKKA,,COMMUNITY PRIMARY SCHOOL IBAGWANI III,14/13/11/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41068/result_159581_1677595693_thumb.jpg,false
-ENUGU,NSUKKA,,COMMUNITY SCHOOL OKPALIGBO II,14/13/11/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41067/result_159580_1677595382_thumb.jpg,false
-ENUGU,NSUKKA,,COMMUNITY SCHOOL OKPALIGBO I,14/13/11/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-ENUGU,NSUKKA,,OTOBO AMIGBO,14/13/11/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41065/result_159578_1677594692_thumb.jpg,false
-ENUGU,NSUKKA,,COMMUNITY PRIMARY SCHOOL IBAGWANI II,14/13/11/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41064/result_159577_1677594603_thumb.jpg,false
-ENUGU,NSUKKA,,COMMUNITY PRIMARY SCHOOL IBAGWANI I,14/13/11/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41063/result_159576_1677594383_thumb.jpg,false
-ENUGU,NSUKKA,,OTOBO ONUEZE,14/13/11/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41062/result_159575_1677594154_thumb.jpg,false
-ENUGU,NSUKKA,,UMUASADU AZUMAKPO,14/13/11/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41061/result_159574_1677594065_thumb.jpg,false
-ENUGU,NSUKKA,,OTOBO UMUEZIKOLI,14/13/11/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-ENUGU,NSUKKA,,HEALTH CENTRE IBAGWANI,14/13/11/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41059/result_159572_1677592924_thumb.jpg,false
+ENUGU,NSUKKA,IBAGWANI/IBAGWAGA OKPALIGBO,OTOBO UZOANYINYA UGWU HALL,14/13/11/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635287/result_159591_1677598940_thumb.jpg,false
+ENUGU,NSUKKA,IBAGWANI/IBAGWAGA OKPALIGBO,OTOBO ISHUGWU HALL,14/13/11/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635286/result_159590_1677598641_thumb.jpg,false
+ENUGU,NSUKKA,IBAGWANI/IBAGWAGA OKPALIGBO,IBAGWANI-SOCIAL CLUB HALL,14/13/11/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635285/result_159589_1677598179_thumb.jpg,false
+ENUGU,NSUKKA,IBAGWANI/IBAGWAGA OKPALIGBO,A.Y.A HALL AKUMA,14/13/11/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635284/result_159588_1677598088_thumb.jpg,false
+ENUGU,NSUKKA,IBAGWANI/IBAGWAGA OKPALIGBO,OTOBO AMAHO HALL,14/13/11/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635283/result_159587_1677597618_thumb.jpg,false
+ENUGU,NSUKKA,IBAGWANI/IBAGWAGA OKPALIGBO,UNION PRI. SCH. IBAGWA ANI,14/13/11/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635282/result_159586_1677596918_thumb.jpg,false
+ENUGU,NSUKKA,IBAGWANI/IBAGWAGA OKPALIGBO,OTOBO UMUAKPO,14/13/11/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41072/result_159585_1677596819_thumb.jpg,false
+ENUGU,NSUKKA,IBAGWANI/IBAGWAGA OKPALIGBO,COMMUNITY PRIMARY SCHOOL OTOBOLLO,14/13/11/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41071/result_159584_1677596663_thumb.jpg,false
+ENUGU,NSUKKA,IBAGWANI/IBAGWAGA OKPALIGBO,COMMUNITY PRIMARY SCHOOL OBIETTE,14/13/11/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41070/result_159583_1677596345_thumb.jpg,false
+ENUGU,NSUKKA,IBAGWANI/IBAGWAGA OKPALIGBO,COMMUNITY PRIMARY SCHOOL IBAGWANI IV,14/13/11/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41069/result_159582_1677596216_thumb.jpg,false
+ENUGU,NSUKKA,IBAGWANI/IBAGWAGA OKPALIGBO,COMMUNITY PRIMARY SCHOOL IBAGWANI III,14/13/11/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41068/result_159581_1677595693_thumb.jpg,false
+ENUGU,NSUKKA,IBAGWANI/IBAGWAGA OKPALIGBO,COMMUNITY SCHOOL OKPALIGBO II,14/13/11/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41067/result_159580_1677595382_thumb.jpg,false
+ENUGU,NSUKKA,IBAGWANI/IBAGWAGA OKPALIGBO,COMMUNITY SCHOOL OKPALIGBO I,14/13/11/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+ENUGU,NSUKKA,IBAGWANI/IBAGWAGA OKPALIGBO,OTOBO AMIGBO,14/13/11/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41065/result_159578_1677594692_thumb.jpg,false
+ENUGU,NSUKKA,IBAGWANI/IBAGWAGA OKPALIGBO,COMMUNITY PRIMARY SCHOOL IBAGWANI II,14/13/11/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41064/result_159577_1677594603_thumb.jpg,false
+ENUGU,NSUKKA,IBAGWANI/IBAGWAGA OKPALIGBO,COMMUNITY PRIMARY SCHOOL IBAGWANI I,14/13/11/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41063/result_159576_1677594383_thumb.jpg,false
+ENUGU,NSUKKA,IBAGWANI/IBAGWAGA OKPALIGBO,OTOBO ONUEZE,14/13/11/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41062/result_159575_1677594154_thumb.jpg,false
+ENUGU,NSUKKA,IBAGWANI/IBAGWAGA OKPALIGBO,UMUASADU AZUMAKPO,14/13/11/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41061/result_159574_1677594065_thumb.jpg,false
+ENUGU,NSUKKA,IBAGWANI/IBAGWAGA OKPALIGBO,OTOBO UMUEZIKOLI,14/13/11/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+ENUGU,NSUKKA,IBAGWANI/IBAGWAGA OKPALIGBO,HEALTH CENTRE IBAGWANI,14/13/11/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41059/result_159572_1677592924_thumb.jpg,false

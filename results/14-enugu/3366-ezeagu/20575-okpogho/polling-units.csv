@@ -1,6 +1,6 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,EZEAGU,,UKWUAGBA VILLAGE SQUARE,14/06/18/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20575/pu/39994/39994-1677614279.pdf,true
-ENUGU,EZEAGU,,C.P.S. OKPOGHO OKUBE,14/06/18/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20575/pu/39993/39993-1677614122.pdf,false
-ENUGU,EZEAGU,,OBUAGU SQUARE II,14/06/18/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20575/pu/39992/39992-1677613932.pdf,false
-ENUGU,EZEAGU,,OBUAGU SQUARE I,14/06/18/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20575/pu/39991/39991-1677613768.pdf,true
-ENUGU,EZEAGU,,C.P.S. OKPOGHO MBUTA,14/06/18/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20575/pu/39990/39990-1677613468.pdf,false
+ENUGU,EZEAGU,OKPOGHO,UKWUAGBA VILLAGE SQUARE,14/06/18/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20575/pu/39994/39994-1677614279.pdf,true
+ENUGU,EZEAGU,OKPOGHO,C.P.S. OKPOGHO OKUBE,14/06/18/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20575/pu/39993/39993-1677614122.pdf,false
+ENUGU,EZEAGU,OKPOGHO,OBUAGU SQUARE II,14/06/18/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20575/pu/39992/39992-1677613932.pdf,false
+ENUGU,EZEAGU,OKPOGHO,OBUAGU SQUARE I,14/06/18/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20575/pu/39991/39991-1677613768.pdf,true
+ENUGU,EZEAGU,OKPOGHO,C.P.S. OKPOGHO MBUTA,14/06/18/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20575/pu/39990/39990-1677613468.pdf,false

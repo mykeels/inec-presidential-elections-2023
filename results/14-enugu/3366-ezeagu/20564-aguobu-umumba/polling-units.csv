@@ -1,9 +1,9 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,EZEAGU,,IDUME AGUOBU VILLAGE SQUARE,14/06/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20564/pu/39915/39915-1677601487.pdf,false
-ENUGU,EZEAGU,,C.P.S. UMUMBA NDIAGU III,14/06/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20564/pu/39914/39914-1677601399.pdf,false
-ENUGU,EZEAGU,,COMMUNITY PRIMARY  SCHOOL  UMUMBA NDIAGU EXT.,14/06/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20564/pu/39913/39913-1677601319.pdf,true
-ENUGU,EZEAGU,,COMMUNITY PRIMARY  SCHOOL  UMUMBA NDIAGU II,14/06/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20564/pu/39912/39912-1677601222.pdf,true
-ENUGU,EZEAGU,,COMMUNITY  PRIMARY  SCHOOL  UMUMBA NDIAGU I,14/06/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20564/pu/39911/39911-1677601117.pdf,false
-ENUGU,EZEAGU,,I.P.S. AZUNGENE,14/06/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20564/pu/39910/39910-1677600856.pdf,true
-ENUGU,EZEAGU,,COMMUNITY PRIMARY  SCHOOL  AGUOBU-UMUBA II,14/06/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20564/pu/39909/39909-1677600636.pdf,false
-ENUGU,EZEAGU,,CENTRAL  SCHOOL  AGUOBU-UMUBA I,14/06/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20564/pu/39908/39908-1677599638.pdf,false
+ENUGU,EZEAGU,AGUOBU (UMUMBA),IDUME AGUOBU VILLAGE SQUARE,14/06/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20564/pu/39915/39915-1677601487.pdf,false
+ENUGU,EZEAGU,AGUOBU (UMUMBA),C.P.S. UMUMBA NDIAGU III,14/06/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20564/pu/39914/39914-1677601399.pdf,false
+ENUGU,EZEAGU,AGUOBU (UMUMBA),COMMUNITY PRIMARY  SCHOOL  UMUMBA NDIAGU EXT.,14/06/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20564/pu/39913/39913-1677601319.pdf,true
+ENUGU,EZEAGU,AGUOBU (UMUMBA),COMMUNITY PRIMARY  SCHOOL  UMUMBA NDIAGU II,14/06/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20564/pu/39912/39912-1677601222.pdf,true
+ENUGU,EZEAGU,AGUOBU (UMUMBA),COMMUNITY  PRIMARY  SCHOOL  UMUMBA NDIAGU I,14/06/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20564/pu/39911/39911-1677601117.pdf,false
+ENUGU,EZEAGU,AGUOBU (UMUMBA),I.P.S. AZUNGENE,14/06/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20564/pu/39910/39910-1677600856.pdf,true
+ENUGU,EZEAGU,AGUOBU (UMUMBA),COMMUNITY PRIMARY  SCHOOL  AGUOBU-UMUBA II,14/06/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20564/pu/39909/39909-1677600636.pdf,false
+ENUGU,EZEAGU,AGUOBU (UMUMBA),CENTRAL  SCHOOL  AGUOBU-UMUBA I,14/06/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20564/pu/39908/39908-1677599638.pdf,false

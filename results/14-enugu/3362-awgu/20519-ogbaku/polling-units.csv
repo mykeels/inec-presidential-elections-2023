@@ -1,15 +1,15 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,AWGU,,"ODUME TOWN HALL EXIAMA, OGBAKU",14/02/11/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20519/pu/141500/141500-1677630365.pdf,true
-ENUGU,AWGU,,CENT. SCH. OGBAKU III,14/02/11/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20519/pu/39219/39219-1677629832.pdf,true
-ENUGU,AWGU,,MBIO PRIMARY SCHOOL II,14/02/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20519/pu/39218/39218-1677629664.pdf,true
-ENUGU,AWGU,,NWAUGBA (UNAPPROVED SEC. SHOOL),14/02/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20519/pu/39217/39217-1677619572.pdf,true
-ENUGU,AWGU,,CENTRAL SCHOOL OGBAKU II,14/02/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20519/pu/39216/39216-1677616017.pdf,false
-ENUGU,AWGU,,CENTRAL SCHOOL OGBAKU I,14/02/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20519/pu/39215/39215-1677614966.pdf,false
-ENUGU,AWGU,,OBODO NGENE UKWU (AWTOR),14/02/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20519/pu/39214/39214-1677613788.pdf,true
-ENUGU,AWGU,,EKE MARKET SQUARE,14/02/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20519/pu/39213/39213-1677613299.pdf,false
-ENUGU,AWGU,,COMM. SCHOOL EZIAMA,14/02/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20519/pu/39212/39212-1677612707.pdf,false
-ENUGU,AWGU,,OBODO IHIANI,14/02/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20519/pu/39211/39211-1677612002.pdf,true
-ENUGU,AWGU,,MBIO PRIMARY SCHOOL I,14/02/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20519/pu/39210/39210-1677611526.pdf,true
-ENUGU,AWGU,,UHUAGBOM VILLAGE HALL,14/02/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20519/pu/39209/39209-1677610654.pdf,false
-ENUGU,AWGU,,OBODO AJANI (ENUGU MBIO),14/02/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20519/pu/39208/39208-1677608836.pdf,false
-ENUGU,AWGU,,UMUATUBO VILLAGE HALL,14/02/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20519/pu/39207/39207-1677608193.pdf,false
+ENUGU,AWGU,OGBAKU,"ODUME TOWN HALL EXIAMA, OGBAKU",14/02/11/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20519/pu/141500/141500-1677630365.pdf,true
+ENUGU,AWGU,OGBAKU,CENT. SCH. OGBAKU III,14/02/11/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20519/pu/39219/39219-1677629832.pdf,true
+ENUGU,AWGU,OGBAKU,MBIO PRIMARY SCHOOL II,14/02/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20519/pu/39218/39218-1677629664.pdf,true
+ENUGU,AWGU,OGBAKU,NWAUGBA (UNAPPROVED SEC. SHOOL),14/02/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20519/pu/39217/39217-1677619572.pdf,true
+ENUGU,AWGU,OGBAKU,CENTRAL SCHOOL OGBAKU II,14/02/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20519/pu/39216/39216-1677616017.pdf,false
+ENUGU,AWGU,OGBAKU,CENTRAL SCHOOL OGBAKU I,14/02/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20519/pu/39215/39215-1677614966.pdf,false
+ENUGU,AWGU,OGBAKU,OBODO NGENE UKWU (AWTOR),14/02/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20519/pu/39214/39214-1677613788.pdf,true
+ENUGU,AWGU,OGBAKU,EKE MARKET SQUARE,14/02/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20519/pu/39213/39213-1677613299.pdf,false
+ENUGU,AWGU,OGBAKU,COMM. SCHOOL EZIAMA,14/02/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20519/pu/39212/39212-1677612707.pdf,false
+ENUGU,AWGU,OGBAKU,OBODO IHIANI,14/02/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20519/pu/39211/39211-1677612002.pdf,true
+ENUGU,AWGU,OGBAKU,MBIO PRIMARY SCHOOL I,14/02/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20519/pu/39210/39210-1677611526.pdf,true
+ENUGU,AWGU,OGBAKU,UHUAGBOM VILLAGE HALL,14/02/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20519/pu/39209/39209-1677610654.pdf,false
+ENUGU,AWGU,OGBAKU,OBODO AJANI (ENUGU MBIO),14/02/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20519/pu/39208/39208-1677608836.pdf,false
+ENUGU,AWGU,OGBAKU,UMUATUBO VILLAGE HALL,14/02/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20519/pu/39207/39207-1677608193.pdf,false

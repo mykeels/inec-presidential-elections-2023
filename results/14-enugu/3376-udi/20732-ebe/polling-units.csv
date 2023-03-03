@@ -1,10 +1,10 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,UDI,,CENTRAL SCHOOL EBE II,14/16/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20732/pu/41612/41612-1677621065.pdf,false
-ENUGU,UDI,,CENTRAL SCHOOL EBE I,14/16/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20732/pu/41611/41611-1677620545.pdf,false
-ENUGU,UDI,,EZIAMA VILLAGE HALL,14/16/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20732/pu/41610/41610-1677619951.pdf,true
-ENUGU,UDI,,NKWO EBE HALL II,14/16/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20732/pu/41609/41609-1677619070.pdf,false
-ENUGU,UDI,,AMAGU VILLAGE HALL I,14/16/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20732/pu/41607/41607-1677601038.pdf,false
-ENUGU,UDI,,OMADI VILLAGE HALL II,14/16/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20732/pu/41614/41614-1677492147.pdf,false
-ENUGU,UDI,,NKWO EBE HALL I,14/16/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20732/pu/41608/41608-1677491075.pdf,false
-ENUGU,UDI,,AMAGU VILLAGE HALL II,14/16/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20732/pu/41615/41615-1677490545.pdf,false
-ENUGU,UDI,,OMADI VILLAGE HALL I,14/16/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20732/pu/41613/41613-1677490050.pdf,false
+ENUGU,UDI,EBE,CENTRAL SCHOOL EBE II,14/16/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20732/pu/41612/41612-1677621065.pdf,false
+ENUGU,UDI,EBE,CENTRAL SCHOOL EBE I,14/16/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20732/pu/41611/41611-1677620545.pdf,false
+ENUGU,UDI,EBE,EZIAMA VILLAGE HALL,14/16/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20732/pu/41610/41610-1677619951.pdf,true
+ENUGU,UDI,EBE,NKWO EBE HALL II,14/16/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20732/pu/41609/41609-1677619070.pdf,false
+ENUGU,UDI,EBE,AMAGU VILLAGE HALL I,14/16/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20732/pu/41607/41607-1677601038.pdf,false
+ENUGU,UDI,EBE,OMADI VILLAGE HALL II,14/16/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20732/pu/41614/41614-1677492147.pdf,false
+ENUGU,UDI,EBE,NKWO EBE HALL I,14/16/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20732/pu/41608/41608-1677491075.pdf,false
+ENUGU,UDI,EBE,AMAGU VILLAGE HALL II,14/16/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20732/pu/41615/41615-1677490545.pdf,false
+ENUGU,UDI,EBE,OMADI VILLAGE HALL I,14/16/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20732/pu/41613/41613-1677490050.pdf,false

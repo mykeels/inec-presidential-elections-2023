@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,AWGU,,COMM. SCH. UGWUEME II,14/02/08/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39137/result_156845_1677616513_thumb.jpg,false
-ENUGU,AWGU,,CENT. SCH. NKWE II,14/02/08/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39136/result_156844_1677616140_thumb.jpg,false
-ENUGU,AWGU,,POSTAL AGENCY UGWUEME,14/02/08/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39135/result_156843_1677616040_thumb.jpg,false
-ENUGU,AWGU,,IHITE VILLAGE SQUARE,14/02/08/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39134/result_156842_1677615941_thumb.jpg,false
-ENUGU,AWGU,,HEALTH POST UGWUEME,14/02/08/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39133/result_156841_1677615811_thumb.jpg,false
-ENUGU,AWGU,,CENTRAL SCHOOL UGWUEME II,14/02/08/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-ENUGU,AWGU,,CENTRAL SCHOOL UGWUEME I,14/02/08/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39131/result_156839_1677615549_thumb.jpg,false
-ENUGU,AWGU,,COMM. SCHOOL UGWUEME I,14/02/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39130/result_156838_1677615434_thumb.jpg,false
-ENUGU,AWGU,,NENWENTA TOWN HALL,14/02/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39129/result_156837_1677614678_thumb.jpg,false
-ENUGU,AWGU,,CENTRAL SCHOOL NENWENTA,14/02/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39128/result_156836_1677614476_thumb.jpg,false
-ENUGU,AWGU,,NKWO OBODO AWGUNTA,14/02/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39127/result_156835_1677613993_thumb.jpg,false
-ENUGU,AWGU,,CENTRAL SCHOOL AWGUNTA,14/02/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39126/result_156834_1677613814_thumb.jpg,false
-ENUGU,AWGU,,NKWE TOWN HALL,14/02/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39125/result_156833_1677613695_thumb.jpg,false
-ENUGU,AWGU,,NKWE SQUARE,14/02/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39124/result_156832_1677613486_thumb.jpg,false
-ENUGU,AWGU,,CENTRAL. SCHOOL  NKWE I,14/02/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39123/result_156831_1677613323_thumb.jpg,false
-ENUGU,AWGU,,COMM. SCHOOL  EZERE,14/02/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39122/result_156830_1677613129_thumb.jpg,false
-ENUGU,AWGU,,HEALTH CENTRE EZERE II,14/02/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39121/result_156829_1677612995_thumb.jpg,false
-ENUGU,AWGU,,HEALTH CENTRE EZERE I,14/02/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39120/result_156828_1677612662_thumb.jpg,false
+ENUGU,AWGU,ANIKENANO/UGWUEME,COMM. SCH. UGWUEME II,14/02/08/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39137/result_156845_1677616513_thumb.jpg,false
+ENUGU,AWGU,ANIKENANO/UGWUEME,CENT. SCH. NKWE II,14/02/08/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39136/result_156844_1677616140_thumb.jpg,false
+ENUGU,AWGU,ANIKENANO/UGWUEME,POSTAL AGENCY UGWUEME,14/02/08/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39135/result_156843_1677616040_thumb.jpg,false
+ENUGU,AWGU,ANIKENANO/UGWUEME,IHITE VILLAGE SQUARE,14/02/08/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39134/result_156842_1677615941_thumb.jpg,false
+ENUGU,AWGU,ANIKENANO/UGWUEME,HEALTH POST UGWUEME,14/02/08/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39133/result_156841_1677615811_thumb.jpg,false
+ENUGU,AWGU,ANIKENANO/UGWUEME,CENTRAL SCHOOL UGWUEME II,14/02/08/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+ENUGU,AWGU,ANIKENANO/UGWUEME,CENTRAL SCHOOL UGWUEME I,14/02/08/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39131/result_156839_1677615549_thumb.jpg,false
+ENUGU,AWGU,ANIKENANO/UGWUEME,COMM. SCHOOL UGWUEME I,14/02/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39130/result_156838_1677615434_thumb.jpg,false
+ENUGU,AWGU,ANIKENANO/UGWUEME,NENWENTA TOWN HALL,14/02/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39129/result_156837_1677614678_thumb.jpg,false
+ENUGU,AWGU,ANIKENANO/UGWUEME,CENTRAL SCHOOL NENWENTA,14/02/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39128/result_156836_1677614476_thumb.jpg,false
+ENUGU,AWGU,ANIKENANO/UGWUEME,NKWO OBODO AWGUNTA,14/02/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39127/result_156835_1677613993_thumb.jpg,false
+ENUGU,AWGU,ANIKENANO/UGWUEME,CENTRAL SCHOOL AWGUNTA,14/02/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39126/result_156834_1677613814_thumb.jpg,false
+ENUGU,AWGU,ANIKENANO/UGWUEME,NKWE TOWN HALL,14/02/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39125/result_156833_1677613695_thumb.jpg,false
+ENUGU,AWGU,ANIKENANO/UGWUEME,NKWE SQUARE,14/02/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39124/result_156832_1677613486_thumb.jpg,false
+ENUGU,AWGU,ANIKENANO/UGWUEME,CENTRAL. SCHOOL  NKWE I,14/02/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39123/result_156831_1677613323_thumb.jpg,false
+ENUGU,AWGU,ANIKENANO/UGWUEME,COMM. SCHOOL  EZERE,14/02/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39122/result_156830_1677613129_thumb.jpg,false
+ENUGU,AWGU,ANIKENANO/UGWUEME,HEALTH CENTRE EZERE II,14/02/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39121/result_156829_1677612995_thumb.jpg,false
+ENUGU,AWGU,ANIKENANO/UGWUEME,HEALTH CENTRE EZERE I,14/02/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39120/result_156828_1677612662_thumb.jpg,false

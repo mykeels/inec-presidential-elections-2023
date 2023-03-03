@@ -26,6 +26,7 @@
     "pu_code_string": "140709003",
     "state_name": "ENUGU",
     "lga_name": "IGBO ETITI",
+    "ward_name": "OHAODO II",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "140709002",
     "state_name": "ENUGU",
     "lga_name": "IGBO ETITI",
+    "ward_name": "OHAODO II",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "140709001",
     "state_name": "ENUGU",
     "lga_name": "IGBO ETITI",
+    "ward_name": "OHAODO II",
     "document": {
       "external": false,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "140709004",
     "state_name": "ENUGU",
     "lga_name": "IGBO ETITI",
+    "ward_name": "OHAODO II",
     "document": {
       "external": false,
       "status": 1,
@@ -178,6 +182,7 @@
     "pu_code_string": "140709005",
     "state_name": "ENUGU",
     "lga_name": "IGBO ETITI",
+    "ward_name": "OHAODO II",
     "document": {
       "external": false,
       "status": 1,

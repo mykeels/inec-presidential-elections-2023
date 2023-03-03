@@ -1,25 +1,25 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,AWGU,,OBODO OLOCHA VILLAGE HALL,14/02/01/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/141475/141475-1677605544.pdf,true
-ENUGU,AWGU,,OLOVU ACHU NDIAGU OGBOLI VILLAGE SQUARE,14/02/01/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/141480/141480-1677603542.pdf,true
-ENUGU,AWGU,,AMULO OGBOLI SQUARE,14/02/01/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/141479/141479-1677603399.pdf,false
-ENUGU,AWGU,,URBAN SEC SCHOOL OHAJA,14/02/01/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/141478/141478-1677603255.pdf,true
-ENUGU,AWGU,,OBODO ULOLO VILLAGE SQUARE,14/02/01/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/141477/141477-1677603119.pdf,true
-ENUGU,AWGU,,MARKET SQUARE NKWOR SQUARE,14/02/01/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/141476/141476-1677602975.pdf,false
-ENUGU,AWGU,,AMEGU/OLOCHA JUNCTION AWGU,14/02/01/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/141474/141474-1677602482.pdf,true
-ENUGU,AWGU,,"RIVER SIDE PRIMARY SCHOOL, AMIYI",14/02/01/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/141473/141473-1677602349.pdf,true
-ENUGU,AWGU,,NDIAGU OLUAVO VILLAGE SQUARE,14/02/01/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/39023/39023-1677602204.pdf,false
-ENUGU,AWGU,,COOPERATIVE COMPLEX AWGU,14/02/01/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/39022/39022-1677602082.pdf,false
-ENUGU,AWGU,,OBUGO VILLAGE SQUARE,14/02/01/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/39021/39021-1677601909.pdf,false
-ENUGU,AWGU,,OBODO AMATA AMOKWE SQUARE,14/02/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/39019/39019-1677601575.pdf,true
-ENUGU,AWGU,,OGBOLI NDIAGU PRIMARY SCHOOL,14/02/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/39018/39018-1677601471.pdf,false
-ENUGU,AWGU,,COMM. SCHOOL OGBOLI  NDIUNO,14/02/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/39017/39017-1677601260.pdf,true
-ENUGU,AWGU,,OBODO IBITE SQUARE,14/02/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/39016/39016-1677600595.pdf,true
-ENUGU,AWGU,,ENUGU ROAD PRIMARY SCHOOL,14/02/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/39015/39015-1677600342.pdf,false
-ENUGU,AWGU,,UNION PRIMARY SCHOOL OHAJA,14/02/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/39014/39014-1677593644.pdf,true
-ENUGU,AWGU,,COMM. SCHOOL ULULOR OHAJA,14/02/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/39013/39013-1677593444.pdf,true
-ENUGU,AWGU,,COMM. SCHOOL ADOGBA,14/02/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/39012/39012-1677593252.pdf,true
-ENUGU,AWGU,,CENTRAL SCHOOL AWGU II,14/02/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/39011/39011-1677593127.pdf,true
-ENUGU,AWGU,,CENTRAL SCHOOL AWGU I,14/02/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/39010/39010-1677592911.pdf,true
-ENUGU,AWGU,,TOWN SCHOOL AWGU II,14/02/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/39009/39009-1677592729.pdf,true
-ENUGU,AWGU,,TOWN SCHOOL AWGU I,14/02/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/39008/39008-1677592520.pdf,true
-ENUGU,AWGU,,OBODO UKWU EVAM VILLAGE SQUARE,14/02/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/01/pu/013/013-1677391323.pdf,false
+ENUGU,AWGU,AWGU I,OBODO OLOCHA VILLAGE HALL,14/02/01/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/141475/141475-1677605544.pdf,true
+ENUGU,AWGU,AWGU I,OLOVU ACHU NDIAGU OGBOLI VILLAGE SQUARE,14/02/01/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/141480/141480-1677603542.pdf,true
+ENUGU,AWGU,AWGU I,AMULO OGBOLI SQUARE,14/02/01/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/141479/141479-1677603399.pdf,false
+ENUGU,AWGU,AWGU I,URBAN SEC SCHOOL OHAJA,14/02/01/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/141478/141478-1677603255.pdf,true
+ENUGU,AWGU,AWGU I,OBODO ULOLO VILLAGE SQUARE,14/02/01/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/141477/141477-1677603119.pdf,true
+ENUGU,AWGU,AWGU I,MARKET SQUARE NKWOR SQUARE,14/02/01/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/141476/141476-1677602975.pdf,false
+ENUGU,AWGU,AWGU I,AMEGU/OLOCHA JUNCTION AWGU,14/02/01/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/141474/141474-1677602482.pdf,true
+ENUGU,AWGU,AWGU I,"RIVER SIDE PRIMARY SCHOOL, AMIYI",14/02/01/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/141473/141473-1677602349.pdf,true
+ENUGU,AWGU,AWGU I,NDIAGU OLUAVO VILLAGE SQUARE,14/02/01/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/39023/39023-1677602204.pdf,false
+ENUGU,AWGU,AWGU I,COOPERATIVE COMPLEX AWGU,14/02/01/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/39022/39022-1677602082.pdf,false
+ENUGU,AWGU,AWGU I,OBUGO VILLAGE SQUARE,14/02/01/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/39021/39021-1677601909.pdf,false
+ENUGU,AWGU,AWGU I,OBODO AMATA AMOKWE SQUARE,14/02/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/39019/39019-1677601575.pdf,true
+ENUGU,AWGU,AWGU I,OGBOLI NDIAGU PRIMARY SCHOOL,14/02/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/39018/39018-1677601471.pdf,false
+ENUGU,AWGU,AWGU I,COMM. SCHOOL OGBOLI  NDIUNO,14/02/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/39017/39017-1677601260.pdf,true
+ENUGU,AWGU,AWGU I,OBODO IBITE SQUARE,14/02/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/39016/39016-1677600595.pdf,true
+ENUGU,AWGU,AWGU I,ENUGU ROAD PRIMARY SCHOOL,14/02/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/39015/39015-1677600342.pdf,false
+ENUGU,AWGU,AWGU I,UNION PRIMARY SCHOOL OHAJA,14/02/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/39014/39014-1677593644.pdf,true
+ENUGU,AWGU,AWGU I,COMM. SCHOOL ULULOR OHAJA,14/02/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/39013/39013-1677593444.pdf,true
+ENUGU,AWGU,AWGU I,COMM. SCHOOL ADOGBA,14/02/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/39012/39012-1677593252.pdf,true
+ENUGU,AWGU,AWGU I,CENTRAL SCHOOL AWGU II,14/02/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/39011/39011-1677593127.pdf,true
+ENUGU,AWGU,AWGU I,CENTRAL SCHOOL AWGU I,14/02/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/39010/39010-1677592911.pdf,true
+ENUGU,AWGU,AWGU I,TOWN SCHOOL AWGU II,14/02/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/39009/39009-1677592729.pdf,true
+ENUGU,AWGU,AWGU I,TOWN SCHOOL AWGU I,14/02/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20509/pu/39008/39008-1677592520.pdf,true
+ENUGU,AWGU,AWGU I,OBODO UKWU EVAM VILLAGE SQUARE,14/02/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/01/pu/013/013-1677391323.pdf,false

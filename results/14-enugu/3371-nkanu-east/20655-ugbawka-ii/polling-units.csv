@@ -1,15 +1,15 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,NKANU EAST,,OBODO UKPOCHA VILLAGE SQUARE,14/11/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/11/pu/008/008-1677384673.pdf,false
-ENUGU,NKANU EAST,,COMP. SEC. SCH. ISIGWE,14/11/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/11/pu/012/012-1677386047.pdf,false
-ENUGU,NKANU EAST,,OGO OGBU VILL. SQ,14/11/11/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/11/pu/014/014-1677385651.pdf,false
-ENUGU,NKANU EAST,,AKPARATA AMETITI HALL,14/11/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/11/pu/011/011-1677385536.pdf,false
-ENUGU,NKANU EAST,,COMM. SCHOOL I ISIGWE,14/11/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/11/pu/004/004-1677385421.pdf,false
-ENUGU,NKANU EAST,,C.P.S. AMAFOR UGBAWKA II,14/11/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/11/pu/010/010-1677384621.pdf,false
-ENUGU,NKANU EAST,,OBODO EDE VILLAGE HALL,14/11/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/11/pu/006/006-1677384583.pdf,false
-ENUGU,NKANU EAST,,C.P.S. AMAUZAM I,14/11/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/11/pu/001/001-1677384472.pdf,false
-ENUGU,NKANU EAST,,OBODO IGWESHI VILLAGE SQUARE,14/11/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/11/pu/007/007-1677384378.pdf,false
-ENUGU,NKANU EAST,,OBDO OBODOAGU VILLAGE SQUARE,14/11/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/11/pu/002/002-1677384391.pdf,false
-ENUGU,NKANU EAST,,C.P.S. II AMUZAM,14/11/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/11/pu/009/009-1677384331.pdf,false
-ENUGU,NKANU EAST,,COMM. SCH. III ISIGWE,14/11/11/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/11/pu/013/013-1677383255.pdf,false
-ENUGU,NKANU EAST,,ONUNGENEOMA VILLAGE SQUARE,14/11/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/11/pu/003/003-1677383115.pdf,false
-ENUGU,NKANU EAST,,COMM. SCHOOL II ISIGWE,14/11/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/11/pu/005/005-1677380191.pdf,false
+ENUGU,NKANU EAST,UGBAWKA II,OBODO UKPOCHA VILLAGE SQUARE,14/11/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/11/pu/008/008-1677384673.pdf,false
+ENUGU,NKANU EAST,UGBAWKA II,COMP. SEC. SCH. ISIGWE,14/11/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/11/pu/012/012-1677386047.pdf,false
+ENUGU,NKANU EAST,UGBAWKA II,OGO OGBU VILL. SQ,14/11/11/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/11/pu/014/014-1677385651.pdf,false
+ENUGU,NKANU EAST,UGBAWKA II,AKPARATA AMETITI HALL,14/11/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/11/pu/011/011-1677385536.pdf,false
+ENUGU,NKANU EAST,UGBAWKA II,COMM. SCHOOL I ISIGWE,14/11/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/11/pu/004/004-1677385421.pdf,false
+ENUGU,NKANU EAST,UGBAWKA II,C.P.S. AMAFOR UGBAWKA II,14/11/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/11/pu/010/010-1677384621.pdf,false
+ENUGU,NKANU EAST,UGBAWKA II,OBODO EDE VILLAGE HALL,14/11/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/11/pu/006/006-1677384583.pdf,false
+ENUGU,NKANU EAST,UGBAWKA II,C.P.S. AMAUZAM I,14/11/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/11/pu/001/001-1677384472.pdf,false
+ENUGU,NKANU EAST,UGBAWKA II,OBODO IGWESHI VILLAGE SQUARE,14/11/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/11/pu/007/007-1677384378.pdf,false
+ENUGU,NKANU EAST,UGBAWKA II,OBDO OBODOAGU VILLAGE SQUARE,14/11/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/11/pu/002/002-1677384391.pdf,false
+ENUGU,NKANU EAST,UGBAWKA II,C.P.S. II AMUZAM,14/11/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/11/pu/009/009-1677384331.pdf,false
+ENUGU,NKANU EAST,UGBAWKA II,COMM. SCH. III ISIGWE,14/11/11/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/11/pu/013/013-1677383255.pdf,false
+ENUGU,NKANU EAST,UGBAWKA II,ONUNGENEOMA VILLAGE SQUARE,14/11/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/11/pu/003/003-1677383115.pdf,false
+ENUGU,NKANU EAST,UGBAWKA II,COMM. SCHOOL II ISIGWE,14/11/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/11/pu/005/005-1677380191.pdf,false

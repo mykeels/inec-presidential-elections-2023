@@ -1,7 +1,7 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,EZEAGU,,UMUEZE VILLAGE HALL II,14/06/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20563/pu/39907/39907-1677599165.pdf,false
-ENUGU,EZEAGU,,UMUEZE VILLAGE HALL I,14/06/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20563/pu/39906/39906-1677598852.pdf,false
-ENUGU,EZEAGU,,C.S. UMANA,14/06/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20563/pu/39905/39905-1677598632.pdf,false
-ENUGU,EZEAGU,,COMMUNITY  PRIMARY  S0CHOOL  AGBA UMANA III,14/06/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20563/pu/39904/39904-1677598479.pdf,true
-ENUGU,EZEAGU,,COMMUNITY  PRIMARY  SCHOOL  AGBA UMANA II,14/06/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20563/pu/39903/39903-1677598253.pdf,false
-ENUGU,EZEAGU,,COMMUNITY  PRIMARY  SCHOOL  AGBA UMANA I,14/06/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20563/pu/39902/39902-1677598048.pdf,true
+ENUGU,EZEAGU,AGBA UMANA,UMUEZE VILLAGE HALL II,14/06/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20563/pu/39907/39907-1677599165.pdf,false
+ENUGU,EZEAGU,AGBA UMANA,UMUEZE VILLAGE HALL I,14/06/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20563/pu/39906/39906-1677598852.pdf,false
+ENUGU,EZEAGU,AGBA UMANA,C.S. UMANA,14/06/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20563/pu/39905/39905-1677598632.pdf,false
+ENUGU,EZEAGU,AGBA UMANA,COMMUNITY  PRIMARY  S0CHOOL  AGBA UMANA III,14/06/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20563/pu/39904/39904-1677598479.pdf,true
+ENUGU,EZEAGU,AGBA UMANA,COMMUNITY  PRIMARY  SCHOOL  AGBA UMANA II,14/06/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20563/pu/39903/39903-1677598253.pdf,false
+ENUGU,EZEAGU,AGBA UMANA,COMMUNITY  PRIMARY  SCHOOL  AGBA UMANA I,14/06/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20563/pu/39902/39902-1677598048.pdf,true

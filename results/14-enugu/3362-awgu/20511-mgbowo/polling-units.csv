@@ -1,23 +1,23 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,AWGU,,COOPERATIVE HALL OGBETA II,14/02/03/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39054/39054-1677654168.pdf,false
-ENUGU,AWGU,,COOPERATIVE HALL OGBETA,14/02/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39051/39051-1677653925.pdf,false
-ENUGU,AWGU,,NGELEATOR PRIMARY SCHOOL,14/02/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39048/39048-1677634111.pdf,true
-ENUGU,AWGU,,OBODO INYI MARKET SQUARE,14/02/03/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/141492/141492-1677633250.pdf,true
-ENUGU,AWGU,,BOYS' SECONDARY SCHOOL MGBOWO,14/02/03/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39052/39052-1677632600.pdf,true
-ENUGU,AWGU,,COMM. SCHOOL EZIOBODO II,14/02/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39047/39047-1677631869.pdf,true
-ENUGU,AWGU,,COMM. SCHOOL EZIOHA II,14/02/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39039/39039-1677631710.pdf,true
-ENUGU,AWGU,,OBODO IKORO SQUARE,14/02/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39037/39037-1677631453.pdf,true
-ENUGU,AWGU,,OBODO OGUNTU VILLAGE SQUARE,14/02/03/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/141493/141493-1677599568.pdf,false
-ENUGU,AWGU,,OBODO NDI ULO MGBOWO,14/02/03/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/141491/141491-1677598799.pdf,true
-ENUGU,AWGU,,NDIAGU IMAMA SQUARE,14/02/03/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/141490/141490-1677598141.pdf,true
-ENUGU,AWGU,,CENT. SCH. IMAMA II,14/02/03/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39053/39053-1677597167.pdf,false
-ENUGU,AWGU,,OBUSHI INYI TOWN HALL,14/02/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39050/39050-1677596863.pdf,true
-ENUGU,AWGU,,"COMM.  PRIMARY SCHOOL, INYI",14/02/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39049/39049-1677596393.pdf,false
-ENUGU,AWGU,,COMM. SCHOOL EZIOBODO I,14/02/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39046/39046-1677595311.pdf,false
-ENUGU,AWGU,,TOWN. SCHOOL AMATA II,14/02/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39045/39045-1677594333.pdf,false
-ENUGU,AWGU,,TOWN. SCHOOL AMATA I,14/02/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39044/39044-1677593701.pdf,true
-ENUGU,AWGU,,COMM. SCHOOL AMATA II,14/02/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39043/39043-1677592422.pdf,false
-ENUGU,AWGU,,COMM. SCHOOL AMATA I,14/02/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39042/39042-1677591578.pdf,false
-ENUGU,AWGU,,CENTRAL. SCHOOL EXTENSION,14/02/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39041/39041-1677589758.pdf,true
-ENUGU,AWGU,,CENTRAL. SCHOOL IMAMA I,14/02/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39040/39040-1677588837.pdf,false
-ENUGU,AWGU,,COMM. SCHOOL EZIOHA I,14/02/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39038/39038-1677586440.pdf,false
+ENUGU,AWGU,MGBOWO,COOPERATIVE HALL OGBETA II,14/02/03/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39054/39054-1677654168.pdf,false
+ENUGU,AWGU,MGBOWO,COOPERATIVE HALL OGBETA,14/02/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39051/39051-1677653925.pdf,false
+ENUGU,AWGU,MGBOWO,NGELEATOR PRIMARY SCHOOL,14/02/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39048/39048-1677634111.pdf,true
+ENUGU,AWGU,MGBOWO,OBODO INYI MARKET SQUARE,14/02/03/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/141492/141492-1677633250.pdf,true
+ENUGU,AWGU,MGBOWO,BOYS' SECONDARY SCHOOL MGBOWO,14/02/03/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39052/39052-1677632600.pdf,true
+ENUGU,AWGU,MGBOWO,COMM. SCHOOL EZIOBODO II,14/02/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39047/39047-1677631869.pdf,true
+ENUGU,AWGU,MGBOWO,COMM. SCHOOL EZIOHA II,14/02/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39039/39039-1677631710.pdf,true
+ENUGU,AWGU,MGBOWO,OBODO IKORO SQUARE,14/02/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39037/39037-1677631453.pdf,true
+ENUGU,AWGU,MGBOWO,OBODO OGUNTU VILLAGE SQUARE,14/02/03/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/141493/141493-1677599568.pdf,false
+ENUGU,AWGU,MGBOWO,OBODO NDI ULO MGBOWO,14/02/03/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/141491/141491-1677598799.pdf,true
+ENUGU,AWGU,MGBOWO,NDIAGU IMAMA SQUARE,14/02/03/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/141490/141490-1677598141.pdf,true
+ENUGU,AWGU,MGBOWO,CENT. SCH. IMAMA II,14/02/03/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39053/39053-1677597167.pdf,false
+ENUGU,AWGU,MGBOWO,OBUSHI INYI TOWN HALL,14/02/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39050/39050-1677596863.pdf,true
+ENUGU,AWGU,MGBOWO,"COMM.  PRIMARY SCHOOL, INYI",14/02/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39049/39049-1677596393.pdf,false
+ENUGU,AWGU,MGBOWO,COMM. SCHOOL EZIOBODO I,14/02/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39046/39046-1677595311.pdf,false
+ENUGU,AWGU,MGBOWO,TOWN. SCHOOL AMATA II,14/02/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39045/39045-1677594333.pdf,false
+ENUGU,AWGU,MGBOWO,TOWN. SCHOOL AMATA I,14/02/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39044/39044-1677593701.pdf,true
+ENUGU,AWGU,MGBOWO,COMM. SCHOOL AMATA II,14/02/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39043/39043-1677592422.pdf,false
+ENUGU,AWGU,MGBOWO,COMM. SCHOOL AMATA I,14/02/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39042/39042-1677591578.pdf,false
+ENUGU,AWGU,MGBOWO,CENTRAL. SCHOOL EXTENSION,14/02/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39041/39041-1677589758.pdf,true
+ENUGU,AWGU,MGBOWO,CENTRAL. SCHOOL IMAMA I,14/02/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39040/39040-1677588837.pdf,false
+ENUGU,AWGU,MGBOWO,COMM. SCHOOL EZIOHA I,14/02/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20511/pu/39038/39038-1677586440.pdf,false

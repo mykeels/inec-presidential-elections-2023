@@ -1,9 +1,9 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,UDI,,AMABO VILLAGE HALL OBINAGU,14/16/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20727/pu/142552/142552-1677696134.pdf,false
-ENUGU,UDI,,OKPUIKE HALL,14/16/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20727/pu/41546/41546-1677695586.pdf,false
-ENUGU,UDI,,OKPUNO NKWO TOWN HALL OBINAGU,14/16/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20727/pu/142551/142551-1677601739.pdf,true
-ENUGU,UDI,,AKPULU HALL II,14/16/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20727/pu/41548/41548-1677601691.pdf,true
-ENUGU,UDI,,AKPULU HALL I,14/16/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20727/pu/41547/41547-1677601455.pdf,true
-ENUGU,UDI,,NEAR ST. JOHN'S OBINAGU II,14/16/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20727/pu/41545/41545-1677601474.pdf,false
-ENUGU,UDI,,NEAR ST. JOHN'S OBINAGU I,14/16/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20727/pu/41544/41544-1677600947.pdf,false
-ENUGU,UDI,,CENTRAL SCHOOL OBINAGU,14/16/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20727/pu/41543/41543-1677600627.pdf,false
+ENUGU,UDI,OBINAGU,AMABO VILLAGE HALL OBINAGU,14/16/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20727/pu/142552/142552-1677696134.pdf,false
+ENUGU,UDI,OBINAGU,OKPUIKE HALL,14/16/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20727/pu/41546/41546-1677695586.pdf,false
+ENUGU,UDI,OBINAGU,OKPUNO NKWO TOWN HALL OBINAGU,14/16/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20727/pu/142551/142551-1677601739.pdf,true
+ENUGU,UDI,OBINAGU,AKPULU HALL II,14/16/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20727/pu/41548/41548-1677601691.pdf,true
+ENUGU,UDI,OBINAGU,AKPULU HALL I,14/16/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20727/pu/41547/41547-1677601455.pdf,true
+ENUGU,UDI,OBINAGU,NEAR ST. JOHN'S OBINAGU II,14/16/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20727/pu/41545/41545-1677601474.pdf,false
+ENUGU,UDI,OBINAGU,NEAR ST. JOHN'S OBINAGU I,14/16/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20727/pu/41544/41544-1677600947.pdf,false
+ENUGU,UDI,OBINAGU,CENTRAL SCHOOL OBINAGU,14/16/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20727/pu/41543/41543-1677600627.pdf,false

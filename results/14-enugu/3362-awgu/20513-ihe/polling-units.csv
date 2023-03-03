@@ -1,15 +1,15 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,AWGU,,UMUANIEBE VILLAGE HALL,14/02/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20513/pu/39088/39088-1677607448.pdf,true
-ENUGU,AWGU,,UMUSIBE HALL II,14/02/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20513/pu/39087/39087-1677607134.pdf,true
-ENUGU,AWGU,,COMM. SCHOOL UMUOGBA,14/02/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20513/pu/39084/39084-1677606677.pdf,true
-ENUGU,AWGU,,PRIMARY SCHOOL IHE I,14/02/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20513/pu/39082/39082-1677606337.pdf,true
-ENUGU,AWGU,,CENTRAL SCHOOL IHE I,14/02/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20513/pu/39080/39080-1677605625.pdf,true
-ENUGU,AWGU,,UMUONWO/UMUONYIA HALL II,14/02/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20513/pu/39079/39079-1677605480.pdf,true
-ENUGU,AWGU,,UMUONWO/UMUONYIA HALL I,14/02/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20513/pu/39078/39078-1677604991.pdf,true
-ENUGU,AWGU,,COMM. SCHOOL IHE II,14/02/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20513/pu/39077/39077-1677604621.pdf,true
-ENUGU,AWGU,,COMM. SCHOOL IHE I,14/02/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20513/pu/39076/39076-1677604317.pdf,false
-ENUGU,AWGU,,AWKUNANAW VILLAGE HALL,14/02/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20513/pu/39089/39089-1677602511.pdf,false
-ENUGU,AWGU,,UMUSIBE HALL I,14/02/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20513/pu/39086/39086-1677601947.pdf,true
-ENUGU,AWGU,,PRIMARY SCHOOL IHE II,14/02/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20513/pu/39083/39083-1677601521.pdf,false
-ENUGU,AWGU,,IHUEZE HALL,14/02/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20513/pu/39085/39085-1677600421.pdf,true
-ENUGU,AWGU,,CENTRAL SCHOOL IHE II,14/02/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20513/pu/39081/39081-1677596433.pdf,false
+ENUGU,AWGU,IHE,UMUANIEBE VILLAGE HALL,14/02/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20513/pu/39088/39088-1677607448.pdf,true
+ENUGU,AWGU,IHE,UMUSIBE HALL II,14/02/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20513/pu/39087/39087-1677607134.pdf,true
+ENUGU,AWGU,IHE,COMM. SCHOOL UMUOGBA,14/02/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20513/pu/39084/39084-1677606677.pdf,true
+ENUGU,AWGU,IHE,PRIMARY SCHOOL IHE I,14/02/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20513/pu/39082/39082-1677606337.pdf,true
+ENUGU,AWGU,IHE,CENTRAL SCHOOL IHE I,14/02/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20513/pu/39080/39080-1677605625.pdf,true
+ENUGU,AWGU,IHE,UMUONWO/UMUONYIA HALL II,14/02/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20513/pu/39079/39079-1677605480.pdf,true
+ENUGU,AWGU,IHE,UMUONWO/UMUONYIA HALL I,14/02/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20513/pu/39078/39078-1677604991.pdf,true
+ENUGU,AWGU,IHE,COMM. SCHOOL IHE II,14/02/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20513/pu/39077/39077-1677604621.pdf,true
+ENUGU,AWGU,IHE,COMM. SCHOOL IHE I,14/02/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20513/pu/39076/39076-1677604317.pdf,false
+ENUGU,AWGU,IHE,AWKUNANAW VILLAGE HALL,14/02/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20513/pu/39089/39089-1677602511.pdf,false
+ENUGU,AWGU,IHE,UMUSIBE HALL I,14/02/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20513/pu/39086/39086-1677601947.pdf,true
+ENUGU,AWGU,IHE,PRIMARY SCHOOL IHE II,14/02/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20513/pu/39083/39083-1677601521.pdf,false
+ENUGU,AWGU,IHE,IHUEZE HALL,14/02/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20513/pu/39085/39085-1677600421.pdf,true
+ENUGU,AWGU,IHE,CENTRAL SCHOOL IHE II,14/02/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3362/ward/20513/pu/39081/39081-1677596433.pdf,false

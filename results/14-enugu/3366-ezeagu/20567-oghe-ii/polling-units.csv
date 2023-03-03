@@ -1,7 +1,7 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,EZEAGU,,M.P.S. AMANSIODO IMEZI IV,14/06/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20567/pu/39934/39934-1677602241.pdf,true
-ENUGU,EZEAGU,,M.P.S. AMANSIODO IMEZI III,14/06/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20567/pu/39933/39933-1677601929.pdf,true
-ENUGU,EZEAGU,,M.P.S. AMANSIODO IMEZI II,14/06/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20567/pu/39932/39932-1677601685.pdf,true
-ENUGU,EZEAGU,,IHUONYIA VILLAGE SQUARE II,14/06/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20567/pu/39930/39930-1677601371.pdf,false
-ENUGU,EZEAGU,,IHUONYIA VILLAGE SQUARE I,14/06/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20567/pu/39929/39929-1677601214.pdf,true
-ENUGU,EZEAGU,,M.P.S. AMANSIODO IMEZI I,14/06/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/003/003-1677388019.pdf,false
+ENUGU,EZEAGU,OGHE II,M.P.S. AMANSIODO IMEZI IV,14/06/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20567/pu/39934/39934-1677602241.pdf,true
+ENUGU,EZEAGU,OGHE II,M.P.S. AMANSIODO IMEZI III,14/06/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20567/pu/39933/39933-1677601929.pdf,true
+ENUGU,EZEAGU,OGHE II,M.P.S. AMANSIODO IMEZI II,14/06/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20567/pu/39932/39932-1677601685.pdf,true
+ENUGU,EZEAGU,OGHE II,IHUONYIA VILLAGE SQUARE II,14/06/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20567/pu/39930/39930-1677601371.pdf,false
+ENUGU,EZEAGU,OGHE II,IHUONYIA VILLAGE SQUARE I,14/06/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20567/pu/39929/39929-1677601214.pdf,true
+ENUGU,EZEAGU,OGHE II,M.P.S. AMANSIODO IMEZI I,14/06/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/10/pu/003/003-1677388019.pdf,false

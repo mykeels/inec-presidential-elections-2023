@@ -1,10 +1,10 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,IGBO ETITI,,UWANI UMUNAGU HALL,14/07/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/004/004-1677382216.pdf,false
-ENUGU,IGBO ETITI,,A.P.S. OZALLA/UMUEZE HALL,14/07/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/003/003-1677381945.pdf,false
-ENUGU,IGBO ETITI,,UMUOZOR HALL,14/07/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/008/008-1677371131.pdf,false
-ENUGU,IGBO ETITI,,ORUKU/NDIUGWU HALL,14/07/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/001/001-1677368810.pdf,false
-ENUGU,IGBO ETITI,,UMUKEZE VILLAGE SQUARE,14/07/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/009/009-1677365865.pdf,false
-ENUGU,IGBO ETITI,,ODENIGBO SQUARE,14/07/11/005,,false
-ENUGU,IGBO ETITI,,UMUEZUGWOKE HALL,14/07/11/006,,false
-ENUGU,IGBO ETITI,,UMUEZEREJE HALL,14/07/11/002,,false
-ENUGU,IGBO ETITI,,U.P.S. OZALLA,14/07/11/007,,false
+ENUGU,IGBO ETITI,OZALLA II,UWANI UMUNAGU HALL,14/07/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/004/004-1677382216.pdf,false
+ENUGU,IGBO ETITI,OZALLA II,A.P.S. OZALLA/UMUEZE HALL,14/07/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/003/003-1677381945.pdf,false
+ENUGU,IGBO ETITI,OZALLA II,UMUOZOR HALL,14/07/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/008/008-1677371131.pdf,false
+ENUGU,IGBO ETITI,OZALLA II,ORUKU/NDIUGWU HALL,14/07/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/001/001-1677368810.pdf,false
+ENUGU,IGBO ETITI,OZALLA II,UMUKEZE VILLAGE SQUARE,14/07/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/11/pu/009/009-1677365865.pdf,false
+ENUGU,IGBO ETITI,OZALLA II,ODENIGBO SQUARE,14/07/11/005,,false
+ENUGU,IGBO ETITI,OZALLA II,UMUEZUGWOKE HALL,14/07/11/006,,false
+ENUGU,IGBO ETITI,OZALLA II,UMUEZEREJE HALL,14/07/11/002,,false
+ENUGU,IGBO ETITI,OZALLA II,U.P.S. OZALLA,14/07/11/007,,false

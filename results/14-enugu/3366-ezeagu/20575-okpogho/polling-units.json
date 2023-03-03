@@ -26,6 +26,7 @@
     "pu_code_string": "140618005",
     "state_name": "ENUGU",
     "lga_name": "EZEAGU",
+    "ward_name": "OKPOGHO",
     "document": {
       "external": false,
       "status": 1,
@@ -73,6 +74,7 @@
     "pu_code_string": "140618004",
     "state_name": "ENUGU",
     "lga_name": "EZEAGU",
+    "ward_name": "OKPOGHO",
     "document": {
       "external": false,
       "status": 1,
@@ -111,6 +113,7 @@
     "pu_code_string": "140618003",
     "state_name": "ENUGU",
     "lga_name": "EZEAGU",
+    "ward_name": "OKPOGHO",
     "document": {
       "external": false,
       "status": 1,
@@ -149,6 +152,7 @@
     "pu_code_string": "140618002",
     "state_name": "ENUGU",
     "lga_name": "EZEAGU",
+    "ward_name": "OKPOGHO",
     "document": {
       "external": false,
       "status": 1,
@@ -196,6 +200,7 @@
     "pu_code_string": "140618001",
     "state_name": "ENUGU",
     "lga_name": "EZEAGU",
+    "ward_name": "OKPOGHO",
     "document": {
       "external": false,
       "status": 1,

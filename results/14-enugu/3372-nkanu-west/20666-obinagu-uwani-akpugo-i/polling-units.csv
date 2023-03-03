@@ -1,11 +1,11 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,NKANU WEST,,ST THERESA PRIMARY SCHOOL OBINAGU UWANI,14/12/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635248/result_159331_1677566498_thumb.jpg,false
-ENUGU,NKANU WEST,,COMM. SEC. SCHOOL OBINAGU III,14/12/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40862/result_159330_1677566421_thumb.jpg,false
-ENUGU,NKANU WEST,,COMMUNITY SCHOOL AMEKE,14/12/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40857/result_159325_1677566344_thumb.jpg,false
-ENUGU,NKANU WEST,,AMAKPU TOWN HALL,14/12/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40858/result_159326_1677566273_thumb.jpg,false
-ENUGU,NKANU WEST,,OBINAGU UWANI OGIRISHI VILLAGE SQUARE I,14/12/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40861/result_159329_1677566206_thumb.jpg,false
-ENUGU,NKANU WEST,,AMAOWELLE TOWN HALL,14/12/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40855/result_159323_1677566139_thumb.jpg,false
-ENUGU,NKANU WEST,,ANIYI TOWN HALL,14/12/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40856/result_159324_1677566069_thumb.jpg,false
-ENUGU,NKANU WEST,,COMMUNITY SECONDARY SCHOOL OBINAGU I,14/12/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40859/result_159327_1677566005_thumb.jpg,false
-ENUGU,NKANU WEST,,COMMUNITY SECONDARY SCHOOL OBINAGU II,14/12/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40860/result_159328_1677565891_thumb.jpg,false
-ENUGU,NKANU WEST,,OBINAGU UWANI OGIRISHI VILLAGE SQUARE,14/12/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40854/result_159322_1677565668_thumb.jpg,false
+ENUGU,NKANU WEST,OBINAGU UWANI (AKPUGO I),ST THERESA PRIMARY SCHOOL OBINAGU UWANI,14/12/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635248/result_159331_1677566498_thumb.jpg,false
+ENUGU,NKANU WEST,OBINAGU UWANI (AKPUGO I),COMM. SEC. SCHOOL OBINAGU III,14/12/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40862/result_159330_1677566421_thumb.jpg,false
+ENUGU,NKANU WEST,OBINAGU UWANI (AKPUGO I),COMMUNITY SCHOOL AMEKE,14/12/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40857/result_159325_1677566344_thumb.jpg,false
+ENUGU,NKANU WEST,OBINAGU UWANI (AKPUGO I),AMAKPU TOWN HALL,14/12/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40858/result_159326_1677566273_thumb.jpg,false
+ENUGU,NKANU WEST,OBINAGU UWANI (AKPUGO I),OBINAGU UWANI OGIRISHI VILLAGE SQUARE I,14/12/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40861/result_159329_1677566206_thumb.jpg,false
+ENUGU,NKANU WEST,OBINAGU UWANI (AKPUGO I),AMAOWELLE TOWN HALL,14/12/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40855/result_159323_1677566139_thumb.jpg,false
+ENUGU,NKANU WEST,OBINAGU UWANI (AKPUGO I),ANIYI TOWN HALL,14/12/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40856/result_159324_1677566069_thumb.jpg,false
+ENUGU,NKANU WEST,OBINAGU UWANI (AKPUGO I),COMMUNITY SECONDARY SCHOOL OBINAGU I,14/12/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40859/result_159327_1677566005_thumb.jpg,false
+ENUGU,NKANU WEST,OBINAGU UWANI (AKPUGO I),COMMUNITY SECONDARY SCHOOL OBINAGU II,14/12/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40860/result_159328_1677565891_thumb.jpg,false
+ENUGU,NKANU WEST,OBINAGU UWANI (AKPUGO I),OBINAGU UWANI OGIRISHI VILLAGE SQUARE,14/12/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40854/result_159322_1677565668_thumb.jpg,false

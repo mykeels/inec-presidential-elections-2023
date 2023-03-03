@@ -1,17 +1,17 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,NKANU EAST,,C.S. UZAM AMECHI IDODO III,14/11/01/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3371/ward/20645/pu/142205/142205-1677607946.pdf,false
-ENUGU,NKANU EAST,,AMAOYE OHUANI SQUARE,14/11/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/007/007-1677411123.pdf,false
-ENUGU,NKANU EAST,,OHANI VILL. SQ. AMECHI IDODO,14/11/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/013/013-1677410690.pdf,false
-ENUGU,NKANU EAST,,COMMUNITY PRIMARY SCHOOL UMUODE,14/11/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/006/006-1677393577.pdf,false
-ENUGU,NKANU EAST,,OBINAGU VILL. SQUARE II,14/11/01/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/014/014-1677393186.pdf,false
-ENUGU,NKANU EAST,,AFOR UZAM VILL. SQ UMUODE,14/11/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/012/012-1677393036.pdf,false
-ENUGU,NKANU EAST,,OBINAGU VILLAGE SQUARE,14/11/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/005/005-1677392461.pdf,false
-ENUGU,NKANU EAST,,C.S. UZAM AMECHI IDODO II,14/11/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/009/009-1677392129.pdf,false
-ENUGU,NKANU EAST,,EKE ORUKU MARKET SQUARE II,14/11/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/010/010-1677390832.pdf,false
-ENUGU,NKANU EAST,,EKE UMUODE MARKET SQUARE,14/11/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/008/008-1677388487.pdf,false
-ENUGU,NKANU EAST,,ORIE EZIAMA MARKET SQUARE,14/11/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/002/002-1677388304.pdf,false
-ENUGU,NKANU EAST,,C.S EZIAMA AMECHI IDODO II,14/11/01/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/015/015-1677387951.pdf,false
-ENUGU,NKANU EAST,,C.S. UZAM AMECHI IDODO I,14/11/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/004/004-1677387269.pdf,false
-ENUGU,NKANU EAST,,EKE ORUKU MARKET SQUARE I,14/11/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/003/003-1677387252.pdf,false
-ENUGU,NKANU EAST,,C.S. EZIAMA AMECHI IDODO,14/11/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/001/001-1677386820.pdf,false
-ENUGU,NKANU EAST,,COMM. PRI. SCH. ORUKU,14/11/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/011/011-1677386464.pdf,false
+ENUGU,NKANU EAST,AMECHI/IDODO/ORUKU,C.S. UZAM AMECHI IDODO III,14/11/01/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3371/ward/20645/pu/142205/142205-1677607946.pdf,false
+ENUGU,NKANU EAST,AMECHI/IDODO/ORUKU,AMAOYE OHUANI SQUARE,14/11/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/007/007-1677411123.pdf,false
+ENUGU,NKANU EAST,AMECHI/IDODO/ORUKU,OHANI VILL. SQ. AMECHI IDODO,14/11/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/013/013-1677410690.pdf,false
+ENUGU,NKANU EAST,AMECHI/IDODO/ORUKU,COMMUNITY PRIMARY SCHOOL UMUODE,14/11/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/006/006-1677393577.pdf,false
+ENUGU,NKANU EAST,AMECHI/IDODO/ORUKU,OBINAGU VILL. SQUARE II,14/11/01/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/014/014-1677393186.pdf,false
+ENUGU,NKANU EAST,AMECHI/IDODO/ORUKU,AFOR UZAM VILL. SQ UMUODE,14/11/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/012/012-1677393036.pdf,false
+ENUGU,NKANU EAST,AMECHI/IDODO/ORUKU,OBINAGU VILLAGE SQUARE,14/11/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/005/005-1677392461.pdf,false
+ENUGU,NKANU EAST,AMECHI/IDODO/ORUKU,C.S. UZAM AMECHI IDODO II,14/11/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/009/009-1677392129.pdf,false
+ENUGU,NKANU EAST,AMECHI/IDODO/ORUKU,EKE ORUKU MARKET SQUARE II,14/11/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/010/010-1677390832.pdf,false
+ENUGU,NKANU EAST,AMECHI/IDODO/ORUKU,EKE UMUODE MARKET SQUARE,14/11/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/008/008-1677388487.pdf,false
+ENUGU,NKANU EAST,AMECHI/IDODO/ORUKU,ORIE EZIAMA MARKET SQUARE,14/11/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/002/002-1677388304.pdf,false
+ENUGU,NKANU EAST,AMECHI/IDODO/ORUKU,C.S EZIAMA AMECHI IDODO II,14/11/01/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/015/015-1677387951.pdf,false
+ENUGU,NKANU EAST,AMECHI/IDODO/ORUKU,C.S. UZAM AMECHI IDODO I,14/11/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/004/004-1677387269.pdf,false
+ENUGU,NKANU EAST,AMECHI/IDODO/ORUKU,EKE ORUKU MARKET SQUARE I,14/11/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/003/003-1677387252.pdf,false
+ENUGU,NKANU EAST,AMECHI/IDODO/ORUKU,C.S. EZIAMA AMECHI IDODO,14/11/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/001/001-1677386820.pdf,false
+ENUGU,NKANU EAST,AMECHI/IDODO/ORUKU,COMM. PRI. SCH. ORUKU,14/11/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/011/011-1677386464.pdf,false

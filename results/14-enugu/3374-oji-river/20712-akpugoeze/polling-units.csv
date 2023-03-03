@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,OJI-RIVER,,UMUDIM PRIMARY SCHOOL AKPUGOEZE,14/14/20/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635382/result_159982_1677563606_thumb.jpg,false
-ENUGU,OJI-RIVER,,AMAGU VILLAGE HALL,14/14/20/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41324/result_159969_1677562963_thumb.jpg,false
-ENUGU,OJI-RIVER,,COMMUNITY SCHOOL AKPUGOEZE I,14/14/20/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/008/008-1677407148.pdf,false
-ENUGU,OJI-RIVER,,CENTRAL SCHOOL AKPUGO EZE II,14/14/20/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/002/002-1677404491.pdf,false
-ENUGU,OJI-RIVER,,EZEOKWU PRIMARY SCHOOL AKPUGOEZE I,14/14/20/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/006/006-1677403769.pdf,false
-ENUGU,OJI-RIVER,,COMMUNITY SCHOOL OBINAGU AKPUGOEZE II,14/14/20/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/011/011-1677403362.pdf,false
-ENUGU,OJI-RIVER,,CENTRAL SCHOOL AKPUGO EZE I,14/14/20/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/001/001-1677403092.pdf,false
-ENUGU,OJI-RIVER,,EZIAKATA VILLAGE SQUARE,14/14/20/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/018/018-1677402474.pdf,false
-ENUGU,OJI-RIVER,,AGBO UMUDIM HALL,14/14/20/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/003/003-1677401901.pdf,false
-ENUGU,OJI-RIVER,,IGWUEBUIKE PRIMARY SCHOOL AKPUGOEZE,14/14/20/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/005/005-1677401561.pdf,false
-ENUGU,OJI-RIVER,,COMMUN ITY SCHOOL AKPUGOEZE II,14/14/20/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/009/009-1677399924.pdf,false
-ENUGU,OJI-RIVER,,EZEOKWU PRIMARY SCHOOL AKPUGOEZE II,14/14/20/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/007/007-1677398933.pdf,false
-ENUGU,OJI-RIVER,,OFECHEM VILLAGE SQUARE II,14/14/20/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/016/016-1677398628.pdf,false
-ENUGU,OJI-RIVER,,TEACHERS TRAINING COLLAGE II,14/14/20/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/013/013-1677398110.pdf,false
-ENUGU,OJI-RIVER,,COMMUNITY SCHOOL OBINAGU AKPUGOEZE I,14/14/20/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/010/010-1677397718.pdf,false
-ENUGU,OJI-RIVER,,OFECHEM VILLAGE SQUARE I,14/14/20/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/014/014-1677397060.pdf,false
-ENUGU,OJI-RIVER,,AKPUGOEZE HIGH SCHOOL,14/14/20/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/015/015-1677396554.pdf,false
-ENUGU,OJI-RIVER,,TEACHERS TRAINING COLLAGE I,14/14/20/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/012/012-1677395984.pdf,false
+ENUGU,OJI-RIVER,AKPUGOEZE,UMUDIM PRIMARY SCHOOL AKPUGOEZE,14/14/20/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635382/result_159982_1677563606_thumb.jpg,false
+ENUGU,OJI-RIVER,AKPUGOEZE,AMAGU VILLAGE HALL,14/14/20/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41324/result_159969_1677562963_thumb.jpg,false
+ENUGU,OJI-RIVER,AKPUGOEZE,COMMUNITY SCHOOL AKPUGOEZE I,14/14/20/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/008/008-1677407148.pdf,false
+ENUGU,OJI-RIVER,AKPUGOEZE,CENTRAL SCHOOL AKPUGO EZE II,14/14/20/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/002/002-1677404491.pdf,false
+ENUGU,OJI-RIVER,AKPUGOEZE,EZEOKWU PRIMARY SCHOOL AKPUGOEZE I,14/14/20/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/006/006-1677403769.pdf,false
+ENUGU,OJI-RIVER,AKPUGOEZE,COMMUNITY SCHOOL OBINAGU AKPUGOEZE II,14/14/20/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/011/011-1677403362.pdf,false
+ENUGU,OJI-RIVER,AKPUGOEZE,CENTRAL SCHOOL AKPUGO EZE I,14/14/20/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/001/001-1677403092.pdf,false
+ENUGU,OJI-RIVER,AKPUGOEZE,EZIAKATA VILLAGE SQUARE,14/14/20/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/018/018-1677402474.pdf,false
+ENUGU,OJI-RIVER,AKPUGOEZE,AGBO UMUDIM HALL,14/14/20/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/003/003-1677401901.pdf,false
+ENUGU,OJI-RIVER,AKPUGOEZE,IGWUEBUIKE PRIMARY SCHOOL AKPUGOEZE,14/14/20/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/005/005-1677401561.pdf,false
+ENUGU,OJI-RIVER,AKPUGOEZE,COMMUN ITY SCHOOL AKPUGOEZE II,14/14/20/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/009/009-1677399924.pdf,false
+ENUGU,OJI-RIVER,AKPUGOEZE,EZEOKWU PRIMARY SCHOOL AKPUGOEZE II,14/14/20/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/007/007-1677398933.pdf,false
+ENUGU,OJI-RIVER,AKPUGOEZE,OFECHEM VILLAGE SQUARE II,14/14/20/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/016/016-1677398628.pdf,false
+ENUGU,OJI-RIVER,AKPUGOEZE,TEACHERS TRAINING COLLAGE II,14/14/20/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/013/013-1677398110.pdf,false
+ENUGU,OJI-RIVER,AKPUGOEZE,COMMUNITY SCHOOL OBINAGU AKPUGOEZE I,14/14/20/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/010/010-1677397718.pdf,false
+ENUGU,OJI-RIVER,AKPUGOEZE,OFECHEM VILLAGE SQUARE I,14/14/20/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/014/014-1677397060.pdf,false
+ENUGU,OJI-RIVER,AKPUGOEZE,AKPUGOEZE HIGH SCHOOL,14/14/20/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/015/015-1677396554.pdf,false
+ENUGU,OJI-RIVER,AKPUGOEZE,TEACHERS TRAINING COLLAGE I,14/14/20/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/20/pu/012/012-1677395984.pdf,false

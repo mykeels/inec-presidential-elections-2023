@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,EZEAGU,,OBOLI EZEAGWO SQUARE,14/06/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20566/pu/141979/141979-1677598909.pdf,false
-ENUGU,EZEAGU,,UMUEZE ENE FAMILY HALL AKAMA OGHE,14/06/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20566/pu/141978/141978-1677598733.pdf,false
-ENUGU,EZEAGU,,OBOLLI IMAMA AKAMA OGHE,14/06/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20566/pu/141977/141977-1677598472.pdf,false
-ENUGU,EZEAGU,,AKAMA OGHE CIVIC CENTRE,14/06/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20566/pu/141976/141976-1677598138.pdf,false
-ENUGU,EZEAGU,,C.P.S. AMANKWO NDIAGU,14/06/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20566/pu/39928/39928-1677597893.pdf,false
-ENUGU,EZEAGU,,UMUOCHI SQUARE,14/06/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20566/pu/39927/39927-1677595954.pdf,false
-ENUGU,EZEAGU,,C.P.S. AKAMA OGHE II,14/06/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20566/pu/39926/39926-1677595679.pdf,false
-ENUGU,EZEAGU,,C.P.S. AMANKWO IMEZI II,14/06/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20566/pu/39924/39924-1677595057.pdf,false
-ENUGU,EZEAGU,,C.P.S. AMANKWO IMEZI I,14/06/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20566/pu/39923/39923-1677594799.pdf,true
-ENUGU,EZEAGU,,C.P.S. AMANKWO NDIAGU,14/06/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20566/pu/39922/39922-1677594217.pdf,false
-ENUGU,EZEAGU,,C.P.S. AKAMA OGHE I,14/06/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/09/pu/004/004-1677390304.pdf,false
-ENUGU,EZEAGU,,AMANKWO IMEZI MKT SQUARE,14/06/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/09/pu/008/008-1677367875.pdf,false
+ENUGU,EZEAGU,OGHE I,OBOLI EZEAGWO SQUARE,14/06/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20566/pu/141979/141979-1677598909.pdf,false
+ENUGU,EZEAGU,OGHE I,UMUEZE ENE FAMILY HALL AKAMA OGHE,14/06/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20566/pu/141978/141978-1677598733.pdf,false
+ENUGU,EZEAGU,OGHE I,OBOLLI IMAMA AKAMA OGHE,14/06/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20566/pu/141977/141977-1677598472.pdf,false
+ENUGU,EZEAGU,OGHE I,AKAMA OGHE CIVIC CENTRE,14/06/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20566/pu/141976/141976-1677598138.pdf,false
+ENUGU,EZEAGU,OGHE I,C.P.S. AMANKWO NDIAGU,14/06/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20566/pu/39928/39928-1677597893.pdf,false
+ENUGU,EZEAGU,OGHE I,UMUOCHI SQUARE,14/06/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20566/pu/39927/39927-1677595954.pdf,false
+ENUGU,EZEAGU,OGHE I,C.P.S. AKAMA OGHE II,14/06/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20566/pu/39926/39926-1677595679.pdf,false
+ENUGU,EZEAGU,OGHE I,C.P.S. AMANKWO IMEZI II,14/06/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20566/pu/39924/39924-1677595057.pdf,false
+ENUGU,EZEAGU,OGHE I,C.P.S. AMANKWO IMEZI I,14/06/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20566/pu/39923/39923-1677594799.pdf,true
+ENUGU,EZEAGU,OGHE I,C.P.S. AMANKWO NDIAGU,14/06/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20566/pu/39922/39922-1677594217.pdf,false
+ENUGU,EZEAGU,OGHE I,C.P.S. AKAMA OGHE I,14/06/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/09/pu/004/004-1677390304.pdf,false
+ENUGU,EZEAGU,OGHE I,AMANKWO IMEZI MKT SQUARE,14/06/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/09/pu/008/008-1677367875.pdf,false

@@ -1,11 +1,11 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,UDI,,UMUANI VILLAGE SQUARE UMABI,14/16/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20726/pu/142550/142550-1677632214.pdf,true
-ENUGU,UDI,,OBODO OMASHI VILLAGE SQUARE UMABI,14/16/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20726/pu/142549/142549-1677631897.pdf,true
-ENUGU,UDI,,OBODO OCHA AMAJI VILLAGE  HALL,14/16/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20726/pu/142548/142548-1677631566.pdf,true
-ENUGU,UDI,,CUSTOMARY COURT UMABI,14/16/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20726/pu/142547/142547-1677631342.pdf,true
-ENUGU,UDI,,INENWE VILLAGE SQUARE UMABI,14/16/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20726/pu/142546/142546-1677631156.pdf,true
-ENUGU,UDI,,COMMUNITY PRIMARY SCHOOL ABAOZO,14/16/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20726/pu/41542/41542-1677630999.pdf,true
-ENUGU,UDI,,COMMUNITY PRIMARY SCHOOL ABAUGULU UMUABI,14/16/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20726/pu/41541/41541-1677630732.pdf,true
-ENUGU,UDI,,CENTRAL SCHOOL UMUABI,14/16/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20726/pu/41540/41540-1677630515.pdf,true
-ENUGU,UDI,,COMMUNITY PRIMARY SCHOOL ENUGU UMUABI,14/16/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20726/pu/41539/41539-1677630220.pdf,true
-ENUGU,UDI,,PREMIER PRIMARY SCHOOL UMUABI,14/16/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20726/pu/41538/41538-1677626375.pdf,true
+ENUGU,UDI,UMUABI,UMUANI VILLAGE SQUARE UMABI,14/16/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20726/pu/142550/142550-1677632214.pdf,true
+ENUGU,UDI,UMUABI,OBODO OMASHI VILLAGE SQUARE UMABI,14/16/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20726/pu/142549/142549-1677631897.pdf,true
+ENUGU,UDI,UMUABI,OBODO OCHA AMAJI VILLAGE  HALL,14/16/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20726/pu/142548/142548-1677631566.pdf,true
+ENUGU,UDI,UMUABI,CUSTOMARY COURT UMABI,14/16/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20726/pu/142547/142547-1677631342.pdf,true
+ENUGU,UDI,UMUABI,INENWE VILLAGE SQUARE UMABI,14/16/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20726/pu/142546/142546-1677631156.pdf,true
+ENUGU,UDI,UMUABI,COMMUNITY PRIMARY SCHOOL ABAOZO,14/16/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20726/pu/41542/41542-1677630999.pdf,true
+ENUGU,UDI,UMUABI,COMMUNITY PRIMARY SCHOOL ABAUGULU UMUABI,14/16/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20726/pu/41541/41541-1677630732.pdf,true
+ENUGU,UDI,UMUABI,CENTRAL SCHOOL UMUABI,14/16/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20726/pu/41540/41540-1677630515.pdf,true
+ENUGU,UDI,UMUABI,COMMUNITY PRIMARY SCHOOL ENUGU UMUABI,14/16/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20726/pu/41539/41539-1677630220.pdf,true
+ENUGU,UDI,UMUABI,PREMIER PRIMARY SCHOOL UMUABI,14/16/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20726/pu/41538/41538-1677626375.pdf,true

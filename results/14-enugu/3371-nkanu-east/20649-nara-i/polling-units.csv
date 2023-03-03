@@ -1,10 +1,10 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,NKANU EAST,,OBEAGU OMOGBUOGBA PRIMARY SCHOOL,14/11/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/05/pu/008/008-1677390553.pdf,false
-ENUGU,NKANU EAST,,IME AMA UMU-OKPARA NGENE,14/11/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/05/pu/009/009-1677390333.pdf,false
-ENUGU,NKANU EAST,,"GIRLS' SECONDARY SCHOOL, NARA",14/11/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/05/pu/004/004-1677389777.pdf,false
-ENUGU,NKANU EAST,,IHUABARI AMAOFIA NARA,14/11/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/05/pu/005/005-1677389471.pdf,false
-ENUGU,NKANU EAST,,PRIMARY SCHOOL OBEAGU UMUIBA,14/11/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/05/pu/007/007-1677388110.pdf,false
-ENUGU,NKANU EAST,,AMAGU VILLAGE SQUARE,14/11/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/05/pu/006/006-1677387174.pdf,false
-ENUGU,NKANU EAST,,COMMUNITY PRIMARY  SCHOOL AMAOFIA,14/11/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/05/pu/002/002-1677387152.pdf,false
-ENUGU,NKANU EAST,,COMMUNITY SCHOOL NDIAGU UMUIBA,14/11/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/05/pu/001/001-1677385009.pdf,false
-ENUGU,NKANU EAST,,ONUFIA UMUIBA VILLAGE SQUARE,14/11/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/05/pu/003/003-1677384899.pdf,false
+ENUGU,NKANU EAST,NARA I,OBEAGU OMOGBUOGBA PRIMARY SCHOOL,14/11/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/05/pu/008/008-1677390553.pdf,false
+ENUGU,NKANU EAST,NARA I,IME AMA UMU-OKPARA NGENE,14/11/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/05/pu/009/009-1677390333.pdf,false
+ENUGU,NKANU EAST,NARA I,"GIRLS' SECONDARY SCHOOL, NARA",14/11/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/05/pu/004/004-1677389777.pdf,false
+ENUGU,NKANU EAST,NARA I,IHUABARI AMAOFIA NARA,14/11/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/05/pu/005/005-1677389471.pdf,false
+ENUGU,NKANU EAST,NARA I,PRIMARY SCHOOL OBEAGU UMUIBA,14/11/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/05/pu/007/007-1677388110.pdf,false
+ENUGU,NKANU EAST,NARA I,AMAGU VILLAGE SQUARE,14/11/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/05/pu/006/006-1677387174.pdf,false
+ENUGU,NKANU EAST,NARA I,COMMUNITY PRIMARY  SCHOOL AMAOFIA,14/11/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/05/pu/002/002-1677387152.pdf,false
+ENUGU,NKANU EAST,NARA I,COMMUNITY SCHOOL NDIAGU UMUIBA,14/11/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/05/pu/001/001-1677385009.pdf,false
+ENUGU,NKANU EAST,NARA I,ONUFIA UMUIBA VILLAGE SQUARE,14/11/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/05/pu/003/003-1677384899.pdf,false

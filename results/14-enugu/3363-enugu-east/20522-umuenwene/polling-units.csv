@@ -1,40 +1,40 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,ENUGU EAST,,CORNERSTONE AVENUE,14/03/03/039,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634654/result_157076_1677541116_thumb.jpg,true
-ENUGU,ENUGU EAST,,ONUNGENE SQUARE II,14/03/03/038,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634653/result_157075_1677540550_thumb.jpg,true
-ENUGU,ENUGU EAST,,ONUNGENE SQUARE I,14/03/03/037,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634652/result_157074_1677540480_thumb.jpg,true
-ENUGU,ENUGU EAST,,CORNERSTONE II,14/03/03/036,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634651/result_157073_1677540393_thumb.jpg,true
-ENUGU,ENUGU EAST,,OBINAGU VILLAGE KEKE BUS STOP,14/03/03/031,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634646/result_157068_1677540137_thumb.jpg,true
-ENUGU,ENUGU EAST,,UMUENWENE 48TH AVENUE I,14/03/03/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634635/result_157057_1677539935_thumb.jpg,true
-ENUGU,ENUGU EAST,,UMUENWENE 48TH AVENUE III,14/03/03/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634637/result_157059_1677539825_thumb.jpg,true
-ENUGU,ENUGU EAST,,UMUENWENE 48TH AVENUE II,14/03/03/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634636/result_157058_1677539880_thumb.jpg,true
-ENUGU,ENUGU EAST,,UMUENWENE IJI NIKE LAST BUS STOP I,14/03/03/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634638/result_157060_1677539732_thumb.jpg,true
-ENUGU,ENUGU EAST,,UMUENWENE IJI NIKE LAST BUS STOP II,14/03/03/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634639/result_157061_1677539618_thumb.jpg,true
-ENUGU,ENUGU EAST,,ARIAKU LAYOUT UMUENWENE,14/03/03/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634640/result_157062_1677539557_thumb.jpg,true
-ENUGU,ENUGU EAST,,IFENZE JUNCTION UMUENWENE,14/03/03/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634641/result_157063_1677539493_thumb.jpg,true
-ENUGU,ENUGU EAST,,DEVELOPMENT CENTRE AMANGWO IJI NIKE I,14/03/03/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634642/result_157064_1677539440_thumb.jpg,true
-ENUGU,ENUGU EAST,,DEVELOPMENT CENTRE AMANGWO IJI NIKE II,14/03/03/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634643/result_157065_1677539378_thumb.jpg,true
-ENUGU,ENUGU EAST,,OBINAGU VILLAGE EXTENSION  I,14/03/03/029,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634644/result_157066_1677539257_thumb.jpg,true
-ENUGU,ENUGU EAST,,OBINAGU VILLAGE EXTENSION II,14/03/03/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634645/result_157067_1677539211_thumb.jpg,true
-ENUGU,ENUGU EAST,,OBINAGU ROAD JUNCTION I,14/03/03/032,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634647/result_157069_1677539124_thumb.jpg,true
-ENUGU,ENUGU EAST,,OBINAGU ROAD JUNCTION II,14/03/03/033,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634648/result_157070_1677539069_thumb.jpg,true
-ENUGU,ENUGU EAST,,IKPEAMA JUNCTION,14/03/03/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634649/result_157071_1677539012_thumb.jpg,true
-ENUGU,ENUGU EAST,,ODANGENE VILLAGE SQUARE II,14/03/03/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634634/result_157056_1677538520_thumb.jpg,true
-ENUGU,ENUGU EAST,,ODANGENE VILLAGE SQUARE I,14/03/03/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634633/result_157055_1677538476_thumb.jpg,true
-ENUGU,ENUGU EAST,,AMANGWU VILLAGE SQUARE II,14/03/03/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634632/result_157054_1677538414_thumb.jpg,true
-ENUGU,ENUGU EAST,,AMANGWU VILLAGE SQUARE I,14/03/03/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634631/result_157053_1677538351_thumb.jpg,true
-ENUGU,ENUGU EAST,,BACK TO LAND SQUARE AMANGWU II,14/03/03/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634630/result_157052_1677538297_thumb.jpg,true
-ENUGU,ENUGU EAST,,BACK TO LAND SQUARE AMANGWU I,14/03/03/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634629/result_157051_1677538221_thumb.jpg,true
-ENUGU,ENUGU EAST,,UGWUEKE VILLAGE SQUARE II,14/03/03/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39276/result_157050_1677538139_thumb.jpg,true
-ENUGU,ENUGU EAST,,UGWUEKE VILLAGE SQUARE I,14/03/03/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39275/result_157049_1677538058_thumb.jpg,true
-ENUGU,ENUGU EAST,,UGBO EMMA II,14/03/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39274/result_157048_1677537910_thumb.jpg,true
-ENUGU,ENUGU EAST,,UGBO EMMA I,14/03/03/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39273/result_157047_1677537797_thumb.jpg,true
-ENUGU,ENUGU EAST,,OBINAGU VILLAGE SQUARE II,14/03/03/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39272/result_157046_1677537743_thumb.jpg,true
-ENUGU,ENUGU EAST,,OBINAGU VILLA,14/03/03/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39270/result_157044_1677537317_thumb.jpg,true
-ENUGU,ENUGU EAST,,OBINAGU VILLAGE SQUARE I,14/03/03/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39271/result_157045_1677537360_thumb.jpg,true
-ENUGU,ENUGU EAST,,OBINAGU VILLA,14/03/03/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39269/result_157043_1677537272_thumb.jpg,true
-ENUGU,ENUGU EAST,,NIKE TOWN HALL,14/03/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39268/result_157042_1677537231_thumb.jpg,true
-ENUGU,ENUGU EAST,,NIKE TOWN HALL IV,14/03/03/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39267/result_157041_1677537175_thumb.jpg,true
-ENUGU,ENUGU EAST,,NIKE TOWN HALL III,14/03/03/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39266/result_157040_1677537122_thumb.jpg,true
-ENUGU,ENUGU EAST,,NIKE TOWN HALL II,14/03/03/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39265/result_157039_1677537061_thumb.jpg,true
-ENUGU,ENUGU EAST,,NIKE TOWN HALL I,14/03/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39264/result_157038_1677536789_thumb.jpg,true
-ENUGU,ENUGU EAST,,CORNERSTONE I,14/03/03/035,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/03/pu/035/035-1677391530.pdf,false
+ENUGU,ENUGU EAST,UMUENWENE,CORNERSTONE AVENUE,14/03/03/039,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634654/result_157076_1677541116_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,ONUNGENE SQUARE II,14/03/03/038,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634653/result_157075_1677540550_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,ONUNGENE SQUARE I,14/03/03/037,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634652/result_157074_1677540480_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,CORNERSTONE II,14/03/03/036,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634651/result_157073_1677540393_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,OBINAGU VILLAGE KEKE BUS STOP,14/03/03/031,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634646/result_157068_1677540137_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,UMUENWENE 48TH AVENUE I,14/03/03/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634635/result_157057_1677539935_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,UMUENWENE 48TH AVENUE III,14/03/03/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634637/result_157059_1677539825_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,UMUENWENE 48TH AVENUE II,14/03/03/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634636/result_157058_1677539880_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,UMUENWENE IJI NIKE LAST BUS STOP I,14/03/03/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634638/result_157060_1677539732_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,UMUENWENE IJI NIKE LAST BUS STOP II,14/03/03/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634639/result_157061_1677539618_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,ARIAKU LAYOUT UMUENWENE,14/03/03/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634640/result_157062_1677539557_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,IFENZE JUNCTION UMUENWENE,14/03/03/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634641/result_157063_1677539493_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,DEVELOPMENT CENTRE AMANGWO IJI NIKE I,14/03/03/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634642/result_157064_1677539440_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,DEVELOPMENT CENTRE AMANGWO IJI NIKE II,14/03/03/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634643/result_157065_1677539378_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,OBINAGU VILLAGE EXTENSION  I,14/03/03/029,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634644/result_157066_1677539257_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,OBINAGU VILLAGE EXTENSION II,14/03/03/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634645/result_157067_1677539211_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,OBINAGU ROAD JUNCTION I,14/03/03/032,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634647/result_157069_1677539124_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,OBINAGU ROAD JUNCTION II,14/03/03/033,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634648/result_157070_1677539069_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,IKPEAMA JUNCTION,14/03/03/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634649/result_157071_1677539012_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,ODANGENE VILLAGE SQUARE II,14/03/03/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634634/result_157056_1677538520_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,ODANGENE VILLAGE SQUARE I,14/03/03/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634633/result_157055_1677538476_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,AMANGWU VILLAGE SQUARE II,14/03/03/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634632/result_157054_1677538414_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,AMANGWU VILLAGE SQUARE I,14/03/03/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634631/result_157053_1677538351_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,BACK TO LAND SQUARE AMANGWU II,14/03/03/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634630/result_157052_1677538297_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,BACK TO LAND SQUARE AMANGWU I,14/03/03/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/634629/result_157051_1677538221_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,UGWUEKE VILLAGE SQUARE II,14/03/03/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39276/result_157050_1677538139_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,UGWUEKE VILLAGE SQUARE I,14/03/03/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39275/result_157049_1677538058_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,UGBO EMMA II,14/03/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39274/result_157048_1677537910_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,UGBO EMMA I,14/03/03/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39273/result_157047_1677537797_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,OBINAGU VILLAGE SQUARE II,14/03/03/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39272/result_157046_1677537743_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,OBINAGU VILLA,14/03/03/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39270/result_157044_1677537317_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,OBINAGU VILLAGE SQUARE I,14/03/03/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39271/result_157045_1677537360_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,OBINAGU VILLA,14/03/03/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39269/result_157043_1677537272_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,NIKE TOWN HALL,14/03/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39268/result_157042_1677537231_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,NIKE TOWN HALL IV,14/03/03/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39267/result_157041_1677537175_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,NIKE TOWN HALL III,14/03/03/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39266/result_157040_1677537122_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,NIKE TOWN HALL II,14/03/03/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39265/result_157039_1677537061_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,NIKE TOWN HALL I,14/03/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/39264/result_157038_1677536789_thumb.jpg,true
+ENUGU,ENUGU EAST,UMUENWENE,CORNERSTONE I,14/03/03/035,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/03/pu/035/035-1677391530.pdf,false

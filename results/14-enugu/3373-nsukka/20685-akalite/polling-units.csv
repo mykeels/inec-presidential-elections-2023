@@ -1,21 +1,21 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,NSUKKA,,OTOBO AMANKWO,14/13/13/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41090/result_159609_1677589212_thumb.jpg,false
-ENUGU,NSUKKA,,OTOBO SITE UMAKPO,14/13/13/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41100/result_159619_1677591036_thumb.jpg,false
-ENUGU,NSUKKA,,UWANI AGU UMUODA,14/13/13/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41098/result_159617_1677590356_thumb.jpg,false
-ENUGU,NSUKKA,,OTOBO UMUNGWOKE,14/13/13/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41107/result_159626_1677592463_thumb.jpg,false
-ENUGU,NSUKKA,,OTOBO SITE UMAKPO UWANI,14/13/13/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41101/result_159620_1677591304_thumb.jpg,false
-ENUGU,NSUKKA,,OTOBO UGA,14/13/13/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41095/result_159614_1677590011_thumb.jpg,false
-ENUGU,NSUKKA,,OTOBO UKWUOTO AMUBE,14/13/13/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-ENUGU,NSUKKA,,OTOBO ISHIAHABA,14/13/13/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41093/result_159612_1677589754_thumb.jpg,false
-ENUGU,NSUKKA,,OTOBO UMUEFI,14/13/13/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41092/result_159611_1677589590_thumb.jpg,false
-ENUGU,NSUKKA,,OTOBO ISHIAMELU,14/13/13/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41094/result_159613_1677589864_thumb.jpg,false
-ENUGU,NSUKKA,,OTOBO UWENU AMUBE,14/13/13/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41104/result_159623_1677591943_thumb.jpg,false
-ENUGU,NSUKKA,,OTOBO UMAKPO ULO,14/13/13/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41099/result_159618_1677590590_thumb.jpg,false
-ENUGU,NSUKKA,,OTOBO UMUODA ULO,14/13/13/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41096/result_159615_1677590125_thumb.jpg,false
-ENUGU,NSUKKA,,FEDERAL GOVERNMENT GIRLS' COLLEGE,14/13/13/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41108/result_159627_1677592573_thumb.jpg,false
-ENUGU,NSUKKA,,OTOBO AGU ODENIGBO,14/13/13/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41091/result_159610_1677589436_thumb.jpg,false
-ENUGU,NSUKKA,,OTOBO SITE AMELU,14/13/13/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41103/result_159622_1677591863_thumb.jpg,false
-ENUGU,NSUKKA,,OTOBO AGU AMEGBU AMUBE,14/13/13/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41106/result_159625_1677592336_thumb.jpg,false
-ENUGU,NSUKKA,,OTOBO UMAKPO UWENU,14/13/13/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41102/result_159621_1677591632_thumb.jpg,false
-ENUGU,NSUKKA,,OTOBO ENU ONICHA,14/13/13/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41109/result_159628_1677592735_thumb.jpg,false
-ENUGU,NSUKKA,,OTOBO EGURU UMUODA,14/13/13/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41097/result_159616_1677590272_thumb.jpg,false
+ENUGU,NSUKKA,AKALITE,OTOBO AMANKWO,14/13/13/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41090/result_159609_1677589212_thumb.jpg,false
+ENUGU,NSUKKA,AKALITE,OTOBO SITE UMAKPO,14/13/13/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41100/result_159619_1677591036_thumb.jpg,false
+ENUGU,NSUKKA,AKALITE,UWANI AGU UMUODA,14/13/13/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41098/result_159617_1677590356_thumb.jpg,false
+ENUGU,NSUKKA,AKALITE,OTOBO UMUNGWOKE,14/13/13/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41107/result_159626_1677592463_thumb.jpg,false
+ENUGU,NSUKKA,AKALITE,OTOBO SITE UMAKPO UWANI,14/13/13/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41101/result_159620_1677591304_thumb.jpg,false
+ENUGU,NSUKKA,AKALITE,OTOBO UGA,14/13/13/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41095/result_159614_1677590011_thumb.jpg,false
+ENUGU,NSUKKA,AKALITE,OTOBO UKWUOTO AMUBE,14/13/13/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+ENUGU,NSUKKA,AKALITE,OTOBO ISHIAHABA,14/13/13/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41093/result_159612_1677589754_thumb.jpg,false
+ENUGU,NSUKKA,AKALITE,OTOBO UMUEFI,14/13/13/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41092/result_159611_1677589590_thumb.jpg,false
+ENUGU,NSUKKA,AKALITE,OTOBO ISHIAMELU,14/13/13/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41094/result_159613_1677589864_thumb.jpg,false
+ENUGU,NSUKKA,AKALITE,OTOBO UWENU AMUBE,14/13/13/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41104/result_159623_1677591943_thumb.jpg,false
+ENUGU,NSUKKA,AKALITE,OTOBO UMAKPO ULO,14/13/13/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41099/result_159618_1677590590_thumb.jpg,false
+ENUGU,NSUKKA,AKALITE,OTOBO UMUODA ULO,14/13/13/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41096/result_159615_1677590125_thumb.jpg,false
+ENUGU,NSUKKA,AKALITE,FEDERAL GOVERNMENT GIRLS' COLLEGE,14/13/13/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41108/result_159627_1677592573_thumb.jpg,false
+ENUGU,NSUKKA,AKALITE,OTOBO AGU ODENIGBO,14/13/13/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41091/result_159610_1677589436_thumb.jpg,false
+ENUGU,NSUKKA,AKALITE,OTOBO SITE AMELU,14/13/13/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41103/result_159622_1677591863_thumb.jpg,false
+ENUGU,NSUKKA,AKALITE,OTOBO AGU AMEGBU AMUBE,14/13/13/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41106/result_159625_1677592336_thumb.jpg,false
+ENUGU,NSUKKA,AKALITE,OTOBO UMAKPO UWENU,14/13/13/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41102/result_159621_1677591632_thumb.jpg,false
+ENUGU,NSUKKA,AKALITE,OTOBO ENU ONICHA,14/13/13/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41109/result_159628_1677592735_thumb.jpg,false
+ENUGU,NSUKKA,AKALITE,OTOBO EGURU UMUODA,14/13/13/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41097/result_159616_1677590272_thumb.jpg,false

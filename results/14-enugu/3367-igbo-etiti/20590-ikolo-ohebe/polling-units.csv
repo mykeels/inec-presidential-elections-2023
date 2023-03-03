@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,IGBO ETITI,,IKOLO HALL,14/07/13/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/13/pu/004/004-1677387278.pdf,false
-ENUGU,IGBO ETITI,,OBU UMUIYIDA,14/07/13/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/13/pu/011/011-1677387145.pdf,false
-ENUGU,IGBO ETITI,,AMETI UWELU HALL,14/07/13/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/13/pu/002/002-1677386849.pdf,false
-ENUGU,IGBO ETITI,,OBU UMUEZE OHEBE,14/07/13/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/13/pu/008/008-1677386328.pdf,false
-ENUGU,IGBO ETITI,,AMAEDEM HALL I,14/07/13/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/13/pu/005/005-1677384824.pdf,false
-ENUGU,IGBO ETITI,,OBU OBEKE I,14/07/13/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/13/pu/007/007-1677383225.pdf,false
-ENUGU,IGBO ETITI,,EJUONA PRIMARY SCHOOL OHEBE,14/07/13/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/13/pu/010/010-1677382235.pdf,false
-ENUGU,IGBO ETITI,,AMETI UWANI HALL,14/07/13/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/13/pu/001/001-1677381763.pdf,false
-ENUGU,IGBO ETITI,,IKOLO ANI HALL,14/07/13/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/13/pu/003/003-1677374652.pdf,false
-ENUGU,IGBO ETITI,,AMAEDEM HALL II,14/07/13/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/13/pu/006/006-1677368372.pdf,false
-ENUGU,IGBO ETITI,,OBU OMASHI,14/07/13/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/13/pu/009/009-1677364984.pdf,false
-ENUGU,IGBO ETITI,,IKOLO MARKET SQUARE,14/07/13/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/13/pu/013/013-1677364229.pdf,false
-ENUGU,IGBO ETITI,,OTOBO OHODO,14/07/13/012,,false
+ENUGU,IGBO ETITI,IKOLO/OHEBE,IKOLO HALL,14/07/13/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/13/pu/004/004-1677387278.pdf,false
+ENUGU,IGBO ETITI,IKOLO/OHEBE,OBU UMUIYIDA,14/07/13/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/13/pu/011/011-1677387145.pdf,false
+ENUGU,IGBO ETITI,IKOLO/OHEBE,AMETI UWELU HALL,14/07/13/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/13/pu/002/002-1677386849.pdf,false
+ENUGU,IGBO ETITI,IKOLO/OHEBE,OBU UMUEZE OHEBE,14/07/13/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/13/pu/008/008-1677386328.pdf,false
+ENUGU,IGBO ETITI,IKOLO/OHEBE,AMAEDEM HALL I,14/07/13/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/13/pu/005/005-1677384824.pdf,false
+ENUGU,IGBO ETITI,IKOLO/OHEBE,OBU OBEKE I,14/07/13/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/13/pu/007/007-1677383225.pdf,false
+ENUGU,IGBO ETITI,IKOLO/OHEBE,EJUONA PRIMARY SCHOOL OHEBE,14/07/13/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/13/pu/010/010-1677382235.pdf,false
+ENUGU,IGBO ETITI,IKOLO/OHEBE,AMETI UWANI HALL,14/07/13/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/13/pu/001/001-1677381763.pdf,false
+ENUGU,IGBO ETITI,IKOLO/OHEBE,IKOLO ANI HALL,14/07/13/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/13/pu/003/003-1677374652.pdf,false
+ENUGU,IGBO ETITI,IKOLO/OHEBE,AMAEDEM HALL II,14/07/13/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/13/pu/006/006-1677368372.pdf,false
+ENUGU,IGBO ETITI,IKOLO/OHEBE,OBU OMASHI,14/07/13/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/13/pu/009/009-1677364984.pdf,false
+ENUGU,IGBO ETITI,IKOLO/OHEBE,IKOLO MARKET SQUARE,14/07/13/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/13/pu/013/013-1677364229.pdf,false
+ENUGU,IGBO ETITI,IKOLO/OHEBE,OTOBO OHODO,14/07/13/012,,false

@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,IGBO ETITI,,AMOKPO HALL,14/07/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40088/result_158290_1677531836_thumb.jpg,true
-ENUGU,IGBO ETITI,,ABAEDEM HALL,14/07/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40090/result_158292_1677505435_thumb.jpg,true
-ENUGU,IGBO ETITI,,OKEBULEKE HALL,14/07/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40089/result_158291_1677506240_thumb.jpg,true
-ENUGU,IGBO ETITI,,UMUDIM VILLAGE SQUARE,14/07/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40092/result_158294_1677513495_thumb.jpg,true
-ENUGU,IGBO ETITI,,UGWUEGBA SQUARE,14/07/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/10/pu/004/004-1677409245.pdf,false
-ENUGU,IGBO ETITI,,IBAGWA HALL,14/07/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/10/pu/003/003-1677408860.pdf,false
-ENUGU,IGBO ETITI,,GBUDUGBU HALL,14/07/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/10/pu/002/002-1677408560.pdf,false
-ENUGU,IGBO ETITI,,UMUOZOTA HALL,14/07/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/10/pu/001/001-1677408251.pdf,false
-ENUGU,IGBO ETITI,,COMMERCIAL SEC. SCHOOL OZALLA,14/07/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/10/pu/011/011-1677396390.pdf,false
-ENUGU,IGBO ETITI,,C.P.S. OZALLA,14/07/10/005,,false
-ENUGU,IGBO ETITI,,NDIAGU UMOLUMO VILLAGE SQUARE,14/07/10/009,,false
+ENUGU,IGBO ETITI,OZALLA I,AMOKPO HALL,14/07/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40088/result_158290_1677531836_thumb.jpg,true
+ENUGU,IGBO ETITI,OZALLA I,ABAEDEM HALL,14/07/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40090/result_158292_1677505435_thumb.jpg,true
+ENUGU,IGBO ETITI,OZALLA I,OKEBULEKE HALL,14/07/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40089/result_158291_1677506240_thumb.jpg,true
+ENUGU,IGBO ETITI,OZALLA I,UMUDIM VILLAGE SQUARE,14/07/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/40092/result_158294_1677513495_thumb.jpg,true
+ENUGU,IGBO ETITI,OZALLA I,UGWUEGBA SQUARE,14/07/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/10/pu/004/004-1677409245.pdf,false
+ENUGU,IGBO ETITI,OZALLA I,IBAGWA HALL,14/07/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/10/pu/003/003-1677408860.pdf,false
+ENUGU,IGBO ETITI,OZALLA I,GBUDUGBU HALL,14/07/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/10/pu/002/002-1677408560.pdf,false
+ENUGU,IGBO ETITI,OZALLA I,UMUOZOTA HALL,14/07/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/10/pu/001/001-1677408251.pdf,false
+ENUGU,IGBO ETITI,OZALLA I,COMMERCIAL SEC. SCHOOL OZALLA,14/07/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/10/pu/011/011-1677396390.pdf,false
+ENUGU,IGBO ETITI,OZALLA I,C.P.S. OZALLA,14/07/10/005,,false
+ENUGU,IGBO ETITI,OZALLA I,NDIAGU UMOLUMO VILLAGE SQUARE,14/07/10/009,,false

@@ -26,6 +26,7 @@
     "pu_code_string": "140720004",
     "state_name": "ENUGU",
     "lga_name": "IGBO ETITI",
+    "ward_name": "UKEHE V",
     "document": {
       "external": true,
       "status": 1,
@@ -97,6 +98,7 @@
     "pu_code_string": "140720003",
     "state_name": "ENUGU",
     "lga_name": "IGBO ETITI",
+    "ward_name": "UKEHE V",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -127,6 +129,7 @@
     "pu_code_string": "140720005",
     "state_name": "ENUGU",
     "lga_name": "IGBO ETITI",
+    "ward_name": "UKEHE V",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -157,6 +160,7 @@
     "pu_code_string": "140720002",
     "state_name": "ENUGU",
     "lga_name": "IGBO ETITI",
+    "ward_name": "UKEHE V",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -187,6 +191,7 @@
     "pu_code_string": "140720007",
     "state_name": "ENUGU",
     "lga_name": "IGBO ETITI",
+    "ward_name": "UKEHE V",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -217,6 +222,7 @@
     "pu_code_string": "140720001",
     "state_name": "ENUGU",
     "lga_name": "IGBO ETITI",
+    "ward_name": "UKEHE V",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -247,6 +253,7 @@
     "pu_code_string": "140720006",
     "state_name": "ENUGU",
     "lga_name": "IGBO ETITI",
+    "ward_name": "UKEHE V",
     "old_documents": [],
     "has_old_documents": false
   }

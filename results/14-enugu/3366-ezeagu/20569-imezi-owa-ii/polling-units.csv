@@ -1,10 +1,10 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,EZEAGU,,ANI ENUGWU SQUARE,14/06/12/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20569/pu/39951/39951-1677605767.pdf,true
-ENUGU,EZEAGU,,AGBANI SQUARE,14/06/12/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20569/pu/39949/39949-1677605541.pdf,true
-ENUGU,EZEAGU,,UMUEZEDUME HALL,14/06/12/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20569/pu/39948/39948-1677605379.pdf,true
-ENUGU,EZEAGU,,ONUBUEZEANI SQUARE,14/06/12/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20569/pu/39947/39947-1677605050.pdf,true
-ENUGU,EZEAGU,,C.S. IMEZI-OWA,14/06/12/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20569/pu/39946/39946-1677604722.pdf,true
-ENUGU,EZEAGU,,OBODO NZU PUBLIC SQUARE II,14/06/12/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20569/pu/39945/39945-1677604406.pdf,false
-ENUGU,EZEAGU,,OBODO NZU PUBLIC SQUARE I,14/06/12/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20569/pu/39944/39944-1677604209.pdf,true
-ENUGU,EZEAGU,,ABONUZU PUBLIC SQUARE,14/06/12/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20569/pu/39943/39943-1677601995.pdf,false
-ENUGU,EZEAGU,,ABONUZU PUBLIC SQUARE II,14/06/12/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/12/pu/008/008-1677360823.pdf,false
+ENUGU,EZEAGU,IMEZI OWA II,ANI ENUGWU SQUARE,14/06/12/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20569/pu/39951/39951-1677605767.pdf,true
+ENUGU,EZEAGU,IMEZI OWA II,AGBANI SQUARE,14/06/12/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20569/pu/39949/39949-1677605541.pdf,true
+ENUGU,EZEAGU,IMEZI OWA II,UMUEZEDUME HALL,14/06/12/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20569/pu/39948/39948-1677605379.pdf,true
+ENUGU,EZEAGU,IMEZI OWA II,ONUBUEZEANI SQUARE,14/06/12/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20569/pu/39947/39947-1677605050.pdf,true
+ENUGU,EZEAGU,IMEZI OWA II,C.S. IMEZI-OWA,14/06/12/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20569/pu/39946/39946-1677604722.pdf,true
+ENUGU,EZEAGU,IMEZI OWA II,OBODO NZU PUBLIC SQUARE II,14/06/12/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20569/pu/39945/39945-1677604406.pdf,false
+ENUGU,EZEAGU,IMEZI OWA II,OBODO NZU PUBLIC SQUARE I,14/06/12/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20569/pu/39944/39944-1677604209.pdf,true
+ENUGU,EZEAGU,IMEZI OWA II,ABONUZU PUBLIC SQUARE,14/06/12/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20569/pu/39943/39943-1677601995.pdf,false
+ENUGU,EZEAGU,IMEZI OWA II,ABONUZU PUBLIC SQUARE II,14/06/12/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/12/pu/008/008-1677360823.pdf,false

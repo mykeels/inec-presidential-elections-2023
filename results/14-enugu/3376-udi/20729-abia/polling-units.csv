@@ -1,9 +1,9 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,UDI,,AMETI HALL I,14/16/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20729/pu/41560/41560-1677610082.pdf,false
-ENUGU,UDI,,AMETI HALL II,14/16/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20729/pu/41561/41561-1677583847.pdf,false
-ENUGU,UDI,,AFOR OBODO ENUGU ABIA VILLAGE HALL,14/16/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20729/pu/142555/142555-1677508736.pdf,false
-ENUGU,UDI,,OFEKE TOWN HALL I,14/16/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20729/pu/41558/41558-1677481350.pdf,false
-ENUGU,UDI,,ABIA TOWN HALL II,14/16/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20729/pu/41563/41563-1677473056.pdf,false
-ENUGU,UDI,,ANIAJI VILLAGE HALL ABIA,14/16/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20729/pu/142556/142556-1677471982.pdf,false
-ENUGU,UDI,,ABIA TOWN HALL I,14/16/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20729/pu/41562/41562-1677454571.pdf,false
-ENUGU,UDI,,OFEKE TOWN HALL II,14/16/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/07/pu/002/002-1677368882.pdf,false
+ENUGU,UDI,ABIA,AMETI HALL I,14/16/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20729/pu/41560/41560-1677610082.pdf,false
+ENUGU,UDI,ABIA,AMETI HALL II,14/16/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20729/pu/41561/41561-1677583847.pdf,false
+ENUGU,UDI,ABIA,AFOR OBODO ENUGU ABIA VILLAGE HALL,14/16/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20729/pu/142555/142555-1677508736.pdf,false
+ENUGU,UDI,ABIA,OFEKE TOWN HALL I,14/16/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20729/pu/41558/41558-1677481350.pdf,false
+ENUGU,UDI,ABIA,ABIA TOWN HALL II,14/16/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20729/pu/41563/41563-1677473056.pdf,false
+ENUGU,UDI,ABIA,ANIAJI VILLAGE HALL ABIA,14/16/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20729/pu/142556/142556-1677471982.pdf,false
+ENUGU,UDI,ABIA,ABIA TOWN HALL I,14/16/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20729/pu/41562/41562-1677454571.pdf,false
+ENUGU,UDI,ABIA,OFEKE TOWN HALL II,14/16/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/07/pu/002/002-1677368882.pdf,false

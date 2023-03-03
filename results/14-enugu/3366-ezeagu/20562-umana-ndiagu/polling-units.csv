@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,EZEAGU,,UMUENE NDI NGENE HALL,14/06/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20562/pu/141973/141973-1677595485.pdf,false
-ENUGU,EZEAGU,,COMMUNITY SECONDARYS CHOOL OWELLEMBA,14/06/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20562/pu/141972/141972-1677594573.pdf,false
-ENUGU,EZEAGU,,P.S. AGU AGBAJA NDIAGU III,14/06/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20562/pu/39901/39901-1677594425.pdf,true
-ENUGU,EZEAGU,,C.S. AGUAGBAJA II,14/06/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20562/pu/39900/39900-1677594170.pdf,false
-ENUGU,EZEAGU,,NKWOALUSI MARKET SQUARE II,14/06/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20562/pu/39899/39899-1677594024.pdf,true
-ENUGU,EZEAGU,,NKWOALUSI MARKET SQUARE I,14/06/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20562/pu/39898/39898-1677593913.pdf,false
-ENUGU,EZEAGU,,C.P.S. C.S. AGUAGBAJA I,14/06/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20562/pu/39897/39897-1677593729.pdf,true
-ENUGU,EZEAGU,,C.P.S. ISIGWU UMANA,14/06/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20562/pu/39896/39896-1677593176.pdf,true
-ENUGU,EZEAGU,,P.S. KKAGUAGBAJA NDIAGU II,14/06/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20562/pu/39895/39895-1677593086.pdf,true
-ENUGU,EZEAGU,,P.S. AGUAGBAJA NDIAGU I,14/06/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20562/pu/39894/39894-1677592985.pdf,true
-ENUGU,EZEAGU,,C.P.S. UMANA NDIUNO,14/06/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20562/pu/39893/39893-1677592653.pdf,true
-ENUGU,EZEAGU,,OWELLEMBA VILLAGE HALL,14/06/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20562/pu/39892/39892-1677592054.pdf,false
+ENUGU,EZEAGU,UMANA NDIAGU,UMUENE NDI NGENE HALL,14/06/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20562/pu/141973/141973-1677595485.pdf,false
+ENUGU,EZEAGU,UMANA NDIAGU,COMMUNITY SECONDARYS CHOOL OWELLEMBA,14/06/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20562/pu/141972/141972-1677594573.pdf,false
+ENUGU,EZEAGU,UMANA NDIAGU,P.S. AGU AGBAJA NDIAGU III,14/06/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20562/pu/39901/39901-1677594425.pdf,true
+ENUGU,EZEAGU,UMANA NDIAGU,C.S. AGUAGBAJA II,14/06/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20562/pu/39900/39900-1677594170.pdf,false
+ENUGU,EZEAGU,UMANA NDIAGU,NKWOALUSI MARKET SQUARE II,14/06/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20562/pu/39899/39899-1677594024.pdf,true
+ENUGU,EZEAGU,UMANA NDIAGU,NKWOALUSI MARKET SQUARE I,14/06/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20562/pu/39898/39898-1677593913.pdf,false
+ENUGU,EZEAGU,UMANA NDIAGU,C.P.S. C.S. AGUAGBAJA I,14/06/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20562/pu/39897/39897-1677593729.pdf,true
+ENUGU,EZEAGU,UMANA NDIAGU,C.P.S. ISIGWU UMANA,14/06/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20562/pu/39896/39896-1677593176.pdf,true
+ENUGU,EZEAGU,UMANA NDIAGU,P.S. KKAGUAGBAJA NDIAGU II,14/06/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20562/pu/39895/39895-1677593086.pdf,true
+ENUGU,EZEAGU,UMANA NDIAGU,P.S. AGUAGBAJA NDIAGU I,14/06/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20562/pu/39894/39894-1677592985.pdf,true
+ENUGU,EZEAGU,UMANA NDIAGU,C.P.S. UMANA NDIUNO,14/06/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20562/pu/39893/39893-1677592653.pdf,true
+ENUGU,EZEAGU,UMANA NDIAGU,OWELLEMBA VILLAGE HALL,14/06/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3366/ward/20562/pu/39892/39892-1677592054.pdf,false

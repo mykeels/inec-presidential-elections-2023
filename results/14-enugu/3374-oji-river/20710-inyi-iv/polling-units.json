@@ -26,6 +26,7 @@
     "pu_code_string": "141418002",
     "state_name": "ENUGU",
     "lga_name": "OJI-RIVER",
+    "ward_name": "INYI IV",
     "document": {
       "external": true,
       "status": 1,
@@ -73,6 +74,7 @@
     "pu_code_string": "141418008",
     "state_name": "ENUGU",
     "lga_name": "OJI-RIVER",
+    "ward_name": "INYI IV",
     "document": {
       "external": true,
       "status": 1,
@@ -120,6 +122,7 @@
     "pu_code_string": "141418004",
     "state_name": "ENUGU",
     "lga_name": "OJI-RIVER",
+    "ward_name": "INYI IV",
     "document": {
       "external": true,
       "status": 1,
@@ -191,6 +194,7 @@
     "pu_code_string": "141418007",
     "state_name": "ENUGU",
     "lga_name": "OJI-RIVER",
+    "ward_name": "INYI IV",
     "document": {
       "external": false,
       "status": 1,
@@ -229,6 +233,7 @@
     "pu_code_string": "141418005",
     "state_name": "ENUGU",
     "lga_name": "OJI-RIVER",
+    "ward_name": "INYI IV",
     "document": {
       "external": false,
       "status": 1,
@@ -267,6 +272,7 @@
     "pu_code_string": "141418003",
     "state_name": "ENUGU",
     "lga_name": "OJI-RIVER",
+    "ward_name": "INYI IV",
     "document": {
       "external": false,
       "status": 1,
@@ -305,6 +311,7 @@
     "pu_code_string": "141418001",
     "state_name": "ENUGU",
     "lga_name": "OJI-RIVER",
+    "ward_name": "INYI IV",
     "document": {
       "external": false,
       "status": 1,
@@ -343,6 +350,7 @@
     "pu_code_string": "141418006",
     "state_name": "ENUGU",
     "lga_name": "OJI-RIVER",
+    "ward_name": "INYI IV",
     "document": {
       "external": false,
       "status": 1,

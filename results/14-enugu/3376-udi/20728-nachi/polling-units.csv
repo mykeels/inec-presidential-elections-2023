@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ENUGU,UDI,,COMMUNITY PRIMARY SCHOOL AMEKE,14/16/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20728/pu/142554/142554-1677624848.pdf,true
-ENUGU,UDI,,UMUENECHI HALL AMEKE NACHI,14/16/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20728/pu/142553/142553-1677624640.pdf,true
-ENUGU,UDI,,COMMUNITY PRIMARY SCHOOL NACHI IV,14/16/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20728/pu/41556/41556-1677624325.pdf,true
-ENUGU,UDI,,COMMUNITY PRIMARY SCHOOL NACHI III,14/16/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20728/pu/41555/41555-1677624120.pdf,true
-ENUGU,UDI,,OBODO IKWE HALL I,14/16/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20728/pu/41554/41554-1677623887.pdf,true
-ENUGU,UDI,,COMMUNITY PRIMARY SCHOOL UMUBO NACHI II,14/16/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20728/pu/41553/41553-1677623661.pdf,true
-ENUGU,UDI,,COMMUNITY PRIMARY SCHOOL UMUBO NACHI I,14/16/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20728/pu/41552/41552-1677621648.pdf,true
-ENUGU,UDI,,CENTRAL SCHOOL OBINAGU NACHI,14/16/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20728/pu/41551/41551-1677621324.pdf,false
-ENUGU,UDI,,OBODO NWEKE SQUARE II,14/16/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20728/pu/41550/41550-1677620695.pdf,false
-ENUGU,UDI,,OBODO NWEKE SQUARE I,14/16/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20728/pu/41549/41549-1677620300.pdf,false
-ENUGU,UDI,,OBODO IKWE HALL II,14/16/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/009/009-1677371052.pdf,false
+ENUGU,UDI,NACHI,COMMUNITY PRIMARY SCHOOL AMEKE,14/16/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20728/pu/142554/142554-1677624848.pdf,true
+ENUGU,UDI,NACHI,UMUENECHI HALL AMEKE NACHI,14/16/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20728/pu/142553/142553-1677624640.pdf,true
+ENUGU,UDI,NACHI,COMMUNITY PRIMARY SCHOOL NACHI IV,14/16/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20728/pu/41556/41556-1677624325.pdf,true
+ENUGU,UDI,NACHI,COMMUNITY PRIMARY SCHOOL NACHI III,14/16/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20728/pu/41555/41555-1677624120.pdf,true
+ENUGU,UDI,NACHI,OBODO IKWE HALL I,14/16/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20728/pu/41554/41554-1677623887.pdf,true
+ENUGU,UDI,NACHI,COMMUNITY PRIMARY SCHOOL UMUBO NACHI II,14/16/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20728/pu/41553/41553-1677623661.pdf,true
+ENUGU,UDI,NACHI,COMMUNITY PRIMARY SCHOOL UMUBO NACHI I,14/16/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20728/pu/41552/41552-1677621648.pdf,true
+ENUGU,UDI,NACHI,CENTRAL SCHOOL OBINAGU NACHI,14/16/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20728/pu/41551/41551-1677621324.pdf,false
+ENUGU,UDI,NACHI,OBODO NWEKE SQUARE II,14/16/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20728/pu/41550/41550-1677620695.pdf,false
+ENUGU,UDI,NACHI,OBODO NWEKE SQUARE I,14/16/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3376/ward/20728/pu/41549/41549-1677620300.pdf,false
+ENUGU,UDI,NACHI,OBODO IKWE HALL II,14/16/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/009/009-1677371052.pdf,false

@@ -26,6 +26,7 @@
     "pu_code_string": "141402002",
     "state_name": "ENUGU",
     "lga_name": "OJI-RIVER",
+    "ward_name": "OJI-RIVER II",
     "document": {
       "external": true,
       "status": 1,
@@ -73,6 +74,7 @@
     "pu_code_string": "141402001",
     "state_name": "ENUGU",
     "lga_name": "OJI-RIVER",
+    "ward_name": "OJI-RIVER II",
     "document": {
       "external": true,
       "status": 1,
@@ -128,6 +130,7 @@
     "pu_code_string": "141402010",
     "state_name": "ENUGU",
     "lga_name": "OJI-RIVER",
+    "ward_name": "OJI-RIVER II",
     "document": {
       "external": false,
       "status": 1,
@@ -166,6 +169,7 @@
     "pu_code_string": "141402006",
     "state_name": "ENUGU",
     "lga_name": "OJI-RIVER",
+    "ward_name": "OJI-RIVER II",
     "document": {
       "external": false,
       "status": 1,
@@ -204,6 +208,7 @@
     "pu_code_string": "141402004",
     "state_name": "ENUGU",
     "lga_name": "OJI-RIVER",
+    "ward_name": "OJI-RIVER II",
     "document": {
       "external": false,
       "status": 1,
@@ -242,6 +247,7 @@
     "pu_code_string": "141402003",
     "state_name": "ENUGU",
     "lga_name": "OJI-RIVER",
+    "ward_name": "OJI-RIVER II",
     "document": {
       "external": false,
       "status": 1,
@@ -280,6 +286,7 @@
     "pu_code_string": "141402005",
     "state_name": "ENUGU",
     "lga_name": "OJI-RIVER",
+    "ward_name": "OJI-RIVER II",
     "document": {
       "external": false,
       "status": 1,
@@ -318,6 +325,7 @@
     "pu_code_string": "141402009",
     "state_name": "ENUGU",
     "lga_name": "OJI-RIVER",
+    "ward_name": "OJI-RIVER II",
     "document": {
       "external": false,
       "status": 1,
@@ -356,6 +364,7 @@
     "pu_code_string": "141402007",
     "state_name": "ENUGU",
     "lga_name": "OJI-RIVER",
+    "ward_name": "OJI-RIVER II",
     "document": {
       "external": false,
       "status": 1,
@@ -394,6 +403,7 @@
     "pu_code_string": "141402008",
     "state_name": "ENUGU",
     "lga_name": "OJI-RIVER",
+    "ward_name": "OJI-RIVER II",
     "document": {
       "external": false,
       "status": 1,
