@@ -1,0 +1,7 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+OSUN,ATAKUMOSA WEST,IFELODUN,ODO IJU VILLAGE,29/02/05/003,,true
+OSUN,ATAKUMOSA WEST,IFELODUN,IYEMOGUN VILLAGE,29/02/05/004,,true
+OSUN,ATAKUMOSA WEST,IFELODUN,EPE VILLAGE,29/02/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/001/001-1677406513.pdf,false
+OSUN,ATAKUMOSA WEST,IFELODUN,"METHODIST PRY. SCHOOL, IGUN",29/02/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/005/005-1677404010.pdf,false
+OSUN,ATAKUMOSA WEST,IFELODUN,APEPE VILLAGE,29/02/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/006/006-1677401759.pdf,false
+OSUN,ATAKUMOSA WEST,IFELODUN,IJANA VILLAGE,29/02/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/002/002-1677400986.pdf,false
