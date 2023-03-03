@@ -1,0 +1,22 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+LAGOS,EPE,POKA,IGODO II,24/07/16/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3614/ward/23364/pu/80374/80374-1677677462.pdf,true
+LAGOS,EPE,POKA,OGBUN,24/07/16/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79548/result_26151_1677579048_thumb.jpg,false
+LAGOS,EPE,POKA,ARAGA,24/07/16/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79551/result_26154_1677579513_thumb.jpg,false
+LAGOS,EPE,POKA,"INFRONT OF NO. 2, ITUNKEJI STREET,  IMOKUN",24/07/16/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/653372/result_26156_1677579680_thumb.jpg,false
+LAGOS,EPE,POKA,ODOSIWOLOYE,24/07/16/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79552/result_26155_1677579594_thumb.jpg,false
+LAGOS,EPE,POKA,"INFRONT OF NO.  4 VIGILANTE HOUSE, ODOSIWOLOYE",24/07/16/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/653378/result_26162_1677580522_thumb.jpg,false
+LAGOS,EPE,POKA,"POBO PRY. SCH., POKA I",24/07/16/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79542/result_26145_1677577929_thumb.jpg,false
+LAGOS,EPE,POKA,"MATERNITY CENTRE, TOWNHALL ROAD, POKA",24/07/16/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/653376/result_26160_1677580305_thumb.jpg,false
+LAGOS,EPE,POKA,"POBO PRY. SCH., POKA III",24/07/16/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79544/result_26147_1677578303_thumb.jpg,false
+LAGOS,EPE,POKA,"7, GBONLE\AJANA ROAD, ODOGBONLE",24/07/16/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/653373/result_26157_1677579909_thumb.jpg,false
+LAGOS,EPE,POKA,"L.G. PRY. SCH., NOFORIJA I",24/07/16/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79540/result_26143_1677577514_thumb.jpg,false
+LAGOS,EPE,POKA,"POBO PRY. SCH., POKA II",24/07/16/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79543/result_26146_1677578070_thumb.jpg,false
+LAGOS,EPE,POKA,"INFRONT OF NO. 1, EYINDI STREET,  NOFORIJA",24/07/16/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/653374/result_26158_1677580095_thumb.jpg,false
+LAGOS,EPE,POKA,MALARA,24/07/16/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79549/result_26152_1677579184_thumb.jpg,false
+LAGOS,EPE,POKA,"POKA LIBRARY, ALONG EPE - IJEBU-ODE ROAD, POKA",24/07/16/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/653375/result_26159_1677580179_thumb.jpg,false
+LAGOS,EPE,POKA,PEPEMETA,24/07/16/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79550/result_26153_1677579293_thumb.jpg,false
+LAGOS,EPE,POKA,IGODO I,24/07/16/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79546/result_26149_1677578708_thumb.jpg,false
+LAGOS,EPE,POKA,IMOKUN TOWN HALL,24/07/16/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79539/result_26142_1677577255_thumb.jpg,false
+LAGOS,EPE,POKA,"36, ITUNOLOJA STEET, POKA",24/07/16/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/653377/result_26161_1677580433_thumb.jpg,false
+LAGOS,EPE,POKA,"POBO PRY. SCH., POKA  IV",24/07/16/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79545/result_26148_1677578618_thumb.jpg,false
+LAGOS,EPE,POKA,"L.G. PRY. SCH., NOFORIJA II",24/07/16/003,,false

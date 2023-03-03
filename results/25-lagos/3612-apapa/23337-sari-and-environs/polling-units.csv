@@ -1,0 +1,49 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+LAGOS,APAPA,SARI AND ENVIRONS,OMONIYI STR./ABIDOYE ST/ALICE ST./DELA STREET,24/05/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79014/result_25383_1677511196_thumb.jpg,true
+LAGOS,APAPA,SARI AND ENVIRONS,AGUNBIADE STREET I,24/05/10/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79021/result_25390_1677511787_thumb.jpg,true
+LAGOS,APAPA,SARI AND ENVIRONS,IGANMU ROAD I,24/05/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79007/result_25376_1677510375_thumb.jpg,true
+LAGOS,APAPA,SARI AND ENVIRONS,RAIMI STREET II,24/05/10/040,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79046/result_25415_1677515454_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,MAKANJUOLA STREET III,24/05/10/037,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79043/result_25412_1677515130_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,SARI-IGANMU ROAD I,24/05/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79009/result_25378_1677510693_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,OSIMES STREET,24/05/10/032,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79038/result_25407_1677514222_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,SANUSI STREET I,24/05/10/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79023/result_25392_1677511992_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,HOUSE 8 ADEKUNLE DEEN STREET,24/05/10/046,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/653141/result_25421_1677516116_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,OPEN SPACE BY ENTERANCE OF SADIKU ST. HSE 13,24/05/10/045,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/653140/result_25420_1677516037_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,ATANDA STREET,24/05/10/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79030/result_25399_1677512620_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,RAIMI STREET,24/05/10/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79020/result_25389_1677511709_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,RAIMI STREET I,24/05/10/039,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79045/result_25414_1677515330_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,IGANMU ROAD II,24/05/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79008/result_25377_1677510584_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,FRONT OF 107 IGANMU ROAD,24/05/10/041,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/653136/result_25416_1677515558_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,HOUSE 11 IYABO STREET,24/05/10/042,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/653137/result_25417_1677515646_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,AGUNBIADE STREET II,24/05/10/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79022/result_25391_1677511872_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,SARI-IGANMU ROAD III,24/05/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79011/result_25380_1677510881_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,SARI-IGANMU ROAD II,24/05/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79010/result_25379_1677510796_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,OGUNDERU STREET,24/05/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79013/result_25382_1677511065_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,SADIKU STREET I,24/05/10/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79033/result_25402_1677513020_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,ASHIMOWU-ABEO STREET,24/05/10/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79040/result_25409_1677514770_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,IYABO STREET,24/05/10/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79025/result_25394_1677512166_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,HOUSE 25 MAKANJUOLA STREET,24/05/10/048,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/653143/result_25423_1677516325_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,HOUSE 40 MAKANJUOLA STREET,24/05/10/047,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/653142/result_25422_1677516236_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,NOFIU-ADUNNI STREET II,24/05/10/031,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79037/result_25406_1677514077_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,SARI-IGANMU ROAD IV,24/05/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79012/result_25381_1677510984_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,ADISATU STREET,24/05/10/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79028/result_25397_1677512474_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,MAKANJUOLA STREET II,24/05/10/036,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79042/result_25411_1677515024_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,WEWE STREET II,24/05/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79016/result_25385_1677511391_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,DEBO STREET,24/05/10/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79017/result_25386_1677511481_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,HOUSE 6 ATANDA STREET,24/05/10/044,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/653139/result_25419_1677515943_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,SADIKU STREET III,24/05/10/029,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79035/result_25404_1677513250_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,NOFIU-ADUNNI STREET I,24/05/10/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79036/result_25405_1677513620_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,SENABU STREET II,24/05/10/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79032/result_25401_1677512862_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,NIMOTA STREET,24/05/10/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79027/result_25396_1677512398_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,WEWE STREET I,24/05/10/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79015/result_25384_1677511303_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,SANUSI STREET II,24/05/10/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79024/result_25393_1677512078_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,AIYENERO STREET,24/05/10/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79029/result_25398_1677512547_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,EKUNJIMI STREET II,24/05/10/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79019/result_25388_1677511638_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,EMMANUEL-KAYODE STR.,24/05/10/038,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79044/result_25413_1677515243_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,MAKANJUOLA STREET I,24/05/10/035,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79041/result_25410_1677514851_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,HOUSE 8 ADISATU STREET,24/05/10/043,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/653138/result_25418_1677515768_thumb.jpg,false
+LAGOS,APAPA,SARI AND ENVIRONS,BANKOLE STREET,24/05/10/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79026/result_25395_1677512252_thumb.jpg,true
+LAGOS,APAPA,SARI AND ENVIRONS,SADIKU STREET II,24/05/10/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79034/result_25403_1677513123_thumb.jpg,true
+LAGOS,APAPA,SARI AND ENVIRONS,EKUNJIMI STREET I,24/05/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79018/result_25387_1677511556_thumb.jpg,true
+LAGOS,APAPA,SARI AND ENVIRONS,SENABU STREET I,24/05/10/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79031/result_25400_1677512711_thumb.jpg,true
+LAGOS,APAPA,SARI AND ENVIRONS,ADEKUNLE-DEEN ST./FASSY-CLOSE/ADESHINA STR.,24/05/10/033,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79039/result_25408_1677514687_thumb.jpg,true

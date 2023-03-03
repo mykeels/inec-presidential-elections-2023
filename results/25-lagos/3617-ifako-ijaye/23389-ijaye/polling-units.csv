@@ -1,0 +1,40 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+LAGOS,IFAKO-IJAYE,IJAYE,"35, AINA AJOBO",24/10/01/029,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3617/ward/23389/pu/158641/158641-1677771698.pdf,true
+LAGOS,IFAKO-IJAYE,IJAYE,"64, HARUNA ST. IFAKO",24/10/01/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3617/ward/23389/pu/80890/80890-1677760091.pdf,false
+LAGOS,IFAKO-IJAYE,IJAYE,"8, ADEBIYI ST. OGBA",24/10/01/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/80011/result_27174_1677494628_thumb.jpg,false
+LAGOS,IFAKO-IJAYE,IJAYE,"11, AJAYI ROAD, OGBA",24/10/01/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/80013/result_27176_1677494823_thumb.jpg,false
+LAGOS,IFAKO-IJAYE,IJAYE,"36, HARUNA STREET, IFAKO",24/10/01/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/653999/result_27183_1677505342_thumb.jpg,false
+LAGOS,IFAKO-IJAYE,IJAYE,"20, YAYA ABATAN ST. OGBA",24/10/01/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/80005/result_27168_1677488632_thumb.jpg,true
+LAGOS,IFAKO-IJAYE,IJAYE,"4, ADEYERI CRESCENT, IFAKO",24/10/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/80002/result_27165_1677484133_thumb.jpg,true
+LAGOS,IFAKO-IJAYE,IJAYE,"1, MODUPE ST. OGBA",24/10/01/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/80008/result_27171_1677487344_thumb.jpg,false
+LAGOS,IFAKO-IJAYE,IJAYE,JUNCT. AYANBODE/OTUNBA SHOBANJO STREET,24/10/01/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/654010/result_27194_1677498842_thumb.jpg,false
+LAGOS,IFAKO-IJAYE,IJAYE,"5, KAYODE ALABI STREET, HARUNA",24/10/01/037,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/654013/result_27197_1677483561_thumb.jpg,true
+LAGOS,IFAKO-IJAYE,IJAYE,"1, MORENIKEJI ST. OKE-IRA",24/10/01/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/80015/result_27178_1677487472_thumb.jpg,false
+LAGOS,IFAKO-IJAYE,IJAYE,"76, YAYA ABATAN ST. OGBA",24/10/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/80004/result_27167_1677487095_thumb.jpg,false
+LAGOS,IFAKO-IJAYE,IJAYE,"110, YAYA ABATAN STR.",24/10/01/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/654003/result_27187_1677495964_thumb.jpg,false
+LAGOS,IFAKO-IJAYE,IJAYE,JUNCT. ADEREMI ADEBAYO / MORENIKEJI STREET.,24/10/01/033,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/654009/result_27193_1677500619_thumb.jpg,true
+LAGOS,IFAKO-IJAYE,IJAYE,"8, MUYIWA CLOSE",24/10/01/032,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/654008/result_27192_1677496192_thumb.jpg,true
+LAGOS,IFAKO-IJAYE,IJAYE,"8, ABIOLA ST. OKE-IRA",24/10/01/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/80016/result_27179_1677495010_thumb.jpg,false
+LAGOS,IFAKO-IJAYE,IJAYE,"1, MUYIWA CLOSE OFF AJAYI RD. OGBA",24/10/01/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/80012/result_27175_1677494130_thumb.jpg,false
+LAGOS,IFAKO-IJAYE,IJAYE,"6, ABEOKUTA ST. OGBA",24/10/01/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/80010/result_27173_1677494342_thumb.jpg,false
+LAGOS,IFAKO-IJAYE,IJAYE,JUNCTION OF ALIU DUROJAIYE/ADEBIYI ST. OGBA,24/10/01/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/80019/result_27182_1677498429_thumb.jpg,false
+LAGOS,IFAKO-IJAYE,IJAYE,"19, MUFUTAU SHOBOLA ST. IFAKO",24/10/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79999/result_27162_1677482907_thumb.jpg,false
+LAGOS,IFAKO-IJAYE,IJAYE,"12, AYANBODE STREET",24/10/01/036,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/654012/result_27196_1677499143_thumb.jpg,false
+LAGOS,IFAKO-IJAYE,IJAYE,"27, ADEBIYI STREET",24/10/01/031,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/654007/result_27191_1677498602_thumb.jpg,true
+LAGOS,IFAKO-IJAYE,IJAYE,"1, BOLAJI TAYLOR STREET",24/10/01/038,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/654014/result_27198_1677487684_thumb.jpg,false
+LAGOS,IFAKO-IJAYE,IJAYE,"2, AYORINDE STREET",24/10/01/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/654001/result_27185_1677495785_thumb.jpg,false
+LAGOS,IFAKO-IJAYE,IJAYE,"9, MORENIKEJI STREET",24/10/01/035,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/654011/result_27195_1677488887_thumb.jpg,false
+LAGOS,IFAKO-IJAYE,IJAYE,"8, KAYODE ST. OGBA",24/10/01/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/80017/result_27180_1677495400_thumb.jpg,false
+LAGOS,IFAKO-IJAYE,IJAYE,"61, ABEOKUTA ST. OGBA",24/10/01/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/80009/result_27172_1677483992_thumb.jpg,false
+LAGOS,IFAKO-IJAYE,IJAYE,JUNCTION OF AJAYI ROAD/KADIRI ST. OKE-IRA,24/10/01/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/80014/result_27177_1677483107_thumb.jpg,false
+LAGOS,IFAKO-IJAYE,IJAYE,"9, AINA AJOBO ST. OGBA",24/10/01/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/80006/result_27169_1677488750_thumb.jpg,false
+LAGOS,IFAKO-IJAYE,IJAYE,"23, ADEYERI CRESCENT",24/10/01/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/654002/result_27186_1677505205_thumb.jpg,false
+LAGOS,IFAKO-IJAYE,IJAYE,"20, OMIBIYI STREET",24/10/01/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/654006/result_27190_1677486108_thumb.jpg,false
+LAGOS,IFAKO-IJAYE,IJAYE,"13, OSHIYEMI STREET, OGBA",24/10/01/039,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/654015/result_27199_1677507153_thumb.jpg,true
+LAGOS,IFAKO-IJAYE,IJAYE,"30, YAYA ABATAN STREET",24/10/01/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/654004/result_27188_1677485848_thumb.jpg,true
+LAGOS,IFAKO-IJAYE,IJAYE,"2, BISHOP HUGES - IFAKO",24/10/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/80001/result_27164_1677498226_thumb.jpg,true
+LAGOS,IFAKO-IJAYE,IJAYE,"4, HARUNA STREET, IFAKO",24/10/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/79998/result_27161_1677497948_thumb.jpg,true
+LAGOS,IFAKO-IJAYE,IJAYE,JUNCTION OF OLU WASIJIBOMI/MODUPE ST. OGBA,24/10/01/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/80007/result_27170_1677506066_thumb.jpg,true
+LAGOS,IFAKO-IJAYE,IJAYE,"20, ADEYERI CRESCENT, IFAKO",24/10/01/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/80003/result_27166_1677505088_thumb.jpg,true
+LAGOS,IFAKO-IJAYE,IJAYE,"6, KAYODE ALABI STR. HARUNA",24/10/01/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/654000/result_27184_1677495568_thumb.jpg,true
+LAGOS,IFAKO-IJAYE,IJAYE,JUNCTION OF BISHOP HUGES/BABALOLA HUGES IFAKO,24/10/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3617/ward/23389/pu/80872/80872-1677498665.pdf,false
