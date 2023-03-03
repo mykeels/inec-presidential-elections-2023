@@ -1,11 +1,11 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,EKITI EAST,,AYEGUNLE ST. / AYEGUNLE,13/03/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20345/pu/37022/37022-1677502613.pdf,false
-EKITI,EKITI EAST,,ARAGBA ST. / OKELEBOJO / ILEBOJO   II,13/03/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20345/pu/37024/37024-1677501714.pdf,false
-EKITI,EKITI EAST,,BESIDE ST. / OKELEBOJO / ARAGBA ODOLEBOJO,13/03/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20345/pu/37025/37025-1677501523.pdf,false
-EKITI,EKITI EAST,,A. U. D. PRY. SCH. / OKE ARE / EBIDORE,13/03/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/01/pu/005/005-1677360379.pdf,false
-EKITI,EKITI EAST,,ARAGBA ST. / OKELEBOJO / ILEBOJO  I,13/03/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/01/pu/002/002-1677359820.pdf,false
-EKITI,EKITI EAST,,SURULERE ST. / OKEBOLA / SURULERE,13/03/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/01/pu/008/008-1677359559.pdf,false
-EKITI,EKITI EAST,,OPEN SPACE AT IDI MANGO BUS STOP,13/03/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/01/pu/010/010-1677359663.pdf,false
-EKITI,EKITI EAST,,"OPEN SPACE NEAR YEYE EWI'S HOUSE, AYEGUNLE",13/03/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/01/pu/009/009-1677359284.pdf,false
-EKITI,EKITI EAST,,EMOBA HALL / OKE AFIN,13/03/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/01/pu/007/007-1677359254.pdf,false
-EKITI,EKITI EAST,,OKE AFIN S. / OKE AFIN,13/03/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/01/pu/006/006-1677358567.pdf,false
+EKITI,EKITI EAST,OMUO - OKE  I,AYEGUNLE ST. / AYEGUNLE,13/03/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20345/pu/37022/37022-1677502613.pdf,false
+EKITI,EKITI EAST,OMUO - OKE  I,ARAGBA ST. / OKELEBOJO / ILEBOJO   II,13/03/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20345/pu/37024/37024-1677501714.pdf,false
+EKITI,EKITI EAST,OMUO - OKE  I,BESIDE ST. / OKELEBOJO / ARAGBA ODOLEBOJO,13/03/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20345/pu/37025/37025-1677501523.pdf,false
+EKITI,EKITI EAST,OMUO - OKE  I,A. U. D. PRY. SCH. / OKE ARE / EBIDORE,13/03/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/01/pu/005/005-1677360379.pdf,false
+EKITI,EKITI EAST,OMUO - OKE  I,ARAGBA ST. / OKELEBOJO / ILEBOJO  I,13/03/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/01/pu/002/002-1677359820.pdf,false
+EKITI,EKITI EAST,OMUO - OKE  I,SURULERE ST. / OKEBOLA / SURULERE,13/03/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/01/pu/008/008-1677359559.pdf,false
+EKITI,EKITI EAST,OMUO - OKE  I,OPEN SPACE AT IDI MANGO BUS STOP,13/03/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/01/pu/010/010-1677359663.pdf,false
+EKITI,EKITI EAST,OMUO - OKE  I,"OPEN SPACE NEAR YEYE EWI'S HOUSE, AYEGUNLE",13/03/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/01/pu/009/009-1677359284.pdf,false
+EKITI,EKITI EAST,OMUO - OKE  I,EMOBA HALL / OKE AFIN,13/03/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/01/pu/007/007-1677359254.pdf,false
+EKITI,EKITI EAST,OMUO - OKE  I,OKE AFIN S. / OKE AFIN,13/03/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/01/pu/006/006-1677358567.pdf,false

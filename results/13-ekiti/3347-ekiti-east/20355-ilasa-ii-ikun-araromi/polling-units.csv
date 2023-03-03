@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,EKITI EAST,,FRONTAGE OF OLADIPO'S HOUSE / IKUN,13/03/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20355/pu/37110/37110-1677526650.pdf,false
-EKITI,EKITI EAST,,"OPEN SPACE AT ISOLO , OPPOSITE THE APOSTOLIC CHURCH, ARAROMI",13/03/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20355/pu/125699/125699-1677524667.pdf,false
-EKITI,EKITI EAST,,IRO ST. / IRO  I,13/03/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20355/pu/37106/37106-1677524279.pdf,false
-EKITI,EKITI EAST,,ISOLO ST. / OKE ODO - ISOLO,13/03/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20355/pu/37105/37105-1677520325.pdf,false
-EKITI,EKITI EAST,,IREGUN ST./ IREGUN,13/03/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20355/pu/37104/37104-1677519779.pdf,false
-EKITI,EKITI EAST,,ILADO ST. / ILADO / OGBO OWA,13/03/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20355/pu/37103/37103-1677502116.pdf,false
-EKITI,EKITI EAST,,MODEL HEALTH CENTRE IGBOOWA,13/03/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/010/010-1677423481.pdf,false
-EKITI,EKITI EAST,,FIDITI ST. / FIDITI,13/03/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/006/006-1677362396.pdf,false
-EKITI,EKITI EAST,,MARKET PLACE IJEU,13/03/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/011/011-1677362087.pdf,false
-EKITI,EKITI EAST,,OKOROKORO / OKOROKORO,13/03/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/007/007-1677361093.pdf,false
-EKITI,EKITI EAST,,OBA' S PALACE / ARAROMI,13/03/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/009/009-1677360418.pdf,false
-EKITI,EKITI EAST,,IRO ST. / IRO   II,13/03/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/005/005-1677359580.pdf,false
+EKITI,EKITI EAST,ILASA II / IKUN / ARAROMI,FRONTAGE OF OLADIPO'S HOUSE / IKUN,13/03/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20355/pu/37110/37110-1677526650.pdf,false
+EKITI,EKITI EAST,ILASA II / IKUN / ARAROMI,"OPEN SPACE AT ISOLO , OPPOSITE THE APOSTOLIC CHURCH, ARAROMI",13/03/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20355/pu/125699/125699-1677524667.pdf,false
+EKITI,EKITI EAST,ILASA II / IKUN / ARAROMI,IRO ST. / IRO  I,13/03/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20355/pu/37106/37106-1677524279.pdf,false
+EKITI,EKITI EAST,ILASA II / IKUN / ARAROMI,ISOLO ST. / OKE ODO - ISOLO,13/03/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20355/pu/37105/37105-1677520325.pdf,false
+EKITI,EKITI EAST,ILASA II / IKUN / ARAROMI,IREGUN ST./ IREGUN,13/03/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20355/pu/37104/37104-1677519779.pdf,false
+EKITI,EKITI EAST,ILASA II / IKUN / ARAROMI,ILADO ST. / ILADO / OGBO OWA,13/03/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20355/pu/37103/37103-1677502116.pdf,false
+EKITI,EKITI EAST,ILASA II / IKUN / ARAROMI,MODEL HEALTH CENTRE IGBOOWA,13/03/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/010/010-1677423481.pdf,false
+EKITI,EKITI EAST,ILASA II / IKUN / ARAROMI,FIDITI ST. / FIDITI,13/03/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/006/006-1677362396.pdf,false
+EKITI,EKITI EAST,ILASA II / IKUN / ARAROMI,MARKET PLACE IJEU,13/03/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/011/011-1677362087.pdf,false
+EKITI,EKITI EAST,ILASA II / IKUN / ARAROMI,OKOROKORO / OKOROKORO,13/03/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/007/007-1677361093.pdf,false
+EKITI,EKITI EAST,ILASA II / IKUN / ARAROMI,OBA' S PALACE / ARAROMI,13/03/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/009/009-1677360418.pdf,false
+EKITI,EKITI EAST,ILASA II / IKUN / ARAROMI,IRO ST. / IRO   II,13/03/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/11/pu/005/005-1677359580.pdf,false

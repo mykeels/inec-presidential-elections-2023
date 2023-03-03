@@ -1,11 +1,11 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,EKITI EAST,,ERINJO ST. / ERINJU / ODO ELEGUN,13/03/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20346/pu/37039/37039-1677536434.pdf,false
-EKITI,EKITI EAST,,ST. SILAS SCHOOL II / Ebiogidi,13/03/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20346/pu/37030/37030-1677536122.pdf,false
-EKITI,EKITI EAST,,ST. SILAS PRY. SCH. / OBA OTITIJU ROAD,13/03/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20346/pu/37038/37038-1677528104.pdf,false
-EKITI,EKITI EAST,,ONIJOJI ST. / IGBEMISI,13/03/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20346/pu/37037/37037-1677527963.pdf,false
-EKITI,EKITI EAST,,ODO - EJIO ST. / ODO EJIO / OLORUNSOGO,13/03/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20346/pu/37036/37036-1677527802.pdf,false
-EKITI,EKITI EAST,,OMUO OKE / AJIRE TOWN HALL - ODO EJIO / OLORUNSOGO,13/03/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20346/pu/37035/37035-1677527686.pdf,false
-EKITI,EKITI EAST,,OKE SASA ST. / OKE SASA / AKASA,13/03/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20346/pu/37033/37033-1677527521.pdf,false
-EKITI,EKITI EAST,,IGBALE ST. IGBALE,13/03/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20346/pu/37032/37032-1677527399.pdf,false
-EKITI,EKITI EAST,,OKERINGUN ST./ ODO ATIBA / DIDI OKERINGUN,13/03/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/02/pu/005/005-1677368315.pdf,false
-EKITI,EKITI EAST,,ST. SILAS  II PRY. SCH. / EBIOGIDI II,13/03/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/02/pu/002/002-1677362203.pdf,false
+EKITI,EKITI EAST,OMUO OKE  II,ERINJO ST. / ERINJU / ODO ELEGUN,13/03/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20346/pu/37039/37039-1677536434.pdf,false
+EKITI,EKITI EAST,OMUO OKE  II,ST. SILAS SCHOOL II / Ebiogidi,13/03/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20346/pu/37030/37030-1677536122.pdf,false
+EKITI,EKITI EAST,OMUO OKE  II,ST. SILAS PRY. SCH. / OBA OTITIJU ROAD,13/03/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20346/pu/37038/37038-1677528104.pdf,false
+EKITI,EKITI EAST,OMUO OKE  II,ONIJOJI ST. / IGBEMISI,13/03/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20346/pu/37037/37037-1677527963.pdf,false
+EKITI,EKITI EAST,OMUO OKE  II,ODO - EJIO ST. / ODO EJIO / OLORUNSOGO,13/03/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20346/pu/37036/37036-1677527802.pdf,false
+EKITI,EKITI EAST,OMUO OKE  II,OMUO OKE / AJIRE TOWN HALL - ODO EJIO / OLORUNSOGO,13/03/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20346/pu/37035/37035-1677527686.pdf,false
+EKITI,EKITI EAST,OMUO OKE  II,OKE SASA ST. / OKE SASA / AKASA,13/03/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20346/pu/37033/37033-1677527521.pdf,false
+EKITI,EKITI EAST,OMUO OKE  II,IGBALE ST. IGBALE,13/03/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20346/pu/37032/37032-1677527399.pdf,false
+EKITI,EKITI EAST,OMUO OKE  II,OKERINGUN ST./ ODO ATIBA / DIDI OKERINGUN,13/03/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/02/pu/005/005-1677368315.pdf,false
+EKITI,EKITI EAST,OMUO OKE  II,ST. SILAS  II PRY. SCH. / EBIOGIDI II,13/03/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/02/pu/002/002-1677362203.pdf,false

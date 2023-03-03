@@ -1,7 +1,7 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,EKITI EAST,,ODA -PONA ST. - ODA PONA,13/03/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/05/pu/003/003-1677420373.pdf,false
-EKITI,EKITI EAST,,ILISA OKE - ILISA OKE,13/03/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/05/pu/004/004-1677419875.pdf,false
-EKITI,EKITI EAST,,BOLORUNDURO - BOLORUNDURO / OBAJODA  II,13/03/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/05/pu/006/006-1677418930.pdf,false
-EKITI,EKITI EAST,,BOLORUNDURO - BOLORUNDURO / OBAJODA  I,13/03/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/05/pu/005/005-1677418282.pdf,false
-EKITI,EKITI EAST,,MAYOKUN ST. - IGBEDE,13/03/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/05/pu/002/002-1677414084.pdf,false
-EKITI,EKITI EAST,,METHODIST PRY. SCH. - IGBEDE,13/03/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/05/pu/001/001-1677413410.pdf,false
+EKITI,EKITI EAST,KOTA   II,ODA -PONA ST. - ODA PONA,13/03/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/05/pu/003/003-1677420373.pdf,false
+EKITI,EKITI EAST,KOTA   II,ILISA OKE - ILISA OKE,13/03/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/05/pu/004/004-1677419875.pdf,false
+EKITI,EKITI EAST,KOTA   II,BOLORUNDURO - BOLORUNDURO / OBAJODA  II,13/03/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/05/pu/006/006-1677418930.pdf,false
+EKITI,EKITI EAST,KOTA   II,BOLORUNDURO - BOLORUNDURO / OBAJODA  I,13/03/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/05/pu/005/005-1677418282.pdf,false
+EKITI,EKITI EAST,KOTA   II,MAYOKUN ST. - IGBEDE,13/03/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/05/pu/002/002-1677414084.pdf,false
+EKITI,EKITI EAST,KOTA   II,METHODIST PRY. SCH. - IGBEDE,13/03/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/05/pu/001/001-1677413410.pdf,false

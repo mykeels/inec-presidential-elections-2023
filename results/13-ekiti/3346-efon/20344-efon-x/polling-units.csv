@@ -1,17 +1,17 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,EFON,,OBAYETORO PRY. SCH.  - OKO ADAGBA,13/02/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/012/012-1677380041.pdf,false
-EKITI,EFON,,ONIRICE - ABA ONIRICE,13/02/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/013/013-1677379787.pdf,false
-EKITI,EFON,,ELEMO'S HOUSE ELEMO FARM,13/02/10/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/016/016-1677379505.pdf,false
-EKITI,EFON,,FRONT OF BABALOLA'S HOUSE - OLORUNSOGO,13/02/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/003/003-1677379275.pdf,false
-EKITI,EFON,,NEAR CHIEF ARO HUT - OLALUBI,13/02/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/015/015-1677379054.pdf,false
-EKITI,EFON,,FRONT OF ODEWALE'S HOUSE - ALANKA,13/02/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/004/004-1677378657.pdf,false
-EKITI,EFON,,ST. JOSEPH PRY. SCH. - OKE AYO I,13/02/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/008/008-1677378400.pdf,false
-EKITI,EFON,,NEAR OLUWADARE'S  HOUSE - OKE AYO  II,13/02/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/009/009-1677378043.pdf,false
-EKITI,EFON,,OSOLOâ€™S CAMP ARAROMI,13/02/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/007/007-1677377679.pdf,false
-EKITI,EFON,,FRONT OF AJIBOLA'S HOUSE   - IRAYO   I,13/02/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/001/001-1677377432.pdf,false
-EKITI,EFON,,ALAGIJINâ€™S HOUSE,13/02/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/005/005-1677377112.pdf,false
-EKITI,EFON,,FRONT OF ALAYO'S HOUSE - IRAYO  I,13/02/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/002/002-1677376778.pdf,false
-EKITI,EFON,,NEAR OROSUN / OLOYIN HOUSE - ILORO  II,13/02/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/006/006-1677376505.pdf,false
-EKITI,EFON,,OKE ARE FIELD -  OKE ARE II,13/02/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/011/011-1677376207.pdf,false
-EKITI,EFON,,OKE ARE FIELD - OKE ARE I,13/02/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/010/010-1677375710.pdf,false
-EKITI,EFON,,OLOJA IGBAJO COMP. - OLOJA IGBAJO,13/02/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/014/014-1677363921.pdf,false
+EKITI,EFON,EFON   X,OBAYETORO PRY. SCH.  - OKO ADAGBA,13/02/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/012/012-1677380041.pdf,false
+EKITI,EFON,EFON   X,ONIRICE - ABA ONIRICE,13/02/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/013/013-1677379787.pdf,false
+EKITI,EFON,EFON   X,ELEMO'S HOUSE ELEMO FARM,13/02/10/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/016/016-1677379505.pdf,false
+EKITI,EFON,EFON   X,FRONT OF BABALOLA'S HOUSE - OLORUNSOGO,13/02/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/003/003-1677379275.pdf,false
+EKITI,EFON,EFON   X,NEAR CHIEF ARO HUT - OLALUBI,13/02/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/015/015-1677379054.pdf,false
+EKITI,EFON,EFON   X,FRONT OF ODEWALE'S HOUSE - ALANKA,13/02/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/004/004-1677378657.pdf,false
+EKITI,EFON,EFON   X,ST. JOSEPH PRY. SCH. - OKE AYO I,13/02/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/008/008-1677378400.pdf,false
+EKITI,EFON,EFON   X,NEAR OLUWADARE'S  HOUSE - OKE AYO  II,13/02/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/009/009-1677378043.pdf,false
+EKITI,EFON,EFON   X,OSOLOâ€™S CAMP ARAROMI,13/02/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/007/007-1677377679.pdf,false
+EKITI,EFON,EFON   X,FRONT OF AJIBOLA'S HOUSE   - IRAYO   I,13/02/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/001/001-1677377432.pdf,false
+EKITI,EFON,EFON   X,ALAGIJINâ€™S HOUSE,13/02/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/005/005-1677377112.pdf,false
+EKITI,EFON,EFON   X,FRONT OF ALAYO'S HOUSE - IRAYO  I,13/02/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/002/002-1677376778.pdf,false
+EKITI,EFON,EFON   X,NEAR OROSUN / OLOYIN HOUSE - ILORO  II,13/02/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/006/006-1677376505.pdf,false
+EKITI,EFON,EFON   X,OKE ARE FIELD -  OKE ARE II,13/02/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/011/011-1677376207.pdf,false
+EKITI,EFON,EFON   X,OKE ARE FIELD - OKE ARE I,13/02/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/010/010-1677375710.pdf,false
+EKITI,EFON,EFON   X,OLOJA IGBAJO COMP. - OLOJA IGBAJO,13/02/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/014/014-1677363921.pdf,false

@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,EKITI WEST,,INUTA EAST INUTA II,13/04/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/07/pu/002/002-1677424011.pdf,false
-EKITI,EKITI WEST,,FRONT OF LAMIDI AGBEDE'S HS. ARAROMI SETTLEMENT,13/04/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/07/pu/013/013-1677367538.pdf,false
-EKITI,EKITI WEST,,"IDI -OSE , IJALE CENTRE",13/04/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/07/pu/012/012-1677367192.pdf,false
-EKITI,EKITI WEST,,"ODO IJALE , IJALE  II",13/04/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/07/pu/010/010-1677366715.pdf,false
-EKITI,EKITI WEST,,"IJALE OKE , IJALE I",13/04/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/07/pu/009/009-1677366375.pdf,false
-EKITI,EKITI WEST,,"ODO OJA, ODO OJA",13/04/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/07/pu/008/008-1677366027.pdf,false
-EKITI,EKITI WEST,,"ST. BRIDGET , PRY. SCH. IWAJI II",13/04/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/07/pu/006/006-1677365339.pdf,false
-EKITI,EKITI WEST,,"IWAJI SQURE, IWAJI  I",13/04/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/07/pu/005/005-1677364968.pdf,false
-EKITI,EKITI WEST,,"KAJOLA SQURE , KAJOLA",13/04/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/07/pu/004/004-1677364605.pdf,false
-EKITI,EKITI WEST,,"C. A. C. PRY. SCH. , INUTA III/ MATERNITY",13/04/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/07/pu/003/003-1677364194.pdf,false
-EKITI,EKITI WEST,,"IJOKO SQURE , IJOKO /OKE OGUN",13/04/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/07/pu/007/007-1677363568.pdf,false
-EKITI,EKITI WEST,,"INUTA CENTRE , INUTA  I",13/04/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/07/pu/001/001-1677361083.pdf,false
-EKITI,EKITI WEST,,"ILORO , ILORO",13/04/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/07/pu/011/011-1677360565.pdf,false
+EKITI,EKITI WEST,IPOLE ILORO,INUTA EAST INUTA II,13/04/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/07/pu/002/002-1677424011.pdf,false
+EKITI,EKITI WEST,IPOLE ILORO,FRONT OF LAMIDI AGBEDE'S HS. ARAROMI SETTLEMENT,13/04/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/07/pu/013/013-1677367538.pdf,false
+EKITI,EKITI WEST,IPOLE ILORO,"IDI -OSE , IJALE CENTRE",13/04/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/07/pu/012/012-1677367192.pdf,false
+EKITI,EKITI WEST,IPOLE ILORO,"ODO IJALE , IJALE  II",13/04/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/07/pu/010/010-1677366715.pdf,false
+EKITI,EKITI WEST,IPOLE ILORO,"IJALE OKE , IJALE I",13/04/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/07/pu/009/009-1677366375.pdf,false
+EKITI,EKITI WEST,IPOLE ILORO,"ODO OJA, ODO OJA",13/04/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/07/pu/008/008-1677366027.pdf,false
+EKITI,EKITI WEST,IPOLE ILORO,"ST. BRIDGET , PRY. SCH. IWAJI II",13/04/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/07/pu/006/006-1677365339.pdf,false
+EKITI,EKITI WEST,IPOLE ILORO,"IWAJI SQURE, IWAJI  I",13/04/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/07/pu/005/005-1677364968.pdf,false
+EKITI,EKITI WEST,IPOLE ILORO,"KAJOLA SQURE , KAJOLA",13/04/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/07/pu/004/004-1677364605.pdf,false
+EKITI,EKITI WEST,IPOLE ILORO,"C. A. C. PRY. SCH. , INUTA III/ MATERNITY",13/04/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/07/pu/003/003-1677364194.pdf,false
+EKITI,EKITI WEST,IPOLE ILORO,"IJOKO SQURE , IJOKO /OKE OGUN",13/04/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/07/pu/007/007-1677363568.pdf,false
+EKITI,EKITI WEST,IPOLE ILORO,"INUTA CENTRE , INUTA  I",13/04/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/07/pu/001/001-1677361083.pdf,false
+EKITI,EKITI WEST,IPOLE ILORO,"ILORO , ILORO",13/04/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/07/pu/011/011-1677360565.pdf,false

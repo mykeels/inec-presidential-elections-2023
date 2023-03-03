@@ -1,10 +1,10 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,EKITI EAST,,IRAFUN ST. - IRAFUN,13/03/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20348/pu/37054/37054-1677502150.pdf,false
-EKITI,EKITI EAST,,ALAAFIA STREET / ALAAFIA,13/03/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20348/pu/37053/37053-1677499661.pdf,false
-EKITI,EKITI EAST,,UJAH TOWN HALL - UJAH   I,13/03/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20348/pu/37051/37051-1677497680.pdf,false
-EKITI,EKITI EAST,,ELEMOSO / AGBARABATA - ELEMOSO / AGBARABATA,13/03/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20348/pu/37050/37050-1677497204.pdf,false
-EKITI,EKITI EAST,,ISAYA STREET - ISAYA,13/03/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20348/pu/37048/37048-1677497050.pdf,false
-EKITI,EKITI EAST,,MARKET STALL - ISAYA KOTA,13/03/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20348/pu/37049/37049-1677496469.pdf,false
-EKITI,EKITI EAST,,"METHODIST PRY SCH. , KOTA - ISAYA",13/03/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20348/pu/37047/37047-1677495751.pdf,false
-EKITI,EKITI EAST,,UJAH TOWN HALL - UJAH   II,13/03/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20348/pu/37052/37052-1677473239.pdf,false
-EKITI,EKITI EAST,,TEMIDIRE / ELEJE ST. - TEMIDIRE/ ELEJE,13/03/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20348/pu/37055/37055-1677472801.pdf,false
+EKITI,EKITI EAST,KOTA   I,IRAFUN ST. - IRAFUN,13/03/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20348/pu/37054/37054-1677502150.pdf,false
+EKITI,EKITI EAST,KOTA   I,ALAAFIA STREET / ALAAFIA,13/03/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20348/pu/37053/37053-1677499661.pdf,false
+EKITI,EKITI EAST,KOTA   I,UJAH TOWN HALL - UJAH   I,13/03/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20348/pu/37051/37051-1677497680.pdf,false
+EKITI,EKITI EAST,KOTA   I,ELEMOSO / AGBARABATA - ELEMOSO / AGBARABATA,13/03/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20348/pu/37050/37050-1677497204.pdf,false
+EKITI,EKITI EAST,KOTA   I,ISAYA STREET - ISAYA,13/03/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20348/pu/37048/37048-1677497050.pdf,false
+EKITI,EKITI EAST,KOTA   I,MARKET STALL - ISAYA KOTA,13/03/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20348/pu/37049/37049-1677496469.pdf,false
+EKITI,EKITI EAST,KOTA   I,"METHODIST PRY SCH. , KOTA - ISAYA",13/03/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20348/pu/37047/37047-1677495751.pdf,false
+EKITI,EKITI EAST,KOTA   I,UJAH TOWN HALL - UJAH   II,13/03/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20348/pu/37052/37052-1677473239.pdf,false
+EKITI,EKITI EAST,KOTA   I,TEMIDIRE / ELEJE ST. - TEMIDIRE/ ELEJE,13/03/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3347/ward/20348/pu/37055/37055-1677472801.pdf,false

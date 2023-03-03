@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,ADO EKITI,,IN FRONT OF OLD COUNCIL / ODOGUN AREA,13/01/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/008/008-1677409027.pdf,false
-EKITI,ADO EKITI,,"L. A. PRY. SCH., OKEYINMI / OKEYINMI",13/01/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/007/007-1677408535.pdf,false
-EKITI,ADO EKITI,,IN FRONT OF CHIEF ADELEYE'S HOUSE / OLURASA COMP.,13/01/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/004/004-1677408476.pdf,false
-EKITI,ADO EKITI,,"A. U. D. PRY. SCH., OKEYINMI / ODOFIN'S COMP.",13/01/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/009/009-1677408445.pdf,false
-EKITI,ADO EKITI,,IN FRONT OF ELEYINMI' S HOUSE ELEYINMI'S COMPOUND,13/01/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/005/005-1677408019.pdf,false
-EKITI,ADO EKITI,,IN FRONT OF PA ADESINA 'S COMP. / ADESINA'S COMP.,13/01/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/003/003-1677407549.pdf,false
-EKITI,ADO EKITI,,OPEN SPACE AT ODOGUN JUNCTION OKEYINMI,13/01/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/012/012-1677407441.pdf,false
-EKITI,ADO EKITI,,OPEN SPACE AT CHIEF ELEREBI’S AREA  OPP.MATERNITY CENTER OKEYINMI STREET BESIDE FIRST BANK,13/01/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/013/013-1677407426.pdf,false
-EKITI,ADO EKITI,,"OPEN SPACE AT INIGBEPA GBOIN,GBOIN AREA",13/01/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/011/011-1677406670.pdf,false
-EKITI,ADO EKITI,,"BY LEFT SIDE OF MACHANICAL WORKSHOP, IGBALETERE/ADEJUGBE'S COMP.",13/01/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/002/002-1677405838.pdf,false
-EKITI,ADO EKITI,,IN FRONT OF CHIEF ADEPARUSI'S HOUSE / FEREBUTE,13/01/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/006/006-1677405812.pdf,false
-EKITI,ADO EKITI,,"OPEN SPACE AT AROTOLA’S AREA,OKEYINMI",13/01/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/010/010-1677403936.pdf,false
-EKITI,ADO EKITI,,IN FRONT OF OWOLABI'S COMP. / OLUGBAYE'S COMP.,13/01/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/001/001-1677383024.pdf,false
+EKITI,ADO EKITI,ADO 'F' OKEYINMI,IN FRONT OF OLD COUNCIL / ODOGUN AREA,13/01/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/008/008-1677409027.pdf,false
+EKITI,ADO EKITI,ADO 'F' OKEYINMI,"L. A. PRY. SCH., OKEYINMI / OKEYINMI",13/01/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/007/007-1677408535.pdf,false
+EKITI,ADO EKITI,ADO 'F' OKEYINMI,IN FRONT OF CHIEF ADELEYE'S HOUSE / OLURASA COMP.,13/01/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/004/004-1677408476.pdf,false
+EKITI,ADO EKITI,ADO 'F' OKEYINMI,"A. U. D. PRY. SCH., OKEYINMI / ODOFIN'S COMP.",13/01/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/009/009-1677408445.pdf,false
+EKITI,ADO EKITI,ADO 'F' OKEYINMI,IN FRONT OF ELEYINMI' S HOUSE ELEYINMI'S COMPOUND,13/01/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/005/005-1677408019.pdf,false
+EKITI,ADO EKITI,ADO 'F' OKEYINMI,IN FRONT OF PA ADESINA 'S COMP. / ADESINA'S COMP.,13/01/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/003/003-1677407549.pdf,false
+EKITI,ADO EKITI,ADO 'F' OKEYINMI,OPEN SPACE AT ODOGUN JUNCTION OKEYINMI,13/01/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/012/012-1677407441.pdf,false
+EKITI,ADO EKITI,ADO 'F' OKEYINMI,OPEN SPACE AT CHIEF ELEREBI’S AREA  OPP.MATERNITY CENTER OKEYINMI STREET BESIDE FIRST BANK,13/01/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/013/013-1677407426.pdf,false
+EKITI,ADO EKITI,ADO 'F' OKEYINMI,"OPEN SPACE AT INIGBEPA GBOIN,GBOIN AREA",13/01/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/011/011-1677406670.pdf,false
+EKITI,ADO EKITI,ADO 'F' OKEYINMI,"BY LEFT SIDE OF MACHANICAL WORKSHOP, IGBALETERE/ADEJUGBE'S COMP.",13/01/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/002/002-1677405838.pdf,false
+EKITI,ADO EKITI,ADO 'F' OKEYINMI,IN FRONT OF CHIEF ADEPARUSI'S HOUSE / FEREBUTE,13/01/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/006/006-1677405812.pdf,false
+EKITI,ADO EKITI,ADO 'F' OKEYINMI,"OPEN SPACE AT AROTOLA’S AREA,OKEYINMI",13/01/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/010/010-1677403936.pdf,false
+EKITI,ADO EKITI,ADO 'F' OKEYINMI,IN FRONT OF OWOLABI'S COMP. / OLUGBAYE'S COMP.,13/01/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/001/001-1677383024.pdf,false

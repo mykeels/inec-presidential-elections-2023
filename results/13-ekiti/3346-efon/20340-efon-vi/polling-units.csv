@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,EFON,,OLUJI FARM JUNCTION - IGBOABA,13/02/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/013/013-1677392391.pdf,false
-EKITI,EFON,,NEAR CHIEF ELEMO HOUSE - ILERO,13/02/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/011/011-1677392116.pdf,false
-EKITI,EFON,,BEHIND OLAJUBU'S HOUSE - IBASE,13/02/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/012/012-1677391847.pdf,false
-EKITI,EFON,,IRUNSIN FARM - IRUNSIN     I,13/02/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/009/009-1677391519.pdf,false
-EKITI,EFON,,IRUNSIN FARM - IRUNSIN     II,13/02/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/010/010-1677391404.pdf,false
-EKITI,EFON,,NEAR OMOLE'S HOUSE - IKIRAN  I,13/02/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/008/008-1677390945.pdf,false
-EKITI,EFON,,NEAR OLUFE'S HOUSE - ISABA,13/02/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/007/007-1677390756.pdf,false
-EKITI,EFON,,NEAR BABATOPE'S HOUSE - ILOSI  I,13/02/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/005/005-1677390461.pdf,false
-EKITI,EFON,,ST. STEPHENS P/S - ILOSI   II,13/02/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/006/006-1677390363.pdf,false
-EKITI,EFON,,BOLARINWA'S HUT - IGBO OLOFIN    II,13/02/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/004/004-1677389592.pdf,false
-EKITI,EFON,,FRONT. OF SAYO'S HOUSE - IGBO OLOFIN   I,13/02/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/003/003-1677389252.pdf,false
-EKITI,EFON,,NEAR ALADEJARE'S HOUSE - OKE ISEGUN  II,13/02/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/002/002-1677388923.pdf,false
-EKITI,EFON,,NEAR ALADEJARE'S HOUSE - OKE ISEGUN  I,13/02/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/001/001-1677388625.pdf,false
+EKITI,EFON,EFON   VI,OLUJI FARM JUNCTION - IGBOABA,13/02/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/013/013-1677392391.pdf,false
+EKITI,EFON,EFON   VI,NEAR CHIEF ELEMO HOUSE - ILERO,13/02/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/011/011-1677392116.pdf,false
+EKITI,EFON,EFON   VI,BEHIND OLAJUBU'S HOUSE - IBASE,13/02/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/012/012-1677391847.pdf,false
+EKITI,EFON,EFON   VI,IRUNSIN FARM - IRUNSIN     I,13/02/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/009/009-1677391519.pdf,false
+EKITI,EFON,EFON   VI,IRUNSIN FARM - IRUNSIN     II,13/02/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/010/010-1677391404.pdf,false
+EKITI,EFON,EFON   VI,NEAR OMOLE'S HOUSE - IKIRAN  I,13/02/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/008/008-1677390945.pdf,false
+EKITI,EFON,EFON   VI,NEAR OLUFE'S HOUSE - ISABA,13/02/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/007/007-1677390756.pdf,false
+EKITI,EFON,EFON   VI,NEAR BABATOPE'S HOUSE - ILOSI  I,13/02/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/005/005-1677390461.pdf,false
+EKITI,EFON,EFON   VI,ST. STEPHENS P/S - ILOSI   II,13/02/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/006/006-1677390363.pdf,false
+EKITI,EFON,EFON   VI,BOLARINWA'S HUT - IGBO OLOFIN    II,13/02/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/004/004-1677389592.pdf,false
+EKITI,EFON,EFON   VI,FRONT. OF SAYO'S HOUSE - IGBO OLOFIN   I,13/02/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/003/003-1677389252.pdf,false
+EKITI,EFON,EFON   VI,NEAR ALADEJARE'S HOUSE - OKE ISEGUN  II,13/02/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/002/002-1677388923.pdf,false
+EKITI,EFON,EFON   VI,NEAR ALADEJARE'S HOUSE - OKE ISEGUN  I,13/02/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/06/pu/001/001-1677388625.pdf,false

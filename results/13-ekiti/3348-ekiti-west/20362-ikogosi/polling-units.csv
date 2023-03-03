@@ -1,10 +1,10 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EKITI,EKITI WEST,,"BAPTIST PRY. SCH. , ILAJUMU   I / ILAJUMU   II",13/04/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/005/005-1677368767.pdf,false
-EKITI,EKITI WEST,,"IDIGBO STREET  , INIJA / ODOGBO",13/04/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/004/004-1677366141.pdf,false
-EKITI,EKITI WEST,,"ADEMILUA  COMP. , IKOGOSI  W. S.",13/04/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/006/006-1677365679.pdf,false
-EKITI,EKITI WEST,,"CHIEF ONISAN FRONTAGE , OJI",13/04/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/002/002-1677365467.pdf,false
-EKITI,EKITI WEST,,"ABA OSUN  FARM   , BABATOLA / ABA OSUN",13/04/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/008/008-1677364876.pdf,false
-EKITI,EKITI WEST,,"ORI OKUTA , ORIOKUTA  / TEMIDIRE   /ASA",13/04/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/007/007-1677364497.pdf,false
-EKITI,EKITI WEST,,FRONTAGE OF OYEBANJI'S COMP.   OKELELE,13/04/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/003/003-1677364056.pdf,false
-EKITI,EKITI WEST,,"FRONT OF ELERIGBE , ERIGBE",13/04/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/001/001-1677363600.pdf,false
-EKITI,EKITI WEST,,"JOHN KOLAWOLE HOUSE , ALAJE CAMP",13/04/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/009/009-1677361978.pdf,false
+EKITI,EKITI WEST,IKOGOSI,"BAPTIST PRY. SCH. , ILAJUMU   I / ILAJUMU   II",13/04/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/005/005-1677368767.pdf,false
+EKITI,EKITI WEST,IKOGOSI,"IDIGBO STREET  , INIJA / ODOGBO",13/04/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/004/004-1677366141.pdf,false
+EKITI,EKITI WEST,IKOGOSI,"ADEMILUA  COMP. , IKOGOSI  W. S.",13/04/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/006/006-1677365679.pdf,false
+EKITI,EKITI WEST,IKOGOSI,"CHIEF ONISAN FRONTAGE , OJI",13/04/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/002/002-1677365467.pdf,false
+EKITI,EKITI WEST,IKOGOSI,"ABA OSUN  FARM   , BABATOLA / ABA OSUN",13/04/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/008/008-1677364876.pdf,false
+EKITI,EKITI WEST,IKOGOSI,"ORI OKUTA , ORIOKUTA  / TEMIDIRE   /ASA",13/04/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/007/007-1677364497.pdf,false
+EKITI,EKITI WEST,IKOGOSI,FRONTAGE OF OYEBANJI'S COMP.   OKELELE,13/04/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/003/003-1677364056.pdf,false
+EKITI,EKITI WEST,IKOGOSI,"FRONT OF ELERIGBE , ERIGBE",13/04/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/001/001-1677363600.pdf,false
+EKITI,EKITI WEST,IKOGOSI,"JOHN KOLAWOLE HOUSE , ALAJE CAMP",13/04/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/06/pu/009/009-1677361978.pdf,false
