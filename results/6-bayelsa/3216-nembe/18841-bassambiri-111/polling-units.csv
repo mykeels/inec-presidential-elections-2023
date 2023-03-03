@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BAYELSA,NEMBE,BASSAMBIRI 111,FEDEL POLO,06/04/06/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+BAYELSA,NEMBE,BASSAMBIRI 111,BUTUBUGO/VILLAGE SQUARE,06/04/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/17515/result_177673_1677595635_thumb.jpg,false
+BAYELSA,NEMBE,BASSAMBIRI 111,AKALUKIRI/VILLAGE SQUARE,06/04/06/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+BAYELSA,NEMBE,BASSAMBIRI 111,BOTOKIRI/ VILLAGE SQUARE,06/04/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+BAYELSA,NEMBE,BASSAMBIRI 111,KALABILA AMA/SCHOOL COMPOUND,06/04/06/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/17512/result_177670_1677593631_thumb.jpg,false
+BAYELSA,NEMBE,BASSAMBIRI 111,OKIPIRI/SCHOOL COMPOUND,06/04/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/17510/result_177668_1677592948_thumb.jpg,false
+BAYELSA,NEMBE,BASSAMBIRI 111,KALABILA AMA/VILLAGE  SQUARE,06/04/06/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/17511/result_177669_1677593204_thumb.jpg,false
+BAYELSA,NEMBE,BASSAMBIRI 111,OKIPIRI/VILLAGE SQUARE,06/04/06/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/17509/result_177667_1677592732_thumb.jpg,false
