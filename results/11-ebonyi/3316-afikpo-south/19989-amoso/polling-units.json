@@ -26,6 +26,7 @@
     "pu_code_string": "110305008",
     "state_name": "EBONYI",
     "lga_name": "AFIKPO  SOUTH",
+    "ward_name": "AMOSO",
     "document": {
       "external": false,
       "status": 1,
@@ -73,6 +74,7 @@
     "pu_code_string": "110305007",
     "state_name": "EBONYI",
     "lga_name": "AFIKPO  SOUTH",
+    "ward_name": "AMOSO",
     "document": {
       "external": false,
       "status": 1,
@@ -111,6 +113,7 @@
     "pu_code_string": "110305006",
     "state_name": "EBONYI",
     "lga_name": "AFIKPO  SOUTH",
+    "ward_name": "AMOSO",
     "document": {
       "external": false,
       "status": 1,
@@ -149,6 +152,7 @@
     "pu_code_string": "110305005",
     "state_name": "EBONYI",
     "lga_name": "AFIKPO  SOUTH",
+    "ward_name": "AMOSO",
     "document": {
       "external": false,
       "status": 1,
@@ -187,6 +191,7 @@
     "pu_code_string": "110305004",
     "state_name": "EBONYI",
     "lga_name": "AFIKPO  SOUTH",
+    "ward_name": "AMOSO",
     "document": {
       "external": false,
       "status": 1,
@@ -225,6 +230,7 @@
     "pu_code_string": "110305002",
     "state_name": "EBONYI",
     "lga_name": "AFIKPO  SOUTH",
+    "ward_name": "AMOSO",
     "document": {
       "external": false,
       "status": 1,
@@ -263,6 +269,7 @@
     "pu_code_string": "110305001",
     "state_name": "EBONYI",
     "lga_name": "AFIKPO  SOUTH",
+    "ward_name": "AMOSO",
     "document": {
       "external": false,
       "status": 1,
@@ -301,6 +308,7 @@
     "pu_code_string": "110305009",
     "state_name": "EBONYI",
     "lga_name": "AFIKPO  SOUTH",
+    "ward_name": "AMOSO",
     "document": {
       "external": true,
       "status": 1,
@@ -339,6 +347,7 @@
     "pu_code_string": "110305010",
     "state_name": "EBONYI",
     "lga_name": "AFIKPO  SOUTH",
+    "ward_name": "AMOSO",
     "document": {
       "external": true,
       "status": 1,
@@ -377,6 +386,7 @@
     "pu_code_string": "110305011",
     "state_name": "EBONYI",
     "lga_name": "AFIKPO  SOUTH",
+    "ward_name": "AMOSO",
     "document": {
       "external": true,
       "status": 1,
@@ -415,6 +425,7 @@
     "pu_code_string": "110305003",
     "state_name": "EBONYI",
     "lga_name": "AFIKPO  SOUTH",
+    "ward_name": "AMOSO",
     "document": {
       "external": false,
       "status": 1,

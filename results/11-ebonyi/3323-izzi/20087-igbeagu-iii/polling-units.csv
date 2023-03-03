@@ -1,25 +1,25 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EBONYI,IZZI,,ECHINDU PRI. SCH.  I,11/10/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33616/result_151196_1677608615_thumb.jpg,false
-EBONYI,IZZI,,OKUMENYI PRI. SCH,11/10/10/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631837/result_151219_1677608459_thumb.jpg,false
-EBONYI,IZZI,,MGBERE MKT SQ,11/10/10/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631836/result_151218_1677608304_thumb.jpg,false
-EBONYI,IZZI,,EDUPFUZASHI MKT SQ,11/10/10/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631835/result_151217_1677608121_thumb.jpg,false
-EBONYI,IZZI,,NKWUDA EKORI MKT SQ,11/10/10/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631832/result_151214_1677607817_thumb.jpg,false
-EBONYI,IZZI,,OGBODO IPHUIGWE VIL. HALL,11/10/10/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631831/result_151213_1677607601_thumb.jpg,false
-EBONYI,IZZI,,AZUDA JUNCTION BOREHOLE,11/10/10/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631827/result_151209_1677607271_thumb.jpg,false
-EBONYI,IZZI,,ECHINDU PRIMARY SCHOOL  II,11/10/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-EBONYI,IZZI,,NDIAKPURATA NDIEBOR,11/10/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-EBONYI,IZZI,,OGBODO NDIEGU MARKET HALL,11/10/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33622/result_151202_1677606508_thumb.jpg,false
-EBONYI,IZZI,,NWAKPU MARKET HALL,11/10/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33621/result_151201_1677606344_thumb.jpg,false
-EBONYI,IZZI,,ODARIKO COMMUNITY SCHOOL I,11/10/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33617/result_151197_1677606157_thumb.jpg,false
-EBONYI,IZZI,,ODARIKO COMMUNITY SCHOOL II,11/10/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33618/result_151198_1677605976_thumb.jpg,false
-EBONYI,IZZI,,OJIEGBE PRI SCH. CAMPUS II,11/10/10/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631830/result_151212_1677605756_thumb.jpg,false
-EBONYI,IZZI,,OKPOKOROKO MKT SQ,11/10/10/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631826/result_151208_1677605598_thumb.jpg,false
-EBONYI,IZZI,,NDIAKPURATA NDIEGU VILLAGE HALL,11/10/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33620/result_151200_1677605441_thumb.jpg,false
-EBONYI,IZZI,,NDIUBIA VILLAGE SQUARE,11/10/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33619/result_151199_1677604805_thumb.jpg,false
-EBONYI,IZZI,,OJIEGBE PRIMARY SCHOOL,11/10/10/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33624/result_151204_1677604394_thumb.jpg,false
-EBONYI,IZZI,,NDUBIA VIL. SQ. IMENDEBOR,11/10/10/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631829/result_151211_1677603785_thumb.jpg,false
-EBONYI,IZZI,,AKPAPFU PRI. SCH.,11/10/10/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631833/result_151215_1677590267_thumb.jpg,false
-EBONYI,IZZI,,OLA-ILUM VIL. HALL,11/10/10/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631834/result_151216_1677587328_thumb.jpg,false
-EBONYI,IZZI,,NDIEKUMA VILLAGE SQUARE,11/10/10/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-EBONYI,IZZI,,ODODOKPA NDIUKPA MKT SQ,11/10/10/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631828/result_151210_1677589213_thumb.jpg,false
-EBONYI,IZZI,,OGBODO NDIEBOR CAMP,11/10/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/10/pu/010/010-1677390193.pdf,false
+EBONYI,IZZI,IGBEAGU  III,ECHINDU PRI. SCH.  I,11/10/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33616/result_151196_1677608615_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU  III,OKUMENYI PRI. SCH,11/10/10/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631837/result_151219_1677608459_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU  III,MGBERE MKT SQ,11/10/10/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631836/result_151218_1677608304_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU  III,EDUPFUZASHI MKT SQ,11/10/10/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631835/result_151217_1677608121_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU  III,NKWUDA EKORI MKT SQ,11/10/10/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631832/result_151214_1677607817_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU  III,OGBODO IPHUIGWE VIL. HALL,11/10/10/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631831/result_151213_1677607601_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU  III,AZUDA JUNCTION BOREHOLE,11/10/10/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631827/result_151209_1677607271_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU  III,ECHINDU PRIMARY SCHOOL  II,11/10/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+EBONYI,IZZI,IGBEAGU  III,NDIAKPURATA NDIEBOR,11/10/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+EBONYI,IZZI,IGBEAGU  III,OGBODO NDIEGU MARKET HALL,11/10/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33622/result_151202_1677606508_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU  III,NWAKPU MARKET HALL,11/10/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33621/result_151201_1677606344_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU  III,ODARIKO COMMUNITY SCHOOL I,11/10/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33617/result_151197_1677606157_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU  III,ODARIKO COMMUNITY SCHOOL II,11/10/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33618/result_151198_1677605976_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU  III,OJIEGBE PRI SCH. CAMPUS II,11/10/10/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631830/result_151212_1677605756_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU  III,OKPOKOROKO MKT SQ,11/10/10/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631826/result_151208_1677605598_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU  III,NDIAKPURATA NDIEGU VILLAGE HALL,11/10/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33620/result_151200_1677605441_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU  III,NDIUBIA VILLAGE SQUARE,11/10/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33619/result_151199_1677604805_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU  III,OJIEGBE PRIMARY SCHOOL,11/10/10/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33624/result_151204_1677604394_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU  III,NDUBIA VIL. SQ. IMENDEBOR,11/10/10/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631829/result_151211_1677603785_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU  III,AKPAPFU PRI. SCH.,11/10/10/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631833/result_151215_1677590267_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU  III,OLA-ILUM VIL. HALL,11/10/10/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631834/result_151216_1677587328_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU  III,NDIEKUMA VILLAGE SQUARE,11/10/10/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+EBONYI,IZZI,IGBEAGU  III,ODODOKPA NDIUKPA MKT SQ,11/10/10/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631828/result_151210_1677589213_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU  III,OGBODO NDIEBOR CAMP,11/10/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/10/pu/010/010-1677390193.pdf,false

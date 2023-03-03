@@ -1,20 +1,20 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EBONYI,AFIKPO  SOUTH,,NDIUCHE COMMUNITY HALL,11/03/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/32659/32659-1677760568.pdf,false
-EBONYI,AFIKPO  SOUTH,,NDIUGBO VILLAGE HALL,11/03/10/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/138635/138635-1677674729.pdf,true
-EBONYI,AFIKPO  SOUTH,,NDI OKPO TOWN HALL II,11/03/10/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/138634/138634-1677674625.pdf,true
-EBONYI,AFIKPO  SOUTH,,NDI-OKPO VILLAGE HALL II,11/03/10/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/138632/138632-1677674496.pdf,true
-EBONYI,AFIKPO  SOUTH,,AMASONTA TOWN HALL II,11/03/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/138631/138631-1677674278.pdf,true
-EBONYI,AFIKPO  SOUTH,,NDI-IKPO VILLAGE HALL,11/03/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/138630/138630-1677673827.pdf,true
-EBONYI,AFIKPO  SOUTH,,OKPOROJO PRIMARY SCHOOL,11/03/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/32670/32670-1677673618.pdf,true
-EBONYI,AFIKPO  SOUTH,,NDI UGBO VILLAGE SQUARE,11/03/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/32669/32669-1677673496.pdf,false
-EBONYI,AFIKPO  SOUTH,,NDI OKPO TOWN HALL,11/03/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/32668/32668-1677673201.pdf,true
-EBONYI,AFIKPO  SOUTH,,OKPOROJO VILLAGE SQUARE,11/03/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/32667/32667-1677672253.pdf,false
-EBONYI,AFIKPO  SOUTH,,IGBORO PRIMARY SCHOOL III,11/03/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/32666/32666-1677672085.pdf,false
-EBONYI,AFIKPO  SOUTH,,IGBORO PRIMARY SCHOOL II,11/03/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/32665/32665-1677671975.pdf,false
-EBONYI,AFIKPO  SOUTH,,IGBORO PRIMARY SCHOOL I,11/03/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/32664/32664-1677671862.pdf,false
-EBONYI,AFIKPO  SOUTH,,NDIOBASI VILLAGE HALL II,11/03/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/32663/32663-1677671745.pdf,false
-EBONYI,AFIKPO  SOUTH,,NDIOBASI VILLAGE HALL I,11/03/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/32662/32662-1677671537.pdf,true
-EBONYI,AFIKPO  SOUTH,,NDIOKPO VILLAGE HALL,11/03/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/32661/32661-1677671166.pdf,true
-EBONYI,AFIKPO  SOUTH,,AMAOSONTA VILLAGE HALL,11/03/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/32660/32660-1677670592.pdf,false
-EBONYI,AFIKPO  SOUTH,,AMAECHI PRIMARY SCHOOL,11/03/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/32658/32658-1677670118.pdf,false
-EBONYI,AFIKPO  SOUTH,,OGIRI VILLAGE HALL,11/03/10/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631361/result_150276_1677647815_thumb.jpg,false
+EBONYI,AFIKPO  SOUTH,OSO,NDIUCHE COMMUNITY HALL,11/03/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/32659/32659-1677760568.pdf,false
+EBONYI,AFIKPO  SOUTH,OSO,NDIUGBO VILLAGE HALL,11/03/10/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/138635/138635-1677674729.pdf,true
+EBONYI,AFIKPO  SOUTH,OSO,NDI OKPO TOWN HALL II,11/03/10/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/138634/138634-1677674625.pdf,true
+EBONYI,AFIKPO  SOUTH,OSO,NDI-OKPO VILLAGE HALL II,11/03/10/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/138632/138632-1677674496.pdf,true
+EBONYI,AFIKPO  SOUTH,OSO,AMASONTA TOWN HALL II,11/03/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/138631/138631-1677674278.pdf,true
+EBONYI,AFIKPO  SOUTH,OSO,NDI-IKPO VILLAGE HALL,11/03/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/138630/138630-1677673827.pdf,true
+EBONYI,AFIKPO  SOUTH,OSO,OKPOROJO PRIMARY SCHOOL,11/03/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/32670/32670-1677673618.pdf,true
+EBONYI,AFIKPO  SOUTH,OSO,NDI UGBO VILLAGE SQUARE,11/03/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/32669/32669-1677673496.pdf,false
+EBONYI,AFIKPO  SOUTH,OSO,NDI OKPO TOWN HALL,11/03/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/32668/32668-1677673201.pdf,true
+EBONYI,AFIKPO  SOUTH,OSO,OKPOROJO VILLAGE SQUARE,11/03/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/32667/32667-1677672253.pdf,false
+EBONYI,AFIKPO  SOUTH,OSO,IGBORO PRIMARY SCHOOL III,11/03/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/32666/32666-1677672085.pdf,false
+EBONYI,AFIKPO  SOUTH,OSO,IGBORO PRIMARY SCHOOL II,11/03/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/32665/32665-1677671975.pdf,false
+EBONYI,AFIKPO  SOUTH,OSO,IGBORO PRIMARY SCHOOL I,11/03/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/32664/32664-1677671862.pdf,false
+EBONYI,AFIKPO  SOUTH,OSO,NDIOBASI VILLAGE HALL II,11/03/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/32663/32663-1677671745.pdf,false
+EBONYI,AFIKPO  SOUTH,OSO,NDIOBASI VILLAGE HALL I,11/03/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/32662/32662-1677671537.pdf,true
+EBONYI,AFIKPO  SOUTH,OSO,NDIOKPO VILLAGE HALL,11/03/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/32661/32661-1677671166.pdf,true
+EBONYI,AFIKPO  SOUTH,OSO,AMAOSONTA VILLAGE HALL,11/03/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/32660/32660-1677670592.pdf,false
+EBONYI,AFIKPO  SOUTH,OSO,AMAECHI PRIMARY SCHOOL,11/03/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19994/pu/32658/32658-1677670118.pdf,false
+EBONYI,AFIKPO  SOUTH,OSO,OGIRI VILLAGE HALL,11/03/10/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631361/result_150276_1677647815_thumb.jpg,false

@@ -1,17 +1,17 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EBONYI,AFIKPO NORTH,,OLD LECTURE THEATRE AUDITORIUM,11/02/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/138579/138579-1677718882.pdf,true
-EBONYI,AFIKPO NORTH,,STUDENTS CENTRE BUS STOP,11/02/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/138578/138578-1677717780.pdf,true
-EBONYI,AFIKPO NORTH,,EZI UKWU AMAGU NDEMIYI,11/02/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/32567/32567-1677717832.pdf,false
-EBONYI,AFIKPO NORTH,,EZI UKWU AMAGU T/HALL,11/02/11/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/138581/138581-1677717015.pdf,true
-EBONYI,AFIKPO NORTH,,EZI UKWU AMAGU I,11/02/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/32565/32565-1677717098.pdf,false
-EBONYI,AFIKPO NORTH,,NKAGBOGO VILLAGE SQUARE II,11/02/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/32569/32569-1677716960.pdf,true
-EBONYI,AFIKPO NORTH,,EZI UKWU AMAGU II,11/02/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/32566/32566-1677716651.pdf,true
-EBONYI,AFIKPO NORTH,,EZI OTI INYA,11/02/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/32563/32563-1677714219.pdf,false
-EBONYI,AFIKPO NORTH,,AIFPUA CENTER CAFÃ‰,11/02/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/32564/32564-1677589387.pdf,true
-EBONYI,AFIKPO NORTH,,JOHN AKA EGWU MEMO./PRIM. SCH.,11/02/11/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/138582/138582-1677581885.pdf,true
-EBONYI,AFIKPO NORTH,,EZI OTI INYA TOWN HALL,11/02/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/138576/138576-1677581784.pdf,true
-EBONYI,AFIKPO NORTH,,OBU EZI OTI INYA T/HALL,11/02/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/138577/138577-1677581179.pdf,true
-EBONYI,AFIKPO NORTH,,UNWANA COMP. SEC. SCHOOL,11/02/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/32570/32570-1677579349.pdf,true
-EBONYI,AFIKPO NORTH,,UNWANA COMMUNITY PRIMARY SCHOOL,11/02/11/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/138583/138583-1677518991.pdf,false
-EBONYI,AFIKPO NORTH,,ZENITH BLOCK,11/02/11/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/138580/138580-1677518031.pdf,false
-EBONYI,AFIKPO NORTH,,NKAGBOGO VILLAGE SQUARE I,11/02/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/32568/32568-1677499112.pdf,false
+EBONYI,AFIKPO NORTH,UWANA AFIKPO 1,OLD LECTURE THEATRE AUDITORIUM,11/02/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/138579/138579-1677718882.pdf,true
+EBONYI,AFIKPO NORTH,UWANA AFIKPO 1,STUDENTS CENTRE BUS STOP,11/02/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/138578/138578-1677717780.pdf,true
+EBONYI,AFIKPO NORTH,UWANA AFIKPO 1,EZI UKWU AMAGU NDEMIYI,11/02/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/32567/32567-1677717832.pdf,false
+EBONYI,AFIKPO NORTH,UWANA AFIKPO 1,EZI UKWU AMAGU T/HALL,11/02/11/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/138581/138581-1677717015.pdf,true
+EBONYI,AFIKPO NORTH,UWANA AFIKPO 1,EZI UKWU AMAGU I,11/02/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/32565/32565-1677717098.pdf,false
+EBONYI,AFIKPO NORTH,UWANA AFIKPO 1,NKAGBOGO VILLAGE SQUARE II,11/02/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/32569/32569-1677716960.pdf,true
+EBONYI,AFIKPO NORTH,UWANA AFIKPO 1,EZI UKWU AMAGU II,11/02/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/32566/32566-1677716651.pdf,true
+EBONYI,AFIKPO NORTH,UWANA AFIKPO 1,EZI OTI INYA,11/02/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/32563/32563-1677714219.pdf,false
+EBONYI,AFIKPO NORTH,UWANA AFIKPO 1,AIFPUA CENTER CAFÃ‰,11/02/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/32564/32564-1677589387.pdf,true
+EBONYI,AFIKPO NORTH,UWANA AFIKPO 1,JOHN AKA EGWU MEMO./PRIM. SCH.,11/02/11/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/138582/138582-1677581885.pdf,true
+EBONYI,AFIKPO NORTH,UWANA AFIKPO 1,EZI OTI INYA TOWN HALL,11/02/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/138576/138576-1677581784.pdf,true
+EBONYI,AFIKPO NORTH,UWANA AFIKPO 1,OBU EZI OTI INYA T/HALL,11/02/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/138577/138577-1677581179.pdf,true
+EBONYI,AFIKPO NORTH,UWANA AFIKPO 1,UNWANA COMP. SEC. SCHOOL,11/02/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/32570/32570-1677579349.pdf,true
+EBONYI,AFIKPO NORTH,UWANA AFIKPO 1,UNWANA COMMUNITY PRIMARY SCHOOL,11/02/11/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/138583/138583-1677518991.pdf,false
+EBONYI,AFIKPO NORTH,UWANA AFIKPO 1,ZENITH BLOCK,11/02/11/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/138580/138580-1677518031.pdf,false
+EBONYI,AFIKPO NORTH,UWANA AFIKPO 1,NKAGBOGO VILLAGE SQUARE I,11/02/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19983/pu/32568/32568-1677499112.pdf,false

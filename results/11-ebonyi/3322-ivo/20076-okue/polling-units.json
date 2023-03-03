@@ -26,6 +26,7 @@
     "pu_code_string": "110910007",
     "state_name": "EBONYI",
     "lga_name": "IVO",
+    "ward_name": "OKUE",
     "document": {
       "external": true,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "110910008",
     "state_name": "EBONYI",
     "lga_name": "IVO",
+    "ward_name": "OKUE",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "110910012",
     "state_name": "EBONYI",
     "lga_name": "IVO",
+    "ward_name": "OKUE",
     "document": {
       "external": true,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "110910011",
     "state_name": "EBONYI",
     "lga_name": "IVO",
+    "ward_name": "OKUE",
     "document": {
       "external": true,
       "status": 1,
@@ -178,6 +182,7 @@
     "pu_code_string": "110910005",
     "state_name": "EBONYI",
     "lga_name": "IVO",
+    "ward_name": "OKUE",
     "document": {
       "external": true,
       "status": 1,
@@ -216,6 +221,7 @@
     "pu_code_string": "110910009",
     "state_name": "EBONYI",
     "lga_name": "IVO",
+    "ward_name": "OKUE",
     "document": {
       "external": true,
       "status": 1,
@@ -254,6 +260,7 @@
     "pu_code_string": "110910010",
     "state_name": "EBONYI",
     "lga_name": "IVO",
+    "ward_name": "OKUE",
     "document": {
       "external": true,
       "status": 1,
@@ -292,6 +299,7 @@
     "pu_code_string": "110910004",
     "state_name": "EBONYI",
     "lga_name": "IVO",
+    "ward_name": "OKUE",
     "document": {
       "external": true,
       "status": 1,
@@ -330,6 +338,7 @@
     "pu_code_string": "110910003",
     "state_name": "EBONYI",
     "lga_name": "IVO",
+    "ward_name": "OKUE",
     "document": {
       "external": true,
       "status": 1,
@@ -368,6 +377,7 @@
     "pu_code_string": "110910002",
     "state_name": "EBONYI",
     "lga_name": "IVO",
+    "ward_name": "OKUE",
     "document": {
       "external": true,
       "status": 1,
@@ -406,6 +416,7 @@
     "pu_code_string": "110910001",
     "state_name": "EBONYI",
     "lga_name": "IVO",
+    "ward_name": "OKUE",
     "document": {
       "external": true,
       "status": 1,
@@ -444,6 +455,7 @@
     "pu_code_string": "110910006",
     "state_name": "EBONYI",
     "lga_name": "IVO",
+    "ward_name": "OKUE",
     "document": {
       "external": false,
       "status": 1,

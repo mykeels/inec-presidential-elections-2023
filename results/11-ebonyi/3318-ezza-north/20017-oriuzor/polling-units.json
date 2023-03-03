@@ -26,6 +26,7 @@
     "pu_code_string": "110509020",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "document": {
       "external": false,
       "status": 1,
@@ -89,6 +90,7 @@
     "pu_code_string": "110509022",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "document": {
       "external": false,
       "status": 1,
@@ -136,6 +138,7 @@
     "pu_code_string": "110509021",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "document": {
       "external": false,
       "status": 1,
@@ -183,6 +186,7 @@
     "pu_code_string": "110509016",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "document": {
       "external": false,
       "status": 1,
@@ -230,6 +234,7 @@
     "pu_code_string": "110509024",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "document": {
       "external": false,
       "status": 1,
@@ -277,6 +282,7 @@
     "pu_code_string": "110509028",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "document": {
       "external": false,
       "status": 1,
@@ -324,6 +330,7 @@
     "pu_code_string": "110509027",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "document": {
       "external": false,
       "status": 1,
@@ -371,6 +378,7 @@
     "pu_code_string": "110509030",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "document": {
       "external": false,
       "status": 1,
@@ -418,6 +426,7 @@
     "pu_code_string": "110509009",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "document": {
       "external": false,
       "status": 1,
@@ -456,6 +465,7 @@
     "pu_code_string": "110509005",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "document": {
       "external": false,
       "status": 1,
@@ -494,6 +504,7 @@
     "pu_code_string": "110509012",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "document": {
       "external": false,
       "status": 1,
@@ -532,6 +543,7 @@
     "pu_code_string": "110509014",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "document": {
       "external": false,
       "status": 1,
@@ -570,6 +582,7 @@
     "pu_code_string": "110509008",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "document": {
       "external": false,
       "status": 1,
@@ -608,6 +621,7 @@
     "pu_code_string": "110509001",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "document": {
       "external": false,
       "status": 1,
@@ -646,6 +660,7 @@
     "pu_code_string": "110509025",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -676,6 +691,7 @@
     "pu_code_string": "110509018",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -706,6 +722,7 @@
     "pu_code_string": "110509023",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -736,6 +753,7 @@
     "pu_code_string": "110509026",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -766,6 +784,7 @@
     "pu_code_string": "110509031",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -796,6 +815,7 @@
     "pu_code_string": "110509017",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -826,6 +846,7 @@
     "pu_code_string": "110509019",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -856,6 +877,7 @@
     "pu_code_string": "110509032",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -886,6 +908,7 @@
     "pu_code_string": "110509029",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -916,6 +939,7 @@
     "pu_code_string": "110509010",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -946,6 +970,7 @@
     "pu_code_string": "110509015",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -976,6 +1001,7 @@
     "pu_code_string": "110509003",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1006,6 +1032,7 @@
     "pu_code_string": "110509006",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1036,6 +1063,7 @@
     "pu_code_string": "110509013",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1066,6 +1094,7 @@
     "pu_code_string": "110509011",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1096,6 +1125,7 @@
     "pu_code_string": "110509002",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1126,6 +1156,7 @@
     "pu_code_string": "110509004",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1156,6 +1187,7 @@
     "pu_code_string": "110509007",
     "state_name": "EBONYI",
     "lga_name": "EZZA NORTH",
+    "ward_name": "ORIUZOR",
     "old_documents": [],
     "has_old_documents": false
   }

@@ -26,6 +26,7 @@
     "pu_code_string": "110412004",
     "state_name": "EBONYI",
     "lga_name": "EBONYI",
+    "ward_name": "ONUENYIM",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "110412002",
     "state_name": "EBONYI",
     "lga_name": "EBONYI",
+    "ward_name": "ONUENYIM",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "110412001",
     "state_name": "EBONYI",
     "lga_name": "EBONYI",
+    "ward_name": "ONUENYIM",
     "document": {
       "external": false,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "110412003",
     "state_name": "EBONYI",
     "lga_name": "EBONYI",
+    "ward_name": "ONUENYIM",
     "document": {
       "external": false,
       "status": 1,
@@ -187,6 +191,7 @@
     "pu_code_string": "110412011",
     "state_name": "EBONYI",
     "lga_name": "EBONYI",
+    "ward_name": "ONUENYIM",
     "document": {
       "external": true,
       "status": 1,
@@ -225,6 +230,7 @@
     "pu_code_string": "110412005",
     "state_name": "EBONYI",
     "lga_name": "EBONYI",
+    "ward_name": "ONUENYIM",
     "document": {
       "external": true,
       "status": 1,
@@ -263,6 +269,7 @@
     "pu_code_string": "110412009",
     "state_name": "EBONYI",
     "lga_name": "EBONYI",
+    "ward_name": "ONUENYIM",
     "document": {
       "external": true,
       "status": 1,
@@ -301,6 +308,7 @@
     "pu_code_string": "110412010",
     "state_name": "EBONYI",
     "lga_name": "EBONYI",
+    "ward_name": "ONUENYIM",
     "document": {
       "external": true,
       "status": 1,
@@ -339,6 +347,7 @@
     "pu_code_string": "110412008",
     "state_name": "EBONYI",
     "lga_name": "EBONYI",
+    "ward_name": "ONUENYIM",
     "document": {
       "external": true,
       "status": 1,
@@ -377,6 +386,7 @@
     "pu_code_string": "110412007",
     "state_name": "EBONYI",
     "lga_name": "EBONYI",
+    "ward_name": "ONUENYIM",
     "document": {
       "external": true,
       "status": 1,
@@ -415,6 +425,7 @@
     "pu_code_string": "110412006",
     "state_name": "EBONYI",
     "lga_name": "EBONYI",
+    "ward_name": "ONUENYIM",
     "document": {
       "external": true,
       "status": 1,

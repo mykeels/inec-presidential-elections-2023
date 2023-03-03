@@ -26,6 +26,7 @@
     "pu_code_string": "110803006",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "AZUINYABA \"A\"",
     "document": {
       "external": true,
       "status": 1,
@@ -73,6 +74,7 @@
     "pu_code_string": "110803005",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "AZUINYABA \"A\"",
     "document": {
       "external": true,
       "status": 1,
@@ -111,6 +113,7 @@
     "pu_code_string": "110803002",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "AZUINYABA \"A\"",
     "document": {
       "external": false,
       "status": 1,
@@ -158,6 +161,7 @@
     "pu_code_string": "110803001",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "AZUINYABA \"A\"",
     "document": {
       "external": false,
       "status": 1,
@@ -205,6 +209,7 @@
     "pu_code_string": "110803003",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "AZUINYABA \"A\"",
     "document": {
       "external": false,
       "status": 1,
@@ -243,6 +248,7 @@
     "pu_code_string": "110803004",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "AZUINYABA \"A\"",
     "document": {
       "external": false,
       "status": 1,

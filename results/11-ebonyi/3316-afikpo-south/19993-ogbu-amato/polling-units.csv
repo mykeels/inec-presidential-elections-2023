@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EBONYI,AFIKPO  SOUTH,,OGBU VILLAGE HALL,11/03/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19993/pu/138629/138629-1677661591.pdf,true
-EBONYI,AFIKPO  SOUTH,,ITIM ELU VILLAGE SQUARE,11/03/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19993/pu/138628/138628-1677661151.pdf,false
-EBONYI,AFIKPO  SOUTH,,ITIM VILLAGE SQUARE,11/03/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19993/pu/138627/138627-1677660830.pdf,true
-EBONYI,AFIKPO  SOUTH,,OGBU VILLAGE SQUARE,11/03/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19993/pu/138626/138626-1677660498.pdf,true
-EBONYI,AFIKPO  SOUTH,,OKOJOGHO MEMORIAL PRIMARY SCHOOL,11/03/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19993/pu/138625/138625-1677660096.pdf,true
-EBONYI,AFIKPO  SOUTH,,ITIM VILLAGE HALL,11/03/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19993/pu/32657/32657-1677659473.pdf,true
-EBONYI,AFIKPO  SOUTH,,ITIM PRIMARY SCHOOL,11/03/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19993/pu/32656/32656-1677658970.pdf,false
-EBONYI,AFIKPO  SOUTH,,ITIM SEC. SCHOOL,11/03/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19993/pu/32655/32655-1677658639.pdf,false
-EBONYI,AFIKPO  SOUTH,,UMUNNABUIKE PRIMARY SCHOOL,11/03/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19993/pu/32654/32654-1677658040.pdf,false
-EBONYI,AFIKPO  SOUTH,,IGWE MEMORIAL PRIMARY SCHOOL,11/03/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19993/pu/32653/32653-1677657635.pdf,true
-EBONYI,AFIKPO  SOUTH,,AKPUGHURU TOWN HALL,11/03/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19993/pu/32652/32652-1677656407.pdf,true
+EBONYI,AFIKPO  SOUTH,OGBU (AMATO),OGBU VILLAGE HALL,11/03/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19993/pu/138629/138629-1677661591.pdf,true
+EBONYI,AFIKPO  SOUTH,OGBU (AMATO),ITIM ELU VILLAGE SQUARE,11/03/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19993/pu/138628/138628-1677661151.pdf,false
+EBONYI,AFIKPO  SOUTH,OGBU (AMATO),ITIM VILLAGE SQUARE,11/03/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19993/pu/138627/138627-1677660830.pdf,true
+EBONYI,AFIKPO  SOUTH,OGBU (AMATO),OGBU VILLAGE SQUARE,11/03/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19993/pu/138626/138626-1677660498.pdf,true
+EBONYI,AFIKPO  SOUTH,OGBU (AMATO),OKOJOGHO MEMORIAL PRIMARY SCHOOL,11/03/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19993/pu/138625/138625-1677660096.pdf,true
+EBONYI,AFIKPO  SOUTH,OGBU (AMATO),ITIM VILLAGE HALL,11/03/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19993/pu/32657/32657-1677659473.pdf,true
+EBONYI,AFIKPO  SOUTH,OGBU (AMATO),ITIM PRIMARY SCHOOL,11/03/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19993/pu/32656/32656-1677658970.pdf,false
+EBONYI,AFIKPO  SOUTH,OGBU (AMATO),ITIM SEC. SCHOOL,11/03/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19993/pu/32655/32655-1677658639.pdf,false
+EBONYI,AFIKPO  SOUTH,OGBU (AMATO),UMUNNABUIKE PRIMARY SCHOOL,11/03/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19993/pu/32654/32654-1677658040.pdf,false
+EBONYI,AFIKPO  SOUTH,OGBU (AMATO),IGWE MEMORIAL PRIMARY SCHOOL,11/03/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19993/pu/32653/32653-1677657635.pdf,true
+EBONYI,AFIKPO  SOUTH,OGBU (AMATO),AKPUGHURU TOWN HALL,11/03/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19993/pu/32652/32652-1677656407.pdf,true

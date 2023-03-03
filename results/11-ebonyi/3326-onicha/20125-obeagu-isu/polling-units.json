@@ -26,6 +26,7 @@
     "pu_code_string": "111308003",
     "state_name": "EBONYI",
     "lga_name": "ONICHA",
+    "ward_name": "OBEAGU-ISU",
     "document": {
       "external": true,
       "status": 1,
@@ -73,6 +74,7 @@
     "pu_code_string": "111308007",
     "state_name": "EBONYI",
     "lga_name": "ONICHA",
+    "ward_name": "OBEAGU-ISU",
     "document": {
       "external": true,
       "status": 1,
@@ -160,6 +162,7 @@
     "pu_code_string": "111308005",
     "state_name": "EBONYI",
     "lga_name": "ONICHA",
+    "ward_name": "OBEAGU-ISU",
     "document": {
       "external": true,
       "status": 1,
@@ -207,6 +210,7 @@
     "pu_code_string": "111308001",
     "state_name": "EBONYI",
     "lga_name": "ONICHA",
+    "ward_name": "OBEAGU-ISU",
     "document": {
       "external": true,
       "status": 1,
@@ -254,6 +258,7 @@
     "pu_code_string": "111308008",
     "state_name": "EBONYI",
     "lga_name": "ONICHA",
+    "ward_name": "OBEAGU-ISU",
     "document": {
       "external": true,
       "status": 1,
@@ -301,6 +306,7 @@
     "pu_code_string": "111308002",
     "state_name": "EBONYI",
     "lga_name": "ONICHA",
+    "ward_name": "OBEAGU-ISU",
     "document": {
       "external": true,
       "status": 1,
@@ -348,6 +354,7 @@
     "pu_code_string": "111308010",
     "state_name": "EBONYI",
     "lga_name": "ONICHA",
+    "ward_name": "OBEAGU-ISU",
     "document": {
       "external": true,
       "status": 1,
@@ -395,6 +402,7 @@
     "pu_code_string": "111308009",
     "state_name": "EBONYI",
     "lga_name": "ONICHA",
+    "ward_name": "OBEAGU-ISU",
     "document": {
       "external": true,
       "status": 1,
@@ -466,6 +474,7 @@
     "pu_code_string": "111308004",
     "state_name": "EBONYI",
     "lga_name": "ONICHA",
+    "ward_name": "OBEAGU-ISU",
     "document": {
       "external": true,
       "status": 1,
@@ -537,6 +546,7 @@
     "pu_code_string": "111308011",
     "state_name": "EBONYI",
     "lga_name": "ONICHA",
+    "ward_name": "OBEAGU-ISU",
     "document": {
       "external": false,
       "status": 1,
@@ -575,6 +585,7 @@
     "pu_code_string": "111308006",
     "state_name": "EBONYI",
     "lga_name": "ONICHA",
+    "ward_name": "OBEAGU-ISU",
     "document": {
       "external": false,
       "status": 1,

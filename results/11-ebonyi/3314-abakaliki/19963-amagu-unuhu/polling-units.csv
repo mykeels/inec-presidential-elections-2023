@@ -1,22 +1,22 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EBONYI,ABAKALIKI,,EDUFU AKPUTU AMACHI,11/01/05/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631148/result_150063_1677511900_thumb.jpg,true
-EBONYI,ABAKALIKI,,NDUNWAMINI VILLAGE SQUARE,11/01/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19963/pu/32334/32334-1677581333.pdf,false
-EBONYI,ABAKALIKI,,OKPUITUMO PLAY GROUND,11/01/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19963/pu/32329/32329-1677514600.pdf,false
-EBONYI,ABAKALIKI,,EZZA INYIMAGU PLAY GROUND,11/01/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/5/4/5/4-1677425594.pdf,false
-EBONYI,ABAKALIKI,,BOREHOLE P/G IGBEAGU,11/01/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/013/013-1677425098.pdf,false
-EBONYI,ABAKALIKI,,NDIEZE INYIMAGU VILLAGE SQ.,11/01/05/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/021/021-1677424092.pdf,false
-EBONYI,ABAKALIKI,,NDUFU OGBAGA NWUGURU,11/01/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/014/014-1677422872.pdf,false
-EBONYI,ABAKALIKI,,CUSTOMARY COURT NKWEGU,11/01/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/5/2/5/2-1677421243.pdf,false
-EBONYI,ABAKALIKI,,ACHI VILLAGE SQUARE,11/01/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu//11//11-1677420447.pdf,false
-EBONYI,ABAKALIKI,,LOCAL EDUCATION AUTHORITY,11/01/05/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/015/015-1677419433.pdf,false
-EBONYI,ABAKALIKI,,EDUPHU OBASHI AMACHI,11/01/05/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/019/019-1677417890.pdf,false
-EBONYI,ABAKALIKI,,EDUPHU ACHI IGBEAGU,11/01/05/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/020/020-1677417670.pdf,false
-EBONYI,ABAKALIKI,,OBEAGU AMAGU ONICHA,11/01/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/5/9/5/9-1677415067.pdf,false
-EBONYI,ABAKALIKI,,C.P.S AMAGU ONICHA,11/01/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/5/5/5/5-1677415592.pdf,false
-EBONYI,ABAKALIKI,,EDUFU AKPUTU NDUAKURU,11/01/05/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/016/016-1677414156.pdf,false
-EBONYI,ABAKALIKI,,EDUKWU AMAGU ONICHA,11/01/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu//10//10-1677413960.pdf,false
-EBONYI,ABAKALIKI,,IGBEAGU UNUHU VILLAGE SQUARE,11/01/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/5/8/5/8-1677412315.pdf,false
-EBONYI,ABAKALIKI,,NKWEGU PRIMARY SCHOOL,11/01/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/5/3/5/3-1677411481.pdf,false
-EBONYI,ABAKALIKI,,AMACHI UNUHU VILLAGE SQUARE,11/01/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/5/7/5/7-1677410665.pdf,false
-EBONYI,ABAKALIKI,,EDUFU EMERIKE NDUOGBU,11/01/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/012/012-1677409211.pdf,false
-EBONYI,ABAKALIKI,,NWEDUFU OBEGU,11/01/05/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/018/018-1677362220.pdf,false
+EBONYI,ABAKALIKI,AMAGU UNUHU,EDUFU AKPUTU AMACHI,11/01/05/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631148/result_150063_1677511900_thumb.jpg,true
+EBONYI,ABAKALIKI,AMAGU UNUHU,NDUNWAMINI VILLAGE SQUARE,11/01/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19963/pu/32334/32334-1677581333.pdf,false
+EBONYI,ABAKALIKI,AMAGU UNUHU,OKPUITUMO PLAY GROUND,11/01/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19963/pu/32329/32329-1677514600.pdf,false
+EBONYI,ABAKALIKI,AMAGU UNUHU,EZZA INYIMAGU PLAY GROUND,11/01/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/5/4/5/4-1677425594.pdf,false
+EBONYI,ABAKALIKI,AMAGU UNUHU,BOREHOLE P/G IGBEAGU,11/01/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/013/013-1677425098.pdf,false
+EBONYI,ABAKALIKI,AMAGU UNUHU,NDIEZE INYIMAGU VILLAGE SQ.,11/01/05/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/021/021-1677424092.pdf,false
+EBONYI,ABAKALIKI,AMAGU UNUHU,NDUFU OGBAGA NWUGURU,11/01/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/014/014-1677422872.pdf,false
+EBONYI,ABAKALIKI,AMAGU UNUHU,CUSTOMARY COURT NKWEGU,11/01/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/5/2/5/2-1677421243.pdf,false
+EBONYI,ABAKALIKI,AMAGU UNUHU,ACHI VILLAGE SQUARE,11/01/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu//11//11-1677420447.pdf,false
+EBONYI,ABAKALIKI,AMAGU UNUHU,LOCAL EDUCATION AUTHORITY,11/01/05/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/015/015-1677419433.pdf,false
+EBONYI,ABAKALIKI,AMAGU UNUHU,EDUPHU OBASHI AMACHI,11/01/05/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/019/019-1677417890.pdf,false
+EBONYI,ABAKALIKI,AMAGU UNUHU,EDUPHU ACHI IGBEAGU,11/01/05/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/020/020-1677417670.pdf,false
+EBONYI,ABAKALIKI,AMAGU UNUHU,OBEAGU AMAGU ONICHA,11/01/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/5/9/5/9-1677415067.pdf,false
+EBONYI,ABAKALIKI,AMAGU UNUHU,C.P.S AMAGU ONICHA,11/01/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/5/5/5/5-1677415592.pdf,false
+EBONYI,ABAKALIKI,AMAGU UNUHU,EDUFU AKPUTU NDUAKURU,11/01/05/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/016/016-1677414156.pdf,false
+EBONYI,ABAKALIKI,AMAGU UNUHU,EDUKWU AMAGU ONICHA,11/01/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu//10//10-1677413960.pdf,false
+EBONYI,ABAKALIKI,AMAGU UNUHU,IGBEAGU UNUHU VILLAGE SQUARE,11/01/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/5/8/5/8-1677412315.pdf,false
+EBONYI,ABAKALIKI,AMAGU UNUHU,NKWEGU PRIMARY SCHOOL,11/01/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/5/3/5/3-1677411481.pdf,false
+EBONYI,ABAKALIKI,AMAGU UNUHU,AMACHI UNUHU VILLAGE SQUARE,11/01/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/5/7/5/7-1677410665.pdf,false
+EBONYI,ABAKALIKI,AMAGU UNUHU,EDUFU EMERIKE NDUOGBU,11/01/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/012/012-1677409211.pdf,false
+EBONYI,ABAKALIKI,AMAGU UNUHU,NWEDUFU OBEGU,11/01/05/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/018/018-1677362220.pdf,false

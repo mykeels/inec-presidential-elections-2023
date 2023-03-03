@@ -1,21 +1,21 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EBONYI,AFIKPO NORTH,,EZI UGWUTE PLAY GROUND,11/02/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/32509/32509-1677770655.pdf,false
-EBONYI,AFIKPO NORTH,,AMIKA/AMOGE  CPS,11/02/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/32511/32511-1677753164.pdf,false
-EBONYI,AFIKPO NORTH,,EZI UDUMA VILLAGE SQUARE,11/02/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/32508/32508-1677752592.pdf,true
-EBONYI,AFIKPO NORTH,,IBII COMMUNITY SEC. SCH.,11/02/06/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/138553/138553-1677709295.pdf,false
-EBONYI,AFIKPO NORTH,,EZI OKOTE PLAYGROUND,11/02/06/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/138552/138552-1677709148.pdf,false
-EBONYI,AFIKPO NORTH,,EZI UROMOTA TOWN HALL,11/02/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/138548/138548-1677708937.pdf,false
-EBONYI,AFIKPO NORTH,,IBII PRIM ARY SCHOOL,11/02/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/32513/32513-1677708181.pdf,true
-EBONYI,AFIKPO NORTH,,AMAINYIME TOWN HALL,11/02/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/32512/32512-1677707788.pdf,false
-EBONYI,AFIKPO NORTH,,UNITY PRIMARY SCHOOL AMIKPO OZIZA,11/02/06/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/138555/138555-1677707102.pdf,true
-EBONYI,AFIKPO NORTH,,AGBA CENTRAL SCHOOL,11/02/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/32515/32515-1677706889.pdf,true
-EBONYI,AFIKPO NORTH,,AMATA/AMOGE TOWN HALL,11/02/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/32510/32510-1677706454.pdf,false
-EBONYI,AFIKPO NORTH,,EZI OLOGWU SQUARE,11/02/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/138551/138551-1677706123.pdf,false
-EBONYI,AFIKPO NORTH,,ORRA TOWN HALL,11/02/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/138550/138550-1677705937.pdf,false
-EBONYI,AFIKPO NORTH,,AMAINYIME TOWN HALL,11/02/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/32517/32517-1677705468.pdf,false
-EBONYI,AFIKPO NORTH,,AMAOZARA PRIMARY SCHOOL,11/02/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/32516/32516-1677705102.pdf,false
-EBONYI,AFIKPO NORTH,,EZI UHU TOWN HALL,11/02/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/138549/138549-1677704876.pdf,true
-EBONYI,AFIKPO NORTH,,EZI AKPUEKE VILLAGE SQUARE,11/02/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/32506/32506-1677685007.pdf,false
-EBONYI,AFIKPO NORTH,,OZIZA CENTRAL SCH.(AMORIE VILLAE SQUARE),11/02/06/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/138554/138554-1677684527.pdf,false
-EBONYI,AFIKPO NORTH,,AMORIE VILLAGE SQUARE,11/02/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/32514/32514-1677684215.pdf,false
-EBONYI,AFIKPO NORTH,,AGBOGOHOUSE CIVIC CENTER,11/02/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/32507/32507-1677683811.pdf,false
+EBONYI,AFIKPO NORTH,IBII/OZIZA AFIKPO,EZI UGWUTE PLAY GROUND,11/02/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/32509/32509-1677770655.pdf,false
+EBONYI,AFIKPO NORTH,IBII/OZIZA AFIKPO,AMIKA/AMOGE  CPS,11/02/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/32511/32511-1677753164.pdf,false
+EBONYI,AFIKPO NORTH,IBII/OZIZA AFIKPO,EZI UDUMA VILLAGE SQUARE,11/02/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/32508/32508-1677752592.pdf,true
+EBONYI,AFIKPO NORTH,IBII/OZIZA AFIKPO,IBII COMMUNITY SEC. SCH.,11/02/06/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/138553/138553-1677709295.pdf,false
+EBONYI,AFIKPO NORTH,IBII/OZIZA AFIKPO,EZI OKOTE PLAYGROUND,11/02/06/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/138552/138552-1677709148.pdf,false
+EBONYI,AFIKPO NORTH,IBII/OZIZA AFIKPO,EZI UROMOTA TOWN HALL,11/02/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/138548/138548-1677708937.pdf,false
+EBONYI,AFIKPO NORTH,IBII/OZIZA AFIKPO,IBII PRIM ARY SCHOOL,11/02/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/32513/32513-1677708181.pdf,true
+EBONYI,AFIKPO NORTH,IBII/OZIZA AFIKPO,AMAINYIME TOWN HALL,11/02/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/32512/32512-1677707788.pdf,false
+EBONYI,AFIKPO NORTH,IBII/OZIZA AFIKPO,UNITY PRIMARY SCHOOL AMIKPO OZIZA,11/02/06/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/138555/138555-1677707102.pdf,true
+EBONYI,AFIKPO NORTH,IBII/OZIZA AFIKPO,AGBA CENTRAL SCHOOL,11/02/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/32515/32515-1677706889.pdf,true
+EBONYI,AFIKPO NORTH,IBII/OZIZA AFIKPO,AMATA/AMOGE TOWN HALL,11/02/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/32510/32510-1677706454.pdf,false
+EBONYI,AFIKPO NORTH,IBII/OZIZA AFIKPO,EZI OLOGWU SQUARE,11/02/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/138551/138551-1677706123.pdf,false
+EBONYI,AFIKPO NORTH,IBII/OZIZA AFIKPO,ORRA TOWN HALL,11/02/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/138550/138550-1677705937.pdf,false
+EBONYI,AFIKPO NORTH,IBII/OZIZA AFIKPO,AMAINYIME TOWN HALL,11/02/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/32517/32517-1677705468.pdf,false
+EBONYI,AFIKPO NORTH,IBII/OZIZA AFIKPO,AMAOZARA PRIMARY SCHOOL,11/02/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/32516/32516-1677705102.pdf,false
+EBONYI,AFIKPO NORTH,IBII/OZIZA AFIKPO,EZI UHU TOWN HALL,11/02/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/138549/138549-1677704876.pdf,true
+EBONYI,AFIKPO NORTH,IBII/OZIZA AFIKPO,EZI AKPUEKE VILLAGE SQUARE,11/02/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/32506/32506-1677685007.pdf,false
+EBONYI,AFIKPO NORTH,IBII/OZIZA AFIKPO,OZIZA CENTRAL SCH.(AMORIE VILLAE SQUARE),11/02/06/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/138554/138554-1677684527.pdf,false
+EBONYI,AFIKPO NORTH,IBII/OZIZA AFIKPO,AMORIE VILLAGE SQUARE,11/02/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/32514/32514-1677684215.pdf,false
+EBONYI,AFIKPO NORTH,IBII/OZIZA AFIKPO,AGBOGOHOUSE CIVIC CENTER,11/02/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19978/pu/32507/32507-1677683811.pdf,false

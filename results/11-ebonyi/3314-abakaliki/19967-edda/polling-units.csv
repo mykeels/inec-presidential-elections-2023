@@ -1,18 +1,18 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EBONYI,ABAKALIKI,,NDIEDE P/G OPHENA EDDA,11/01/09/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631183/result_150098_1677751370_thumb.jpg,false
-EBONYI,ABAKALIKI,,NDIOFUTU AZUOFIA P/G,11/01/09/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631181/result_150096_1677751002_thumb.jpg,false
-EBONYI,ABAKALIKI,,UKWUMANGO IZICHA,11/01/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19967/pu/32376/32376-1677669828.pdf,false
-EBONYI,ABAKALIKI,,IBULA PLAY GROUND,11/01/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19967/pu/32373/32373-1677661896.pdf,true
-EBONYI,ABAKALIKI,,OKARIA ECHI PRIMARY SCHOOL II,11/01/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19967/pu/32385/32385-1677509927.pdf,false
-EBONYI,ABAKALIKI,,OHATEKWE PLAY GROUND,11/01/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/09/pu//10//10-1677427737.pdf,false
-EBONYI,ABAKALIKI,,OBOVU PLAY GROUND,11/01/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/09/pu//11//11-1677426511.pdf,false
-EBONYI,ABAKALIKI,,ODAGERI OKPANGWU P/G,11/01/09/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/09/pu/015/015-1677425692.pdf,false
-EBONYI,ABAKALIKI,,NDIEKPE OFUTU SQUARE,11/01/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/09/pu/9/7/9/7-1677424514.pdf,false
-EBONYI,ABAKALIKI,,OKPODUMA VILLAGE SQUARE,11/01/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/09/pu/9/2/9/2-1677423542.pdf,false
-EBONYI,ABAKALIKI,,INYARINYA PRIMARY SCHOOL,11/01/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/09/pu/9/8/9/8-1677421938.pdf,false
-EBONYI,ABAKALIKI,,OKARIA ECHI PRIMARY SCHOOL I,11/01/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/09/pu/9/9/9/9-1677420602.pdf,false
-EBONYI,ABAKALIKI,,ONUAKPARA MKT SQAURE,11/01/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/09/pu/9/3/9/3-1677419310.pdf,false
-EBONYI,ABAKALIKI,,ODAGERIDA PRIMARY SCHOOL,11/01/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/09/pu/9/6/9/6-1677417489.pdf,false
-EBONYI,ABAKALIKI,,NDIANUMACHA EDDA MARKET SQ,11/01/09/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/09/pu/017/017-1677412903.pdf,false
-EBONYI,ABAKALIKI,,EFUNEFUNE PLAY GROUND,11/01/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/09/pu/9/5/9/5-1677410703.pdf,false
-EBONYI,ABAKALIKI,,OKARIA EDDA,11/01/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/09/pu//12//12-1677408549.pdf,false
+EBONYI,ABAKALIKI,EDDA,NDIEDE P/G OPHENA EDDA,11/01/09/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631183/result_150098_1677751370_thumb.jpg,false
+EBONYI,ABAKALIKI,EDDA,NDIOFUTU AZUOFIA P/G,11/01/09/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631181/result_150096_1677751002_thumb.jpg,false
+EBONYI,ABAKALIKI,EDDA,UKWUMANGO IZICHA,11/01/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19967/pu/32376/32376-1677669828.pdf,false
+EBONYI,ABAKALIKI,EDDA,IBULA PLAY GROUND,11/01/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19967/pu/32373/32373-1677661896.pdf,true
+EBONYI,ABAKALIKI,EDDA,OKARIA ECHI PRIMARY SCHOOL II,11/01/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19967/pu/32385/32385-1677509927.pdf,false
+EBONYI,ABAKALIKI,EDDA,OHATEKWE PLAY GROUND,11/01/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/09/pu//10//10-1677427737.pdf,false
+EBONYI,ABAKALIKI,EDDA,OBOVU PLAY GROUND,11/01/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/09/pu//11//11-1677426511.pdf,false
+EBONYI,ABAKALIKI,EDDA,ODAGERI OKPANGWU P/G,11/01/09/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/09/pu/015/015-1677425692.pdf,false
+EBONYI,ABAKALIKI,EDDA,NDIEKPE OFUTU SQUARE,11/01/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/09/pu/9/7/9/7-1677424514.pdf,false
+EBONYI,ABAKALIKI,EDDA,OKPODUMA VILLAGE SQUARE,11/01/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/09/pu/9/2/9/2-1677423542.pdf,false
+EBONYI,ABAKALIKI,EDDA,INYARINYA PRIMARY SCHOOL,11/01/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/09/pu/9/8/9/8-1677421938.pdf,false
+EBONYI,ABAKALIKI,EDDA,OKARIA ECHI PRIMARY SCHOOL I,11/01/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/09/pu/9/9/9/9-1677420602.pdf,false
+EBONYI,ABAKALIKI,EDDA,ONUAKPARA MKT SQAURE,11/01/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/09/pu/9/3/9/3-1677419310.pdf,false
+EBONYI,ABAKALIKI,EDDA,ODAGERIDA PRIMARY SCHOOL,11/01/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/09/pu/9/6/9/6-1677417489.pdf,false
+EBONYI,ABAKALIKI,EDDA,NDIANUMACHA EDDA MARKET SQ,11/01/09/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/09/pu/017/017-1677412903.pdf,false
+EBONYI,ABAKALIKI,EDDA,EFUNEFUNE PLAY GROUND,11/01/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/09/pu/9/5/9/5-1677410703.pdf,false
+EBONYI,ABAKALIKI,EDDA,OKARIA EDDA,11/01/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/09/pu//12//12-1677408549.pdf,false

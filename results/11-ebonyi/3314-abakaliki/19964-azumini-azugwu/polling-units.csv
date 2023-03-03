@@ -1,20 +1,20 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EBONYI,ABAKALIKI,,HILL TOP/WATER WORKS,11/01/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19964/pu/32347/32347-1677681580.pdf,false
-EBONYI,ABAKALIKI,,IGWEORIE OPEN SPACE III,11/01/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19964/pu/32342/32342-1677681157.pdf,false
-EBONYI,ABAKALIKI,,2ND BOREHOLE,11/01/06/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631174/result_150071_1677680747_thumb.jpg,false
-EBONYI,ABAKALIKI,,EBSU GUEST HOUSE II,11/01/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19964/pu/32344/32344-1677680552.pdf,false
-EBONYI,ABAKALIKI,,EBSU PRIMARY SCHOOL A,11/01/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631171/result_150068_1677680462_thumb.jpg,false
-EBONYI,ABAKALIKI,,HILL TOP WATER WORKS 111,11/01/06/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631179/result_150076_1677679845_thumb.jpg,false
-EBONYI,ABAKALIKI,,HILLTOP/WATER WORKS  11,11/01/06/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-EBONYI,ABAKALIKI,,ACHI JUNCTION BY UDEMEZUE,11/01/06/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19964/pu/138434/138434-1677679453.pdf,false
-EBONYI,ABAKALIKI,,ALL SAINTS  PRIMARY SCHOOL III,11/01/06/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631177/result_150074_1677679326_thumb.jpg,false
-EBONYI,ABAKALIKI,,ALL SAINTS  PRIMARY SCHOOL II,11/01/06/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631176/result_150073_1677678918_thumb.jpg,false
-EBONYI,ABAKALIKI,,ABACHA STREET ASSEMBLY,11/01/06/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631175/result_150072_1677678554_thumb.jpg,false
-EBONYI,ABAKALIKI,,AZUGWU/ABACHA JUNCTION,11/01/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19964/pu/32345/32345-1677677906.pdf,false
-EBONYI,ABAKALIKI,,ALL SAINTS PRIMARY SCHOOL,11/01/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19964/pu/32346/32346-1677674811.pdf,true
-EBONYI,ABAKALIKI,,EBSU PRIMARY SCH B,11/01/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631172/result_150069_1677512346_thumb.jpg,true
-EBONYI,ABAKALIKI,,AZUGWU /ABACHA JUNCTION II,11/01/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19964/pu/138427/138427-1677604382.pdf,true
-EBONYI,ABAKALIKI,,EBSU GUEST HOUSE I,11/01/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/6/4/6/4-1677422259.pdf,false
-EBONYI,ABAKALIKI,,IGWEORIE OPEN SPACE II,11/01/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/6/2/6/2-1677418665.pdf,false
-EBONYI,ABAKALIKI,,IGWEORIE OPEN SPACE I,11/01/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/6/1/6/1-1677414656.pdf,false
-EBONYI,ABAKALIKI,,ELIAS ODILI/ACHI JUNCTION,11/01/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/6/9/6/9-1677363073.pdf,false
+EBONYI,ABAKALIKI,AZUMINI/AZUGWU,HILL TOP/WATER WORKS,11/01/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19964/pu/32347/32347-1677681580.pdf,false
+EBONYI,ABAKALIKI,AZUMINI/AZUGWU,IGWEORIE OPEN SPACE III,11/01/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19964/pu/32342/32342-1677681157.pdf,false
+EBONYI,ABAKALIKI,AZUMINI/AZUGWU,2ND BOREHOLE,11/01/06/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631174/result_150071_1677680747_thumb.jpg,false
+EBONYI,ABAKALIKI,AZUMINI/AZUGWU,EBSU GUEST HOUSE II,11/01/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19964/pu/32344/32344-1677680552.pdf,false
+EBONYI,ABAKALIKI,AZUMINI/AZUGWU,EBSU PRIMARY SCHOOL A,11/01/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631171/result_150068_1677680462_thumb.jpg,false
+EBONYI,ABAKALIKI,AZUMINI/AZUGWU,HILL TOP WATER WORKS 111,11/01/06/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631179/result_150076_1677679845_thumb.jpg,false
+EBONYI,ABAKALIKI,AZUMINI/AZUGWU,HILLTOP/WATER WORKS  11,11/01/06/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+EBONYI,ABAKALIKI,AZUMINI/AZUGWU,ACHI JUNCTION BY UDEMEZUE,11/01/06/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19964/pu/138434/138434-1677679453.pdf,false
+EBONYI,ABAKALIKI,AZUMINI/AZUGWU,ALL SAINTS  PRIMARY SCHOOL III,11/01/06/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631177/result_150074_1677679326_thumb.jpg,false
+EBONYI,ABAKALIKI,AZUMINI/AZUGWU,ALL SAINTS  PRIMARY SCHOOL II,11/01/06/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631176/result_150073_1677678918_thumb.jpg,false
+EBONYI,ABAKALIKI,AZUMINI/AZUGWU,ABACHA STREET ASSEMBLY,11/01/06/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631175/result_150072_1677678554_thumb.jpg,false
+EBONYI,ABAKALIKI,AZUMINI/AZUGWU,AZUGWU/ABACHA JUNCTION,11/01/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19964/pu/32345/32345-1677677906.pdf,false
+EBONYI,ABAKALIKI,AZUMINI/AZUGWU,ALL SAINTS PRIMARY SCHOOL,11/01/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19964/pu/32346/32346-1677674811.pdf,true
+EBONYI,ABAKALIKI,AZUMINI/AZUGWU,EBSU PRIMARY SCH B,11/01/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631172/result_150069_1677512346_thumb.jpg,true
+EBONYI,ABAKALIKI,AZUMINI/AZUGWU,AZUGWU /ABACHA JUNCTION II,11/01/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19964/pu/138427/138427-1677604382.pdf,true
+EBONYI,ABAKALIKI,AZUMINI/AZUGWU,EBSU GUEST HOUSE I,11/01/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/6/4/6/4-1677422259.pdf,false
+EBONYI,ABAKALIKI,AZUMINI/AZUGWU,IGWEORIE OPEN SPACE II,11/01/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/6/2/6/2-1677418665.pdf,false
+EBONYI,ABAKALIKI,AZUMINI/AZUGWU,IGWEORIE OPEN SPACE I,11/01/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/6/1/6/1-1677414656.pdf,false
+EBONYI,ABAKALIKI,AZUMINI/AZUGWU,ELIAS ODILI/ACHI JUNCTION,11/01/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/6/9/6/9-1677363073.pdf,false

@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EBONYI,EZZA SOUTH,,NWAFOR UTALI P/G,11/06/06/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/138876/138876-1677757688.pdf,true
-EBONYI,EZZA SOUTH,,NGAMGBO OKPUREGEDE P/G,11/06/06/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/138875/138875-1677757377.pdf,true
-EBONYI,EZZA SOUTH,,NWAFIA ONUOJI P/G,11/06/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/138874/138874-1677757016.pdf,true
-EBONYI,EZZA SOUTH,,NGAMGBO UGBALA ONU UKWUACHI P/G,11/06/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/138873/138873-1677756591.pdf,true
-EBONYI,EZZA SOUTH,,UCHAKURU P/G,11/06/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/138872/138872-1677756177.pdf,true
-EBONYI,EZZA SOUTH,,OGBOJI PLAY GROUND,11/06/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/138871/138871-1677755434.pdf,true
-EBONYI,EZZA SOUTH,,NWAKPU OBASI P/G,11/06/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/138870/138870-1677754945.pdf,true
-EBONYI,EZZA SOUTH,,OHOFIA PLAY GROUND,11/06/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/32988/32988-1677739990.pdf,true
-EBONYI,EZZA SOUTH,,COMM. SECONDARY SCHOOL AMUZU  I,11/06/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/32982/32982-1677739718.pdf,false
-EBONYI,EZZA SOUTH,,COMM. SECONDARY SCHOOL AMUZU  II,11/06/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/32983/32983-1677739518.pdf,false
-EBONYI,EZZA SOUTH,,COMM. SECONDARY SCHOOL AMUZU  III,11/06/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/32984/32984-1677739325.pdf,true
-EBONYI,EZZA SOUTH,,OGEWEKWE VILLAGE SQUARE HALL I,11/06/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/32985/32985-1677739193.pdf,false
-EBONYI,EZZA SOUTH,,OGEWEKWE VILLAGE SQUARE HALL II,11/06/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/32986/32986-1677739066.pdf,true
-EBONYI,EZZA SOUTH,,ORINTE PLAY GROUND,11/06/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/32987/32987-1677738913.pdf,false
-EBONYI,EZZA SOUTH,,NTEZI AMUZU PLAY GROUND I,11/06/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/32989/32989-1677738757.pdf,false
-EBONYI,EZZA SOUTH,,NTEZI AMUZU PLAY GROUND II,11/06/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/32990/32990-1677738607.pdf,true
-EBONYI,EZZA SOUTH,,INYIMA VILLAGE SQUARE,11/06/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/32991/32991-1677738417.pdf,false
-EBONYI,EZZA SOUTH,,OMEGE  PLAY GROUND,11/06/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/32992/32992-1677738203.pdf,false
+EBONYI,EZZA SOUTH,AMUZU,NWAFOR UTALI P/G,11/06/06/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/138876/138876-1677757688.pdf,true
+EBONYI,EZZA SOUTH,AMUZU,NGAMGBO OKPUREGEDE P/G,11/06/06/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/138875/138875-1677757377.pdf,true
+EBONYI,EZZA SOUTH,AMUZU,NWAFIA ONUOJI P/G,11/06/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/138874/138874-1677757016.pdf,true
+EBONYI,EZZA SOUTH,AMUZU,NGAMGBO UGBALA ONU UKWUACHI P/G,11/06/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/138873/138873-1677756591.pdf,true
+EBONYI,EZZA SOUTH,AMUZU,UCHAKURU P/G,11/06/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/138872/138872-1677756177.pdf,true
+EBONYI,EZZA SOUTH,AMUZU,OGBOJI PLAY GROUND,11/06/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/138871/138871-1677755434.pdf,true
+EBONYI,EZZA SOUTH,AMUZU,NWAKPU OBASI P/G,11/06/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/138870/138870-1677754945.pdf,true
+EBONYI,EZZA SOUTH,AMUZU,OHOFIA PLAY GROUND,11/06/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/32988/32988-1677739990.pdf,true
+EBONYI,EZZA SOUTH,AMUZU,COMM. SECONDARY SCHOOL AMUZU  I,11/06/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/32982/32982-1677739718.pdf,false
+EBONYI,EZZA SOUTH,AMUZU,COMM. SECONDARY SCHOOL AMUZU  II,11/06/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/32983/32983-1677739518.pdf,false
+EBONYI,EZZA SOUTH,AMUZU,COMM. SECONDARY SCHOOL AMUZU  III,11/06/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/32984/32984-1677739325.pdf,true
+EBONYI,EZZA SOUTH,AMUZU,OGEWEKWE VILLAGE SQUARE HALL I,11/06/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/32985/32985-1677739193.pdf,false
+EBONYI,EZZA SOUTH,AMUZU,OGEWEKWE VILLAGE SQUARE HALL II,11/06/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/32986/32986-1677739066.pdf,true
+EBONYI,EZZA SOUTH,AMUZU,ORINTE PLAY GROUND,11/06/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/32987/32987-1677738913.pdf,false
+EBONYI,EZZA SOUTH,AMUZU,NTEZI AMUZU PLAY GROUND I,11/06/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/32989/32989-1677738757.pdf,false
+EBONYI,EZZA SOUTH,AMUZU,NTEZI AMUZU PLAY GROUND II,11/06/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/32990/32990-1677738607.pdf,true
+EBONYI,EZZA SOUTH,AMUZU,INYIMA VILLAGE SQUARE,11/06/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/32991/32991-1677738417.pdf,false
+EBONYI,EZZA SOUTH,AMUZU,OMEGE  PLAY GROUND,11/06/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20025/pu/32992/32992-1677738203.pdf,false

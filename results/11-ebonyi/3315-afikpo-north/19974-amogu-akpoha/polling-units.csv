@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EBONYI,AFIKPO NORTH,,EZI UDU UCHE V. SQUARE,11/02/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19974/pu/32461/32461-1677751944.pdf,false
-EBONYI,AFIKPO NORTH,,AMAOGU PLAY GROUND,11/02/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19974/pu/32457/32457-1677751844.pdf,false
-EBONYI,AFIKPO NORTH,,EZI ETEE UGO PLAY GROUND,11/02/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19974/pu/32459/32459-1677751331.pdf,false
-EBONYI,AFIKPO NORTH,,EZI ENI VILLAGE SQUARE,11/02/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19974/pu/32458/32458-1677751165.pdf,false
-EBONYI,AFIKPO NORTH,,EZI URO PLAY GROUND,11/02/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19974/pu/32455/32455-1677751049.pdf,true
-EBONYI,AFIKPO NORTH,,EZI OKO VILLAGE SQUARE II,11/02/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19974/pu/32464/32464-1677750808.pdf,true
-EBONYI,AFIKPO NORTH,,EZI EBIAKPU PLAY GROUND,11/02/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19974/pu/32456/32456-1677591506.pdf,true
-EBONYI,AFIKPO NORTH,,EVOAKPU/OKEVO SQUARE,11/02/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19974/pu/32460/32460-1677590504.pdf,true
-EBONYI,AFIKPO NORTH,,OKOTUM VILLAGE SQUARE,11/02/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19974/pu/138522/138522-1677589928.pdf,true
-EBONYI,AFIKPO NORTH,,EZI OKO VILLAGE SQUARE I,11/02/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19974/pu/32463/32463-1677525496.pdf,false
-EBONYI,AFIKPO NORTH,,AMOGU PLAY GROUND 11,11/02/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu//12//12-1677407305.pdf,false
-EBONYI,AFIKPO NORTH,,EZI OBOTI VILLAGE SQUARE,11/02/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/2/8/2/8-1677406263.pdf,false
-EBONYI,AFIKPO NORTH,,EZI ALU AGBO PLAY GROUND,11/02/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu//11//11-1677403152.pdf,false
+EBONYI,AFIKPO NORTH,AMOGU AKPOHA,EZI UDU UCHE V. SQUARE,11/02/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19974/pu/32461/32461-1677751944.pdf,false
+EBONYI,AFIKPO NORTH,AMOGU AKPOHA,AMAOGU PLAY GROUND,11/02/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19974/pu/32457/32457-1677751844.pdf,false
+EBONYI,AFIKPO NORTH,AMOGU AKPOHA,EZI ETEE UGO PLAY GROUND,11/02/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19974/pu/32459/32459-1677751331.pdf,false
+EBONYI,AFIKPO NORTH,AMOGU AKPOHA,EZI ENI VILLAGE SQUARE,11/02/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19974/pu/32458/32458-1677751165.pdf,false
+EBONYI,AFIKPO NORTH,AMOGU AKPOHA,EZI URO PLAY GROUND,11/02/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19974/pu/32455/32455-1677751049.pdf,true
+EBONYI,AFIKPO NORTH,AMOGU AKPOHA,EZI OKO VILLAGE SQUARE II,11/02/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19974/pu/32464/32464-1677750808.pdf,true
+EBONYI,AFIKPO NORTH,AMOGU AKPOHA,EZI EBIAKPU PLAY GROUND,11/02/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19974/pu/32456/32456-1677591506.pdf,true
+EBONYI,AFIKPO NORTH,AMOGU AKPOHA,EVOAKPU/OKEVO SQUARE,11/02/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19974/pu/32460/32460-1677590504.pdf,true
+EBONYI,AFIKPO NORTH,AMOGU AKPOHA,OKOTUM VILLAGE SQUARE,11/02/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19974/pu/138522/138522-1677589928.pdf,true
+EBONYI,AFIKPO NORTH,AMOGU AKPOHA,EZI OKO VILLAGE SQUARE I,11/02/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19974/pu/32463/32463-1677525496.pdf,false
+EBONYI,AFIKPO NORTH,AMOGU AKPOHA,AMOGU PLAY GROUND 11,11/02/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu//12//12-1677407305.pdf,false
+EBONYI,AFIKPO NORTH,AMOGU AKPOHA,EZI OBOTI VILLAGE SQUARE,11/02/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/2/8/2/8-1677406263.pdf,false
+EBONYI,AFIKPO NORTH,AMOGU AKPOHA,EZI ALU AGBO PLAY GROUND,11/02/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu//11//11-1677403152.pdf,false

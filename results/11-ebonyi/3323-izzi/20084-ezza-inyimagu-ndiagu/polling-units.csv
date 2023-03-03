@@ -1,16 +1,16 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EBONYI,IZZI,,OYEGE COMMUNITY SCHOOL I,11/10/07/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33579/result_151147_1677605745_thumb.jpg,false
-EBONYI,IZZI,,OCHOBUOZAR VILLAGE HALL,11/10/07/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-EBONYI,IZZI,,OGBAGHARU VILLAGE HALL,11/10/07/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33578/result_151146_1677603801_thumb.jpg,false
-EBONYI,IZZI,,OYEGE CENTRAL SCHOOL,11/10/07/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33577/result_151145_1677603557_thumb.jpg,false
-EBONYI,IZZI,,ENWUAGBA VILLAGE HALL,11/10/07/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33574/result_151142_1677603331_thumb.jpg,false
-EBONYI,IZZI,,EGUEFI VILLAGE HALL,11/10/07/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33573/result_151141_1677602683_thumb.jpg,false
-EBONYI,IZZI,,NDIATAM OFEREKPE VILLAGE HALL,11/10/07/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33575/result_151143_1677602225_thumb.jpg,false
-EBONYI,IZZI,,OYEGE COMMUNITY SCHOOL II,11/10/07/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-EBONYI,IZZI,,OVUDUECHI MARKET SQUARE,11/10/07/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-EBONYI,IZZI,,NDIEZOKE PRIMARY SCHOOL,11/10/07/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33582/result_151150_1677599204_thumb.jpg,false
-EBONYI,IZZI,,NDINWASHIMOKO VILLAGE SQUARE,11/10/07/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33583/result_151151_1677598984_thumb.jpg,false
-EBONYI,IZZI,,NDIEPETE VILLAGE SQUARE,11/10/07/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33584/result_151152_1677598422_thumb.jpg,false
-EBONYI,IZZI,,NDIATAM OFEREKPE VIL. HALL II,11/10/07/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631823/result_151153_1677596720_thumb.jpg,false
-EBONYI,IZZI,,OVUDUECHI MARKET SQUARE II,11/10/07/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631825/result_151155_1677594919_thumb.jpg,false
-EBONYI,IZZI,,OYEGE COMMUNITY SCHOOL III,11/10/07/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631824/result_151154_1677584860_thumb.jpg,false
+EBONYI,IZZI,EZZA INYIMAGU NDIAGU,OYEGE COMMUNITY SCHOOL I,11/10/07/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33579/result_151147_1677605745_thumb.jpg,false
+EBONYI,IZZI,EZZA INYIMAGU NDIAGU,OCHOBUOZAR VILLAGE HALL,11/10/07/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+EBONYI,IZZI,EZZA INYIMAGU NDIAGU,OGBAGHARU VILLAGE HALL,11/10/07/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33578/result_151146_1677603801_thumb.jpg,false
+EBONYI,IZZI,EZZA INYIMAGU NDIAGU,OYEGE CENTRAL SCHOOL,11/10/07/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33577/result_151145_1677603557_thumb.jpg,false
+EBONYI,IZZI,EZZA INYIMAGU NDIAGU,ENWUAGBA VILLAGE HALL,11/10/07/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33574/result_151142_1677603331_thumb.jpg,false
+EBONYI,IZZI,EZZA INYIMAGU NDIAGU,EGUEFI VILLAGE HALL,11/10/07/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33573/result_151141_1677602683_thumb.jpg,false
+EBONYI,IZZI,EZZA INYIMAGU NDIAGU,NDIATAM OFEREKPE VILLAGE HALL,11/10/07/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33575/result_151143_1677602225_thumb.jpg,false
+EBONYI,IZZI,EZZA INYIMAGU NDIAGU,OYEGE COMMUNITY SCHOOL II,11/10/07/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+EBONYI,IZZI,EZZA INYIMAGU NDIAGU,OVUDUECHI MARKET SQUARE,11/10/07/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+EBONYI,IZZI,EZZA INYIMAGU NDIAGU,NDIEZOKE PRIMARY SCHOOL,11/10/07/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33582/result_151150_1677599204_thumb.jpg,false
+EBONYI,IZZI,EZZA INYIMAGU NDIAGU,NDINWASHIMOKO VILLAGE SQUARE,11/10/07/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33583/result_151151_1677598984_thumb.jpg,false
+EBONYI,IZZI,EZZA INYIMAGU NDIAGU,NDIEPETE VILLAGE SQUARE,11/10/07/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33584/result_151152_1677598422_thumb.jpg,false
+EBONYI,IZZI,EZZA INYIMAGU NDIAGU,NDIATAM OFEREKPE VIL. HALL II,11/10/07/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631823/result_151153_1677596720_thumb.jpg,false
+EBONYI,IZZI,EZZA INYIMAGU NDIAGU,OVUDUECHI MARKET SQUARE II,11/10/07/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631825/result_151155_1677594919_thumb.jpg,false
+EBONYI,IZZI,EZZA INYIMAGU NDIAGU,OYEGE COMMUNITY SCHOOL III,11/10/07/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631824/result_151154_1677584860_thumb.jpg,false

@@ -1,18 +1,18 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EBONYI,AFIKPO  SOUTH,,UDEAZI VILLAGE HALL II,11/03/11/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/138637/138637-1677673462.pdf,false
-EBONYI,AFIKPO  SOUTH,,EZIUKWU PLAY GROUND,11/03/11/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/138636/138636-1677673362.pdf,false
-EBONYI,AFIKPO  SOUTH,,UFUESENI VILLAGE HALL,11/03/11/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/32685/32685-1677672308.pdf,false
-EBONYI,AFIKPO  SOUTH,,AMAEBO PLAY GROUND,11/03/11/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/32684/32684-1677671874.pdf,false
-EBONYI,AFIKPO  SOUTH,,AMAEBO VILLAGE HALL,11/03/11/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/32683/32683-1677670662.pdf,false
-EBONYI,AFIKPO  SOUTH,,UFU ESENI TOWN HALL,11/03/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/32682/32682-1677669899.pdf,true
-EBONYI,AFIKPO  SOUTH,,UDEAZI VILLAGE HALL,11/03/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/32681/32681-1677669674.pdf,false
-EBONYI,AFIKPO  SOUTH,,OWUTU MOTOR PARK II,11/03/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/32680/32680-1677669486.pdf,false
-EBONYI,AFIKPO  SOUTH,,OWUTU MOTOR PARK I,11/03/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/32679/32679-1677668649.pdf,false
-EBONYI,AFIKPO  SOUTH,,AMAEKPU TOWN HALL,11/03/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/32678/32678-1677668554.pdf,false
-EBONYI,AFIKPO  SOUTH,,UMUNNATO PRIMARY SCHOOL,11/03/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/32677/32677-1677668447.pdf,false
-EBONYI,AFIKPO  SOUTH,,AMAEKE VILLAGE HALL,11/03/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/32676/32676-1677668355.pdf,false
-EBONYI,AFIKPO  SOUTH,,NDI EWA VILLAGE HALL,11/03/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/32675/32675-1677668256.pdf,false
-EBONYI,AFIKPO  SOUTH,,AMUKABI TOWN HALL,11/03/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/32674/32674-1677668164.pdf,true
-EBONYI,AFIKPO  SOUTH,,AKANU TOWN HALL,11/03/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/32673/32673-1677668055.pdf,false
-EBONYI,AFIKPO  SOUTH,,CENTRAL SCHOOL OWUTU II,11/03/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/32672/32672-1677667985.pdf,true
-EBONYI,AFIKPO  SOUTH,,CENTRAL SCHOOL OWUTU I,11/03/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/32671/32671-1677667885.pdf,false
+EBONYI,AFIKPO  SOUTH,OWUTU,UDEAZI VILLAGE HALL II,11/03/11/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/138637/138637-1677673462.pdf,false
+EBONYI,AFIKPO  SOUTH,OWUTU,EZIUKWU PLAY GROUND,11/03/11/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/138636/138636-1677673362.pdf,false
+EBONYI,AFIKPO  SOUTH,OWUTU,UFUESENI VILLAGE HALL,11/03/11/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/32685/32685-1677672308.pdf,false
+EBONYI,AFIKPO  SOUTH,OWUTU,AMAEBO PLAY GROUND,11/03/11/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/32684/32684-1677671874.pdf,false
+EBONYI,AFIKPO  SOUTH,OWUTU,AMAEBO VILLAGE HALL,11/03/11/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/32683/32683-1677670662.pdf,false
+EBONYI,AFIKPO  SOUTH,OWUTU,UFU ESENI TOWN HALL,11/03/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/32682/32682-1677669899.pdf,true
+EBONYI,AFIKPO  SOUTH,OWUTU,UDEAZI VILLAGE HALL,11/03/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/32681/32681-1677669674.pdf,false
+EBONYI,AFIKPO  SOUTH,OWUTU,OWUTU MOTOR PARK II,11/03/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/32680/32680-1677669486.pdf,false
+EBONYI,AFIKPO  SOUTH,OWUTU,OWUTU MOTOR PARK I,11/03/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/32679/32679-1677668649.pdf,false
+EBONYI,AFIKPO  SOUTH,OWUTU,AMAEKPU TOWN HALL,11/03/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/32678/32678-1677668554.pdf,false
+EBONYI,AFIKPO  SOUTH,OWUTU,UMUNNATO PRIMARY SCHOOL,11/03/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/32677/32677-1677668447.pdf,false
+EBONYI,AFIKPO  SOUTH,OWUTU,AMAEKE VILLAGE HALL,11/03/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/32676/32676-1677668355.pdf,false
+EBONYI,AFIKPO  SOUTH,OWUTU,NDI EWA VILLAGE HALL,11/03/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/32675/32675-1677668256.pdf,false
+EBONYI,AFIKPO  SOUTH,OWUTU,AMUKABI TOWN HALL,11/03/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/32674/32674-1677668164.pdf,true
+EBONYI,AFIKPO  SOUTH,OWUTU,AKANU TOWN HALL,11/03/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/32673/32673-1677668055.pdf,false
+EBONYI,AFIKPO  SOUTH,OWUTU,CENTRAL SCHOOL OWUTU II,11/03/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/32672/32672-1677667985.pdf,true
+EBONYI,AFIKPO  SOUTH,OWUTU,CENTRAL SCHOOL OWUTU I,11/03/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19995/pu/32671/32671-1677667885.pdf,false

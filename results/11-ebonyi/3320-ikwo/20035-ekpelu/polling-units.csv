@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EBONYI,IKWO,,NDUGWU NDIEGU AMANGWURU,11/07/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20035/pu/138911/138911-1677673294.pdf,true
-EBONYI,IKWO,,ELUAGU INYIMAGU MKT SQ,11/07/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20035/pu/138910/138910-1677673196.pdf,true
-EBONYI,IKWO,,UKWU ACHI PLAY GROUND,11/07/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20035/pu/138909/138909-1677672769.pdf,false
-EBONYI,IKWO,,EDUKWU ELUEGU VILLAGE SQUARE,11/07/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20035/pu/138908/138908-1677672432.pdf,false
-EBONYI,IKWO,,EDUKWU OMEGE PLAY GROUND,11/07/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20035/pu/138907/138907-1677672315.pdf,true
-EBONYI,IKWO,,AMANGWURU TOWN HALL,11/07/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20035/pu/33100/33100-1677672157.pdf,true
-EBONYI,IKWO,,AMACHARA PLAY GROUND,11/07/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20035/pu/33099/33099-1677672043.pdf,false
-EBONYI,IKWO,,INYIMAGU AMAEKA MKT SQUARE,11/07/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20035/pu/33098/33098-1677671860.pdf,false
-EBONYI,IKWO,,AMAINYIMA EKPELU PLAY GROUND,11/07/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20035/pu/33097/33097-1677670666.pdf,false
-EBONYI,IKWO,,NKWUDA MARKET SQUARE,11/07/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20035/pu/33095/33095-1677670428.pdf,false
-EBONYI,IKWO,,C.P.S. EKPELU PLAY GROUND,11/07/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20035/pu/33096/33096-1677670197.pdf,true
+EBONYI,IKWO,EKPELU,NDUGWU NDIEGU AMANGWURU,11/07/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20035/pu/138911/138911-1677673294.pdf,true
+EBONYI,IKWO,EKPELU,ELUAGU INYIMAGU MKT SQ,11/07/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20035/pu/138910/138910-1677673196.pdf,true
+EBONYI,IKWO,EKPELU,UKWU ACHI PLAY GROUND,11/07/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20035/pu/138909/138909-1677672769.pdf,false
+EBONYI,IKWO,EKPELU,EDUKWU ELUEGU VILLAGE SQUARE,11/07/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20035/pu/138908/138908-1677672432.pdf,false
+EBONYI,IKWO,EKPELU,EDUKWU OMEGE PLAY GROUND,11/07/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20035/pu/138907/138907-1677672315.pdf,true
+EBONYI,IKWO,EKPELU,AMANGWURU TOWN HALL,11/07/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20035/pu/33100/33100-1677672157.pdf,true
+EBONYI,IKWO,EKPELU,AMACHARA PLAY GROUND,11/07/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20035/pu/33099/33099-1677672043.pdf,false
+EBONYI,IKWO,EKPELU,INYIMAGU AMAEKA MKT SQUARE,11/07/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20035/pu/33098/33098-1677671860.pdf,false
+EBONYI,IKWO,EKPELU,AMAINYIMA EKPELU PLAY GROUND,11/07/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20035/pu/33097/33097-1677670666.pdf,false
+EBONYI,IKWO,EKPELU,NKWUDA MARKET SQUARE,11/07/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20035/pu/33095/33095-1677670428.pdf,false
+EBONYI,IKWO,EKPELU,C.P.S. EKPELU PLAY GROUND,11/07/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20035/pu/33096/33096-1677670197.pdf,true

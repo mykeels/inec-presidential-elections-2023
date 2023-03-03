@@ -1,18 +1,18 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EBONYI,IKWO,,NDIOGADOSHI PLAY GROUND,11/07/02/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/138895/138895-1677667496.pdf,false
-EBONYI,IKWO,,EDENNYEKA PLAY GROUND,11/07/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33079/33079-1677667199.pdf,true
-EBONYI,IKWO,,NDINWESA NDIAGU ECHIALIKE,11/07/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33078/33078-1677666876.pdf,false
-EBONYI,IKWO,,NWUGOTA MARKET SQUARE,11/07/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33077/33077-1677666604.pdf,false
-EBONYI,IKWO,,NDIOVA ECHIALIKE VILLAGE SQUARE,11/07/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33076/33076-1677666397.pdf,false
-EBONYI,IKWO,,NDIOVA VILLAGE SQUARE,11/07/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33075/33075-1677666003.pdf,false
-EBONYI,IKWO,,NDIAKPARATA PLAY GROUND,11/07/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33074/33074-1677665795.pdf,false
-EBONYI,IKWO,,OMEGE ECHIALIKE,11/07/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33073/33073-1677665554.pdf,false
-EBONYI,IKWO,,NDIODUMA PLAY GROUND,11/07/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33072/33072-1677665136.pdf,false
-EBONYI,IKWO,,ALIUKWUNTA PLAY  GROUND,11/07/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33071/33071-1677664821.pdf,false
-EBONYI,IKWO,,OKPASHI PLAY GROUND,11/07/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33070/33070-1677664605.pdf,false
-EBONYI,IKWO,,UGBODO VILLAGE SQUARE,11/07/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33069/33069-1677662447.pdf,false
-EBONYI,IKWO,,IKPURUKPU PLAY GROUND,11/07/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33068/33068-1677662030.pdf,false
-EBONYI,IKWO,,EDUKWUEDE PLAY GROUND,11/07/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33067/33067-1677661642.pdf,true
-EBONYI,IKWO,,OFUTU ENYI PLAY GROUND,11/07/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33066/33066-1677661353.pdf,true
-EBONYI,IKWO,,C.P.S ECHIALIKE,11/07/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33065/33065-1677660877.pdf,false
-EBONYI,IKWO,,NDIOVA ENYIM PLAY GROUND,11/07/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33064/33064-1677658957.pdf,true
+EBONYI,IKWO,ECHIALIKE,NDIOGADOSHI PLAY GROUND,11/07/02/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/138895/138895-1677667496.pdf,false
+EBONYI,IKWO,ECHIALIKE,EDENNYEKA PLAY GROUND,11/07/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33079/33079-1677667199.pdf,true
+EBONYI,IKWO,ECHIALIKE,NDINWESA NDIAGU ECHIALIKE,11/07/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33078/33078-1677666876.pdf,false
+EBONYI,IKWO,ECHIALIKE,NWUGOTA MARKET SQUARE,11/07/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33077/33077-1677666604.pdf,false
+EBONYI,IKWO,ECHIALIKE,NDIOVA ECHIALIKE VILLAGE SQUARE,11/07/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33076/33076-1677666397.pdf,false
+EBONYI,IKWO,ECHIALIKE,NDIOVA VILLAGE SQUARE,11/07/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33075/33075-1677666003.pdf,false
+EBONYI,IKWO,ECHIALIKE,NDIAKPARATA PLAY GROUND,11/07/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33074/33074-1677665795.pdf,false
+EBONYI,IKWO,ECHIALIKE,OMEGE ECHIALIKE,11/07/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33073/33073-1677665554.pdf,false
+EBONYI,IKWO,ECHIALIKE,NDIODUMA PLAY GROUND,11/07/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33072/33072-1677665136.pdf,false
+EBONYI,IKWO,ECHIALIKE,ALIUKWUNTA PLAY  GROUND,11/07/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33071/33071-1677664821.pdf,false
+EBONYI,IKWO,ECHIALIKE,OKPASHI PLAY GROUND,11/07/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33070/33070-1677664605.pdf,false
+EBONYI,IKWO,ECHIALIKE,UGBODO VILLAGE SQUARE,11/07/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33069/33069-1677662447.pdf,false
+EBONYI,IKWO,ECHIALIKE,IKPURUKPU PLAY GROUND,11/07/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33068/33068-1677662030.pdf,false
+EBONYI,IKWO,ECHIALIKE,EDUKWUEDE PLAY GROUND,11/07/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33067/33067-1677661642.pdf,true
+EBONYI,IKWO,ECHIALIKE,OFUTU ENYI PLAY GROUND,11/07/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33066/33066-1677661353.pdf,true
+EBONYI,IKWO,ECHIALIKE,C.P.S ECHIALIKE,11/07/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33065/33065-1677660877.pdf,false
+EBONYI,IKWO,ECHIALIKE,NDIOVA ENYIM PLAY GROUND,11/07/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20032/pu/33064/33064-1677658957.pdf,true

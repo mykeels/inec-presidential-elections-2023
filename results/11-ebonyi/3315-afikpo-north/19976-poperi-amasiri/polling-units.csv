@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EBONYI,AFIKPO NORTH,,OGO AMANGWU,11/02/04/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/138529/138529-1677664201.pdf,false
-EBONYI,AFIKPO NORTH,,EZI OTU VILLAGE SQUARE,11/02/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/32480/32480-1677663814.pdf,false
-EBONYI,AFIKPO NORTH,,OHIGIHIA OHAECHARA,11/02/04/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/138530/138530-1677663547.pdf,false
-EBONYI,AFIKPO NORTH,,IHIE AGBO VILLAGE SQUARE I,11/02/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/32487/32487-1677663377.pdf,false
-EBONYI,AFIKPO NORTH,,IHIE FIELD II,11/02/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/32491/32491-1677574426.pdf,true
-EBONYI,AFIKPO NORTH,,OBENNE HALL,11/02/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/32483/32483-1677573584.pdf,true
-EBONYI,AFIKPO NORTH,,IHIE VILLAGE SQUARE,11/02/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/32489/32489-1677572695.pdf,true
-EBONYI,AFIKPO NORTH,,UHERE VILLAGE SQUARE,11/02/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/32482/32482-1677571742.pdf,true
-EBONYI,AFIKPO NORTH,,IHIE AGBO VILLAGE SQUARE II,11/02/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/32488/32488-1677571149.pdf,true
-EBONYI,AFIKPO NORTH,,IHUOGO VILLAGE SQUARE,11/02/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/32479/32479-1677522844.pdf,false
-EBONYI,AFIKPO NORTH,,EZI EGWU OKEHIE,11/02/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/32484/32484-1677521994.pdf,false
-EBONYI,AFIKPO NORTH,,ONU OGO EZI OMUME,11/02/04/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/138531/138531-1677521792.pdf,false
-EBONYI,AFIKPO NORTH,,OGWU UHIE VILLAGE SQUARE,11/02/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/32485/32485-1677521346.pdf,false
-EBONYI,AFIKPO NORTH,,OHAUKWU VILLAGE SQUARE,11/02/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/32481/32481-1677520931.pdf,false
-EBONYI,AFIKPO NORTH,,CENTRAL SCH. OZARA,11/02/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/32490/32490-1677519717.pdf,false
-EBONYI,AFIKPO NORTH,,AMASIRI MOTOR PARK,11/02/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/32486/32486-1677518721.pdf,false
-EBONYI,AFIKPO NORTH,,MODEL PRI. SCH. POPERI AMASIRI,11/02/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/138528/138528-1677517682.pdf,false
-EBONYI,AFIKPO NORTH,,OGO EZI ENI,11/02/04/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/04/pu/018/018-1677371060.pdf,false
+EBONYI,AFIKPO NORTH,POPERI AMASIRI,OGO AMANGWU,11/02/04/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/138529/138529-1677664201.pdf,false
+EBONYI,AFIKPO NORTH,POPERI AMASIRI,EZI OTU VILLAGE SQUARE,11/02/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/32480/32480-1677663814.pdf,false
+EBONYI,AFIKPO NORTH,POPERI AMASIRI,OHIGIHIA OHAECHARA,11/02/04/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/138530/138530-1677663547.pdf,false
+EBONYI,AFIKPO NORTH,POPERI AMASIRI,IHIE AGBO VILLAGE SQUARE I,11/02/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/32487/32487-1677663377.pdf,false
+EBONYI,AFIKPO NORTH,POPERI AMASIRI,IHIE FIELD II,11/02/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/32491/32491-1677574426.pdf,true
+EBONYI,AFIKPO NORTH,POPERI AMASIRI,OBENNE HALL,11/02/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/32483/32483-1677573584.pdf,true
+EBONYI,AFIKPO NORTH,POPERI AMASIRI,IHIE VILLAGE SQUARE,11/02/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/32489/32489-1677572695.pdf,true
+EBONYI,AFIKPO NORTH,POPERI AMASIRI,UHERE VILLAGE SQUARE,11/02/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/32482/32482-1677571742.pdf,true
+EBONYI,AFIKPO NORTH,POPERI AMASIRI,IHIE AGBO VILLAGE SQUARE II,11/02/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/32488/32488-1677571149.pdf,true
+EBONYI,AFIKPO NORTH,POPERI AMASIRI,IHUOGO VILLAGE SQUARE,11/02/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/32479/32479-1677522844.pdf,false
+EBONYI,AFIKPO NORTH,POPERI AMASIRI,EZI EGWU OKEHIE,11/02/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/32484/32484-1677521994.pdf,false
+EBONYI,AFIKPO NORTH,POPERI AMASIRI,ONU OGO EZI OMUME,11/02/04/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/138531/138531-1677521792.pdf,false
+EBONYI,AFIKPO NORTH,POPERI AMASIRI,OGWU UHIE VILLAGE SQUARE,11/02/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/32485/32485-1677521346.pdf,false
+EBONYI,AFIKPO NORTH,POPERI AMASIRI,OHAUKWU VILLAGE SQUARE,11/02/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/32481/32481-1677520931.pdf,false
+EBONYI,AFIKPO NORTH,POPERI AMASIRI,CENTRAL SCH. OZARA,11/02/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/32490/32490-1677519717.pdf,false
+EBONYI,AFIKPO NORTH,POPERI AMASIRI,AMASIRI MOTOR PARK,11/02/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/32486/32486-1677518721.pdf,false
+EBONYI,AFIKPO NORTH,POPERI AMASIRI,MODEL PRI. SCH. POPERI AMASIRI,11/02/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19976/pu/138528/138528-1677517682.pdf,false
+EBONYI,AFIKPO NORTH,POPERI AMASIRI,OGO EZI ENI,11/02/04/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/04/pu/018/018-1677371060.pdf,false

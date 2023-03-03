@@ -26,6 +26,7 @@
     "pu_code_string": "110402007",
     "state_name": "EBONYI",
     "lga_name": "EBONYI",
+    "ward_name": "ABOFIA",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "110402006",
     "state_name": "EBONYI",
     "lga_name": "EBONYI",
+    "ward_name": "ABOFIA",
     "document": {
       "external": false,
       "status": 1,
@@ -111,6 +113,7 @@
     "pu_code_string": "110402005",
     "state_name": "EBONYI",
     "lga_name": "EBONYI",
+    "ward_name": "ABOFIA",
     "document": {
       "external": false,
       "status": 1,
@@ -149,6 +152,7 @@
     "pu_code_string": "110402004",
     "state_name": "EBONYI",
     "lga_name": "EBONYI",
+    "ward_name": "ABOFIA",
     "document": {
       "external": false,
       "status": 1,
@@ -187,6 +191,7 @@
     "pu_code_string": "110402003",
     "state_name": "EBONYI",
     "lga_name": "EBONYI",
+    "ward_name": "ABOFIA",
     "document": {
       "external": false,
       "status": 1,
@@ -234,6 +239,7 @@
     "pu_code_string": "110402002",
     "state_name": "EBONYI",
     "lga_name": "EBONYI",
+    "ward_name": "ABOFIA",
     "document": {
       "external": false,
       "status": 1,
@@ -297,6 +303,7 @@
     "pu_code_string": "110402001",
     "state_name": "EBONYI",
     "lga_name": "EBONYI",
+    "ward_name": "ABOFIA",
     "document": {
       "external": false,
       "status": 1,
@@ -335,6 +342,7 @@
     "pu_code_string": "110402008",
     "state_name": "EBONYI",
     "lga_name": "EBONYI",
+    "ward_name": "ABOFIA",
     "document": {
       "external": true,
       "status": 1,
@@ -373,6 +381,7 @@
     "pu_code_string": "110402014",
     "state_name": "EBONYI",
     "lga_name": "EBONYI",
+    "ward_name": "ABOFIA",
     "document": {
       "external": true,
       "status": 1,
@@ -411,6 +420,7 @@
     "pu_code_string": "110402013",
     "state_name": "EBONYI",
     "lga_name": "EBONYI",
+    "ward_name": "ABOFIA",
     "document": {
       "external": true,
       "status": 1,
@@ -449,6 +459,7 @@
     "pu_code_string": "110402010",
     "state_name": "EBONYI",
     "lga_name": "EBONYI",
+    "ward_name": "ABOFIA",
     "document": {
       "external": true,
       "status": 1,
@@ -487,6 +498,7 @@
     "pu_code_string": "110402009",
     "state_name": "EBONYI",
     "lga_name": "EBONYI",
+    "ward_name": "ABOFIA",
     "document": {
       "external": true,
       "status": 1,
@@ -525,6 +537,7 @@
     "pu_code_string": "110402011",
     "state_name": "EBONYI",
     "lga_name": "EBONYI",
+    "ward_name": "ABOFIA",
     "document": {
       "external": true,
       "status": 1,
@@ -563,6 +576,7 @@
     "pu_code_string": "110402012",
     "state_name": "EBONYI",
     "lga_name": "EBONYI",
+    "ward_name": "ABOFIA",
     "document": {
       "external": true,
       "status": 1,

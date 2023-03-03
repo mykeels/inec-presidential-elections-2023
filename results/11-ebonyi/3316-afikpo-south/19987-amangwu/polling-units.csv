@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EBONYI,AFIKPO  SOUTH,,AMUKWA/AMEBO TOWN HALL,11/03/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19987/pu/32591/32591-1677679264.pdf,false
-EBONYI,AFIKPO  SOUTH,,NDI OKORO TOWN HALL I,11/03/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19987/pu/32592/32592-1677678754.pdf,false
-EBONYI,AFIKPO  SOUTH,,NDI OKORO TOWN HALL II,11/03/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19987/pu/32593/32593-1677678214.pdf,false
-EBONYI,AFIKPO  SOUTH,,OKPOMA VILLAGE HALL,11/03/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19987/pu/32594/32594-1677677701.pdf,false
-EBONYI,AFIKPO  SOUTH,,AMAIYINTA VILLAGE HALL I,11/03/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19987/pu/32595/32595-1677677314.pdf,false
-EBONYI,AFIKPO  SOUTH,,AMAIYINTA VILLAGE  SQUARE,11/03/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19987/pu/32596/32596-1677676953.pdf,false
-EBONYI,AFIKPO  SOUTH,,AMAIYINTA VILLAGE  HALL II,11/03/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19987/pu/32597/32597-1677676668.pdf,false
-EBONYI,AFIKPO  SOUTH,,NDIEBO VILLAGE HALL I,11/03/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19987/pu/32598/32598-1677676335.pdf,false
-EBONYI,AFIKPO  SOUTH,,NDIEBO VILLAGE HALL II,11/03/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19987/pu/32599/32599-1677675857.pdf,false
-EBONYI,AFIKPO  SOUTH,,ODUGHOHU TOWN HALL,11/03/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19987/pu/32600/32600-1677675323.pdf,false
-EBONYI,AFIKPO  SOUTH,,ASAGA PRIMARY SCHOOL,11/03/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19987/pu/32601/32601-1677674351.pdf,false
-EBONYI,AFIKPO  SOUTH,,ASAGA  VILLAGE HALL,11/03/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19987/pu/32602/32602-1677673502.pdf,true
-EBONYI,AFIKPO  SOUTH,,ANYAFUMBA HALL,11/03/03/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631325/result_150240_1677598201_thumb.jpg,false
+EBONYI,AFIKPO  SOUTH,AMANGWU,AMUKWA/AMEBO TOWN HALL,11/03/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19987/pu/32591/32591-1677679264.pdf,false
+EBONYI,AFIKPO  SOUTH,AMANGWU,NDI OKORO TOWN HALL I,11/03/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19987/pu/32592/32592-1677678754.pdf,false
+EBONYI,AFIKPO  SOUTH,AMANGWU,NDI OKORO TOWN HALL II,11/03/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19987/pu/32593/32593-1677678214.pdf,false
+EBONYI,AFIKPO  SOUTH,AMANGWU,OKPOMA VILLAGE HALL,11/03/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19987/pu/32594/32594-1677677701.pdf,false
+EBONYI,AFIKPO  SOUTH,AMANGWU,AMAIYINTA VILLAGE HALL I,11/03/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19987/pu/32595/32595-1677677314.pdf,false
+EBONYI,AFIKPO  SOUTH,AMANGWU,AMAIYINTA VILLAGE  SQUARE,11/03/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19987/pu/32596/32596-1677676953.pdf,false
+EBONYI,AFIKPO  SOUTH,AMANGWU,AMAIYINTA VILLAGE  HALL II,11/03/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19987/pu/32597/32597-1677676668.pdf,false
+EBONYI,AFIKPO  SOUTH,AMANGWU,NDIEBO VILLAGE HALL I,11/03/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19987/pu/32598/32598-1677676335.pdf,false
+EBONYI,AFIKPO  SOUTH,AMANGWU,NDIEBO VILLAGE HALL II,11/03/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19987/pu/32599/32599-1677675857.pdf,false
+EBONYI,AFIKPO  SOUTH,AMANGWU,ODUGHOHU TOWN HALL,11/03/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19987/pu/32600/32600-1677675323.pdf,false
+EBONYI,AFIKPO  SOUTH,AMANGWU,ASAGA PRIMARY SCHOOL,11/03/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19987/pu/32601/32601-1677674351.pdf,false
+EBONYI,AFIKPO  SOUTH,AMANGWU,ASAGA  VILLAGE HALL,11/03/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3316/ward/19987/pu/32602/32602-1677673502.pdf,true
+EBONYI,AFIKPO  SOUTH,AMANGWU,ANYAFUMBA HALL,11/03/03/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631325/result_150240_1677598201_thumb.jpg,false

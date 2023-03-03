@@ -1,16 +1,16 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EBONYI,IZZI,,EFUNAGU VILLAGE HALL III,11/10/05/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631804/result_151123_1677594004_thumb.jpg,false
-EBONYI,IZZI,,EFUNAGU VILLAGE HALL I,11/10/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33563/result_151115_1677580461_thumb.jpg,false
-EBONYI,IZZI,,NDIAMADI COMMUNITY SCHOOL II,11/10/05/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631800/result_151119_1677592438_thumb.jpg,false
-EBONYI,IZZI,,NDIAMADI COMMUNITY SCHOOL,11/10/05/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33558/result_151110_1677579251_thumb.jpg,false
-EBONYI,IZZI,,NDIOKEDA VILLAGE HALL,11/10/05/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33562/result_151114_1677576638_thumb.jpg,false
-EBONYI,IZZI,,IGWELEDOHA VILLAGE HALL,11/10/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33557/result_151109_1677575223_thumb.jpg,false
-EBONYI,IZZI,,NDUNWIJE VILLAGE HALL,11/10/05/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33561/result_151113_1677580485_thumb.jpg,false
-EBONYI,IZZI,,NDINWANGBA COMMUNITY SCHOOL,11/10/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33559/result_151111_1677576099_thumb.jpg,false
-EBONYI,IZZI,,OBEGU NDINWANGBA,11/10/05/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33560/result_151112_1677575327_thumb.jpg,false
-EBONYI,IZZI,,NDIOKEDA VILLAGE HALL II,11/10/05/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631802/result_151121_1677576956_thumb.jpg,false
-EBONYI,IZZI,,NDINWANGBA COMMUNITY SCH. II,11/10/05/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631801/result_151120_1677577836_thumb.jpg,false
-EBONYI,IZZI,,IGWELEDOHA VIL. HALL III,11/10/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631799/result_151118_1677579225_thumb.jpg,false
-EBONYI,IZZI,,IGWELEDOHA VIL. HALL II,11/10/05/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631798/result_151117_1677577165_thumb.jpg,false
-EBONYI,IZZI,,NDIOSHIA PRI. SCH,11/10/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/05/pu/014/014-1677424618.pdf,false
-EBONYI,IZZI,,EFUNAGU VILLAGE HALL II,11/10/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/05/pu/008/008-1677422502.pdf,false
+EBONYI,IZZI,EZZA INYIMAGU - IGWELEDOHA,EFUNAGU VILLAGE HALL III,11/10/05/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631804/result_151123_1677594004_thumb.jpg,false
+EBONYI,IZZI,EZZA INYIMAGU - IGWELEDOHA,EFUNAGU VILLAGE HALL I,11/10/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33563/result_151115_1677580461_thumb.jpg,false
+EBONYI,IZZI,EZZA INYIMAGU - IGWELEDOHA,NDIAMADI COMMUNITY SCHOOL II,11/10/05/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631800/result_151119_1677592438_thumb.jpg,false
+EBONYI,IZZI,EZZA INYIMAGU - IGWELEDOHA,NDIAMADI COMMUNITY SCHOOL,11/10/05/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33558/result_151110_1677579251_thumb.jpg,false
+EBONYI,IZZI,EZZA INYIMAGU - IGWELEDOHA,NDIOKEDA VILLAGE HALL,11/10/05/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33562/result_151114_1677576638_thumb.jpg,false
+EBONYI,IZZI,EZZA INYIMAGU - IGWELEDOHA,IGWELEDOHA VILLAGE HALL,11/10/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33557/result_151109_1677575223_thumb.jpg,false
+EBONYI,IZZI,EZZA INYIMAGU - IGWELEDOHA,NDUNWIJE VILLAGE HALL,11/10/05/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33561/result_151113_1677580485_thumb.jpg,false
+EBONYI,IZZI,EZZA INYIMAGU - IGWELEDOHA,NDINWANGBA COMMUNITY SCHOOL,11/10/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33559/result_151111_1677576099_thumb.jpg,false
+EBONYI,IZZI,EZZA INYIMAGU - IGWELEDOHA,OBEGU NDINWANGBA,11/10/05/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33560/result_151112_1677575327_thumb.jpg,false
+EBONYI,IZZI,EZZA INYIMAGU - IGWELEDOHA,NDIOKEDA VILLAGE HALL II,11/10/05/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631802/result_151121_1677576956_thumb.jpg,false
+EBONYI,IZZI,EZZA INYIMAGU - IGWELEDOHA,NDINWANGBA COMMUNITY SCH. II,11/10/05/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631801/result_151120_1677577836_thumb.jpg,false
+EBONYI,IZZI,EZZA INYIMAGU - IGWELEDOHA,IGWELEDOHA VIL. HALL III,11/10/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631799/result_151118_1677579225_thumb.jpg,false
+EBONYI,IZZI,EZZA INYIMAGU - IGWELEDOHA,IGWELEDOHA VIL. HALL II,11/10/05/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631798/result_151117_1677577165_thumb.jpg,false
+EBONYI,IZZI,EZZA INYIMAGU - IGWELEDOHA,NDIOSHIA PRI. SCH,11/10/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/05/pu/014/014-1677424618.pdf,false
+EBONYI,IZZI,EZZA INYIMAGU - IGWELEDOHA,EFUNAGU VILLAGE HALL II,11/10/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/05/pu/008/008-1677422502.pdf,false

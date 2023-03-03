@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EBONYI,IVO,,NDIEZE IHIE PLAY GROUND,11/09/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3322/ward/20069/pu/33431/33431-1677681491.pdf,false
-EBONYI,IVO,,UKWUDARA AMUZU AMAGU PLAY GROUND,11/09/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3322/ward/20069/pu/139105/139105-1677667665.pdf,false
-EBONYI,IVO,,ISHIAGU CENTRAL SCHOOL,11/09/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631755/result_150924_1677602621_thumb.jpg,false
-EBONYI,IVO,,NDIOKWOR IHIE PLAY GROUND II,11/09/03/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33423/result_150923_1677602377_thumb.jpg,false
-EBONYI,IVO,,NDIOKWOR IHIE PLAY GROUND I,11/09/03/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33422/result_150922_1677601974_thumb.jpg,false
-EBONYI,IVO,,AKPARATA IHIE PLAY GROUND,11/09/03/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33420/result_150920_1677600898_thumb.jpg,false
-EBONYI,IVO,,ISHIAGU COURT PREMISES,11/09/03/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33419/result_150919_1677600227_thumb.jpg,false
-EBONYI,IVO,,AMUZU PLAY GROUND,11/09/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33418/result_150918_1677599732_thumb.jpg,false
-EBONYI,IVO,,AMANTA PLAY GROUND,11/09/03/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33417/result_150917_1677599334_thumb.jpg,false
-EBONYI,IVO,,AKPUNEKE PLAY GROUND,11/09/03/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33416/result_150916_1677598445_thumb.jpg,false
-EBONYI,IVO,,AMACHI PLAY GROUND,11/09/03/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33415/result_150915_1677598000_thumb.jpg,false
-EBONYI,IVO,,AKANU PLAY GROUND,11/09/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33414/result_150914_1677597370_thumb.jpg,false
+EBONYI,IVO,AMAGU,NDIEZE IHIE PLAY GROUND,11/09/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3322/ward/20069/pu/33431/33431-1677681491.pdf,false
+EBONYI,IVO,AMAGU,UKWUDARA AMUZU AMAGU PLAY GROUND,11/09/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3322/ward/20069/pu/139105/139105-1677667665.pdf,false
+EBONYI,IVO,AMAGU,ISHIAGU CENTRAL SCHOOL,11/09/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631755/result_150924_1677602621_thumb.jpg,false
+EBONYI,IVO,AMAGU,NDIOKWOR IHIE PLAY GROUND II,11/09/03/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33423/result_150923_1677602377_thumb.jpg,false
+EBONYI,IVO,AMAGU,NDIOKWOR IHIE PLAY GROUND I,11/09/03/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33422/result_150922_1677601974_thumb.jpg,false
+EBONYI,IVO,AMAGU,AKPARATA IHIE PLAY GROUND,11/09/03/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33420/result_150920_1677600898_thumb.jpg,false
+EBONYI,IVO,AMAGU,ISHIAGU COURT PREMISES,11/09/03/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33419/result_150919_1677600227_thumb.jpg,false
+EBONYI,IVO,AMAGU,AMUZU PLAY GROUND,11/09/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33418/result_150918_1677599732_thumb.jpg,false
+EBONYI,IVO,AMAGU,AMANTA PLAY GROUND,11/09/03/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33417/result_150917_1677599334_thumb.jpg,false
+EBONYI,IVO,AMAGU,AKPUNEKE PLAY GROUND,11/09/03/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33416/result_150916_1677598445_thumb.jpg,false
+EBONYI,IVO,AMAGU,AMACHI PLAY GROUND,11/09/03/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33415/result_150915_1677598000_thumb.jpg,false
+EBONYI,IVO,AMAGU,AKANU PLAY GROUND,11/09/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33414/result_150914_1677597370_thumb.jpg,false

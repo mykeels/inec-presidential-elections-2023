@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EBONYI,AFIKPO NORTH,,AGBOGO AMAUKU PLAYGROUND,11/02/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/138557/138557-1677671942.pdf,false
-EBONYI,AFIKPO NORTH,,NDIBE PRIMARY SCHOOL,11/02/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/32523/32523-1677668048.pdf,false
-EBONYI,AFIKPO NORTH,,AMUZU SQUARE,11/02/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/32529/32529-1677666712.pdf,false
-EBONYI,AFIKPO NORTH,,EZI INYA VILLAGE SQUARE,11/02/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/32522/32522-1677665916.pdf,false
-EBONYI,AFIKPO NORTH,,AMANKWU/AMAEKWU  PLAY GROUND,11/02/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/32525/32525-1677664639.pdf,false
-EBONYI,AFIKPO NORTH,,AMUZU VILLAGE SQUARE,11/02/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/32530/32530-1677663978.pdf,false
-EBONYI,AFIKPO NORTH,,NNAENYIM VILLAGE SQUARE I,11/02/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/32518/32518-1677663875.pdf,false
-EBONYI,AFIKPO NORTH,,AMANKWO/AMABOLOBO PRIMARY SCHOOL II,11/02/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/32527/32527-1677663736.pdf,false
-EBONYI,AFIKPO NORTH,,AMANKWO/AMAEKWU SQUARE,11/02/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/32531/32531-1677663169.pdf,false
-EBONYI,AFIKPO NORTH,,NNAENYIM VILLAGE SQUARE II,11/02/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/32519/32519-1677663131.pdf,false
-EBONYI,AFIKPO NORTH,,OGO IBE MARKET SQUARE,11/02/07/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/138559/138559-1677593735.pdf,true
-EBONYI,AFIKPO NORTH,,NNAENYIM VILLAGE SQUARE III,11/02/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/32520/32520-1677582047.pdf,true
-EBONYI,AFIKPO NORTH,,AMANKWU/AMAEKWU SQUARE,11/02/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/32524/32524-1677580363.pdf,true
-EBONYI,AFIKPO NORTH,,AMANKWO/AMABOLOBO PRIMARY SCHOOL I,11/02/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/32526/32526-1677579869.pdf,true
-EBONYI,AFIKPO NORTH,,AMANKWO/AMABOLOBO PRIMARY SCHOOL III,11/02/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/32528/32528-1677578980.pdf,false
-EBONYI,AFIKPO NORTH,,AMANGWU NKPOGHORO TOWN HALL,11/02/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/138558/138558-1677578387.pdf,false
-EBONYI,AFIKPO NORTH,,NKPOGHORO PRIMARY SCHOOL,11/02/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/138556/138556-1677577195.pdf,false
-EBONYI,AFIKPO NORTH,,NDIBE PLAY GROUND,11/02/07/004,,false
+EBONYI,AFIKPO NORTH,NKPOGHORO AFIKPO,AGBOGO AMAUKU PLAYGROUND,11/02/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/138557/138557-1677671942.pdf,false
+EBONYI,AFIKPO NORTH,NKPOGHORO AFIKPO,NDIBE PRIMARY SCHOOL,11/02/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/32523/32523-1677668048.pdf,false
+EBONYI,AFIKPO NORTH,NKPOGHORO AFIKPO,AMUZU SQUARE,11/02/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/32529/32529-1677666712.pdf,false
+EBONYI,AFIKPO NORTH,NKPOGHORO AFIKPO,EZI INYA VILLAGE SQUARE,11/02/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/32522/32522-1677665916.pdf,false
+EBONYI,AFIKPO NORTH,NKPOGHORO AFIKPO,AMANKWU/AMAEKWU  PLAY GROUND,11/02/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/32525/32525-1677664639.pdf,false
+EBONYI,AFIKPO NORTH,NKPOGHORO AFIKPO,AMUZU VILLAGE SQUARE,11/02/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/32530/32530-1677663978.pdf,false
+EBONYI,AFIKPO NORTH,NKPOGHORO AFIKPO,NNAENYIM VILLAGE SQUARE I,11/02/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/32518/32518-1677663875.pdf,false
+EBONYI,AFIKPO NORTH,NKPOGHORO AFIKPO,AMANKWO/AMABOLOBO PRIMARY SCHOOL II,11/02/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/32527/32527-1677663736.pdf,false
+EBONYI,AFIKPO NORTH,NKPOGHORO AFIKPO,AMANKWO/AMAEKWU SQUARE,11/02/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/32531/32531-1677663169.pdf,false
+EBONYI,AFIKPO NORTH,NKPOGHORO AFIKPO,NNAENYIM VILLAGE SQUARE II,11/02/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/32519/32519-1677663131.pdf,false
+EBONYI,AFIKPO NORTH,NKPOGHORO AFIKPO,OGO IBE MARKET SQUARE,11/02/07/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/138559/138559-1677593735.pdf,true
+EBONYI,AFIKPO NORTH,NKPOGHORO AFIKPO,NNAENYIM VILLAGE SQUARE III,11/02/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/32520/32520-1677582047.pdf,true
+EBONYI,AFIKPO NORTH,NKPOGHORO AFIKPO,AMANKWU/AMAEKWU SQUARE,11/02/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/32524/32524-1677580363.pdf,true
+EBONYI,AFIKPO NORTH,NKPOGHORO AFIKPO,AMANKWO/AMABOLOBO PRIMARY SCHOOL I,11/02/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/32526/32526-1677579869.pdf,true
+EBONYI,AFIKPO NORTH,NKPOGHORO AFIKPO,AMANKWO/AMABOLOBO PRIMARY SCHOOL III,11/02/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/32528/32528-1677578980.pdf,false
+EBONYI,AFIKPO NORTH,NKPOGHORO AFIKPO,AMANGWU NKPOGHORO TOWN HALL,11/02/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/138558/138558-1677578387.pdf,false
+EBONYI,AFIKPO NORTH,NKPOGHORO AFIKPO,NKPOGHORO PRIMARY SCHOOL,11/02/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3315/ward/19979/pu/138556/138556-1677577195.pdf,false
+EBONYI,AFIKPO NORTH,NKPOGHORO AFIKPO,NDIBE PLAY GROUND,11/02/07/004,,false

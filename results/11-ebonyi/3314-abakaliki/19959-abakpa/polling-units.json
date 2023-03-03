@@ -26,6 +26,7 @@
     "pu_code_string": "110101013",
     "state_name": "EBONYI",
     "lga_name": "ABAKALIKI",
+    "ward_name": "ABAKPA",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "110101020",
     "state_name": "EBONYI",
     "lga_name": "ABAKALIKI",
+    "ward_name": "ABAKPA",
     "document": {
       "external": false,
       "status": 1,
@@ -111,6 +113,7 @@
     "pu_code_string": "110101021",
     "state_name": "EBONYI",
     "lga_name": "ABAKALIKI",
+    "ward_name": "ABAKPA",
     "document": {
       "external": false,
       "status": 1,
@@ -149,6 +152,7 @@
     "pu_code_string": "110101006",
     "state_name": "EBONYI",
     "lga_name": "ABAKALIKI",
+    "ward_name": "ABAKPA",
     "document": {
       "external": false,
       "status": 1,
@@ -196,6 +200,7 @@
     "pu_code_string": "110101002",
     "state_name": "EBONYI",
     "lga_name": "ABAKALIKI",
+    "ward_name": "ABAKPA",
     "document": {
       "external": false,
       "status": 1,
@@ -243,6 +248,7 @@
     "pu_code_string": "110101004",
     "state_name": "EBONYI",
     "lga_name": "ABAKALIKI",
+    "ward_name": "ABAKPA",
     "document": {
       "external": false,
       "status": 1,
@@ -281,6 +287,7 @@
     "pu_code_string": "110101007",
     "state_name": "EBONYI",
     "lga_name": "ABAKALIKI",
+    "ward_name": "ABAKPA",
     "document": {
       "external": false,
       "status": 1,
@@ -319,6 +326,7 @@
     "pu_code_string": "110101011",
     "state_name": "EBONYI",
     "lga_name": "ABAKALIKI",
+    "ward_name": "ABAKPA",
     "document": {
       "external": false,
       "status": 1,
@@ -382,6 +390,7 @@
     "pu_code_string": "110101018",
     "state_name": "EBONYI",
     "lga_name": "ABAKALIKI",
+    "ward_name": "ABAKPA",
     "document": {
       "external": false,
       "status": 1,
@@ -420,6 +429,7 @@
     "pu_code_string": "110101001",
     "state_name": "EBONYI",
     "lga_name": "ABAKALIKI",
+    "ward_name": "ABAKPA",
     "document": {
       "external": false,
       "status": 1,
@@ -523,6 +533,7 @@
     "pu_code_string": "110101019",
     "state_name": "EBONYI",
     "lga_name": "ABAKALIKI",
+    "ward_name": "ABAKPA",
     "document": {
       "external": true,
       "status": 1,
@@ -570,6 +581,7 @@
     "pu_code_string": "110101003",
     "state_name": "EBONYI",
     "lga_name": "ABAKALIKI",
+    "ward_name": "ABAKPA",
     "document": {
       "external": true,
       "status": 1,
@@ -617,6 +629,7 @@
     "pu_code_string": "110101012",
     "state_name": "EBONYI",
     "lga_name": "ABAKALIKI",
+    "ward_name": "ABAKPA",
     "document": {
       "external": true,
       "status": 1,
@@ -664,6 +677,7 @@
     "pu_code_string": "110101009",
     "state_name": "EBONYI",
     "lga_name": "ABAKALIKI",
+    "ward_name": "ABAKPA",
     "document": {
       "external": true,
       "status": 1,
@@ -711,6 +725,7 @@
     "pu_code_string": "110101005",
     "state_name": "EBONYI",
     "lga_name": "ABAKALIKI",
+    "ward_name": "ABAKPA",
     "document": {
       "external": true,
       "status": 1,
@@ -766,6 +781,7 @@
     "pu_code_string": "110101016",
     "state_name": "EBONYI",
     "lga_name": "ABAKALIKI",
+    "ward_name": "ABAKPA",
     "document": {
       "external": false,
       "status": 1,
@@ -829,6 +845,7 @@
     "pu_code_string": "110101015",
     "state_name": "EBONYI",
     "lga_name": "ABAKALIKI",
+    "ward_name": "ABAKPA",
     "document": {
       "external": false,
       "status": 1,
@@ -908,6 +925,7 @@
     "pu_code_string": "110101017",
     "state_name": "EBONYI",
     "lga_name": "ABAKALIKI",
+    "ward_name": "ABAKPA",
     "document": {
       "external": false,
       "status": 1,
@@ -946,6 +964,7 @@
     "pu_code_string": "110101022",
     "state_name": "EBONYI",
     "lga_name": "ABAKALIKI",
+    "ward_name": "ABAKPA",
     "document": {
       "external": false,
       "status": 1,
@@ -993,6 +1012,7 @@
     "pu_code_string": "110101014",
     "state_name": "EBONYI",
     "lga_name": "ABAKALIKI",
+    "ward_name": "ABAKPA",
     "document": {
       "external": false,
       "status": 1,
@@ -1031,6 +1051,7 @@
     "pu_code_string": "110101010",
     "state_name": "EBONYI",
     "lga_name": "ABAKALIKI",
+    "ward_name": "ABAKPA",
     "document": {
       "external": false,
       "status": 1,
@@ -1069,6 +1090,7 @@
     "pu_code_string": "110101023",
     "state_name": "EBONYI",
     "lga_name": "ABAKALIKI",
+    "ward_name": "ABAKPA",
     "document": {
       "external": false,
       "status": 1,
@@ -1107,6 +1129,7 @@
     "pu_code_string": "110101008",
     "state_name": "EBONYI",
     "lga_name": "ABAKALIKI",
+    "ward_name": "ABAKPA",
     "document": {
       "external": false,
       "status": 1,

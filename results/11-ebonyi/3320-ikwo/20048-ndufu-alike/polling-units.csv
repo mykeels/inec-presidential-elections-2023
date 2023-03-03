@@ -1,23 +1,23 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EBONYI,IKWO,,ONYIKWA C.S.P,11/07/18/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/33212/33212-1677653479.pdf,false
-EBONYI,IKWO,,OMEGE PLAY GROUND,11/07/18/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/139002/139002-1677639343.pdf,true
-EBONYI,IKWO,,EBIAJI PLAY GROUND,11/07/18/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/139001/139001-1677639201.pdf,true
-EBONYI,IKWO,,ISLAND PRI MARY SCHOOL,11/07/18/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/139000/139000-1677639034.pdf,true
-EBONYI,IKWO,,NDIEGUAZU OHAUKWU,11/07/18/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/138999/138999-1677638914.pdf,true
-EBONYI,IKWO,,ENYINWE-EGU EDUKWU OFURA,11/07/18/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/138998/138998-1677638788.pdf,true
-EBONYI,IKWO,,OHATEKWE,11/07/18/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/138997/138997-1677638662.pdf,true
-EBONYI,IKWO,,EDUKWU OPOKE PLAY GROUND,11/07/18/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/138996/138996-1677638554.pdf,true
-EBONYI,IKWO,,NDIODOMA,11/07/18/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/138995/138995-1677638438.pdf,true
-EBONYI,IKWO,,NDIEGUAZU ENYIM,11/07/18/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/138994/138994-1677620540.pdf,false
-EBONYI,IKWO,,U.C.S NWAKPU II,11/07/18/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/138993/138993-1677620422.pdf,false
-EBONYI,IKWO,,NDIOVA PLAY GROUND,11/07/18/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/138992/138992-1677620078.pdf,false
-EBONYI,IKWO,,UKWUINYIMA AGALEGU C.S.P II,11/07/18/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/33217/33217-1677619871.pdf,true
-EBONYI,IKWO,,UKWUINYIMA AGALEGU C.S.P I,11/07/18/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/33216/33216-1677619705.pdf,false
-EBONYI,IKWO,,ENYIMCHUKWU PLAY GROUND,11/07/18/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/33215/33215-1677619452.pdf,false
-EBONYI,IKWO,,UGWUAFOR VILLAGE PLAY GROUND,11/07/18/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/33214/33214-1677619341.pdf,true
-EBONYI,IKWO,,NGAMGBO OZABE PLAY GROUND,11/07/18/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/33213/33213-1677619182.pdf,false
-EBONYI,IKWO,,ENYIM AGALEGU PLAY GROUND,11/07/18/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/33210/33210-1677618314.pdf,false
-EBONYI,IKWO,,NWAKPU MARKET SQUARE II,11/07/18/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/33209/33209-1677618049.pdf,false
-EBONYI,IKWO,,NWAKPU MARKET SQUARE I,11/07/18/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/33208/33208-1677617917.pdf,false
-EBONYI,IKWO,,UMUNNATO C.S NWAKPU,11/07/18/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/33207/33207-1677617683.pdf,false
-EBONYI,IKWO,,IZZAMGBO AGALEGU PRIMARY SCHOOL,11/07/18/005,,false
+EBONYI,IKWO,NDUFU ALIKE,ONYIKWA C.S.P,11/07/18/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/33212/33212-1677653479.pdf,false
+EBONYI,IKWO,NDUFU ALIKE,OMEGE PLAY GROUND,11/07/18/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/139002/139002-1677639343.pdf,true
+EBONYI,IKWO,NDUFU ALIKE,EBIAJI PLAY GROUND,11/07/18/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/139001/139001-1677639201.pdf,true
+EBONYI,IKWO,NDUFU ALIKE,ISLAND PRI MARY SCHOOL,11/07/18/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/139000/139000-1677639034.pdf,true
+EBONYI,IKWO,NDUFU ALIKE,NDIEGUAZU OHAUKWU,11/07/18/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/138999/138999-1677638914.pdf,true
+EBONYI,IKWO,NDUFU ALIKE,ENYINWE-EGU EDUKWU OFURA,11/07/18/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/138998/138998-1677638788.pdf,true
+EBONYI,IKWO,NDUFU ALIKE,OHATEKWE,11/07/18/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/138997/138997-1677638662.pdf,true
+EBONYI,IKWO,NDUFU ALIKE,EDUKWU OPOKE PLAY GROUND,11/07/18/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/138996/138996-1677638554.pdf,true
+EBONYI,IKWO,NDUFU ALIKE,NDIODOMA,11/07/18/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/138995/138995-1677638438.pdf,true
+EBONYI,IKWO,NDUFU ALIKE,NDIEGUAZU ENYIM,11/07/18/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/138994/138994-1677620540.pdf,false
+EBONYI,IKWO,NDUFU ALIKE,U.C.S NWAKPU II,11/07/18/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/138993/138993-1677620422.pdf,false
+EBONYI,IKWO,NDUFU ALIKE,NDIOVA PLAY GROUND,11/07/18/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/138992/138992-1677620078.pdf,false
+EBONYI,IKWO,NDUFU ALIKE,UKWUINYIMA AGALEGU C.S.P II,11/07/18/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/33217/33217-1677619871.pdf,true
+EBONYI,IKWO,NDUFU ALIKE,UKWUINYIMA AGALEGU C.S.P I,11/07/18/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/33216/33216-1677619705.pdf,false
+EBONYI,IKWO,NDUFU ALIKE,ENYIMCHUKWU PLAY GROUND,11/07/18/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/33215/33215-1677619452.pdf,false
+EBONYI,IKWO,NDUFU ALIKE,UGWUAFOR VILLAGE PLAY GROUND,11/07/18/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/33214/33214-1677619341.pdf,true
+EBONYI,IKWO,NDUFU ALIKE,NGAMGBO OZABE PLAY GROUND,11/07/18/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/33213/33213-1677619182.pdf,false
+EBONYI,IKWO,NDUFU ALIKE,ENYIM AGALEGU PLAY GROUND,11/07/18/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/33210/33210-1677618314.pdf,false
+EBONYI,IKWO,NDUFU ALIKE,NWAKPU MARKET SQUARE II,11/07/18/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/33209/33209-1677618049.pdf,false
+EBONYI,IKWO,NDUFU ALIKE,NWAKPU MARKET SQUARE I,11/07/18/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/33208/33208-1677617917.pdf,false
+EBONYI,IKWO,NDUFU ALIKE,UMUNNATO C.S NWAKPU,11/07/18/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20048/pu/33207/33207-1677617683.pdf,false
+EBONYI,IKWO,NDUFU ALIKE,IZZAMGBO AGALEGU PRIMARY SCHOOL,11/07/18/005,,false

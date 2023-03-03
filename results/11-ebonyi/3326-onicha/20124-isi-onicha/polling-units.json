@@ -26,6 +26,7 @@
     "pu_code_string": "111307015",
     "state_name": "EBONYI",
     "lga_name": "ONICHA",
+    "ward_name": "ISI-ONICHA",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "111307003",
     "state_name": "EBONYI",
     "lga_name": "ONICHA",
+    "ward_name": "ISI-ONICHA",
     "document": {
       "external": false,
       "status": 1,
@@ -111,6 +113,7 @@
     "pu_code_string": "111307013",
     "state_name": "EBONYI",
     "lga_name": "ONICHA",
+    "ward_name": "ISI-ONICHA",
     "document": {
       "external": false,
       "status": 1,
@@ -158,6 +161,7 @@
     "pu_code_string": "111307001",
     "state_name": "EBONYI",
     "lga_name": "ONICHA",
+    "ward_name": "ISI-ONICHA",
     "document": {
       "external": false,
       "status": 1,
@@ -196,6 +200,7 @@
     "pu_code_string": "111307009",
     "state_name": "EBONYI",
     "lga_name": "ONICHA",
+    "ward_name": "ISI-ONICHA",
     "document": {
       "external": false,
       "status": 1,
@@ -234,6 +239,7 @@
     "pu_code_string": "111307002",
     "state_name": "EBONYI",
     "lga_name": "ONICHA",
+    "ward_name": "ISI-ONICHA",
     "document": {
       "external": false,
       "status": 1,
@@ -281,6 +287,7 @@
     "pu_code_string": "111307008",
     "state_name": "EBONYI",
     "lga_name": "ONICHA",
+    "ward_name": "ISI-ONICHA",
     "document": {
       "external": false,
       "status": 1,
@@ -328,6 +335,7 @@
     "pu_code_string": "111307006",
     "state_name": "EBONYI",
     "lga_name": "ONICHA",
+    "ward_name": "ISI-ONICHA",
     "document": {
       "external": true,
       "status": 1,
@@ -366,6 +374,7 @@
     "pu_code_string": "111307005",
     "state_name": "EBONYI",
     "lga_name": "ONICHA",
+    "ward_name": "ISI-ONICHA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -396,6 +405,7 @@
     "pu_code_string": "111307010",
     "state_name": "EBONYI",
     "lga_name": "ONICHA",
+    "ward_name": "ISI-ONICHA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -426,6 +436,7 @@
     "pu_code_string": "111307004",
     "state_name": "EBONYI",
     "lga_name": "ONICHA",
+    "ward_name": "ISI-ONICHA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -456,6 +467,7 @@
     "pu_code_string": "111307007",
     "state_name": "EBONYI",
     "lga_name": "ONICHA",
+    "ward_name": "ISI-ONICHA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -486,6 +498,7 @@
     "pu_code_string": "111307014",
     "state_name": "EBONYI",
     "lga_name": "ONICHA",
+    "ward_name": "ISI-ONICHA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -516,6 +529,7 @@
     "pu_code_string": "111307012",
     "state_name": "EBONYI",
     "lga_name": "ONICHA",
+    "ward_name": "ISI-ONICHA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -546,6 +560,7 @@
     "pu_code_string": "111307011",
     "state_name": "EBONYI",
     "lga_name": "ONICHA",
+    "ward_name": "ISI-ONICHA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -576,6 +591,7 @@
     "pu_code_string": "111307016",
     "state_name": "EBONYI",
     "lga_name": "ONICHA",
+    "ward_name": "ISI-ONICHA",
     "old_documents": [],
     "has_old_documents": false
   }

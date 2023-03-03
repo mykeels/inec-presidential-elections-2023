@@ -1,23 +1,23 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EBONYI,IZZI,,OGUZORONWEYA PRIMARY SCHOOL,11/10/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33602/result_151177_1677678212_thumb.jpg,false
-EBONYI,IZZI,,ACHACHA PRIMARY SCHOOL II,11/10/09/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33614/result_151189_1677601034_thumb.jpg,false
-EBONYI,IZZI,,NDIECHI NDIAGU PRIMARY SCHOOL,11/10/09/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33615/result_151190_1677600971_thumb.jpg,false
-EBONYI,IZZI,,ACHACHA PRIMARY SCHOOL I,11/10/09/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33613/result_151188_1677600822_thumb.jpg,false
-EBONYI,IZZI,,EDUFFU OBEGU VIL. SQ.,11/10/09/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631843/result_151192_1677600782_thumb.jpg,false
-EBONYI,IZZI,,NDIEZOKE PRIMARY SCHOOL II,11/10/09/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33612/result_151187_1677600725_thumb.jpg,false
-EBONYI,IZZI,,NDIEZOKE PRIMARY SCHOOL I,11/10/09/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-EBONYI,IZZI,,OCHAFU PRIMARY SCHOOL,11/10/09/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33610/result_151185_1677600227_thumb.jpg,false
-EBONYI,IZZI,,OKWATA PRIMARY SCHOOL,11/10/09/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33609/result_151184_1677600037_thumb.jpg,false
-EBONYI,IZZI,,NCHOKO VIL SQ. II,11/10/09/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631844/result_151193_1677599972_thumb.jpg,false
-EBONYI,IZZI,,OFEREKPE PRIMARY SCHOOL II,11/10/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33608/result_151183_1677599851_thumb.jpg,false
-EBONYI,IZZI,,OFEREKPE PRIMARY SCHOOL I,11/10/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33607/result_151182_1677599619_thumb.jpg,false
-EBONYI,IZZI,,ALIBARUHU VILLAGE HALL,11/10/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33606/result_151181_1677599301_thumb.jpg,false
-EBONYI,IZZI,,EDUKWU EREKE V/SQ,11/10/09/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631845/result_151194_1677599280_thumb.jpg,false
-EBONYI,IZZI,,NDIALOBO VILLAGE HALL,11/10/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33605/result_151180_1677598952_thumb.jpg,false
-EBONYI,IZZI,,NDIAKPURATA OGUZORONWEYA MKT. SQ.,11/10/09/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631846/result_151195_1677598567_thumb.jpg,false
-EBONYI,IZZI,,NDIETTA VILLAGE,11/10/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33604/result_151179_1677598123_thumb.jpg,false
-EBONYI,IZZI,,JUNCTION PRIMARY SCHOOL,11/10/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-EBONYI,IZZI,,NCHOKO VILLAGE SQUARE,11/10/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33601/result_151176_1677597453_thumb.jpg,false
-EBONYI,IZZI,,NDIECHI ONUEBONYI PRIMARY SCHOOL,11/10/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-EBONYI,IZZI,,NDIOFUTU VILLAGE SQUARE,11/10/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33599/result_151174_1677595965_thumb.jpg,false
-EBONYI,IZZI,,EDUKWU MEETING,11/10/09/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/09/pu/018/018-1677362810.pdf,false
+EBONYI,IZZI,IGBEAGU NDI ETTAH,OGUZORONWEYA PRIMARY SCHOOL,11/10/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33602/result_151177_1677678212_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU NDI ETTAH,ACHACHA PRIMARY SCHOOL II,11/10/09/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33614/result_151189_1677601034_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU NDI ETTAH,NDIECHI NDIAGU PRIMARY SCHOOL,11/10/09/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33615/result_151190_1677600971_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU NDI ETTAH,ACHACHA PRIMARY SCHOOL I,11/10/09/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33613/result_151188_1677600822_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU NDI ETTAH,EDUFFU OBEGU VIL. SQ.,11/10/09/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631843/result_151192_1677600782_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU NDI ETTAH,NDIEZOKE PRIMARY SCHOOL II,11/10/09/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33612/result_151187_1677600725_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU NDI ETTAH,NDIEZOKE PRIMARY SCHOOL I,11/10/09/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+EBONYI,IZZI,IGBEAGU NDI ETTAH,OCHAFU PRIMARY SCHOOL,11/10/09/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33610/result_151185_1677600227_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU NDI ETTAH,OKWATA PRIMARY SCHOOL,11/10/09/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33609/result_151184_1677600037_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU NDI ETTAH,NCHOKO VIL SQ. II,11/10/09/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631844/result_151193_1677599972_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU NDI ETTAH,OFEREKPE PRIMARY SCHOOL II,11/10/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33608/result_151183_1677599851_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU NDI ETTAH,OFEREKPE PRIMARY SCHOOL I,11/10/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33607/result_151182_1677599619_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU NDI ETTAH,ALIBARUHU VILLAGE HALL,11/10/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33606/result_151181_1677599301_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU NDI ETTAH,EDUKWU EREKE V/SQ,11/10/09/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631845/result_151194_1677599280_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU NDI ETTAH,NDIALOBO VILLAGE HALL,11/10/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33605/result_151180_1677598952_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU NDI ETTAH,NDIAKPURATA OGUZORONWEYA MKT. SQ.,11/10/09/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631846/result_151195_1677598567_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU NDI ETTAH,NDIETTA VILLAGE,11/10/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33604/result_151179_1677598123_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU NDI ETTAH,JUNCTION PRIMARY SCHOOL,11/10/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+EBONYI,IZZI,IGBEAGU NDI ETTAH,NCHOKO VILLAGE SQUARE,11/10/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33601/result_151176_1677597453_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU NDI ETTAH,NDIECHI ONUEBONYI PRIMARY SCHOOL,11/10/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+EBONYI,IZZI,IGBEAGU NDI ETTAH,NDIOFUTU VILLAGE SQUARE,11/10/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33599/result_151174_1677595965_thumb.jpg,false
+EBONYI,IZZI,IGBEAGU NDI ETTAH,EDUKWU MEETING,11/10/09/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/09/pu/018/018-1677362810.pdf,false

@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EBONYI,EZZA NORTH,,AMAWULA  VILLAGE SQUARE,11/05/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20009/pu/32803/32803-1677686197.pdf,false
-EBONYI,EZZA NORTH,,AMAWULA  TOWN HALL II,11/05/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20009/pu/32802/32802-1677684760.pdf,false
-EBONYI,EZZA NORTH,,AMAWULA TOWN HALL I,11/05/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20009/pu/32801/32801-1677684030.pdf,false
-EBONYI,EZZA NORTH,,NWANKWO ACHI/CENTRAL SCHOOL AMAWULA,11/05/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20009/pu/32800/32800-1677683615.pdf,false
-EBONYI,EZZA NORTH,,COMM. SCHOOL AMAWULA,11/05/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20009/pu/32799/32799-1677683277.pdf,false
-EBONYI,EZZA NORTH,,NDIAGU NWAKPARATA,11/05/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20009/pu/32798/32798-1677682303.pdf,false
-EBONYI,EZZA NORTH,,NDIAGU UKORO TOWN HALL,11/05/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20009/pu/32797/32797-1677680762.pdf,true
-EBONYI,EZZA NORTH,,EBUKU AMUDA,11/05/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20009/pu/32796/32796-1677680207.pdf,false
-EBONYI,EZZA NORTH,,NWANKWO AMUDA,11/05/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20009/pu/32795/32795-1677679578.pdf,false
-EBONYI,EZZA NORTH,,C.P.S. NDIABORA,11/05/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20009/pu/32794/32794-1677678885.pdf,false
-EBONYI,EZZA NORTH,,CENTRAL SCHOOL AMUDA,11/05/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20009/pu/32793/32793-1677518608.pdf,false
+EBONYI,EZZA NORTH,AMUDA / AMAWULA,AMAWULA  VILLAGE SQUARE,11/05/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20009/pu/32803/32803-1677686197.pdf,false
+EBONYI,EZZA NORTH,AMUDA / AMAWULA,AMAWULA  TOWN HALL II,11/05/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20009/pu/32802/32802-1677684760.pdf,false
+EBONYI,EZZA NORTH,AMUDA / AMAWULA,AMAWULA TOWN HALL I,11/05/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20009/pu/32801/32801-1677684030.pdf,false
+EBONYI,EZZA NORTH,AMUDA / AMAWULA,NWANKWO ACHI/CENTRAL SCHOOL AMAWULA,11/05/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20009/pu/32800/32800-1677683615.pdf,false
+EBONYI,EZZA NORTH,AMUDA / AMAWULA,COMM. SCHOOL AMAWULA,11/05/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20009/pu/32799/32799-1677683277.pdf,false
+EBONYI,EZZA NORTH,AMUDA / AMAWULA,NDIAGU NWAKPARATA,11/05/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20009/pu/32798/32798-1677682303.pdf,false
+EBONYI,EZZA NORTH,AMUDA / AMAWULA,NDIAGU UKORO TOWN HALL,11/05/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20009/pu/32797/32797-1677680762.pdf,true
+EBONYI,EZZA NORTH,AMUDA / AMAWULA,EBUKU AMUDA,11/05/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20009/pu/32796/32796-1677680207.pdf,false
+EBONYI,EZZA NORTH,AMUDA / AMAWULA,NWANKWO AMUDA,11/05/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20009/pu/32795/32795-1677679578.pdf,false
+EBONYI,EZZA NORTH,AMUDA / AMAWULA,C.P.S. NDIABORA,11/05/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20009/pu/32794/32794-1677678885.pdf,false
+EBONYI,EZZA NORTH,AMUDA / AMAWULA,CENTRAL SCHOOL AMUDA,11/05/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20009/pu/32793/32793-1677518608.pdf,false

@@ -26,6 +26,7 @@
     "pu_code_string": "110813003",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "OBEAGU",
     "document": {
       "external": false,
       "status": 1,
@@ -89,6 +90,7 @@
     "pu_code_string": "110813007",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "OBEAGU",
     "document": {
       "external": false,
       "status": 1,
@@ -152,6 +154,7 @@
     "pu_code_string": "110813010",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "OBEAGU",
     "document": {
       "external": true,
       "status": 1,
@@ -190,6 +193,7 @@
     "pu_code_string": "110813005",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "OBEAGU",
     "document": {
       "external": true,
       "status": 1,
@@ -228,6 +232,7 @@
     "pu_code_string": "110813001",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "OBEAGU",
     "document": {
       "external": true,
       "status": 1,
@@ -266,6 +271,7 @@
     "pu_code_string": "110813002",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "OBEAGU",
     "document": {
       "external": true,
       "status": 1,
@@ -304,6 +310,7 @@
     "pu_code_string": "110813004",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "OBEAGU",
     "document": {
       "external": true,
       "status": 1,
@@ -351,6 +358,7 @@
     "pu_code_string": "110813008",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "OBEAGU",
     "document": {
       "external": true,
       "status": 1,
@@ -389,6 +397,7 @@
     "pu_code_string": "110813006",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "OBEAGU",
     "document": {
       "external": true,
       "status": 1,
@@ -436,6 +445,7 @@
     "pu_code_string": "110813009",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "OBEAGU",
     "document": {
       "external": false,
       "status": 1,

@@ -26,6 +26,7 @@
     "pu_code_string": "110807003",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZZAGU I (OGBOJI)",
     "document": {
       "external": true,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "110807015",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZZAGU I (OGBOJI)",
     "document": {
       "external": true,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "110807004",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZZAGU I (OGBOJI)",
     "document": {
       "external": true,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "110807007",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZZAGU I (OGBOJI)",
     "document": {
       "external": true,
       "status": 1,
@@ -187,6 +191,7 @@
     "pu_code_string": "110807008",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZZAGU I (OGBOJI)",
     "document": {
       "external": true,
       "status": 1,
@@ -234,6 +239,7 @@
     "pu_code_string": "110807012",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZZAGU I (OGBOJI)",
     "document": {
       "external": true,
       "status": 1,
@@ -313,6 +319,7 @@
     "pu_code_string": "110807005",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZZAGU I (OGBOJI)",
     "document": {
       "external": true,
       "status": 1,
@@ -368,6 +375,7 @@
     "pu_code_string": "110807006",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZZAGU I (OGBOJI)",
     "document": {
       "external": false,
       "status": 1,
@@ -431,6 +439,7 @@
     "pu_code_string": "110807021",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZZAGU I (OGBOJI)",
     "document": {
       "external": true,
       "status": 1,
@@ -469,6 +478,7 @@
     "pu_code_string": "110807018",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZZAGU I (OGBOJI)",
     "document": {
       "external": false,
       "status": 1,
@@ -507,6 +517,7 @@
     "pu_code_string": "110807009",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZZAGU I (OGBOJI)",
     "document": {
       "external": true,
       "status": 1,
@@ -545,6 +556,7 @@
     "pu_code_string": "110807014",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZZAGU I (OGBOJI)",
     "document": {
       "external": false,
       "status": 1,
@@ -592,6 +604,7 @@
     "pu_code_string": "110807011",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZZAGU I (OGBOJI)",
     "document": {
       "external": true,
       "status": 1,
@@ -630,6 +643,7 @@
     "pu_code_string": "110807017",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZZAGU I (OGBOJI)",
     "document": {
       "external": true,
       "status": 1,
@@ -677,6 +691,7 @@
     "pu_code_string": "110807010",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZZAGU I (OGBOJI)",
     "document": {
       "external": false,
       "status": 1,
@@ -715,6 +730,7 @@
     "pu_code_string": "110807001",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZZAGU I (OGBOJI)",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -745,6 +761,7 @@
     "pu_code_string": "110807016",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZZAGU I (OGBOJI)",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -775,6 +792,7 @@
     "pu_code_string": "110807019",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZZAGU I (OGBOJI)",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -805,6 +823,7 @@
     "pu_code_string": "110807002",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZZAGU I (OGBOJI)",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -835,6 +854,7 @@
     "pu_code_string": "110807020",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZZAGU I (OGBOJI)",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -865,6 +885,7 @@
     "pu_code_string": "110807013",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZZAGU I (OGBOJI)",
     "old_documents": [],
     "has_old_documents": false
   }

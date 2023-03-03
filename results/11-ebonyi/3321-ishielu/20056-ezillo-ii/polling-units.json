@@ -26,6 +26,7 @@
     "pu_code_string": "110806007",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZILLO II",
     "document": {
       "external": true,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "110806013",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZILLO II",
     "document": {
       "external": true,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "110806002",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZILLO II",
     "document": {
       "external": true,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "110806011",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZILLO II",
     "document": {
       "external": true,
       "status": 1,
@@ -203,6 +207,7 @@
     "pu_code_string": "110806008",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZILLO II",
     "document": {
       "external": true,
       "status": 1,
@@ -241,6 +246,7 @@
     "pu_code_string": "110806004",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZILLO II",
     "document": {
       "external": true,
       "status": 1,
@@ -279,6 +285,7 @@
     "pu_code_string": "110806009",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZILLO II",
     "document": {
       "external": true,
       "status": 1,
@@ -317,6 +324,7 @@
     "pu_code_string": "110806010",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZILLO II",
     "document": {
       "external": true,
       "status": 1,
@@ -355,6 +363,7 @@
     "pu_code_string": "110806005",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZILLO II",
     "document": {
       "external": true,
       "status": 1,
@@ -393,6 +402,7 @@
     "pu_code_string": "110806003",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZILLO II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -423,6 +433,7 @@
     "pu_code_string": "110806001",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZILLO II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -453,6 +464,7 @@
     "pu_code_string": "110806006",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZILLO II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -483,6 +495,7 @@
     "pu_code_string": "110806014",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZILLO II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -513,6 +526,7 @@
     "pu_code_string": "110806012",
     "state_name": "EBONYI",
     "lga_name": "ISHIELU",
+    "ward_name": "EZILLO II",
     "old_documents": [],
     "has_old_documents": false
   }

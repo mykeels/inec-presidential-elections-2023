@@ -1,16 +1,16 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EBONYI,ABAKALIKI,,AKPANYA VILLAGE SQUARE,11/01/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19961/pu/32313/32313-1677675744.pdf,false
-EBONYI,ABAKALIKI,,OKARIA PRIMARY SCHOOL,11/01/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19961/pu/138401/138401-1677592725.pdf,true
-EBONYI,ABAKALIKI,,OHABELE PLAY GROUND,11/01/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19961/pu/32305/32305-1677591894.pdf,false
-EBONYI,ABAKALIKI,,ONYIKWA VILL. SQUARE,11/01/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19961/pu/32307/32307-1677591322.pdf,false
-EBONYI,ABAKALIKI,,OBEAGU IBOM MKT SQ,11/01/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19961/pu/138402/138402-1677584081.pdf,false
-EBONYI,ABAKALIKI,,OBEAGU IBOM VILLAGE SQUARE,11/01/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19961/pu/32308/32308-1677503884.pdf,false
-EBONYI,ABAKALIKI,,AKPE PRIMARY SCHOOL,11/01/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/3/6/3/6-1677428225.pdf,false
-EBONYI,ABAKALIKI,,OFIAOKU PRIMARY SCHOOL,11/01/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/014/014-1677426253.pdf,false
-EBONYI,ABAKALIKI,,ONYIRIGBO PRIMARY SCHOOL,11/01/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/3/8/3/8-1677425455.pdf,false
-EBONYI,ABAKALIKI,,OFIAOKU PLAY GROUND,11/01/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/3/7/3/7-1677424948.pdf,false
-EBONYI,ABAKALIKI,,ETE VILLAGE SQUARE,11/01/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/3/9/3/9-1677417360.pdf,false
-EBONYI,ABAKALIKI,,IJAGA PLAY GROUND,11/01/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/3/1/3/1-1677415037.pdf,false
-EBONYI,ABAKALIKI,,AMETTA MARKET SQ.,11/01/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/015/015-1677412674.pdf,false
-EBONYI,ABAKALIKI,,OKARIA MKT SQUARE,11/01/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/3/3/3/3-1677408162.pdf,false
-EBONYI,ABAKALIKI,,EDUKWU OFFIA AKPE P/G,11/01/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/013/013-1677361345.pdf,false
+EBONYI,ABAKALIKI,AMACHI (NDEGU),AKPANYA VILLAGE SQUARE,11/01/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19961/pu/32313/32313-1677675744.pdf,false
+EBONYI,ABAKALIKI,AMACHI (NDEGU),OKARIA PRIMARY SCHOOL,11/01/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19961/pu/138401/138401-1677592725.pdf,true
+EBONYI,ABAKALIKI,AMACHI (NDEGU),OHABELE PLAY GROUND,11/01/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19961/pu/32305/32305-1677591894.pdf,false
+EBONYI,ABAKALIKI,AMACHI (NDEGU),ONYIKWA VILL. SQUARE,11/01/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19961/pu/32307/32307-1677591322.pdf,false
+EBONYI,ABAKALIKI,AMACHI (NDEGU),OBEAGU IBOM MKT SQ,11/01/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19961/pu/138402/138402-1677584081.pdf,false
+EBONYI,ABAKALIKI,AMACHI (NDEGU),OBEAGU IBOM VILLAGE SQUARE,11/01/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3314/ward/19961/pu/32308/32308-1677503884.pdf,false
+EBONYI,ABAKALIKI,AMACHI (NDEGU),AKPE PRIMARY SCHOOL,11/01/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/3/6/3/6-1677428225.pdf,false
+EBONYI,ABAKALIKI,AMACHI (NDEGU),OFIAOKU PRIMARY SCHOOL,11/01/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/014/014-1677426253.pdf,false
+EBONYI,ABAKALIKI,AMACHI (NDEGU),ONYIRIGBO PRIMARY SCHOOL,11/01/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/3/8/3/8-1677425455.pdf,false
+EBONYI,ABAKALIKI,AMACHI (NDEGU),OFIAOKU PLAY GROUND,11/01/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/3/7/3/7-1677424948.pdf,false
+EBONYI,ABAKALIKI,AMACHI (NDEGU),ETE VILLAGE SQUARE,11/01/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/3/9/3/9-1677417360.pdf,false
+EBONYI,ABAKALIKI,AMACHI (NDEGU),IJAGA PLAY GROUND,11/01/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/3/1/3/1-1677415037.pdf,false
+EBONYI,ABAKALIKI,AMACHI (NDEGU),AMETTA MARKET SQ.,11/01/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/015/015-1677412674.pdf,false
+EBONYI,ABAKALIKI,AMACHI (NDEGU),OKARIA MKT SQUARE,11/01/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/3/3/3/3-1677408162.pdf,false
+EBONYI,ABAKALIKI,AMACHI (NDEGU),EDUKWU OFFIA AKPE P/G,11/01/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/03/pu/013/013-1677361345.pdf,false

@@ -26,6 +26,7 @@
     "pu_code_string": "110707006",
     "state_name": "EBONYI",
     "lga_name": "IKWO",
+    "ward_name": "ETAM",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "110707005",
     "state_name": "EBONYI",
     "lga_name": "IKWO",
+    "ward_name": "ETAM",
     "document": {
       "external": false,
       "status": 1,
@@ -111,6 +113,7 @@
     "pu_code_string": "110707004",
     "state_name": "EBONYI",
     "lga_name": "IKWO",
+    "ward_name": "ETAM",
     "document": {
       "external": false,
       "status": 1,
@@ -158,6 +161,7 @@
     "pu_code_string": "110707007",
     "state_name": "EBONYI",
     "lga_name": "IKWO",
+    "ward_name": "ETAM",
     "document": {
       "external": false,
       "status": 1,
@@ -196,6 +200,7 @@
     "pu_code_string": "110707003",
     "state_name": "EBONYI",
     "lga_name": "IKWO",
+    "ward_name": "ETAM",
     "document": {
       "external": false,
       "status": 1,
@@ -234,6 +239,7 @@
     "pu_code_string": "110707002",
     "state_name": "EBONYI",
     "lga_name": "IKWO",
+    "ward_name": "ETAM",
     "document": {
       "external": false,
       "status": 1,
@@ -272,6 +278,7 @@
     "pu_code_string": "110707012",
     "state_name": "EBONYI",
     "lga_name": "IKWO",
+    "ward_name": "ETAM",
     "document": {
       "external": false,
       "status": 1,
@@ -310,6 +317,7 @@
     "pu_code_string": "110707011",
     "state_name": "EBONYI",
     "lga_name": "IKWO",
+    "ward_name": "ETAM",
     "document": {
       "external": false,
       "status": 1,
@@ -348,6 +356,7 @@
     "pu_code_string": "110707010",
     "state_name": "EBONYI",
     "lga_name": "IKWO",
+    "ward_name": "ETAM",
     "document": {
       "external": false,
       "status": 1,
@@ -386,6 +395,7 @@
     "pu_code_string": "110707009",
     "state_name": "EBONYI",
     "lga_name": "IKWO",
+    "ward_name": "ETAM",
     "document": {
       "external": false,
       "status": 1,
@@ -424,6 +434,7 @@
     "pu_code_string": "110707008",
     "state_name": "EBONYI",
     "lga_name": "IKWO",
+    "ward_name": "ETAM",
     "document": {
       "external": false,
       "status": 1,
@@ -462,6 +473,7 @@
     "pu_code_string": "110707001",
     "state_name": "EBONYI",
     "lga_name": "IKWO",
+    "ward_name": "ETAM",
     "document": {
       "external": false,
       "status": 1,
@@ -509,6 +521,7 @@
     "pu_code_string": "110707013",
     "state_name": "EBONYI",
     "lga_name": "IKWO",
+    "ward_name": "ETAM",
     "old_documents": [],
     "has_old_documents": false
   }

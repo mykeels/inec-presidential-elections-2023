@@ -26,6 +26,7 @@
     "pu_code_string": "110911006",
     "state_name": "EBONYI",
     "lga_name": "IVO",
+    "ward_name": "UMOBO",
     "document": {
       "external": true,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "110911005",
     "state_name": "EBONYI",
     "lga_name": "IVO",
+    "ward_name": "UMOBO",
     "document": {
       "external": true,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "110911011",
     "state_name": "EBONYI",
     "lga_name": "IVO",
+    "ward_name": "UMOBO",
     "document": {
       "external": false,
       "status": 1,
@@ -157,6 +160,7 @@
     "pu_code_string": "110911008",
     "state_name": "EBONYI",
     "lga_name": "IVO",
+    "ward_name": "UMOBO",
     "document": {
       "external": false,
       "status": 1,
@@ -204,6 +208,7 @@
     "pu_code_string": "110911009",
     "state_name": "EBONYI",
     "lga_name": "IVO",
+    "ward_name": "UMOBO",
     "document": {
       "external": true,
       "status": 1,
@@ -242,6 +247,7 @@
     "pu_code_string": "110911010",
     "state_name": "EBONYI",
     "lga_name": "IVO",
+    "ward_name": "UMOBO",
     "document": {
       "external": true,
       "status": 1,
@@ -280,6 +286,7 @@
     "pu_code_string": "110911007",
     "state_name": "EBONYI",
     "lga_name": "IVO",
+    "ward_name": "UMOBO",
     "document": {
       "external": true,
       "status": 1,
@@ -318,6 +325,7 @@
     "pu_code_string": "110911004",
     "state_name": "EBONYI",
     "lga_name": "IVO",
+    "ward_name": "UMOBO",
     "document": {
       "external": true,
       "status": 1,
@@ -356,6 +364,7 @@
     "pu_code_string": "110911003",
     "state_name": "EBONYI",
     "lga_name": "IVO",
+    "ward_name": "UMOBO",
     "document": {
       "external": true,
       "status": 1,
@@ -394,6 +403,7 @@
     "pu_code_string": "110911002",
     "state_name": "EBONYI",
     "lga_name": "IVO",
+    "ward_name": "UMOBO",
     "document": {
       "external": true,
       "status": 1,
@@ -432,6 +442,7 @@
     "pu_code_string": "110911001",
     "state_name": "EBONYI",
     "lga_name": "IVO",
+    "ward_name": "UMOBO",
     "document": {
       "external": true,
       "status": 1,

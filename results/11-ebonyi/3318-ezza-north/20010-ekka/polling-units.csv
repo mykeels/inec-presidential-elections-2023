@@ -1,17 +1,17 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EBONYI,EZZA NORTH,,NGAMGBO-MGBO EKKA,11/05/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/32811/32811-1677770011.pdf,false
-EBONYI,EZZA NORTH,,IGWEBUIKE PRI. SCHOOL,11/05/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/138763/138763-1677769773.pdf,false
-EBONYI,EZZA NORTH,,EKKA VILLAGE HALL,11/05/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/32804/32804-1677769748.pdf,false
-EBONYI,EZZA NORTH,,ENYIBICHIRI HALL EKKA,11/05/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/32808/32808-1677769598.pdf,false
-EBONYI,EZZA NORTH,,ECHIEMAMA ROAD NDUFU,11/05/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/138760/138760-1677769297.pdf,false
-EBONYI,EZZA NORTH,,NGAMGBO UMUAKAM,11/05/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/138761/138761-1677769011.pdf,false
-EBONYI,EZZA NORTH,,NGAMGBO EKWUANUA,11/05/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/138762/138762-1677689546.pdf,true
-EBONYI,EZZA NORTH,,COMM. SCHOOL EKKA,11/05/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/32807/32807-1677688383.pdf,false
-EBONYI,EZZA NORTH,,NGAMGBO OKWORIKE,11/05/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/32809/32809-1677687961.pdf,false
-EBONYI,EZZA NORTH,,IGBUDU EKKA,11/05/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/32805/32805-1677687592.pdf,false
-EBONYI,EZZA NORTH,,NWAFOR ISHIENYI,11/05/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/32810/32810-1677686300.pdf,false
-EBONYI,EZZA NORTH,,UMUOBI EKKA HALL,11/05/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/32814/32814-1677685312.pdf,false
-EBONYI,EZZA NORTH,,NGAMGBO AGASHI,11/05/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/32813/32813-1677682984.pdf,true
-EBONYI,EZZA NORTH,,INTEGRATION PRIMARY SCHOOL,11/05/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/32812/32812-1677682483.pdf,false
-EBONYI,EZZA NORTH,,NGAMGBO EBUSIEIKE,11/05/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/138764/138764-1677681337.pdf,true
-EBONYI,EZZA NORTH,,OSUSARA,11/05/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/32806/32806-1677679888.pdf,false
+EBONYI,EZZA NORTH,EKKA,NGAMGBO-MGBO EKKA,11/05/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/32811/32811-1677770011.pdf,false
+EBONYI,EZZA NORTH,EKKA,IGWEBUIKE PRI. SCHOOL,11/05/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/138763/138763-1677769773.pdf,false
+EBONYI,EZZA NORTH,EKKA,EKKA VILLAGE HALL,11/05/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/32804/32804-1677769748.pdf,false
+EBONYI,EZZA NORTH,EKKA,ENYIBICHIRI HALL EKKA,11/05/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/32808/32808-1677769598.pdf,false
+EBONYI,EZZA NORTH,EKKA,ECHIEMAMA ROAD NDUFU,11/05/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/138760/138760-1677769297.pdf,false
+EBONYI,EZZA NORTH,EKKA,NGAMGBO UMUAKAM,11/05/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/138761/138761-1677769011.pdf,false
+EBONYI,EZZA NORTH,EKKA,NGAMGBO EKWUANUA,11/05/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/138762/138762-1677689546.pdf,true
+EBONYI,EZZA NORTH,EKKA,COMM. SCHOOL EKKA,11/05/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/32807/32807-1677688383.pdf,false
+EBONYI,EZZA NORTH,EKKA,NGAMGBO OKWORIKE,11/05/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/32809/32809-1677687961.pdf,false
+EBONYI,EZZA NORTH,EKKA,IGBUDU EKKA,11/05/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/32805/32805-1677687592.pdf,false
+EBONYI,EZZA NORTH,EKKA,NWAFOR ISHIENYI,11/05/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/32810/32810-1677686300.pdf,false
+EBONYI,EZZA NORTH,EKKA,UMUOBI EKKA HALL,11/05/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/32814/32814-1677685312.pdf,false
+EBONYI,EZZA NORTH,EKKA,NGAMGBO AGASHI,11/05/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/32813/32813-1677682984.pdf,true
+EBONYI,EZZA NORTH,EKKA,INTEGRATION PRIMARY SCHOOL,11/05/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/32812/32812-1677682483.pdf,false
+EBONYI,EZZA NORTH,EKKA,NGAMGBO EBUSIEIKE,11/05/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/138764/138764-1677681337.pdf,true
+EBONYI,EZZA NORTH,EKKA,OSUSARA,11/05/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3318/ward/20010/pu/32806/32806-1677679888.pdf,false

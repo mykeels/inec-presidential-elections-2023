@@ -26,6 +26,7 @@
     "pu_code_string": "110208003",
     "state_name": "EBONYI",
     "lga_name": "AFIKPO NORTH",
+    "ward_name": "OHAISU AFIKPO A",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "110208011",
     "state_name": "EBONYI",
     "lga_name": "AFIKPO NORTH",
+    "ward_name": "OHAISU AFIKPO A",
     "document": {
       "external": false,
       "status": 1,
@@ -111,6 +113,7 @@
     "pu_code_string": "110208015",
     "state_name": "EBONYI",
     "lga_name": "AFIKPO NORTH",
+    "ward_name": "OHAISU AFIKPO A",
     "document": {
       "external": false,
       "status": 1,
@@ -158,6 +161,7 @@
     "pu_code_string": "110208007",
     "state_name": "EBONYI",
     "lga_name": "AFIKPO NORTH",
+    "ward_name": "OHAISU AFIKPO A",
     "document": {
       "external": false,
       "status": 1,
@@ -221,6 +225,7 @@
     "pu_code_string": "110208005",
     "state_name": "EBONYI",
     "lga_name": "AFIKPO NORTH",
+    "ward_name": "OHAISU AFIKPO A",
     "document": {
       "external": false,
       "status": 1,
@@ -259,6 +264,7 @@
     "pu_code_string": "110208001",
     "state_name": "EBONYI",
     "lga_name": "AFIKPO NORTH",
+    "ward_name": "OHAISU AFIKPO A",
     "document": {
       "external": false,
       "status": 1,
@@ -306,6 +312,7 @@
     "pu_code_string": "110208006",
     "state_name": "EBONYI",
     "lga_name": "AFIKPO NORTH",
+    "ward_name": "OHAISU AFIKPO A",
     "document": {
       "external": false,
       "status": 1,
@@ -353,6 +360,7 @@
     "pu_code_string": "110208008",
     "state_name": "EBONYI",
     "lga_name": "AFIKPO NORTH",
+    "ward_name": "OHAISU AFIKPO A",
     "document": {
       "external": false,
       "status": 1,
@@ -400,6 +408,7 @@
     "pu_code_string": "110208014",
     "state_name": "EBONYI",
     "lga_name": "AFIKPO NORTH",
+    "ward_name": "OHAISU AFIKPO A",
     "document": {
       "external": false,
       "status": 1,
@@ -438,6 +447,7 @@
     "pu_code_string": "110208010",
     "state_name": "EBONYI",
     "lga_name": "AFIKPO NORTH",
+    "ward_name": "OHAISU AFIKPO A",
     "document": {
       "external": false,
       "status": 1,
@@ -485,6 +495,7 @@
     "pu_code_string": "110208002",
     "state_name": "EBONYI",
     "lga_name": "AFIKPO NORTH",
+    "ward_name": "OHAISU AFIKPO A",
     "document": {
       "external": false,
       "status": 1,
@@ -532,6 +543,7 @@
     "pu_code_string": "110208013",
     "state_name": "EBONYI",
     "lga_name": "AFIKPO NORTH",
+    "ward_name": "OHAISU AFIKPO A",
     "document": {
       "external": false,
       "status": 1,
@@ -570,6 +582,7 @@
     "pu_code_string": "110208004",
     "state_name": "EBONYI",
     "lga_name": "AFIKPO NORTH",
+    "ward_name": "OHAISU AFIKPO A",
     "document": {
       "external": false,
       "status": 1,
@@ -608,6 +621,7 @@
     "pu_code_string": "110208009",
     "state_name": "EBONYI",
     "lga_name": "AFIKPO NORTH",
+    "ward_name": "OHAISU AFIKPO A",
     "document": {
       "external": false,
       "status": 1,
@@ -646,6 +660,7 @@
     "pu_code_string": "110208016",
     "state_name": "EBONYI",
     "lga_name": "AFIKPO NORTH",
+    "ward_name": "OHAISU AFIKPO A",
     "document": {
       "external": false,
       "status": 1,
@@ -684,6 +699,7 @@
     "pu_code_string": "110208012",
     "state_name": "EBONYI",
     "lga_name": "AFIKPO NORTH",
+    "ward_name": "OHAISU AFIKPO A",
     "old_documents": [],
     "has_old_documents": false
   }

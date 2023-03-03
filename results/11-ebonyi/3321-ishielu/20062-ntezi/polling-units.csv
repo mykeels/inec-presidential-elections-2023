@@ -1,24 +1,24 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EBONYI,ISHIELU,,NTEZI CENTRAL SCHOOL II,11/08/12/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33341/result_150803_1677752002_thumb.jpg,false
-EBONYI,ISHIELU,,ODE MARKET SQUARE II,11/08/12/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/632241/result_150813_1677691580_thumb.jpg,false
-EBONYI,ISHIELU,,ODA BUS STOP,11/08/12/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33345/result_150807_1677691070_thumb.jpg,false
-EBONYI,ISHIELU,,NTEZI COMM. SEC. SCH. II,11/08/12/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/632251/result_150823_1677690723_thumb.jpg,false
-EBONYI,ISHIELU,,BILEDEBA C/PRIMARY SCHOOL PREMISES,11/08/12/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3321/ward/20062/pu/33352/33352-1677690645.pdf,false
-EBONYI,ISHIELU,,UHUMBA ALO PLAY GROUND,11/08/12/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3321/ward/20062/pu/139075/139075-1677689739.pdf,false
-EBONYI,ISHIELU,,EZZA EZEKUNA VILLAGE SQUARE,11/08/12/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33346/result_150808_1677689658_thumb.jpg,false
-EBONYI,ISHIELU,,UMUEZEOKOHA,11/08/12/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/632243/result_150815_1677587666_thumb.jpg,false
-EBONYI,ISHIELU,,UKWURATA AMATA V/SQ II,11/08/12/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/632245/result_150817_1677578631_thumb.jpg,false
-EBONYI,ISHIELU,,NGAMGBO EKPESU PLAY GROUND,11/08/12/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/632247/result_150819_1677590233_thumb.jpg,false
-EBONYI,ISHIELU,,AMAEFI PLAY GROUND,11/08/12/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/632249/result_150821_1677584173_thumb.jpg,false
-EBONYI,ISHIELU,,ORRI CAMPUS PRIMARY SCHOOL,11/08/12/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33347/result_150809_1677580670_thumb.jpg,false
-EBONYI,ISHIELU,,ODA BUS STOP II,11/08/12/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/632246/result_150818_1677589714_thumb.jpg,false
-EBONYI,ISHIELU,,EZEGU PLAY GROUND,11/08/12/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/632240/result_150812_1677579198_thumb.jpg,false
-EBONYI,ISHIELU,,OHAGE PLAY GROUND,11/08/12/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/632252/result_150824_1677589732_thumb.jpg,false
-EBONYI,ISHIELU,,ODE MARKET SQUARE I,11/08/12/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/632239/result_150811_1677580049_thumb.jpg,true
-EBONYI,ISHIELU,,NWAFOR EZZA MKT SQ,11/08/12/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/632250/result_150822_1677588202_thumb.jpg,false
-EBONYI,ISHIELU,,NTEZI CENTRAL SCHOOL I,11/08/12/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33340/result_150802_1677588640_thumb.jpg,false
-EBONYI,ISHIELU,,NTEZI COMM. SECONDARY SCHOOL,11/08/12/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3321/ward/20062/pu/33358/33358-1677581045.pdf,true
-EBONYI,ISHIELU,,AGUENYI P/G UMUEZEOKE,11/08/12/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3321/ward/20062/pu/139071/139071-1677580454.pdf,true
-EBONYI,ISHIELU,,NWEKE NDIAGU MKT SQ,11/08/12/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/12/pu/013/013-1677400723.pdf,false
-EBONYI,ISHIELU,,UKWAKWU AMATA VILLAGE SQUARE,11/08/12/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/12/pu/005/005-1677359912.pdf,false
-EBONYI,ISHIELU,,NTEZI ORRI COMM. SCHOOL,11/08/12/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/12/pu/004/004-1677358771.pdf,false
+EBONYI,ISHIELU,NTEZI,NTEZI CENTRAL SCHOOL II,11/08/12/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33341/result_150803_1677752002_thumb.jpg,false
+EBONYI,ISHIELU,NTEZI,ODE MARKET SQUARE II,11/08/12/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/632241/result_150813_1677691580_thumb.jpg,false
+EBONYI,ISHIELU,NTEZI,ODA BUS STOP,11/08/12/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33345/result_150807_1677691070_thumb.jpg,false
+EBONYI,ISHIELU,NTEZI,NTEZI COMM. SEC. SCH. II,11/08/12/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/632251/result_150823_1677690723_thumb.jpg,false
+EBONYI,ISHIELU,NTEZI,BILEDEBA C/PRIMARY SCHOOL PREMISES,11/08/12/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3321/ward/20062/pu/33352/33352-1677690645.pdf,false
+EBONYI,ISHIELU,NTEZI,UHUMBA ALO PLAY GROUND,11/08/12/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3321/ward/20062/pu/139075/139075-1677689739.pdf,false
+EBONYI,ISHIELU,NTEZI,EZZA EZEKUNA VILLAGE SQUARE,11/08/12/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33346/result_150808_1677689658_thumb.jpg,false
+EBONYI,ISHIELU,NTEZI,UMUEZEOKOHA,11/08/12/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/632243/result_150815_1677587666_thumb.jpg,false
+EBONYI,ISHIELU,NTEZI,UKWURATA AMATA V/SQ II,11/08/12/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/632245/result_150817_1677578631_thumb.jpg,false
+EBONYI,ISHIELU,NTEZI,NGAMGBO EKPESU PLAY GROUND,11/08/12/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/632247/result_150819_1677590233_thumb.jpg,false
+EBONYI,ISHIELU,NTEZI,AMAEFI PLAY GROUND,11/08/12/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/632249/result_150821_1677584173_thumb.jpg,false
+EBONYI,ISHIELU,NTEZI,ORRI CAMPUS PRIMARY SCHOOL,11/08/12/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33347/result_150809_1677580670_thumb.jpg,false
+EBONYI,ISHIELU,NTEZI,ODA BUS STOP II,11/08/12/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/632246/result_150818_1677589714_thumb.jpg,false
+EBONYI,ISHIELU,NTEZI,EZEGU PLAY GROUND,11/08/12/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/632240/result_150812_1677579198_thumb.jpg,false
+EBONYI,ISHIELU,NTEZI,OHAGE PLAY GROUND,11/08/12/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/632252/result_150824_1677589732_thumb.jpg,false
+EBONYI,ISHIELU,NTEZI,ODE MARKET SQUARE I,11/08/12/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/632239/result_150811_1677580049_thumb.jpg,true
+EBONYI,ISHIELU,NTEZI,NWAFOR EZZA MKT SQ,11/08/12/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/632250/result_150822_1677588202_thumb.jpg,false
+EBONYI,ISHIELU,NTEZI,NTEZI CENTRAL SCHOOL I,11/08/12/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/33340/result_150802_1677588640_thumb.jpg,false
+EBONYI,ISHIELU,NTEZI,NTEZI COMM. SECONDARY SCHOOL,11/08/12/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3321/ward/20062/pu/33358/33358-1677581045.pdf,true
+EBONYI,ISHIELU,NTEZI,AGUENYI P/G UMUEZEOKE,11/08/12/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3321/ward/20062/pu/139071/139071-1677580454.pdf,true
+EBONYI,ISHIELU,NTEZI,NWEKE NDIAGU MKT SQ,11/08/12/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/12/pu/013/013-1677400723.pdf,false
+EBONYI,ISHIELU,NTEZI,UKWAKWU AMATA VILLAGE SQUARE,11/08/12/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/12/pu/005/005-1677359912.pdf,false
+EBONYI,ISHIELU,NTEZI,NTEZI ORRI COMM. SCHOOL,11/08/12/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/12/pu/004/004-1677358771.pdf,false

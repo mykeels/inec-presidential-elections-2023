@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EBONYI,EZZA SOUTH,,AMEBIA VILLAGE SQUARE,11/06/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20026/pu/33000/33000-1677663159.pdf,false
-EBONYI,EZZA SOUTH,,NGAMGBO AKATAKA VILLAGE SQUARE I,11/06/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20026/pu/33001/33001-1677662542.pdf,false
-EBONYI,EZZA SOUTH,,EKEREIGWE VILLAGE SQUARE,11/06/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20026/pu/32999/32999-1677662282.pdf,true
-EBONYI,EZZA SOUTH,,AZUEBONYI ECHARA VILLAGE SQUARE II,11/06/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20026/pu/32998/32998-1677662027.pdf,false
-EBONYI,EZZA SOUTH,,AZUEBONYI ECHARA VILLAGE SQUARE I,11/06/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20026/pu/32997/32997-1677661814.pdf,false
-EBONYI,EZZA SOUTH,,CENTRAL SCHOOL ECHARA,11/06/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20026/pu/32996/32996-1677661500.pdf,true
-EBONYI,EZZA SOUTH,,NGAMGBO AMEBO VILLAGE SQUARE III,11/06/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20026/pu/32995/32995-1677661354.pdf,false
-EBONYI,EZZA SOUTH,,NGAMGBO AMEBO VILLAGE SQUARE II,11/06/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20026/pu/32994/32994-1677661209.pdf,true
-EBONYI,EZZA SOUTH,,NGAMGBO AKATAKA VILLAGE SQUARE II,11/06/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20026/pu/33002/33002-1677660949.pdf,false
-EBONYI,EZZA SOUTH,,NGAMGBO ABAM VILLAGE SQUARE,11/06/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20026/pu/33003/33003-1677660771.pdf,false
-EBONYI,EZZA SOUTH,,NGAMGBO AMEBO VILLAGE SQUARE I,11/06/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20026/pu/32993/32993-1677658915.pdf,false
+EBONYI,EZZA SOUTH,ECHARA,AMEBIA VILLAGE SQUARE,11/06/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20026/pu/33000/33000-1677663159.pdf,false
+EBONYI,EZZA SOUTH,ECHARA,NGAMGBO AKATAKA VILLAGE SQUARE I,11/06/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20026/pu/33001/33001-1677662542.pdf,false
+EBONYI,EZZA SOUTH,ECHARA,EKEREIGWE VILLAGE SQUARE,11/06/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20026/pu/32999/32999-1677662282.pdf,true
+EBONYI,EZZA SOUTH,ECHARA,AZUEBONYI ECHARA VILLAGE SQUARE II,11/06/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20026/pu/32998/32998-1677662027.pdf,false
+EBONYI,EZZA SOUTH,ECHARA,AZUEBONYI ECHARA VILLAGE SQUARE I,11/06/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20026/pu/32997/32997-1677661814.pdf,false
+EBONYI,EZZA SOUTH,ECHARA,CENTRAL SCHOOL ECHARA,11/06/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20026/pu/32996/32996-1677661500.pdf,true
+EBONYI,EZZA SOUTH,ECHARA,NGAMGBO AMEBO VILLAGE SQUARE III,11/06/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20026/pu/32995/32995-1677661354.pdf,false
+EBONYI,EZZA SOUTH,ECHARA,NGAMGBO AMEBO VILLAGE SQUARE II,11/06/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20026/pu/32994/32994-1677661209.pdf,true
+EBONYI,EZZA SOUTH,ECHARA,NGAMGBO AKATAKA VILLAGE SQUARE II,11/06/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20026/pu/33002/33002-1677660949.pdf,false
+EBONYI,EZZA SOUTH,ECHARA,NGAMGBO ABAM VILLAGE SQUARE,11/06/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20026/pu/33003/33003-1677660771.pdf,false
+EBONYI,EZZA SOUTH,ECHARA,NGAMGBO AMEBO VILLAGE SQUARE I,11/06/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3319/ward/20026/pu/32993/32993-1677658915.pdf,false

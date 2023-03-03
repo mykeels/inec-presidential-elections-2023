@@ -1,15 +1,15 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-EBONYI,EBONYI,,AFFENYIM  VILLAGE SQUARE,11/04/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/20000/pu/32726/32726-1677678099.pdf,false
-EBONYI,EBONYI,,AFFENYIM PLAY GROUND,11/04/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/20000/pu/32725/32725-1677677777.pdf,false
-EBONYI,EBONYI,,ULOANWU PRIMARY SCHOOL,11/04/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/20000/pu/32724/32724-1677677543.pdf,false
-EBONYI,EBONYI,,NDIECHI VILLAGE HALL,11/04/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/20000/pu/32723/32723-1677677142.pdf,false
-EBONYI,EBONYI,,ONYIRIGBO PRIMARY SCHOOL,11/04/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/20000/pu/32722/32722-1677676823.pdf,false
-EBONYI,EBONYI,,EGWUDINAGU HALL,11/04/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/20000/pu/32721/32721-1677676513.pdf,true
-EBONYI,EBONYI,,OGBETE MARKET SQUARE,11/04/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631402/result_150317_1677674962_thumb.jpg,false
-EBONYI,EBONYI,,ONYIRIGBO TOWN HALL,11/04/05/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631404/result_150319_1677674620_thumb.jpg,false
-EBONYI,EBONYI,,EDUKWU OKEMINI PLAY GROUND,11/04/05/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631403/result_150318_1677674603_thumb.jpg,false
-EBONYI,EBONYI,,EDUKWU NKA JUNCTION,11/04/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631405/result_150320_1677674177_thumb.jpg,false
-EBONYI,EBONYI,,MBUKOBE OFEREKPE PLAY GROUND,11/04/05/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631406/result_150321_1677674162_thumb.jpg,false
-EBONYI,EBONYI,,NWORI NWIDEBIA  MARKET NDIECHI,11/04/05/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631407/result_150322_1677673733_thumb.jpg,false
-EBONYI,EBONYI,,EDUKWU NWUGURU ALEGU PLAYGROUND,11/04/05/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631408/result_150323_1677673164_thumb.jpg,false
-EBONYI,EBONYI,,OVUDU ASHIOGBU PLAY GROUND EPHENYIM VILLAGE,11/04/05/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631409/result_150324_1677672678_thumb.jpg,false
+EBONYI,EBONYI,EGWUDINAGU,AFFENYIM  VILLAGE SQUARE,11/04/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/20000/pu/32726/32726-1677678099.pdf,false
+EBONYI,EBONYI,EGWUDINAGU,AFFENYIM PLAY GROUND,11/04/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/20000/pu/32725/32725-1677677777.pdf,false
+EBONYI,EBONYI,EGWUDINAGU,ULOANWU PRIMARY SCHOOL,11/04/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/20000/pu/32724/32724-1677677543.pdf,false
+EBONYI,EBONYI,EGWUDINAGU,NDIECHI VILLAGE HALL,11/04/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/20000/pu/32723/32723-1677677142.pdf,false
+EBONYI,EBONYI,EGWUDINAGU,ONYIRIGBO PRIMARY SCHOOL,11/04/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/20000/pu/32722/32722-1677676823.pdf,false
+EBONYI,EBONYI,EGWUDINAGU,EGWUDINAGU HALL,11/04/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/20000/pu/32721/32721-1677676513.pdf,true
+EBONYI,EBONYI,EGWUDINAGU,OGBETE MARKET SQUARE,11/04/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631402/result_150317_1677674962_thumb.jpg,false
+EBONYI,EBONYI,EGWUDINAGU,ONYIRIGBO TOWN HALL,11/04/05/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631404/result_150319_1677674620_thumb.jpg,false
+EBONYI,EBONYI,EGWUDINAGU,EDUKWU OKEMINI PLAY GROUND,11/04/05/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631403/result_150318_1677674603_thumb.jpg,false
+EBONYI,EBONYI,EGWUDINAGU,EDUKWU NKA JUNCTION,11/04/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631405/result_150320_1677674177_thumb.jpg,false
+EBONYI,EBONYI,EGWUDINAGU,MBUKOBE OFEREKPE PLAY GROUND,11/04/05/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631406/result_150321_1677674162_thumb.jpg,false
+EBONYI,EBONYI,EGWUDINAGU,NWORI NWIDEBIA  MARKET NDIECHI,11/04/05/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631407/result_150322_1677673733_thumb.jpg,false
+EBONYI,EBONYI,EGWUDINAGU,EDUKWU NWUGURU ALEGU PLAYGROUND,11/04/05/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631408/result_150323_1677673164_thumb.jpg,false
+EBONYI,EBONYI,EGWUDINAGU,OVUDU ASHIOGBU PLAY GROUND EPHENYIM VILLAGE,11/04/05/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631409/result_150324_1677672678_thumb.jpg,false
