@@ -1,0 +1,17 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BENUE,AGATU,EGBA,"OLEGEJE, PLAY GROUND",07/02/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3222/ward/18918/pu/18907/18907-1677793849.pdf,true
+BENUE,AGATU,EGBA,ADAGBO MKT. SQ. ADAGBO,07/02/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3222/ward/18918/pu/18902/18902-1677778952.pdf,true
+BENUE,AGATU,EGBA,"EGBA PLAY GROUND, EGBA CENTRE",07/02/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/18892/result_178283_1677698771_thumb.jpg,false
+BENUE,AGATU,EGBA,ABUGBE PLAY GROUND - ABUGBE CENTRE,07/02/01/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/18898/result_178289_1677682780_thumb.jpg,false
+BENUE,AGATU,EGBA,"ADANA, PRI. SCH., ADANA TOWN",07/02/01/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/18900/result_178291_1677680321_thumb.jpg,false
+BENUE,AGATU,EGBA,"INMINYI, PRI. SCH.",07/02/01/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+BENUE,AGATU,EGBA,AILA PRIMARY SCHOOL II,07/02/01/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/625342/result_178293_1677679062_thumb.jpg,false
+BENUE,AGATU,EGBA,ADAGBO PRIMARY SCHOOL,07/02/01/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/625344/result_178295_1677677322_thumb.jpg,false
+BENUE,AGATU,EGBA,AILA PRI. SCH. AILA,07/02/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/18889/result_178280_1677675156_thumb.jpg,false
+BENUE,AGATU,EGBA,ABUGBE PRIM SCH - ABUGBE SOUTH,07/02/01/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/18897/result_178288_1677673542_thumb.jpg,false
+BENUE,AGATU,EGBA,AILA MARKET SQUARE I - ETUGEHA CENTER,07/02/01/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/01/pu/015/015-1677421249.pdf,false
+BENUE,AGATU,EGBA,EDEJE PRI.SCH. EDEJE VILLAGE,07/02/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/01/pu/006/006-1677417118.pdf,false
+BENUE,AGATU,EGBA,"AILA MKT SQ. II, AILA CENTRE",07/02/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/01/pu/003/003-1677413688.pdf,false
+BENUE,AGATU,EGBA,"EGBA PRI. SCH., EGBA EAST",07/02/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/01/pu/005/005-1677412117.pdf,false
+BENUE,AGATU,EGBA,"OMIKWIDI PRI. SCH., OMIKWIDI",07/02/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/01/pu/007/007-1677410332.pdf,false
+BENUE,AGATU,EGBA,"AILA MKT SQ. I, AILA CENTRE",07/02/01/002,,false

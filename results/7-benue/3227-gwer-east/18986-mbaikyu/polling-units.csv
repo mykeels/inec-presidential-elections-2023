@@ -1,0 +1,14 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BENUE,GWER EAST,MBAIKYU,RCM SCH MBESE,07/07/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3227/ward/18986/pu/132935/132935-1677819948.pdf,false
+BENUE,GWER EAST,MBAIKYU,TINEGENGER O.S,07/07/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3227/ward/18986/pu/132936/132936-1677786517.pdf,true
+BENUE,GWER EAST,MBAIKYU,ANSHWA OPEN SPACE,07/07/08/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3227/ward/18986/pu/132937/132937-1677785748.pdf,true
+BENUE,GWER EAST,MBAIKYU,IGBOR,07/07/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3227/ward/18986/pu/19825/19825-1677782625.pdf,false
+BENUE,GWER EAST,MBAIKYU,SHANNA I - NKST SCHOOL,07/07/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/19813/result_179523_1677663272_thumb.jpg,false
+BENUE,GWER EAST,MBAIKYU,UVA - RCM SCHOOL,07/07/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/19812/result_179522_1677652906_thumb.jpg,false
+BENUE,GWER EAST,MBAIKYU,IGBOR - RCM SCHOOL,07/07/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/19817/result_179527_1677651644_thumb.jpg,false
+BENUE,GWER EAST,MBAIKYU,ANJA - LGED SCHOOL,07/07/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/19818/result_179528_1677651490_thumb.jpg,false
+BENUE,GWER EAST,MBAIKYU,MASE I - LGED SCHOOL,07/07/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/19815/result_179525_1677651346_thumb.jpg,false
+BENUE,GWER EAST,MBAIKYU,NKST SCHOOL SHANNA II,07/07/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/19814/result_179524_1677650919_thumb.jpg,false
+BENUE,GWER EAST,MBAIKYU,TYOUGH GYURA - MARKET SQUARE,07/07/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/19811/result_179521_1677649775_thumb.jpg,false
+BENUE,GWER EAST,MBAIKYU,MASE II - LGED SCHOOL,07/07/08/010,,false
+BENUE,GWER EAST,MBAIKYU,IKPOGHOUR - LEPROSY CLINIC,07/07/08/006,,false

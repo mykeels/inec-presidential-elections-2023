@@ -1,0 +1,13 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+BENUE,GWER EAST,SHOUGH,NKST UGBA OPEN SPACE,07/07/13/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3227/ward/18991/pu/132945/132945-1677770504.pdf,false
+BENUE,GWER EAST,SHOUGH,NEV I - LGED SCHOOL,07/07/13/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3227/ward/18991/pu/19881/19881-1677770447.pdf,false
+BENUE,GWER EAST,SHOUGH,"USANGE, NKST SCHOOL",07/07/13/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/19874/result_179594_1677769980_thumb.jpg,false
+BENUE,GWER EAST,SHOUGH,"ANGWAR, LGED SCH0OL",07/07/13/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3227/ward/18991/pu/19878/19878-1677769682.pdf,true
+BENUE,GWER EAST,SHOUGH,"HAR II, RCM SCHOOL",07/07/13/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3227/ward/18991/pu/19884/19884-1677768500.pdf,false
+BENUE,GWER EAST,SHOUGH,"AYABO, LGED SCHOOL",07/07/13/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3227/ward/18991/pu/19882/19882-1677767948.pdf,false
+BENUE,GWER EAST,SHOUGH,"HAR I, RCM SCHOOL",07/07/13/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3227/ward/18991/pu/19883/19883-1677765536.pdf,false
+BENUE,GWER EAST,SHOUGH,"NEV II, LGED SCHOOL",07/07/13/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3227/ward/18991/pu/19885/19885-1677763540.pdf,false
+BENUE,GWER EAST,SHOUGH,"TSE BO, OPEN SPACE",07/07/13/005,,false
+BENUE,GWER EAST,SHOUGH,JORDOON - OPEN SPACE,07/07/13/001,,false
+BENUE,GWER EAST,SHOUGH,CHIHICHAN I - RCM SCHOOL,07/07/13/002,,false
+BENUE,GWER EAST,SHOUGH,CHIHICHAN II - RCM SCHOOL,07/07/13/003,,false
