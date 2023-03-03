@@ -1,0 +1,972 @@
+[
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 2,
+    "is_accredited": 1,
+    "_id": "63f775d2b3695239c617b59e",
+    "state_id": 1,
+    "state": "5f0eb6e06dda22674979bf22",
+    "lga_id": 3113,
+    "ward_id": 17641,
+    "state_constituency_id": 18,
+    "state_constituency": "5f0f371a93d20b39ceee1fc6",
+    "federal_constituency_id": 7,
+    "federal_constituency": "5f0f37f32d77c83a06f0f317",
+    "senatorial_district_id": 112,
+    "senatorial_district": "5f0f3958970bd83a6f453a19",
+    "name": "UMUOKEREKE CIVIC HALL",
+    "code": "009",
+    "pu_code": "01/11/06/009",
+    "old_name": "",
+    "polling_unit_id": 127525,
+    "created_at": "2023-02-23T14:18:58.822Z",
+    "updated_at": "2023-02-23T21:49:08.524Z",
+    "__v": 0,
+    "pu_code_string": "011106009",
+    "state_name": "ABIA",
+    "lga_name": "OSISIOMA",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fee74bc6e83b6b3f404ac1",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619150/result_163581_1677510832_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-03-01T05:48:59.595Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcd60e8f41741d12308e63",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619150/result_163581_1677510832_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T13:56:10.988Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fce682e6efd20cc274b3d1",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619150/result_163581_1677510832_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T13:56:10.988Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fce682e6efd20cc274b3d1",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619150/result_163581_1677510832_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:21:43.917Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe07fac43294524a48d042",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619150/result_163581_1677510832_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:21:43.917Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe07fac43294524a48d042",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619150/result_163581_1677510832_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T21:16:00.147Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe38276f2c3d5c2e7097bb",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619150/result_163581_1677510832_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T21:16:00.147Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe38276f2c3d5c2e7097bb",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619150/result_163581_1677510832_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:48:59.595Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fe6f10d74638649a13e5bc",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3113/ward/17641/pu/127525/127525-1677618926.pdf",
+        "size": 2001534,
+        "updated_at": "2023-03-01T05:48:59.595Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 2,
+    "is_accredited": 1,
+    "_id": "63f775d3b3695239c617b5cd",
+    "state_id": 1,
+    "state": "5f0eb6e06dda22674979bf22",
+    "lga_id": 3113,
+    "ward_id": 17641,
+    "state_constituency_id": 18,
+    "state_constituency": "5f0f371a93d20b39ceee1fc6",
+    "federal_constituency_id": 7,
+    "federal_constituency": "5f0f37f32d77c83a06f0f317",
+    "senatorial_district_id": 112,
+    "senatorial_district": "5f0f3958970bd83a6f453a19",
+    "name": "OHAUKWU COUNCIL HALL",
+    "code": "010",
+    "pu_code": "01/11/06/010",
+    "old_name": "",
+    "polling_unit_id": 127526,
+    "created_at": "2023-02-23T14:18:59.639Z",
+    "updated_at": "2023-02-23T21:49:08.576Z",
+    "__v": 0,
+    "pu_code_string": "011106010",
+    "state_name": "ABIA",
+    "lga_name": "OSISIOMA",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe749c5e25666708797de4",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619151/result_163582_1677510956_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T21:39:40.581Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcef39e6efd20cc276e6c3",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619151/result_163582_1677510956_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T21:18:00.377Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcef39e6efd20cc276e6c3",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619151/result_163582_1677510956_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T21:39:40.581Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fe6f88d74638649a13e67b",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3113/ward/17641/pu/127526/127526-1677619076.pdf",
+        "size": 2230403,
+        "updated_at": "2023-02-28T21:39:40.581Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4552c440353badb0de1e",
+    "state_id": 1,
+    "state": "5f0eb6e06dda22674979bf22",
+    "lga_id": 3113,
+    "ward_id": 17641,
+    "state_constituency_id": 18,
+    "state_constituency": "5f0f371a93d20b39ceee1fc6",
+    "federal_constituency_id": 7,
+    "federal_constituency": "5f0f37f32d77c83a06f0f317",
+    "senatorial_district_id": 112,
+    "senatorial_district": "5f0f3958970bd83a6f453a19",
+    "name": "EKEOBASI VILLAGE SQUARE",
+    "code": "002",
+    "pu_code": "01/11/06/002",
+    "old_name": "",
+    "polling_unit_id": 1938,
+    "created_at": "2020-07-15T18:05:06.653Z",
+    "updated_at": "2023-02-23T20:11:49.227Z",
+    "__v": 0,
+    "pu_code_string": "011106002",
+    "state_name": "ABIA",
+    "lga_name": "OSISIOMA",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe740c5e25666708796b4b",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1932/result_163574_1677509744_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T21:37:16.989Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcef2fe6efd20cc276d8f3",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1932/result_163574_1677509744_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T20:59:00.182Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcef2fe6efd20cc276d8f3",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1932/result_163574_1677509744_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T21:37:16.989Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fe6b14d74638649a13def3",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3113/ward/17641/pu/1938/1938-1677617911.pdf",
+        "size": 2042684,
+        "updated_at": "2023-02-28T21:37:16.989Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 2,
+    "is_accredited": 1,
+    "_id": "63f775d6b3695239c617b65a",
+    "state_id": 1,
+    "state": "5f0eb6e06dda22674979bf22",
+    "lga_id": 3113,
+    "ward_id": 17641,
+    "state_constituency_id": 18,
+    "state_constituency": "5f0f371a93d20b39ceee1fc6",
+    "federal_constituency_id": 7,
+    "federal_constituency": "5f0f37f32d77c83a06f0f317",
+    "senatorial_district_id": 112,
+    "senatorial_district": "5f0f3958970bd83a6f453a19",
+    "name": "UMUOHU COUNCIL HALL",
+    "code": "013",
+    "pu_code": "01/11/06/013",
+    "old_name": "",
+    "polling_unit_id": 127529,
+    "created_at": "2023-02-23T14:19:02.369Z",
+    "updated_at": "2023-02-23T21:49:08.726Z",
+    "__v": 0,
+    "pu_code_string": "011106013",
+    "state_name": "ABIA",
+    "lga_name": "OSISIOMA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63fe70f05e25666708790223",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3113/ward/17641/pu/127529/127529-1677619412.pdf",
+      "size": 2207899,
+      "updated_at": "2023-02-28T21:24:00.390Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcd6868f41741d1230a070",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619154/result_163585_1677511490_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T13:58:46.699Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fce70de6efd20cc274c5cc",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619154/result_163585_1677511490_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T13:58:46.699Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fce70de6efd20cc274c5cc",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619154/result_163585_1677511490_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:24:36.989Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe0896c43294524a48e43b",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619154/result_163585_1677511490_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:24:36.989Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe0896c43294524a48e43b",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619154/result_163585_1677511490_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T21:24:00.390Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe38d46f2c3d5c2e70b1c9",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619154/result_163585_1677511490_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T21:24:00.390Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 2,
+    "is_accredited": 1,
+    "_id": "63f775d5b3695239c617b62b",
+    "state_id": 1,
+    "state": "5f0eb6e06dda22674979bf22",
+    "lga_id": 3113,
+    "ward_id": 17641,
+    "state_constituency_id": 18,
+    "state_constituency": "5f0f371a93d20b39ceee1fc6",
+    "federal_constituency_id": 7,
+    "federal_constituency": "5f0f37f32d77c83a06f0f317",
+    "senatorial_district_id": 112,
+    "senatorial_district": "5f0f3958970bd83a6f453a19",
+    "name": "UMUORIAKU VILLAGE COUNCIL HALL",
+    "code": "012",
+    "pu_code": "01/11/06/012",
+    "old_name": "",
+    "polling_unit_id": 127528,
+    "created_at": "2023-02-23T14:19:01.319Z",
+    "updated_at": "2023-02-23T21:49:08.679Z",
+    "__v": 0,
+    "pu_code_string": "011106012",
+    "state_name": "ABIA",
+    "lga_name": "OSISIOMA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63fe703cd74638649a13e795",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3113/ward/17641/pu/127528/127528-1677619250.pdf",
+      "size": 2205151,
+      "updated_at": "2023-02-28T21:21:00.249Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcee6fe6efd20cc275d219",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619153/result_163584_1677511382_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T18:25:34.966Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcee6fe6efd20cc275d219",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619153/result_163584_1677511382_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T21:21:00.249Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe471e39df295eae1bcd68",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619153/result_163584_1677511382_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T21:21:00.249Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4553c440353badb0de24",
+    "state_id": 1,
+    "state": "5f0eb6e06dda22674979bf22",
+    "lga_id": 3113,
+    "ward_id": 17641,
+    "state_constituency_id": 18,
+    "state_constituency": "5f0f371a93d20b39ceee1fc6",
+    "federal_constituency_id": 7,
+    "federal_constituency": "5f0f37f32d77c83a06f0f317",
+    "senatorial_district_id": 112,
+    "senatorial_district": "5f0f3958970bd83a6f453a19",
+    "name": "OKPUALA UKWU HALL - OKPUALA UKWU  II",
+    "code": "008",
+    "pu_code": "01/11/06/008",
+    "old_name": "",
+    "polling_unit_id": 1944,
+    "created_at": "2020-07-15T18:05:07.047Z",
+    "updated_at": "2023-02-23T20:11:49.459Z",
+    "__v": 0,
+    "pu_code_string": "011106008",
+    "state_name": "ABIA",
+    "lga_name": "OSISIOMA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63fe6e98d74638649a13e503",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3113/ward/17641/pu/1944/1944-1677618814.pdf",
+      "size": 2070773,
+      "updated_at": "2023-02-28T21:14:00.341Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcd8928f41741d1230eded",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1938/result_163580_1677510722_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:12:30.884Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fce96de6efd20cc2751220",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1938/result_163580_1677510722_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:12:30.884Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fce96de6efd20cc2751220",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1938/result_163580_1677510722_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:37:02.553Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe35fed86c3a5b6d10e5ee",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1938/result_163580_1677510722_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:37:02.553Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe35fed86c3a5b6d10e5ee",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1938/result_163580_1677510722_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T21:14:00.341Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe3bbe6f2c3d5c2e71201a",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1938/result_163580_1677510722_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T21:14:00.341Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4552c440353badb0de23",
+    "state_id": 1,
+    "state": "5f0eb6e06dda22674979bf22",
+    "lga_id": 3113,
+    "ward_id": 17641,
+    "state_constituency_id": 18,
+    "state_constituency": "5f0f371a93d20b39ceee1fc6",
+    "federal_constituency_id": 7,
+    "federal_constituency": "5f0f37f32d77c83a06f0f317",
+    "senatorial_district_id": 112,
+    "senatorial_district": "5f0f3958970bd83a6f453a19",
+    "name": "AKPA MARKET SQUARE",
+    "code": "007",
+    "pu_code": "01/11/06/007",
+    "old_name": "",
+    "polling_unit_id": 1943,
+    "created_at": "2020-07-15T18:05:06.981Z",
+    "updated_at": "2023-02-23T20:11:49.416Z",
+    "__v": 0,
+    "pu_code_string": "011106007",
+    "state_name": "ABIA",
+    "lga_name": "OSISIOMA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63fe6de4d74638649a13e3db",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3113/ward/17641/pu/1943/1943-1677618613.pdf",
+      "size": 2205234,
+      "updated_at": "2023-02-28T21:11:00.605Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcee8de6efd20cc275fbbd",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1937/result_163579_1677510566_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T20:21:14.050Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcee8de6efd20cc275fbbd",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1937/result_163579_1677510566_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T21:11:00.605Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe623ad74638649a132f72",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1937/result_163579_1677510566_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T21:11:00.605Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4552c440353badb0de22",
+    "state_id": 1,
+    "state": "5f0eb6e06dda22674979bf22",
+    "lga_id": 3113,
+    "ward_id": 17641,
+    "state_constituency_id": 18,
+    "state_constituency": "5f0f371a93d20b39ceee1fc6",
+    "federal_constituency_id": 7,
+    "federal_constituency": "5f0f37f32d77c83a06f0f317",
+    "senatorial_district_id": 112,
+    "senatorial_district": "5f0f3958970bd83a6f453a19",
+    "name": "AMANKWU HALL",
+    "code": "006",
+    "pu_code": "01/11/06/006",
+    "old_name": "",
+    "polling_unit_id": 1942,
+    "created_at": "2020-07-15T18:05:06.903Z",
+    "updated_at": "2023-02-23T20:11:49.379Z",
+    "__v": 0,
+    "pu_code_string": "011106006",
+    "state_name": "ABIA",
+    "lga_name": "OSISIOMA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63fe6d30d74638649a13e2a1",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3113/ward/17641/pu/1942/1942-1677618456.pdf",
+      "size": 2179339,
+      "updated_at": "2023-02-28T21:08:00.346Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcee66e6efd20cc275c699",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1936/result_163578_1677510341_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T18:23:38.344Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcee66e6efd20cc275c699",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1936/result_163578_1677510341_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T21:08:00.346Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe46aa39df295eae1bbe61",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1936/result_163578_1677510341_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T21:08:00.346Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4552c440353badb0de20",
+    "state_id": 1,
+    "state": "5f0eb6e06dda22674979bf22",
+    "lga_id": 3113,
+    "ward_id": 17641,
+    "state_constituency_id": 18,
+    "state_constituency": "5f0f371a93d20b39ceee1fc6",
+    "federal_constituency_id": 7,
+    "federal_constituency": "5f0f37f32d77c83a06f0f317",
+    "senatorial_district_id": 112,
+    "senatorial_district": "5f0f3958970bd83a6f453a19",
+    "name": "UMUOHIA VILLAGE SQUARE",
+    "code": "004",
+    "pu_code": "01/11/06/004",
+    "old_name": "",
+    "polling_unit_id": 1940,
+    "created_at": "2020-07-15T18:05:06.788Z",
+    "updated_at": "2023-02-23T20:11:49.304Z",
+    "__v": 0,
+    "pu_code_string": "011106004",
+    "state_name": "ABIA",
+    "lga_name": "OSISIOMA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63fe6c7cd74638649a13e1b3",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3113/ward/17641/pu/1940/1940-1677618272.pdf",
+      "size": 2086524,
+      "updated_at": "2023-02-28T21:05:00.362Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcee58e6efd20cc275b54b",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1934/result_163576_1677510081_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T18:20:27.138Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcee58e6efd20cc275b54b",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1934/result_163576_1677510081_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T21:05:00.362Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe45eb39df295eae1ba606",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1934/result_163576_1677510081_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T21:05:00.362Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4552c440353badb0de1f",
+    "state_id": 1,
+    "state": "5f0eb6e06dda22674979bf22",
+    "lga_id": 3113,
+    "ward_id": 17641,
+    "state_constituency_id": 18,
+    "state_constituency": "5f0f371a93d20b39ceee1fc6",
+    "federal_constituency_id": 7,
+    "federal_constituency": "5f0f37f32d77c83a06f0f317",
+    "senatorial_district_id": 112,
+    "senatorial_district": "5f0f3958970bd83a6f453a19",
+    "name": "UMUOBILOHIA VILLAGE SQUARE",
+    "code": "003",
+    "pu_code": "01/11/06/003",
+    "old_name": "",
+    "polling_unit_id": 1939,
+    "created_at": "2020-07-15T18:05:06.721Z",
+    "updated_at": "2023-02-23T20:11:49.262Z",
+    "__v": 0,
+    "pu_code_string": "011106003",
+    "state_name": "ABIA",
+    "lga_name": "OSISIOMA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63fe6c04d74638649a13e0d9",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3113/ward/17641/pu/1939/1939-1677618138.pdf",
+      "size": 2135194,
+      "updated_at": "2023-02-28T21:03:00.235Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcd6748f41741d12309d9c",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1933/result_163575_1677509893_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T13:58:25.103Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fce6f8e6efd20cc274c313",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1933/result_163575_1677509893_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T13:58:25.103Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fce6f8e6efd20cc274c313",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1933/result_163575_1677509893_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:24:10.400Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe0881c43294524a48e11d",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1933/result_163575_1677509893_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:24:10.400Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe0881c43294524a48e11d",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1933/result_163575_1677509893_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T21:03:00.235Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe38ba6f2c3d5c2e70adda",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1933/result_163575_1677509893_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T21:03:00.235Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4552c440353badb0de1d",
+    "state_id": 1,
+    "state": "5f0eb6e06dda22674979bf22",
+    "lga_id": 3113,
+    "ward_id": 17641,
+    "state_constituency_id": 18,
+    "state_constituency": "5f0f371a93d20b39ceee1fc6",
+    "federal_constituency_id": 7,
+    "federal_constituency": "5f0f37f32d77c83a06f0f317",
+    "senatorial_district_id": 112,
+    "senatorial_district": "5f0f3958970bd83a6f453a19",
+    "name": "OKPUALA UKWU COMM. SCHOOL - OKPUALA UKWU I",
+    "code": "001",
+    "pu_code": "01/11/06/001",
+    "old_name": "",
+    "polling_unit_id": 1937,
+    "created_at": "2020-07-15T18:05:06.593Z",
+    "updated_at": "2023-02-23T20:11:49.165Z",
+    "__v": 0,
+    "pu_code_string": "011106001",
+    "state_name": "ABIA",
+    "lga_name": "OSISIOMA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63fe6b8cd74638649a13dfde",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3113/ward/17641/pu/1937/1937-1677618016.pdf",
+      "size": 2099039,
+      "updated_at": "2023-02-28T21:01:00.184Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcee6fe6efd20cc275d27d",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1931/result_163573_1677509425_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T18:25:52.248Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcee6fe6efd20cc275d27d",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1931/result_163573_1677509425_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T21:01:00.184Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe473039df295eae1bcf73",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1931/result_163573_1677509425_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T21:01:00.184Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 2,
+    "is_accredited": 1,
+    "_id": "63f775d4b3695239c617b5fc",
+    "state_id": 1,
+    "state": "5f0eb6e06dda22674979bf22",
+    "lga_id": 3113,
+    "ward_id": 17641,
+    "state_constituency_id": 18,
+    "state_constituency": "5f0f371a93d20b39ceee1fc6",
+    "federal_constituency_id": 7,
+    "federal_constituency": "5f0f37f32d77c83a06f0f317",
+    "senatorial_district_id": 112,
+    "senatorial_district": "5f0f3958970bd83a6f453a19",
+    "name": "UMUNCHEAGU COUNCIL HALL",
+    "code": "011",
+    "pu_code": "01/11/06/011",
+    "old_name": "",
+    "polling_unit_id": 127527,
+    "created_at": "2023-02-23T14:19:00.494Z",
+    "updated_at": "2023-02-23T21:49:08.629Z",
+    "__v": 0,
+    "pu_code_string": "011106011",
+    "state_name": "ABIA",
+    "lga_name": "OSISIOMA",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe64c1d74638649a13805c",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619152/result_163583_1677511239_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T20:32:01.716Z"
+    },
+    "old_documents": [
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fac86031f03014e984301a",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/06/pu/011/011-1677379644.pdf",
+        "size": 72762,
+        "updated_at": "2023-02-28T20:32:01.716Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceebae6efd20cc2763886",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619152/result_163583_1677511239_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T20:32:01.716Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4552c440353badb0de21",
+    "state_id": 1,
+    "state": "5f0eb6e06dda22674979bf22",
+    "lga_id": 3113,
+    "ward_id": 17641,
+    "state_constituency_id": 18,
+    "state_constituency": "5f0f371a93d20b39ceee1fc6",
+    "federal_constituency_id": 7,
+    "federal_constituency": "5f0f37f32d77c83a06f0f317",
+    "senatorial_district_id": 112,
+    "senatorial_district": "5f0f3958970bd83a6f453a19",
+    "name": "UMUENYIUKWU PRI. SCHOOL",
+    "code": "005",
+    "pu_code": "01/11/06/005",
+    "old_name": "",
+    "polling_unit_id": 1941,
+    "created_at": "2020-07-15T18:05:06.854Z",
+    "updated_at": "2023-02-23T20:11:49.342Z",
+    "__v": 0,
+    "pu_code_string": "011106005",
+    "state_name": "ABIA",
+    "lga_name": "OSISIOMA",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe6387d74638649a135723",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1935/result_163577_1677510219_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T20:26:47.882Z"
+    },
+    "old_documents": [
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fae8f5cb3b941e5ca8faf8",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/06/pu/005/005-1677388008.pdf",
+        "size": 8716094,
+        "updated_at": "2023-02-28T20:26:47.882Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceea3e6efd20cc2761963",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1935/result_163577_1677510219_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T20:26:47.882Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 2,
+    "is_accredited": 1,
+    "_id": "63f775d7b3695239c617b689",
+    "state_id": 1,
+    "state": "5f0eb6e06dda22674979bf22",
+    "lga_id": 3113,
+    "ward_id": 17641,
+    "state_constituency_id": 18,
+    "state_constituency": "5f0f371a93d20b39ceee1fc6",
+    "federal_constituency_id": 7,
+    "federal_constituency": "5f0f37f32d77c83a06f0f317",
+    "senatorial_district_id": 112,
+    "senatorial_district": "5f0f3958970bd83a6f453a19",
+    "name": "AMAIYI COUNCIL HALL",
+    "code": "014",
+    "pu_code": "01/11/06/014",
+    "old_name": "",
+    "polling_unit_id": 127530,
+    "created_at": "2023-02-23T14:19:03.349Z",
+    "updated_at": "2023-02-23T21:49:08.775Z",
+    "__v": 0,
+    "pu_code_string": "011106014",
+    "state_name": "ABIA",
+    "lga_name": "OSISIOMA",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe3d4a6f2c3d5c2e71562b",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619155/result_163586_1677511585_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T17:43:38.765Z"
+    },
+    "old_documents": [
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63faf1a2cb3b941e5cab1078",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/06/pu/014/014-1677390207.pdf",
+        "size": 63086,
+        "updated_at": "2023-02-28T17:43:38.765Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceabde6efd20cc2753ada",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619155/result_163586_1677511585_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:43:38.765Z"
+      }
+    ],
+    "has_old_documents": true
+  }
+]
