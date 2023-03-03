@@ -1,0 +1,15 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+RIVERS,OGU/BOLO,OGU  V,"OPEN SPACE, FURUBOWARIFAMA II",32/17/05/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/109512/result_14337_1677500985_thumb.jpg,true
+RIVERS,OGU/BOLO,OGU  V,"G.S.S OGU, TENDA-AMA V",32/17/05/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/109522/result_14347_1677502829_thumb.jpg,false
+RIVERS,OGU/BOLO,OGU  V,"SCHOOL HALL, TENDA-AMA  I",32/17/05/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/109518/result_14343_1677502080_thumb.jpg,false
+RIVERS,OGU/BOLO,OGU  V,"GENERAL HOSPITAL, OGU",32/17/05/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/669323/result_14349_1677503102_thumb.jpg,false
+RIVERS,OGU/BOLO,OGU  V,"OPEN SPACE, ABAMYEDUKO",32/17/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/109517/result_14342_1677501939_thumb.jpg,true
+RIVERS,OGU/BOLO,OGU  V,"ST. MARTINS SCH. I, TENDA-AMA III",32/17/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/109520/result_14345_1677502560_thumb.jpg,false
+RIVERS,OGU/BOLO,OGU  V,"OPEN SPACE, IRUENE",32/17/05/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/109516/result_14341_1677501798_thumb.jpg,false
+RIVERS,OGU/BOLO,OGU  V,"COURT HALL, EGBELEKPKI  II",32/17/05/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/109515/result_14340_1677501268_thumb.jpg,false
+RIVERS,OGU/BOLO,OGU  V,"G.S.S OGU, TENDA-AMA IV",32/17/05/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/109521/result_14346_1677502705_thumb.jpg,false
+RIVERS,OGU/BOLO,OGU  V,"ST. MARTINS SCH. I, TENDA-AMA II",32/17/05/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/109519/result_14344_1677502298_thumb.jpg,false
+RIVERS,OGU/BOLO,OGU  V,OPEN SPACE EGBELEKPKI  I,32/17/05/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/109514/result_14339_1677501148_thumb.jpg,false
+RIVERS,OGU/BOLO,OGU  V,"COMP. HALL, FURUBOWARIFAMA  I",32/17/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/109511/result_14336_1677503350_thumb.jpg,true
+RIVERS,OGU/BOLO,OGU  V,"COMP. HALL, FURUBOWARIFAMA  III",32/17/05/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/669322/result_14348_1677502995_thumb.jpg,true
+RIVERS,OGU/BOLO,OGU  V,OPEN SPACE IRUENABERE,32/17/05/003,,false

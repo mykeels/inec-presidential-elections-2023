@@ -1,0 +1,14 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+RIVERS,OGU/BOLO,BOLO I,OPEN SPACE IWO/IPOLI,32/17/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3800/ward/25518/pu/110643/110643-1677592404.pdf,true
+RIVERS,OGU/BOLO,BOLO I,OPEN SPACE OGBOLODO,32/17/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3800/ward/25518/pu/110642/110642-1677592040.pdf,true
+RIVERS,OGU/BOLO,BOLO I,OPEN SPACE ORIOGBA,32/17/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3800/ward/25518/pu/110641/110641-1677591874.pdf,false
+RIVERS,OGU/BOLO,BOLO I,OPEN SPACE KELE,32/17/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3800/ward/25518/pu/110640/110640-1677591670.pdf,true
+RIVERS,OGU/BOLO,BOLO I,COMPOUND HALL ALAGHA II,32/17/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3800/ward/25518/pu/110639/110639-1677591531.pdf,false
+RIVERS,OGU/BOLO,BOLO I,COMPOUND HALL ORUWERI,32/17/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3800/ward/25518/pu/110638/110638-1677591385.pdf,false
+RIVERS,OGU/BOLO,BOLO I,OPEN SPACE ARUNGO,32/17/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3800/ward/25518/pu/110637/110637-1677591258.pdf,true
+RIVERS,OGU/BOLO,BOLO I,OPEN SPACE TEMEKUNGO,32/17/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3800/ward/25518/pu/110636/110636-1677590972.pdf,false
+RIVERS,OGU/BOLO,BOLO I,OPEN SPACE JAMA OGERE,32/17/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3800/ward/25518/pu/110635/110635-1677590739.pdf,true
+RIVERS,OGU/BOLO,BOLO I,OPEN SPACE OMUKOSO II,32/17/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3800/ward/25518/pu/110634/110634-1677590372.pdf,true
+RIVERS,OGU/BOLO,BOLO I,OPEN SPACE OMUKOSO I,32/17/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3800/ward/25518/pu/110633/110633-1677590202.pdf,true
+RIVERS,OGU/BOLO,BOLO I,"OPEN SPACE, GBACHA II",32/17/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3800/ward/25518/pu/110632/110632-1677590094.pdf,true
+RIVERS,OGU/BOLO,BOLO I,"OPEN SPACE, GBACHA I",32/17/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3800/ward/25518/pu/110631/110631-1677589948.pdf,true

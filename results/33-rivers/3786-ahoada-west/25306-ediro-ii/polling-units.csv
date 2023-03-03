@@ -1,0 +1,15 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+RIVERS,AHOADA WEST,EDIRO II,"TOWN HALL I, MBIAMA",32/03/02/001,,true
+RIVERS,AHOADA WEST,EDIRO II,TOWN HALL ORUAMA,32/03/02/013,,true
+RIVERS,AHOADA WEST,EDIRO II,COMM. PRI. SCH. ISHIAYI,32/03/02/011,,true
+RIVERS,AHOADA WEST,EDIRO II,"TOWN HALL II, MBIAMA",32/03/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3786/ward/25306/pu/107798/107798-1677511257.pdf,false
+RIVERS,AHOADA WEST,EDIRO II,"ISHAYA HALL, ISHAYA",32/03/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3786/ward/25306/pu/171514/171514-1677510553.pdf,false
+RIVERS,AHOADA WEST,EDIRO II,NWOKOMA TOWN HALL ISHIAYI,32/03/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3786/ward/25306/pu/171521/171521-1677509131.pdf,false
+RIVERS,AHOADA WEST,EDIRO II,"PRIMARY SCHOOL, MBIAMA",32/03/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3786/ward/25306/pu/107799/107799-1677508098.pdf,false
+RIVERS,AHOADA WEST,EDIRO II,SOKARI PLAYGROUND ORUAMA,32/03/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3786/ward/25306/pu/171523/171523-1677506751.pdf,false
+RIVERS,AHOADA WEST,EDIRO II,OGBU HALL HALL MBIAMA,32/03/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3786/ward/25306/pu/171518/171518-1677505937.pdf,false
+RIVERS,AHOADA WEST,EDIRO II,PRIMARY SCHOOL ORUAMA/ENEDA,32/03/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3786/ward/25306/pu/107800/107800-1677486658.pdf,false
+RIVERS,AHOADA WEST,EDIRO II,ISHIAYI TOWN HALL  ISHIAYI,32/03/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3786/ward/25306/pu/171519/171519-1677484342.pdf,false
+RIVERS,AHOADA WEST,EDIRO II,PLAYGROUND MBIAMA,32/03/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3786/ward/25306/pu/171515/171515-1677483249.pdf,false
+RIVERS,AHOADA WEST,EDIRO II,OSIGWE TOWN HALL MBIAMA,32/03/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3786/ward/25306/pu/171517/171517-1677456295.pdf,false
+RIVERS,AHOADA WEST,EDIRO II,"AKUBONI HALL, MBIAMA",32/03/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3786/ward/25306/pu/171516/171516-1677453719.pdf,false

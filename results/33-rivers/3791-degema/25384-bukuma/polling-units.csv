@@ -1,0 +1,11 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+RIVERS,DEGEMA,BUKUMA,KRIGBO SQUARE,32/08/15/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3791/ward/25384/pu/108700/108700-1677601196.pdf,false
+RIVERS,DEGEMA,BUKUMA,AYAMA SQUARE,32/08/15/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3791/ward/25384/pu/108699/108699-1677600624.pdf,true
+RIVERS,DEGEMA,BUKUMA,"IKA SQUARE, AGBULABULO I&II",32/08/15/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3791/ward/25384/pu/108701/108701-1677600248.pdf,true
+RIVERS,DEGEMA,BUKUMA,ALAKA COMPOUND,32/08/15/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3791/ward/25384/pu/108702/108702-1677599924.pdf,false
+RIVERS,DEGEMA,BUKUMA,ONUGULO HALL,32/08/15/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3791/ward/25384/pu/108706/108706-1677598610.pdf,false
+RIVERS,DEGEMA,BUKUMA,OKPURUTA  SQUARE,32/08/15/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3791/ward/25384/pu/108705/108705-1677597958.pdf,false
+RIVERS,DEGEMA,BUKUMA,OKPUNADIKE SQUARE,32/08/15/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3791/ward/25384/pu/108704/108704-1677597144.pdf,false
+RIVERS,DEGEMA,BUKUMA,ZION CITY SQUARE,32/08/15/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3791/ward/25384/pu/108703/108703-1677596403.pdf,true
+RIVERS,DEGEMA,BUKUMA,STATE SCHOOL FILED R/A-ELUGBE,32/08/15/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3791/ward/25384/pu/108708/108708-1677595603.pdf,false
+RIVERS,DEGEMA,BUKUMA,AMKPA SQUARE,32/08/15/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/15/pu/009/009-1677368068.pdf,false

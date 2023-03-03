@@ -1,0 +1,15 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+RIVERS,ANDONI,UNYEADA I,OYET ILE SQUARE,32/05/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3788/ward/25339/pu/108198/108198-1677749861.pdf,false
+RIVERS,ANDONI,UNYEADA I,OTUIBOK COMPOUND PLAY GROUND,32/05/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3788/ward/25339/pu/108199/108199-1677749643.pdf,true
+RIVERS,ANDONI,UNYEADA I,IYOBA VILLAGE SQUARE,32/05/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3788/ward/25339/pu/108204/108204-1677749404.pdf,true
+RIVERS,ANDONI,UNYEADA I,AMAEKPU VILLAGE SQUARE,32/05/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3788/ward/25339/pu/108201/108201-1677749156.pdf,false
+RIVERS,ANDONI,UNYEADA I,"C.P.S. II UNYEADA, OTUO COMPOUND",32/05/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3788/ward/25339/pu/108197/108197-1677748308.pdf,true
+RIVERS,ANDONI,UNYEADA I,GALIEE VILLAGE SQUARE,32/05/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3788/ward/25339/pu/108202/108202-1677748001.pdf,false
+RIVERS,ANDONI,UNYEADA I,AMA UTONO SQUARE,32/05/06/007,,false
+RIVERS,ANDONI,UNYEADA I,ETEKAN VILLAGE SQUARE,32/05/06/004,,true
+RIVERS,ANDONI,UNYEADA I,ETEKAN VILLAGE SQUARE II,32/05/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3788/ward/25339/pu/171663/171663-1677598461.pdf,false
+RIVERS,ANDONI,UNYEADA I,"C.P.S. II UNYEADA, OTUO COMPOUND III",32/05/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3788/ward/25339/pu/171660/171660-1677596857.pdf,true
+RIVERS,ANDONI,UNYEADA I,OYET ILE SQUARE II,32/05/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3788/ward/25339/pu/171661/171661-1677596502.pdf,false
+RIVERS,ANDONI,UNYEADA I,IYOBA VILLAGE SQUARE II,32/05/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3788/ward/25339/pu/171664/171664-1677596014.pdf,false
+RIVERS,ANDONI,UNYEADA I,OTUIBOK COMPOUND PLAY GROUND II,32/05/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3788/ward/25339/pu/171662/171662-1677595302.pdf,false
+RIVERS,ANDONI,UNYEADA I,"C.P.S. II UNYEADA, OTUO COMPOUND II",32/05/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3788/ward/25339/pu/171659/171659-1677594217.pdf,false

@@ -1,0 +1,12 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+RIVERS,OGU/BOLO,OGU  IV,OPEN SPACE ABEJI  II,32/17/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/109507/result_14331_1677752262_thumb.jpg,true
+RIVERS,OGU/BOLO,OGU  IV,OPEN SPACE NIEMIEBOKA,32/17/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/109502/result_14326_1677751057_thumb.jpg,true
+RIVERS,OGU/BOLO,OGU  IV,OPEN SPACE OPUMBERE,32/17/04/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/109508/result_14332_1677504615_thumb.jpg,true
+RIVERS,OGU/BOLO,OGU  IV,OPEN SPACE KALAOWI  I,32/17/04/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/109504/result_14328_1677508951_thumb.jpg,true
+RIVERS,OGU/BOLO,OGU  IV,OPEN SPACE ABEJI  I,32/17/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/109506/result_14330_1677601435_thumb.jpg,false
+RIVERS,OGU/BOLO,OGU  IV,OPEN SPACE OFIAMANI,32/17/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/109503/result_14327_1677510116_thumb.jpg,true
+RIVERS,OGU/BOLO,OGU  IV,OPEN SPACE NGBEKA,32/17/04/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+RIVERS,OGU/BOLO,OGU  IV,OPEN SPACE OPU-OFIAMANI,32/17/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+RIVERS,OGU/BOLO,OGU  IV,OPEN SPACE KALAOWI  II,32/17/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/109505/result_14329_1677600948_thumb.jpg,false
+RIVERS,OGU/BOLO,OGU  IV,OPEN SPACE INUMA  II,32/17/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/109501/result_14325_1677600654_thumb.jpg,false
+RIVERS,OGU/BOLO,OGU  IV,OPEN SPACE INUMA  I,32/17/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false

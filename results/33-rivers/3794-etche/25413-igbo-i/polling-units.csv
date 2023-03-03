@@ -1,0 +1,45 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+RIVERS,ETCHE,IGBO I,UMUAZU/UMUALUKPO/UMUASUKPU,32/11/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/109070/109070-1677592232.pdf,false
+RIVERS,ETCHE,IGBO I,UMUOGODO IMEH,32/11/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/109071/109071-1677591348.pdf,false
+RIVERS,ETCHE,IGBO I,IKEWERENGWO,32/11/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/109073/109073-1677590525.pdf,true
+RIVERS,ETCHE,IGBO I,UMUEBULU,32/11/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/109074/109074-1677586810.pdf,true
+RIVERS,ETCHE,IGBO I,ALAOMA/OHANTA,32/11/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/109075/109075-1677584996.pdf,false
+RIVERS,ETCHE,IGBO I,AGHATA,32/11/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/109077/109077-1677584190.pdf,false
+RIVERS,ETCHE,IGBO I,UMUAMECHI,32/11/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/109078/109078-1677581133.pdf,true
+RIVERS,ETCHE,IGBO I,UZUBI/UMUAKURU WATERSIDE SCHEME,32/11/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/172048/172048-1677580698.pdf,true
+RIVERS,ETCHE,IGBO I,UMUAKURU PRIMARY SCHOOL,32/11/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/172049/172049-1677580026.pdf,true
+RIVERS,ETCHE,IGBO I,UMULU STATE MODEL SCHOOL,32/11/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/172050/172050-1677579668.pdf,true
+RIVERS,ETCHE,IGBO I,UMUALIKPO TOWN HALL,32/11/03/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/172052/172052-1677579104.pdf,true
+RIVERS,ETCHE,IGBO I,"COMMUNITY SEC.SCHOOL, IGBO",32/11/03/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/172053/172053-1677575061.pdf,true
+RIVERS,ETCHE,IGBO I,UMUASUKPO FARM ROAD,32/11/03/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/172054/172054-1677574553.pdf,true
+RIVERS,ETCHE,IGBO I,UMUOGODO II,32/11/03/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/172055/172055-1677573957.pdf,true
+RIVERS,ETCHE,IGBO I,UMUOGBU VILLAGE SQUARE,32/11/03/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/172056/172056-1677572661.pdf,true
+RIVERS,ETCHE,IGBO I,UMUEMESHE MARKET SQUARE,32/11/03/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/172057/172057-1677572002.pdf,true
+RIVERS,ETCHE,IGBO I,UMUANUM/UMUAKONU HEALTH CENTRE,32/11/03/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/172059/172059-1677571317.pdf,true
+RIVERS,ETCHE,IGBO I,UMUOTUBE HOUSING ESTATE,32/11/03/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/172060/172060-1677570898.pdf,true
+RIVERS,ETCHE,IGBO I,UMUOKE MARKET SQUARE,32/11/03/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/172061/172061-1677570396.pdf,true
+RIVERS,ETCHE,IGBO I,AMAH VILLAGE/ PROMISE LAND,32/11/03/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/172062/172062-1677569817.pdf,true
+RIVERS,ETCHE,IGBO I,UMUEBULU PRIMARY SCHOOL I,32/11/03/029,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/172064/172064-1677568823.pdf,true
+RIVERS,ETCHE,IGBO I,UMUEBULU PRIMARY SCHOOL II,32/11/03/030,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/172065/172065-1677568409.pdf,true
+RIVERS,ETCHE,IGBO I,UMUONWA JUNCTION,32/11/03/031,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/172066/172066-1677568106.pdf,true
+RIVERS,ETCHE,IGBO I,UMUEBULU NEW TOWN HALL,32/11/03/032,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/172067/172067-1677567618.pdf,true
+RIVERS,ETCHE,IGBO I,SHELL LOCATION 15,32/11/03/033,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/172068/172068-1677567358.pdf,true
+RIVERS,ETCHE,IGBO I,LONDON ESTATE JUNCTION,32/11/03/034,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/172069/172069-1677566838.pdf,true
+RIVERS,ETCHE,IGBO I,UMUALA JUNCTION,32/11/03/035,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/172070/172070-1677566421.pdf,true
+RIVERS,ETCHE,IGBO I,CALABAR CAMP,32/11/03/036,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/172071/172071-1677565985.pdf,true
+RIVERS,ETCHE,IGBO I,ODUDU SQUARE,32/11/03/037,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/172072/172072-1677565433.pdf,true
+RIVERS,ETCHE,IGBO I,UMUEBULU JUNCTION/CAR WASH,32/11/03/038,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/172073/172073-1677530130.pdf,false
+RIVERS,ETCHE,IGBO I,WELL-38 JUNCTION,32/11/03/039,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/172074/172074-1677529607.pdf,false
+RIVERS,ETCHE,IGBO I,OLD CASSAVA MARKET,32/11/03/040,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/172075/172075-1677528601.pdf,false
+RIVERS,ETCHE,IGBO I,UMUNWAELILE/UMUNWAIGWE/UMUEMETA TOWN HALL,32/11/03/042,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/172077/172077-1677513274.pdf,false
+RIVERS,ETCHE,IGBO I,ONUMIRI II,32/11/03/043,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/172078/172078-1677512903.pdf,false
+RIVERS,ETCHE,IGBO I,UMUOKWA,32/11/03/044,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25413/pu/172079/172079-1677512179.pdf,false
+RIVERS,ETCHE,IGBO I,UMUOTUBE TOWN HALL,32/11/03/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/03/pu/023/023-1677395591.pdf,false
+RIVERS,ETCHE,IGBO I,NEW CASSAVA MARKET,32/11/03/041,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/03/pu/041/041-1677391704.pdf,false
+RIVERS,ETCHE,IGBO I,UMUAKURU/EDEGELEM,32/11/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/03/pu/001/001-1677390734.pdf,false
+RIVERS,ETCHE,IGBO I,CHOKOTA,32/11/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/03/pu/006/006-1677379416.pdf,false
+RIVERS,ETCHE,IGBO I,UMUMWALOZIE/UMULU,32/11/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/03/pu/003/003-1677371262.pdf,false
+RIVERS,ETCHE,IGBO I,OKOCHIE/UMULU,32/11/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/03/pu/002/002-1677360333.pdf,false
+RIVERS,ETCHE,IGBO I,ONUMIRI UMUOKWA,32/11/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/03/pu/010/010-1677359337.pdf,false
+RIVERS,ETCHE,IGBO I,UMULU TOWN HALL,32/11/03/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/03/pu/016/016-1677358580.pdf,false
+RIVERS,ETCHE,IGBO I,OHANTA/ALAISHIMIRI/UMUOKE- IKWERRENGWO,32/11/03/028,,false

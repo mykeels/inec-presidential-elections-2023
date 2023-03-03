@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+RIVERS,AHOADA WEST,IGBUDUYA III,OGWEZE TOWN HALL EMEZI II,32/03/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3786/ward/25311/pu/171560/171560-1677655652.pdf,false
+RIVERS,AHOADA WEST,IGBUDUYA III,ELEUMA TOWN HALL ELEUMA,32/03/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3786/ward/25311/pu/171559/171559-1677655530.pdf,false
+RIVERS,AHOADA WEST,IGBUDUYA III,ODIOGBOR TOWN HALL,32/03/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3786/ward/25311/pu/171558/171558-1677655432.pdf,false
+RIVERS,AHOADA WEST,IGBUDUYA III,"TOWN HALL, EMEZI II",32/03/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3786/ward/25311/pu/107851/107851-1677655324.pdf,true
+RIVERS,AHOADA WEST,IGBUDUYA III,"TOWN HALL, EMEZI I",32/03/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3786/ward/25311/pu/107850/107850-1677655226.pdf,false
+RIVERS,AHOADA WEST,IGBUDUYA III,"TOWN HALL, ENITOI, II",32/03/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3786/ward/25311/pu/107849/107849-1677655114.pdf,false
+RIVERS,AHOADA WEST,IGBUDUYA III,"TOWN HALL, ODIEKE",32/03/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3786/ward/25311/pu/107848/107848-1677654902.pdf,true
+RIVERS,AHOADA WEST,IGBUDUYA III,"TOWN HALL, ODIOPITI/ODIOGBOR",32/03/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3786/ward/25311/pu/107847/107847-1677654764.pdf,false
+RIVERS,AHOADA WEST,IGBUDUYA III,"TOWN HALL, ODIOLUJI/ELE-UMA",32/03/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3786/ward/25311/pu/107846/107846-1677654240.pdf,true

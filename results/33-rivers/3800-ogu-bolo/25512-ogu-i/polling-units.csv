@@ -1,0 +1,13 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+RIVERS,OGU/BOLO,OGU  I,"OPEN SPACE, OWI-YA KUNE",32/17/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3800/ward/25512/pu/173268/173268-1677666134.pdf,false
+RIVERS,OGU/BOLO,OGU  I,"CIVIC CENTRE, OWI-YA KUNE",32/17/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3800/ward/25512/pu/173267/173267-1677611685.pdf,false
+RIVERS,OGU/BOLO,OGU  I,OPEN SPACE PEREBO,32/17/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3800/ward/25512/pu/110575/110575-1677610480.pdf,false
+RIVERS,OGU/BOLO,OGU  I,OPEN SPACE AGBARA  II,32/17/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3800/ward/25512/pu/110574/110574-1677608073.pdf,false
+RIVERS,OGU/BOLO,OGU  I,OPEN SPACE OPUGOR  II,32/17/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3800/ward/25512/pu/110571/110571-1677607273.pdf,true
+RIVERS,OGU/BOLO,OGU  I,OPEN SPACE OPUGOR  I,32/17/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3800/ward/25512/pu/110570/110570-1677607022.pdf,true
+RIVERS,OGU/BOLO,OGU  I,OPEN SPACE TORITOR,32/17/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3800/ward/25512/pu/110569/110569-1677602800.pdf,false
+RIVERS,OGU/BOLO,OGU  I,OPEN SPACE KUNE II,32/17/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3800/ward/25512/pu/110568/110568-1677602398.pdf,false
+RIVERS,OGU/BOLO,OGU  I,OPEN SPACE KUNE I,32/17/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3800/ward/25512/pu/110567/110567-1677601782.pdf,false
+RIVERS,OGU/BOLO,OGU  I,COMPOUND HALL KUNE,32/17/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3800/ward/25512/pu/110566/110566-1677600965.pdf,true
+RIVERS,OGU/BOLO,OGU  I,"COMPOUND HALL, AGBARA I",32/17/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/01/pu/008/008-1677361613.pdf,false
+RIVERS,OGU/BOLO,OGU  I,OPEN SPACE OPUGOR  III,32/17/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/01/pu/007/007-1677359236.pdf,false

@@ -1,0 +1,11 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+RIVERS,BONNY,DAN JUMBO/ BERESIRI,"VILLAGE SQUARE, GREEN IWOMA III",32/07/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3790/ward/25365/pu/108563/108563-1677774486.pdf,false
+RIVERS,BONNY,DAN JUMBO/ BERESIRI,"VILLAGE SQUARE, OGBUKUPOLO",32/07/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3790/ward/25365/pu/108561/108561-1677774243.pdf,true
+RIVERS,BONNY,DAN JUMBO/ BERESIRI,"VILLAGE SQUARE, ISHILOE GONO JUMBO",32/07/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3790/ward/25365/pu/108557/108557-1677773779.pdf,true
+RIVERS,BONNY,DAN JUMBO/ BERESIRI,"VILLAGE SQUARE, BERESIRI",32/07/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3790/ward/25365/pu/108556/108556-1677773476.pdf,false
+RIVERS,BONNY,DAN JUMBO/ BERESIRI,"VILLAGE SQUARE, GREEN IWOMA I",32/07/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3790/ward/25365/pu/108559/108559-1677681927.pdf,false
+RIVERS,BONNY,DAN JUMBO/ BERESIRI,TOWN HALL. OGBUKUPOLO,32/07/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3790/ward/25365/pu/108564/108564-1677681792.pdf,false
+RIVERS,BONNY,DAN JUMBO/ BERESIRI,"VILLAGE SQUARE, DAN JUMBO AMA",32/07/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3790/ward/25365/pu/108555/108555-1677676718.pdf,false
+RIVERS,BONNY,DAN JUMBO/ BERESIRI,"SCHOOL HALL, GREEN IWOMA II",32/07/08/006,,false
+RIVERS,BONNY,DAN JUMBO/ BERESIRI,"VILLAGE SQUARE, OPUDUMAKIKI",32/07/08/008,,false
+RIVERS,BONNY,DAN JUMBO/ BERESIRI,"VILLAGE SQUARE, ADONYE AMA",32/07/08/004,,false

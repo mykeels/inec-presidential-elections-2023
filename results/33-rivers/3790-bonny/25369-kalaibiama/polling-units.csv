@@ -1,0 +1,14 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+RIVERS,BONNY,KALAIBIAMA,TOLLOFARI 11 AGARA SIGHA TOLOLO SQUARE,32/07/12/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3790/ward/25369/pu/171788/171788-1677601564.pdf,true
+RIVERS,BONNY,KALAIBIAMA,"VILLAGE SQUARE, KUKU-IWOAMA",32/07/12/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3790/ward/25369/pu/108604/108604-1677601019.pdf,true
+RIVERS,BONNY,KALAIBIAMA,"VILLAGE SQUARE, ABONEMA FISHING PORT",32/07/12/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3790/ward/25369/pu/108603/108603-1677600310.pdf,false
+RIVERS,BONNY,KALAIBIAMA,"VILLAGE SQUARE, MAP-FOROPAMA",32/07/12/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3790/ward/25369/pu/108601/108601-1677599723.pdf,true
+RIVERS,BONNY,KALAIBIAMA,"VILLAGE SQUARE, AGISIBI",32/07/12/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3790/ward/25369/pu/108600/108600-1677599130.pdf,false
+RIVERS,BONNY,KALAIBIAMA,"OPEN SPACE, LEGEKIRI I & II",32/07/12/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3790/ward/25369/pu/108596/108596-1677598103.pdf,false
+RIVERS,BONNY,KALAIBIAMA,"SCHOOL HALL, KURUAMA",32/07/12/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3790/ward/25369/pu/108595/108595-1677589502.pdf,true
+RIVERS,BONNY,KALAIBIAMA,"SCHOOL HALL, KALAIBIAMA II",32/07/12/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3790/ward/25369/pu/108594/108594-1677589036.pdf,false
+RIVERS,BONNY,KALAIBIAMA,"SCHOOL HALL, KALAIBIAMA I",32/07/12/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3790/ward/25369/pu/108593/108593-1677587536.pdf,true
+RIVERS,BONNY,KALAIBIAMA,"VILLAGE SQUARE, IKURUKIRI",32/07/12/006,,false
+RIVERS,BONNY,KALAIBIAMA,"VILLAGE SQUARE, OPUKIRI",32/07/12/007,,false
+RIVERS,BONNY,KALAIBIAMA,"VILLAGE SQUARE, MBISU",32/07/12/005,,false
+RIVERS,BONNY,KALAIBIAMA,"VILLAGE SQUARE, OGBOKUKIRI",32/07/12/010,,false

@@ -1,0 +1,15 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+RIVERS,KHANA,TAABAA,GURE,32/14/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+RIVERS,KHANA,TAABAA,TEERA-UE,32/14/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/108649/result_12494_1677588005_thumb.jpg,false
+RIVERS,KHANA,TAABAA,BARAKOR,32/14/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/108655/result_12500_1677590774_thumb.jpg,false
+RIVERS,KHANA,TAABAA,JUNCTION,32/14/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/108650/result_12495_1677588811_thumb.jpg,false
+RIVERS,KHANA,TAABAA,BARAKOR BUS STOP,32/14/08/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/668389/result_12505_1677591327_thumb.jpg,false
+RIVERS,KHANA,TAABAA,SAAKOO,32/14/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/108656/result_12501_1677591027_thumb.jpg,false
+RIVERS,KHANA,TAABAA,BARAYA,32/14/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/108648/result_12493_1677587784_thumb.jpg,false
+RIVERS,KHANA,TAABAA,BARA-KPONG,32/14/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/108652/result_12497_1677589528_thumb.jpg,false
+RIVERS,KHANA,TAABAA,KOROGBERE,32/14/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/108651/result_12496_1677589276_thumb.jpg,false
+RIVERS,KHANA,TAABAA,KEOR,32/14/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/108654/result_12499_1677590999_thumb.jpg,false
+RIVERS,KHANA,TAABAA,EEDU,32/14/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/108647/result_12492_1677587261_thumb.jpg,false
+RIVERS,KHANA,TAABAA,BARASARO,32/14/08/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/108658/result_12503_1677591722_thumb.jpg,false
+RIVERS,KHANA,TAABAA,BARALOOLE,32/14/08/013,,false
+RIVERS,KHANA,TAABAA,ZORKONBEKUE,32/14/08/011,,false

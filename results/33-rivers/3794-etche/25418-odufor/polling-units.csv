@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+RIVERS,ETCHE,ODUFOR,UMUOBIRI II,32/11/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25418/pu/109118/109118-1677582147.pdf,true
+RIVERS,ETCHE,ODUFOR,UMUKANUKWU,32/11/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25418/pu/109115/109115-1677581445.pdf,true
+RIVERS,ETCHE,ODUFOR,UMUOBIRI I,32/11/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25418/pu/109117/109117-1677580545.pdf,true
+RIVERS,ETCHE,ODUFOR,UMU-AMANU/UMUOKWARA,32/11/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25418/pu/109121/109121-1677579706.pdf,true
+RIVERS,ETCHE,ODUFOR,UMUOBIRI III,32/11/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25418/pu/109119/109119-1677577803.pdf,false
+RIVERS,ETCHE,ODUFOR,OTAMIRI VILLAGE CENTRE,32/11/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3794/ward/25418/pu/109114/109114-1677574449.pdf,true
+RIVERS,ETCHE,ODUFOR,UMUELEM TOWN HALL,32/11/08/003,,false
+RIVERS,ETCHE,ODUFOR,OBIRI-OCHIMBA,32/11/08/007,,false

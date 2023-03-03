@@ -1,0 +1,16 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+RIVERS,ASARI-TORU,BUGUMA  NORTH EAST,AMATORU POLO,32/06/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3789/ward/25350/pu/171705/171705-1677695951.pdf,false
+RIVERS,ASARI-TORU,BUGUMA  NORTH EAST,IWAI TARIAH POLO,32/06/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3789/ward/25350/pu/171704/171704-1677695868.pdf,false
+RIVERS,ASARI-TORU,BUGUMA  NORTH EAST,ISOKARIARI COMPOUND IV,32/06/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3789/ward/25350/pu/108374/108374-1677695650.pdf,true
+RIVERS,ASARI-TORU,BUGUMA  NORTH EAST,ORUPUMBU COMPOUND,32/06/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3789/ward/25350/pu/108373/108373-1677695306.pdf,false
+RIVERS,ASARI-TORU,BUGUMA  NORTH EAST,ISOKARIARI COMPOUND III,32/06/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3789/ward/25350/pu/108372/108372-1677695209.pdf,false
+RIVERS,ASARI-TORU,BUGUMA  NORTH EAST,ISOKARIARI COMPOUND II,32/06/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3789/ward/25350/pu/108371/108371-1677695111.pdf,false
+RIVERS,ASARI-TORU,BUGUMA  NORTH EAST,ISOKARIARI COMPOUND I,32/06/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3789/ward/25350/pu/108370/108370-1677694806.pdf,false
+RIVERS,ASARI-TORU,BUGUMA  NORTH EAST,KCC BUGUMA,32/06/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3789/ward/25350/pu/108369/108369-1677694707.pdf,false
+RIVERS,ASARI-TORU,BUGUMA  NORTH EAST,BARNAGO COMPOUND,32/06/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3789/ward/25350/pu/108367/108367-1677694584.pdf,false
+RIVERS,ASARI-TORU,BUGUMA  NORTH EAST,TARIAH MEMORIAL HALL III,32/06/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3789/ward/25350/pu/108366/108366-1677694503.pdf,true
+RIVERS,ASARI-TORU,BUGUMA  NORTH EAST,TARIAH MEMORIAL HALL II,32/06/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3789/ward/25350/pu/108365/108365-1677694394.pdf,false
+RIVERS,ASARI-TORU,BUGUMA  NORTH EAST,TARIAH MEMORIAL HALL I,32/06/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3789/ward/25350/pu/108364/108364-1677693030.pdf,false
+RIVERS,ASARI-TORU,BUGUMA  NORTH EAST,"SOBEREKON, BIG FOWL",32/06/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3789/ward/25350/pu/108363/108363-1677692876.pdf,false
+RIVERS,ASARI-TORU,BUGUMA  NORTH EAST,"EKINE POLO, BIG FOWL",32/06/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3789/ward/25350/pu/108362/108362-1677692694.pdf,false
+RIVERS,ASARI-TORU,BUGUMA  NORTH EAST,ORUPUMBUS  COMPOUND,32/06/06/007,,false

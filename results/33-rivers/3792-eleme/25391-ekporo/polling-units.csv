@@ -1,0 +1,6 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+RIVERS,ELEME,EKPORO,"SHOOL HALL, I-A- ETA 2",32/09/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3792/ward/25391/pu/171897/171897-1677755580.pdf,true
+RIVERS,ELEME,EKPORO,"OPEN SPACE, ALUNGELALE",32/09/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3792/ward/25391/pu/108777/108777-1677755211.pdf,false
+RIVERS,ELEME,EKPORO,"OPEN SPACE, EYIMETA",32/09/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3792/ward/25391/pu/108776/108776-1677754937.pdf,false
+RIVERS,ELEME,EKPORO,"SCHOOL HALL, I-A-ETA",32/09/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3792/ward/25391/pu/108775/108775-1677754460.pdf,false
+RIVERS,ELEME,EKPORO,"OPEN SPACE, ETA",32/09/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3792/ward/25391/pu/108774/108774-1677753322.pdf,false

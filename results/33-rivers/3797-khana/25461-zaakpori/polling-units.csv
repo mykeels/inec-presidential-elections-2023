@@ -1,0 +1,13 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+RIVERS,KHANA,ZAAKPORI,KUE IKINANEE,32/14/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3797/ward/25461/pu/172302/172302-1677739925.pdf,true
+RIVERS,KHANA,ZAAKPORI,TAEZORGOR,32/14/02/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/108563/result_12387_1677581761_thumb.jpg,false
+RIVERS,KHANA,ZAAKPORI,KEKARA,32/14/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/108557/result_12381_1677580958_thumb.jpg,false
+RIVERS,KHANA,ZAAKPORI,LUUKO,32/14/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/108556/result_12380_1677580516_thumb.jpg,false
+RIVERS,KHANA,ZAAKPORI,IKPANI,32/14/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/108560/result_12384_1677581498_thumb.jpg,false
+RIVERS,KHANA,ZAAKPORI,LEETE GBOR II,32/14/02/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/668395/result_12389_1677582696_thumb.jpg,false
+RIVERS,KHANA,ZAAKPORI,LUUYOR,32/14/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/108558/result_12382_1677584655_thumb.jpg,false
+RIVERS,KHANA,ZAAKPORI,YEEKUNU,32/14/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/108559/result_12383_1677581231_thumb.jpg,false
+RIVERS,KHANA,ZAAKPORI,KUEYIRATE,32/14/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/108562/result_12386_1677583678_thumb.jpg,false
+RIVERS,KHANA,ZAAKPORI,EETE EEPIE,32/14/02/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/668396/result_12390_1677580110_thumb.jpg,false
+RIVERS,KHANA,ZAAKPORI,EEMI,32/14/02/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/108564/result_12388_1677582841_thumb.jpg,false
+RIVERS,KHANA,ZAAKPORI,GBORKIRI,32/14/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/108561/result_12385_1677584077_thumb.jpg,false
