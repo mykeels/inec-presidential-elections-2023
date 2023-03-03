@@ -1,0 +1,13 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+SOKOTO,SOKOTO NORTH,S/MUSULMI 'A',WAJE AREA COURT II,33/16/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25764/pu/174440/174440-1677673412.pdf,true
+SOKOTO,SOKOTO NORTH,S/MUSULMI 'A',KOFAR BAI - KOFAR BAI DAN HILI,33/16/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112851/result_56816_1677672220_thumb.jpg,false
+SOKOTO,SOKOTO NORTH,S/MUSULMI 'A',GIDAN AMINU ALKANCHI,33/16/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112850/result_56815_1677670703_thumb.jpg,true
+SOKOTO,SOKOTO NORTH,S/MUSULMI 'A',KOFAR BAI - KOFAR BAI,33/16/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112845/result_56810_1677670333_thumb.jpg,false
+SOKOTO,SOKOTO NORTH,S/MUSULMI 'A',WAJE AREA COURT - WAJE AREA COURT,33/16/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112847/result_56812_1677669820_thumb.jpg,false
+SOKOTO,SOKOTO NORTH,S/MUSULMI 'A',ZAZZAGAWA,33/16/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/670476/result_56818_1677669627_thumb.jpg,false
+SOKOTO,SOKOTO NORTH,S/MUSULMI 'A',KUWARU,33/16/09/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/670477/result_56819_1677669031_thumb.jpg,false
+SOKOTO,SOKOTO NORTH,S/MUSULMI 'A',GIDAN MUAZU NA LIMAN,33/16/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112846/result_56811_1677668732_thumb.jpg,false
+SOKOTO,SOKOTO NORTH,S/MUSULMI 'A',G/S/MUSULIMI - GIDAN S/MUSLIMI,33/16/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112844/result_56809_1677668223_thumb.jpg,false
+SOKOTO,SOKOTO NORTH,S/MUSULMI 'A',GAKRKAR GARKUWA KWANDAWA,33/16/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112852/result_56817_1677667677_thumb.jpg,true
+SOKOTO,SOKOTO NORTH,S/MUSULMI 'A',SULTAN WARD PRI.SCHOOL - SULTAN WARD PRI.SCH.,33/16/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112848/result_56813_1677666664_thumb.jpg,false
+SOKOTO,SOKOTO NORTH,S/MUSULMI 'A',MAMMAN KADA - MAMMAN KADA,33/16/09/006,,false

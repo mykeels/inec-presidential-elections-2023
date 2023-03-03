@@ -1,0 +1,8 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+SOKOTO,SILAME,MARAFA WEST,TUNGAR YARO/SHIYAR MAGAJI,33/15/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112683/result_56558_1677679581_thumb.jpg,false
+SOKOTO,SILAME,MARAFA WEST,TUNGAR ABDU/SHIYAR MAGAJI,33/15/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/09/pu/001/001-1677413170.pdf,false
+SOKOTO,SILAME,MARAFA WEST,TUNGAR MAMBA/SHIYAR MAGAJI,33/15/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/09/pu/002/002-1677412062.pdf,false
+SOKOTO,SILAME,MARAFA WEST,MAJEN SANYINNA/SHIYAR SANYINNA,33/15/09/006,,false
+SOKOTO,SILAME,MARAFA WEST,MAJE SHIYAR NOMA/BURTALI,33/15/09/005,,false
+SOKOTO,SILAME,MARAFA WEST,GARGARIYO PRIMARY SCHOOL.,33/15/09/007,,false
+SOKOTO,SILAME,MARAFA WEST,GIDAN TUDU/SHIYAR MAGAJI,33/15/09/004,,false

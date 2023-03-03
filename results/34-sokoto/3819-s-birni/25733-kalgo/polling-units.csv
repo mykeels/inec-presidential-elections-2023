@@ -1,0 +1,16 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+SOKOTO,S/BIRNI,KALGO,GIDAN AYYA,33/13/09/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/670301/result_56287_1677761184_thumb.jpg,false
+SOKOTO,S/BIRNI,KALGO,TSAURAWA,33/13/09/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112467/result_56286_1677760827_thumb.jpg,false
+SOKOTO,S/BIRNI,KALGO,DANKARMAWA,33/13/09/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112466/result_56285_1677760591_thumb.jpg,false
+SOKOTO,S/BIRNI,KALGO,KUKA - KUKA,33/13/09/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112465/result_56284_1677759795_thumb.jpg,false
+SOKOTO,S/BIRNI,KALGO,GIDAN AUTA,33/13/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112464/result_56283_1677759071_thumb.jpg,false
+SOKOTO,S/BIRNI,KALGO,TASHAR BAGARUWA,33/13/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112463/result_56282_1677757838_thumb.jpg,false
+SOKOTO,S/BIRNI,KALGO,DUKKUMA,33/13/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112462/result_56281_1677757179_thumb.jpg,true
+SOKOTO,S/BIRNI,KALGO,ADAMAWA,33/13/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112461/result_56280_1677753733_thumb.jpg,false
+SOKOTO,S/BIRNI,KALGO,DANGARI - DANGARI,33/13/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112460/result_56279_1677752154_thumb.jpg,false
+SOKOTO,S/BIRNI,KALGO,TEKE MAIFULOTI,33/13/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112459/result_56278_1677751405_thumb.jpg,false
+SOKOTO,S/BIRNI,KALGO,SARDAUNA YAMMA MASALLACI,33/13/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112458/result_56277_1677692739_thumb.jpg,false
+SOKOTO,S/BIRNI,KALGO,SARDAUNA GABAS MPS,33/13/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112457/result_56276_1677692508_thumb.jpg,false
+SOKOTO,S/BIRNI,KALGO,KALGO II DANFILI,33/13/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112456/result_56275_1677691545_thumb.jpg,false
+SOKOTO,S/BIRNI,KALGO,KALGO I MPS,33/13/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112455/result_56274_1677690960_thumb.jpg,false
+SOKOTO,S/BIRNI,KALGO,GARIN MAI KASUWA,33/13/09/015,,false

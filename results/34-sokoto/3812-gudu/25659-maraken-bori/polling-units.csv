@@ -1,0 +1,7 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+SOKOTO,GUDU,MARAKEN BORI,DANFILI JIMA JIMIN GAYA,33/06/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3812/ward/25659/pu/112650/112650-1677774677.pdf,false
+SOKOTO,GUDU,MARAKEN BORI,"DANFILI, TAGIMBA",33/06/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3812/ward/25659/pu/112649/112649-1677774586.pdf,false
+SOKOTO,GUDU,MARAKEN BORI,"DANFILI, JIMA JIMIN SULE",33/06/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3812/ward/25659/pu/112648/112648-1677774478.pdf,true
+SOKOTO,GUDU,MARAKEN BORI,"DANFILI, MARAKEN FULANI",33/06/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111548/result_55153_1677528607_thumb.jpg,false
+SOKOTO,GUDU,MARAKEN BORI,ASIBITIN MARAKE,33/06/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/670128/result_55157_1677528384_thumb.jpg,false
+SOKOTO,GUDU,MARAKEN BORI,"DANFILI, MARAKEN BORI",33/06/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111547/result_55152_1677527824_thumb.jpg,true

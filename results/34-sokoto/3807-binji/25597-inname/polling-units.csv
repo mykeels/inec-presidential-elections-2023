@@ -1,0 +1,8 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+SOKOTO,BINJI,INNAME,FARUWA  JAMALI,33/01/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3807/ward/25597/pu/111902/111902-1677755208.pdf,true
+SOKOTO,BINJI,INNAME,KUSA GA G/MODE (IBINJ),33/01/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3807/ward/25597/pu/111901/111901-1677754069.pdf,true
+SOKOTO,BINJI,INNAME,GURUZA /SAMAMA,33/01/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3807/ward/25597/pu/111900/111900-1677753361.pdf,true
+SOKOTO,BINJI,INNAME,GIDAN BAWA (TUDUN KOSE),33/01/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/110804/result_54206_1677572473_thumb.jpg,false
+SOKOTO,BINJI,INNAME,GIDAN GINJO,33/01/01/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/110805/result_54207_1677572888_thumb.jpg,false
+SOKOTO,BINJI,INNAME,INNAME MASUKAYI,33/01/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/110800/result_54202_1677571989_thumb.jpg,false
+SOKOTO,BINJI,INNAME,INNAME PRIMARY SCHOOL,33/01/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/669931/result_54208_1677582626_thumb.jpg,false

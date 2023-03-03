@@ -1,0 +1,26 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+SOKOTO,TAMBUWAL,BASHIRE/MAIKADA,DAKAYA/CHOFAL - DAKAYA DANFILI,33/18/03/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/113146/result_57247_1677514000_thumb.jpg,true
+SOKOTO,TAMBUWAL,BASHIRE/MAIKADA,YAGAWAL PRI SCH II,33/18/03/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/670634/result_57259_1677519384_thumb.jpg,false
+SOKOTO,TAMBUWAL,BASHIRE/MAIKADA,HULKUI/GYARGE - GYARGE PRI. SCH.,33/18/03/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,true
+SOKOTO,TAMBUWAL,BASHIRE/MAIKADA,MODIBBO KADA PRI. SCH.,33/18/03/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/113150/result_57251_1677596425_thumb.jpg,false
+SOKOTO,TAMBUWAL,BASHIRE/MAIKADA,BASHIRE  SHIYAR MAGAJI - KANWURI,33/18/03/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/113141/result_57242_1677595207_thumb.jpg,false
+SOKOTO,TAMBUWAL,BASHIRE/MAIKADA,KAURAR ADARAWA/ - K/ADARAWA KANWURI,33/18/03/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/113137/result_57238_1677594233_thumb.jpg,false
+SOKOTO,TAMBUWAL,BASHIRE/MAIKADA,MAIKADA - MAIKADA PRI. SCH.,33/18/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/113134/result_57235_1677594044_thumb.jpg,false
+SOKOTO,TAMBUWAL,BASHIRE/MAIKADA,MAIKADA DISPENSARY,33/18/03/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/670631/result_57256_1677593627_thumb.jpg,false
+SOKOTO,TAMBUWAL,BASHIRE/MAIKADA,YAGAWAL PRI. SCH.,33/18/03/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/113153/result_57254_1677581506_thumb.jpg,false
+SOKOTO,TAMBUWAL,BASHIRE/MAIKADA,LALLE PRI. SCH.,33/18/03/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/113151/result_57252_1677579955_thumb.jpg,false
+SOKOTO,TAMBUWAL,BASHIRE/MAIKADA,NEAR BASHIRE ISLAMIYYA,33/18/03/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/670633/result_57258_1677578474_thumb.jpg,false
+SOKOTO,TAMBUWAL,BASHIRE/MAIKADA,BANGA - BANGA PRI. SCH.,33/18/03/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/113147/result_57248_1677582672_thumb.jpg,false
+SOKOTO,TAMBUWAL,BASHIRE/MAIKADA,BASHIRE SHIYAR YAMMA - DANHILI,33/18/03/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/113143/result_57244_1677579603_thumb.jpg,false
+SOKOTO,TAMBUWAL,BASHIRE/MAIKADA,ZABARMA,33/18/03/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/113154/result_57255_1677582398_thumb.jpg,false
+SOKOTO,TAMBUWAL,BASHIRE/MAIKADA,UNGUWAR DAN BAGUDU PRI. SCH.,33/18/03/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/113152/result_57253_1677580541_thumb.jpg,false
+SOKOTO,TAMBUWAL,BASHIRE/MAIKADA,LABE - LABE PRI. SCH.,33/18/03/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/113148/result_57249_1677581779_thumb.jpg,false
+SOKOTO,TAMBUWAL,BASHIRE/MAIKADA,DANGASU/GAWAKUKE - DANGASU G. HAKIMIPRI.SCHOOL,33/18/03/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/113140/result_57241_1677581127_thumb.jpg,false
+SOKOTO,TAMBUWAL,BASHIRE/MAIKADA,MASU GIDAN RUWA,33/18/03/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/670632/result_57257_1677580720_thumb.jpg,false
+SOKOTO,TAMBUWAL,BASHIRE/MAIKADA,ALASAN KUNGA - ALASAN PRI. SCH.,33/18/03/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/113145/result_57246_1677581998_thumb.jpg,false
+SOKOTO,TAMBUWAL,BASHIRE/MAIKADA,BASHIRE SHIYAR GABAS - PRI. SCH.,33/18/03/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/113142/result_57243_1677576559_thumb.jpg,false
+SOKOTO,TAMBUWAL,BASHIRE/MAIKADA,MASU/DAKAYA - MASU PRI. SCH.,33/18/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/113144/result_57245_1677576162_thumb.jpg,false
+SOKOTO,TAMBUWAL,BASHIRE/MAIKADA,GUNZU/ZARUMAI - GUNZU PRI. SCH.,33/18/03/002,,false
+SOKOTO,TAMBUWAL,BASHIRE/MAIKADA,GONGAR DIKKO/DULUM - GONGAR DIKKO PRI. SCH.,33/18/03/006,,false
+SOKOTO,TAMBUWAL,BASHIRE/MAIKADA,GARBA MAGAJI - GARBA NMAGAJI PRI. SCH.,33/18/03/003,,false
+SOKOTO,TAMBUWAL,BASHIRE/MAIKADA,GONGAR - YAYA/GIDAN MAKERA - GIDAN YAYA PRI. SCH.,33/18/03/005,,false

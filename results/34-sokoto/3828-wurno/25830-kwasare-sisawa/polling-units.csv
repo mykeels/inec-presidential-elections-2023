@@ -1,0 +1,11 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+SOKOTO,WURNO,KWASARE/SISAWA,SHIYAR DAN BARARA/SHIYAR DANBARARA 'B',33/22/11/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/113752/result_58078_1677491972_thumb.jpg,true
+SOKOTO,WURNO,KWASARE/SISAWA,SHIYAR DANBARARA,33/22/11/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/113743/result_58069_1677491489_thumb.jpg,true
+SOKOTO,WURNO,KWASARE/SISAWA,GUNTU GIDA/GUNTU GIDA,33/22/11/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/113745/result_58071_1677492119_thumb.jpg,false
+SOKOTO,WURNO,KWASARE/SISAWA,TUDUN MALLAME,33/22/11/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/113746/result_58072_1677491738_thumb.jpg,true
+SOKOTO,WURNO,KWASARE/SISAWA,GIDAN FAKO,33/22/11/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/113751/result_58077_1677491894_thumb.jpg,true
+SOKOTO,WURNO,KWASARE/SISAWA,SHIYAR UBAN DAWAKI,33/22/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/11/pu/002/002-1677368270.pdf,false
+SOKOTO,WURNO,KWASARE/SISAWA,YARLABE,33/22/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/11/pu/007/007-1677366680.pdf,false
+SOKOTO,WURNO,KWASARE/SISAWA,SHIYAR SISAWA,33/22/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/11/pu/006/006-1677365883.pdf,false
+SOKOTO,WURNO,KWASARE/SISAWA,ADARAWA,33/22/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/11/pu/005/005-1677365412.pdf,false
+SOKOTO,WURNO,KWASARE/SISAWA,GUMBORAWA,33/22/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/11/pu/008/008-1677358722.pdf,false

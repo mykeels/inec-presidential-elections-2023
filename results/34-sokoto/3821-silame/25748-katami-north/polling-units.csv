@@ -1,0 +1,12 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+SOKOTO,SILAME,KATAMI NORTH,RAIRAN FULANI/GIDAN MAGAJI,33/15/03/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112641/result_56502_1677662493_thumb.jpg,false
+SOKOTO,SILAME,KATAMI NORTH,SHIYAR TASALYA/TSOHON KANWURI,33/15/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3821/ward/25748/pu/113744/113744-1677656446.pdf,false
+SOKOTO,SILAME,KATAMI NORTH,SHIYAR MAGAJI,33/15/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112638/result_56499_1677612915_thumb.jpg,false
+SOKOTO,SILAME,KATAMI NORTH,SHIYAR TASALYA/FILIN NA'AKKA,33/15/03/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112640/result_56501_1677604435_thumb.jpg,false
+SOKOTO,SILAME,KATAMI NORTH,TUNGAR ATTO/GIDAN HAKIMI,33/15/03/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112644/result_56505_1677603959_thumb.jpg,false
+SOKOTO,SILAME,KATAMI NORTH,SHIYAR TASALYA,33/15/03/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112639/result_56500_1677600408_thumb.jpg,false
+SOKOTO,SILAME,KATAMI NORTH,FILIN DAN HAMIDU NEAR IZALA MOSQUE.,33/15/03/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+SOKOTO,SILAME,KATAMI NORTH,GUJIYA/GIDAN MAGAJI,33/15/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3821/ward/25748/pu/113741/113741-1677598068.pdf,true
+SOKOTO,SILAME,KATAMI NORTH,NEAR HONHON ALHAJI DAUDUN WAYA,33/15/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/03/pu/011/011-1677376162.pdf,false
+SOKOTO,SILAME,KATAMI NORTH,SHIYAR TASALYA MASALLACI,33/15/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/03/pu/010/010-1677361380.pdf,false
+SOKOTO,SILAME,KATAMI NORTH,TUNGAR DADI/GARKAR HAKIMI,33/15/03/006,,false

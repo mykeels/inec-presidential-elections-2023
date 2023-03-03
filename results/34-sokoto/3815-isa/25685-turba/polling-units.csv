@@ -1,0 +1,17 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+SOKOTO,ISA,TURBA,"SHALLA, PRI. SCH.",33/09/03/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111926/result_55608_1677490528_thumb.jpg,false
+SOKOTO,ISA,TURBA,"GUMAL, PRI. SCH.",33/09/03/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111929/result_55611_1677502047_thumb.jpg,false
+SOKOTO,ISA,TURBA,BAKIN SABUWAR KASUWA,33/09/03/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/670224/result_55614_1677502633_thumb.jpg,false
+SOKOTO,ISA,TURBA,"ZAURE HUDU, ZAURE HUDU",33/09/03/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111922/result_55604_1677489484_thumb.jpg,false
+SOKOTO,ISA,TURBA,"GAWAKUKE, DANFILI",33/09/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111924/result_55606_1677490340_thumb.jpg,false
+SOKOTO,ISA,TURBA,"KOFAR YAMMA, KOFAR YAMMA",33/09/03/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111921/result_55603_1677486712_thumb.jpg,false
+SOKOTO,ISA,TURBA,BAKIN TSOHUWAR KASUWA,33/09/03/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/670225/result_55615_1677502827_thumb.jpg,false
+SOKOTO,ISA,TURBA,"TAKWASTAWA, FAGE SHIYAR MAIGARI",33/09/03/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111927/result_55609_1677501395_thumb.jpg,false
+SOKOTO,ISA,TURBA,"TURBA MAGAZAWA, PRI. SCH.",33/09/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111920/result_55602_1677488993_thumb.jpg,false
+SOKOTO,ISA,TURBA,"KAIBABA, PRI. SCH.",33/09/03/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111923/result_55605_1677500950_thumb.jpg,false
+SOKOTO,ISA,TURBA,"MADATTAI, FAGE",33/09/03/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111928/result_55610_1677501684_thumb.jpg,false
+SOKOTO,ISA,TURBA,"GIDAN BAWA, PRI. SCH.",33/09/03/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111925/result_55607_1677501196_thumb.jpg,false
+SOKOTO,ISA,TURBA,"KAIBABA, PRI. SCH.",33/09/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111930/result_55612_1677502319_thumb.jpg,true
+SOKOTO,ISA,TURBA,GIDAN NAMARINA,33/09/03/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/670227/result_55617_1677502995_thumb.jpg,true
+SOKOTO,ISA,TURBA,GIDAN KASO PRI. SCH.,33/09/03/012,,false
+SOKOTO,ISA,TURBA,DALABU,33/09/03/015,,false

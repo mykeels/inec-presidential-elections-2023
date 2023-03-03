@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+SOKOTO,ISA,YANFAKO,YANFAKO,33/09/07/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111964/result_55660_1677500241_thumb.jpg,false
+SOKOTO,ISA,YANFAKO,TABKIN HILI,33/09/07/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111971/result_55667_1677497102_thumb.jpg,false
+SOKOTO,ISA,YANFAKO,GARIN UBANDAWAKI,33/09/07/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111967/result_55663_1677498669_thumb.jpg,false
+SOKOTO,ISA,YANFAKO,ARAGA,33/09/07/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111968/result_55664_1677498495_thumb.jpg,false
+SOKOTO,ISA,YANFAKO,TAKKIN HILI,33/09/07/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111965/result_55661_1677499845_thumb.jpg,false
+SOKOTO,ISA,YANFAKO,GALUBE,33/09/07/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111969/result_55665_1677498249_thumb.jpg,false
+SOKOTO,ISA,YANFAKO,"TAKALMAWA, TAKALMAWA",33/09/07/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111970/result_55666_1677497919_thumb.jpg,false
+SOKOTO,ISA,YANFAKO,DOGON HANO,33/09/07/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111966/result_55662_1677499204_thumb.jpg,true

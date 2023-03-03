@@ -1,0 +1,36 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',SABON GIDA,33/16/02/033,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25757/pu/174375/174375-1677611819.pdf,false
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',SHIYAR BELLO IBRAHIM,33/16/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25757/pu/113826/113826-1677611733.pdf,true
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',G/WAZIRI NEAR M/SHAYI TAKARDAWA,33/16/02/035,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25757/pu/174377/174377-1677611477.pdf,false
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',GIDAN BARADE K/RINI B,33/16/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25757/pu/113824/113824-1677611174.pdf,false
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',GIDAN SARDAUNA NA DAJI,33/16/02/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25757/pu/174363/174363-1677610919.pdf,false
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',GIDAN YUSUF BILYA,33/16/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25757/pu/113822/113822-1677610466.pdf,false
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',RIJIYA BAZZA - RIJIYA BAZZA II,33/16/02/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25757/pu/113831/113831-1677610140.pdf,true
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',GIDAN HASSAN STORE,33/16/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25757/pu/113817/113817-1677608623.pdf,false
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',HILIN MAGAJI GIDADAWA,33/16/02/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25757/pu/174366/174366-1677607254.pdf,true
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',NEAR MAKARANTAR MALAM HALIRU,33/16/02/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25757/pu/174367/174367-1677606928.pdf,true
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',GARKAR GARBA JABO  2,33/16/02/034,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25757/pu/174376/174376-1677606799.pdf,true
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',OFFISHIN HAKIMI - GIDAN DAN BATURE,33/16/02/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25757/pu/113830/113830-1677606117.pdf,true
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',GIDAN WAZIRIN SOSKOTO,33/16/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25757/pu/113820/113820-1677606102.pdf,true
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',YAR DARBEJIYA,33/16/02/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25757/pu/174369/174369-1677605753.pdf,true
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',TUDUN UBAN DOMA,33/16/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25757/pu/113827/113827-1677604975.pdf,true
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',SHIYAR SARKIN SHANU,33/16/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25757/pu/113821/113821-1677604754.pdf,true
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',YUSUF IDI,33/16/02/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25757/pu/174364/174364-1677604084.pdf,false
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',GDSS KOFAR RINI,33/16/02/029,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25757/pu/174371/174371-1677604019.pdf,true
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',YARI MU'AZU KOFAR RINI,33/16/02/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25757/pu/174368/174368-1677603301.pdf,true
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',OFFISHIN HAKIMI,33/16/02/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25757/pu/113829/113829-1677602744.pdf,false
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',GARKAR NAWADU,33/16/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25757/pu/113816/113816-1677602233.pdf,true
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',GIDAN MALAM SODANGI,33/16/02/004,,false
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',SHIYAR ABBAS DANGALADIMA,33/16/02/014,,false
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',RIJIYAR BAZZA - RIJIYAR BAZZA I,33/16/02/003,,false
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',GIDAN MARAFAN KWANNA II,33/16/02/008,,false
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',LADAN SHAZALAWA (MASASSAKA),33/16/02/023,,false
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',GIDAN IGE MALAU,33/16/02/001,,false
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',CHIKA MAI ALLURA,33/16/02/028,,false
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',AMINU BAZZA,33/16/02/031,,false
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',GIDAN IGE MALAU,33/16/02/002,,false
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',GIDAN MARAFAN KWANNA I,33/16/02/007,,false
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',WAZIRI MODEL,33/16/02/030,,false
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',GIDAN BARADE K/RINI A,33/16/02/012,,false
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',G/GARBA JABO,33/16/02/017,,false
+SOKOTO,SOKOTO NORTH,WAZIRI 'B',GOBIRAWAR YAN GORO,33/16/02/032,,false

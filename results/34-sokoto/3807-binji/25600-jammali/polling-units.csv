@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+SOKOTO,BINJI,JAMMALI,MASARAR FULANI,33/01/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3807/ward/25600/pu/111921/111921-1677757011.pdf,true
+SOKOTO,BINJI,JAMMALI,DADDALE,33/01/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3807/ward/25600/pu/111920/111920-1677756243.pdf,true
+SOKOTO,BINJI,JAMMALI,FILIN KASUWA,33/01/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3807/ward/25600/pu/111919/111919-1677754948.pdf,true
+SOKOTO,BINJI,JAMMALI,JAMMALI G/MAGAJI,33/01/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3807/ward/25600/pu/111918/111918-1677754583.pdf,false
+SOKOTO,BINJI,JAMMALI,GIDAN MAGAJI TOBI,33/01/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/110824/result_54231_1677573281_thumb.jpg,false
+SOKOTO,BINJI,JAMMALI,JAMALI TOBI,33/01/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/110825/result_54232_1677576928_thumb.jpg,false
+SOKOTO,BINJI,JAMMALI,GIDAN KIRYA,33/01/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/110826/result_54233_1677581223_thumb.jpg,false
+SOKOTO,BINJI,JAMMALI,DALIJAN HAUSAWA,33/01/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/04/pu/005/005-1677359246.pdf,false

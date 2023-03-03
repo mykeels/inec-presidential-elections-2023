@@ -1,0 +1,24 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+SOKOTO,BODINGA,BODINGA/TAUMA,"FILIN AISHA, SH/AISHA FILIN AISHA",33/02/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3808/ward/25607/pu/111984/111984-1677713605.pdf,true
+SOKOTO,BODINGA,BODINGA/TAUMA,LOW COST,33/02/01/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/110888/result_54300_1677672625_thumb.jpg,false
+SOKOTO,BODINGA,BODINGA/TAUMA,RUNJIN KUDU D/FILI,33/02/01/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/110887/result_54299_1677672268_thumb.jpg,false
+SOKOTO,BODINGA,BODINGA/TAUMA,SHIYAR MAJEMA,33/02/01/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/110886/result_54298_1677672131_thumb.jpg,false
+SOKOTO,BODINGA,BODINGA/TAUMA,SHIYAR SARKI,33/02/01/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/110884/result_54296_1677671926_thumb.jpg,false
+SOKOTO,BODINGA,BODINGA/TAUMA,"SHIYAR KANTI, SH/BAREBARI",33/02/01/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/110883/result_54295_1677671806_thumb.jpg,false
+SOKOTO,BODINGA,BODINGA/TAUMA,"SHIYAR LIMAN, SH/FULANI",33/02/01/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/110882/result_54294_1677671543_thumb.jpg,false
+SOKOTO,BODINGA,BODINGA/TAUMA,"SH ANDI, SH/D/JEKA",33/02/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/110881/result_54293_1677671447_thumb.jpg,false
+SOKOTO,BODINGA,BODINGA/TAUMA,SH/DANJERA P.S,33/02/01/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/110880/result_54292_1677671306_thumb.jpg,false
+SOKOTO,BODINGA,BODINGA/TAUMA,SHIYAR FILIN YAR ARI S/MODE,33/02/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/110879/result_54291_1677671206_thumb.jpg,false
+SOKOTO,BODINGA,BODINGA/TAUMA,SH/MAKERA,33/02/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/110878/result_54290_1677671088_thumb.jpg,false
+SOKOTO,BODINGA,BODINGA/TAUMA,SHIYAR HAUSAWA,33/02/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+SOKOTO,BODINGA,BODINGA/TAUMA,"PRY SCH, TAUMA",33/02/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/110876/result_54288_1677670880_thumb.jpg,false
+SOKOTO,BODINGA,BODINGA/TAUMA,"PRY SCH, GIDAN BANGO",33/02/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/110875/result_54287_1677670712_thumb.jpg,false
+SOKOTO,BODINGA,BODINGA/TAUMA,MPS GIDAN BANGO 2,33/02/01/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/669944/result_54309_1677669430_thumb.jpg,false
+SOKOTO,BODINGA,BODINGA/TAUMA,MPS LOWCOST,33/02/01/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/669943/result_54308_1677669318_thumb.jpg,false
+SOKOTO,BODINGA,BODINGA/TAUMA,MPS SHIYAR MAKERA,33/02/01/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/669942/result_54307_1677669205_thumb.jpg,false
+SOKOTO,BODINGA,BODINGA/TAUMA,MPS SHIYAR SARKI,33/02/01/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/669941/result_54306_1677669105_thumb.jpg,false
+SOKOTO,BODINGA,BODINGA/TAUMA,MPS SH. HAUSAWA,33/02/01/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/669940/result_54305_1677668998_thumb.jpg,false
+SOKOTO,BODINGA,BODINGA/TAUMA,MPS RUNJIN KUDU,33/02/01/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/669939/result_54304_1677668849_thumb.jpg,false
+SOKOTO,BODINGA,BODINGA/TAUMA,NIPOST MAJEMA,33/02/01/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/669938/result_54303_1677668695_thumb.jpg,false
+SOKOTO,BODINGA,BODINGA/TAUMA,SHIYAR FULANI 2 MPS,33/02/01/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/669937/result_54302_1677668529_thumb.jpg,false
+SOKOTO,BODINGA,BODINGA/TAUMA,SHIYAR HAKIMI/MARINA,33/02/01/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/110889/result_54301_1677668343_thumb.jpg,true

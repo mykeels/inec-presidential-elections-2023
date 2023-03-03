@@ -1,0 +1,16 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+SOKOTO,DANGE/SHUNI,RUGGAR GIDADO,DAN BARUNJE,33/03/11/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111178/result_54653_1677510127_thumb.jpg,true
+SOKOTO,DANGE/SHUNI,RUGGAR GIDADO,ILLELA R/DUBU,33/03/11/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111185/result_54660_1677509482_thumb.jpg,false
+SOKOTO,DANGE/SHUNI,RUGGAR GIDADO,GYALAUDE B,33/03/11/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111179/result_54654_1677509789_thumb.jpg,false
+SOKOTO,DANGE/SHUNI,RUGGAR GIDADO,"NAGANDI, NAGANDI",33/03/11/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111186/result_54661_1677510532_thumb.jpg,true
+SOKOTO,DANGE/SHUNI,RUGGAR GIDADO,DABAGIN RIKINA,33/03/11/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111181/result_54656_1677512040_thumb.jpg,false
+SOKOTO,DANGE/SHUNI,RUGGAR GIDADO,DILINGU,33/03/11/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111176/result_54651_1677511331_thumb.jpg,false
+SOKOTO,DANGE/SHUNI,RUGGAR GIDADO,RAFIN JIDDA,33/03/11/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111183/result_54658_1677510312_thumb.jpg,true
+SOKOTO,DANGE/SHUNI,RUGGAR GIDADO,"ZANGO, ZANGO",33/03/11/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111184/result_54659_1677511803_thumb.jpg,true
+SOKOTO,DANGE/SHUNI,RUGGAR GIDADO,BANGANANGE,33/03/11/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111175/result_54650_1677511128_thumb.jpg,true
+SOKOTO,DANGE/SHUNI,RUGGAR GIDADO,BAILA,33/03/11/009,,false
+SOKOTO,DANGE/SHUNI,RUGGAR GIDADO,ILLELA M.P.S,33/03/11/002,,false
+SOKOTO,DANGE/SHUNI,RUGGAR GIDADO,ILLELA G HAKIMI,33/03/11/001,,false
+SOKOTO,DANGE/SHUNI,RUGGAR GIDADO,SAMBO DARNI,33/03/11/006,,false
+SOKOTO,DANGE/SHUNI,RUGGAR GIDADO,KWANNAWA JALI,33/03/11/003,,false
+SOKOTO,DANGE/SHUNI,RUGGAR GIDADO,RUGGAR DUBBU,33/03/11/011,,false

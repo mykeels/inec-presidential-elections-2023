@@ -1,0 +1,33 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,GIDAN KUKA II,33/16/06/031,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25761/pu/174424/174424-1677766494.pdf,true
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,SH/MAIGORO - SH/MAIGORO,33/16/06/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112797/result_56731_1677762848_thumb.jpg,false
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,UNIVERSITY QUARTERS - UNIVERSITY QUARTERS,33/16/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25761/pu/113900/113900-1677762439.pdf,true
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,RUGGAR GERO,33/16/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112807/result_56741_1677761519_thumb.jpg,false
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,SH/ALIYU DIN GYADI,33/16/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25761/pu/113897/113897-1677761064.pdf,true
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,GIRO ROAD JUNCTION,33/16/06/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/670450/result_56754_1677760628_thumb.jpg,true
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,TUDUN FAILA,33/16/06/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/670445/result_56749_1677759987_thumb.jpg,false
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,NEAR MUSA KWAIFA,33/16/06/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/670444/result_56748_1677758653_thumb.jpg,false
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,MAIGORO II,33/16/06/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/670441/result_56745_1677757094_thumb.jpg,false
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,RUNJIN SAMBO II PRI SCH. KATO BAKWAI,33/16/06/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25761/pu/174419/174419-1677693924.pdf,false
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,SALISU MAI TAYA LINE,33/16/06/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/670451/result_56755_1677692871_thumb.jpg,false
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,G/SALIHU M.P.S K/KADANGARE,33/16/06/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25761/pu/174421/174421-1677692311.pdf,false
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,NURUWA G/FADAMA,33/16/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112806/result_56740_1677690155_thumb.jpg,false
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,SH/MALAM BELLO - SH/MAL.BELLO,33/16/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25761/pu/113903/113903-1677689179.pdf,true
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,KAOJE ROAD,33/16/06/030,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25761/pu/174423/174423-1677688240.pdf,true
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,ADUWAR YARBAWA,33/16/06/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25761/pu/174415/174415-1677686318.pdf,true
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,SHIYAR MAI KWABO,33/16/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25761/pu/113904/113904-1677685000.pdf,true
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,G/SALIHU SEC. SCH. K/KADANGARE,33/16/06/029,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25761/pu/174422/174422-1677683993.pdf,true
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,ALEIRO ROAD,33/16/06/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/670442/result_56746_1677683813_thumb.jpg,false
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,MAHOTAR DANTATUMBI  B YANSANDA,33/16/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25761/pu/113899/113899-1677682731.pdf,true
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,FEDERAL HOUSING ESTATE,33/16/06/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,WASAGU ROAD,33/16/06/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,RUNJIN SARKI - RUNJI SARKI,33/16/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112803/result_56737_1677680921_thumb.jpg,false
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,MOHD ZAKU M.P.S RUNJIN SAMBO,33/16/06/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/670446/result_56750_1677677129_thumb.jpg,false
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,MAGAMA HUDU,33/16/06/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/670443/result_56747_1677676890_thumb.jpg,false
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,ASIBITIN DANTAWALE,33/16/06/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/670440/result_56744_1677674596_thumb.jpg,false
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,RUNJIN SAMBO M.P.S I TUDUN PAILA,33/16/06/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25761/pu/174416/174416-1677673239.pdf,false
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,OFFISHIN HAKIMI UMARU,33/16/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25761/pu/113908/113908-1677670824.pdf,false
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,MAHOTAR DANTATUMBI A,33/16/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3822/ward/25761/pu/113898/113898-1677609312.pdf,false
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,GIDAN KUKA,33/16/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/012/012-1677391887.pdf,false
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,SH/MAI MAN GYADA,33/16/06/006,,false
+SOKOTO,SOKOTO NORTH,S/ADAR/G/IGWAI,NOMADIC EDUCATION PRIMARY SCH.,33/16/06/032,,false

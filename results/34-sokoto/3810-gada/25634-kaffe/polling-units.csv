@@ -1,0 +1,15 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+SOKOTO,GADA,KAFFE,S/SANI WAKILI,33/04/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3810/ward/25634/pu/112389/112389-1677767829.pdf,true
+SOKOTO,GADA,KAFFE,GIDAN GAZA DANFILI,33/04/06/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/670031/result_54793_1677651092_thumb.jpg,false
+SOKOTO,GADA,KAFFE,GIDAN KAYA MAKERA DANFILI,33/04/06/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/670030/result_54792_1677651021_thumb.jpg,false
+SOKOTO,GADA,KAFFE,PRIMARY HEALTH CARE KAFFE,33/04/06/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/670029/result_54791_1677650933_thumb.jpg,false
+SOKOTO,GADA,KAFFE,OLD LIBRARY KAFFE,33/04/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/670028/result_54790_1677650797_thumb.jpg,false
+SOKOTO,GADA,KAFFE,SAFIYAR MAGORI,33/04/06/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111289/result_54788_1677650571_thumb.jpg,false
+SOKOTO,GADA,KAFFE,BANTALAW S/MAGAJI,33/04/06/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111288/result_54787_1677650270_thumb.jpg,false
+SOKOTO,GADA,KAFFE,YAGARMAWA,33/04/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111287/result_54786_1677650155_thumb.jpg,false
+SOKOTO,GADA,KAFFE,SAFIYAL MAGORI,33/04/06/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111286/result_54785_1677650041_thumb.jpg,false
+SOKOTO,GADA,KAFFE,BANTALAWA,33/04/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111285/result_54784_1677649907_thumb.jpg,false
+SOKOTO,GADA,KAFFE,ALI BAWA SHIYAR SANI,33/04/06/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111284/result_54783_1677618776_thumb.jpg,false
+SOKOTO,GADA,KAFFE,GIDAN ZOMO,33/04/06/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+SOKOTO,GADA,KAFFE,SHIYAR SARIKIN YAKI,33/04/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111282/result_54781_1677612718_thumb.jpg,false
+SOKOTO,GADA,KAFFE,SHIYAR HAMMA,33/04/06/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111281/result_54780_1677577173_thumb.jpg,false

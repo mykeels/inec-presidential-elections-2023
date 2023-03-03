@@ -1,0 +1,16 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+SOKOTO,ISA,GEBE 'A',DANGWANDI FAGE,33/09/09/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/670199/result_55688_1677505937_thumb.jpg,true
+SOKOTO,ISA,GEBE 'A',"GEBE, KANWURI",33/09/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111988/result_55685_1677505626_thumb.jpg,false
+SOKOTO,ISA,GEBE 'A',KATSINAWA,33/09/09/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/670200/result_55689_1677506187_thumb.jpg,false
+SOKOTO,ISA,GEBE 'A',MANAWA/MAKARANTA,33/09/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111986/result_55683_1677505219_thumb.jpg,false
+SOKOTO,ISA,GEBE 'A',"KAMARAWA, MAKARANTA",33/09/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111983/result_55680_1677504851_thumb.jpg,false
+SOKOTO,ISA,GEBE 'A',GARIN FADAMA,33/09/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111985/result_55682_1677506401_thumb.jpg,false
+SOKOTO,ISA,GEBE 'A',MANAWA G/TUDU,33/09/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111989/result_55686_1677505793_thumb.jpg,false
+SOKOTO,ISA,GEBE 'A',"KAMARAWA KANWURI, KANWURI",33/09/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111984/result_55681_1677505074_thumb.jpg,false
+SOKOTO,ISA,GEBE 'A',GEBE MAKARANTA,33/09/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111980/result_55677_1677504304_thumb.jpg,false
+SOKOTO,ISA,GEBE 'A',KAMARAWA SUNSHAGALA,33/09/09/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/670201/result_55690_1677506414_thumb.jpg,false
+SOKOTO,ISA,GEBE 'A',"KAGARA/GEBE, MAKARANTA",33/09/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111987/result_55684_1677505390_thumb.jpg,false
+SOKOTO,ISA,GEBE 'A',S/GARIN  DANGWDI,33/09/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111982/result_55679_1677504552_thumb.jpg,false
+SOKOTO,ISA,GEBE 'A',KAGARA MALLAMAWA,33/09/09/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/670202/result_55691_1677506531_thumb.jpg,false
+SOKOTO,ISA,GEBE 'A',G/BAWA,33/09/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111981/result_55678_1677504855_thumb.jpg,false
+SOKOTO,ISA,GEBE 'A',GEBE FAGE,33/09/09/011,,false

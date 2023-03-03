@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+SOKOTO,TURETA,DUMA,WANTERE,33/20/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3826/ward/25799/pu/114504/114504-1677577344.pdf,false
+SOKOTO,TURETA,DUMA,WUMUMU - WUMUMU,33/20/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3826/ward/25799/pu/114505/114505-1677576980.pdf,true
+SOKOTO,TURETA,DUMA,MAKERA BAKIN TASHA,33/20/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3826/ward/25799/pu/174679/174679-1677575080.pdf,true
+SOKOTO,TURETA,DUMA,GIDAN YAUSI - GIDAN YUS  I,33/20/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3826/ward/25799/pu/114503/114503-1677573723.pdf,true
+SOKOTO,TURETA,DUMA,DUMA - BAKIN KASUWA,33/20/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3826/ward/25799/pu/114502/114502-1677573090.pdf,true
+SOKOTO,TURETA,DUMA,DUMA - PRI.SCHOOL,33/20/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3826/ward/25799/pu/114501/114501-1677572468.pdf,true
+SOKOTO,TURETA,DUMA,BOKA HAMMADAWA - BOKA HAMMADAWA II,33/20/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3826/ward/25799/pu/114500/114500-1677571394.pdf,true
+SOKOTO,TURETA,DUMA,BOKA HAMMADAWA - BOKA HAMMADAWA I,33/20/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3826/ward/25799/pu/114499/114499-1677570405.pdf,true

@@ -1,0 +1,7 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+SOKOTO,BINJI,T/KOSE,KABAWA DAN HILI,33/01/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3807/ward/25601/pu/111930/111930-1677771138.pdf,true
+SOKOTO,BINJI,T/KOSE,"AJOGAL, MODEL PRY SCH AJOGAL",33/01/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3807/ward/25601/pu/111927/111927-1677765648.pdf,false
+SOKOTO,BINJI,T/KOSE,TUNDAN KOSE,33/01/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3807/ward/25601/pu/111926/111926-1677765252.pdf,true
+SOKOTO,BINJI,T/KOSE,"GIDAN MAIDEBE, PRY SCH GIDAN MAIDEBE",33/01/05/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/110830/result_54237_1677575057_thumb.jpg,false
+SOKOTO,BINJI,T/KOSE,TAUDI ZAIDI,33/01/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/110829/result_54236_1677588333_thumb.jpg,false
+SOKOTO,BINJI,T/KOSE,TAUDI DUTSE PRI SCHOOL,33/01/05/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/669934/result_54239_1677585218_thumb.jpg,false

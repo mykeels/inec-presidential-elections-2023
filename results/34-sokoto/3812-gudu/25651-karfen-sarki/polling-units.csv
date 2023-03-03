@@ -1,0 +1,8 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+SOKOTO,GUDU,KARFEN SARKI,KARFEN SARKI DAN FILI KARFEN SARKI,33/06/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3812/ward/25651/pu/112591/112591-1677625415.pdf,true
+SOKOTO,GUDU,KARFEN SARKI,FILASKO-DAN FILI,33/06/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111493/result_55079_1677519526_thumb.jpg,false
+SOKOTO,GUDU,KARFEN SARKI,"DAN FILI, FILASKO",33/06/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111489/result_55075_1677518979_thumb.jpg,false
+SOKOTO,GUDU,KARFEN SARKI,"DAN FILI, HUDAR MARKE",33/06/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111490/result_55076_1677519331_thumb.jpg,false
+SOKOTO,GUDU,KARFEN SARKI,"DAN FILI, TAURA MATA",33/06/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+SOKOTO,GUDU,KARFEN SARKI,"ASIBITIN GARI, KARFEN SARKI",33/06/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/111487/result_55073_1677517319_thumb.jpg,false
+SOKOTO,GUDU,KARFEN SARKI,"TOWN PRY SCH, KARFEN SARKI",33/06/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false

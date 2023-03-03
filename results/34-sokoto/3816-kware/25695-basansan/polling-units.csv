@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+SOKOTO,KWARE,BASANSAN,"BASANSN, SHIYAR HAKIMI",33/10/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112027/result_55744_1677682648_thumb.jpg,false
+SOKOTO,KWARE,BASANSAN,"SIRE DANDORO, SHIYAR HAKIMI",33/10/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3816/ward/25695/pu/113133/113133-1677678023.pdf,false
+SOKOTO,KWARE,BASANSAN,"GIDANMUTUNE, SHIYAR HAKIMI",33/10/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3816/ward/25695/pu/113129/113129-1677673704.pdf,false
+SOKOTO,KWARE,BASANSAN,"GIDAN AIKI, SHIYAR HAKIMI",33/10/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3816/ward/25695/pu/113134/113134-1677673154.pdf,false
+SOKOTO,KWARE,BASANSAN,"RUNBUKI, SHIYAR HAKIMI",33/10/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3816/ward/25695/pu/113132/113132-1677672489.pdf,false
+SOKOTO,KWARE,BASANSAN,BASANSAN BASANSA PRI. SCH.,33/10/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3816/ward/25695/pu/113127/113127-1677671953.pdf,false
+SOKOTO,KWARE,BASANSAN,"TAINO, PRI. SCH.",33/10/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3816/ward/25695/pu/113131/113131-1677668019.pdf,false
+SOKOTO,KWARE,BASANSAN,"LEMI, PRI. SCH.",33/10/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3816/ward/25695/pu/113130/113130-1677667356.pdf,false
+SOKOTO,KWARE,BASANSAN,"MODAWA, SHIYAR HAKIMI",33/10/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3816/ward/25695/pu/113128/113128-1677667059.pdf,true

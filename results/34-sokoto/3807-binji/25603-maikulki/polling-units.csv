@@ -1,0 +1,12 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+SOKOTO,BINJI,MAIKULKI,MAIKULKI PRI. SCHOOL,33/01/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3807/ward/25603/pu/173881/173881-1677764027.pdf,false
+SOKOTO,BINJI,MAIKULKI,"KAN-WURI MAIKULKI, FINLIN BARU",33/01/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3807/ward/25603/pu/111946/111946-1677763738.pdf,false
+SOKOTO,BINJI,MAIKULKI,"MALIYON ALMU, MALIYO",33/01/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3807/ward/25603/pu/111945/111945-1677763438.pdf,true
+SOKOTO,BINJI,MAIKULKI,"KUSA DA GARKAR MAGAJI, MARGAI",33/01/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3807/ward/25603/pu/111944/111944-1677763058.pdf,true
+SOKOTO,BINJI,MAIKULKI,UDDIBA G/DIKKO MAMBA,33/01/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3807/ward/25603/pu/111943/111943-1677762740.pdf,false
+SOKOTO,BINJI,MAIKULKI,"HIZNA MAKARANTA, HIZNA",33/01/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3807/ward/25603/pu/111942/111942-1677762253.pdf,true
+SOKOTO,BINJI,MAIKULKI,RAGA LABAU MAKARANTA,33/01/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3807/ward/25603/pu/111941/111941-1677761796.pdf,false
+SOKOTO,BINJI,MAIKULKI,SHIYAR MARINA YAMMA,33/01/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3807/ward/25603/pu/111940/111940-1677761399.pdf,true
+SOKOTO,BINJI,MAIKULKI,"SHIYAR MARINA, MAIKULKI",33/01/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3807/ward/25603/pu/111939/111939-1677759798.pdf,false
+SOKOTO,BINJI,MAIKULKI,KAN WURI MAIKULKI,33/01/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3807/ward/25603/pu/111938/111938-1677759452.pdf,false
+SOKOTO,BINJI,MAIKULKI,"SHIYAR HAKIMI, MAI KULKI",33/01/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3807/ward/25603/pu/111937/111937-1677759011.pdf,false

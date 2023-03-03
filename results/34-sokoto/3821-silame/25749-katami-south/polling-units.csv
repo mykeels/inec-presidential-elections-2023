@@ -1,0 +1,12 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+SOKOTO,SILAME,KATAMI SOUTH,MODEL PRI. SCH. KATAMI II,33/15/04/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/670388/result_56520_1677674390_thumb.jpg,false
+SOKOTO,SILAME,KATAMI SOUTH,NEAR MASALLACIN ADUWA,33/15/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/670387/result_56519_1677674264_thumb.jpg,false
+SOKOTO,SILAME,KATAMI SOUTH,GADAMBE/FILIN GADAMBE,33/15/04/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+SOKOTO,SILAME,KATAMI SOUTH,TAJENERA/FILIN TANERA,33/15/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3821/ward/25749/pu/113749/113749-1677594806.pdf,true
+SOKOTO,SILAME,KATAMI SOUTH,SHIYAR ZARUMAI/AGERI,33/15/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3821/ward/25749/pu/113752/113752-1677593878.pdf,false
+SOKOTO,SILAME,KATAMI SOUTH,SHIYAR GANDU/BAKIN KOLI,33/15/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3821/ward/25749/pu/113745/113745-1677592479.pdf,true
+SOKOTO,SILAME,KATAMI SOUTH,SHIYAR GANDU/DOGON FILI,33/15/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/112648/result_56512_1677568296_thumb.jpg,false
+SOKOTO,SILAME,KATAMI SOUTH,SHIYAR GANDU/KALGO,33/15/04/002,,false
+SOKOTO,SILAME,KATAMI SOUTH,GADAMBE/FILIN GADAMBE,33/15/04/007,,false
+SOKOTO,SILAME,KATAMI SOUTH,SHIYAR D/GALADIMA/BOOKO,33/15/04/006,,false
+SOKOTO,SILAME,KATAMI SOUTH,SHIYAR SAUNA/KASUWA,33/15/04/004,,false
