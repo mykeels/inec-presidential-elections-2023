@@ -17,5 +17,7 @@
   "ward_id": 18901,
   "created_at": "2020-07-15T17:21:09.936Z",
   "updated_at": "2020-07-15T17:21:09.936Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "BAYELSA",
+  "lga_name": "YENAGOA"
 }
