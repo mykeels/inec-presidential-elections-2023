@@ -1,0 +1,515 @@
+[
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4ec5c440353badb15e9a",
+    "state_id": 12,
+    "state": "5f0eb6e16dda22674979bf2d",
+    "lga_id": 3333,
+    "ward_id": 20193,
+    "state_constituency_id": 306,
+    "state_constituency": "5f0f372e93d20b39ceee20e6",
+    "federal_constituency_id": 103,
+    "federal_constituency": "5f0f37f92d77c83a06f0f372",
+    "senatorial_district_id": 36,
+    "senatorial_district": "5f0f3953970bd83a6f4539d8",
+    "name": "FRONTAGE OF CHIEF'S PALACE,  IVIOCHA",
+    "code": "003",
+    "pu_code": "12/07/03/003",
+    "old_name": "",
+    "polling_unit_id": 34809,
+    "created_at": "2020-07-15T18:45:25.259Z",
+    "updated_at": "2023-02-23T20:37:41.235Z",
+    "__v": 0,
+    "pu_code_string": "120703003",
+    "state_name": "EDO",
+    "lga_name": "ETSAKO CENTRAL",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fee728c6e83b6b3f40457d",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34799/result_153358_1677488558_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-03-01T05:48:24.994Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcea1de6efd20cc2752824",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34799/result_153358_1677488653_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T13:55:34.586Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcef40e6efd20cc276f02f",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34799/result_153358_1677488698_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T13:55:34.586Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcef40e6efd20cc276f02f",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34799/result_153358_1677488698_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:21:02.469Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe07d6c43294524a48cb4d",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34799/result_153358_1677488558_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:21:02.469Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe07d6c43294524a48cb4d",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34799/result_153358_1677488558_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:40:30.572Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe37fe6f2c3d5c2e70917c",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34799/result_153358_1677488558_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:40:30.572Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe37fe6f2c3d5c2e70917c",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34799/result_153358_1677488558_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T21:41:05.263Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe3c8e6f2c3d5c2e713e83",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34799/result_153358_1677488653_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T21:41:05.263Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe3c8e6f2c3d5c2e713e83",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34799/result_153358_1677488653_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:48:24.994Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe74f15e2566670879891b",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34799/result_153358_1677488698_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:48:24.994Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4ec5c440353badb15e9c",
+    "state_id": 12,
+    "state": "5f0eb6e16dda22674979bf2d",
+    "lga_id": 3333,
+    "ward_id": 20193,
+    "state_constituency_id": 306,
+    "state_constituency": "5f0f372e93d20b39ceee20e6",
+    "federal_constituency_id": 103,
+    "federal_constituency": "5f0f37f92d77c83a06f0f372",
+    "senatorial_district_id": 36,
+    "senatorial_district": "5f0f3953970bd83a6f4539d8",
+    "name": "USAGBE PRY. SCHOOL,  EBADI",
+    "code": "005",
+    "pu_code": "12/07/03/005",
+    "old_name": "",
+    "polling_unit_id": 34811,
+    "created_at": "2020-07-15T18:45:25.387Z",
+    "updated_at": "2023-02-23T20:37:41.335Z",
+    "__v": 0,
+    "pu_code_string": "120703005",
+    "state_name": "EDO",
+    "lga_name": "ETSAKO CENTRAL",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe736c5e25666708795658",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34801/result_153360_1677489361_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T21:34:36.506Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcef23e6efd20cc276c985",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34801/result_153360_1677489361_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T21:34:36.506Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4ec5c440353badb15e9b",
+    "state_id": 12,
+    "state": "5f0eb6e16dda22674979bf2d",
+    "lga_id": 3333,
+    "ward_id": 20193,
+    "state_constituency_id": 306,
+    "state_constituency": "5f0f372e93d20b39ceee20e6",
+    "federal_constituency_id": 103,
+    "federal_constituency": "5f0f37f92d77c83a06f0f372",
+    "senatorial_district_id": 36,
+    "senatorial_district": "5f0f3953970bd83a6f4539d8",
+    "name": "USAGBE PRY. SCHOOL,  IVIADACHI",
+    "code": "004",
+    "pu_code": "12/07/03/004",
+    "old_name": "",
+    "polling_unit_id": 34810,
+    "created_at": "2020-07-15T18:45:25.313Z",
+    "updated_at": "2023-02-23T20:37:41.287Z",
+    "__v": 0,
+    "pu_code_string": "120703004",
+    "state_name": "EDO",
+    "lga_name": "ETSAKO CENTRAL",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe62e2d74638649a13441e",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34800/result_153359_1677489573_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T20:24:02.288Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceb09e6efd20cc2754438",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34800/result_153359_1677489506_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:45:06.939Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcee98e6efd20cc27609d1",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34800/result_153359_1677489573_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:45:06.939Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcee98e6efd20cc27609d1",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34800/result_153359_1677489573_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T20:24:02.288Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe3da26f2c3d5c2e7161e0",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34800/result_153359_1677489506_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T20:24:02.288Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4ec5c440353badb15e9e",
+    "state_id": 12,
+    "state": "5f0eb6e16dda22674979bf2d",
+    "lga_id": 3333,
+    "ward_id": 20193,
+    "state_constituency_id": 306,
+    "state_constituency": "5f0f372e93d20b39ceee20e6",
+    "federal_constituency_id": 103,
+    "federal_constituency": "5f0f37f92d77c83a06f0f372",
+    "senatorial_district_id": 36,
+    "senatorial_district": "5f0f3953970bd83a6f4539d8",
+    "name": "USAGBE PRY. SCHOOL , IVIEGWI -II",
+    "code": "007",
+    "pu_code": "12/07/03/007",
+    "old_name": "",
+    "polling_unit_id": 34813,
+    "created_at": "2020-07-15T18:45:25.510Z",
+    "updated_at": "2023-02-23T20:37:41.478Z",
+    "__v": 0,
+    "pu_code_string": "120703007",
+    "state_name": "EDO",
+    "lga_name": "ETSAKO CENTRAL",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe42f239df295eae1b4038",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34803/result_153362_1677489160_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T18:07:46.918Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fce9cde6efd20cc2751e54",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34803/result_153362_1677489204_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:14:08.971Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcec4ee6efd20cc2756af2",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34803/result_153362_1677489160_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:14:08.971Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcec4ee6efd20cc2756af2",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34803/result_153362_1677489160_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:38:54.229Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe3660d86c3a5b6d10f610",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34803/result_153362_1677489204_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:38:54.229Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe3660d86c3a5b6d10f610",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34803/result_153362_1677489204_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T18:07:46.918Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe3c2e6f2c3d5c2e713120",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34803/result_153362_1677489204_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T18:07:46.918Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4ec5c440353badb15e9d",
+    "state_id": 12,
+    "state": "5f0eb6e16dda22674979bf2d",
+    "lga_id": 3333,
+    "ward_id": 20193,
+    "state_constituency_id": 306,
+    "state_constituency": "5f0f372e93d20b39ceee20e6",
+    "federal_constituency_id": 103,
+    "federal_constituency": "5f0f37f92d77c83a06f0f372",
+    "senatorial_district_id": 36,
+    "senatorial_district": "5f0f3953970bd83a6f4539d8",
+    "name": "USAGBE PRY. SCHOOL,  IVIEGWI- I",
+    "code": "006",
+    "pu_code": "12/07/03/006",
+    "old_name": "",
+    "polling_unit_id": 34812,
+    "created_at": "2020-07-15T18:45:25.446Z",
+    "updated_at": "2023-02-23T20:37:41.380Z",
+    "__v": 0,
+    "pu_code_string": "120703006",
+    "state_name": "EDO",
+    "lga_name": "ETSAKO CENTRAL",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe41d139df295eae1ad488",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34802/result_153361_1677489769_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T18:02:57.742Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceb67e6efd20cc2754f44",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34802/result_153361_1677489769_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T18:02:57.742Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4ec5c440353badb15e99",
+    "state_id": 12,
+    "state": "5f0eb6e16dda22674979bf2d",
+    "lga_id": 3333,
+    "ward_id": 20193,
+    "state_constituency_id": 306,
+    "state_constituency": "5f0f372e93d20b39ceee20e6",
+    "federal_constituency_id": 103,
+    "federal_constituency": "5f0f37f92d77c83a06f0f372",
+    "senatorial_district_id": 36,
+    "senatorial_district": "5f0f3953970bd83a6f4539d8",
+    "name": "FUGAR MIXED S/S,  IVIAKPA",
+    "code": "002",
+    "pu_code": "12/07/03/002",
+    "old_name": "",
+    "polling_unit_id": 34808,
+    "created_at": "2020-07-15T18:45:25.204Z",
+    "updated_at": "2023-02-23T20:37:41.180Z",
+    "__v": 0,
+    "pu_code_string": "120703002",
+    "state_name": "EDO",
+    "lga_name": "ETSAKO CENTRAL",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe3bd86f2c3d5c2e7123de",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34798/result_153357_1677485764_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T17:37:28.143Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcd8a48f41741d1230f082",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34798/result_153357_1677485764_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:12:51.933Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fce982e6efd20cc27514c7",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34798/result_153357_1677485764_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:12:51.933Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fce982e6efd20cc27514c7",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34798/result_153357_1677485764_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:37:28.143Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe3613d86c3a5b6d10e8c7",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34798/result_153357_1677485764_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:37:28.143Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4ec5c440353badb15e98",
+    "state_id": 12,
+    "state": "5f0eb6e16dda22674979bf2d",
+    "lga_id": 3333,
+    "ward_id": 20193,
+    "state_constituency_id": 306,
+    "state_constituency": "5f0f372e93d20b39ceee20e6",
+    "federal_constituency_id": 103,
+    "federal_constituency": "5f0f37f92d77c83a06f0f372",
+    "senatorial_district_id": 36,
+    "senatorial_district": "5f0f3953970bd83a6f4539d8",
+    "name": "FUGAR MIXED S/S, IRURU",
+    "code": "001",
+    "pu_code": "12/07/03/001",
+    "old_name": "",
+    "polling_unit_id": 34807,
+    "created_at": "2020-07-15T18:45:25.155Z",
+    "updated_at": "2023-02-23T20:37:41.126Z",
+    "__v": 0,
+    "pu_code_string": "120703001",
+    "state_name": "EDO",
+    "lga_name": "ETSAKO CENTRAL",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe3b4f6f2c3d5c2e710fd4",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34797/result_153356_1677486129_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T17:35:11.473Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcd83d8f41741d1230e22d",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34797/result_153356_1677486129_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:10:50.566Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fce912e6efd20cc27506e3",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34797/result_153356_1677486129_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:10:50.567Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fce912e6efd20cc27506e3",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34797/result_153356_1677486129_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:35:11.473Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe359ad86c3a5b6d10d59a",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/34797/result_153356_1677486129_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:35:11.473Z"
+      }
+    ],
+    "has_old_documents": true
+  }
+]
