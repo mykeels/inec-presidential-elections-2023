@@ -17,5 +17,7 @@
   "ward_id": 23066,
   "created_at": "2020-07-15T17:31:26.023Z",
   "updated_at": "2020-07-15T17:31:26.023Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "KOGI",
+  "lga_name": "OMALA"
 }
