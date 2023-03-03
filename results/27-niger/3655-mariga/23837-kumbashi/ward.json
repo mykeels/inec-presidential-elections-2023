@@ -17,5 +17,7 @@
   "ward_id": 23837,
   "created_at": "2020-07-15T17:33:22.534Z",
   "updated_at": "2020-07-15T17:33:22.534Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "NIGER",
+  "lga_name": "MARIGA"
 }
