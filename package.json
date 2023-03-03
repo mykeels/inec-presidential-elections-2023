@@ -1,10 +1,16 @@
 {
   "name": "inec-presidential-elections-2023",
   "version": "1.0.0",
-  "description": "",
+  "description": "Archives the INEC presidential elections 2023 information",
   "main": "scripts/index.js",
+  "engines": {
+    "node": ">=16.0.0"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsup src/*.ts",
+    "watch": "tsup src/*.ts --watch",
+    "ts": "tsc",
+    "ts:watch": "tsc -w"
   },
   "keywords": [],
   "author": "",

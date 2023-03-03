@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "strict": true,
+    "esModuleInterop": true,
+    "outDir": "./dist",
+    "moduleResolution": "node",
+    "skipLibCheck": true,
+    "typeRoots": ["typings/*.d.ts"]
+  },
+  "compileOnSave": true,
+  "include": ["src", "typings/*.d.ts"],
+  "exclude": ["node_modules"]
+}
