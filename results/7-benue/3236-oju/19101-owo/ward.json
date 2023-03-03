@@ -17,5 +17,7 @@
   "ward_id": 19101,
   "created_at": "2020-07-15T17:21:38.464Z",
   "updated_at": "2020-07-15T17:21:38.464Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "BENUE",
+  "lga_name": "OJU"
 }

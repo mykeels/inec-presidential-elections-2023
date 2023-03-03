@@ -17,5 +17,7 @@
   "ward_id": 19051,
   "created_at": "2020-07-15T17:21:31.267Z",
   "updated_at": "2020-07-15T17:21:31.267Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "BENUE",
+  "lga_name": "LOGO"
 }

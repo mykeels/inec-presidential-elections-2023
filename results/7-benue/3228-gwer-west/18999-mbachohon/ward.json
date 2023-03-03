@@ -17,5 +17,7 @@
   "ward_id": 18999,
   "created_at": "2020-07-15T17:21:23.830Z",
   "updated_at": "2020-07-15T17:21:23.830Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "BENUE",
+  "lga_name": "GWER WEST"
 }
