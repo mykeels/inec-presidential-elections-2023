@@ -1,0 +1,15 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+ADAMAWA,DEMSA,,CENTRAL PRY. SCH. BORRONG,02/01/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17711/pu/127950/127950-1677598069.pdf,true
+ADAMAWA,DEMSA,,FOOTBALL FIELD BORRONG,02/01/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17711/pu/127951/127951-1677597592.pdf,false
+ADAMAWA,DEMSA,,UNG BULAWA II,02/01/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17711/pu/127953/127953-1677596970.pdf,true
+ADAMAWA,DEMSA,,TIKKA/ TIKKA PRI. SCH.,02/01/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17711/pu/2695/2695-1677594965.pdf,true
+ADAMAWA,DEMSA,,BANGE 2,02/01/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17711/pu/127948/127948-1677587582.pdf,true
+ADAMAWA,DEMSA,,KUNTERI/ KUNTERI PRI. SCH.,02/01/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/02/pu/002/002-1677405105.pdf,false
+ADAMAWA,DEMSA,,UNG. JENJO/ PLAYING GROUND,02/01/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/02/pu/007/007-1677398596.pdf,false
+ADAMAWA,DEMSA,,UNG. MBULAWA/ BORRONG II PRY. SCH.,02/01/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/02/pu/008/008-1677392323.pdf,false
+ADAMAWA,DEMSA,,POST OFFICE BORRONG,02/01/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/02/pu/013/013-1677391232.pdf,false
+ADAMAWA,DEMSA,,MBUMARA/ PLAYING GROUND,02/01/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/02/pu/003/003-1677387800.pdf,false
+ADAMAWA,DEMSA,,UNG. GANJI/ NEAR COTTAGE HOSPITAL,02/01/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/02/pu/006/006-1677376218.pdf,false
+ADAMAWA,DEMSA,,MORRO/ MORRO PRIMARY SCH.,02/01/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/02/pu/004/004-1677375886.pdf,false
+ADAMAWA,DEMSA,,GDSS BORRONG,02/01/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/02/pu/010/010-1677373218.pdf,false
+ADAMAWA,DEMSA,,BANGE/ BANGE PRIMARY SCHOOL,02/01/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/02/pu/001/001-1677371874.pdf,false

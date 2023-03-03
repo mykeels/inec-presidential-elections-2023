@@ -1,0 +1,12 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+ADAMAWA,LAMURDE,,PUDE/ KOFAR MAL. IKO,02/09/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17794/pu/3677/3677-1677601775.pdf,false
+ADAMAWA,LAMURDE,,MBEMUN/ KOFAR JAURO,02/09/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17794/pu/3675/3675-1677601667.pdf,false
+ADAMAWA,LAMURDE,,MBEMUN/ UNGUWAN MISSION,02/09/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17794/pu/3674/3674-1677601278.pdf,true
+ADAMAWA,LAMURDE,,KWAZUMONG/ KOFAR BABA GIWA,02/09/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17794/pu/3673/3673-1677600983.pdf,false
+ADAMAWA,LAMURDE,,KWANOGWE/ KOFAR JAURO,02/09/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17794/pu/3672/3672-1677600904.pdf,true
+ADAMAWA,LAMURDE,,GOH/ KOFAR JAURO,02/09/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17794/pu/3671/3671-1677600612.pdf,true
+ADAMAWA,LAMURDE,,BAFYAU/ BAFYAU PRY. SCH.,02/09/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17794/pu/3669/3669-1677600049.pdf,false
+ADAMAWA,LAMURDE,,BAFYAU/ KOFAR JAURO,02/09/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17794/pu/3670/3670-1677599204.pdf,false
+ADAMAWA,LAMURDE,,TABONGO/ DUBWANGUN PRY. SCH.,02/09/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/01/pu/010/010-1677383877.pdf,false
+ADAMAWA,LAMURDE,,PUDE/ KOFAN BABA MIJI,02/09/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/01/pu/011/011-1677381842.pdf,false
+ADAMAWA,LAMURDE,,PUDE/ KOFAR BABA MIJI,02/09/01/008,,false

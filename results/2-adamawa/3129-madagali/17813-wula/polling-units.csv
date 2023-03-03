@@ -1,0 +1,7 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+ADAMAWA,MADAGALI,,DIRBILLA/ ARDO'S OPEN SQUARE,02/10/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17813/pu/3881/3881-1677790774.pdf,true
+ADAMAWA,MADAGALI,,MUDUVU/ MUDUVU PRY. SCH.,02/10/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17813/pu/3883/3883-1677789373.pdf,true
+ADAMAWA,MADAGALI,,WUTUKUVU/ ARDO'S OPEN SQUARE,02/10/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17813/pu/3885/3885-1677788840.pdf,false
+ADAMAWA,MADAGALI,,ZULUMTUM/ VILLAGE OPEN SQUARE,02/10/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/10/pu/006/006-1677388078.pdf,false
+ADAMAWA,MADAGALI,,WAKULU/ NEAR BULAMA'S RES.,02/10/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/10/pu/004/004-1677387359.pdf,false
+ADAMAWA,MADAGALI,,KUSHIR/ VILLAGE OPEN SQUARE,02/10/10/002,,false

@@ -1,0 +1,1746 @@
+[
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 2,
+    "is_accredited": 1,
+    "_id": "63f776afb3695239c617df3b",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3127,
+    "ward_id": 17791,
+    "state_constituency_id": 40,
+    "state_constituency": "5f0f371c93d20b39ceee1fdc",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "SABONLAYI I/MBULO VIEWING CENTRE",
+    "code": "024",
+    "pu_code": "02/08/09/024",
+    "old_name": "",
+    "polling_unit_id": 128514,
+    "created_at": "2023-02-23T14:22:39.135Z",
+    "updated_at": "2023-02-23T21:50:00.690Z",
+    "__v": 0,
+    "pu_code_string": "020809024",
+    "state_name": "ADAMAWA",
+    "lga_name": "JADA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63ffe034bd81849043ec281d",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/128514/128514-1677713448.pdf",
+      "size": 1635012,
+      "updated_at": "2023-03-01T23:31:00.477Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcef19e6efd20cc276bbcc",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620167/result_47539_1677509600_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T21:32:19.421Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcef19e6efd20cc276bbcc",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620167/result_47539_1677509600_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T23:31:00.477Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe72e35e256667087943f1",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620167/result_47539_1677509600_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T23:31:00.477Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 2,
+    "is_accredited": 1,
+    "_id": "63f776aeb3695239c617df09",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3127,
+    "ward_id": 17791,
+    "state_constituency_id": 40,
+    "state_constituency": "5f0f371c93d20b39ceee1fdc",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "MBANGANTIREN I/MBANGANTIREN PRIMARY SCHOOL",
+    "code": "023",
+    "pu_code": "02/08/09/023",
+    "old_name": "",
+    "polling_unit_id": 128513,
+    "created_at": "2023-02-23T14:22:38.173Z",
+    "updated_at": "2023-02-23T21:50:00.645Z",
+    "__v": 0,
+    "pu_code_string": "020809023",
+    "state_name": "ADAMAWA",
+    "lga_name": "JADA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63ffdff9bd81849043ec27fa",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/128513/128513-1677713353.pdf",
+      "size": 1524568,
+      "updated_at": "2023-03-01T23:30:01.471Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd537ce6efd20cc277a590",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620166/result_47538_1677546325_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:46:44.431Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd537ce6efd20cc277a590",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620166/result_47538_1677546325_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T23:30:00.101Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fee6c4c6e83b6b3f403532",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620166/result_47538_1677546325_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T23:30:00.101Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fee6c4c6e83b6b3f403532",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620166/result_47538_1677546325_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T23:30:01.471Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63ffdff8bd81849043ec27eb",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/128513/128513-1677713353.pdf",
+        "size": 1524568,
+        "updated_at": "2023-03-01T23:30:01.471Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 2,
+    "is_accredited": 1,
+    "_id": "63f776adb3695239c617ded7",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3127,
+    "ward_id": 17791,
+    "state_constituency_id": 40,
+    "state_constituency": "5f0f371c93d20b39ceee1fdc",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "KOJOLI I/GANGALANDA/ OPEN SPACE FOOTBALL FIELD GANGALANDA PRY. SCH.",
+    "code": "022",
+    "pu_code": "02/08/09/022",
+    "old_name": "",
+    "polling_unit_id": 128512,
+    "created_at": "2023-02-23T14:22:37.082Z",
+    "updated_at": "2023-02-23T21:50:00.598Z",
+    "__v": 0,
+    "pu_code_string": "020809022",
+    "state_name": "ADAMAWA",
+    "lga_name": "JADA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63ffdf08bd81849043ec2765",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/128512/128512-1677713143.pdf",
+      "size": 1573435,
+      "updated_at": "2023-03-01T23:26:00.173Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd5302e6efd20cc277a53b",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620165/result_47537_1677546227_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:46:41.839Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd5302e6efd20cc277a53b",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620165/result_47537_1677546227_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T23:26:00.173Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fee6c1c6e83b6b3f4034c9",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620165/result_47537_1677546227_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T23:26:00.173Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 2,
+    "is_accredited": 1,
+    "_id": "63f777adb3695239c6181040",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3127,
+    "ward_id": 17791,
+    "state_constituency_id": 40,
+    "state_constituency": "5f0f371c93d20b39ceee1fdc",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "JARENDI I/ JARENDI PRIMARY SCHOOL",
+    "code": "021",
+    "pu_code": "02/08/09/021",
+    "old_name": "",
+    "polling_unit_id": 128511,
+    "created_at": "2023-02-23T14:26:53.289Z",
+    "updated_at": "2023-02-23T21:50:00.553Z",
+    "__v": 0,
+    "pu_code_string": "020809021",
+    "state_name": "ADAMAWA",
+    "lga_name": "JADA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63ffde90bd81849043ec270b",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/128511/128511-1677712985.pdf",
+      "size": 1723880,
+      "updated_at": "2023-03-01T23:24:00.378Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd528be6efd20cc277a4cc",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620164/result_47536_1677546097_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:46:38.597Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd528be6efd20cc277a4cc",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620164/result_47536_1677546097_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T23:24:00.378Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fee6bec6e83b6b3f40343e",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620164/result_47536_1677546097_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T23:24:00.378Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 2,
+    "is_accredited": 1,
+    "_id": "63f777acb3695239c618100e",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3127,
+    "ward_id": 17791,
+    "state_constituency_id": 40,
+    "state_constituency": "5f0f371c93d20b39ceee1fdc",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "GANGSANGJI II/NAWAI PRIMARY SCHOOL",
+    "code": "020",
+    "pu_code": "02/08/09/020",
+    "old_name": "",
+    "polling_unit_id": 128510,
+    "created_at": "2023-02-23T14:26:52.321Z",
+    "updated_at": "2023-02-23T21:50:00.507Z",
+    "__v": 0,
+    "pu_code_string": "020809020",
+    "state_name": "ADAMAWA",
+    "lga_name": "JADA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63ffdddcbd81849043ec2681",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/128510/128510-1677712849.pdf",
+      "size": 1568442,
+      "updated_at": "2023-03-01T23:21:00.253Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceef4e6efd20cc2768a85",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620163/result_47535_1677514035_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T21:24:04.188Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceef4e6efd20cc2768a85",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620163/result_47535_1677514035_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T23:21:00.253Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe70f45e256667087902aa",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620163/result_47535_1677514035_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T23:21:00.253Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 2,
+    "is_accredited": 1,
+    "_id": "63f777abb3695239c6180fdc",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3127,
+    "ward_id": 17791,
+    "state_constituency_id": 40,
+    "state_constituency": "5f0f371c93d20b39ceee1fdc",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "GANGSANGJI I/OPEN SPACE FOOTBALL FIELD GANGSANGJI PRIMARY SCHOOL",
+    "code": "019",
+    "pu_code": "02/08/09/019",
+    "old_name": "",
+    "polling_unit_id": 128509,
+    "created_at": "2023-02-23T14:26:51.330Z",
+    "updated_at": "2023-02-23T21:50:00.340Z",
+    "__v": 0,
+    "pu_code_string": "020809019",
+    "state_name": "ADAMAWA",
+    "lga_name": "JADA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63ffdd65bd81849043ec2619",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/128509/128509-1677712690.pdf",
+      "size": 1401563,
+      "updated_at": "2023-03-01T23:19:01.244Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd51d6e6efd20cc277a464",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620162/result_47534_1677545906_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:46:35.103Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd51d6e6efd20cc277a464",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620162/result_47534_1677545906_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T23:19:00.083Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fee6bbc6e83b6b3f4033ac",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620162/result_47534_1677545906_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T23:19:00.083Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fee6bbc6e83b6b3f4033ac",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620162/result_47534_1677545906_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T23:19:01.244Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63ffdd64bd81849043ec2605",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/128509/128509-1677712690.pdf",
+        "size": 1401563,
+        "updated_at": "2023-03-01T23:19:01.244Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 2,
+    "is_accredited": 1,
+    "_id": "63f777aab3695239c6180faa",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3127,
+    "ward_id": 17791,
+    "state_constituency_id": 40,
+    "state_constituency": "5f0f371c93d20b39ceee1fdc",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "FARANG VAN I/ FARANG VAN CLINIC NEAR FARANG VAN PRIMARY SCHOOL",
+    "code": "018",
+    "pu_code": "02/08/09/018",
+    "old_name": "",
+    "polling_unit_id": 128508,
+    "created_at": "2023-02-23T14:26:50.330Z",
+    "updated_at": "2023-02-23T21:49:59.899Z",
+    "__v": 0,
+    "pu_code_string": "020809018",
+    "state_name": "ADAMAWA",
+    "lga_name": "JADA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63ffdbc0bd81849043ec24aa",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/128508/128508-1677712277.pdf",
+      "size": 1443481,
+      "updated_at": "2023-03-01T23:12:00.119Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd515fe6efd20cc277a409",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620161/result_47533_1677545799_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:46:32.351Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd515fe6efd20cc277a409",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620161/result_47533_1677545799_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T23:12:00.119Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fee6b8c6e83b6b3f40333d",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620161/result_47533_1677545799_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T23:12:00.119Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f45c6c440353badb0e4cc",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3127,
+    "ward_id": 17791,
+    "state_constituency_id": 40,
+    "state_constituency": "5f0f371c93d20b39ceee1fdc",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "PRY SCH WEYIBENSO",
+    "code": "017",
+    "pu_code": "02/08/09/017",
+    "old_name": "WEYIBENSO/ KOFAR JAURO WEYIBENSO",
+    "polling_unit_id": 3638,
+    "created_at": "2020-07-15T18:07:02.960Z",
+    "updated_at": "2023-02-23T20:13:01.909Z",
+    "__v": 0,
+    "pu_code_string": "020809017",
+    "state_name": "ADAMAWA",
+    "lga_name": "JADA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63ffdad0bd81849043ec2412",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/3638/3638-1677712024.pdf",
+      "size": 1533863,
+      "updated_at": "2023-03-01T23:08:00.124Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd506fe6efd20cc277a324",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3632/result_47532_1677545563_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:46:25.533Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd506fe6efd20cc277a324",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3632/result_47532_1677545563_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T23:08:00.124Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fee6b1c6e83b6b3f40321e",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3632/result_47532_1677545563_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T23:08:00.124Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f45c6c440353badb0e4cb",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3127,
+    "ward_id": 17791,
+    "state_constituency_id": 40,
+    "state_constituency": "5f0f371c93d20b39ceee1fdc",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "TIMKOBA/ KOFAR JAURO TIMKOBA",
+    "code": "016",
+    "pu_code": "02/08/09/016",
+    "old_name": "",
+    "polling_unit_id": 3637,
+    "created_at": "2020-07-15T18:07:02.908Z",
+    "updated_at": "2023-02-23T20:13:01.872Z",
+    "__v": 0,
+    "pu_code_string": "020809016",
+    "state_name": "ADAMAWA",
+    "lga_name": "JADA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63ffda59bd81849043ec23d8",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/3637/3637-1677711883.pdf",
+      "size": 1883128,
+      "updated_at": "2023-03-01T23:06:01.131Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcef49e6efd20cc276fc7e",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3631/result_47531_1677511373_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T21:43:11.392Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcef49e6efd20cc276fc7e",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3631/result_47531_1677511373_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T23:05:00.163Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe756f5e25666708799a8a",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3631/result_47531_1677511373_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T23:05:00.163Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe756f5e25666708799a8a",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3631/result_47531_1677511373_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T23:06:00.068Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63ffda1cbd81849043ec23b9",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/3637/3637-1677711883.pdf",
+        "size": 1883128,
+        "updated_at": "2023-03-01T23:06:00.068Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63ffda1cbd81849043ec23b9",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/3637/3637-1677711883.pdf",
+        "size": 1883128,
+        "updated_at": "2023-03-01T23:06:01.131Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63ffda58bd81849043ec23cd",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/3637/3637-1677711883.pdf",
+        "size": 1883128,
+        "updated_at": "2023-03-01T23:06:01.131Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f45c6c440353badb0e4ca",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3127,
+    "ward_id": 17791,
+    "state_constituency_id": 40,
+    "state_constituency": "5f0f371c93d20b39ceee1fdc",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "GDSS MBULO",
+    "code": "015",
+    "pu_code": "02/08/09/015",
+    "old_name": "TAPPARE/ OLD MARKET SQUARE MBULO",
+    "polling_unit_id": 3636,
+    "created_at": "2020-07-15T18:07:02.839Z",
+    "updated_at": "2023-02-23T20:13:01.827Z",
+    "__v": 0,
+    "pu_code_string": "020809015",
+    "state_name": "ADAMAWA",
+    "lga_name": "JADA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63ffd9a4bd81849043ec2358",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/3636/3636-1677711752.pdf",
+      "size": 1842051,
+      "updated_at": "2023-03-01T23:03:00.153Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceeb4e6efd20cc2763035",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3630/result_47530_1677513702_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T20:30:41.204Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceeb4e6efd20cc2763035",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3630/result_47530_1677513702_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T23:03:00.153Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe6471d74638649a13760b",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3630/result_47530_1677513702_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T23:03:00.153Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f45c6c440353badb0e4c9",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3127,
+    "ward_id": 17791,
+    "state_constituency_id": 40,
+    "state_constituency": "5f0f371c93d20b39ceee1fdc",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "SABON LAYI/ MBULO PRY. SCH.",
+    "code": "014",
+    "pu_code": "02/08/09/014",
+    "old_name": "",
+    "polling_unit_id": 3635,
+    "created_at": "2020-07-15T18:07:02.789Z",
+    "updated_at": "2023-02-23T20:13:01.789Z",
+    "__v": 0,
+    "pu_code_string": "020809014",
+    "state_name": "ADAMAWA",
+    "lga_name": "JADA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63ffd92cbd81849043ec22f6",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/3635/3635-1677711634.pdf",
+      "size": 1685520,
+      "updated_at": "2023-03-01T23:01:00.144Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd4ff6e6efd20cc277a2b6",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3629/result_47529_1677545429_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:46:22.338Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd4ff6e6efd20cc277a2b6",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3629/result_47529_1677545429_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T23:01:00.144Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fee6aec6e83b6b3f403192",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3629/result_47529_1677545429_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T23:01:00.144Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f45c6c440353badb0e4c8",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3127,
+    "ward_id": 17791,
+    "state_constituency_id": 40,
+    "state_constituency": "5f0f371c93d20b39ceee1fdc",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "POLA/ POLA PRY. SCH.",
+    "code": "013",
+    "pu_code": "02/08/09/013",
+    "old_name": "",
+    "polling_unit_id": 3634,
+    "created_at": "2020-07-15T18:07:02.730Z",
+    "updated_at": "2023-02-23T20:13:01.751Z",
+    "__v": 0,
+    "pu_code_string": "020809013",
+    "state_name": "ADAMAWA",
+    "lga_name": "JADA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63ffd8b4bd81849043ec22a0",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/3634/3634-1677711521.pdf",
+      "size": 1683553,
+      "updated_at": "2023-03-01T22:59:00.197Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcd6058f41741d12308d0c",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3628/result_47528_1677510314_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T13:55:59.643Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fce678e6efd20cc274b290",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3628/result_47528_1677510314_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T13:55:59.643Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fce678e6efd20cc274b290",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3628/result_47528_1677510314_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:21:31.143Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe07efc43294524a48cec0",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3628/result_47528_1677510314_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:21:31.143Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe07efc43294524a48cec0",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3628/result_47528_1677510314_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:48:49.004Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe381b6f2c3d5c2e7095ec",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3628/result_47528_1677510314_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:48:49.004Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe381b6f2c3d5c2e7095ec",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3628/result_47528_1677510314_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T22:59:00.197Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fee740c6e83b6b3f404919",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3628/result_47528_1677510314_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T22:59:00.197Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f45c6c440353badb0e4c7",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3127,
+    "ward_id": 17791,
+    "state_constituency_id": 40,
+    "state_constituency": "5f0f371c93d20b39ceee1fdc",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "MBULO KOMBUWAL/ MBULO K. PRY. SCH.",
+    "code": "012",
+    "pu_code": "02/08/09/012",
+    "old_name": "",
+    "polling_unit_id": 3633,
+    "created_at": "2020-07-15T18:07:02.675Z",
+    "updated_at": "2023-02-23T20:13:01.711Z",
+    "__v": 0,
+    "pu_code_string": "020809012",
+    "state_name": "ADAMAWA",
+    "lga_name": "JADA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63ffd801bd81849043ec2216",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/3633/3633-1677711355.pdf",
+      "size": 1626670,
+      "updated_at": "2023-03-01T22:56:01.360Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd4f7fe6efd20cc277a232",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3627/result_47527_1677545329_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:46:17.864Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd4f7fe6efd20cc277a232",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3627/result_47527_1677545329_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T22:56:00.115Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fee6a9c6e83b6b3f4030df",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3627/result_47527_1677545329_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T22:56:00.115Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fee6a9c6e83b6b3f4030df",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3627/result_47527_1677545329_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T22:56:01.360Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63ffd800bd81849043ec220b",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/3633/3633-1677711355.pdf",
+        "size": 1626670,
+        "updated_at": "2023-03-01T22:56:01.360Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f45c6c440353badb0e4c6",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3127,
+    "ward_id": 17791,
+    "state_constituency_id": 40,
+    "state_constituency": "5f0f371c93d20b39ceee1fdc",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "PRY SCH VERE",
+    "code": "011",
+    "pu_code": "02/08/09/011",
+    "old_name": "MBANGAN TIREN/ MBANGAN T. PRY. SCH.",
+    "polling_unit_id": 3632,
+    "created_at": "2020-07-15T18:07:02.605Z",
+    "updated_at": "2023-02-23T20:13:01.676Z",
+    "__v": 0,
+    "pu_code_string": "020809011",
+    "state_name": "ADAMAWA",
+    "lga_name": "JADA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63ffd788bd81849043ec21b1",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/3632/3632-1677711208.pdf",
+      "size": 13551407,
+      "updated_at": "2023-03-01T22:54:00.154Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd4f07e6efd20cc277a1df",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3626/result_47526_1677545177_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:46:15.137Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd4f07e6efd20cc277a1df",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3626/result_47526_1677545177_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T22:54:00.154Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fee6a7c6e83b6b3f403072",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3626/result_47526_1677545177_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T22:54:00.154Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f45c6c440353badb0e4c5",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3127,
+    "ward_id": 17791,
+    "state_constituency_id": 40,
+    "state_constituency": "5f0f371c93d20b39ceee1fdc",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "PRY SCH TAPPARE",
+    "code": "010",
+    "pu_code": "02/08/09/010",
+    "old_name": "MBAGAN ESSANDE",
+    "polling_unit_id": 3631,
+    "created_at": "2020-07-15T18:07:02.551Z",
+    "updated_at": "2023-02-23T20:13:01.639Z",
+    "__v": 0,
+    "pu_code_string": "020809010",
+    "state_name": "ADAMAWA",
+    "lga_name": "JADA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63ffd699bd81849043ec2124",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/3631/3631-1677710943.pdf",
+      "size": 1878700,
+      "updated_at": "2023-03-01T22:50:01.341Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd4876e6efd20cc2779d25",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3625/result_47525_1677543515_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:45:38.475Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd4876e6efd20cc2779d25",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3625/result_47525_1677543515_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T22:50:00.040Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fee682c6e83b6b3f402a3d",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3625/result_47525_1677543515_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T22:50:00.040Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fee682c6e83b6b3f402a3d",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3625/result_47525_1677543515_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T22:50:01.341Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63ffd698bd81849043ec2112",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/3631/3631-1677710943.pdf",
+        "size": 1878700,
+        "updated_at": "2023-03-01T22:50:01.341Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f45c6c440353badb0e4c4",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3127,
+    "ward_id": 17791,
+    "state_constituency_id": 40,
+    "state_constituency": "5f0f371c93d20b39ceee1fdc",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "KOJOLI/ GANGALADA/ GANGALADA PRY. SCH.",
+    "code": "009",
+    "pu_code": "02/08/09/009",
+    "old_name": "",
+    "polling_unit_id": 3630,
+    "created_at": "2020-07-15T18:07:02.495Z",
+    "updated_at": "2023-02-23T20:13:01.601Z",
+    "__v": 0,
+    "pu_code_string": "020809009",
+    "state_name": "ADAMAWA",
+    "lga_name": "JADA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63ffd5e5bd81849043ec2095",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/3630/3630-1677710794.pdf",
+      "size": 1691869,
+      "updated_at": "2023-03-01T22:47:01.106Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd47fee6efd20cc2779cd5",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3624/result_47524_1677543420_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:45:35.362Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd47fee6efd20cc2779cd5",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3624/result_47524_1677543420_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T22:47:00.235Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fee67fc6e83b6b3f4029dc",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3624/result_47524_1677543420_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T22:47:00.235Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fee67fc6e83b6b3f4029dc",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3624/result_47524_1677543420_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T22:47:01.107Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63ffd5e4bd81849043ec2089",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/3630/3630-1677710794.pdf",
+        "size": 1691869,
+        "updated_at": "2023-03-01T22:47:01.107Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f45c6c440353badb0e4c3",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3127,
+    "ward_id": 17791,
+    "state_constituency_id": 40,
+    "state_constituency": "5f0f371c93d20b39ceee1fdc",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "ISLAMIYA PRY SCH JAURO JODA",
+    "code": "008",
+    "pu_code": "02/08/09/008",
+    "old_name": "JAURO JODA/ KOFAR JAURO JODA",
+    "polling_unit_id": 3629,
+    "created_at": "2020-07-15T18:07:02.433Z",
+    "updated_at": "2023-02-23T20:13:01.560Z",
+    "__v": 0,
+    "pu_code_string": "020809008",
+    "state_name": "ADAMAWA",
+    "lga_name": "JADA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63ffd56cbd81849043ec2035",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/3629/3629-1677710680.pdf",
+      "size": 2026703,
+      "updated_at": "2023-03-01T22:45:00.498Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd4786e6efd20cc2779c6b",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3623/result_47523_1677543298_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:45:32.734Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd4786e6efd20cc2779c6b",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3623/result_47523_1677543298_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T22:45:00.498Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fee67cc6e83b6b3f40295d",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3623/result_47523_1677543298_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T22:45:00.498Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f45c6c440353badb0e4c1",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3127,
+    "ward_id": 17791,
+    "state_constituency_id": 40,
+    "state_constituency": "5f0f371c93d20b39ceee1fdc",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "GANGYAKI/ GANGYAKI PRY. SCH.",
+    "code": "006",
+    "pu_code": "02/08/09/006",
+    "old_name": "",
+    "polling_unit_id": 3627,
+    "created_at": "2020-07-15T18:07:02.304Z",
+    "updated_at": "2023-02-23T20:13:01.472Z",
+    "__v": 0,
+    "pu_code_string": "020809006",
+    "state_name": "ADAMAWA",
+    "lga_name": "JADA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63ffd4b9bd81849043ec1fad",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/3627/3627-1677710463.pdf",
+      "size": 1576475,
+      "updated_at": "2023-03-01T22:42:01.268Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd4697e6efd20cc2779bc7",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3621/result_47521_1677543059_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:45:28.755Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd4697e6efd20cc2779bc7",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3621/result_47521_1677543059_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T22:42:00.156Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fee678c6e83b6b3f402891",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3621/result_47521_1677543059_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T22:42:00.156Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fee678c6e83b6b3f402891",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3621/result_47521_1677543059_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T22:42:01.268Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63ffd4b8bd81849043ec1f92",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/3627/3627-1677710463.pdf",
+        "size": 1576475,
+        "updated_at": "2023-03-01T22:42:01.269Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f45c6c440353badb0e4c0",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3127,
+    "ward_id": 17791,
+    "state_constituency_id": 40,
+    "state_constituency": "5f0f371c93d20b39ceee1fdc",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "AREA COURT KAREJI NATUBI",
+    "code": "005",
+    "pu_code": "02/08/09/005",
+    "old_name": "GANGSIFA/ KOFAR JAURO GANGSIFA",
+    "polling_unit_id": 3626,
+    "created_at": "2020-07-15T18:07:02.249Z",
+    "updated_at": "2023-02-23T20:13:01.435Z",
+    "__v": 0,
+    "pu_code_string": "020809005",
+    "state_name": "ADAMAWA",
+    "lga_name": "JADA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63ffd3c8bd81849043ec1ed0",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/3626/3626-1677710273.pdf",
+      "size": 1643812,
+      "updated_at": "2023-03-01T22:38:00.297Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd461ee6efd20cc2779b3f",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3620/result_47520_1677542915_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:45:24.678Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd461ee6efd20cc2779b3f",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3620/result_47520_1677542915_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T22:38:00.297Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fee674c6e83b6b3f4027dc",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3620/result_47520_1677542915_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T22:38:00.297Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f45c6c440353badb0e4bf",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3127,
+    "ward_id": 17791,
+    "state_constituency_id": 40,
+    "state_constituency": "5f0f371c93d20b39ceee1fdc",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "GANGSANJI/ GANGSANJI PRY. SCH.",
+    "code": "004",
+    "pu_code": "02/08/09/004",
+    "old_name": "",
+    "polling_unit_id": 3625,
+    "created_at": "2020-07-15T18:07:02.187Z",
+    "updated_at": "2023-02-23T20:13:01.387Z",
+    "__v": 0,
+    "pu_code_string": "020809004",
+    "state_name": "ADAMAWA",
+    "lga_name": "JADA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63ffd350bd81849043ec1e48",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/3625/3625-1677710122.pdf",
+      "size": 1546208,
+      "updated_at": "2023-03-01T22:36:00.399Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd4404e6efd20cc2779986",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3619/result_47519_1677542355_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:45:08.234Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd4404e6efd20cc2779986",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3619/result_47519_1677542355_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T22:36:00.399Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fee664c6e83b6b3f402590",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3619/result_47519_1677542355_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T22:36:00.399Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f45c6c440353badb0e4be",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3127,
+    "ward_id": 17791,
+    "state_constituency_id": 40,
+    "state_constituency": "5f0f371c93d20b39ceee1fdc",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "GANGMOBI/ GANGMOBI PRY. SCH.",
+    "code": "003",
+    "pu_code": "02/08/09/003",
+    "old_name": "",
+    "polling_unit_id": 3624,
+    "created_at": "2020-07-15T18:07:02.130Z",
+    "updated_at": "2023-02-23T20:13:01.319Z",
+    "__v": 0,
+    "pu_code_string": "020809003",
+    "state_name": "ADAMAWA",
+    "lga_name": "JADA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63ffd260bd81849043ec1d67",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/3624/3624-1677709905.pdf",
+      "size": 1531138,
+      "updated_at": "2023-03-01T22:32:00.263Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd438be6efd20cc2779929",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3618/result_47518_1677542227_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:45:05.450Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd438be6efd20cc2779929",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3618/result_47518_1677542227_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T22:19:00.512Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fee661c6e83b6b3f402516",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3618/result_47518_1677542227_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T22:19:00.512Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fee661c6e83b6b3f402516",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3618/result_47518_1677542227_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T22:32:00.263Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63ffcf54bd81849043ec1a98",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/3624/3624-1677709090.pdf",
+        "size": 1531138,
+        "updated_at": "2023-03-01T22:32:00.263Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f45c6c440353badb0e4bd",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3127,
+    "ward_id": 17791,
+    "state_constituency_id": 40,
+    "state_constituency": "5f0f371c93d20b39ceee1fdc",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "FARANG VAN/ FARANG VAN PRY. SCH.",
+    "code": "002",
+    "pu_code": "02/08/09/002",
+    "old_name": "",
+    "polling_unit_id": 3623,
+    "created_at": "2020-07-15T18:07:02.069Z",
+    "updated_at": "2023-02-23T20:13:01.279Z",
+    "__v": 0,
+    "pu_code_string": "020809002",
+    "state_name": "ADAMAWA",
+    "lga_name": "JADA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63ffce28bd81849043ec1943",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/3623/3623-1677708797.pdf",
+      "size": 1403795,
+      "updated_at": "2023-03-01T22:14:00.130Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd4312e6efd20cc27798b6",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3617/result_47517_1677542128_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:45:01.520Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd4312e6efd20cc27798b6",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3617/result_47517_1677542128_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T22:05:00.062Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fee65dc6e83b6b3f40248b",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3617/result_47517_1677542128_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T22:05:00.062Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fee65dc6e83b6b3f40248b",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3617/result_47517_1677542128_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T22:05:01.223Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63ffcc0cbd81849043ec173f",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/3623/3623-1677708277.pdf",
+        "size": 1403795,
+        "updated_at": "2023-03-01T22:05:01.224Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63ffcc0cbd81849043ec173f",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/3623/3623-1677708277.pdf",
+        "size": 1403795,
+        "updated_at": "2023-03-01T22:14:00.110Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63ffcc0dbd81849043ec174b",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/3623/3623-1677708277.pdf",
+        "size": 1403795,
+        "updated_at": "2023-03-01T22:14:00.110Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63ffcc0dbd81849043ec174b",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/3623/3623-1677708277.pdf",
+        "size": 1403795,
+        "updated_at": "2023-03-01T22:14:00.130Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63ffce28bd81849043ec193c",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/3623/3623-1677708797.pdf",
+        "size": 1403795,
+        "updated_at": "2023-03-01T22:14:00.130Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f45c6c440353badb0e4bc",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3127,
+    "ward_id": 17791,
+    "state_constituency_id": 40,
+    "state_constituency": "5f0f371c93d20b39ceee1fdc",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "FARANG RAI/ KOFAR JAURO FARANG RAI",
+    "code": "001",
+    "pu_code": "02/08/09/001",
+    "old_name": "",
+    "polling_unit_id": 3622,
+    "created_at": "2020-07-15T18:07:02.018Z",
+    "updated_at": "2023-02-23T20:13:01.196Z",
+    "__v": 0,
+    "pu_code_string": "020809001",
+    "state_name": "ADAMAWA",
+    "lga_name": "JADA",
+    "document": {
+      "external": false,
+      "status": 1,
+      "_id": "63ffca69bd81849043ec159f",
+      "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/3622/3622-1677707828.pdf",
+      "size": 1598397,
+      "updated_at": "2023-03-01T21:58:01.333Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd41aae6efd20cc27797e5",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3616/result_47516_1677541745_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:44:54.126Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd41aae6efd20cc27797e5",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3616/result_47516_1677541745_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T21:58:00.074Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fee656c6e83b6b3f40235e",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3616/result_47516_1677541745_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T21:58:00.074Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fee656c6e83b6b3f40235e",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3616/result_47516_1677541745_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T21:58:01.333Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63ffca68bd81849043ec158d",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17791/pu/3622/3622-1677707828.pdf",
+        "size": 1598397,
+        "updated_at": "2023-03-01T21:58:01.333Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f45c6c440353badb0e4c2",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3127,
+    "ward_id": 17791,
+    "state_constituency_id": 40,
+    "state_constituency": "5f0f371c93d20b39ceee1fdc",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "JARANDI/ KOFAR JAURO JARANDI",
+    "code": "007",
+    "pu_code": "02/08/09/007",
+    "old_name": "",
+    "polling_unit_id": 3628,
+    "created_at": "2020-07-15T18:07:02.364Z",
+    "updated_at": "2023-02-23T20:13:01.519Z",
+    "__v": 0,
+    "pu_code_string": "020809007",
+    "state_name": "ADAMAWA",
+    "lga_name": "JADA",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fee67cc6e83b6b3f402946",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3622/result_47522_1677543195_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-03-01T05:45:32.381Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fd474ce6efd20cc2779c57",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3622/result_47522_1677543195_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:45:32.381Z"
+      }
+    ],
+    "has_old_documents": true
+  }
+]
