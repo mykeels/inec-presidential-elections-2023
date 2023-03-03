@@ -17,5 +17,7 @@
   "ward_id": 22838,
   "created_at": "2020-07-15T17:30:50.639Z",
   "updated_at": "2020-07-15T17:30:50.639Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "KEBBI",
+  "lga_name": "YAURI"
 }
