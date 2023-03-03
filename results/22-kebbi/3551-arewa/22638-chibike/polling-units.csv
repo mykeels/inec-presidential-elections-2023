@@ -1,0 +1,13 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KEBBI,AREWA,CHIBIKE,CHIBIKE BABBA PRIMARY SCHOOL (CHIBIKE BABBA),21/02/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/69826/result_137026_1677537442_thumb.jpg,true
+KEBBI,AREWA,CHIBIKE,UNGUWAR CHUFA PRI. SCH.,21/02/02/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,true
+KEBBI,AREWA,CHIBIKE,CHIBIKE PRIMARY SCHOOL (CHIBIKE ILLELA),21/02/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/69827/result_137027_1677537157_thumb.jpg,true
+KEBBI,AREWA,CHIBIKE,ERI PRIMARY SCHOOL (ERI),21/02/02/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/69836/result_137036_1677537027_thumb.jpg,true
+KEBBI,AREWA,CHIBIKE,DOGONDAJI PRIMARY SCHOOL (DOGON DAJI ),21/02/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/69828/result_137028_1677536482_thumb.jpg,true
+KEBBI,AREWA,CHIBIKE,FAWANGU PRIMARY SCHOOL (FAWANGU ),21/02/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/69829/result_137029_1677536319_thumb.jpg,false
+KEBBI,AREWA,CHIBIKE,UNGUWAR MUZA PRIMARY SCHOOL (U/MUZA),21/02/02/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/69834/result_137034_1677536182_thumb.jpg,true
+KEBBI,AREWA,CHIBIKE,TURMIN DUTSE PRIMARY SCHOOL (TURMIN DUTSE),21/02/02/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/69833/result_137033_1677536018_thumb.jpg,true
+KEBBI,AREWA,CHIBIKE,MARAKE PRIMARY SCHOOL (MARAKE),21/02/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/69831/result_137031_1677535865_thumb.jpg,true
+KEBBI,AREWA,CHIBIKE,FARSANGU PRIMARY SCHOOL (FARSANGU ),21/02/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/69830/result_137030_1677535635_thumb.jpg,true
+KEBBI,AREWA,CHIBIKE,KOHOBI PRIMARY SCHOOL (U/ZARMAKWAI),21/02/02/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/69835/result_137035_1677535395_thumb.jpg,true
+KEBBI,AREWA,CHIBIKE,RAMBA PRIMARY SCHOOL (RAMBA MAMMAN),21/02/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/69832/result_137032_1677535098_thumb.jpg,true

@@ -1,0 +1,18 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KEBBI,DANDI,GEZA,TUNGAR KADE,21/08/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22711/pu/71407/71407-1677714621.pdf,false
+KEBBI,DANDI,GEZA,YAWURYA          YAWURYA,21/08/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22711/pu/71409/71409-1677714131.pdf,true
+KEBBI,DANDI,GEZA,BABBAN TABKI BABBAN TABKI,21/08/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22711/pu/71402/71402-1677712694.pdf,false
+KEBBI,DANDI,GEZA,OPEN SPACE GIDAN RUWA IFAD GEZA,21/08/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22711/pu/153632/153632-1677630377.pdf,true
+KEBBI,DANDI,GEZA,GEZA P.H.C,21/08/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22711/pu/153631/153631-1677629746.pdf,true
+KEBBI,DANDI,GEZA,UNG. SANYI      UNG. SANYI,21/08/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22711/pu/71406/71406-1677628833.pdf,true
+KEBBI,DANDI,GEZA,OPEN SAPCE DUKUSHI RUGGA NEAR RIMA RIVER BASIN,21/08/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22711/pu/153630/153630-1677628157.pdf,true
+KEBBI,DANDI,GEZA,TUNGAR BAIDO    TUNGAR BAIDO,21/08/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22711/pu/71412/71412-1677627583.pdf,true
+KEBBI,DANDI,GEZA,BELIN MAIKAMA     BELIN MAIKAMA,21/08/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22711/pu/71404/71404-1677625829.pdf,true
+KEBBI,DANDI,GEZA,DUKUSHI MAKARANTA,21/08/07/003,,false
+KEBBI,DANDI,GEZA,DOGON DAJI,21/08/07/013,,false
+KEBBI,DANDI,GEZA,BALU MAKARANTA     BALU MAKARANTA,21/08/07/005,,false
+KEBBI,DANDI,GEZA,GEZA MAKARANTA    GEZA PRIMARY SCHOOL,21/08/07/010,,false
+KEBBI,DANDI,GEZA,GARKAR SAKO FADI  'B',21/08/07/002,,false
+KEBBI,DANDI,GEZA,BELIN ZUMBAI     BELIN ZUMBAI,21/08/07/007,,false
+KEBBI,DANDI,GEZA,BELIN NASSARAWA B/NASSARAWA,21/08/07/012,,false
+KEBBI,DANDI,GEZA,GARKARSAKO FADI  GARKAR SAKO 'A',21/08/07/001,,false

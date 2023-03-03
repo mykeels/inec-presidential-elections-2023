@@ -1,0 +1,19 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KEBBI,DANDI,BUMA,TUNGAR HIMMA    TUNGAR HIMMA,21/08/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22706/pu/71352/71352-1677713844.pdf,false
+KEBBI,DANDI,BUMA,ALFARMA  ALFARMA,21/08/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22706/pu/71343/71343-1677687363.pdf,false
+KEBBI,DANDI,BUMA,GAMANA  GAMANA,21/08/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22706/pu/71342/71342-1677684094.pdf,false
+KEBBI,DANDI,BUMA,BUMA MAKARANTA    BUMA MAKARANTA,21/08/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22706/pu/71350/71350-1677654703.pdf,false
+KEBBI,DANDI,BUMA,TUNGAR RAFI  B,21/08/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22706/pu/71341/71341-1677654538.pdf,true
+KEBBI,DANDI,BUMA,TUNGAR MAJE     TUNGAR MAJE,21/08/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22706/pu/71353/71353-1677631421.pdf,true
+KEBBI,DANDI,BUMA,BUMA MAKARANTA B,21/08/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22706/pu/153595/153595-1677629128.pdf,true
+KEBBI,DANDI,BUMA,TUNGAR KWANDO    TUNGAR KWANDO,21/08/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22706/pu/71348/71348-1677628968.pdf,true
+KEBBI,DANDI,BUMA,TUNDUN SANI    TUNDUN SANI,21/08/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22706/pu/71347/71347-1677626874.pdf,true
+KEBBI,DANDI,BUMA,TUNGAR RAFI  TUNGAR  RAFI 'A',21/08/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22706/pu/71340/71340-1677625031.pdf,true
+KEBBI,DANDI,BUMA,ASIBITI KARAMA,21/08/02/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22706/pu/153596/153596-1677624770.pdf,true
+KEBBI,DANDI,BUMA,MUHU     MUHU,21/08/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22706/pu/71349/71349-1677623079.pdf,false
+KEBBI,DANDI,BUMA,BUMA ASIBITI BABBA,21/08/02/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22706/pu/153597/153597-1677622209.pdf,false
+KEBBI,DANDI,BUMA,BUKKI      BUKKI,21/08/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/02/pu/015/015-1677412966.pdf,false
+KEBBI,DANDI,BUMA,TUNGAR TAHIRU  TUNGAR TAHIRU,21/08/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/02/pu/006/006-1677412224.pdf,false
+KEBBI,DANDI,BUMA,BULLUNGAI  BULLUNGAI,21/08/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/02/pu/005/005-1677410293.pdf,false
+KEBBI,DANDI,BUMA,GILLARE  GILLARE,21/08/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/02/pu/007/007-1677401784.pdf,false
+KEBBI,DANDI,BUMA,GUNGUN KUKA    GUNGUN KUKA,21/08/02/012,,false

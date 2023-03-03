@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KEBBI,KALGO,ETENE,GANGARE GARI,21/12/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3561/ward/22750/pu/71808/71808-1677569871.pdf,true
+KEBBI,KALGO,ETENE,KETA FULANI ASIBITI (KETA FULANI I),21/12/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3561/ward/22750/pu/71810/71810-1677525210.pdf,false
+KEBBI,KALGO,ETENE,SHIYAR FADA KASUWA,21/12/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/04/pu/008/008-1677418030.pdf,false
+KEBBI,KALGO,ETENE,DANFILI KASUWA KETA HAUSAWA,21/12/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/04/pu/007/007-1677417394.pdf,false
+KEBBI,KALGO,ETENE,ETENE SHIYAR KUDU,21/12/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/04/pu/006/006-1677416894.pdf,false
+KEBBI,KALGO,ETENE,KETA FILANI II PRIMARY SCHOOL (KETA FULANI II),21/12/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/04/pu/004/004-1677416431.pdf,false
+KEBBI,KALGO,ETENE,KETA HAUSAWA,21/12/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/04/pu/002/002-1677415077.pdf,false
+KEBBI,KALGO,ETENE,ETENE SHIYAR AREWA,21/12/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/04/pu/005/005-1677413756.pdf,false

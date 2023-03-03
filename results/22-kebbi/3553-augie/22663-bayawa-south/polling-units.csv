@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KEBBI,AUGIE,BAYAWA SOUTH,SABUWAR MAIYAKI PRI. SCH (S/MAIYAKI),21/04/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3553/ward/22663/pu/70812/70812-1677684986.pdf,false
+KEBBI,AUGIE,BAYAWA SOUTH,ZABDO PRI. SCHOOL (ZABDO/LUTTUGAJE),21/04/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3553/ward/22663/pu/70814/70814-1677684629.pdf,false
+KEBBI,AUGIE,BAYAWA SOUTH,KAFARE DISPENSIRY (KAFARE/T.DUMA),21/04/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3553/ward/22663/pu/70817/70817-1677683663.pdf,false
+KEBBI,AUGIE,BAYAWA SOUTH,TANKIN SHIYAR FAKO,21/04/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3553/ward/22663/pu/153258/153258-1677683193.pdf,false
+KEBBI,AUGIE,BAYAWA SOUTH,BORE PRIMARY SCHOOL (BORE),21/04/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3553/ward/22663/pu/70815/70815-1677683090.pdf,false
+KEBBI,AUGIE,BAYAWA SOUTH,VILLAGE CENTRE (FAKON SARKI),21/04/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3553/ward/22663/pu/70813/70813-1677681614.pdf,false
+KEBBI,AUGIE,BAYAWA SOUTH,YAKURUTU PRI. SCHOOL (YAKURUTU),21/04/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3553/ward/22663/pu/70816/70816-1677681137.pdf,false
+KEBBI,AUGIE,BAYAWA SOUTH,JABAKA DISPENSIRY (JABAKA KAWARI),21/04/05/001,,false
+KEBBI,AUGIE,BAYAWA SOUTH,JABAKA PRI. SCHOOL (JABAKA DANFILI),21/04/05/002,,true

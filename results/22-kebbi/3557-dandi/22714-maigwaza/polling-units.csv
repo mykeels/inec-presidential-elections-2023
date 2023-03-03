@@ -1,0 +1,8 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KEBBI,DANDI,MAIGWAZA,MAIGWAZA MAKARANTA FULANI,21/08/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22714/pu/71433/71433-1677683231.pdf,false
+KEBBI,DANDI,MAIGWAZA,SABON GARI,21/08/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22714/pu/71434/71434-1677682440.pdf,true
+KEBBI,DANDI,MAIGWAZA,RUDUN BISA,21/08/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22714/pu/71436/71436-1677656287.pdf,true
+KEBBI,DANDI,MAIGWAZA,GIDAKAI   GIODAKAI,21/08/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22714/pu/71435/71435-1677655734.pdf,false
+KEBBI,DANDI,MAIGWAZA,MAIGWAZA P.H.C,21/08/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22714/pu/153661/153661-1677655508.pdf,false
+KEBBI,DANDI,MAIGWAZA,GIDAN DOBI  GIDAN DOBI,21/08/10/005,,false
+KEBBI,DANDI,MAIGWAZA,OPEN SPACE ASARARA TOWN,21/08/10/007,,false

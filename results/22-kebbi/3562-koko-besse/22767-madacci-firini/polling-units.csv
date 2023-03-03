@@ -1,0 +1,14 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KEBBI,KOKO/BESSE,MADACCI/FIRINI,SAKKA B,21/13/11/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3562/ward/22767/pu/153912/153912-1677623752.pdf,false
+KEBBI,KOKO/BESSE,MADACCI/FIRINI,FIRINI KASUWA,21/13/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3562/ward/22767/pu/153911/153911-1677623447.pdf,false
+KEBBI,KOKO/BESSE,MADACCI/FIRINI,FIRINI BUNDU,21/13/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3562/ward/22767/pu/153910/153910-1677623004.pdf,true
+KEBBI,KOKO/BESSE,MADACCI/FIRINI,TUNGAR MAJE,21/13/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3562/ward/22767/pu/71970/71970-1677622722.pdf,false
+KEBBI,KOKO/BESSE,MADACCI/FIRINI,TUNGAR HABIBU,21/13/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3562/ward/22767/pu/71969/71969-1677622119.pdf,false
+KEBBI,KOKO/BESSE,MADACCI/FIRINI,SAKKA,21/13/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3562/ward/22767/pu/71967/71967-1677621662.pdf,false
+KEBBI,KOKO/BESSE,MADACCI/FIRINI,U/SANYI,21/13/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3562/ward/22767/pu/71966/71966-1677621215.pdf,false
+KEBBI,KOKO/BESSE,MADACCI/FIRINI,MAIHAKO,21/13/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3562/ward/22767/pu/71965/71965-1677620685.pdf,false
+KEBBI,KOKO/BESSE,MADACCI/FIRINI,GWARAM,21/13/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3562/ward/22767/pu/71964/71964-1677620251.pdf,false
+KEBBI,KOKO/BESSE,MADACCI/FIRINI,MADACCI,21/13/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3562/ward/22767/pu/71963/71963-1677619935.pdf,false
+KEBBI,KOKO/BESSE,MADACCI/FIRINI,FIRINI,21/13/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3562/ward/22767/pu/71962/71962-1677619602.pdf,false
+KEBBI,KOKO/BESSE,MADACCI/FIRINI,GWARGWABE,21/13/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3562/ward/22767/pu/71961/71961-1677618388.pdf,false
+KEBBI,KOKO/BESSE,MADACCI/FIRINI,TUNGAR BOKA,21/13/11/008,,false

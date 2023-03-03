@@ -1,0 +1,22 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KEBBI,GWANDU,DALIJAN,DALIJAN G/BELLO B.C.,21/10/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3559/ward/22727/pu/71562/71562-1677761799.pdf,false
+KEBBI,GWANDU,DALIJAN,DALIJAN FILIN NUHU,21/10/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3559/ward/22727/pu/71564/71564-1677761686.pdf,false
+KEBBI,GWANDU,DALIJAN,NUFAWA,21/10/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3559/ward/22727/pu/71565/71565-1677761172.pdf,true
+KEBBI,GWANDU,DALIJAN,BARAMA,21/10/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3559/ward/22727/pu/71557/71557-1677760696.pdf,false
+KEBBI,GWANDU,DALIJAN,BUNDU SULE  A,21/10/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3559/ward/22727/pu/71559/71559-1677758818.pdf,true
+KEBBI,GWANDU,DALIJAN,WARARIN ZORAMWA,21/10/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3559/ward/22727/pu/71567/71567-1677758352.pdf,false
+KEBBI,GWANDU,DALIJAN,DALIJAN KASUWA,21/10/02/007,https://docs.inecelectionresults.net/elections/1292/1677757103-71563.pdf,false
+KEBBI,GWANDU,DALIJAN,GIDAN T.V DALIJAN,21/10/02/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/018/018-1677395064.pdf,false
+KEBBI,GWANDU,DALIJAN,UNG KADE,21/10/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/015/015-1677360534.pdf,false
+KEBBI,GWANDU,DALIJAN,DALIJAN G/HASSAN,21/10/02/005,,false
+KEBBI,GWANDU,DALIJAN,GWANYAL,21/10/02/010,,false
+KEBBI,GWANDU,DALIJAN,GIDAN RUWA WARARIN ZORAMAWA,21/10/02/020,,false
+KEBBI,GWANDU,DALIJAN,LANGARMA,21/10/02/002,,false
+KEBBI,GWANDU,DALIJAN,GWABARE MAIKASUWA,21/10/02/012,,false
+KEBBI,GWANDU,DALIJAN,WATER BOARD/DAN LIM,21/10/02/017,,false
+KEBBI,GWANDU,DALIJAN,DALIJAN FILIN IBRO,21/10/02/004,,false
+KEBBI,GWANDU,DALIJAN,GWABARE  SAKKE,21/10/02/014,,false
+KEBBI,GWANDU,DALIJAN,FILIN KIDI OPE SPACE,21/10/02/019,,false
+KEBBI,GWANDU,DALIJAN,PRIMARY HEALTH CARE BUNDU SULE,21/10/02/016,,false
+KEBBI,GWANDU,DALIJAN,HEALTH POST S/GOBIRAWA,21/10/02/021,,false
+KEBBI,GWANDU,DALIJAN,GWABARE MAIKASUWA  MAKARANTA,21/10/02/013,,false

@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KEBBI,AUGIE,AUGIE SOUTH,DOGON KARFE,21/04/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3553/ward/22660/pu/153255/153255-1677685730.pdf,false
+KEBBI,AUGIE,AUGIE SOUTH,SABON GARIN AUGIE,21/04/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3553/ward/22660/pu/153254/153254-1677685103.pdf,false
+KEBBI,AUGIE,AUGIE SOUTH,SOLAR PUMP SABON GARI,21/04/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3553/ward/22660/pu/153253/153253-1677684808.pdf,false
+KEBBI,AUGIE,AUGIE SOUTH,VILLAGE CENTRE (RUGGA),21/04/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3553/ward/22660/pu/70786/70786-1677683931.pdf,false
+KEBBI,AUGIE,AUGIE SOUTH,VILLAGE CENTRE (GIDAN DADE),21/04/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3553/ward/22660/pu/70785/70785-1677683513.pdf,false
+KEBBI,AUGIE,AUGIE SOUTH,TUNGAR NOMA PRI SCH (TUNGAR NOMA),21/04/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3553/ward/22660/pu/70784/70784-1677682912.pdf,false
+KEBBI,AUGIE,AUGIE SOUTH,GIDAN TAKI (SABON GARIN AUGIE ),21/04/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3553/ward/22660/pu/70783/70783-1677682309.pdf,true
+KEBBI,AUGIE,AUGIE SOUTH,KASUWA AUGIE,21/04/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3553/ward/22660/pu/70782/70782-1677680835.pdf,false

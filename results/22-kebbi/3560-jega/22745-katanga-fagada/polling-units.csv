@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KEBBI,JEGA,KATANGA/FAGADA,MAKARANTA MALAM ALI,21/11/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3560/ward/22745/pu/153815/153815-1677666674.pdf,false
+KEBBI,JEGA,KATANGA/FAGADA,FAGADA UBANDAWAKI S/HALI,21/11/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3560/ward/22745/pu/71774/71774-1677665572.pdf,false
+KEBBI,JEGA,KATANGA/FAGADA,FAGADA UBANDAWAKI SHIYAR KAURA,21/11/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3560/ward/22745/pu/71775/71775-1677665423.pdf,false
+KEBBI,JEGA,KATANGA/FAGADA,"KATANGA KAURA, MAKARANTA",21/11/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3560/ward/22745/pu/71771/71771-1677665363.pdf,false
+KEBBI,JEGA,KATANGA/FAGADA,KANBARAWA MARINA,21/11/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3560/ward/22745/pu/153816/153816-1677665278.pdf,false
+KEBBI,JEGA,KATANGA/FAGADA,"KATANGA AKALAWA, DAN FILI",21/11/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3560/ward/22745/pu/71770/71770-1677665107.pdf,true
+KEBBI,JEGA,KATANGA/FAGADA,"KATANGA GUMBIN-DARI, DAN FILI",21/11/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3560/ward/22745/pu/71772/71772-1677664965.pdf,false
+KEBBI,JEGA,KATANGA/FAGADA,KATANGA KAURA DAN FILI,21/11/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3560/ward/22745/pu/153814/153814-1677664789.pdf,false
+KEBBI,JEGA,KATANGA/FAGADA,"KATANGA KANBARAWA 'A' / 'B', FAGADA KARAMA",21/11/10/004,,false

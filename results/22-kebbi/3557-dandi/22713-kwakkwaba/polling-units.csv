@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KEBBI,DANDI,KWAKKWABA,UNG. ZAKARU,21/08/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22713/pu/71428/71428-1677714351.pdf,false
+KEBBI,DANDI,KWAKKWABA,TSIKA,21/08/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22713/pu/71432/71432-1677713265.pdf,false
+KEBBI,DANDI,KWAKKWABA,WAYEKAI,21/08/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22713/pu/71430/71430-1677686574.pdf,false
+KEBBI,DANDI,KWAKKWABA,ASIBITI KWAKWABA,21/08/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22713/pu/153659/153659-1677629895.pdf,true
+KEBBI,DANDI,KWAKKWABA,TUNGAR YANKORI,21/08/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22713/pu/71429/71429-1677629262.pdf,true
+KEBBI,DANDI,KWAKKWABA,SABON GARIN SARHU,21/08/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22713/pu/71431/71431-1677628707.pdf,true
+KEBBI,DANDI,KWAKKWABA,KWAKWABA PRIMARY SCHOOL,21/08/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22713/pu/71427/71427-1677625422.pdf,true
+KEBBI,DANDI,KWAKKWABA,FAGEN MATA PRI SCH,21/08/09/008,,false

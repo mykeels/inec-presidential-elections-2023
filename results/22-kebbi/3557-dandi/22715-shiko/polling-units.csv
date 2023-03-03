@@ -1,0 +1,11 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KEBBI,DANDI,SHIKO,NAYADIYA   NAYADIYA,21/08/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22715/pu/71443/71443-1677673730.pdf,false
+KEBBI,DANDI,SHIKO,SHIKO MAKARANTA B,21/08/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22715/pu/153665/153665-1677673476.pdf,false
+KEBBI,DANDI,SHIKO,GARKAR NOMA  GARI  G/NOMA,21/08/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22715/pu/71439/71439-1677673222.pdf,false
+KEBBI,DANDI,SHIKO,ONA,21/08/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22715/pu/71438/71438-1677673086.pdf,true
+KEBBI,DANDI,SHIKO,RIJIYAR MAIKABI,21/08/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22715/pu/71442/71442-1677656445.pdf,false
+KEBBI,DANDI,SHIKO,RIJIYAR MAI KABI PRI HEALTH CARE,21/08/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22715/pu/153663/153663-1677655981.pdf,true
+KEBBI,DANDI,SHIKO,SHIYAR NOMA PRI SCH (GARKA NOMA),21/08/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3557/ward/22715/pu/153664/153664-1677655127.pdf,false
+KEBBI,DANDI,SHIKO,TUNGAR NOMA DUTSE T/NOMA DUTSE,21/08/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/11/pu/007/007-1677420699.pdf,false
+KEBBI,DANDI,SHIKO,GORUN MALLAM,21/08/11/003,,false
+KEBBI,DANDI,SHIKO,SHIKO MAKARANTA,21/08/11/004,,false
