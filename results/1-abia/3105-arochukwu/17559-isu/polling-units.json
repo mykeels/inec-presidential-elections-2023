@@ -26,6 +26,7 @@
     "pu_code_string": "010310003",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "ISU",
     "document": {
       "external": true,
       "status": 1,
@@ -97,6 +98,7 @@
     "pu_code_string": "010310002",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "ISU",
     "document": {
       "external": true,
       "status": 1,
@@ -144,6 +146,7 @@
     "pu_code_string": "010310001",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "ISU",
     "document": {
       "external": true,
       "status": 1,
@@ -191,6 +194,7 @@
     "pu_code_string": "010310006",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "ISU",
     "document": {
       "external": true,
       "status": 1,
@@ -246,6 +250,7 @@
     "pu_code_string": "010310005",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "ISU",
     "document": {
       "external": true,
       "status": 1,
@@ -293,6 +298,7 @@
     "pu_code_string": "010310004",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "ISU",
     "document": {
       "external": true,
       "status": 1,
@@ -340,6 +346,7 @@
     "pu_code_string": "010310007",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "ISU",
     "document": {
       "external": false,
       "status": 1,

@@ -26,6 +26,7 @@
     "pu_code_string": "011302002",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "IKWURIATOR WEST",
     "document": {
       "external": false,
       "status": 1,
@@ -73,6 +74,7 @@
     "pu_code_string": "011302005",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "IKWURIATOR WEST",
     "document": {
       "external": false,
       "status": 1,
@@ -120,6 +122,7 @@
     "pu_code_string": "011302001",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "IKWURIATOR WEST",
     "document": {
       "external": false,
       "status": 1,
@@ -158,6 +161,7 @@
     "pu_code_string": "011302004",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "IKWURIATOR WEST",
     "document": {
       "external": false,
       "status": 1,
@@ -196,6 +200,7 @@
     "pu_code_string": "011302003",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "IKWURIATOR WEST",
     "document": {
       "external": false,
       "status": 1,

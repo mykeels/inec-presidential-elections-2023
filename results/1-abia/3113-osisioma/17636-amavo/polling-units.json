@@ -26,6 +26,7 @@
     "pu_code_string": "011101011",
     "state_name": "ABIA",
     "lga_name": "OSISIOMA",
+    "ward_name": "AMAVO",
     "document": {
       "external": true,
       "status": 1,
@@ -81,6 +82,7 @@
     "pu_code_string": "011101001",
     "state_name": "ABIA",
     "lga_name": "OSISIOMA",
+    "ward_name": "AMAVO",
     "document": {
       "external": true,
       "status": 1,
@@ -136,6 +138,7 @@
     "pu_code_string": "011101004",
     "state_name": "ABIA",
     "lga_name": "OSISIOMA",
+    "ward_name": "AMAVO",
     "document": {
       "external": true,
       "status": 1,
@@ -191,6 +194,7 @@
     "pu_code_string": "011101009",
     "state_name": "ABIA",
     "lga_name": "OSISIOMA",
+    "ward_name": "AMAVO",
     "document": {
       "external": true,
       "status": 1,
@@ -246,6 +250,7 @@
     "pu_code_string": "011101007",
     "state_name": "ABIA",
     "lga_name": "OSISIOMA",
+    "ward_name": "AMAVO",
     "document": {
       "external": true,
       "status": 1,
@@ -301,6 +306,7 @@
     "pu_code_string": "011101005",
     "state_name": "ABIA",
     "lga_name": "OSISIOMA",
+    "ward_name": "AMAVO",
     "document": {
       "external": true,
       "status": 1,
@@ -348,6 +354,7 @@
     "pu_code_string": "011101003",
     "state_name": "ABIA",
     "lga_name": "OSISIOMA",
+    "ward_name": "AMAVO",
     "document": {
       "external": true,
       "status": 1,
@@ -403,6 +410,7 @@
     "pu_code_string": "011101010",
     "state_name": "ABIA",
     "lga_name": "OSISIOMA",
+    "ward_name": "AMAVO",
     "document": {
       "external": true,
       "status": 1,
@@ -441,6 +449,7 @@
     "pu_code_string": "011101008",
     "state_name": "ABIA",
     "lga_name": "OSISIOMA",
+    "ward_name": "AMAVO",
     "document": {
       "external": true,
       "status": 1,
@@ -512,6 +521,7 @@
     "pu_code_string": "011101002",
     "state_name": "ABIA",
     "lga_name": "OSISIOMA",
+    "ward_name": "AMAVO",
     "document": {
       "external": true,
       "status": 1,
@@ -583,6 +593,7 @@
     "pu_code_string": "011101006",
     "state_name": "ABIA",
     "lga_name": "OSISIOMA",
+    "ward_name": "AMAVO",
     "document": {
       "external": true,
       "status": 1,
@@ -654,6 +665,7 @@
     "pu_code_string": "011101012",
     "state_name": "ABIA",
     "lga_name": "OSISIOMA",
+    "ward_name": "AMAVO",
     "document": {
       "external": false,
       "status": 1,

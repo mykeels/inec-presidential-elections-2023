@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ABIA,UKWA  WEST,,OMUNA UZOR VILLAGE SQUARE / OMUNA UZOR,01/14/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17666/pu/2163/2163-1677695970.pdf,false
-ABIA,UKWA  WEST,,UMUEZEKE VILLAGE HALL / UMUEZEKE,01/14/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17666/pu/2169/2169-1677695503.pdf,true
-ABIA,UKWA  WEST,,UMUEKECHI HIGH SCHOOL / UMUEKECHI I,01/14/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17666/pu/2164/2164-1677652814.pdf,true
-ABIA,UKWA  WEST,,UMUOPARA VILLAGE HALL UMUIKU ISI ASA,01/14/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17666/pu/127631/127631-1677647296.pdf,false
-ABIA,UKWA  WEST,,UMUEKECHI VILLAGE HALL / UMUEKECHI  II,01/14/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17666/pu/2165/2165-1677530448.pdf,false
-ABIA,UKWA  WEST,,UMUIKU - UKOR VILLAGE HALL - UMUIKU - UKOR,01/14/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17666/pu/2162/2162-1677529848.pdf,false
-ABIA,UKWA  WEST,,OKEATOR VILLAGE HALL UMUIKU ISI ASA,01/14/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17666/pu/127630/127630-1677518513.pdf,false
-ABIA,UKWA  WEST,,MIGRANT PRI. SCHOOL OBINGWU,01/14/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17666/pu/127634/127634-1677517999.pdf,false
-ABIA,UKWA  WEST,,OMUMA-UZOR HEALTH CENTRE,01/14/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17666/pu/127632/127632-1677516804.pdf,false
-ABIA,UKWA  WEST,,UMUEZEKE VILLAGE HALL / UMUEZEKE,01/14/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17666/pu/2168/2168-1677516292.pdf,false
-ABIA,UKWA  WEST,,OMUMA UZO VILLAGE HALL,01/14/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17666/pu/127633/127633-1677514751.pdf,false
-ABIA,UKWA  WEST,,MBANO CENTRAL SCHOOL UMUEKECHI/UMUEKECHI - OBINGWU,01/14/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17666/pu/2167/2167-1677513967.pdf,false
-ABIA,UKWA  WEST,,OBINGWU VILLAGE HALL / OBINGWU  I,01/14/01/005,,false
+ABIA,UKWA  WEST,ASA NORTH,OMUNA UZOR VILLAGE SQUARE / OMUNA UZOR,01/14/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17666/pu/2163/2163-1677695970.pdf,false
+ABIA,UKWA  WEST,ASA NORTH,UMUEZEKE VILLAGE HALL / UMUEZEKE,01/14/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17666/pu/2169/2169-1677695503.pdf,true
+ABIA,UKWA  WEST,ASA NORTH,UMUEKECHI HIGH SCHOOL / UMUEKECHI I,01/14/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17666/pu/2164/2164-1677652814.pdf,true
+ABIA,UKWA  WEST,ASA NORTH,UMUOPARA VILLAGE HALL UMUIKU ISI ASA,01/14/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17666/pu/127631/127631-1677647296.pdf,false
+ABIA,UKWA  WEST,ASA NORTH,UMUEKECHI VILLAGE HALL / UMUEKECHI  II,01/14/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17666/pu/2165/2165-1677530448.pdf,false
+ABIA,UKWA  WEST,ASA NORTH,UMUIKU - UKOR VILLAGE HALL - UMUIKU - UKOR,01/14/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17666/pu/2162/2162-1677529848.pdf,false
+ABIA,UKWA  WEST,ASA NORTH,OKEATOR VILLAGE HALL UMUIKU ISI ASA,01/14/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17666/pu/127630/127630-1677518513.pdf,false
+ABIA,UKWA  WEST,ASA NORTH,MIGRANT PRI. SCHOOL OBINGWU,01/14/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17666/pu/127634/127634-1677517999.pdf,false
+ABIA,UKWA  WEST,ASA NORTH,OMUMA-UZOR HEALTH CENTRE,01/14/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17666/pu/127632/127632-1677516804.pdf,false
+ABIA,UKWA  WEST,ASA NORTH,UMUEZEKE VILLAGE HALL / UMUEZEKE,01/14/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17666/pu/2168/2168-1677516292.pdf,false
+ABIA,UKWA  WEST,ASA NORTH,OMUMA UZO VILLAGE HALL,01/14/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17666/pu/127633/127633-1677514751.pdf,false
+ABIA,UKWA  WEST,ASA NORTH,MBANO CENTRAL SCHOOL UMUEKECHI/UMUEKECHI - OBINGWU,01/14/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17666/pu/2167/2167-1677513967.pdf,false
+ABIA,UKWA  WEST,ASA NORTH,OBINGWU VILLAGE HALL / OBINGWU  I,01/14/01/005,,false

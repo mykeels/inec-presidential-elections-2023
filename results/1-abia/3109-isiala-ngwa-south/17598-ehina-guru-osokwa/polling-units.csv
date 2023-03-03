@@ -1,30 +1,30 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ABIA,ISIALA NGWA SOUTH,,EBEIYI - CENTRAL SCHOOL,01/07/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1227/1227-1677589958.pdf,true
-ABIA,ISIALA NGWA SOUTH,,Umuabali village hall.,01/07/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1220/1220-1677585410.pdf,false
-ABIA,ISIALA NGWA SOUTH,,UMUEZU - UMUEZU HALL,01/07/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1218/1218-1677582046.pdf,true
-ABIA,ISIALA NGWA SOUTH,,IHEORJI - VILLAGE HALL,01/07/05/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/127161/127161-1677581604.pdf,true
-ABIA,ISIALA NGWA SOUTH,,UMUWAOCHA - VILLAGE HALL,01/07/05/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/127167/127167-1677580982.pdf,true
-ABIA,ISIALA NGWA SOUTH,,IKEM CIVIL CENTER - IKEM CIVIL CENTER,01/07/05/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1235/1235-1677580497.pdf,true
-ABIA,ISIALA NGWA SOUTH,,UMUGURU - VILLAGE HALL,01/07/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1224/1224-1677580013.pdf,true
-ABIA,ISIALA NGWA SOUTH,,UMUNKPO - VILLAGE HALL,01/07/05/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1232/1232-1677579597.pdf,true
-ABIA,ISIALA NGWA SOUTH,,UMUAZUMA- VILLAGE HALL,01/07/05/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/127166/127166-1677579146.pdf,true
-ABIA,ISIALA NGWA SOUTH,,OKPOKIRI - CUSTOMARY COURT,01/07/05/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/127164/127164-1677578662.pdf,false
-ABIA,ISIALA NGWA SOUTH,,"Umuagwu meeting centre
+ABIA,ISIALA NGWA SOUTH,EHINA GURU OSOKWA,EBEIYI - CENTRAL SCHOOL,01/07/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1227/1227-1677589958.pdf,true
+ABIA,ISIALA NGWA SOUTH,EHINA GURU OSOKWA,Umuabali village hall.,01/07/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1220/1220-1677585410.pdf,false
+ABIA,ISIALA NGWA SOUTH,EHINA GURU OSOKWA,UMUEZU - UMUEZU HALL,01/07/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1218/1218-1677582046.pdf,true
+ABIA,ISIALA NGWA SOUTH,EHINA GURU OSOKWA,IHEORJI - VILLAGE HALL,01/07/05/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/127161/127161-1677581604.pdf,true
+ABIA,ISIALA NGWA SOUTH,EHINA GURU OSOKWA,UMUWAOCHA - VILLAGE HALL,01/07/05/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/127167/127167-1677580982.pdf,true
+ABIA,ISIALA NGWA SOUTH,EHINA GURU OSOKWA,IKEM CIVIL CENTER - IKEM CIVIL CENTER,01/07/05/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1235/1235-1677580497.pdf,true
+ABIA,ISIALA NGWA SOUTH,EHINA GURU OSOKWA,UMUGURU - VILLAGE HALL,01/07/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1224/1224-1677580013.pdf,true
+ABIA,ISIALA NGWA SOUTH,EHINA GURU OSOKWA,UMUNKPO - VILLAGE HALL,01/07/05/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1232/1232-1677579597.pdf,true
+ABIA,ISIALA NGWA SOUTH,EHINA GURU OSOKWA,UMUAZUMA- VILLAGE HALL,01/07/05/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/127166/127166-1677579146.pdf,true
+ABIA,ISIALA NGWA SOUTH,EHINA GURU OSOKWA,OKPOKIRI - CUSTOMARY COURT,01/07/05/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/127164/127164-1677578662.pdf,false
+ABIA,ISIALA NGWA SOUTH,EHINA GURU OSOKWA,"Umuagwu meeting centre
 Umuagwu.",01/07/05/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1237/1237-1677578261.pdf,false
-ABIA,ISIALA NGWA SOUTH,,UMUBU - UMUBU HALL,01/07/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1221/1221-1677577830.pdf,false
-ABIA,ISIALA NGWA SOUTH,,AKPURUNTA  - VILLAGE HALL,01/07/05/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1233/1233-1677577436.pdf,false
-ABIA,ISIALA NGWA SOUTH,,AMAIYI - CENTRAL SCHOOL (I),01/07/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1225/1225-1677576877.pdf,false
-ABIA,ISIALA NGWA SOUTH,,AMAIYI - CENTRAL SCHOOL (II),01/07/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1226/1226-1677519709.pdf,false
-ABIA,ISIALA NGWA SOUTH,,Umuokechi Village Hall,01/07/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1231/1231-1677519266.pdf,false
-ABIA,ISIALA NGWA SOUTH,,NDIOLUMBE - VILLAGE SQUARE,01/07/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1229/1229-1677519214.pdf,false
-ABIA,ISIALA NGWA SOUTH,,IKEM CIVIL CENTER - NKWO MKT. SQUARE,01/07/05/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1236/1236-1677517937.pdf,false
-ABIA,ISIALA NGWA SOUTH,,NNEISE - COMMUNITY SCHOOL,01/07/05/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/127162/127162-1677517317.pdf,false
-ABIA,ISIALA NGWA SOUTH,,Umuetegha Central sch.,01/07/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1222/1222-1677515831.pdf,false
-ABIA,ISIALA NGWA SOUTH,,Umuehim Village Square,01/07/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1223/1223-1677515322.pdf,false
-ABIA,ISIALA NGWA SOUTH,,NDIOLUMBE - C.P.S,01/07/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1228/1228-1677515288.pdf,false
-ABIA,ISIALA NGWA SOUTH,,AHIAFOR / UMURU - VILLAGE HALL,01/07/05/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1234/1234-1677514458.pdf,false
-ABIA,ISIALA NGWA SOUTH,,NTIGHA  NVOSI UNITED - VILLAGE HALL,01/07/05/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/127163/127163-1677513961.pdf,false
-ABIA,ISIALA NGWA SOUTH,,Umuohia Village Hall,01/07/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1230/1230-1677512965.pdf,false
-ABIA,ISIALA NGWA SOUTH,,UMUALAUBI - VILLAGE HALL,01/07/05/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/127160/127160-1677511785.pdf,false
-ABIA,ISIALA NGWA SOUTH,,UMUMGBOHO VILLAGE HALL,01/07/05/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/127165/127165-1677511589.pdf,false
-ABIA,ISIALA NGWA SOUTH,,UMUADA - VILLAGE HALL,01/07/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1219/1219-1677505623.pdf,false
+ABIA,ISIALA NGWA SOUTH,EHINA GURU OSOKWA,UMUBU - UMUBU HALL,01/07/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1221/1221-1677577830.pdf,false
+ABIA,ISIALA NGWA SOUTH,EHINA GURU OSOKWA,AKPURUNTA  - VILLAGE HALL,01/07/05/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1233/1233-1677577436.pdf,false
+ABIA,ISIALA NGWA SOUTH,EHINA GURU OSOKWA,AMAIYI - CENTRAL SCHOOL (I),01/07/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1225/1225-1677576877.pdf,false
+ABIA,ISIALA NGWA SOUTH,EHINA GURU OSOKWA,AMAIYI - CENTRAL SCHOOL (II),01/07/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1226/1226-1677519709.pdf,false
+ABIA,ISIALA NGWA SOUTH,EHINA GURU OSOKWA,Umuokechi Village Hall,01/07/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1231/1231-1677519266.pdf,false
+ABIA,ISIALA NGWA SOUTH,EHINA GURU OSOKWA,NDIOLUMBE - VILLAGE SQUARE,01/07/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1229/1229-1677519214.pdf,false
+ABIA,ISIALA NGWA SOUTH,EHINA GURU OSOKWA,IKEM CIVIL CENTER - NKWO MKT. SQUARE,01/07/05/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1236/1236-1677517937.pdf,false
+ABIA,ISIALA NGWA SOUTH,EHINA GURU OSOKWA,NNEISE - COMMUNITY SCHOOL,01/07/05/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/127162/127162-1677517317.pdf,false
+ABIA,ISIALA NGWA SOUTH,EHINA GURU OSOKWA,Umuetegha Central sch.,01/07/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1222/1222-1677515831.pdf,false
+ABIA,ISIALA NGWA SOUTH,EHINA GURU OSOKWA,Umuehim Village Square,01/07/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1223/1223-1677515322.pdf,false
+ABIA,ISIALA NGWA SOUTH,EHINA GURU OSOKWA,NDIOLUMBE - C.P.S,01/07/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1228/1228-1677515288.pdf,false
+ABIA,ISIALA NGWA SOUTH,EHINA GURU OSOKWA,AHIAFOR / UMURU - VILLAGE HALL,01/07/05/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1234/1234-1677514458.pdf,false
+ABIA,ISIALA NGWA SOUTH,EHINA GURU OSOKWA,NTIGHA  NVOSI UNITED - VILLAGE HALL,01/07/05/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/127163/127163-1677513961.pdf,false
+ABIA,ISIALA NGWA SOUTH,EHINA GURU OSOKWA,Umuohia Village Hall,01/07/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1230/1230-1677512965.pdf,false
+ABIA,ISIALA NGWA SOUTH,EHINA GURU OSOKWA,UMUALAUBI - VILLAGE HALL,01/07/05/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/127160/127160-1677511785.pdf,false
+ABIA,ISIALA NGWA SOUTH,EHINA GURU OSOKWA,UMUMGBOHO VILLAGE HALL,01/07/05/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/127165/127165-1677511589.pdf,false
+ABIA,ISIALA NGWA SOUTH,EHINA GURU OSOKWA,UMUADA - VILLAGE HALL,01/07/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3109/ward/17598/pu/1219/1219-1677505623.pdf,false

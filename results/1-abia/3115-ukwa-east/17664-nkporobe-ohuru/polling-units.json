@@ -26,6 +26,7 @@
     "pu_code_string": "011309003",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "NKPOROBE/OHURU",
     "document": {
       "external": true,
       "status": 1,
@@ -81,6 +82,7 @@
     "pu_code_string": "011309006",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "NKPOROBE/OHURU",
     "document": {
       "external": true,
       "status": 1,
@@ -136,6 +138,7 @@
     "pu_code_string": "011309007",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "NKPOROBE/OHURU",
     "document": {
       "external": true,
       "status": 1,
@@ -191,6 +194,7 @@
     "pu_code_string": "011309004",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "NKPOROBE/OHURU",
     "document": {
       "external": true,
       "status": 1,
@@ -262,6 +266,7 @@
     "pu_code_string": "011309008",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "NKPOROBE/OHURU",
     "document": {
       "external": false,
       "status": 1,
@@ -300,6 +305,7 @@
     "pu_code_string": "011309009",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "NKPOROBE/OHURU",
     "document": {
       "external": false,
       "status": 1,
@@ -338,6 +344,7 @@
     "pu_code_string": "011309010",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "NKPOROBE/OHURU",
     "document": {
       "external": false,
       "status": 1,
@@ -376,6 +383,7 @@
     "pu_code_string": "011309011",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "NKPOROBE/OHURU",
     "document": {
       "external": false,
       "status": 1,
@@ -414,6 +422,7 @@
     "pu_code_string": "011309012",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "NKPOROBE/OHURU",
     "document": {
       "external": false,
       "status": 1,
@@ -452,6 +461,7 @@
     "pu_code_string": "011309005",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "NKPOROBE/OHURU",
     "document": {
       "external": false,
       "status": 1,
@@ -490,6 +500,7 @@
     "pu_code_string": "011309001",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "NKPOROBE/OHURU",
     "document": {
       "external": false,
       "status": 1,
@@ -528,6 +539,7 @@
     "pu_code_string": "011309002",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "NKPOROBE/OHURU",
     "document": {
       "external": false,
       "status": 1,

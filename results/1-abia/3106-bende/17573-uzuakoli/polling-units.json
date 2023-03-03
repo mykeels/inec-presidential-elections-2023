@@ -26,6 +26,7 @@
     "pu_code_string": "010413016",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "UZUAKOLI",
     "document": {
       "external": false,
       "status": 1,
@@ -73,6 +74,7 @@
     "pu_code_string": "010413003",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "UZUAKOLI",
     "document": {
       "external": false,
       "status": 1,
@@ -120,6 +122,7 @@
     "pu_code_string": "010413022",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "UZUAKOLI",
     "document": {
       "external": false,
       "status": 1,
@@ -167,6 +170,7 @@
     "pu_code_string": "010413013",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "UZUAKOLI",
     "document": {
       "external": false,
       "status": 1,
@@ -214,6 +218,7 @@
     "pu_code_string": "010413010",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "UZUAKOLI",
     "document": {
       "external": false,
       "status": 1,
@@ -252,6 +257,7 @@
     "pu_code_string": "010413011",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "UZUAKOLI",
     "document": {
       "external": false,
       "status": 1,
@@ -315,6 +321,7 @@
     "pu_code_string": "010413017",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "UZUAKOLI",
     "document": {
       "external": false,
       "status": 1,
@@ -362,6 +369,7 @@
     "pu_code_string": "010413009",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "UZUAKOLI",
     "document": {
       "external": false,
       "status": 1,
@@ -400,6 +408,7 @@
     "pu_code_string": "010413018",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "UZUAKOLI",
     "document": {
       "external": false,
       "status": 1,
@@ -447,6 +456,7 @@
     "pu_code_string": "010413001",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "UZUAKOLI",
     "document": {
       "external": false,
       "status": 1,
@@ -494,6 +504,7 @@
     "pu_code_string": "010413020",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "UZUAKOLI",
     "document": {
       "external": false,
       "status": 1,
@@ -532,6 +543,7 @@
     "pu_code_string": "010413008",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "UZUAKOLI",
     "document": {
       "external": false,
       "status": 1,
@@ -570,6 +582,7 @@
     "pu_code_string": "010413021",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "UZUAKOLI",
     "document": {
       "external": false,
       "status": 1,
@@ -608,6 +621,7 @@
     "pu_code_string": "010413012",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "UZUAKOLI",
     "document": {
       "external": false,
       "status": 1,
@@ -655,6 +669,7 @@
     "pu_code_string": "010413014",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "UZUAKOLI",
     "document": {
       "external": false,
       "status": 1,
@@ -702,6 +717,7 @@
     "pu_code_string": "010413002",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "UZUAKOLI",
     "document": {
       "external": false,
       "status": 1,
@@ -749,6 +765,7 @@
     "pu_code_string": "010413004",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "UZUAKOLI",
     "document": {
       "external": false,
       "status": 1,
@@ -796,6 +813,7 @@
     "pu_code_string": "010413019",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "UZUAKOLI",
     "document": {
       "external": false,
       "status": 1,
@@ -843,6 +861,7 @@
     "pu_code_string": "010413006",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "UZUAKOLI",
     "document": {
       "external": false,
       "status": 1,
@@ -881,6 +900,7 @@
     "pu_code_string": "010413007",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "UZUAKOLI",
     "document": {
       "external": false,
       "status": 1,
@@ -919,6 +939,7 @@
     "pu_code_string": "010413005",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "UZUAKOLI",
     "document": {
       "external": false,
       "status": 1,
@@ -957,6 +978,7 @@
     "pu_code_string": "010413015",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "UZUAKOLI",
     "old_documents": [],
     "has_old_documents": false
   }

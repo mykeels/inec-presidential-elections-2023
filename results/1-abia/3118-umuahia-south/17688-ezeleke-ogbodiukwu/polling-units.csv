@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ABIA,UMUAHIA  SOUTH,,AMACHARA/AMANKWO - AMACHARA HALL,01/16/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/2436/2436-1677511172.pdf,false
-ABIA,UMUAHIA  SOUTH,,UMUABALI  II - UMUABALI CIVIC HALL,01/16/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/2440/2440-1677510907.pdf,false
-ABIA,UMUAHIA  SOUTH,,AMANKWO HALL,01/16/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/127863/127863-1677509529.pdf,false
-ABIA,UMUAHIA  SOUTH,,UMUEKWULE - UMUEKWULE CIVIC HALL,01/16/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/2438/2438-1677502115.pdf,false
-ABIA,UMUAHIA  SOUTH,,UMUEDE HALL UMUABALI,01/16/01/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/127866/127866-1677500949.pdf,false
-ABIA,UMUAHIA  SOUTH,,TIMBER MARKET AMACHARA,01/16/01/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/127868/127868-1677500477.pdf,false
-ABIA,UMUAHIA  SOUTH,,UMUAJAMEZE/OGBODIUKWU - AJAMEZE HALL,01/16/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/2441/2441-1677500154.pdf,false
-ABIA,UMUAHIA  SOUTH,,AMACHARA - OKPURUDARA SQUARE,01/16/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/2437/2437-1677499227.pdf,false
-ABIA,UMUAHIA  SOUTH,,UKWUACHI OKPURUDARA AMACHARA,01/16/01/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/127864/127864-1677493796.pdf,false
-ABIA,UMUAHIA  SOUTH,,UMUDIKA/UMUORINOKU - OFEIYI SQUARE,01/16/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/2442/2442-1677493400.pdf,false
-ABIA,UMUAHIA  SOUTH,,UMUABALI  I - EZELEKE PRIMARY SCHOOL,01/16/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/2439/2439-1677493412.pdf,false
-ABIA,UMUAHIA  SOUTH,,UMUANYA/ESI - UMUANYA CIVIC HALL,01/16/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/2444/2444-1677491568.pdf,false
-ABIA,UMUAHIA  SOUTH,,MBARAUKWU SQUARE OGBODIUKWU,01/16/01/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/127867/127867-1677491189.pdf,false
-ABIA,UMUAHIA  SOUTH,,UMUBA - UMUBA HALL,01/16/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/2445/2445-1677491189.pdf,false
-ABIA,UMUAHIA  SOUTH,,UMUCHIME - OGBODIUKWU PRIMARY SCHOOL,01/16/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/2443/2443-1677490767.pdf,false
-ABIA,UMUAHIA  SOUTH,,UMUDINKA/UMUORINOKU - OFEIYI SQUARE,01/16/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/2447/2447-1677486055.pdf,false
-ABIA,UMUAHIA  SOUTH,,DIMARIO/OPAROCHA - OGBODIUKWU PRIMARY SCHOOL,01/16/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/011/011-1677369580.pdf,false
-ABIA,UMUAHIA  SOUTH,,UMUAMARAGWU HALL UMUEKWULE,01/16/01/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/015/015-1677367619.pdf,false
+ABIA,UMUAHIA  SOUTH,EZELEKE/OGBODIUKWU,AMACHARA/AMANKWO - AMACHARA HALL,01/16/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/2436/2436-1677511172.pdf,false
+ABIA,UMUAHIA  SOUTH,EZELEKE/OGBODIUKWU,UMUABALI  II - UMUABALI CIVIC HALL,01/16/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/2440/2440-1677510907.pdf,false
+ABIA,UMUAHIA  SOUTH,EZELEKE/OGBODIUKWU,AMANKWO HALL,01/16/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/127863/127863-1677509529.pdf,false
+ABIA,UMUAHIA  SOUTH,EZELEKE/OGBODIUKWU,UMUEKWULE - UMUEKWULE CIVIC HALL,01/16/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/2438/2438-1677502115.pdf,false
+ABIA,UMUAHIA  SOUTH,EZELEKE/OGBODIUKWU,UMUEDE HALL UMUABALI,01/16/01/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/127866/127866-1677500949.pdf,false
+ABIA,UMUAHIA  SOUTH,EZELEKE/OGBODIUKWU,TIMBER MARKET AMACHARA,01/16/01/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/127868/127868-1677500477.pdf,false
+ABIA,UMUAHIA  SOUTH,EZELEKE/OGBODIUKWU,UMUAJAMEZE/OGBODIUKWU - AJAMEZE HALL,01/16/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/2441/2441-1677500154.pdf,false
+ABIA,UMUAHIA  SOUTH,EZELEKE/OGBODIUKWU,AMACHARA - OKPURUDARA SQUARE,01/16/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/2437/2437-1677499227.pdf,false
+ABIA,UMUAHIA  SOUTH,EZELEKE/OGBODIUKWU,UKWUACHI OKPURUDARA AMACHARA,01/16/01/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/127864/127864-1677493796.pdf,false
+ABIA,UMUAHIA  SOUTH,EZELEKE/OGBODIUKWU,UMUDIKA/UMUORINOKU - OFEIYI SQUARE,01/16/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/2442/2442-1677493400.pdf,false
+ABIA,UMUAHIA  SOUTH,EZELEKE/OGBODIUKWU,UMUABALI  I - EZELEKE PRIMARY SCHOOL,01/16/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/2439/2439-1677493412.pdf,false
+ABIA,UMUAHIA  SOUTH,EZELEKE/OGBODIUKWU,UMUANYA/ESI - UMUANYA CIVIC HALL,01/16/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/2444/2444-1677491568.pdf,false
+ABIA,UMUAHIA  SOUTH,EZELEKE/OGBODIUKWU,MBARAUKWU SQUARE OGBODIUKWU,01/16/01/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/127867/127867-1677491189.pdf,false
+ABIA,UMUAHIA  SOUTH,EZELEKE/OGBODIUKWU,UMUBA - UMUBA HALL,01/16/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/2445/2445-1677491189.pdf,false
+ABIA,UMUAHIA  SOUTH,EZELEKE/OGBODIUKWU,UMUCHIME - OGBODIUKWU PRIMARY SCHOOL,01/16/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/2443/2443-1677490767.pdf,false
+ABIA,UMUAHIA  SOUTH,EZELEKE/OGBODIUKWU,UMUDINKA/UMUORINOKU - OFEIYI SQUARE,01/16/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17688/pu/2447/2447-1677486055.pdf,false
+ABIA,UMUAHIA  SOUTH,EZELEKE/OGBODIUKWU,DIMARIO/OPAROCHA - OGBODIUKWU PRIMARY SCHOOL,01/16/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/011/011-1677369580.pdf,false
+ABIA,UMUAHIA  SOUTH,EZELEKE/OGBODIUKWU,UMUAMARAGWU HALL UMUEKWULE,01/16/01/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/01/pu/015/015-1677367619.pdf,false

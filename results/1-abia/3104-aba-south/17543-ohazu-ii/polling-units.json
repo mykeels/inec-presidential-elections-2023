@@ -26,6 +26,7 @@
     "pu_code_string": "010206005",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "OHAZU II",
     "document": {
       "external": true,
       "status": 1,
@@ -81,6 +82,7 @@
     "pu_code_string": "010206025",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "OHAZU II",
     "document": {
       "external": true,
       "status": 1,
@@ -128,6 +130,7 @@
     "pu_code_string": "010206022",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "OHAZU II",
     "document": {
       "external": true,
       "status": 1,
@@ -199,6 +202,7 @@
     "pu_code_string": "010206024",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "OHAZU II",
     "document": {
       "external": true,
       "status": 1,
@@ -246,6 +250,7 @@
     "pu_code_string": "010206010",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "OHAZU II",
     "document": {
       "external": true,
       "status": 1,
@@ -293,6 +298,7 @@
     "pu_code_string": "010206012",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "OHAZU II",
     "document": {
       "external": true,
       "status": 1,
@@ -364,6 +370,7 @@
     "pu_code_string": "010206019",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "OHAZU II",
     "document": {
       "external": true,
       "status": 1,
@@ -435,6 +442,7 @@
     "pu_code_string": "010206021",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "OHAZU II",
     "document": {
       "external": false,
       "status": 1,
@@ -473,6 +481,7 @@
     "pu_code_string": "010206027",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "OHAZU II",
     "document": {
       "external": false,
       "status": 1,
@@ -511,6 +520,7 @@
     "pu_code_string": "010206017",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "OHAZU II",
     "document": {
       "external": false,
       "status": 1,
@@ -549,6 +559,7 @@
     "pu_code_string": "010206011",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "OHAZU II",
     "document": {
       "external": false,
       "status": 1,
@@ -587,6 +598,7 @@
     "pu_code_string": "010206009",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "OHAZU II",
     "document": {
       "external": false,
       "status": 1,
@@ -625,6 +637,7 @@
     "pu_code_string": "010206014",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "OHAZU II",
     "document": {
       "external": false,
       "status": 1,
@@ -663,6 +676,7 @@
     "pu_code_string": "010206016",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "OHAZU II",
     "document": {
       "external": false,
       "status": 1,
@@ -701,6 +715,7 @@
     "pu_code_string": "010206018",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "OHAZU II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -731,6 +746,7 @@
     "pu_code_string": "010206023",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "OHAZU II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -761,6 +777,7 @@
     "pu_code_string": "010206028",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "OHAZU II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -791,6 +808,7 @@
     "pu_code_string": "010206029",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "OHAZU II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -821,6 +839,7 @@
     "pu_code_string": "010206015",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "OHAZU II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -851,6 +870,7 @@
     "pu_code_string": "010206020",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "OHAZU II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -881,6 +901,7 @@
     "pu_code_string": "010206026",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "OHAZU II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -911,6 +932,7 @@
     "pu_code_string": "010206030",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "OHAZU II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -941,6 +963,7 @@
     "pu_code_string": "010206003",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "OHAZU II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -971,6 +994,7 @@
     "pu_code_string": "010206008",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "OHAZU II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1001,6 +1025,7 @@
     "pu_code_string": "010206013",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "OHAZU II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1031,6 +1056,7 @@
     "pu_code_string": "010206004",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "OHAZU II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1061,6 +1087,7 @@
     "pu_code_string": "010206002",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "OHAZU II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1091,6 +1118,7 @@
     "pu_code_string": "010206007",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "OHAZU II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1121,6 +1149,7 @@
     "pu_code_string": "010206001",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "OHAZU II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1151,6 +1180,7 @@
     "pu_code_string": "010206006",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "OHAZU II",
     "old_documents": [],
     "has_old_documents": false
   }

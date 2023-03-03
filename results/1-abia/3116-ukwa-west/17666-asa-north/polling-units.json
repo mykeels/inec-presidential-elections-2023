@@ -26,6 +26,7 @@
     "pu_code_string": "011401002",
     "state_name": "ABIA",
     "lga_name": "UKWA  WEST",
+    "ward_name": "ASA NORTH",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "011401008",
     "state_name": "ABIA",
     "lga_name": "UKWA  WEST",
+    "ward_name": "ASA NORTH",
     "document": {
       "external": false,
       "status": 1,
@@ -111,6 +113,7 @@
     "pu_code_string": "011401003",
     "state_name": "ABIA",
     "lga_name": "UKWA  WEST",
+    "ward_name": "ASA NORTH",
     "document": {
       "external": false,
       "status": 1,
@@ -158,6 +161,7 @@
     "pu_code_string": "011401010",
     "state_name": "ABIA",
     "lga_name": "UKWA  WEST",
+    "ward_name": "ASA NORTH",
     "document": {
       "external": false,
       "status": 1,
@@ -196,6 +200,7 @@
     "pu_code_string": "011401004",
     "state_name": "ABIA",
     "lga_name": "UKWA  WEST",
+    "ward_name": "ASA NORTH",
     "document": {
       "external": false,
       "status": 1,
@@ -234,6 +239,7 @@
     "pu_code_string": "011401001",
     "state_name": "ABIA",
     "lga_name": "UKWA  WEST",
+    "ward_name": "ASA NORTH",
     "document": {
       "external": false,
       "status": 1,
@@ -272,6 +278,7 @@
     "pu_code_string": "011401009",
     "state_name": "ABIA",
     "lga_name": "UKWA  WEST",
+    "ward_name": "ASA NORTH",
     "document": {
       "external": false,
       "status": 1,
@@ -310,6 +317,7 @@
     "pu_code_string": "011401013",
     "state_name": "ABIA",
     "lga_name": "UKWA  WEST",
+    "ward_name": "ASA NORTH",
     "document": {
       "external": false,
       "status": 1,
@@ -348,6 +356,7 @@
     "pu_code_string": "011401011",
     "state_name": "ABIA",
     "lga_name": "UKWA  WEST",
+    "ward_name": "ASA NORTH",
     "document": {
       "external": false,
       "status": 1,
@@ -386,6 +395,7 @@
     "pu_code_string": "011401007",
     "state_name": "ABIA",
     "lga_name": "UKWA  WEST",
+    "ward_name": "ASA NORTH",
     "document": {
       "external": false,
       "status": 1,
@@ -424,6 +434,7 @@
     "pu_code_string": "011401012",
     "state_name": "ABIA",
     "lga_name": "UKWA  WEST",
+    "ward_name": "ASA NORTH",
     "document": {
       "external": false,
       "status": 1,
@@ -462,6 +473,7 @@
     "pu_code_string": "011401006",
     "state_name": "ABIA",
     "lga_name": "UKWA  WEST",
+    "ward_name": "ASA NORTH",
     "document": {
       "external": false,
       "status": 1,
@@ -500,6 +512,7 @@
     "pu_code_string": "011401005",
     "state_name": "ABIA",
     "lga_name": "UKWA  WEST",
+    "ward_name": "ASA NORTH",
     "old_documents": [],
     "has_old_documents": false
   }

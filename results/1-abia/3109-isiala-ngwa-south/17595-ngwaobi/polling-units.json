@@ -26,6 +26,7 @@
     "pu_code_string": "010702011",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA SOUTH",
+    "ward_name": "NGWAOBI",
     "document": {
       "external": true,
       "status": 1,
@@ -81,6 +82,7 @@
     "pu_code_string": "010702009",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA SOUTH",
+    "ward_name": "NGWAOBI",
     "document": {
       "external": true,
       "status": 1,
@@ -136,6 +138,7 @@
     "pu_code_string": "010702003",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA SOUTH",
+    "ward_name": "NGWAOBI",
     "document": {
       "external": true,
       "status": 1,
@@ -207,6 +210,7 @@
     "pu_code_string": "010702008",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA SOUTH",
+    "ward_name": "NGWAOBI",
     "document": {
       "external": true,
       "status": 1,
@@ -262,6 +266,7 @@
     "pu_code_string": "010702005",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA SOUTH",
+    "ward_name": "NGWAOBI",
     "document": {
       "external": true,
       "status": 1,
@@ -317,6 +322,7 @@
     "pu_code_string": "010702004",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA SOUTH",
+    "ward_name": "NGWAOBI",
     "document": {
       "external": true,
       "status": 1,
@@ -372,6 +378,7 @@
     "pu_code_string": "010702012",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA SOUTH",
+    "ward_name": "NGWAOBI",
     "document": {
       "external": true,
       "status": 1,
@@ -427,6 +434,7 @@
     "pu_code_string": "010702002",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA SOUTH",
+    "ward_name": "NGWAOBI",
     "document": {
       "external": true,
       "status": 1,
@@ -498,6 +506,7 @@
     "pu_code_string": "010702007",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA SOUTH",
+    "ward_name": "NGWAOBI",
     "document": {
       "external": false,
       "status": 1,
@@ -536,6 +545,7 @@
     "pu_code_string": "010702013",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA SOUTH",
+    "ward_name": "NGWAOBI",
     "document": {
       "external": false,
       "status": 1,
@@ -574,6 +584,7 @@
     "pu_code_string": "010702001",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA SOUTH",
+    "ward_name": "NGWAOBI",
     "document": {
       "external": false,
       "status": 1,
@@ -612,6 +623,7 @@
     "pu_code_string": "010702006",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA SOUTH",
+    "ward_name": "NGWAOBI",
     "document": {
       "external": false,
       "status": 1,
@@ -650,6 +662,7 @@
     "pu_code_string": "010702010",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA SOUTH",
+    "ward_name": "NGWAOBI",
     "document": {
       "external": false,
       "status": 1,

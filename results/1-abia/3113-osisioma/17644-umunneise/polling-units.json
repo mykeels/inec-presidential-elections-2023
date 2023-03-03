@@ -26,6 +26,7 @@
     "pu_code_string": "011109008",
     "state_name": "ABIA",
     "lga_name": "OSISIOMA",
+    "ward_name": "UMUNNEISE",
     "document": {
       "external": true,
       "status": 1,
@@ -105,6 +106,7 @@
     "pu_code_string": "011109004",
     "state_name": "ABIA",
     "lga_name": "OSISIOMA",
+    "ward_name": "UMUNNEISE",
     "document": {
       "external": true,
       "status": 1,
@@ -184,6 +186,7 @@
     "pu_code_string": "011109001",
     "state_name": "ABIA",
     "lga_name": "OSISIOMA",
+    "ward_name": "UMUNNEISE",
     "document": {
       "external": true,
       "status": 1,
@@ -231,6 +234,7 @@
     "pu_code_string": "011109006",
     "state_name": "ABIA",
     "lga_name": "OSISIOMA",
+    "ward_name": "UMUNNEISE",
     "document": {
       "external": false,
       "status": 1,
@@ -294,6 +298,7 @@
     "pu_code_string": "011109007",
     "state_name": "ABIA",
     "lga_name": "OSISIOMA",
+    "ward_name": "UMUNNEISE",
     "document": {
       "external": true,
       "status": 1,
@@ -349,6 +354,7 @@
     "pu_code_string": "011109005",
     "state_name": "ABIA",
     "lga_name": "OSISIOMA",
+    "ward_name": "UMUNNEISE",
     "document": {
       "external": false,
       "status": 1,
@@ -428,6 +434,7 @@
     "pu_code_string": "011109003",
     "state_name": "ABIA",
     "lga_name": "OSISIOMA",
+    "ward_name": "UMUNNEISE",
     "document": {
       "external": true,
       "status": 1,
@@ -491,6 +498,7 @@
     "pu_code_string": "011109002",
     "state_name": "ABIA",
     "lga_name": "OSISIOMA",
+    "ward_name": "UMUNNEISE",
     "document": {
       "external": true,
       "status": 1,

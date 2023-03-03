@@ -26,6 +26,7 @@
     "pu_code_string": "011201006",
     "state_name": "ABIA",
     "lga_name": "UGWUNAGBO",
+    "ward_name": "WARD ONE",
     "document": {
       "external": true,
       "status": 1,
@@ -81,6 +82,7 @@
     "pu_code_string": "011201002",
     "state_name": "ABIA",
     "lga_name": "UGWUNAGBO",
+    "ward_name": "WARD ONE",
     "document": {
       "external": true,
       "status": 1,
@@ -136,6 +138,7 @@
     "pu_code_string": "011201004",
     "state_name": "ABIA",
     "lga_name": "UGWUNAGBO",
+    "ward_name": "WARD ONE",
     "document": {
       "external": true,
       "status": 1,
@@ -191,6 +194,7 @@
     "pu_code_string": "011201001",
     "state_name": "ABIA",
     "lga_name": "UGWUNAGBO",
+    "ward_name": "WARD ONE",
     "document": {
       "external": true,
       "status": 1,
@@ -262,6 +266,7 @@
     "pu_code_string": "011201005",
     "state_name": "ABIA",
     "lga_name": "UGWUNAGBO",
+    "ward_name": "WARD ONE",
     "document": {
       "external": true,
       "status": 1,
@@ -317,6 +322,7 @@
     "pu_code_string": "011201003",
     "state_name": "ABIA",
     "lga_name": "UGWUNAGBO",
+    "ward_name": "WARD ONE",
     "document": {
       "external": true,
       "status": 1,
@@ -355,6 +361,7 @@
     "pu_code_string": "011201007",
     "state_name": "ABIA",
     "lga_name": "UGWUNAGBO",
+    "ward_name": "WARD ONE",
     "document": {
       "external": false,
       "status": 1,

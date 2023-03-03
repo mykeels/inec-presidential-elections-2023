@@ -26,6 +26,7 @@
     "pu_code_string": "011310004",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "IKWUORIE",
     "document": {
       "external": true,
       "status": 1,
@@ -81,6 +82,7 @@
     "pu_code_string": "011310002",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "IKWUORIE",
     "document": {
       "external": true,
       "status": 1,
@@ -136,6 +138,7 @@
     "pu_code_string": "011310009",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "IKWUORIE",
     "document": {
       "external": true,
       "status": 1,
@@ -191,6 +194,7 @@
     "pu_code_string": "011310007",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "IKWUORIE",
     "document": {
       "external": true,
       "status": 1,
@@ -246,6 +250,7 @@
     "pu_code_string": "011310005",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "IKWUORIE",
     "document": {
       "external": true,
       "status": 1,
@@ -301,6 +306,7 @@
     "pu_code_string": "011310001",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "IKWUORIE",
     "document": {
       "external": true,
       "status": 1,
@@ -372,6 +378,7 @@
     "pu_code_string": "011310003",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "IKWUORIE",
     "document": {
       "external": true,
       "status": 1,
@@ -443,6 +450,7 @@
     "pu_code_string": "011310008",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "IKWUORIE",
     "document": {
       "external": true,
       "status": 1,
@@ -514,6 +522,7 @@
     "pu_code_string": "011310006",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "IKWUORIE",
     "document": {
       "external": false,
       "status": 1,

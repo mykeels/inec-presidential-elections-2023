@@ -26,6 +26,7 @@
     "pu_code_string": "010311002",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "AROCHUKWU III",
     "document": {
       "external": true,
       "status": 1,
@@ -73,6 +74,7 @@
     "pu_code_string": "010311004",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "AROCHUKWU III",
     "document": {
       "external": true,
       "status": 1,
@@ -120,6 +122,7 @@
     "pu_code_string": "010311010",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "AROCHUKWU III",
     "document": {
       "external": true,
       "status": 1,
@@ -167,6 +170,7 @@
     "pu_code_string": "010311006",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "AROCHUKWU III",
     "document": {
       "external": true,
       "status": 1,
@@ -214,6 +218,7 @@
     "pu_code_string": "010311015",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "AROCHUKWU III",
     "document": {
       "external": true,
       "status": 1,
@@ -261,6 +266,7 @@
     "pu_code_string": "010311001",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "AROCHUKWU III",
     "document": {
       "external": true,
       "status": 1,
@@ -308,6 +314,7 @@
     "pu_code_string": "010311008",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "AROCHUKWU III",
     "document": {
       "external": true,
       "status": 1,
@@ -355,6 +362,7 @@
     "pu_code_string": "010311011",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "AROCHUKWU III",
     "document": {
       "external": true,
       "status": 1,
@@ -402,6 +410,7 @@
     "pu_code_string": "010311003",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "AROCHUKWU III",
     "document": {
       "external": true,
       "status": 1,
@@ -473,6 +482,7 @@
     "pu_code_string": "010311007",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "AROCHUKWU III",
     "document": {
       "external": true,
       "status": 1,
@@ -544,6 +554,7 @@
     "pu_code_string": "010311009",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "AROCHUKWU III",
     "document": {
       "external": true,
       "status": 1,
@@ -615,6 +626,7 @@
     "pu_code_string": "010311005",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "AROCHUKWU III",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -645,6 +657,7 @@
     "pu_code_string": "010311012",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "AROCHUKWU III",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -675,6 +688,7 @@
     "pu_code_string": "010311014",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "AROCHUKWU III",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -705,6 +719,7 @@
     "pu_code_string": "010311013",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "AROCHUKWU III",
     "old_documents": [],
     "has_old_documents": false
   }

@@ -26,6 +26,7 @@
     "pu_code_string": "010604019",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA NORTH",
+    "ward_name": "NGWA UKWU I",
     "document": {
       "external": true,
       "status": 1,
@@ -73,6 +74,7 @@
     "pu_code_string": "010604004",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA NORTH",
+    "ward_name": "NGWA UKWU I",
     "document": {
       "external": true,
       "status": 1,
@@ -120,6 +122,7 @@
     "pu_code_string": "010604022",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA NORTH",
+    "ward_name": "NGWA UKWU I",
     "document": {
       "external": true,
       "status": 1,
@@ -167,6 +170,7 @@
     "pu_code_string": "010604024",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA NORTH",
+    "ward_name": "NGWA UKWU I",
     "document": {
       "external": true,
       "status": 1,
@@ -238,6 +242,7 @@
     "pu_code_string": "010604013",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA NORTH",
+    "ward_name": "NGWA UKWU I",
     "document": {
       "external": false,
       "status": 1,
@@ -276,6 +281,7 @@
     "pu_code_string": "010604010",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA NORTH",
+    "ward_name": "NGWA UKWU I",
     "document": {
       "external": false,
       "status": 1,
@@ -314,6 +320,7 @@
     "pu_code_string": "010604005",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA NORTH",
+    "ward_name": "NGWA UKWU I",
     "document": {
       "external": false,
       "status": 1,
@@ -352,6 +359,7 @@
     "pu_code_string": "010604011",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA NORTH",
+    "ward_name": "NGWA UKWU I",
     "document": {
       "external": false,
       "status": 1,
@@ -390,6 +398,7 @@
     "pu_code_string": "010604018",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA NORTH",
+    "ward_name": "NGWA UKWU I",
     "document": {
       "external": false,
       "status": 1,
@@ -428,6 +437,7 @@
     "pu_code_string": "010604001",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA NORTH",
+    "ward_name": "NGWA UKWU I",
     "document": {
       "external": false,
       "status": 1,
@@ -466,6 +476,7 @@
     "pu_code_string": "010604023",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA NORTH",
+    "ward_name": "NGWA UKWU I",
     "document": {
       "external": false,
       "status": 1,
@@ -504,6 +515,7 @@
     "pu_code_string": "010604025",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA NORTH",
+    "ward_name": "NGWA UKWU I",
     "document": {
       "external": false,
       "status": 1,
@@ -542,6 +554,7 @@
     "pu_code_string": "010604021",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA NORTH",
+    "ward_name": "NGWA UKWU I",
     "document": {
       "external": false,
       "status": 1,
@@ -580,6 +593,7 @@
     "pu_code_string": "010604006",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA NORTH",
+    "ward_name": "NGWA UKWU I",
     "document": {
       "external": false,
       "status": 1,
@@ -618,6 +632,7 @@
     "pu_code_string": "010604026",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA NORTH",
+    "ward_name": "NGWA UKWU I",
     "document": {
       "external": false,
       "status": 1,
@@ -656,6 +671,7 @@
     "pu_code_string": "010604016",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA NORTH",
+    "ward_name": "NGWA UKWU I",
     "document": {
       "external": false,
       "status": 1,
@@ -694,6 +710,7 @@
     "pu_code_string": "010604017",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA NORTH",
+    "ward_name": "NGWA UKWU I",
     "document": {
       "external": false,
       "status": 1,
@@ -732,6 +749,7 @@
     "pu_code_string": "010604014",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA NORTH",
+    "ward_name": "NGWA UKWU I",
     "document": {
       "external": false,
       "status": 1,
@@ -770,6 +788,7 @@
     "pu_code_string": "010604008",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA NORTH",
+    "ward_name": "NGWA UKWU I",
     "document": {
       "external": false,
       "status": 1,
@@ -808,6 +827,7 @@
     "pu_code_string": "010604012",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA NORTH",
+    "ward_name": "NGWA UKWU I",
     "document": {
       "external": false,
       "status": 1,
@@ -846,6 +866,7 @@
     "pu_code_string": "010604009",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA NORTH",
+    "ward_name": "NGWA UKWU I",
     "document": {
       "external": false,
       "status": 1,
@@ -884,6 +905,7 @@
     "pu_code_string": "010604003",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA NORTH",
+    "ward_name": "NGWA UKWU I",
     "document": {
       "external": false,
       "status": 1,
@@ -922,6 +944,7 @@
     "pu_code_string": "010604007",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA NORTH",
+    "ward_name": "NGWA UKWU I",
     "document": {
       "external": false,
       "status": 1,
@@ -960,6 +983,7 @@
     "pu_code_string": "010604020",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA NORTH",
+    "ward_name": "NGWA UKWU I",
     "document": {
       "external": false,
       "status": 1,
@@ -998,6 +1022,7 @@
     "pu_code_string": "010604002",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA NORTH",
+    "ward_name": "NGWA UKWU I",
     "document": {
       "external": false,
       "status": 1,
@@ -1036,6 +1061,7 @@
     "pu_code_string": "010604015",
     "state_name": "ABIA",
     "lga_name": "ISIALA NGWA NORTH",
+    "ward_name": "NGWA UKWU I",
     "document": {
       "external": false,
       "status": 1,

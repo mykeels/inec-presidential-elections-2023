@@ -26,6 +26,7 @@
     "pu_code_string": "010202034",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": true,
       "status": 1,
@@ -73,6 +74,7 @@
     "pu_code_string": "010202035",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": true,
       "status": 1,
@@ -128,6 +130,7 @@
     "pu_code_string": "010202032",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": true,
       "status": 1,
@@ -183,6 +186,7 @@
     "pu_code_string": "010202031",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": true,
       "status": 1,
@@ -238,6 +242,7 @@
     "pu_code_string": "010202030",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": true,
       "status": 1,
@@ -285,6 +290,7 @@
     "pu_code_string": "010202028",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": true,
       "status": 1,
@@ -332,6 +338,7 @@
     "pu_code_string": "010202027",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": true,
       "status": 1,
@@ -387,6 +394,7 @@
     "pu_code_string": "010202026",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": true,
       "status": 1,
@@ -442,6 +450,7 @@
     "pu_code_string": "010202025",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": true,
       "status": 1,
@@ -489,6 +498,7 @@
     "pu_code_string": "010202022",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": true,
       "status": 1,
@@ -544,6 +554,7 @@
     "pu_code_string": "010202021",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": true,
       "status": 1,
@@ -599,6 +610,7 @@
     "pu_code_string": "010202024",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": true,
       "status": 1,
@@ -646,6 +658,7 @@
     "pu_code_string": "010202037",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": true,
       "status": 1,
@@ -701,6 +714,7 @@
     "pu_code_string": "010202016",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": false,
       "status": 1,
@@ -739,6 +753,7 @@
     "pu_code_string": "010202036",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": false,
       "status": 1,
@@ -777,6 +792,7 @@
     "pu_code_string": "010202001",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": false,
       "status": 1,
@@ -815,6 +831,7 @@
     "pu_code_string": "010202002",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": false,
       "status": 1,
@@ -853,6 +870,7 @@
     "pu_code_string": "010202014",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": false,
       "status": 1,
@@ -891,6 +909,7 @@
     "pu_code_string": "010202029",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": false,
       "status": 1,
@@ -929,6 +948,7 @@
     "pu_code_string": "010202023",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": false,
       "status": 1,
@@ -967,6 +987,7 @@
     "pu_code_string": "010202033",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1005,6 +1026,7 @@
     "pu_code_string": "010202019",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1043,6 +1065,7 @@
     "pu_code_string": "010202018",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1081,6 +1104,7 @@
     "pu_code_string": "010202011",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1119,6 +1143,7 @@
     "pu_code_string": "010202010",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1157,6 +1182,7 @@
     "pu_code_string": "010202012",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1195,6 +1221,7 @@
     "pu_code_string": "010202015",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1233,6 +1260,7 @@
     "pu_code_string": "010202004",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1271,6 +1299,7 @@
     "pu_code_string": "010202006",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1309,6 +1338,7 @@
     "pu_code_string": "010202017",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1347,6 +1377,7 @@
     "pu_code_string": "010202013",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1385,6 +1416,7 @@
     "pu_code_string": "010202007",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1423,6 +1455,7 @@
     "pu_code_string": "010202008",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1461,6 +1494,7 @@
     "pu_code_string": "010202005",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "document": {
       "external": false,
       "status": 1,
@@ -1499,6 +1533,7 @@
     "pu_code_string": "010202020",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1529,6 +1564,7 @@
     "pu_code_string": "010202009",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1559,6 +1595,7 @@
     "pu_code_string": "010202003",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ASA",
     "old_documents": [],
     "has_old_documents": false
   }

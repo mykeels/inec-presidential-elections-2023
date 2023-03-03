@@ -26,6 +26,7 @@
     "pu_code_string": "011507010",
     "state_name": "ABIA",
     "lga_name": "UMUAHIA NORTH",
+    "ward_name": "UMUAHIA URBAN  III",
     "document": {
       "external": true,
       "status": 1,
@@ -113,6 +114,7 @@
     "pu_code_string": "011507017",
     "state_name": "ABIA",
     "lga_name": "UMUAHIA NORTH",
+    "ward_name": "UMUAHIA URBAN  III",
     "document": {
       "external": true,
       "status": 1,
@@ -168,6 +170,7 @@
     "pu_code_string": "011507001",
     "state_name": "ABIA",
     "lga_name": "UMUAHIA NORTH",
+    "ward_name": "UMUAHIA URBAN  III",
     "document": {
       "external": true,
       "status": 1,
@@ -223,6 +226,7 @@
     "pu_code_string": "011507012",
     "state_name": "ABIA",
     "lga_name": "UMUAHIA NORTH",
+    "ward_name": "UMUAHIA URBAN  III",
     "document": {
       "external": true,
       "status": 1,
@@ -278,6 +282,7 @@
     "pu_code_string": "011507014",
     "state_name": "ABIA",
     "lga_name": "UMUAHIA NORTH",
+    "ward_name": "UMUAHIA URBAN  III",
     "document": {
       "external": true,
       "status": 1,
@@ -333,6 +338,7 @@
     "pu_code_string": "011507002",
     "state_name": "ABIA",
     "lga_name": "UMUAHIA NORTH",
+    "ward_name": "UMUAHIA URBAN  III",
     "document": {
       "external": true,
       "status": 1,
@@ -388,6 +394,7 @@
     "pu_code_string": "011507007",
     "state_name": "ABIA",
     "lga_name": "UMUAHIA NORTH",
+    "ward_name": "UMUAHIA URBAN  III",
     "document": {
       "external": true,
       "status": 1,
@@ -443,6 +450,7 @@
     "pu_code_string": "011507011",
     "state_name": "ABIA",
     "lga_name": "UMUAHIA NORTH",
+    "ward_name": "UMUAHIA URBAN  III",
     "document": {
       "external": true,
       "status": 1,
@@ -498,6 +506,7 @@
     "pu_code_string": "011507015",
     "state_name": "ABIA",
     "lga_name": "UMUAHIA NORTH",
+    "ward_name": "UMUAHIA URBAN  III",
     "document": {
       "external": true,
       "status": 1,
@@ -545,6 +554,7 @@
     "pu_code_string": "011507003",
     "state_name": "ABIA",
     "lga_name": "UMUAHIA NORTH",
+    "ward_name": "UMUAHIA URBAN  III",
     "document": {
       "external": true,
       "status": 1,
@@ -600,6 +610,7 @@
     "pu_code_string": "011507013",
     "state_name": "ABIA",
     "lga_name": "UMUAHIA NORTH",
+    "ward_name": "UMUAHIA URBAN  III",
     "document": {
       "external": true,
       "status": 1,
@@ -647,6 +658,7 @@
     "pu_code_string": "011507008",
     "state_name": "ABIA",
     "lga_name": "UMUAHIA NORTH",
+    "ward_name": "UMUAHIA URBAN  III",
     "document": {
       "external": true,
       "status": 1,
@@ -718,6 +730,7 @@
     "pu_code_string": "011507016",
     "state_name": "ABIA",
     "lga_name": "UMUAHIA NORTH",
+    "ward_name": "UMUAHIA URBAN  III",
     "document": {
       "external": true,
       "status": 1,
@@ -789,6 +802,7 @@
     "pu_code_string": "011507009",
     "state_name": "ABIA",
     "lga_name": "UMUAHIA NORTH",
+    "ward_name": "UMUAHIA URBAN  III",
     "document": {
       "external": true,
       "status": 1,
@@ -860,6 +874,7 @@
     "pu_code_string": "011507004",
     "state_name": "ABIA",
     "lga_name": "UMUAHIA NORTH",
+    "ward_name": "UMUAHIA URBAN  III",
     "document": {
       "external": false,
       "status": 1,
@@ -898,6 +913,7 @@
     "pu_code_string": "011507006",
     "state_name": "ABIA",
     "lga_name": "UMUAHIA NORTH",
+    "ward_name": "UMUAHIA URBAN  III",
     "document": {
       "external": false,
       "status": 1,
@@ -936,6 +952,7 @@
     "pu_code_string": "011507024",
     "state_name": "ABIA",
     "lga_name": "UMUAHIA NORTH",
+    "ward_name": "UMUAHIA URBAN  III",
     "document": {
       "external": false,
       "status": 1,
@@ -974,6 +991,7 @@
     "pu_code_string": "011507026",
     "state_name": "ABIA",
     "lga_name": "UMUAHIA NORTH",
+    "ward_name": "UMUAHIA URBAN  III",
     "document": {
       "external": false,
       "status": 1,
@@ -1012,6 +1030,7 @@
     "pu_code_string": "011507020",
     "state_name": "ABIA",
     "lga_name": "UMUAHIA NORTH",
+    "ward_name": "UMUAHIA URBAN  III",
     "document": {
       "external": false,
       "status": 1,
@@ -1050,6 +1069,7 @@
     "pu_code_string": "011507021",
     "state_name": "ABIA",
     "lga_name": "UMUAHIA NORTH",
+    "ward_name": "UMUAHIA URBAN  III",
     "document": {
       "external": false,
       "status": 1,
@@ -1088,6 +1108,7 @@
     "pu_code_string": "011507005",
     "state_name": "ABIA",
     "lga_name": "UMUAHIA NORTH",
+    "ward_name": "UMUAHIA URBAN  III",
     "document": {
       "external": false,
       "status": 1,
@@ -1126,6 +1147,7 @@
     "pu_code_string": "011507019",
     "state_name": "ABIA",
     "lga_name": "UMUAHIA NORTH",
+    "ward_name": "UMUAHIA URBAN  III",
     "document": {
       "external": false,
       "status": 1,
@@ -1164,6 +1186,7 @@
     "pu_code_string": "011507023",
     "state_name": "ABIA",
     "lga_name": "UMUAHIA NORTH",
+    "ward_name": "UMUAHIA URBAN  III",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1194,6 +1217,7 @@
     "pu_code_string": "011507022",
     "state_name": "ABIA",
     "lga_name": "UMUAHIA NORTH",
+    "ward_name": "UMUAHIA URBAN  III",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1224,6 +1248,7 @@
     "pu_code_string": "011507027",
     "state_name": "ABIA",
     "lga_name": "UMUAHIA NORTH",
+    "ward_name": "UMUAHIA URBAN  III",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1254,6 +1279,7 @@
     "pu_code_string": "011507025",
     "state_name": "ABIA",
     "lga_name": "UMUAHIA NORTH",
+    "ward_name": "UMUAHIA URBAN  III",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1284,6 +1310,7 @@
     "pu_code_string": "011507018",
     "state_name": "ABIA",
     "lga_name": "UMUAHIA NORTH",
+    "ward_name": "UMUAHIA URBAN  III",
     "old_documents": [],
     "has_old_documents": false
   }

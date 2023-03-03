@@ -1,18 +1,18 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ABIA,BENDE,,AMAOKAI PRIMARY SCHOOL,01/04/03/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17563/pu/127012/127012-1677591099.pdf,false
-ABIA,BENDE,,UMUANYAM AMAEZE UGWUEKE,01/04/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17563/pu/127008/127008-1677590281.pdf,true
-ABIA,BENDE,,EZEUKWU-.AMANGWU VILLAGE HALL,01/04/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17563/pu/811/811-1677589477.pdf,true
-ABIA,BENDE,,EZEUKWU-CENTRAL SCH.EZEUKWU,01/04/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17563/pu/808/808-1677588506.pdf,true
-ABIA,BENDE,,AMANTA VILLAGE HALL,01/04/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17563/pu/127010/127010-1677509207.pdf,false
-ABIA,BENDE,,UMUAJA HALL NDIELU,01/04/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17563/pu/127009/127009-1677508760.pdf,false
-ABIA,BENDE,,AMAOKAI-AMAOKAI TOWN HALL,01/04/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17563/pu/807/807-1677503154.pdf,false
-ABIA,BENDE,,NDI AGBO-NDI AGBO VILLAGE HALL,01/04/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17563/pu/806/806-1677501740.pdf,false
-ABIA,BENDE,,ISIEKE-ISIEKE MKT SQUARE,01/04/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17563/pu/805/805-1677499604.pdf,false
-ABIA,BENDE,,AMABA/UGWUEKE-AMABA COMM.SCHOOL,01/04/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17563/pu/804/804-1677499052.pdf,false
-ABIA,BENDE,,AMABA/UGWUEKE-AMABA/UGWUEEKE CENT.SCH,01/04/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17563/pu/803/803-1677497782.pdf,false
-ABIA,BENDE,,NDI ELU-NDI ELU PRIM.SCH II,01/04/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17563/pu/802/802-1677497023.pdf,false
-ABIA,BENDE,,NDI ELU-NDI ELU PRIM.SCH I,01/04/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17563/pu/801/801-1677496446.pdf,false
-ABIA,BENDE,,EZEUKWU-.EZENTA TOWN HALL,01/04/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/03/pu/010/010-1677374875.pdf,false
-ABIA,BENDE,,AMANKPA HALL,01/04/03/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/03/pu/016/016-1677374765.pdf,false
-ABIA,BENDE,,AMAEZE-AMAEZE PRIM.SCH,01/04/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/03/pu/001/001-1677373485.pdf,false
-ABIA,BENDE,,EZEUKWU-.AMANGWU VILLAGE HALL EZEUKWU,01/04/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/03/pu/011/011-1677371635.pdf,false
+ABIA,BENDE,UGWUEKE/EZEUKWU,AMAOKAI PRIMARY SCHOOL,01/04/03/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17563/pu/127012/127012-1677591099.pdf,false
+ABIA,BENDE,UGWUEKE/EZEUKWU,UMUANYAM AMAEZE UGWUEKE,01/04/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17563/pu/127008/127008-1677590281.pdf,true
+ABIA,BENDE,UGWUEKE/EZEUKWU,EZEUKWU-.AMANGWU VILLAGE HALL,01/04/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17563/pu/811/811-1677589477.pdf,true
+ABIA,BENDE,UGWUEKE/EZEUKWU,EZEUKWU-CENTRAL SCH.EZEUKWU,01/04/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17563/pu/808/808-1677588506.pdf,true
+ABIA,BENDE,UGWUEKE/EZEUKWU,AMANTA VILLAGE HALL,01/04/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17563/pu/127010/127010-1677509207.pdf,false
+ABIA,BENDE,UGWUEKE/EZEUKWU,UMUAJA HALL NDIELU,01/04/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17563/pu/127009/127009-1677508760.pdf,false
+ABIA,BENDE,UGWUEKE/EZEUKWU,AMAOKAI-AMAOKAI TOWN HALL,01/04/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17563/pu/807/807-1677503154.pdf,false
+ABIA,BENDE,UGWUEKE/EZEUKWU,NDI AGBO-NDI AGBO VILLAGE HALL,01/04/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17563/pu/806/806-1677501740.pdf,false
+ABIA,BENDE,UGWUEKE/EZEUKWU,ISIEKE-ISIEKE MKT SQUARE,01/04/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17563/pu/805/805-1677499604.pdf,false
+ABIA,BENDE,UGWUEKE/EZEUKWU,AMABA/UGWUEKE-AMABA COMM.SCHOOL,01/04/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17563/pu/804/804-1677499052.pdf,false
+ABIA,BENDE,UGWUEKE/EZEUKWU,AMABA/UGWUEKE-AMABA/UGWUEEKE CENT.SCH,01/04/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17563/pu/803/803-1677497782.pdf,false
+ABIA,BENDE,UGWUEKE/EZEUKWU,NDI ELU-NDI ELU PRIM.SCH II,01/04/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17563/pu/802/802-1677497023.pdf,false
+ABIA,BENDE,UGWUEKE/EZEUKWU,NDI ELU-NDI ELU PRIM.SCH I,01/04/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17563/pu/801/801-1677496446.pdf,false
+ABIA,BENDE,UGWUEKE/EZEUKWU,EZEUKWU-.EZENTA TOWN HALL,01/04/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/03/pu/010/010-1677374875.pdf,false
+ABIA,BENDE,UGWUEKE/EZEUKWU,AMANKPA HALL,01/04/03/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/03/pu/016/016-1677374765.pdf,false
+ABIA,BENDE,UGWUEKE/EZEUKWU,AMAEZE-AMAEZE PRIM.SCH,01/04/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/03/pu/001/001-1677373485.pdf,false
+ABIA,BENDE,UGWUEKE/EZEUKWU,EZEUKWU-.AMANGWU VILLAGE HALL EZEUKWU,01/04/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/03/pu/011/011-1677371635.pdf,false

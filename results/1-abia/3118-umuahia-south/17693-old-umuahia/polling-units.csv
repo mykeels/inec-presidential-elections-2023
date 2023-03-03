@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ABIA,UMUAHIA  SOUTH,,UMUELEDI/UMUECHOKWU - OLD UMUAHIA PRIMARY SCHOOL,01/16/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17693/pu/2509/2509-1677588724.pdf,true
-ABIA,UMUAHIA  SOUTH,,COLLEGE PREMISES,01/16/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17693/pu/2513/2513-1677497502.pdf,false
-ABIA,UMUAHIA  SOUTH,,UMUOBUTU - OLD UMUAHIA PRIMARY SCHOOL,01/16/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17693/pu/2508/2508-1677496714.pdf,false
-ABIA,UMUAHIA  SOUTH,,OKWU/UMUOVO - AMUZUNTA VILLAGE SQUARE,01/16/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17693/pu/2510/2510-1677494856.pdf,false
-ABIA,UMUAHIA  SOUTH,,AMANWAOGU CIVIC HALL,01/16/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17693/pu/127883/127883-1677494540.pdf,false
-ABIA,UMUAHIA  SOUTH,,UMUOBIA  II - UMUOBIA TOWN HALL,01/16/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17693/pu/2512/2512-1677492616.pdf,false
-ABIA,UMUAHIA  SOUTH,,UMUOBIA  I - UMUOBIA TOWN HALL,01/16/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17693/pu/2511/2511-1677490709.pdf,false
-ABIA,UMUAHIA  SOUTH,,UMUOKORIE/UMUOBIA VILL. HALL,01/16/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17693/pu/127887/127887-1677490058.pdf,false
-ABIA,UMUAHIA  SOUTH,,UMUOVO CIVIC HALL OLD UMUAHIA,01/16/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17693/pu/127886/127886-1677489878.pdf,false
-ABIA,UMUAHIA  SOUTH,,UMUEZEALA - ISI COURT,01/16/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17693/pu/2507/2507-1677489477.pdf,false
-ABIA,UMUAHIA  SOUTH,,RAILWAY HOUSE OLD UMUAHIA,01/16/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17693/pu/127882/127882-1677487716.pdf,false
-ABIA,UMUAHIA  SOUTH,,UMUECHOKWU VILL SQU,01/16/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17693/pu/127885/127885-1677484435.pdf,false
-ABIA,UMUAHIA  SOUTH,,UMUOBUTU CIVIC CENTRE OLD UMUAHIA,01/16/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17693/pu/127884/127884-1677484191.pdf,false
+ABIA,UMUAHIA  SOUTH,OLD UMUAHIA,UMUELEDI/UMUECHOKWU - OLD UMUAHIA PRIMARY SCHOOL,01/16/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17693/pu/2509/2509-1677588724.pdf,true
+ABIA,UMUAHIA  SOUTH,OLD UMUAHIA,COLLEGE PREMISES,01/16/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17693/pu/2513/2513-1677497502.pdf,false
+ABIA,UMUAHIA  SOUTH,OLD UMUAHIA,UMUOBUTU - OLD UMUAHIA PRIMARY SCHOOL,01/16/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17693/pu/2508/2508-1677496714.pdf,false
+ABIA,UMUAHIA  SOUTH,OLD UMUAHIA,OKWU/UMUOVO - AMUZUNTA VILLAGE SQUARE,01/16/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17693/pu/2510/2510-1677494856.pdf,false
+ABIA,UMUAHIA  SOUTH,OLD UMUAHIA,AMANWAOGU CIVIC HALL,01/16/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17693/pu/127883/127883-1677494540.pdf,false
+ABIA,UMUAHIA  SOUTH,OLD UMUAHIA,UMUOBIA  II - UMUOBIA TOWN HALL,01/16/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17693/pu/2512/2512-1677492616.pdf,false
+ABIA,UMUAHIA  SOUTH,OLD UMUAHIA,UMUOBIA  I - UMUOBIA TOWN HALL,01/16/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17693/pu/2511/2511-1677490709.pdf,false
+ABIA,UMUAHIA  SOUTH,OLD UMUAHIA,UMUOKORIE/UMUOBIA VILL. HALL,01/16/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17693/pu/127887/127887-1677490058.pdf,false
+ABIA,UMUAHIA  SOUTH,OLD UMUAHIA,UMUOVO CIVIC HALL OLD UMUAHIA,01/16/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17693/pu/127886/127886-1677489878.pdf,false
+ABIA,UMUAHIA  SOUTH,OLD UMUAHIA,UMUEZEALA - ISI COURT,01/16/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17693/pu/2507/2507-1677489477.pdf,false
+ABIA,UMUAHIA  SOUTH,OLD UMUAHIA,RAILWAY HOUSE OLD UMUAHIA,01/16/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17693/pu/127882/127882-1677487716.pdf,false
+ABIA,UMUAHIA  SOUTH,OLD UMUAHIA,UMUECHOKWU VILL SQU,01/16/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17693/pu/127885/127885-1677484435.pdf,false
+ABIA,UMUAHIA  SOUTH,OLD UMUAHIA,UMUOBUTU CIVIC CENTRE OLD UMUAHIA,01/16/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3118/ward/17693/pu/127884/127884-1677484191.pdf,false

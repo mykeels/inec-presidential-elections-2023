@@ -26,6 +26,7 @@
     "pu_code_string": "011304005",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "UMUIGUBE ACHARA",
     "document": {
       "external": true,
       "status": 1,
@@ -145,6 +146,7 @@
     "pu_code_string": "011304003",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "UMUIGUBE ACHARA",
     "document": {
       "external": true,
       "status": 1,
@@ -232,6 +234,7 @@
     "pu_code_string": "011304001",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "UMUIGUBE ACHARA",
     "document": {
       "external": true,
       "status": 1,
@@ -319,6 +322,7 @@
     "pu_code_string": "011304002",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "UMUIGUBE ACHARA",
     "document": {
       "external": true,
       "status": 1,
@@ -406,6 +410,7 @@
     "pu_code_string": "011304006",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "UMUIGUBE ACHARA",
     "document": {
       "external": false,
       "status": 1,
@@ -444,6 +449,7 @@
     "pu_code_string": "011304004",
     "state_name": "ABIA",
     "lga_name": "UKWA EAST",
+    "ward_name": "UMUIGUBE ACHARA",
     "document": {
       "external": false,
       "status": 1,

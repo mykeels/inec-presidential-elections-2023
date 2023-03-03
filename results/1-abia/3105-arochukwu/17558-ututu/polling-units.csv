@@ -1,26 +1,26 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ABIA,AROCHUKWU,,AMAKOFIA VILLAGE SQUARE,01/03/09/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/126996/126996-1677471244.pdf,false
-ABIA,AROCHUKWU,,ABUMA II/ABUMA HALL,01/03/09/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/747/747-1677470944.pdf,false
-ABIA,AROCHUKWU,,OBIAGWULU III/NDEWENI VILLAGE SQUARE,01/03/09/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/746/746-1677470679.pdf,false
-ABIA,AROCHUKWU,,EZIOHU SETTLEMENT/EZIOHUN SETTLEMENT SQUARE,01/03/09/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/745/745-1677470259.pdf,false
-ABIA,AROCHUKWU,,OBIENE II/OBIENE VILLAGE SQUARE,01/03/09/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/743/743-1677469748.pdf,false
-ABIA,AROCHUKWU,,OBIJOMA I & III/OBIJOMA VILLAGE SQUARE,01/03/09/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/740/740-1677468168.pdf,false
-ABIA,AROCHUKWU,,AMAKOFIA I & II/AMAKOFIA POSTAL AGENCY,01/03/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/739/739-1677467741.pdf,false
-ABIA,AROCHUKWU,,ABUMA I/UTUTU COMM.PRIM.SCH,01/03/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/738/738-1677467359.pdf,false
-ABIA,AROCHUKWU,,UKWUAKWU II/MGBALA OGO UKWUAKWU,01/03/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/737/737-1677467001.pdf,false
-ABIA,AROCHUKWU,,UKWUAKWU I/UKWUAKWU HALL,01/03/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/736/736-1677459533.pdf,false
-ABIA,AROCHUKWU,,OBIAGWULU I/ONU OGO OBIAGWULU I,01/03/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/734/734-1677457674.pdf,false
-ABIA,AROCHUKWU,,"Amaodu II - Onu 
+ABIA,AROCHUKWU,UTUTU,AMAKOFIA VILLAGE SQUARE,01/03/09/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/126996/126996-1677471244.pdf,false
+ABIA,AROCHUKWU,UTUTU,ABUMA II/ABUMA HALL,01/03/09/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/747/747-1677470944.pdf,false
+ABIA,AROCHUKWU,UTUTU,OBIAGWULU III/NDEWENI VILLAGE SQUARE,01/03/09/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/746/746-1677470679.pdf,false
+ABIA,AROCHUKWU,UTUTU,EZIOHU SETTLEMENT/EZIOHUN SETTLEMENT SQUARE,01/03/09/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/745/745-1677470259.pdf,false
+ABIA,AROCHUKWU,UTUTU,OBIENE II/OBIENE VILLAGE SQUARE,01/03/09/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/743/743-1677469748.pdf,false
+ABIA,AROCHUKWU,UTUTU,OBIJOMA I & III/OBIJOMA VILLAGE SQUARE,01/03/09/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/740/740-1677468168.pdf,false
+ABIA,AROCHUKWU,UTUTU,AMAKOFIA I & II/AMAKOFIA POSTAL AGENCY,01/03/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/739/739-1677467741.pdf,false
+ABIA,AROCHUKWU,UTUTU,ABUMA I/UTUTU COMM.PRIM.SCH,01/03/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/738/738-1677467359.pdf,false
+ABIA,AROCHUKWU,UTUTU,UKWUAKWU II/MGBALA OGO UKWUAKWU,01/03/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/737/737-1677467001.pdf,false
+ABIA,AROCHUKWU,UTUTU,UKWUAKWU I/UKWUAKWU HALL,01/03/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/736/736-1677459533.pdf,false
+ABIA,AROCHUKWU,UTUTU,OBIAGWULU I/ONU OGO OBIAGWULU I,01/03/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/734/734-1677457674.pdf,false
+ABIA,AROCHUKWU,UTUTU,"Amaodu II - Onu 
 Ogo Obiagwulu.",01/03/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/733/733-1677456685.pdf,false
-ABIA,AROCHUKWU,,AMODU I/MGBALA OGO VILLAGE SQUARE,01/03/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/732/732-1677455921.pdf,false
-ABIA,AROCHUKWU,,AMANKWU II/AMANKAWU VILLAGE SQUARE,01/03/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/731/731-1677454680.pdf,false
-ABIA,AROCHUKWU,,AMANKWU I/ELEOHA VILLAGE SQUARE,01/03/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/730/730-1677453881.pdf,false
-ABIA,AROCHUKWU,,AMASA/AMASA VILLAGE HALL,01/03/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/729/729-1677452174.pdf,false
-ABIA,AROCHUKWU,,Amaeke II- Amaeke hall,01/03/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/728/728-1677451708.pdf,false
-ABIA,AROCHUKWU,,AMAEKE I AMAEKE HALL,01/03/09/002,https://docs.inecelectionresults.net/elections/1292/1677451121-727.pdf,false
-ABIA,AROCHUKWU,,Nkpakpi/ Nkpakpi hall,01/03/09/001,https://docs.inecelectionresults.net/elections/1292/1677450784-726.pdf,false
-ABIA,AROCHUKWU,,OBIENE I/OBIENE CENT.SCHOOL,01/03/09/017,https://docs.inecelectionresults.net/elections/1292/1677449867-742.pdf,false
-ABIA,AROCHUKWU,,UKWUAKWU VILAGE SQUARE,01/03/09/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/023/023-1677394924.pdf,false
-ABIA,AROCHUKWU,,UBILA-AMAETITI/UBILA-AMAETITI PRIM.SCH,01/03/09/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/019/019-1677368571.pdf,false
-ABIA,AROCHUKWU,,OBIJIMA II/EZIAMA VILLAGE SQUARE,01/03/09/016,,false
-ABIA,AROCHUKWU,,OBIAGWULU II/ONU OGO OBIAGWULU II,01/03/09/010,,false
+ABIA,AROCHUKWU,UTUTU,AMODU I/MGBALA OGO VILLAGE SQUARE,01/03/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/732/732-1677455921.pdf,false
+ABIA,AROCHUKWU,UTUTU,AMANKWU II/AMANKAWU VILLAGE SQUARE,01/03/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/731/731-1677454680.pdf,false
+ABIA,AROCHUKWU,UTUTU,AMANKWU I/ELEOHA VILLAGE SQUARE,01/03/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/730/730-1677453881.pdf,false
+ABIA,AROCHUKWU,UTUTU,AMASA/AMASA VILLAGE HALL,01/03/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/729/729-1677452174.pdf,false
+ABIA,AROCHUKWU,UTUTU,Amaeke II- Amaeke hall,01/03/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3105/ward/17558/pu/728/728-1677451708.pdf,false
+ABIA,AROCHUKWU,UTUTU,AMAEKE I AMAEKE HALL,01/03/09/002,https://docs.inecelectionresults.net/elections/1292/1677451121-727.pdf,false
+ABIA,AROCHUKWU,UTUTU,Nkpakpi/ Nkpakpi hall,01/03/09/001,https://docs.inecelectionresults.net/elections/1292/1677450784-726.pdf,false
+ABIA,AROCHUKWU,UTUTU,OBIENE I/OBIENE CENT.SCHOOL,01/03/09/017,https://docs.inecelectionresults.net/elections/1292/1677449867-742.pdf,false
+ABIA,AROCHUKWU,UTUTU,UKWUAKWU VILAGE SQUARE,01/03/09/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/023/023-1677394924.pdf,false
+ABIA,AROCHUKWU,UTUTU,UBILA-AMAETITI/UBILA-AMAETITI PRIM.SCH,01/03/09/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/019/019-1677368571.pdf,false
+ABIA,AROCHUKWU,UTUTU,OBIJIMA II/EZIAMA VILLAGE SQUARE,01/03/09/016,,false
+ABIA,AROCHUKWU,UTUTU,OBIAGWULU II/ONU OGO OBIAGWULU II,01/03/09/010,,false

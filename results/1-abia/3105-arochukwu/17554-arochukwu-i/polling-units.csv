@@ -1,24 +1,24 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ABIA,AROCHUKWU,,AGGRREY MEMORIAL COLLEGE,01/03/05/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618584/result_161774_1677514073_thumb.jpg,true
-ABIA,AROCHUKWU,,Ibom I & II Ibom hall,01/03/05/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667/result_161768_1677512268_thumb.jpg,true
-ABIA,AROCHUKWU,,AMANNAGWU III/VILLAGE SQUARE AMANNAGWU,01/03/05/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/660/result_161761_1677506375_thumb.jpg,true
-ABIA,AROCHUKWU,,UJARI I/PRESBY.HALL UJARI,01/03/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/653/result_161754_1677503097_thumb.jpg,true
-ABIA,AROCHUKWU,,IBOM II/AGGREY PRIMARY SCHOOL,01/03/05/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/668/result_161769_1677513016_thumb.jpg,true
-ABIA,AROCHUKWU,,"OKONI HALL, IBOM",01/03/05/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618585/result_161775_1677514320_thumb.jpg,true
-ABIA,AROCHUKWU,,AMANNAGWU COMMUNITY HALL,01/03/05/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618580/result_161770_1677513323_thumb.jpg,true
-ABIA,AROCHUKWU,,AMANNAGWU II/VILLAGE SQUARE AMANNAGWU,01/03/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/659/result_161760_1677506057_thumb.jpg,true
-ABIA,AROCHUKWU,,MARY SLESSOR SECONDARY SCHOOL II,01/03/05/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618583/result_161773_1677513851_thumb.jpg,true
-ABIA,AROCHUKWU,,AGBAGWU COMMUNITY HALL,01/03/05/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618581/result_161771_1677513471_thumb.jpg,true
-ABIA,AROCHUKWU,,AMASU II/VILLAGE SQUARE AMASU,01/03/05/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/657/result_161758_1677505555_thumb.jpg,true
-ABIA,AROCHUKWU,,AMANNAGWU II/AMANNAGWU HALL,01/03/05/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658/result_161759_1677505710_thumb.jpg,true
-ABIA,AROCHUKWU,,UJARI II/AWADA NDI UDENSI,01/03/05/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/654/result_161755_1677503939_thumb.jpg,true
-ABIA,AROCHUKWU,,UTUGHUGWU II/VILLAGE SQUARE UTUGHUGWU,01/03/05/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/663/result_161764_1677507276_thumb.jpg,true
-ABIA,AROCHUKWU,,GOVT.AREA I/MARY SLESSOR SEC.SCH.,01/03/05/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/665/result_161766_1677510794_thumb.jpg,true
-ABIA,AROCHUKWU,,UTUGHUGWU I/MGBALA EKPE UTUGHUGWU,01/03/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/662/result_161763_1677506697_thumb.jpg,true
-ABIA,AROCHUKWU,,Ogbogwu I & II Ndi Onoh Hall,01/03/05/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/664/result_161765_1677506958_thumb.jpg,true
-ABIA,AROCHUKWU,,"Amannagwu -Ezeakuma pri
+ABIA,AROCHUKWU,AROCHUKWU I,AGGRREY MEMORIAL COLLEGE,01/03/05/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618584/result_161774_1677514073_thumb.jpg,true
+ABIA,AROCHUKWU,AROCHUKWU I,Ibom I & II Ibom hall,01/03/05/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/667/result_161768_1677512268_thumb.jpg,true
+ABIA,AROCHUKWU,AROCHUKWU I,AMANNAGWU III/VILLAGE SQUARE AMANNAGWU,01/03/05/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/660/result_161761_1677506375_thumb.jpg,true
+ABIA,AROCHUKWU,AROCHUKWU I,UJARI I/PRESBY.HALL UJARI,01/03/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/653/result_161754_1677503097_thumb.jpg,true
+ABIA,AROCHUKWU,AROCHUKWU I,IBOM II/AGGREY PRIMARY SCHOOL,01/03/05/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/668/result_161769_1677513016_thumb.jpg,true
+ABIA,AROCHUKWU,AROCHUKWU I,"OKONI HALL, IBOM",01/03/05/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618585/result_161775_1677514320_thumb.jpg,true
+ABIA,AROCHUKWU,AROCHUKWU I,AMANNAGWU COMMUNITY HALL,01/03/05/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618580/result_161770_1677513323_thumb.jpg,true
+ABIA,AROCHUKWU,AROCHUKWU I,AMANNAGWU II/VILLAGE SQUARE AMANNAGWU,01/03/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/659/result_161760_1677506057_thumb.jpg,true
+ABIA,AROCHUKWU,AROCHUKWU I,MARY SLESSOR SECONDARY SCHOOL II,01/03/05/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618583/result_161773_1677513851_thumb.jpg,true
+ABIA,AROCHUKWU,AROCHUKWU I,AGBAGWU COMMUNITY HALL,01/03/05/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618581/result_161771_1677513471_thumb.jpg,true
+ABIA,AROCHUKWU,AROCHUKWU I,AMASU II/VILLAGE SQUARE AMASU,01/03/05/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/657/result_161758_1677505555_thumb.jpg,true
+ABIA,AROCHUKWU,AROCHUKWU I,AMANNAGWU II/AMANNAGWU HALL,01/03/05/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/658/result_161759_1677505710_thumb.jpg,true
+ABIA,AROCHUKWU,AROCHUKWU I,UJARI II/AWADA NDI UDENSI,01/03/05/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/654/result_161755_1677503939_thumb.jpg,true
+ABIA,AROCHUKWU,AROCHUKWU I,UTUGHUGWU II/VILLAGE SQUARE UTUGHUGWU,01/03/05/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/663/result_161764_1677507276_thumb.jpg,true
+ABIA,AROCHUKWU,AROCHUKWU I,GOVT.AREA I/MARY SLESSOR SEC.SCH.,01/03/05/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/665/result_161766_1677510794_thumb.jpg,true
+ABIA,AROCHUKWU,AROCHUKWU I,UTUGHUGWU I/MGBALA EKPE UTUGHUGWU,01/03/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/662/result_161763_1677506697_thumb.jpg,true
+ABIA,AROCHUKWU,AROCHUKWU I,Ogbogwu I & II Ndi Onoh Hall,01/03/05/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/664/result_161765_1677506958_thumb.jpg,true
+ABIA,AROCHUKWU,AROCHUKWU I,"Amannagwu -Ezeakuma pri
 sch.",01/03/05/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/661/result_161762_1677506534_thumb.jpg,true
-ABIA,AROCHUKWU,,Amasu I & III- vill Sq. Amasu.,01/03/05/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/656/result_161757_1677505443_thumb.jpg,true
-ABIA,AROCHUKWU,,UJARI III/OGWOGO HALL AMASU,01/03/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/655/result_161756_1677505255_thumb.jpg,true
-ABIA,AROCHUKWU,,UGWUAKUMA COMMUNITY HALL,01/03/05/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618582/result_161772_1677513606_thumb.jpg,true
-ABIA,AROCHUKWU,,GOVT.AREA II/COLLEGE OF EDUCATION TECHNICAL.,01/03/05/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666/result_161767_1677511540_thumb.jpg,true
+ABIA,AROCHUKWU,AROCHUKWU I,Amasu I & III- vill Sq. Amasu.,01/03/05/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/656/result_161757_1677505443_thumb.jpg,true
+ABIA,AROCHUKWU,AROCHUKWU I,UJARI III/OGWOGO HALL AMASU,01/03/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/655/result_161756_1677505255_thumb.jpg,true
+ABIA,AROCHUKWU,AROCHUKWU I,UGWUAKUMA COMMUNITY HALL,01/03/05/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618582/result_161772_1677513606_thumb.jpg,true
+ABIA,AROCHUKWU,AROCHUKWU I,GOVT.AREA II/COLLEGE OF EDUCATION TECHNICAL.,01/03/05/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/666/result_161767_1677511540_thumb.jpg,true

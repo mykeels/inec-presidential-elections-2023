@@ -26,6 +26,7 @@
     "pu_code_string": "010112004",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
+    "ward_name": "UMUOGOR",
     "document": {
       "external": true,
       "status": 1,
@@ -113,6 +114,7 @@
     "pu_code_string": "010112001",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
+    "ward_name": "UMUOGOR",
     "document": {
       "external": true,
       "status": 1,
@@ -160,6 +162,7 @@
     "pu_code_string": "010112010",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
+    "ward_name": "UMUOGOR",
     "document": {
       "external": true,
       "status": 1,
@@ -207,6 +210,7 @@
     "pu_code_string": "010112018",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
+    "ward_name": "UMUOGOR",
     "document": {
       "external": true,
       "status": 1,
@@ -254,6 +258,7 @@
     "pu_code_string": "010112009",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
+    "ward_name": "UMUOGOR",
     "document": {
       "external": true,
       "status": 1,
@@ -301,6 +306,7 @@
     "pu_code_string": "010112021",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
+    "ward_name": "UMUOGOR",
     "document": {
       "external": true,
       "status": 1,
@@ -348,6 +354,7 @@
     "pu_code_string": "010112022",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
+    "ward_name": "UMUOGOR",
     "document": {
       "external": true,
       "status": 1,
@@ -395,6 +402,7 @@
     "pu_code_string": "010112017",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
+    "ward_name": "UMUOGOR",
     "document": {
       "external": true,
       "status": 1,
@@ -442,6 +450,7 @@
     "pu_code_string": "010112011",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
+    "ward_name": "UMUOGOR",
     "document": {
       "external": true,
       "status": 1,
@@ -489,6 +498,7 @@
     "pu_code_string": "010112015",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
+    "ward_name": "UMUOGOR",
     "document": {
       "external": true,
       "status": 1,
@@ -536,6 +546,7 @@
     "pu_code_string": "010112016",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
+    "ward_name": "UMUOGOR",
     "document": {
       "external": true,
       "status": 1,
@@ -583,6 +594,7 @@
     "pu_code_string": "010112023",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
+    "ward_name": "UMUOGOR",
     "document": {
       "external": true,
       "status": 1,
@@ -630,6 +642,7 @@
     "pu_code_string": "010112019",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
+    "ward_name": "UMUOGOR",
     "document": {
       "external": true,
       "status": 1,
@@ -701,6 +714,7 @@
     "pu_code_string": "010112005",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
+    "ward_name": "UMUOGOR",
     "document": {
       "external": true,
       "status": 1,
@@ -739,6 +753,7 @@
     "pu_code_string": "010112012",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
+    "ward_name": "UMUOGOR",
     "document": {
       "external": true,
       "status": 1,
@@ -777,6 +792,7 @@
     "pu_code_string": "010112003",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
+    "ward_name": "UMUOGOR",
     "document": {
       "external": true,
       "status": 1,
@@ -815,6 +831,7 @@
     "pu_code_string": "010112007",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
+    "ward_name": "UMUOGOR",
     "document": {
       "external": true,
       "status": 1,
@@ -853,6 +870,7 @@
     "pu_code_string": "010112020",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
+    "ward_name": "UMUOGOR",
     "document": {
       "external": true,
       "status": 1,
@@ -891,6 +909,7 @@
     "pu_code_string": "010112006",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
+    "ward_name": "UMUOGOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -921,6 +940,7 @@
     "pu_code_string": "010112002",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
+    "ward_name": "UMUOGOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -951,6 +971,7 @@
     "pu_code_string": "010112008",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
+    "ward_name": "UMUOGOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -981,6 +1002,7 @@
     "pu_code_string": "010112013",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
+    "ward_name": "UMUOGOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1011,6 +1033,7 @@
     "pu_code_string": "010112014",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
+    "ward_name": "UMUOGOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1041,6 +1064,7 @@
     "pu_code_string": "010112024",
     "state_name": "ABIA",
     "lga_name": "ABA NORTH",
+    "ward_name": "UMUOGOR",
     "old_documents": [],
     "has_old_documents": false
   }

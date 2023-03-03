@@ -26,6 +26,7 @@
     "pu_code_string": "010212044",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": true,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "010212045",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": true,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "010212024",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": true,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "010212026",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": true,
       "status": 1,
@@ -178,6 +182,7 @@
     "pu_code_string": "010212035",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": true,
       "status": 1,
@@ -216,6 +221,7 @@
     "pu_code_string": "010212039",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": true,
       "status": 1,
@@ -254,6 +260,7 @@
     "pu_code_string": "010212018",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -292,6 +299,7 @@
     "pu_code_string": "010212011",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -330,6 +338,7 @@
     "pu_code_string": "010212036",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -368,6 +377,7 @@
     "pu_code_string": "010212004",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -406,6 +416,7 @@
     "pu_code_string": "010212028",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -444,6 +455,7 @@
     "pu_code_string": "010212023",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -482,6 +494,7 @@
     "pu_code_string": "010212038",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -520,6 +533,7 @@
     "pu_code_string": "010212017",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -558,6 +572,7 @@
     "pu_code_string": "010212016",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -596,6 +611,7 @@
     "pu_code_string": "010212010",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -634,6 +650,7 @@
     "pu_code_string": "010212014",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -672,6 +689,7 @@
     "pu_code_string": "010212003",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -710,6 +728,7 @@
     "pu_code_string": "010212019",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -748,6 +767,7 @@
     "pu_code_string": "010212015",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -786,6 +806,7 @@
     "pu_code_string": "010212043",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -824,6 +845,7 @@
     "pu_code_string": "010212029",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -862,6 +884,7 @@
     "pu_code_string": "010212020",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -900,6 +923,7 @@
     "pu_code_string": "010212007",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -938,6 +962,7 @@
     "pu_code_string": "010212030",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -976,6 +1001,7 @@
     "pu_code_string": "010212002",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -1014,6 +1040,7 @@
     "pu_code_string": "010212025",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -1052,6 +1079,7 @@
     "pu_code_string": "010212022",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -1090,6 +1118,7 @@
     "pu_code_string": "010212009",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -1128,6 +1157,7 @@
     "pu_code_string": "010212006",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -1166,6 +1196,7 @@
     "pu_code_string": "010212032",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -1204,6 +1235,7 @@
     "pu_code_string": "010212001",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -1242,6 +1274,7 @@
     "pu_code_string": "010212021",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -1280,6 +1313,7 @@
     "pu_code_string": "010212008",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -1318,6 +1352,7 @@
     "pu_code_string": "010212042",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -1356,6 +1391,7 @@
     "pu_code_string": "010212027",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -1394,6 +1430,7 @@
     "pu_code_string": "010212013",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -1432,6 +1469,7 @@
     "pu_code_string": "010212033",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -1470,6 +1508,7 @@
     "pu_code_string": "010212040",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -1508,6 +1547,7 @@
     "pu_code_string": "010212037",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -1546,6 +1586,7 @@
     "pu_code_string": "010212041",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -1584,6 +1625,7 @@
     "pu_code_string": "010212005",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -1622,6 +1664,7 @@
     "pu_code_string": "010212034",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -1660,6 +1703,7 @@
     "pu_code_string": "010212031",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,
@@ -1698,6 +1742,7 @@
     "pu_code_string": "010212012",
     "state_name": "ABIA",
     "lga_name": "ABA SOUTH",
+    "ward_name": "ABA TOWN HALL",
     "document": {
       "external": false,
       "status": 1,

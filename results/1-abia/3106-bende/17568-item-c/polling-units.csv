@@ -1,9 +1,9 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ABIA,BENDE,,OKAI - UMUAKPA PRI. SCH.,01/04/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17568/pu/869/869-1677588164.pdf,true
-ABIA,BENDE,,OKAI - OKAI MKT. SQUARE,01/04/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17568/pu/868/868-1677587901.pdf,true
-ABIA,BENDE,,ELUGWU - ELUGWU AKANU I,01/04/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17568/pu/864/864-1677587212.pdf,true
-ABIA,BENDE,,UMUAKPA - UMUAKA WOMEN HALL,01/04/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17568/pu/867/867-1677586256.pdf,true
-ABIA,BENDE,,AKANU - PRI. SCH. AKANU,01/04/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17568/pu/862/862-1677582555.pdf,false
-ABIA,BENDE,,ELUGWU - ELUGWU AKANU III,01/04/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/005/005-1677391022.pdf,false
-ABIA,BENDE,,ELUGWU - ELUGWU AKANU II,01/04/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/004/004-1677379749.pdf,false
-ABIA,BENDE,,AKANU - AKANU MKT. SQUARE,01/04/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/002/002-1677372516.pdf,false
+ABIA,BENDE,ITEM C,OKAI - UMUAKPA PRI. SCH.,01/04/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17568/pu/869/869-1677588164.pdf,true
+ABIA,BENDE,ITEM C,OKAI - OKAI MKT. SQUARE,01/04/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17568/pu/868/868-1677587901.pdf,true
+ABIA,BENDE,ITEM C,ELUGWU - ELUGWU AKANU I,01/04/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17568/pu/864/864-1677587212.pdf,true
+ABIA,BENDE,ITEM C,UMUAKPA - UMUAKA WOMEN HALL,01/04/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17568/pu/867/867-1677586256.pdf,true
+ABIA,BENDE,ITEM C,AKANU - PRI. SCH. AKANU,01/04/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3106/ward/17568/pu/862/862-1677582555.pdf,false
+ABIA,BENDE,ITEM C,ELUGWU - ELUGWU AKANU III,01/04/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/005/005-1677391022.pdf,false
+ABIA,BENDE,ITEM C,ELUGWU - ELUGWU AKANU II,01/04/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/004/004-1677379749.pdf,false
+ABIA,BENDE,ITEM C,AKANU - AKANU MKT. SQUARE,01/04/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/002/002-1677372516.pdf,false

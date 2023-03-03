@@ -26,6 +26,7 @@
     "pu_code_string": "010910003",
     "state_name": "ABIA",
     "lga_name": "OBINGWA",
+    "ward_name": "NTIGHAUZO AMAIRI",
     "document": {
       "external": true,
       "status": 1,
@@ -73,6 +74,7 @@
     "pu_code_string": "010910015",
     "state_name": "ABIA",
     "lga_name": "OBINGWA",
+    "ward_name": "NTIGHAUZO AMAIRI",
     "document": {
       "external": true,
       "status": 1,
@@ -120,6 +122,7 @@
     "pu_code_string": "010910010",
     "state_name": "ABIA",
     "lga_name": "OBINGWA",
+    "ward_name": "NTIGHAUZO AMAIRI",
     "document": {
       "external": true,
       "status": 1,
@@ -167,6 +170,7 @@
     "pu_code_string": "010910008",
     "state_name": "ABIA",
     "lga_name": "OBINGWA",
+    "ward_name": "NTIGHAUZO AMAIRI",
     "document": {
       "external": true,
       "status": 1,
@@ -214,6 +218,7 @@
     "pu_code_string": "010910011",
     "state_name": "ABIA",
     "lga_name": "OBINGWA",
+    "ward_name": "NTIGHAUZO AMAIRI",
     "document": {
       "external": true,
       "status": 1,
@@ -261,6 +266,7 @@
     "pu_code_string": "010910012",
     "state_name": "ABIA",
     "lga_name": "OBINGWA",
+    "ward_name": "NTIGHAUZO AMAIRI",
     "document": {
       "external": true,
       "status": 1,
@@ -316,6 +322,7 @@
     "pu_code_string": "010910014",
     "state_name": "ABIA",
     "lga_name": "OBINGWA",
+    "ward_name": "NTIGHAUZO AMAIRI",
     "document": {
       "external": true,
       "status": 1,
@@ -363,6 +370,7 @@
     "pu_code_string": "010910016",
     "state_name": "ABIA",
     "lga_name": "OBINGWA",
+    "ward_name": "NTIGHAUZO AMAIRI",
     "document": {
       "external": true,
       "status": 1,
@@ -418,6 +426,7 @@
     "pu_code_string": "010910009",
     "state_name": "ABIA",
     "lga_name": "OBINGWA",
+    "ward_name": "NTIGHAUZO AMAIRI",
     "document": {
       "external": true,
       "status": 1,
@@ -465,6 +474,7 @@
     "pu_code_string": "010910013",
     "state_name": "ABIA",
     "lga_name": "OBINGWA",
+    "ward_name": "NTIGHAUZO AMAIRI",
     "document": {
       "external": true,
       "status": 1,
@@ -512,6 +522,7 @@
     "pu_code_string": "010910004",
     "state_name": "ABIA",
     "lga_name": "OBINGWA",
+    "ward_name": "NTIGHAUZO AMAIRI",
     "document": {
       "external": true,
       "status": 1,
@@ -599,6 +610,7 @@
     "pu_code_string": "010910006",
     "state_name": "ABIA",
     "lga_name": "OBINGWA",
+    "ward_name": "NTIGHAUZO AMAIRI",
     "document": {
       "external": true,
       "status": 1,
@@ -646,6 +658,7 @@
     "pu_code_string": "010910017",
     "state_name": "ABIA",
     "lga_name": "OBINGWA",
+    "ward_name": "NTIGHAUZO AMAIRI",
     "document": {
       "external": true,
       "status": 1,
@@ -733,6 +746,7 @@
     "pu_code_string": "010910005",
     "state_name": "ABIA",
     "lga_name": "OBINGWA",
+    "ward_name": "NTIGHAUZO AMAIRI",
     "document": {
       "external": true,
       "status": 1,
@@ -804,6 +818,7 @@
     "pu_code_string": "010910007",
     "state_name": "ABIA",
     "lga_name": "OBINGWA",
+    "ward_name": "NTIGHAUZO AMAIRI",
     "document": {
       "external": true,
       "status": 1,
@@ -875,6 +890,7 @@
     "pu_code_string": "010910002",
     "state_name": "ABIA",
     "lga_name": "OBINGWA",
+    "ward_name": "NTIGHAUZO AMAIRI",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -905,6 +921,7 @@
     "pu_code_string": "010910001",
     "state_name": "ABIA",
     "lga_name": "OBINGWA",
+    "ward_name": "NTIGHAUZO AMAIRI",
     "old_documents": [],
     "has_old_documents": false
   }

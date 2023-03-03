@@ -1,10 +1,10 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ABIA,UKWA  WEST,,UGWUATI  COMMUNITY PRIMARY SCHOOL  III,01/14/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/2186/result_163941_1677515606_thumb.jpg,true
-ABIA,UKWA  WEST,,UGWUATI  COMMUNITY PRIMARY SCHOOL II,01/14/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17669/pu/2191/2191-1677520612.pdf,false
-ABIA,UKWA  WEST,,UGWUATI  COMMUNITY PRIMARY SCHOOL I,01/14/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17669/pu/2190/2190-1677520290.pdf,false
-ABIA,UKWA  WEST,,UMUAKA HEALTH CENTRE/UMUAKA I,01/14/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17669/pu/127639/127639-1677519628.pdf,false
-ABIA,UKWA  WEST,,UMUAKA VILLAGE SQUARE / UMUAKA  II,01/14/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17669/pu/2187/2187-1677518837.pdf,false
-ABIA,UKWA  WEST,,COMMUNITY PRIMARY SCHOOL / UMUAKA  I,01/14/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17669/pu/2186/2186-1677517986.pdf,false
-ABIA,UKWA  WEST,,COMMUNITY PRI. SCHOOL UMUAKA II,01/14/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17669/pu/127638/127638-1677516600.pdf,false
-ABIA,UKWA  WEST,,OZATTA VILLAGE SQUARE/OZATTA  I,01/14/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/04/pu/003/003-1677369716.pdf,false
-ABIA,UKWA  WEST,,OZATTA COMMUNITY PRIMARY SCHOOL / OZATTA  II,01/14/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/04/pu/004/004-1677359850.pdf,false
+ABIA,UKWA  WEST,ASA SOUTH,UGWUATI  COMMUNITY PRIMARY SCHOOL  III,01/14/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/2186/result_163941_1677515606_thumb.jpg,true
+ABIA,UKWA  WEST,ASA SOUTH,UGWUATI  COMMUNITY PRIMARY SCHOOL II,01/14/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17669/pu/2191/2191-1677520612.pdf,false
+ABIA,UKWA  WEST,ASA SOUTH,UGWUATI  COMMUNITY PRIMARY SCHOOL I,01/14/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17669/pu/2190/2190-1677520290.pdf,false
+ABIA,UKWA  WEST,ASA SOUTH,UMUAKA HEALTH CENTRE/UMUAKA I,01/14/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17669/pu/127639/127639-1677519628.pdf,false
+ABIA,UKWA  WEST,ASA SOUTH,UMUAKA VILLAGE SQUARE / UMUAKA  II,01/14/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17669/pu/2187/2187-1677518837.pdf,false
+ABIA,UKWA  WEST,ASA SOUTH,COMMUNITY PRIMARY SCHOOL / UMUAKA  I,01/14/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17669/pu/2186/2186-1677517986.pdf,false
+ABIA,UKWA  WEST,ASA SOUTH,COMMUNITY PRI. SCHOOL UMUAKA II,01/14/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3116/ward/17669/pu/127638/127638-1677516600.pdf,false
+ABIA,UKWA  WEST,ASA SOUTH,OZATTA VILLAGE SQUARE/OZATTA  I,01/14/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/04/pu/003/003-1677369716.pdf,false
+ABIA,UKWA  WEST,ASA SOUTH,OZATTA COMMUNITY PRIMARY SCHOOL / OZATTA  II,01/14/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/04/pu/004/004-1677359850.pdf,false

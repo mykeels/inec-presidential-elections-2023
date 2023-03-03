@@ -1,11 +1,11 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ABIA,ISUIKWUATO,,AMANKWO VILLAGE SQUARE - AGBO UMUNNEKWU,01/08/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3110/ward/17609/pu/1385/1385-1677530230.pdf,false
-ABIA,ISUIKWUATO,,AMAWO VILLAGE SQUARE - MGBELU    UMUNNEKWU,01/08/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3110/ward/17609/pu/1384/1384-1677530084.pdf,false
-ABIA,ISUIKWUATO,,UMUIHU VILLAGE HALL - DO -,01/08/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3110/ward/17609/pu/1382/1382-1677529865.pdf,false
-ABIA,ISUIKWUATO,,UMURA VILLAGE HALL - DO-,01/08/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3110/ward/17609/pu/1381/1381-1677529727.pdf,false
-ABIA,ISUIKWUATO,,EZIAMA VILLAGE HALL - AGBO UMUNNEKWU,01/08/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3110/ward/17609/pu/1380/1380-1677529532.pdf,false
-ABIA,ISUIKWUATO,,UGWUNTA VILAGE HALL - DO - DO,01/08/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3110/ward/17609/pu/1379/1379-1677529384.pdf,false
-ABIA,ISUIKWUATO,,OHAUKABI VILLAGE HALL - MGBELU UMUNNEKWU,01/08/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3110/ward/17609/pu/1377/1377-1677529048.pdf,false
-ABIA,ISUIKWUATO,,AMAWO VILLAGE SQUARE - MGBELU UMUNNEKJWU,01/08/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3110/ward/17609/pu/1376/1376-1677528788.pdf,false
-ABIA,ISUIKWUATO,,UMUEZEBETE COMMUNITY HALL - DO - DO,01/08/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/06/pu/003/003-1677372078.pdf,false
-ABIA,ISUIKWUATO,,UMUANKWA VILLAGE SQUARE - DO -,01/08/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/06/pu/008/008-1677371889.pdf,false
+ABIA,ISUIKWUATO,UMUNNEKWU,AMANKWO VILLAGE SQUARE - AGBO UMUNNEKWU,01/08/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3110/ward/17609/pu/1385/1385-1677530230.pdf,false
+ABIA,ISUIKWUATO,UMUNNEKWU,AMAWO VILLAGE SQUARE - MGBELU    UMUNNEKWU,01/08/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3110/ward/17609/pu/1384/1384-1677530084.pdf,false
+ABIA,ISUIKWUATO,UMUNNEKWU,UMUIHU VILLAGE HALL - DO -,01/08/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3110/ward/17609/pu/1382/1382-1677529865.pdf,false
+ABIA,ISUIKWUATO,UMUNNEKWU,UMURA VILLAGE HALL - DO-,01/08/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3110/ward/17609/pu/1381/1381-1677529727.pdf,false
+ABIA,ISUIKWUATO,UMUNNEKWU,EZIAMA VILLAGE HALL - AGBO UMUNNEKWU,01/08/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3110/ward/17609/pu/1380/1380-1677529532.pdf,false
+ABIA,ISUIKWUATO,UMUNNEKWU,UGWUNTA VILAGE HALL - DO - DO,01/08/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3110/ward/17609/pu/1379/1379-1677529384.pdf,false
+ABIA,ISUIKWUATO,UMUNNEKWU,OHAUKABI VILLAGE HALL - MGBELU UMUNNEKWU,01/08/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3110/ward/17609/pu/1377/1377-1677529048.pdf,false
+ABIA,ISUIKWUATO,UMUNNEKWU,AMAWO VILLAGE SQUARE - MGBELU UMUNNEKJWU,01/08/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3110/ward/17609/pu/1376/1376-1677528788.pdf,false
+ABIA,ISUIKWUATO,UMUNNEKWU,UMUEZEBETE COMMUNITY HALL - DO - DO,01/08/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/06/pu/003/003-1677372078.pdf,false
+ABIA,ISUIKWUATO,UMUNNEKWU,UMUANKWA VILLAGE SQUARE - DO -,01/08/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/06/pu/008/008-1677371889.pdf,false

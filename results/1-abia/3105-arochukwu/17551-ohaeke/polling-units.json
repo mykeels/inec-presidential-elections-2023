@@ -26,6 +26,7 @@
     "pu_code_string": "010302012",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "OHAEKE",
     "document": {
       "external": true,
       "status": 1,
@@ -81,6 +82,7 @@
     "pu_code_string": "010302002",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "OHAEKE",
     "document": {
       "external": true,
       "status": 1,
@@ -136,6 +138,7 @@
     "pu_code_string": "010302015",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "OHAEKE",
     "document": {
       "external": true,
       "status": 1,
@@ -191,6 +194,7 @@
     "pu_code_string": "010302006",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "OHAEKE",
     "document": {
       "external": true,
       "status": 1,
@@ -246,6 +250,7 @@
     "pu_code_string": "010302010",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "OHAEKE",
     "document": {
       "external": true,
       "status": 1,
@@ -301,6 +306,7 @@
     "pu_code_string": "010302003",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "OHAEKE",
     "document": {
       "external": true,
       "status": 1,
@@ -356,6 +362,7 @@
     "pu_code_string": "010302013",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "OHAEKE",
     "document": {
       "external": true,
       "status": 1,
@@ -411,6 +418,7 @@
     "pu_code_string": "010302011",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "OHAEKE",
     "document": {
       "external": true,
       "status": 1,
@@ -466,6 +474,7 @@
     "pu_code_string": "010302014",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "OHAEKE",
     "document": {
       "external": true,
       "status": 1,
@@ -521,6 +530,7 @@
     "pu_code_string": "010302005",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "OHAEKE",
     "document": {
       "external": true,
       "status": 1,
@@ -576,6 +586,7 @@
     "pu_code_string": "010302001",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "OHAEKE",
     "document": {
       "external": true,
       "status": 1,
@@ -647,6 +658,7 @@
     "pu_code_string": "010302004",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "OHAEKE",
     "document": {
       "external": true,
       "status": 1,
@@ -718,6 +730,7 @@
     "pu_code_string": "010302007",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "OHAEKE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -748,6 +761,7 @@
     "pu_code_string": "010302009",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "OHAEKE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -778,6 +792,7 @@
     "pu_code_string": "010302008",
     "state_name": "ABIA",
     "lga_name": "AROCHUKWU",
+    "ward_name": "OHAEKE",
     "old_documents": [],
     "has_old_documents": false
   }

@@ -26,6 +26,7 @@
     "pu_code_string": "010410015",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "OZUITEM",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "010410004",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "OZUITEM",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "010410002",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "OZUITEM",
     "document": {
       "external": false,
       "status": 1,
@@ -149,6 +152,7 @@
     "pu_code_string": "010410001",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "OZUITEM",
     "document": {
       "external": false,
       "status": 1,
@@ -196,6 +200,7 @@
     "pu_code_string": "010410006",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "OZUITEM",
     "document": {
       "external": false,
       "status": 1,
@@ -243,6 +248,7 @@
     "pu_code_string": "010410011",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "OZUITEM",
     "document": {
       "external": false,
       "status": 1,
@@ -281,6 +287,7 @@
     "pu_code_string": "010410012",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "OZUITEM",
     "document": {
       "external": false,
       "status": 1,
@@ -319,6 +326,7 @@
     "pu_code_string": "010410005",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "OZUITEM",
     "document": {
       "external": false,
       "status": 1,
@@ -357,6 +365,7 @@
     "pu_code_string": "010410010",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "OZUITEM",
     "document": {
       "external": false,
       "status": 1,
@@ -395,6 +404,7 @@
     "pu_code_string": "010410013",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "OZUITEM",
     "document": {
       "external": false,
       "status": 1,
@@ -433,6 +443,7 @@
     "pu_code_string": "010410003",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "OZUITEM",
     "document": {
       "external": false,
       "status": 1,
@@ -471,6 +482,7 @@
     "pu_code_string": "010410008",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "OZUITEM",
     "document": {
       "external": false,
       "status": 1,
@@ -509,6 +521,7 @@
     "pu_code_string": "010410014",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "OZUITEM",
     "document": {
       "external": false,
       "status": 1,
@@ -547,6 +560,7 @@
     "pu_code_string": "010410007",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "OZUITEM",
     "document": {
       "external": false,
       "status": 1,
@@ -585,6 +599,7 @@
     "pu_code_string": "010410009",
     "state_name": "ABIA",
     "lga_name": "BENDE",
+    "ward_name": "OZUITEM",
     "old_documents": [],
     "has_old_documents": false
   }

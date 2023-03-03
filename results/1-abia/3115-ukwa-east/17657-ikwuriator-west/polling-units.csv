@@ -1,6 +1,6 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ABIA,UKWA EAST,,OBUZO VILLAGE HALL - OBUZO,01/13/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3115/ward/17657/pu/2103/2103-1677579831.pdf,true
-ABIA,UKWA EAST,,"COMMUNITY PRIMARY SCHOOL,OBUOZU",01/13/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3115/ward/17657/pu/127611/127611-1677579387.pdf,true
-ABIA,UKWA EAST,,COMMUNITY PRIMARY SCHOOL ABAKI - ABAKI,01/13/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/001/001-1677405149.pdf,false
-ABIA,UKWA EAST,,UMUOGOR VILLAGE HALL - UMUOGOR,01/13/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/004/004-1677412995.pdf,false
-ABIA,UKWA EAST,,MKPUKPUOHA VILLAGE HALL - MKPUKPUOHA,01/13/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/003/003-1677408322.pdf,false
+ABIA,UKWA EAST,IKWURIATOR WEST,OBUZO VILLAGE HALL - OBUZO,01/13/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3115/ward/17657/pu/2103/2103-1677579831.pdf,true
+ABIA,UKWA EAST,IKWURIATOR WEST,"COMMUNITY PRIMARY SCHOOL,OBUOZU",01/13/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3115/ward/17657/pu/127611/127611-1677579387.pdf,true
+ABIA,UKWA EAST,IKWURIATOR WEST,COMMUNITY PRIMARY SCHOOL ABAKI - ABAKI,01/13/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/001/001-1677405149.pdf,false
+ABIA,UKWA EAST,IKWURIATOR WEST,UMUOGOR VILLAGE HALL - UMUOGOR,01/13/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/004/004-1677412995.pdf,false
+ABIA,UKWA EAST,IKWURIATOR WEST,MKPUKPUOHA VILLAGE HALL - MKPUKPUOHA,01/13/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/003/003-1677408322.pdf,false
