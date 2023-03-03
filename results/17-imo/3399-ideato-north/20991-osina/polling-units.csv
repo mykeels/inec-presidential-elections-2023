@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-IMO,IDEATO NORTH,,UMUOGBU HALL,16/05/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/010/010-1677397680.pdf,false
-IMO,IDEATO NORTH,,OSINA TOWN HALL,16/05/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/008/008-1677397147.pdf,false
-IMO,IDEATO NORTH,,SEC. COMM. SCHOOL OSINA,16/05/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/009/009-1677397038.pdf,false
-IMO,IDEATO NORTH,,UMUOTUASI VILLAGE HALL,16/05/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/002/002-1677397013.pdf,false
-IMO,IDEATO NORTH,,"ST. JOSEPH'S VOCATIONAL COMM. SCH., OSINA",16/05/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/001/001-1677396829.pdf,false
-IMO,IDEATO NORTH,,IKPA HALL,16/05/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/003/003-1677396780.pdf,false
-IMO,IDEATO NORTH,,PRIMARY SCH. ALAUBEOJUKWU,16/05/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/007/007-1677396776.pdf,false
-IMO,IDEATO NORTH,,EZEOGBUWE HALL,16/05/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/011/011-1677396775.pdf,false
-IMO,IDEATO NORTH,,PRIMARY SCH. UHUELEFUO,16/05/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/005/005-1677396708.pdf,false
-IMO,IDEATO NORTH,,PRI. SCH. ALAOGIDI,16/05/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/006/006-1677396424.pdf,false
-IMO,IDEATO NORTH,,EZIHE HALL,16/05/10/004,,false
-IMO,IDEATO NORTH,,AFOR OSINA MARKET SQUARE,16/05/10/013,,false
-IMO,IDEATO NORTH,,GLORIOUS INTERNATIONAL NUR. & PRIM SCH. ELUAMA OSINA,16/05/10/012,,false
+IMO,IDEATO NORTH,OSINA,UMUOGBU HALL,16/05/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/010/010-1677397680.pdf,false
+IMO,IDEATO NORTH,OSINA,OSINA TOWN HALL,16/05/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/008/008-1677397147.pdf,false
+IMO,IDEATO NORTH,OSINA,SEC. COMM. SCHOOL OSINA,16/05/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/009/009-1677397038.pdf,false
+IMO,IDEATO NORTH,OSINA,UMUOTUASI VILLAGE HALL,16/05/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/002/002-1677397013.pdf,false
+IMO,IDEATO NORTH,OSINA,"ST. JOSEPH'S VOCATIONAL COMM. SCH., OSINA",16/05/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/001/001-1677396829.pdf,false
+IMO,IDEATO NORTH,OSINA,IKPA HALL,16/05/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/003/003-1677396780.pdf,false
+IMO,IDEATO NORTH,OSINA,PRIMARY SCH. ALAUBEOJUKWU,16/05/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/007/007-1677396776.pdf,false
+IMO,IDEATO NORTH,OSINA,EZEOGBUWE HALL,16/05/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/011/011-1677396775.pdf,false
+IMO,IDEATO NORTH,OSINA,PRIMARY SCH. UHUELEFUO,16/05/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/005/005-1677396708.pdf,false
+IMO,IDEATO NORTH,OSINA,PRI. SCH. ALAOGIDI,16/05/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/10/pu/006/006-1677396424.pdf,false
+IMO,IDEATO NORTH,OSINA,EZIHE HALL,16/05/10/004,,false
+IMO,IDEATO NORTH,OSINA,AFOR OSINA MARKET SQUARE,16/05/10/013,,false
+IMO,IDEATO NORTH,OSINA,GLORIOUS INTERNATIONAL NUR. & PRIM SCH. ELUAMA OSINA,16/05/10/012,,false

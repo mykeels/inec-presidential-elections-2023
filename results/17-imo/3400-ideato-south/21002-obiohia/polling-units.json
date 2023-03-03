@@ -26,6 +26,7 @@
     "pu_code_string": "160607001",
     "state_name": "IMO",
     "lga_name": "IDEATO SOUTH",
+    "ward_name": "OBIOHIA",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "160607004",
     "state_name": "IMO",
     "lga_name": "IDEATO SOUTH",
+    "ward_name": "OBIOHIA",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "160607002",
     "state_name": "IMO",
     "lga_name": "IDEATO SOUTH",
+    "ward_name": "OBIOHIA",
     "document": {
       "external": false,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "160607003",
     "state_name": "IMO",
     "lga_name": "IDEATO SOUTH",
+    "ward_name": "OBIOHIA",
     "document": {
       "external": false,
       "status": 1,
@@ -178,6 +182,7 @@
     "pu_code_string": "160607006",
     "state_name": "IMO",
     "lga_name": "IDEATO SOUTH",
+    "ward_name": "OBIOHIA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -208,6 +213,7 @@
     "pu_code_string": "160607005",
     "state_name": "IMO",
     "lga_name": "IDEATO SOUTH",
+    "ward_name": "OBIOHIA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -238,6 +244,7 @@
     "pu_code_string": "160607008",
     "state_name": "IMO",
     "lga_name": "IDEATO SOUTH",
+    "ward_name": "OBIOHIA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -268,6 +275,7 @@
     "pu_code_string": "160607007",
     "state_name": "IMO",
     "lga_name": "IDEATO SOUTH",
+    "ward_name": "OBIOHIA",
     "old_documents": [],
     "has_old_documents": false
   }

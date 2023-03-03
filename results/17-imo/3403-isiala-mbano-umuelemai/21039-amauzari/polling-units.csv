@@ -1,18 +1,18 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-IMO,ISIALA MBANO (UMUELEMAI),,OKWOSU HALL AMAUZARI,16/09/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/001/001-1677384442.pdf,false
-IMO,ISIALA MBANO (UMUELEMAI),,COMM. SEC. SCHOOL,16/09/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/011/011-1677378516.pdf,false
-IMO,ISIALA MBANO (UMUELEMAI),,OKWEKE VILL. HALL,16/09/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/009/009-1677373162.pdf,false
-IMO,ISIALA MBANO (UMUELEMAI),,COMM. SCH. AMAUZARI,16/09/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/007/007-1677371043.pdf,false
-IMO,ISIALA MBANO (UMUELEMAI),,PROGRESS PRI. SCHOOL,16/09/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/005/005-1677367660.pdf,false
-IMO,ISIALA MBANO (UMUELEMAI),,UMUECHDIM VILL. HALL,16/09/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/014/014-1677365663.pdf,false
-IMO,ISIALA MBANO (UMUELEMAI),,UMUAGWU HALL AMAUZARI,16/09/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/002/002-1677365511.pdf,false
-IMO,ISIALA MBANO (UMUELEMAI),,UMUNPELE HALL AMAUZARI,16/09/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/003/003-1677365350.pdf,false
-IMO,ISIALA MBANO (UMUELEMAI),,CENTRAL HALL AMAUZARI,16/09/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/004/004-1677364894.pdf,false
-IMO,ISIALA MBANO (UMUELEMAI),,TOWN SCHOOL AMAUZARI,16/09/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/010/010-1677364479.pdf,false
-IMO,ISIALA MBANO (UMUELEMAI),,UMUDIM VILL. HALL,16/09/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/008/008-1677364008.pdf,false
-IMO,ISIALA MBANO (UMUELEMAI),,ANAUZO VILLAGE HALL,16/09/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/006/006-1677362726.pdf,false
-IMO,ISIALA MBANO (UMUELEMAI),,OGBOR VILLAGE HALL,16/09/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/013/013-1677362071.pdf,false
-IMO,ISIALA MBANO (UMUELEMAI),,NDIOKWU HALL,16/09/09/015,,false
-IMO,ISIALA MBANO (UMUELEMAI),,EKWE PRI. SCH. AMAUZARI,16/09/09/012,,false
-IMO,ISIALA MBANO (UMUELEMAI),,UMUAKUM AMANKWO HALL,16/09/09/017,,false
-IMO,ISIALA MBANO (UMUELEMAI),,UMUERO CIVIC CENTRE,16/09/09/016,,false
+IMO,ISIALA MBANO (UMUELEMAI),AMAUZARI,OKWOSU HALL AMAUZARI,16/09/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/001/001-1677384442.pdf,false
+IMO,ISIALA MBANO (UMUELEMAI),AMAUZARI,COMM. SEC. SCHOOL,16/09/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/011/011-1677378516.pdf,false
+IMO,ISIALA MBANO (UMUELEMAI),AMAUZARI,OKWEKE VILL. HALL,16/09/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/009/009-1677373162.pdf,false
+IMO,ISIALA MBANO (UMUELEMAI),AMAUZARI,COMM. SCH. AMAUZARI,16/09/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/007/007-1677371043.pdf,false
+IMO,ISIALA MBANO (UMUELEMAI),AMAUZARI,PROGRESS PRI. SCHOOL,16/09/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/005/005-1677367660.pdf,false
+IMO,ISIALA MBANO (UMUELEMAI),AMAUZARI,UMUECHDIM VILL. HALL,16/09/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/014/014-1677365663.pdf,false
+IMO,ISIALA MBANO (UMUELEMAI),AMAUZARI,UMUAGWU HALL AMAUZARI,16/09/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/002/002-1677365511.pdf,false
+IMO,ISIALA MBANO (UMUELEMAI),AMAUZARI,UMUNPELE HALL AMAUZARI,16/09/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/003/003-1677365350.pdf,false
+IMO,ISIALA MBANO (UMUELEMAI),AMAUZARI,CENTRAL HALL AMAUZARI,16/09/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/004/004-1677364894.pdf,false
+IMO,ISIALA MBANO (UMUELEMAI),AMAUZARI,TOWN SCHOOL AMAUZARI,16/09/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/010/010-1677364479.pdf,false
+IMO,ISIALA MBANO (UMUELEMAI),AMAUZARI,UMUDIM VILL. HALL,16/09/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/008/008-1677364008.pdf,false
+IMO,ISIALA MBANO (UMUELEMAI),AMAUZARI,ANAUZO VILLAGE HALL,16/09/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/006/006-1677362726.pdf,false
+IMO,ISIALA MBANO (UMUELEMAI),AMAUZARI,OGBOR VILLAGE HALL,16/09/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/09/pu/013/013-1677362071.pdf,false
+IMO,ISIALA MBANO (UMUELEMAI),AMAUZARI,NDIOKWU HALL,16/09/09/015,,false
+IMO,ISIALA MBANO (UMUELEMAI),AMAUZARI,EKWE PRI. SCH. AMAUZARI,16/09/09/012,,false
+IMO,ISIALA MBANO (UMUELEMAI),AMAUZARI,UMUAKUM AMANKWO HALL,16/09/09/017,,false
+IMO,ISIALA MBANO (UMUELEMAI),AMAUZARI,UMUERO CIVIC CENTRE,16/09/09/016,,false

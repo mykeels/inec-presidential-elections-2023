@@ -26,6 +26,7 @@
     "pu_code_string": "160101030",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "160101025",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "160101017",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -133,6 +136,7 @@
     "pu_code_string": "160101024",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -164,6 +168,7 @@
     "pu_code_string": "160101014",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "document": null,
     "old_documents": [
       {
@@ -204,6 +209,7 @@
     "pu_code_string": "160101022",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -235,6 +241,7 @@
     "pu_code_string": "160101016",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "document": null,
     "old_documents": [
       {
@@ -275,6 +282,7 @@
     "pu_code_string": "160101002",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "document": null,
     "old_documents": [
       {
@@ -315,6 +323,7 @@
     "pu_code_string": "160101001",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "document": null,
     "old_documents": [
       {
@@ -355,6 +364,7 @@
     "pu_code_string": "160101009",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "document": null,
     "old_documents": [
       {
@@ -395,6 +405,7 @@
     "pu_code_string": "160101019",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -426,6 +437,7 @@
     "pu_code_string": "160101020",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -457,6 +469,7 @@
     "pu_code_string": "160101008",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -488,6 +501,7 @@
     "pu_code_string": "160101003",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "document": null,
     "old_documents": [
       {
@@ -528,6 +542,7 @@
     "pu_code_string": "160101005",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "document": null,
     "old_documents": [
       {
@@ -568,6 +583,7 @@
     "pu_code_string": "160101012",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "document": null,
     "old_documents": [
       {
@@ -608,6 +624,7 @@
     "pu_code_string": "160101007",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "document": null,
     "old_documents": [
       {
@@ -648,6 +665,7 @@
     "pu_code_string": "160101004",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "document": null,
     "old_documents": [
       {
@@ -688,6 +706,7 @@
     "pu_code_string": "160101023",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -719,6 +738,7 @@
     "pu_code_string": "160101013",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -750,6 +770,7 @@
     "pu_code_string": "160101006",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "document": null,
     "old_documents": [
       {
@@ -790,6 +811,7 @@
     "pu_code_string": "160101015",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -821,6 +843,7 @@
     "pu_code_string": "160101021",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -852,6 +875,7 @@
     "pu_code_string": "160101010",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "document": null,
     "old_documents": [
       {
@@ -892,6 +916,7 @@
     "pu_code_string": "160101011",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "document": {
       "external": false,
       "status": 1,
@@ -930,6 +955,7 @@
     "pu_code_string": "160101026",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -960,6 +986,7 @@
     "pu_code_string": "160101031",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -990,6 +1017,7 @@
     "pu_code_string": "160101029",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1020,6 +1048,7 @@
     "pu_code_string": "160101027",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1050,6 +1079,7 @@
     "pu_code_string": "160101032",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1080,6 +1110,7 @@
     "pu_code_string": "160101018",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1110,6 +1141,7 @@
     "pu_code_string": "160101028",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1140,6 +1172,7 @@
     "pu_code_string": "160101033",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "ENYIOGUGU",
     "old_documents": [],
     "has_old_documents": false
   }

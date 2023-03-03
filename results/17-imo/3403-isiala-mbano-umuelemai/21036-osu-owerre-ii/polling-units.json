@@ -26,6 +26,7 @@
     "pu_code_string": "160906006",
     "state_name": "IMO",
     "lga_name": "ISIALA MBANO (UMUELEMAI)",
+    "ward_name": "OSU-OWERRE II",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "160906005",
     "state_name": "IMO",
     "lga_name": "ISIALA MBANO (UMUELEMAI)",
+    "ward_name": "OSU-OWERRE II",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "160906007",
     "state_name": "IMO",
     "lga_name": "ISIALA MBANO (UMUELEMAI)",
+    "ward_name": "OSU-OWERRE II",
     "document": {
       "external": false,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "160906004",
     "state_name": "IMO",
     "lga_name": "ISIALA MBANO (UMUELEMAI)",
+    "ward_name": "OSU-OWERRE II",
     "document": {
       "external": false,
       "status": 1,
@@ -178,6 +182,7 @@
     "pu_code_string": "160906001",
     "state_name": "IMO",
     "lga_name": "ISIALA MBANO (UMUELEMAI)",
+    "ward_name": "OSU-OWERRE II",
     "document": {
       "external": false,
       "status": 1,
@@ -216,6 +221,7 @@
     "pu_code_string": "160906002",
     "state_name": "IMO",
     "lga_name": "ISIALA MBANO (UMUELEMAI)",
+    "ward_name": "OSU-OWERRE II",
     "document": {
       "external": false,
       "status": 1,
@@ -254,6 +260,7 @@
     "pu_code_string": "160906008",
     "state_name": "IMO",
     "lga_name": "ISIALA MBANO (UMUELEMAI)",
+    "ward_name": "OSU-OWERRE II",
     "document": {
       "external": false,
       "status": 1,
@@ -292,6 +299,7 @@
     "pu_code_string": "160906003",
     "state_name": "IMO",
     "lga_name": "ISIALA MBANO (UMUELEMAI)",
+    "ward_name": "OSU-OWERRE II",
     "document": {
       "external": false,
       "status": 1,
@@ -330,6 +338,7 @@
     "pu_code_string": "160906009",
     "state_name": "IMO",
     "lga_name": "ISIALA MBANO (UMUELEMAI)",
+    "ward_name": "OSU-OWERRE II",
     "document": {
       "external": false,
       "status": 1,
@@ -368,6 +377,7 @@
     "pu_code_string": "160906010",
     "state_name": "IMO",
     "lga_name": "ISIALA MBANO (UMUELEMAI)",
+    "ward_name": "OSU-OWERRE II",
     "document": {
       "external": false,
       "status": 1,
@@ -406,6 +416,7 @@
     "pu_code_string": "160906011",
     "state_name": "IMO",
     "lga_name": "ISIALA MBANO (UMUELEMAI)",
+    "ward_name": "OSU-OWERRE II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -436,6 +447,7 @@
     "pu_code_string": "160906015",
     "state_name": "IMO",
     "lga_name": "ISIALA MBANO (UMUELEMAI)",
+    "ward_name": "OSU-OWERRE II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -466,6 +478,7 @@
     "pu_code_string": "160906014",
     "state_name": "IMO",
     "lga_name": "ISIALA MBANO (UMUELEMAI)",
+    "ward_name": "OSU-OWERRE II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -496,6 +509,7 @@
     "pu_code_string": "160906013",
     "state_name": "IMO",
     "lga_name": "ISIALA MBANO (UMUELEMAI)",
+    "ward_name": "OSU-OWERRE II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -526,6 +540,7 @@
     "pu_code_string": "160906012",
     "state_name": "IMO",
     "lga_name": "ISIALA MBANO (UMUELEMAI)",
+    "ward_name": "OSU-OWERRE II",
     "old_documents": [],
     "has_old_documents": false
   }

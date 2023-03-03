@@ -26,6 +26,7 @@
     "pu_code_string": "161403006",
     "state_name": "IMO",
     "lga_name": "NKWERRE",
+    "ward_name": "UMUKOR (NKWERRE III)",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "161403005",
     "state_name": "IMO",
     "lga_name": "NKWERRE",
+    "ward_name": "UMUKOR (NKWERRE III)",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "161403003",
     "state_name": "IMO",
     "lga_name": "NKWERRE",
+    "ward_name": "UMUKOR (NKWERRE III)",
     "document": {
       "external": false,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "161403001",
     "state_name": "IMO",
     "lga_name": "NKWERRE",
+    "ward_name": "UMUKOR (NKWERRE III)",
     "document": {
       "external": false,
       "status": 1,
@@ -187,6 +191,7 @@
     "pu_code_string": "161403004",
     "state_name": "IMO",
     "lga_name": "NKWERRE",
+    "ward_name": "UMUKOR (NKWERRE III)",
     "document": {
       "external": false,
       "status": 1,
@@ -225,6 +230,7 @@
     "pu_code_string": "161403002",
     "state_name": "IMO",
     "lga_name": "NKWERRE",
+    "ward_name": "UMUKOR (NKWERRE III)",
     "document": {
       "external": false,
       "status": 1,
@@ -263,6 +269,7 @@
     "pu_code_string": "161403007",
     "state_name": "IMO",
     "lga_name": "NKWERRE",
+    "ward_name": "UMUKOR (NKWERRE III)",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -293,6 +300,7 @@
     "pu_code_string": "161403008",
     "state_name": "IMO",
     "lga_name": "NKWERRE",
+    "ward_name": "UMUKOR (NKWERRE III)",
     "old_documents": [],
     "has_old_documents": false
   }

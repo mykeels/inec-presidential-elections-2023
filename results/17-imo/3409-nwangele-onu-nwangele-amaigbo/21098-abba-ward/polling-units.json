@@ -26,6 +26,7 @@
     "pu_code_string": "161506003",
     "state_name": "IMO",
     "lga_name": "NWANGELE (ONU-NWANGELE AMAIGBO)",
+    "ward_name": "ABBA WARD",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -57,6 +58,7 @@
     "pu_code_string": "161506002",
     "state_name": "IMO",
     "lga_name": "NWANGELE (ONU-NWANGELE AMAIGBO)",
+    "ward_name": "ABBA WARD",
     "document": null,
     "old_documents": [
       {
@@ -97,6 +99,7 @@
     "pu_code_string": "161506015",
     "state_name": "IMO",
     "lga_name": "NWANGELE (ONU-NWANGELE AMAIGBO)",
+    "ward_name": "ABBA WARD",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -128,6 +131,7 @@
     "pu_code_string": "161506012",
     "state_name": "IMO",
     "lga_name": "NWANGELE (ONU-NWANGELE AMAIGBO)",
+    "ward_name": "ABBA WARD",
     "document": null,
     "old_documents": [
       {
@@ -168,6 +172,7 @@
     "pu_code_string": "161506010",
     "state_name": "IMO",
     "lga_name": "NWANGELE (ONU-NWANGELE AMAIGBO)",
+    "ward_name": "ABBA WARD",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -199,6 +204,7 @@
     "pu_code_string": "161506009",
     "state_name": "IMO",
     "lga_name": "NWANGELE (ONU-NWANGELE AMAIGBO)",
+    "ward_name": "ABBA WARD",
     "document": null,
     "old_documents": [
       {
@@ -239,6 +245,7 @@
     "pu_code_string": "161506008",
     "state_name": "IMO",
     "lga_name": "NWANGELE (ONU-NWANGELE AMAIGBO)",
+    "ward_name": "ABBA WARD",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -270,6 +277,7 @@
     "pu_code_string": "161506007",
     "state_name": "IMO",
     "lga_name": "NWANGELE (ONU-NWANGELE AMAIGBO)",
+    "ward_name": "ABBA WARD",
     "document": null,
     "old_documents": [
       {
@@ -310,6 +318,7 @@
     "pu_code_string": "161506001",
     "state_name": "IMO",
     "lga_name": "NWANGELE (ONU-NWANGELE AMAIGBO)",
+    "ward_name": "ABBA WARD",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -341,6 +350,7 @@
     "pu_code_string": "161506011",
     "state_name": "IMO",
     "lga_name": "NWANGELE (ONU-NWANGELE AMAIGBO)",
+    "ward_name": "ABBA WARD",
     "document": {
       "external": false,
       "status": 1,
@@ -379,6 +389,7 @@
     "pu_code_string": "161506005",
     "state_name": "IMO",
     "lga_name": "NWANGELE (ONU-NWANGELE AMAIGBO)",
+    "ward_name": "ABBA WARD",
     "document": {
       "external": false,
       "status": 1,
@@ -417,6 +428,7 @@
     "pu_code_string": "161506014",
     "state_name": "IMO",
     "lga_name": "NWANGELE (ONU-NWANGELE AMAIGBO)",
+    "ward_name": "ABBA WARD",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -447,6 +459,7 @@
     "pu_code_string": "161506004",
     "state_name": "IMO",
     "lga_name": "NWANGELE (ONU-NWANGELE AMAIGBO)",
+    "ward_name": "ABBA WARD",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -477,6 +490,7 @@
     "pu_code_string": "161506006",
     "state_name": "IMO",
     "lga_name": "NWANGELE (ONU-NWANGELE AMAIGBO)",
+    "ward_name": "ABBA WARD",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -507,6 +521,7 @@
     "pu_code_string": "161506013",
     "state_name": "IMO",
     "lga_name": "NWANGELE (ONU-NWANGELE AMAIGBO)",
+    "ward_name": "ABBA WARD",
     "old_documents": [],
     "has_old_documents": false
   }

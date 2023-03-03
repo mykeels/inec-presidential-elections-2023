@@ -26,6 +26,7 @@
     "pu_code_string": "160608003",
     "state_name": "IMO",
     "lga_name": "IDEATO SOUTH",
+    "ward_name": "OGBOKO I",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "160608007",
     "state_name": "IMO",
     "lga_name": "IDEATO SOUTH",
+    "ward_name": "OGBOKO I",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "160608006",
     "state_name": "IMO",
     "lga_name": "IDEATO SOUTH",
+    "ward_name": "OGBOKO I",
     "document": {
       "external": false,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "160608005",
     "state_name": "IMO",
     "lga_name": "IDEATO SOUTH",
+    "ward_name": "OGBOKO I",
     "document": {
       "external": false,
       "status": 1,
@@ -178,6 +182,7 @@
     "pu_code_string": "160608001",
     "state_name": "IMO",
     "lga_name": "IDEATO SOUTH",
+    "ward_name": "OGBOKO I",
     "document": {
       "external": true,
       "status": 1,
@@ -225,6 +230,7 @@
     "pu_code_string": "160608004",
     "state_name": "IMO",
     "lga_name": "IDEATO SOUTH",
+    "ward_name": "OGBOKO I",
     "document": {
       "external": false,
       "status": 1,
@@ -263,6 +269,7 @@
     "pu_code_string": "160608002",
     "state_name": "IMO",
     "lga_name": "IDEATO SOUTH",
+    "ward_name": "OGBOKO I",
     "document": {
       "external": false,
       "status": 1,
@@ -301,6 +308,7 @@
     "pu_code_string": "160608008",
     "state_name": "IMO",
     "lga_name": "IDEATO SOUTH",
+    "ward_name": "OGBOKO I",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -331,6 +339,7 @@
     "pu_code_string": "160608009",
     "state_name": "IMO",
     "lga_name": "IDEATO SOUTH",
+    "ward_name": "OGBOKO I",
     "old_documents": [],
     "has_old_documents": false
   }

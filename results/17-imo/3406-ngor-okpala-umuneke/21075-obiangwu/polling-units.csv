@@ -1,18 +1,18 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-IMO,NGOR OKPALA (UMUNEKE),,AIRPORT SQ. COMP. OBIANGWU,16/12/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/009/009-1677388374.pdf,false
-IMO,NGOR OKPALA (UMUNEKE),,EZIALA HALL OBIANGWU,16/12/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/012/012-1677372782.pdf,false
-IMO,NGOR OKPALA (UMUNEKE),,COMM. CENTRAL SCH. OBIANGWU II,16/12/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/004/004-1677394539.pdf,false
-IMO,NGOR OKPALA (UMUNEKE),,PRIMARY SCH. UMUEZE,16/12/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/011/011-1677375537.pdf,false
-IMO,NGOR OKPALA (UMUNEKE),,BY UMUCHOKO VILL. PUMP,16/12/10/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/016/016-1677372934.pdf,false
-IMO,NGOR OKPALA (UMUNEKE),,PRI. SCH. UMUEZE OBIANGWU,16/12/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/001/001-1677364900.pdf,false
-IMO,NGOR OKPALA (UMUNEKE),,UMUAGWUDE HALL UMUWAOMA,16/12/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/015/015-1677364806.pdf,false
-IMO,NGOR OKPALA (UMUNEKE),,PRI. SCHOOL UMUEZE,16/12/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/010/010-1677364786.pdf,false
-IMO,NGOR OKPALA (UMUNEKE),,COMM. SCHOOL OBIANGWU,16/12/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/002/002-1677363885.pdf,false
-IMO,NGOR OKPALA (UMUNEKE),,UMUWA-OMA VILLAGE HALL,16/12/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/006/006-1677363043.pdf,false
-IMO,NGOR OKPALA (UMUNEKE),,IN FRONT  OF NIMET AIRPORT,16/12/10/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/017/017-1677362836.pdf,false
-IMO,NGOR OKPALA (UMUNEKE),,COMM. SCHOOL  OBIANGWU,16/12/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/008/008-1677361057.pdf,false
-IMO,NGOR OKPALA (UMUNEKE),,PRI. SCH. UMUENE OBIANGWU,16/12/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/005/005-1677360867.pdf,false
-IMO,NGOR OKPALA (UMUNEKE),,COMM. SCH. UMUNEHI,16/12/10/007,,false
-IMO,NGOR OKPALA (UMUNEKE),,BY UMUARI PUBLIC PUMP UMUENE,16/12/10/014,,false
-IMO,NGOR OKPALA (UMUNEKE),,COMM. CENTRAL SCH. OBIANGWU I,16/12/10/003,,false
-IMO,NGOR OKPALA (UMUNEKE),,EKE OBIANGWU HALL,16/12/10/013,,false
+IMO,NGOR OKPALA (UMUNEKE),OBIANGWU,AIRPORT SQ. COMP. OBIANGWU,16/12/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/009/009-1677388374.pdf,false
+IMO,NGOR OKPALA (UMUNEKE),OBIANGWU,EZIALA HALL OBIANGWU,16/12/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/012/012-1677372782.pdf,false
+IMO,NGOR OKPALA (UMUNEKE),OBIANGWU,COMM. CENTRAL SCH. OBIANGWU II,16/12/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/004/004-1677394539.pdf,false
+IMO,NGOR OKPALA (UMUNEKE),OBIANGWU,PRIMARY SCH. UMUEZE,16/12/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/011/011-1677375537.pdf,false
+IMO,NGOR OKPALA (UMUNEKE),OBIANGWU,BY UMUCHOKO VILL. PUMP,16/12/10/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/016/016-1677372934.pdf,false
+IMO,NGOR OKPALA (UMUNEKE),OBIANGWU,PRI. SCH. UMUEZE OBIANGWU,16/12/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/001/001-1677364900.pdf,false
+IMO,NGOR OKPALA (UMUNEKE),OBIANGWU,UMUAGWUDE HALL UMUWAOMA,16/12/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/015/015-1677364806.pdf,false
+IMO,NGOR OKPALA (UMUNEKE),OBIANGWU,PRI. SCHOOL UMUEZE,16/12/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/010/010-1677364786.pdf,false
+IMO,NGOR OKPALA (UMUNEKE),OBIANGWU,COMM. SCHOOL OBIANGWU,16/12/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/002/002-1677363885.pdf,false
+IMO,NGOR OKPALA (UMUNEKE),OBIANGWU,UMUWA-OMA VILLAGE HALL,16/12/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/006/006-1677363043.pdf,false
+IMO,NGOR OKPALA (UMUNEKE),OBIANGWU,IN FRONT  OF NIMET AIRPORT,16/12/10/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/017/017-1677362836.pdf,false
+IMO,NGOR OKPALA (UMUNEKE),OBIANGWU,COMM. SCHOOL  OBIANGWU,16/12/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/008/008-1677361057.pdf,false
+IMO,NGOR OKPALA (UMUNEKE),OBIANGWU,PRI. SCH. UMUENE OBIANGWU,16/12/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/10/pu/005/005-1677360867.pdf,false
+IMO,NGOR OKPALA (UMUNEKE),OBIANGWU,COMM. SCH. UMUNEHI,16/12/10/007,,false
+IMO,NGOR OKPALA (UMUNEKE),OBIANGWU,BY UMUARI PUBLIC PUMP UMUENE,16/12/10/014,,false
+IMO,NGOR OKPALA (UMUNEKE),OBIANGWU,COMM. CENTRAL SCH. OBIANGWU I,16/12/10/003,,false
+IMO,NGOR OKPALA (UMUNEKE),OBIANGWU,EKE OBIANGWU HALL,16/12/10/013,,false

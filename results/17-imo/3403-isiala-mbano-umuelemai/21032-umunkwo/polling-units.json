@@ -26,6 +26,7 @@
     "pu_code_string": "160902004",
     "state_name": "IMO",
     "lga_name": "ISIALA MBANO (UMUELEMAI)",
+    "ward_name": "UMUNKWO",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -57,6 +58,7 @@
     "pu_code_string": "160902003",
     "state_name": "IMO",
     "lga_name": "ISIALA MBANO (UMUELEMAI)",
+    "ward_name": "UMUNKWO",
     "document": {
       "external": false,
       "status": 1,
@@ -95,6 +97,7 @@
     "pu_code_string": "160902007",
     "state_name": "IMO",
     "lga_name": "ISIALA MBANO (UMUELEMAI)",
+    "ward_name": "UMUNKWO",
     "document": {
       "external": false,
       "status": 1,
@@ -133,6 +136,7 @@
     "pu_code_string": "160902005",
     "state_name": "IMO",
     "lga_name": "ISIALA MBANO (UMUELEMAI)",
+    "ward_name": "UMUNKWO",
     "document": {
       "external": false,
       "status": 1,
@@ -171,6 +175,7 @@
     "pu_code_string": "160902008",
     "state_name": "IMO",
     "lga_name": "ISIALA MBANO (UMUELEMAI)",
+    "ward_name": "UMUNKWO",
     "document": {
       "external": false,
       "status": 1,
@@ -209,6 +214,7 @@
     "pu_code_string": "160902002",
     "state_name": "IMO",
     "lga_name": "ISIALA MBANO (UMUELEMAI)",
+    "ward_name": "UMUNKWO",
     "document": {
       "external": false,
       "status": 1,
@@ -247,6 +253,7 @@
     "pu_code_string": "160902006",
     "state_name": "IMO",
     "lga_name": "ISIALA MBANO (UMUELEMAI)",
+    "ward_name": "UMUNKWO",
     "document": {
       "external": false,
       "status": 1,
@@ -285,6 +292,7 @@
     "pu_code_string": "160902009",
     "state_name": "IMO",
     "lga_name": "ISIALA MBANO (UMUELEMAI)",
+    "ward_name": "UMUNKWO",
     "document": {
       "external": false,
       "status": 1,
@@ -323,6 +331,7 @@
     "pu_code_string": "160902001",
     "state_name": "IMO",
     "lga_name": "ISIALA MBANO (UMUELEMAI)",
+    "ward_name": "UMUNKWO",
     "document": {
       "external": false,
       "status": 1,
@@ -361,6 +370,7 @@
     "pu_code_string": "160902010",
     "state_name": "IMO",
     "lga_name": "ISIALA MBANO (UMUELEMAI)",
+    "ward_name": "UMUNKWO",
     "old_documents": [],
     "has_old_documents": false
   }

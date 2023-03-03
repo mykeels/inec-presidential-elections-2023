@@ -26,6 +26,7 @@
     "pu_code_string": "160504011",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "AKWU OWERRE",
     "document": {
       "external": false,
       "status": 1,
@@ -73,6 +74,7 @@
     "pu_code_string": "160504003",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "AKWU OWERRE",
     "document": {
       "external": false,
       "status": 1,
@@ -111,6 +113,7 @@
     "pu_code_string": "160504006",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "AKWU OWERRE",
     "document": {
       "external": false,
       "status": 1,
@@ -149,6 +152,7 @@
     "pu_code_string": "160504001",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "AKWU OWERRE",
     "document": {
       "external": false,
       "status": 1,
@@ -187,6 +191,7 @@
     "pu_code_string": "160504009",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "AKWU OWERRE",
     "document": {
       "external": false,
       "status": 1,
@@ -225,6 +230,7 @@
     "pu_code_string": "160504005",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "AKWU OWERRE",
     "document": {
       "external": false,
       "status": 1,
@@ -263,6 +269,7 @@
     "pu_code_string": "160504010",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "AKWU OWERRE",
     "document": {
       "external": false,
       "status": 1,
@@ -301,6 +308,7 @@
     "pu_code_string": "160504004",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "AKWU OWERRE",
     "document": {
       "external": false,
       "status": 1,
@@ -339,6 +347,7 @@
     "pu_code_string": "160504007",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "AKWU OWERRE",
     "document": {
       "external": false,
       "status": 1,
@@ -377,6 +386,7 @@
     "pu_code_string": "160504008",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "AKWU OWERRE",
     "document": {
       "external": false,
       "status": 1,
@@ -415,6 +425,7 @@
     "pu_code_string": "160504002",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "AKWU OWERRE",
     "document": {
       "external": false,
       "status": 1,
@@ -453,6 +464,7 @@
     "pu_code_string": "160504014",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "AKWU OWERRE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -483,6 +495,7 @@
     "pu_code_string": "160504013",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "AKWU OWERRE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -513,6 +526,7 @@
     "pu_code_string": "160504012",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "AKWU OWERRE",
     "old_documents": [],
     "has_old_documents": false
   }

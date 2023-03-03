@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-IMO,EHIME MBANO,,UMUEZE I TECHNICAL SCHOOL,16/03/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3397/ward/20968/pu/45093/45093-1677796765.pdf,false
-IMO,EHIME MBANO,,UMUEHI HALL,16/03/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3397/ward/20968/pu/45088/45088-1677796673.pdf,false
-IMO,EHIME MBANO,,UMUARUGO HALL,16/03/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3397/ward/20968/pu/45090/45090-1677796558.pdf,true
-IMO,EHIME MBANO,,CENTRAL SCHOOL UMUEZE II,16/03/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3397/ward/20968/pu/45087/45087-1677795875.pdf,true
-IMO,EHIME MBANO,,CENTRAL SCHOOL UMUEZE I,16/03/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/10/pu/007/007-1677397345.pdf,false
-IMO,EHIME MBANO,,CENTRAL SCHOOL UMUEZE I,16/03/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/10/pu/001/001-1677375217.pdf,false
-IMO,EHIME MBANO,,UMUODU HALL,16/03/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/10/pu/004/004-1677367596.pdf,false
-IMO,EHIME MBANO,,UMUEZEALAJI UMUODU SQUARE,16/03/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/10/pu/009/009-1677366894.pdf,false
-IMO,EHIME MBANO,,UMUNUME HALL UMUALUWAKA,16/03/10/012,,false
-IMO,EHIME MBANO,,UMUONYIA HALL,16/03/10/006,,false
-IMO,EHIME MBANO,,UMUAWUCHI AMA UMUEZE HALL,16/03/10/011,,false
-IMO,EHIME MBANO,,COMMUNITY SCHOOL UMUEZE 1,16/03/10/010,,false
-IMO,EHIME MBANO,,UMUAWUCHI OWERRE HALL,16/03/10/013,,false
+IMO,EHIME MBANO,UMUEZE I,UMUEZE I TECHNICAL SCHOOL,16/03/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3397/ward/20968/pu/45093/45093-1677796765.pdf,false
+IMO,EHIME MBANO,UMUEZE I,UMUEHI HALL,16/03/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3397/ward/20968/pu/45088/45088-1677796673.pdf,false
+IMO,EHIME MBANO,UMUEZE I,UMUARUGO HALL,16/03/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3397/ward/20968/pu/45090/45090-1677796558.pdf,true
+IMO,EHIME MBANO,UMUEZE I,CENTRAL SCHOOL UMUEZE II,16/03/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3397/ward/20968/pu/45087/45087-1677795875.pdf,true
+IMO,EHIME MBANO,UMUEZE I,CENTRAL SCHOOL UMUEZE I,16/03/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/10/pu/007/007-1677397345.pdf,false
+IMO,EHIME MBANO,UMUEZE I,CENTRAL SCHOOL UMUEZE I,16/03/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/10/pu/001/001-1677375217.pdf,false
+IMO,EHIME MBANO,UMUEZE I,UMUODU HALL,16/03/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/10/pu/004/004-1677367596.pdf,false
+IMO,EHIME MBANO,UMUEZE I,UMUEZEALAJI UMUODU SQUARE,16/03/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/10/pu/009/009-1677366894.pdf,false
+IMO,EHIME MBANO,UMUEZE I,UMUNUME HALL UMUALUWAKA,16/03/10/012,,false
+IMO,EHIME MBANO,UMUEZE I,UMUONYIA HALL,16/03/10/006,,false
+IMO,EHIME MBANO,UMUEZE I,UMUAWUCHI AMA UMUEZE HALL,16/03/10/011,,false
+IMO,EHIME MBANO,UMUEZE I,COMMUNITY SCHOOL UMUEZE 1,16/03/10/010,,false
+IMO,EHIME MBANO,UMUEZE I,UMUAWUCHI OWERRE HALL,16/03/10/013,,false

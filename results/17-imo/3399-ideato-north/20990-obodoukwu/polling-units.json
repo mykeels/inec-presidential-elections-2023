@@ -26,6 +26,7 @@
     "pu_code_string": "160509015",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "OBODOUKWU",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "160509012",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "OBODOUKWU",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "160509014",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "OBODOUKWU",
     "document": {
       "external": false,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "160509004",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "OBODOUKWU",
     "document": {
       "external": false,
       "status": 1,
@@ -178,6 +182,7 @@
     "pu_code_string": "160509013",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "OBODOUKWU",
     "document": {
       "external": false,
       "status": 1,
@@ -216,6 +221,7 @@
     "pu_code_string": "160509007",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "OBODOUKWU",
     "document": {
       "external": false,
       "status": 1,
@@ -254,6 +260,7 @@
     "pu_code_string": "160509018",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "OBODOUKWU",
     "document": {
       "external": false,
       "status": 1,
@@ -292,6 +299,7 @@
     "pu_code_string": "160509016",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "OBODOUKWU",
     "document": {
       "external": false,
       "status": 1,
@@ -330,6 +338,7 @@
     "pu_code_string": "160509005",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "OBODOUKWU",
     "document": {
       "external": false,
       "status": 1,
@@ -368,6 +377,7 @@
     "pu_code_string": "160509008",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "OBODOUKWU",
     "document": {
       "external": false,
       "status": 1,
@@ -406,6 +416,7 @@
     "pu_code_string": "160509017",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "OBODOUKWU",
     "document": {
       "external": false,
       "status": 1,
@@ -444,6 +455,7 @@
     "pu_code_string": "160509006",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "OBODOUKWU",
     "document": {
       "external": false,
       "status": 1,
@@ -482,6 +494,7 @@
     "pu_code_string": "160509003",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "OBODOUKWU",
     "document": {
       "external": false,
       "status": 1,
@@ -520,6 +533,7 @@
     "pu_code_string": "160509009",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "OBODOUKWU",
     "document": {
       "external": false,
       "status": 1,
@@ -558,6 +572,7 @@
     "pu_code_string": "160509001",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "OBODOUKWU",
     "document": {
       "external": false,
       "status": 1,
@@ -596,6 +611,7 @@
     "pu_code_string": "160509002",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "OBODOUKWU",
     "document": {
       "external": false,
       "status": 1,
@@ -634,6 +650,7 @@
     "pu_code_string": "160509011",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "OBODOUKWU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -664,6 +681,7 @@
     "pu_code_string": "160509010",
     "state_name": "IMO",
     "lga_name": "IDEATO NORTH",
+    "ward_name": "OBODOUKWU",
     "old_documents": [],
     "has_old_documents": false
   }

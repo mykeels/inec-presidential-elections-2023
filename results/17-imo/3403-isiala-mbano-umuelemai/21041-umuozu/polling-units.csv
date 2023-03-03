@@ -1,8 +1,8 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-IMO,ISIALA MBANO (UMUELEMAI),,UMUOZU SEC. SCH.,16/09/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/003/003-1677373611.pdf,false
-IMO,ISIALA MBANO (UMUELEMAI),,UMUEZEALAIRE HALL,16/09/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/004/004-1677372501.pdf,false
-IMO,ISIALA MBANO (UMUELEMAI),,UMUHIEOFO TOWN HALL,16/09/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/005/005-1677368042.pdf,false
-IMO,ISIALA MBANO (UMUELEMAI),,UMUCHOKO TOWN HALL,16/09/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/006/006-1677367268.pdf,false
-IMO,ISIALA MBANO (UMUELEMAI),,OFOAZIRI PRI. SCH.,16/09/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/001/001-1677363720.pdf,false
-IMO,ISIALA MBANO (UMUELEMAI),,COMM. SCHOOL UMUOZU,16/09/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/002/002-1677362702.pdf,false
-IMO,ISIALA MBANO (UMUELEMAI),,UMUDURUOLUWE VILLAGE HALL,16/09/11/007,,false
+IMO,ISIALA MBANO (UMUELEMAI),UMUOZU,UMUOZU SEC. SCH.,16/09/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/003/003-1677373611.pdf,false
+IMO,ISIALA MBANO (UMUELEMAI),UMUOZU,UMUEZEALAIRE HALL,16/09/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/004/004-1677372501.pdf,false
+IMO,ISIALA MBANO (UMUELEMAI),UMUOZU,UMUHIEOFO TOWN HALL,16/09/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/005/005-1677368042.pdf,false
+IMO,ISIALA MBANO (UMUELEMAI),UMUOZU,UMUCHOKO TOWN HALL,16/09/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/006/006-1677367268.pdf,false
+IMO,ISIALA MBANO (UMUELEMAI),UMUOZU,OFOAZIRI PRI. SCH.,16/09/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/001/001-1677363720.pdf,false
+IMO,ISIALA MBANO (UMUELEMAI),UMUOZU,COMM. SCHOOL UMUOZU,16/09/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/11/pu/002/002-1677362702.pdf,false
+IMO,ISIALA MBANO (UMUELEMAI),UMUOZU,UMUDURUOLUWE VILLAGE HALL,16/09/11/007,,false

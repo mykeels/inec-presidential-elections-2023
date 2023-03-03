@@ -26,6 +26,7 @@
     "pu_code_string": "160603012",
     "state_name": "IMO",
     "lga_name": "IDEATO SOUTH",
+    "ward_name": "ISIEKENESI I",
     "document": {
       "external": false,
       "status": 1,
@@ -73,6 +74,7 @@
     "pu_code_string": "160603011",
     "state_name": "IMO",
     "lga_name": "IDEATO SOUTH",
+    "ward_name": "ISIEKENESI I",
     "document": {
       "external": false,
       "status": 1,
@@ -111,6 +113,7 @@
     "pu_code_string": "160603010",
     "state_name": "IMO",
     "lga_name": "IDEATO SOUTH",
+    "ward_name": "ISIEKENESI I",
     "document": {
       "external": false,
       "status": 1,
@@ -149,6 +152,7 @@
     "pu_code_string": "160603009",
     "state_name": "IMO",
     "lga_name": "IDEATO SOUTH",
+    "ward_name": "ISIEKENESI I",
     "document": {
       "external": false,
       "status": 1,
@@ -187,6 +191,7 @@
     "pu_code_string": "160603006",
     "state_name": "IMO",
     "lga_name": "IDEATO SOUTH",
+    "ward_name": "ISIEKENESI I",
     "document": {
       "external": false,
       "status": 1,
@@ -234,6 +239,7 @@
     "pu_code_string": "160603004",
     "state_name": "IMO",
     "lga_name": "IDEATO SOUTH",
+    "ward_name": "ISIEKENESI I",
     "document": {
       "external": false,
       "status": 1,
@@ -272,6 +278,7 @@
     "pu_code_string": "160603003",
     "state_name": "IMO",
     "lga_name": "IDEATO SOUTH",
+    "ward_name": "ISIEKENESI I",
     "document": {
       "external": false,
       "status": 1,
@@ -310,6 +317,7 @@
     "pu_code_string": "160603008",
     "state_name": "IMO",
     "lga_name": "IDEATO SOUTH",
+    "ward_name": "ISIEKENESI I",
     "document": {
       "external": false,
       "status": 1,
@@ -348,6 +356,7 @@
     "pu_code_string": "160603007",
     "state_name": "IMO",
     "lga_name": "IDEATO SOUTH",
+    "ward_name": "ISIEKENESI I",
     "document": {
       "external": false,
       "status": 1,
@@ -386,6 +395,7 @@
     "pu_code_string": "160603005",
     "state_name": "IMO",
     "lga_name": "IDEATO SOUTH",
+    "ward_name": "ISIEKENESI I",
     "document": {
       "external": false,
       "status": 1,
@@ -424,6 +434,7 @@
     "pu_code_string": "160603001",
     "state_name": "IMO",
     "lga_name": "IDEATO SOUTH",
+    "ward_name": "ISIEKENESI I",
     "document": {
       "external": false,
       "status": 1,
@@ -462,6 +473,7 @@
     "pu_code_string": "160603002",
     "state_name": "IMO",
     "lga_name": "IDEATO SOUTH",
+    "ward_name": "ISIEKENESI I",
     "old_documents": [],
     "has_old_documents": false
   }

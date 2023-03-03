@@ -26,6 +26,7 @@
     "pu_code_string": "160103014",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "NGURU-NWENKWO",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "160103020",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "NGURU-NWENKWO",
     "document": {
       "external": false,
       "status": 1,
@@ -111,6 +113,7 @@
     "pu_code_string": "160103023",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "NGURU-NWENKWO",
     "document": {
       "external": false,
       "status": 1,
@@ -149,6 +152,7 @@
     "pu_code_string": "160103022",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "NGURU-NWENKWO",
     "document": {
       "external": false,
       "status": 1,
@@ -187,6 +191,7 @@
     "pu_code_string": "160103016",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "NGURU-NWENKWO",
     "document": {
       "external": false,
       "status": 1,
@@ -225,6 +230,7 @@
     "pu_code_string": "160103015",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "NGURU-NWENKWO",
     "document": {
       "external": false,
       "status": 1,
@@ -263,6 +269,7 @@
     "pu_code_string": "160103002",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "NGURU-NWENKWO",
     "document": {
       "external": false,
       "status": 1,
@@ -301,6 +308,7 @@
     "pu_code_string": "160103011",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "NGURU-NWENKWO",
     "document": {
       "external": false,
       "status": 1,
@@ -339,6 +347,7 @@
     "pu_code_string": "160103010",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "NGURU-NWENKWO",
     "document": {
       "external": false,
       "status": 1,
@@ -377,6 +386,7 @@
     "pu_code_string": "160103009",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "NGURU-NWENKWO",
     "document": {
       "external": false,
       "status": 1,
@@ -415,6 +425,7 @@
     "pu_code_string": "160103008",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "NGURU-NWENKWO",
     "document": {
       "external": false,
       "status": 1,
@@ -453,6 +464,7 @@
     "pu_code_string": "160103005",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "NGURU-NWENKWO",
     "document": {
       "external": false,
       "status": 1,
@@ -491,6 +503,7 @@
     "pu_code_string": "160103004",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "NGURU-NWENKWO",
     "document": {
       "external": false,
       "status": 1,
@@ -529,6 +542,7 @@
     "pu_code_string": "160103006",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "NGURU-NWENKWO",
     "document": {
       "external": false,
       "status": 1,
@@ -567,6 +581,7 @@
     "pu_code_string": "160103001",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "NGURU-NWENKWO",
     "document": {
       "external": false,
       "status": 1,
@@ -605,6 +620,7 @@
     "pu_code_string": "160103007",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "NGURU-NWENKWO",
     "document": {
       "external": false,
       "status": 1,
@@ -643,6 +659,7 @@
     "pu_code_string": "160103019",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "NGURU-NWENKWO",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -673,6 +690,7 @@
     "pu_code_string": "160103003",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "NGURU-NWENKWO",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -703,6 +721,7 @@
     "pu_code_string": "160103013",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "NGURU-NWENKWO",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -733,6 +752,7 @@
     "pu_code_string": "160103018",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "NGURU-NWENKWO",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -763,6 +783,7 @@
     "pu_code_string": "160103021",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "NGURU-NWENKWO",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -793,6 +814,7 @@
     "pu_code_string": "160103012",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "NGURU-NWENKWO",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -823,6 +845,7 @@
     "pu_code_string": "160103017",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "NGURU-NWENKWO",
     "old_documents": [],
     "has_old_documents": false
   }

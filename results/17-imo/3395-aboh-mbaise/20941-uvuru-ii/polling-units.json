@@ -26,6 +26,7 @@
     "pu_code_string": "160107004",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "UVURU II",
     "document": null,
     "old_documents": [
       {
@@ -66,6 +67,7 @@
     "pu_code_string": "160107009",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "UVURU II",
     "document": null,
     "old_documents": [
       {
@@ -106,6 +108,7 @@
     "pu_code_string": "160107002",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "UVURU II",
     "document": null,
     "old_documents": [
       {
@@ -146,6 +149,7 @@
     "pu_code_string": "160107001",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "UVURU II",
     "document": null,
     "old_documents": [
       {
@@ -186,6 +190,7 @@
     "pu_code_string": "160107007",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "UVURU II",
     "document": null,
     "old_documents": [
       {
@@ -226,6 +231,7 @@
     "pu_code_string": "160107005",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "UVURU II",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -257,6 +263,7 @@
     "pu_code_string": "160107003",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "UVURU II",
     "document": null,
     "old_documents": [
       {
@@ -297,6 +304,7 @@
     "pu_code_string": "160107008",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "UVURU II",
     "document": null,
     "old_documents": [
       {
@@ -337,6 +345,7 @@
     "pu_code_string": "160107006",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "UVURU II",
     "document": null,
     "old_documents": [
       {
@@ -377,6 +386,7 @@
     "pu_code_string": "160107012",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "UVURU II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -407,6 +417,7 @@
     "pu_code_string": "160107011",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "UVURU II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -437,6 +448,7 @@
     "pu_code_string": "160107010",
     "state_name": "IMO",
     "lga_name": "ABOH MBAISE",
+    "ward_name": "UVURU II",
     "old_documents": [],
     "has_old_documents": false
   }

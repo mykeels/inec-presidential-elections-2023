@@ -1,11 +1,11 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-IMO,EHIME MBANO,,COMMUNITY SCHOOL UMUKABIA,16/03/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/02/pu/002/002-1677371881.pdf,false
-IMO,EHIME MBANO,,AMANO PRIMARY UMUKABIA I,16/03/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/02/pu/003/003-1677370998.pdf,false
-IMO,EHIME MBANO,,CENTRAL SCHOOL UMUKABIA,16/03/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/02/pu/007/007-1677368945.pdf,false
-IMO,EHIME MBANO,,AMANO PRIMARY UMUKABIA II,16/03/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/02/pu/004/004-1677368081.pdf,false
-IMO,EHIME MBANO,,UMUODE CIVIC HALL,16/03/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/02/pu/001/001-1677367012.pdf,false
-IMO,EHIME MBANO,,UMUOWERRE HALL,16/03/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/02/pu/008/008-1677363704.pdf,false
-IMO,EHIME MBANO,,CENTRAL SCHOOL UMUKABIA,16/03/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/02/pu/005/005-1677362060.pdf,false
-IMO,EHIME MBANO,,UMUODU HALL,16/03/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/02/pu/006/006-1677359857.pdf,false
-IMO,EHIME MBANO,,ODENAEZEALA UMUKABIA TOWN HALL,16/03/02/010,,false
-IMO,EHIME MBANO,,UMUOBI UMUEZEALA UMUKABIA TOWN HALL,16/03/02/009,,false
+IMO,EHIME MBANO,UMUKABIA,COMMUNITY SCHOOL UMUKABIA,16/03/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/02/pu/002/002-1677371881.pdf,false
+IMO,EHIME MBANO,UMUKABIA,AMANO PRIMARY UMUKABIA I,16/03/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/02/pu/003/003-1677370998.pdf,false
+IMO,EHIME MBANO,UMUKABIA,CENTRAL SCHOOL UMUKABIA,16/03/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/02/pu/007/007-1677368945.pdf,false
+IMO,EHIME MBANO,UMUKABIA,AMANO PRIMARY UMUKABIA II,16/03/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/02/pu/004/004-1677368081.pdf,false
+IMO,EHIME MBANO,UMUKABIA,UMUODE CIVIC HALL,16/03/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/02/pu/001/001-1677367012.pdf,false
+IMO,EHIME MBANO,UMUKABIA,UMUOWERRE HALL,16/03/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/02/pu/008/008-1677363704.pdf,false
+IMO,EHIME MBANO,UMUKABIA,CENTRAL SCHOOL UMUKABIA,16/03/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/02/pu/005/005-1677362060.pdf,false
+IMO,EHIME MBANO,UMUKABIA,UMUODU HALL,16/03/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/02/pu/006/006-1677359857.pdf,false
+IMO,EHIME MBANO,UMUKABIA,ODENAEZEALA UMUKABIA TOWN HALL,16/03/02/010,,false
+IMO,EHIME MBANO,UMUKABIA,UMUOBI UMUEZEALA UMUKABIA TOWN HALL,16/03/02/009,,false

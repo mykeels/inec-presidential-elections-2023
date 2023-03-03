@@ -26,6 +26,7 @@
     "pu_code_string": "161410015",
     "state_name": "IMO",
     "lga_name": "NKWERRE",
+    "ward_name": "EZIAMA OBAIRE",
     "document": {
       "external": false,
       "status": 1,
@@ -73,6 +74,7 @@
     "pu_code_string": "161410012",
     "state_name": "IMO",
     "lga_name": "NKWERRE",
+    "ward_name": "EZIAMA OBAIRE",
     "document": {
       "external": false,
       "status": 1,
@@ -111,6 +113,7 @@
     "pu_code_string": "161410017",
     "state_name": "IMO",
     "lga_name": "NKWERRE",
+    "ward_name": "EZIAMA OBAIRE",
     "document": {
       "external": false,
       "status": 1,
@@ -149,6 +152,7 @@
     "pu_code_string": "161410016",
     "state_name": "IMO",
     "lga_name": "NKWERRE",
+    "ward_name": "EZIAMA OBAIRE",
     "document": {
       "external": false,
       "status": 1,
@@ -187,6 +191,7 @@
     "pu_code_string": "161410005",
     "state_name": "IMO",
     "lga_name": "NKWERRE",
+    "ward_name": "EZIAMA OBAIRE",
     "document": {
       "external": false,
       "status": 1,
@@ -225,6 +230,7 @@
     "pu_code_string": "161410004",
     "state_name": "IMO",
     "lga_name": "NKWERRE",
+    "ward_name": "EZIAMA OBAIRE",
     "document": {
       "external": false,
       "status": 1,
@@ -263,6 +269,7 @@
     "pu_code_string": "161410003",
     "state_name": "IMO",
     "lga_name": "NKWERRE",
+    "ward_name": "EZIAMA OBAIRE",
     "document": {
       "external": false,
       "status": 1,
@@ -301,6 +308,7 @@
     "pu_code_string": "161410002",
     "state_name": "IMO",
     "lga_name": "NKWERRE",
+    "ward_name": "EZIAMA OBAIRE",
     "document": {
       "external": false,
       "status": 1,
@@ -339,6 +347,7 @@
     "pu_code_string": "161410007",
     "state_name": "IMO",
     "lga_name": "NKWERRE",
+    "ward_name": "EZIAMA OBAIRE",
     "document": {
       "external": false,
       "status": 1,
@@ -377,6 +386,7 @@
     "pu_code_string": "161410010",
     "state_name": "IMO",
     "lga_name": "NKWERRE",
+    "ward_name": "EZIAMA OBAIRE",
     "document": {
       "external": false,
       "status": 1,
@@ -415,6 +425,7 @@
     "pu_code_string": "161410011",
     "state_name": "IMO",
     "lga_name": "NKWERRE",
+    "ward_name": "EZIAMA OBAIRE",
     "document": {
       "external": false,
       "status": 1,
@@ -453,6 +464,7 @@
     "pu_code_string": "161410008",
     "state_name": "IMO",
     "lga_name": "NKWERRE",
+    "ward_name": "EZIAMA OBAIRE",
     "document": {
       "external": false,
       "status": 1,
@@ -491,6 +503,7 @@
     "pu_code_string": "161410001",
     "state_name": "IMO",
     "lga_name": "NKWERRE",
+    "ward_name": "EZIAMA OBAIRE",
     "document": {
       "external": false,
       "status": 1,
@@ -529,6 +542,7 @@
     "pu_code_string": "161410009",
     "state_name": "IMO",
     "lga_name": "NKWERRE",
+    "ward_name": "EZIAMA OBAIRE",
     "document": {
       "external": false,
       "status": 1,
@@ -567,6 +581,7 @@
     "pu_code_string": "161410006",
     "state_name": "IMO",
     "lga_name": "NKWERRE",
+    "ward_name": "EZIAMA OBAIRE",
     "document": {
       "external": false,
       "status": 1,
@@ -605,6 +620,7 @@
     "pu_code_string": "161410013",
     "state_name": "IMO",
     "lga_name": "NKWERRE",
+    "ward_name": "EZIAMA OBAIRE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -635,6 +651,7 @@
     "pu_code_string": "161410014",
     "state_name": "IMO",
     "lga_name": "NKWERRE",
+    "ward_name": "EZIAMA OBAIRE",
     "old_documents": [],
     "has_old_documents": false
   }

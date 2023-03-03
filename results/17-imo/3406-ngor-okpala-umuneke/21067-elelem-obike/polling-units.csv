@@ -1,17 +1,17 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-IMO,NGOR OKPALA (UMUNEKE),,PRI. SCH. EBIKORO OBIKE,16/12/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/006/006-1677396321.pdf,false
-IMO,NGOR OKPALA (UMUNEKE),,COMM. CENTRAL SCH. ELELEM,16/12/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/002/002-1677392803.pdf,false
-IMO,NGOR OKPALA (UMUNEKE),,CENTRAL SCH. OBIKE,16/12/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/004/004-1677376685.pdf,false
-IMO,NGOR OKPALA (UMUNEKE),,"CENTRAL SCH. UMUAGII, OBIKE",16/12/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/012/012-1677374687.pdf,false
-IMO,NGOR OKPALA (UMUNEKE),,COMM. CENT. SCH. ELELEM,16/12/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/009/009-1677359027.pdf,false
-IMO,NGOR OKPALA (UMUNEKE),,"HEALTH CENTRE, UMUOFOR OBIKE",16/12/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/016/016-1677414987.pdf,false
-IMO,NGOR OKPALA (UMUNEKE),,UMUICHE/UMUAKIRI SQ. ELELEM,16/12/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/014/014-1677364234.pdf,false
-IMO,NGOR OKPALA (UMUNEKE),,AMALA OBIKE VILL. SQ. OBIKE,16/12/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/015/015-1677395820.pdf,false
-IMO,NGOR OKPALA (UMUNEKE),,COMM. SCH. UMUOYERE OBIKE,16/12/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/011/011-1677369490.pdf,false
-IMO,NGOR OKPALA (UMUNEKE),,PRI. SCH. UMUEME OBIKE,16/12/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/005/005-1677366563.pdf,false
-IMO,NGOR OKPALA (UMUNEKE),,COMM. SCHOOL OBIKE,16/12/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/001/001-1677364445.pdf,false
-IMO,NGOR OKPALA (UMUNEKE),,OCHICHA SQ. OBIKE,16/12/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/007/007-1677363569.pdf,false
-IMO,NGOR OKPALA (UMUNEKE),,PRIMARY SCH. OKWUNOLA OBIKE,16/12/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/010/010-1677361432.pdf,false
-IMO,NGOR OKPALA (UMUNEKE),,UMUOKA VILLAGE SQUARE ELELEM,16/12/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/003/003-1677361032.pdf,false
-IMO,NGOR OKPALA (UMUNEKE),,LA-PRI. SCH. UMUECHEM ELELEM,16/12/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/008/008-1677360541.pdf,false
-IMO,NGOR OKPALA (UMUNEKE),,UMUAGHARA ELELEM COMM. HALL,16/12/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/013/013-1677359989.pdf,false
+IMO,NGOR OKPALA (UMUNEKE),ELELEM/OBIKE,PRI. SCH. EBIKORO OBIKE,16/12/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/006/006-1677396321.pdf,false
+IMO,NGOR OKPALA (UMUNEKE),ELELEM/OBIKE,COMM. CENTRAL SCH. ELELEM,16/12/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/002/002-1677392803.pdf,false
+IMO,NGOR OKPALA (UMUNEKE),ELELEM/OBIKE,CENTRAL SCH. OBIKE,16/12/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/004/004-1677376685.pdf,false
+IMO,NGOR OKPALA (UMUNEKE),ELELEM/OBIKE,"CENTRAL SCH. UMUAGII, OBIKE",16/12/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/012/012-1677374687.pdf,false
+IMO,NGOR OKPALA (UMUNEKE),ELELEM/OBIKE,COMM. CENT. SCH. ELELEM,16/12/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/009/009-1677359027.pdf,false
+IMO,NGOR OKPALA (UMUNEKE),ELELEM/OBIKE,"HEALTH CENTRE, UMUOFOR OBIKE",16/12/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/016/016-1677414987.pdf,false
+IMO,NGOR OKPALA (UMUNEKE),ELELEM/OBIKE,UMUICHE/UMUAKIRI SQ. ELELEM,16/12/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/014/014-1677364234.pdf,false
+IMO,NGOR OKPALA (UMUNEKE),ELELEM/OBIKE,AMALA OBIKE VILL. SQ. OBIKE,16/12/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/015/015-1677395820.pdf,false
+IMO,NGOR OKPALA (UMUNEKE),ELELEM/OBIKE,COMM. SCH. UMUOYERE OBIKE,16/12/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/011/011-1677369490.pdf,false
+IMO,NGOR OKPALA (UMUNEKE),ELELEM/OBIKE,PRI. SCH. UMUEME OBIKE,16/12/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/005/005-1677366563.pdf,false
+IMO,NGOR OKPALA (UMUNEKE),ELELEM/OBIKE,COMM. SCHOOL OBIKE,16/12/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/001/001-1677364445.pdf,false
+IMO,NGOR OKPALA (UMUNEKE),ELELEM/OBIKE,OCHICHA SQ. OBIKE,16/12/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/007/007-1677363569.pdf,false
+IMO,NGOR OKPALA (UMUNEKE),ELELEM/OBIKE,PRIMARY SCH. OKWUNOLA OBIKE,16/12/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/010/010-1677361432.pdf,false
+IMO,NGOR OKPALA (UMUNEKE),ELELEM/OBIKE,UMUOKA VILLAGE SQUARE ELELEM,16/12/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/003/003-1677361032.pdf,false
+IMO,NGOR OKPALA (UMUNEKE),ELELEM/OBIKE,LA-PRI. SCH. UMUECHEM ELELEM,16/12/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/008/008-1677360541.pdf,false
+IMO,NGOR OKPALA (UMUNEKE),ELELEM/OBIKE,UMUAGHARA ELELEM COMM. HALL,16/12/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/02/pu/013/013-1677359989.pdf,false

@@ -1,18 +1,18 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-IMO,MBAITOLI (NWAORIEUBI),,IHITTE UMUAKANNE CENTER,16/11/01/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21054/pu/143400/143400-1677752808.pdf,false
-IMO,MBAITOLI (NWAORIEUBI),,OGWA HALL,16/11/01/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21054/pu/46059/46059-1677752709.pdf,true
-IMO,MBAITOLI (NWAORIEUBI),,AMAIGBO HALL,16/11/01/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21054/pu/46058/46058-1677752610.pdf,false
-IMO,MBAITOLI (NWAORIEUBI),,UMUAGHA VILL. SQUARE,16/11/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21054/pu/46057/46057-1677752508.pdf,false
-IMO,MBAITOLI (NWAORIEUBI),,COMMUNITY SCH.  AFARA,16/11/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21054/pu/46056/46056-1677752385.pdf,false
-IMO,MBAITOLI (NWAORIEUBI),,COMMUNITY SCH. OTURA II,16/11/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21054/pu/46055/46055-1677752263.pdf,false
-IMO,MBAITOLI (NWAORIEUBI),,COMMUNITY SCH. OTURA I,16/11/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21054/pu/46054/46054-1677752161.pdf,true
-IMO,MBAITOLI (NWAORIEUBI),,NKWOKWU PRI. SCH. I,16/11/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21054/pu/46052/46052-1677751916.pdf,false
-IMO,MBAITOLI (NWAORIEUBI),,CENTRAL SCH. EZIAMA OBIATO,16/11/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21054/pu/46051/46051-1677751821.pdf,false
-IMO,MBAITOLI (NWAORIEUBI),,UMUAHIAMII VILLAGE HALL,16/11/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21054/pu/46050/46050-1677751703.pdf,true
-IMO,MBAITOLI (NWAORIEUBI),,HOLY TRINITY NURSERY SCH. IHITTE,16/11/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21054/pu/46049/46049-1677751610.pdf,false
-IMO,MBAITOLI (NWAORIEUBI),,CENTRAL SCH. AFARA,16/11/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21054/pu/46048/46048-1677751469.pdf,false
-IMO,MBAITOLI (NWAORIEUBI),,AKATA VILLAGE HALL,16/11/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21054/pu/46047/46047-1677751356.pdf,false
-IMO,MBAITOLI (NWAORIEUBI),,COMM. SCH. AFARA,16/11/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21054/pu/46046/46046-1677751179.pdf,false
-IMO,MBAITOLI (NWAORIEUBI),,EKE OBIBIOKWU,16/11/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21054/pu/46045/46045-1677750670.pdf,false
-IMO,MBAITOLI (NWAORIEUBI),,AMAKPA VILLAGE HALL,16/11/01/016,,false
-IMO,MBAITOLI (NWAORIEUBI),,NKWOKWU PRI. SCH. II,16/11/01/009,,false
+IMO,MBAITOLI (NWAORIEUBI),AFARA/EZIAMA,IHITTE UMUAKANNE CENTER,16/11/01/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21054/pu/143400/143400-1677752808.pdf,false
+IMO,MBAITOLI (NWAORIEUBI),AFARA/EZIAMA,OGWA HALL,16/11/01/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21054/pu/46059/46059-1677752709.pdf,true
+IMO,MBAITOLI (NWAORIEUBI),AFARA/EZIAMA,AMAIGBO HALL,16/11/01/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21054/pu/46058/46058-1677752610.pdf,false
+IMO,MBAITOLI (NWAORIEUBI),AFARA/EZIAMA,UMUAGHA VILL. SQUARE,16/11/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21054/pu/46057/46057-1677752508.pdf,false
+IMO,MBAITOLI (NWAORIEUBI),AFARA/EZIAMA,COMMUNITY SCH.  AFARA,16/11/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21054/pu/46056/46056-1677752385.pdf,false
+IMO,MBAITOLI (NWAORIEUBI),AFARA/EZIAMA,COMMUNITY SCH. OTURA II,16/11/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21054/pu/46055/46055-1677752263.pdf,false
+IMO,MBAITOLI (NWAORIEUBI),AFARA/EZIAMA,COMMUNITY SCH. OTURA I,16/11/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21054/pu/46054/46054-1677752161.pdf,true
+IMO,MBAITOLI (NWAORIEUBI),AFARA/EZIAMA,NKWOKWU PRI. SCH. I,16/11/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21054/pu/46052/46052-1677751916.pdf,false
+IMO,MBAITOLI (NWAORIEUBI),AFARA/EZIAMA,CENTRAL SCH. EZIAMA OBIATO,16/11/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21054/pu/46051/46051-1677751821.pdf,false
+IMO,MBAITOLI (NWAORIEUBI),AFARA/EZIAMA,UMUAHIAMII VILLAGE HALL,16/11/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21054/pu/46050/46050-1677751703.pdf,true
+IMO,MBAITOLI (NWAORIEUBI),AFARA/EZIAMA,HOLY TRINITY NURSERY SCH. IHITTE,16/11/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21054/pu/46049/46049-1677751610.pdf,false
+IMO,MBAITOLI (NWAORIEUBI),AFARA/EZIAMA,CENTRAL SCH. AFARA,16/11/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21054/pu/46048/46048-1677751469.pdf,false
+IMO,MBAITOLI (NWAORIEUBI),AFARA/EZIAMA,AKATA VILLAGE HALL,16/11/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21054/pu/46047/46047-1677751356.pdf,false
+IMO,MBAITOLI (NWAORIEUBI),AFARA/EZIAMA,COMM. SCH. AFARA,16/11/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21054/pu/46046/46046-1677751179.pdf,false
+IMO,MBAITOLI (NWAORIEUBI),AFARA/EZIAMA,EKE OBIBIOKWU,16/11/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21054/pu/46045/46045-1677750670.pdf,false
+IMO,MBAITOLI (NWAORIEUBI),AFARA/EZIAMA,AMAKPA VILLAGE HALL,16/11/01/016,,false
+IMO,MBAITOLI (NWAORIEUBI),AFARA/EZIAMA,NKWOKWU PRI. SCH. II,16/11/01/009,,false

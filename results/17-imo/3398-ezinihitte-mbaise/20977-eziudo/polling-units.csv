@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-IMO,EZINIHITTE MBAISE,,EZIHU HALL,16/04/08/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/45094/result_102617_1677563625_thumb.jpg,false
-IMO,EZINIHITTE MBAISE,,UMUEZEAKU HALL,16/04/08/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3398/ward/20977/pu/45186/45186-1677511975.pdf,false
-IMO,EZINIHITTE MBAISE,,UMUALIM/IKENGA HALL,16/04/08/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3398/ward/20977/pu/45183/45183-1677511294.pdf,false
-IMO,EZINIHITTE MBAISE,,UMUNEBIA HALL,16/04/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3398/ward/20977/pu/45181/45181-1677510933.pdf,false
-IMO,EZINIHITTE MBAISE,,UMUHU,16/04/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3398/ward/20977/pu/45178/45178-1677510446.pdf,false
-IMO,EZINIHITTE MBAISE,,EZIKPI ALADINMA,16/04/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3398/ward/20977/pu/45179/45179-1677509530.pdf,false
-IMO,EZINIHITTE MBAISE,,AMAKAM HALL,16/04/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3398/ward/20977/pu/45180/45180-1677509130.pdf,false
-IMO,EZINIHITTE MBAISE,,UMUCHEKWA,16/04/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3398/ward/20977/pu/45177/45177-1677508905.pdf,false
-IMO,EZINIHITTE MBAISE,,UMUZU SQUARE,16/04/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3398/ward/20977/pu/45172/45172-1677507687.pdf,false
-IMO,EZINIHITTE MBAISE,,UMUEKWEREDE II,16/04/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3398/ward/20977/pu/45175/45175-1677506747.pdf,false
-IMO,EZINIHITTE MBAISE,,UMUAGWU HALL,16/04/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3398/ward/20977/pu/45176/45176-1677506249.pdf,false
-IMO,EZINIHITTE MBAISE,,EZEAKAM HALL,16/04/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3398/ward/20977/pu/45173/45173-1677505293.pdf,false
-IMO,EZINIHITTE MBAISE,,UMUEKWEREDE I,16/04/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3398/ward/20977/pu/45174/45174-1677504793.pdf,false
-IMO,EZINIHITTE MBAISE,,UMUAGU HALL,16/04/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3398/ward/20977/pu/45171/45171-1677503829.pdf,false
-IMO,EZINIHITTE MBAISE,,UMUAKAM HALL,16/04/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3398/ward/20977/pu/45170/45170-1677503556.pdf,false
-IMO,EZINIHITTE MBAISE,,UMUOKORO HALL,16/04/08/013,,false
-IMO,EZINIHITTE MBAISE,,UMUHU COMMUNITY PRIMARY SCHOOL,16/04/08/018,,false
-IMO,EZINIHITTE MBAISE,,UMULOLO HALL,16/04/08/015,,false
+IMO,EZINIHITTE MBAISE,EZIUDO,EZIHU HALL,16/04/08/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/45094/result_102617_1677563625_thumb.jpg,false
+IMO,EZINIHITTE MBAISE,EZIUDO,UMUEZEAKU HALL,16/04/08/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3398/ward/20977/pu/45186/45186-1677511975.pdf,false
+IMO,EZINIHITTE MBAISE,EZIUDO,UMUALIM/IKENGA HALL,16/04/08/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3398/ward/20977/pu/45183/45183-1677511294.pdf,false
+IMO,EZINIHITTE MBAISE,EZIUDO,UMUNEBIA HALL,16/04/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3398/ward/20977/pu/45181/45181-1677510933.pdf,false
+IMO,EZINIHITTE MBAISE,EZIUDO,UMUHU,16/04/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3398/ward/20977/pu/45178/45178-1677510446.pdf,false
+IMO,EZINIHITTE MBAISE,EZIUDO,EZIKPI ALADINMA,16/04/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3398/ward/20977/pu/45179/45179-1677509530.pdf,false
+IMO,EZINIHITTE MBAISE,EZIUDO,AMAKAM HALL,16/04/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3398/ward/20977/pu/45180/45180-1677509130.pdf,false
+IMO,EZINIHITTE MBAISE,EZIUDO,UMUCHEKWA,16/04/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3398/ward/20977/pu/45177/45177-1677508905.pdf,false
+IMO,EZINIHITTE MBAISE,EZIUDO,UMUZU SQUARE,16/04/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3398/ward/20977/pu/45172/45172-1677507687.pdf,false
+IMO,EZINIHITTE MBAISE,EZIUDO,UMUEKWEREDE II,16/04/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3398/ward/20977/pu/45175/45175-1677506747.pdf,false
+IMO,EZINIHITTE MBAISE,EZIUDO,UMUAGWU HALL,16/04/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3398/ward/20977/pu/45176/45176-1677506249.pdf,false
+IMO,EZINIHITTE MBAISE,EZIUDO,EZEAKAM HALL,16/04/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3398/ward/20977/pu/45173/45173-1677505293.pdf,false
+IMO,EZINIHITTE MBAISE,EZIUDO,UMUEKWEREDE I,16/04/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3398/ward/20977/pu/45174/45174-1677504793.pdf,false
+IMO,EZINIHITTE MBAISE,EZIUDO,UMUAGU HALL,16/04/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3398/ward/20977/pu/45171/45171-1677503829.pdf,false
+IMO,EZINIHITTE MBAISE,EZIUDO,UMUAKAM HALL,16/04/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3398/ward/20977/pu/45170/45170-1677503556.pdf,false
+IMO,EZINIHITTE MBAISE,EZIUDO,UMUOKORO HALL,16/04/08/013,,false
+IMO,EZINIHITTE MBAISE,EZIUDO,UMUHU COMMUNITY PRIMARY SCHOOL,16/04/08/018,,false
+IMO,EZINIHITTE MBAISE,EZIUDO,UMULOLO HALL,16/04/08/015,,false

@@ -26,6 +26,7 @@
     "pu_code_string": "160407007",
     "state_name": "IMO",
     "lga_name": "EZINIHITTE MBAISE",
+    "ward_name": "ONICHA IV",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -57,6 +58,7 @@
     "pu_code_string": "160407001",
     "state_name": "IMO",
     "lga_name": "EZINIHITTE MBAISE",
+    "ward_name": "ONICHA IV",
     "document": null,
     "old_documents": [
       {
@@ -97,6 +99,7 @@
     "pu_code_string": "160407003",
     "state_name": "IMO",
     "lga_name": "EZINIHITTE MBAISE",
+    "ward_name": "ONICHA IV",
     "document": null,
     "old_documents": [
       {
@@ -137,6 +140,7 @@
     "pu_code_string": "160407002",
     "state_name": "IMO",
     "lga_name": "EZINIHITTE MBAISE",
+    "ward_name": "ONICHA IV",
     "document": null,
     "old_documents": [
       {
@@ -177,6 +181,7 @@
     "pu_code_string": "160407005",
     "state_name": "IMO",
     "lga_name": "EZINIHITTE MBAISE",
+    "ward_name": "ONICHA IV",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -208,6 +213,7 @@
     "pu_code_string": "160407004",
     "state_name": "IMO",
     "lga_name": "EZINIHITTE MBAISE",
+    "ward_name": "ONICHA IV",
     "document": {
       "external": false,
       "status": 1,
@@ -246,6 +252,7 @@
     "pu_code_string": "160407006",
     "state_name": "IMO",
     "lga_name": "EZINIHITTE MBAISE",
+    "ward_name": "ONICHA IV",
     "old_documents": [],
     "has_old_documents": false
   }

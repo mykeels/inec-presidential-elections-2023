@@ -26,6 +26,7 @@
     "pu_code_string": "161502004",
     "state_name": "IMO",
     "lga_name": "NWANGELE (ONU-NWANGELE AMAIGBO)",
+    "ward_name": "UMUANU COMMUNITY WARD (AMAIGBO II)",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "161502001",
     "state_name": "IMO",
     "lga_name": "NWANGELE (ONU-NWANGELE AMAIGBO)",
+    "ward_name": "UMUANU COMMUNITY WARD (AMAIGBO II)",
     "document": {
       "external": false,
       "status": 1,
@@ -111,6 +113,7 @@
     "pu_code_string": "161502002",
     "state_name": "IMO",
     "lga_name": "NWANGELE (ONU-NWANGELE AMAIGBO)",
+    "ward_name": "UMUANU COMMUNITY WARD (AMAIGBO II)",
     "document": {
       "external": false,
       "status": 1,
@@ -149,6 +152,7 @@
     "pu_code_string": "161502008",
     "state_name": "IMO",
     "lga_name": "NWANGELE (ONU-NWANGELE AMAIGBO)",
+    "ward_name": "UMUANU COMMUNITY WARD (AMAIGBO II)",
     "document": {
       "external": false,
       "status": 1,
@@ -187,6 +191,7 @@
     "pu_code_string": "161502006",
     "state_name": "IMO",
     "lga_name": "NWANGELE (ONU-NWANGELE AMAIGBO)",
+    "ward_name": "UMUANU COMMUNITY WARD (AMAIGBO II)",
     "document": {
       "external": false,
       "status": 1,
@@ -225,6 +230,7 @@
     "pu_code_string": "161502007",
     "state_name": "IMO",
     "lga_name": "NWANGELE (ONU-NWANGELE AMAIGBO)",
+    "ward_name": "UMUANU COMMUNITY WARD (AMAIGBO II)",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -255,6 +261,7 @@
     "pu_code_string": "161502003",
     "state_name": "IMO",
     "lga_name": "NWANGELE (ONU-NWANGELE AMAIGBO)",
+    "ward_name": "UMUANU COMMUNITY WARD (AMAIGBO II)",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -285,6 +292,7 @@
     "pu_code_string": "161502009",
     "state_name": "IMO",
     "lga_name": "NWANGELE (ONU-NWANGELE AMAIGBO)",
+    "ward_name": "UMUANU COMMUNITY WARD (AMAIGBO II)",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -315,6 +323,7 @@
     "pu_code_string": "161502005",
     "state_name": "IMO",
     "lga_name": "NWANGELE (ONU-NWANGELE AMAIGBO)",
+    "ward_name": "UMUANU COMMUNITY WARD (AMAIGBO II)",
     "old_documents": [],
     "has_old_documents": false
   }

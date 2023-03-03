@@ -1,17 +1,17 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-IMO,MBAITOLI (NWAORIEUBI),,UMUONU SQUARE,16/11/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21062/pu/46195/46195-1677681820.pdf,false
-IMO,MBAITOLI (NWAORIEUBI),,DURUEJIAKA KINDRED HALL,16/11/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21062/pu/46200/46200-1677681706.pdf,false
-IMO,MBAITOLI (NWAORIEUBI),,EZIAMA VILLAGE HALL,16/11/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21062/pu/46197/46197-1677681576.pdf,false
-IMO,MBAITOLI (NWAORIEUBI),,COMM. SCH. UBAHA ORODO,16/11/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21062/pu/46194/46194-1677681478.pdf,true
-IMO,MBAITOLI (NWAORIEUBI),,NDI OKWU-EZIAMA HALL,16/11/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21062/pu/46204/46204-1677681378.pdf,false
-IMO,MBAITOLI (NWAORIEUBI),,UMUOKPARADURU VILLAGE SQUARE,16/11/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21062/pu/46192/46192-1677681220.pdf,false
-IMO,MBAITOLI (NWAORIEUBI),,UMUIKE SQUARE,16/11/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21062/pu/46196/46196-1677681115.pdf,true
-IMO,MBAITOLI (NWAORIEUBI),,UMUMBARA KINDRED HALL,16/11/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21062/pu/46201/46201-1677681011.pdf,false
-IMO,MBAITOLI (NWAORIEUBI),,AMA-OBULOKWU VILLAGE HALL,16/11/09/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21062/pu/143446/143446-1677680847.pdf,false
-IMO,MBAITOLI (NWAORIEUBI),,UMUDIONU VILLAGE HALL,16/11/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21062/pu/46198/46198-1677680711.pdf,false
-IMO,MBAITOLI (NWAORIEUBI),,MANSION PRIMARY SCH. ODUMARA,16/11/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21062/pu/46199/46199-1677680569.pdf,false
-IMO,MBAITOLI (NWAORIEUBI),,OBOROCHE UBAHUEZE HALL,16/11/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21062/pu/143445/143445-1677680432.pdf,false
-IMO,MBAITOLI (NWAORIEUBI),,UKWU UDARA AMORJI SQUARE,16/11/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21062/pu/46193/46193-1677680299.pdf,false
-IMO,MBAITOLI (NWAORIEUBI),,EKE UBAHA MARKET SQUARE,16/11/09/011,,false
-IMO,MBAITOLI (NWAORIEUBI),,UMUAGWU/AMAOJI HALL,16/11/09/016,,false
-IMO,MBAITOLI (NWAORIEUBI),,OBIOKU VILLAGE HALL,16/11/09/012,,false
+IMO,MBAITOLI (NWAORIEUBI),ORODO 'B',UMUONU SQUARE,16/11/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21062/pu/46195/46195-1677681820.pdf,false
+IMO,MBAITOLI (NWAORIEUBI),ORODO 'B',DURUEJIAKA KINDRED HALL,16/11/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21062/pu/46200/46200-1677681706.pdf,false
+IMO,MBAITOLI (NWAORIEUBI),ORODO 'B',EZIAMA VILLAGE HALL,16/11/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21062/pu/46197/46197-1677681576.pdf,false
+IMO,MBAITOLI (NWAORIEUBI),ORODO 'B',COMM. SCH. UBAHA ORODO,16/11/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21062/pu/46194/46194-1677681478.pdf,true
+IMO,MBAITOLI (NWAORIEUBI),ORODO 'B',NDI OKWU-EZIAMA HALL,16/11/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21062/pu/46204/46204-1677681378.pdf,false
+IMO,MBAITOLI (NWAORIEUBI),ORODO 'B',UMUOKPARADURU VILLAGE SQUARE,16/11/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21062/pu/46192/46192-1677681220.pdf,false
+IMO,MBAITOLI (NWAORIEUBI),ORODO 'B',UMUIKE SQUARE,16/11/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21062/pu/46196/46196-1677681115.pdf,true
+IMO,MBAITOLI (NWAORIEUBI),ORODO 'B',UMUMBARA KINDRED HALL,16/11/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21062/pu/46201/46201-1677681011.pdf,false
+IMO,MBAITOLI (NWAORIEUBI),ORODO 'B',AMA-OBULOKWU VILLAGE HALL,16/11/09/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21062/pu/143446/143446-1677680847.pdf,false
+IMO,MBAITOLI (NWAORIEUBI),ORODO 'B',UMUDIONU VILLAGE HALL,16/11/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21062/pu/46198/46198-1677680711.pdf,false
+IMO,MBAITOLI (NWAORIEUBI),ORODO 'B',MANSION PRIMARY SCH. ODUMARA,16/11/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21062/pu/46199/46199-1677680569.pdf,false
+IMO,MBAITOLI (NWAORIEUBI),ORODO 'B',OBOROCHE UBAHUEZE HALL,16/11/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21062/pu/143445/143445-1677680432.pdf,false
+IMO,MBAITOLI (NWAORIEUBI),ORODO 'B',UKWU UDARA AMORJI SQUARE,16/11/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3405/ward/21062/pu/46193/46193-1677680299.pdf,false
+IMO,MBAITOLI (NWAORIEUBI),ORODO 'B',EKE UBAHA MARKET SQUARE,16/11/09/011,,false
+IMO,MBAITOLI (NWAORIEUBI),ORODO 'B',UMUAGWU/AMAOJI HALL,16/11/09/016,,false
+IMO,MBAITOLI (NWAORIEUBI),ORODO 'B',OBIOKU VILLAGE HALL,16/11/09/012,,false

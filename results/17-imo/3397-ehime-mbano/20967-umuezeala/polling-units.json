@@ -26,6 +26,7 @@
     "pu_code_string": "160309012",
     "state_name": "IMO",
     "lga_name": "EHIME MBANO",
+    "ward_name": "UMUEZEALA",
     "document": null,
     "old_documents": [
       {
@@ -66,6 +67,7 @@
     "pu_code_string": "160309011",
     "state_name": "IMO",
     "lga_name": "EHIME MBANO",
+    "ward_name": "UMUEZEALA",
     "document": null,
     "old_documents": [
       {
@@ -106,6 +108,7 @@
     "pu_code_string": "160309010",
     "state_name": "IMO",
     "lga_name": "EHIME MBANO",
+    "ward_name": "UMUEZEALA",
     "document": null,
     "old_documents": [
       {
@@ -146,6 +149,7 @@
     "pu_code_string": "160309009",
     "state_name": "IMO",
     "lga_name": "EHIME MBANO",
+    "ward_name": "UMUEZEALA",
     "document": null,
     "old_documents": [
       {
@@ -186,6 +190,7 @@
     "pu_code_string": "160309008",
     "state_name": "IMO",
     "lga_name": "EHIME MBANO",
+    "ward_name": "UMUEZEALA",
     "document": null,
     "old_documents": [
       {
@@ -226,6 +231,7 @@
     "pu_code_string": "160309007",
     "state_name": "IMO",
     "lga_name": "EHIME MBANO",
+    "ward_name": "UMUEZEALA",
     "document": null,
     "old_documents": [
       {
@@ -266,6 +272,7 @@
     "pu_code_string": "160309006",
     "state_name": "IMO",
     "lga_name": "EHIME MBANO",
+    "ward_name": "UMUEZEALA",
     "document": null,
     "old_documents": [
       {
@@ -306,6 +313,7 @@
     "pu_code_string": "160309005",
     "state_name": "IMO",
     "lga_name": "EHIME MBANO",
+    "ward_name": "UMUEZEALA",
     "document": null,
     "old_documents": [
       {
@@ -346,6 +354,7 @@
     "pu_code_string": "160309004",
     "state_name": "IMO",
     "lga_name": "EHIME MBANO",
+    "ward_name": "UMUEZEALA",
     "document": null,
     "old_documents": [
       {
@@ -386,6 +395,7 @@
     "pu_code_string": "160309003",
     "state_name": "IMO",
     "lga_name": "EHIME MBANO",
+    "ward_name": "UMUEZEALA",
     "document": null,
     "old_documents": [
       {
@@ -426,6 +436,7 @@
     "pu_code_string": "160309002",
     "state_name": "IMO",
     "lga_name": "EHIME MBANO",
+    "ward_name": "UMUEZEALA",
     "document": null,
     "old_documents": [
       {
@@ -466,6 +477,7 @@
     "pu_code_string": "160309001",
     "state_name": "IMO",
     "lga_name": "EHIME MBANO",
+    "ward_name": "UMUEZEALA",
     "document": null,
     "old_documents": [
       {
@@ -506,6 +518,7 @@
     "pu_code_string": "160309013",
     "state_name": "IMO",
     "lga_name": "EHIME MBANO",
+    "ward_name": "UMUEZEALA",
     "document": {
       "external": false,
       "status": 1,
@@ -544,6 +557,7 @@
     "pu_code_string": "160309015",
     "state_name": "IMO",
     "lga_name": "EHIME MBANO",
+    "ward_name": "UMUEZEALA",
     "document": {
       "external": false,
       "status": 1,
@@ -582,6 +596,7 @@
     "pu_code_string": "160309014",
     "state_name": "IMO",
     "lga_name": "EHIME MBANO",
+    "ward_name": "UMUEZEALA",
     "document": {
       "external": false,
       "status": 1,
@@ -620,6 +635,7 @@
     "pu_code_string": "160309016",
     "state_name": "IMO",
     "lga_name": "EHIME MBANO",
+    "ward_name": "UMUEZEALA",
     "document": {
       "external": false,
       "status": 1,
@@ -658,6 +674,7 @@
     "pu_code_string": "160309019",
     "state_name": "IMO",
     "lga_name": "EHIME MBANO",
+    "ward_name": "UMUEZEALA",
     "document": {
       "external": false,
       "status": 1,
@@ -696,6 +713,7 @@
     "pu_code_string": "160309017",
     "state_name": "IMO",
     "lga_name": "EHIME MBANO",
+    "ward_name": "UMUEZEALA",
     "document": {
       "external": false,
       "status": 1,
@@ -734,6 +752,7 @@
     "pu_code_string": "160309018",
     "state_name": "IMO",
     "lga_name": "EHIME MBANO",
+    "ward_name": "UMUEZEALA",
     "document": {
       "external": false,
       "status": 1,
@@ -772,6 +791,7 @@
     "pu_code_string": "160309020",
     "state_name": "IMO",
     "lga_name": "EHIME MBANO",
+    "ward_name": "UMUEZEALA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -802,6 +822,7 @@
     "pu_code_string": "160309023",
     "state_name": "IMO",
     "lga_name": "EHIME MBANO",
+    "ward_name": "UMUEZEALA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -832,6 +853,7 @@
     "pu_code_string": "160309021",
     "state_name": "IMO",
     "lga_name": "EHIME MBANO",
+    "ward_name": "UMUEZEALA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -862,6 +884,7 @@
     "pu_code_string": "160309022",
     "state_name": "IMO",
     "lga_name": "EHIME MBANO",
+    "ward_name": "UMUEZEALA",
     "old_documents": [],
     "has_old_documents": false
   }
