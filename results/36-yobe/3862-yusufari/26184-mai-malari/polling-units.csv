@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+YOBE,YUSUFARI,MAI-MALARI,BULA JAJI DISPENSARY,35/17/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26184/pu/177608/177608-1677597445.pdf,false
+YOBE,YUSUFARI,MAI-MALARI,MAI MALARI DISPENSARY,35/17/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26184/pu/177609/177609-1677597130.pdf,false
+YOBE,YUSUFARI,MAI-MALARI,"MAIMALARI,  PRI. SCH. II",35/17/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26184/pu/118537/118537-1677596454.pdf,false
+YOBE,YUSUFARI,MAI-MALARI,"MAIMALARI,  PRI. SCH. I",35/17/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26184/pu/118536/118536-1677596166.pdf,true
+YOBE,YUSUFARI,MAI-MALARI,LAWANTI OPEN SPACE,35/17/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26184/pu/118535/118535-1677595630.pdf,true
+YOBE,YUSUFARI,MAI-MALARI,KIRIGINI OPEN SPACE,35/17/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26184/pu/118534/118534-1677595353.pdf,false
+YOBE,YUSUFARI,MAI-MALARI,DUSSARE OPEN SPACE,35/17/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26184/pu/118533/118533-1677594482.pdf,true
+YOBE,YUSUFARI,MAI-MALARI,BULA ZAJI OPEN SPACE,35/17/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26184/pu/118532/118532-1677593283.pdf,true
+YOBE,YUSUFARI,MAI-MALARI,BUKKU KURA OPEN SPACE,35/17/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26184/pu/118531/118531-1677593120.pdf,true

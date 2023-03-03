@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+YOBE,BURSARI,KURNAWA,ABBARI PRI SCHOOL II.,35/02/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3847/ward/26027/pu/117001/117001-1677698745.pdf,true
+YOBE,BURSARI,KURNAWA,"GARIN BOKA, DANDALI MAIGARI",35/02/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3847/ward/26027/pu/117003/117003-1677698131.pdf,false
+YOBE,BURSARI,KURNAWA,"NGARBUWA, DANDALI MAIGARI",35/02/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115906/result_62111_1677697994_thumb.jpg,false
+YOBE,BURSARI,KURNAWA,"JAFUNORI, DANDALI MAIGARI",35/02/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3847/ward/26027/pu/117004/117004-1677697585.pdf,true
+YOBE,BURSARI,KURNAWA,"BELEMARI, DANDALI MAIGARI",35/02/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3847/ward/26027/pu/117002/117002-1677697309.pdf,true
+YOBE,BURSARI,KURNAWA,ABBARI PRI SCHOOL I.,35/02/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3847/ward/26027/pu/117000/117000-1677696484.pdf,true
+YOBE,BURSARI,KURNAWA,"KURNAWA, PRI. SCH.",35/02/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/09/pu/006/006-1677371819.pdf,false
+YOBE,BURSARI,KURNAWA,KURNAWA PHC,35/02/09/008,,false

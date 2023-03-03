@@ -1,0 +1,7 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+YOBE,TARMUWA,MAFA,MAFA 1 PRI. SCH III,35/15/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3860/ward/26164/pu/177549/177549-1677584744.pdf,false
+YOBE,TARMUWA,MAFA,MAFA II PRI. SCH IV,35/15/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3860/ward/26164/pu/177550/177550-1677584274.pdf,false
+YOBE,TARMUWA,MAFA,"MAFA II.,  PRI. SCH.",35/15/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3860/ward/26164/pu/118363/118363-1677582143.pdf,true
+YOBE,TARMUWA,MAFA,"MAFA I.,  PRI. SCH.",35/15/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3860/ward/26164/pu/118362/118362-1677454664.pdf,false
+YOBE,TARMUWA,MAFA,KORI KOMAWA OPEN SPACE,35/15/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3860/ward/26164/pu/118361/118361-1677454205.pdf,false
+YOBE,TARMUWA,MAFA,KOLORI OPEN SPACE,35/15/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3860/ward/26164/pu/118360/118360-1677453692.pdf,false

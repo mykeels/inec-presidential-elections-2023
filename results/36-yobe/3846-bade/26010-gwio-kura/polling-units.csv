@@ -1,0 +1,15 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+YOBE,BADE,GWIO-KURA,GWIO PRIMARY SCHOOL III,35/01/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3846/ward/26010/pu/176525/176525-1677690802.pdf,false
+YOBE,BADE,GWIO-KURA,GWIO DINA PRIMARY SCHOOL II,35/01/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3846/ward/26010/pu/176527/176527-1677690392.pdf,false
+YOBE,BADE,GWIO-KURA,NGELBOWA PRI.SCHOOL,35/01/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3846/ward/26010/pu/116857/116857-1677689799.pdf,false
+YOBE,BADE,GWIO-KURA,NGELJABE PRIMARY SCHOOL II,35/01/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3846/ward/26010/pu/176529/176529-1677689377.pdf,false
+YOBE,BADE,GWIO-KURA,CHIRAWA BULAMA GATE,35/01/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3846/ward/26010/pu/116859/116859-1677688285.pdf,false
+YOBE,BADE,GWIO-KURA,GWIO PRIMARY SCHOOL  II,35/01/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3846/ward/26010/pu/176524/176524-1677685335.pdf,true
+YOBE,BADE,GWIO-KURA,GWIO BULAMA'S GATE II,35/01/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3846/ward/26010/pu/176526/176526-1677684414.pdf,false
+YOBE,BADE,GWIO-KURA,"GWIO DINA ,PRI. SCH.",35/01/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3846/ward/26010/pu/116856/116856-1677683707.pdf,true
+YOBE,BADE,GWIO-KURA,MAINARI PRI.SCHOOL,35/01/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3846/ward/26010/pu/116860/116860-1677683413.pdf,false
+YOBE,BADE,GWIO-KURA,"NGELJABE ,PRI. SCH I",35/01/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3846/ward/26010/pu/116858/116858-1677683033.pdf,false
+YOBE,BADE,GWIO-KURA,GWIO - KURA PRI SCHOOL,35/01/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3846/ward/26010/pu/116854/116854-1677682803.pdf,false
+YOBE,BADE,GWIO-KURA,GWIO BULAMA'S GATE,35/01/02/002,,false
+YOBE,BADE,GWIO-KURA,NGELBOWA PRIMARY SCHOOL  II,35/01/02/012,,false
+YOBE,BADE,GWIO-KURA,MAINARI PRIMARY SCHOOL II,35/01/02/014,,false

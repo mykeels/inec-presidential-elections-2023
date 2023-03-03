@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+YOBE,MACHINA,MASKANDARE,MASKANDARE DISPENASRY,35/11/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3856/ward/26124/pu/177222/177222-1677592322.pdf,true
+YOBE,MACHINA,MASKANDARE,YALAUWA PRI SCHOOL,35/11/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3856/ward/26124/pu/117930/117930-1677592027.pdf,true
+YOBE,MACHINA,MASKANDARE,"MASKANDARE,  PRI. SCH.",35/11/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/09/pu/004/004-1677398291.pdf,false
+YOBE,MACHINA,MASKANDARE,"KANGARWA,  BORE HORE",35/11/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/09/pu/003/003-1677393144.pdf,false
+YOBE,MACHINA,MASKANDARE,"GHANA DUMJIYA,  PRI. SCH. II",35/11/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/09/pu/002/002-1677391891.pdf,false
+YOBE,MACHINA,MASKANDARE,KANGARWA PRI. SCH,35/11/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/09/pu/006/006-1677377257.pdf,false
+YOBE,MACHINA,MASKANDARE,"GHANA DUMJIYA,  PRI. SCH. I",35/11/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/09/pu/001/001-1677375804.pdf,false
+YOBE,MACHINA,MASKANDARE,YALAUWA PRI. SCH. II,35/11/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/09/pu/008/008-1677373611.pdf,false

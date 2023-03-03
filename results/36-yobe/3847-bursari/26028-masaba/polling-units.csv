@@ -1,0 +1,16 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+YOBE,BURSARI,MASABA,"DASKUM, PRI. SCH.",35/02/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3847/ward/26028/pu/117009/117009-1677684748.pdf,true
+YOBE,BURSARI,MASABA,"DUMBURI, DISPENSARY",35/02/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3847/ward/26028/pu/117011/117011-1677684509.pdf,true
+YOBE,BURSARI,MASABA,GADINE PRIMARY SCHOOL II,35/02/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3847/ward/26028/pu/176679/176679-1677684422.pdf,true
+YOBE,BURSARI,MASABA,"MASABA, PRI. SCH.",35/02/10/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115915/result_62121_1677661130_thumb.jpg,false
+YOBE,BURSARI,MASABA,DUMBURI PRIMARY SCHOOL II,35/02/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/673383/result_62124_1677607213_thumb.jpg,false
+YOBE,BURSARI,MASABA,GIRWAN PRI SCHOOL,35/02/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115914/result_62120_1677607103_thumb.jpg,false
+YOBE,BURSARI,MASABA,"MASABA, SARIKIN PAWA",35/02/10/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115917/result_62123_1677606720_thumb.jpg,false
+YOBE,BURSARI,MASABA,"DUMBURI , PRI. SCH.",35/02/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115910/result_62116_1677606323_thumb.jpg,false
+YOBE,BURSARI,MASABA,"DADIGAR, PRI. SCH.",35/02/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115907/result_62113_1677606244_thumb.jpg,false
+YOBE,BURSARI,MASABA,"GADINE, PRI. SCH.",35/02/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115912/result_62118_1677606085_thumb.jpg,false
+YOBE,BURSARI,MASABA,MASABA PRIMARY SCHOOL II,35/02/10/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/673386/result_62127_1677605805_thumb.jpg,false
+YOBE,BURSARI,MASABA,"MASABA, DISPENSARY",35/02/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115916/result_62122_1677605610_thumb.jpg,false
+YOBE,BURSARI,MASABA,"DADIGAR, HAUSARI II",35/02/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+YOBE,BURSARI,MASABA,"GANGAWA, PRI. SCH.",35/02/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115913/result_62119_1677604706_thumb.jpg,false
+YOBE,BURSARI,MASABA,GANGAWA PRIMARY SCHOOL II,35/02/10/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/673385/result_62126_1677604609_thumb.jpg,false

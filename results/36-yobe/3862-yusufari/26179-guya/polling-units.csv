@@ -1,0 +1,14 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+YOBE,YUSUFARI,GUYA,"GUYA MARI , DEFUNT PRI. SCH.",35/17/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26179/pu/118494/118494-1677698985.pdf,true
+YOBE,YUSUFARI,GUYA,"GUYA MARI ,  WAKIL GATE",35/17/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26179/pu/118493/118493-1677598565.pdf,false
+YOBE,YUSUFARI,GUYA,MAIBOGORI,35/17/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26179/pu/118496/118496-1677598158.pdf,false
+YOBE,YUSUFARI,GUYA,USMANDI BORE HOLE,35/17/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26179/pu/177594/177594-1677597380.pdf,false
+YOBE,YUSUFARI,GUYA,GUYA DISPENSARY,35/17/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26179/pu/118491/118491-1677596864.pdf,true
+YOBE,YUSUFARI,GUYA,AWANARI OPEN SPACE,35/17/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26179/pu/118489/118489-1677595854.pdf,false
+YOBE,YUSUFARI,GUYA,FAJI GANARI OPEN SPACE,35/17/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26179/pu/177592/177592-1677595597.pdf,false
+YOBE,YUSUFARI,GUYA,NGANAWA OPEN SPACE,35/17/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26179/pu/118497/118497-1677594749.pdf,true
+YOBE,YUSUFARI,GUYA,KALUWA OPEN SPACE,35/17/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26179/pu/118495/118495-1677593259.pdf,true
+YOBE,YUSUFARI,GUYA,"GUYA ,   GUYA KASUWA",35/17/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/004/004-1677404754.pdf,false
+YOBE,YUSUFARI,GUYA,ZUMUGU OPEN SPACE,35/17/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/010/010-1677401414.pdf,false
+YOBE,YUSUFARI,GUYA,GUYA PRIMARY SCHOOL,35/17/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/012/012-1677399920.pdf,false
+YOBE,YUSUFARI,GUYA,"BULA DAUBE, BULAMA'S GATE",35/17/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/002/002-1677397974.pdf,false

@@ -1,0 +1,6 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+YOBE,DAMATURU,DAMAKASU,DAMAKASU  DISPENSARY /DAMAKASU DISPENSARY,35/03/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115929/result_62160_1677768544_thumb.jpg,true
+YOBE,DAMATURU,DAMAKASU,"FALARI B. FANDI,FANDI'S GATE",35/03/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115931/result_62162_1677768205_thumb.jpg,true
+YOBE,DAMATURU,DAMAKASU,KIMERI/KIMERI,35/03/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/115932/result_62163_1677767991_thumb.jpg,true
+YOBE,DAMATURU,DAMAKASU,"DAMAKASU, PRI. SCH.",35/03/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3848/ward/26030/pu/117030/117030-1677493061.pdf,false
+YOBE,DAMATURU,DAMAKASU,ALHAJI AMODORI /ALH. MODORI,35/03/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/02/pu/001/001-1677419173.pdf,false

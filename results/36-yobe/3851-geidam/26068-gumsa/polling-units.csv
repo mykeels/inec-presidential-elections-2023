@@ -1,0 +1,11 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+YOBE,GEIDAM,GUMSA,DUNARI BUJIRI,35/06/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/116314/result_62852_1677782097_thumb.jpg,true
+YOBE,GEIDAM,GUMSA,"GUMSA BAKIN KASUWA, BAKIN KASUWA II",35/06/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/116317/result_62855_1677678460_thumb.jpg,false
+YOBE,GEIDAM,GUMSA,"TALUM, BULAMA'S  GATE",35/06/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/116322/result_62860_1677678341_thumb.jpg,false
+YOBE,GEIDAM,GUMSA,GUMSA PRI SCHOOL ''II'',35/06/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/116319/result_62857_1677677848_thumb.jpg,false
+YOBE,GEIDAM,GUMSA,GUMSA PRI SCHOOL 'I',35/06/06/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/116318/result_62856_1677677452_thumb.jpg,false
+YOBE,GEIDAM,GUMSA,"GUMZUGUYI, BULAMA'S GATE",35/06/06/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/116320/result_62858_1677677256_thumb.jpg,false
+YOBE,GEIDAM,GUMSA,"GUMSA BAKIN KASUWA, BAKIN KASUWA I",35/06/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3851/ward/26068/pu/117416/117416-1677538990.pdf,false
+YOBE,GEIDAM,GUMSA,"GASAURI , BULAMA'S  GATE",35/06/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3851/ward/26068/pu/117415/117415-1677538714.pdf,false
+YOBE,GEIDAM,GUMSA,"ALHAJIRI, PRI. SCH.",35/06/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3851/ward/26068/pu/117413/117413-1677538066.pdf,false
+YOBE,GEIDAM,GUMSA,"MADI KADAWA, BULAMA'S GATE",35/06/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3851/ward/26068/pu/117421/117421-1677537247.pdf,false

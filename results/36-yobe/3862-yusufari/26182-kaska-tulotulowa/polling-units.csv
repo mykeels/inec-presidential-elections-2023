@@ -1,0 +1,13 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+YOBE,YUSUFARI,KASKA/TULOTULOWA,TULOTULO CLINIC,35/17/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26182/pu/177604/177604-1677699217.pdf,false
+YOBE,YUSUFARI,KASKA/TULOTULOWA,"TULO,TULO OPEN SPACE \II\""""",35/17/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/117421/result_64550_1677583727_thumb.jpg,false
+YOBE,YUSUFARI,KASKA/TULOTULOWA,TULOTULO KASUWAN SHANU,35/17/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/673333/result_64553_1677583693_thumb.jpg,true
+YOBE,YUSUFARI,KASKA/TULOTULOWA,BULAMARI BOREHOLE,35/17/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26182/pu/177600/177600-1677592245.pdf,false
+YOBE,YUSUFARI,KASKA/TULOTULOWA,"TULO,TULO OPEN SPACE \I\""""",35/17/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26182/pu/118520/118520-1677591926.pdf,false
+YOBE,YUSUFARI,KASKA/TULOTULOWA,BUDDUM OPEN SPACE,35/17/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26182/pu/118515/118515-1677590961.pdf,false
+YOBE,YUSUFARI,KASKA/TULOTULOWA,TULO TULO VIEWING CENTRE,35/17/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26182/pu/177601/177601-1677590638.pdf,true
+YOBE,YUSUFARI,KASKA/TULOTULOWA,MODIBBO OPEN SPACE,35/17/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26182/pu/118519/118519-1677589888.pdf,true
+YOBE,YUSUFARI,KASKA/TULOTULOWA,LAWAN GANARI OPEN SPACE,35/17/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26182/pu/118518/118518-1677589387.pdf,true
+YOBE,YUSUFARI,KASKA/TULOTULOWA,KASKA OPEN SPACE,35/17/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26182/pu/118516/118516-1677587937.pdf,true
+YOBE,YUSUFARI,KASKA/TULOTULOWA,TULOTULO TSAMIYA BOREHOLE,35/17/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26182/pu/177603/177603-1677587579.pdf,true
+YOBE,YUSUFARI,KASKA/TULOTULOWA,"LAWAN GANARI, LAWAN GANARI",35/17/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26182/pu/118517/118517-1677586701.pdf,true

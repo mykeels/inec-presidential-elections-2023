@@ -1,0 +1,11 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+YOBE,TARMUWA,BIRIRI/CHUROKUSKO,"BIRIRI,  PRI. SCH. II",35/15/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3860/ward/26159/pu/118336/118336-1677592679.pdf,true
+YOBE,TARMUWA,BIRIRI/CHUROKUSKO,BIRIRI PRI. SCH. III,35/15/03/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/673304/result_64304_1677592734_thumb.jpg,false
+YOBE,TARMUWA,BIRIRI/CHUROKUSKO,TASHAN FULANI PRIMARY SCHOOL II,35/15/03/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/673303/result_64307_1677592724_thumb.jpg,false
+YOBE,TARMUWA,BIRIRI/CHUROKUSKO,CHUROKUSKO I PRIMARY SCHOOL III,35/15/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/03/pu/009/009-1677391923.pdf,false
+YOBE,TARMUWA,BIRIRI/CHUROKUSKO,"BIRIRI KOFAR WAZIRI \I\""""",35/15/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/03/pu/001/001-1677390999.pdf,false
+YOBE,TARMUWA,BIRIRI/CHUROKUSKO,"CHUROKUSKO  I,   PRI. SCH.",35/15/03/003,,false
+YOBE,TARMUWA,BIRIRI/CHUROKUSKO,"GARAJI, GARAJI KOFAR BULUMA",35/15/03/005,,false
+YOBE,TARMUWA,BIRIRI/CHUROKUSKO,"CHUROKUSKO  II,   PRI. SCH.",35/15/03/004,,false
+YOBE,TARMUWA,BIRIRI/CHUROKUSKO,BIRIRI PRIMARY SCHOOL IV,35/15/03/008,,false
+YOBE,TARMUWA,BIRIRI/CHUROKUSKO,"TASHAN FULAI, TASHAN FULANI",35/15/03/006,,false

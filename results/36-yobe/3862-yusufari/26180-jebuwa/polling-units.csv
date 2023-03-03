@@ -1,0 +1,12 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+YOBE,YUSUFARI,JEBUWA,"ABATSEREMI, BULAMA'S GATE",35/17/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+YOBE,YUSUFARI,JEBUWA,GABACHARI OPEN SPACE,35/17/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/117404/result_64528_1677585276_thumb.jpg,true
+YOBE,YUSUFARI,JEBUWA,"ALARAKCHI, BULAMA'S GATE",35/17/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/117401/result_64525_1677584200_thumb.jpg,false
+YOBE,YUSUFARI,JEBUWA,BAMUSU OPEN SPACE,35/17/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/117402/result_64526_1677584044_thumb.jpg,true
+YOBE,YUSUFARI,JEBUWA,"JEBUWA,  PRI. SCH. I",35/17/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26180/pu/118507/118507-1677590381.pdf,true
+YOBE,YUSUFARI,JEBUWA,GORSEL PRIMARY SCHOOL,35/17/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26180/pu/177595/177595-1677589807.pdf,true
+YOBE,YUSUFARI,JEBUWA,"JEBUWA,  PRI. SCH. II",35/17/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26180/pu/118508/118508-1677589515.pdf,true
+YOBE,YUSUFARI,JEBUWA,LIGALIDI OPEN SPACE,35/17/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26180/pu/118506/118506-1677588605.pdf,true
+YOBE,YUSUFARI,JEBUWA,"KAIGAMARI, BULAMA'S GATE",35/17/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26180/pu/118505/118505-1677588275.pdf,true
+YOBE,YUSUFARI,JEBUWA,FANTAMERI OPEN SPACE,35/17/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26180/pu/118503/118503-1677587338.pdf,true
+YOBE,YUSUFARI,JEBUWA,"ABATSEREMI, WAKIL GATE",35/17/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3862/ward/26180/pu/118500/118500-1677586091.pdf,true
