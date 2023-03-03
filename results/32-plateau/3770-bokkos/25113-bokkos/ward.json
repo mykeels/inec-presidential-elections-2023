@@ -17,5 +17,7 @@
   "ward_id": 25113,
   "created_at": "2020-07-15T17:36:36.260Z",
   "updated_at": "2020-07-15T17:36:36.260Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "PLATEAU",
+  "lga_name": "BOKKOS"
 }

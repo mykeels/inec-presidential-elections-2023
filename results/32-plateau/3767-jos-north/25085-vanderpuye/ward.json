@@ -17,5 +17,7 @@
   "ward_id": 25085,
   "created_at": "2020-07-15T17:36:32.211Z",
   "updated_at": "2020-07-15T17:36:32.211Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "PLATEAU",
+  "lga_name": "JOS NORTH"
 }
