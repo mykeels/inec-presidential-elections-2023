@@ -17,5 +17,7 @@
   "ward_id": 20343,
   "created_at": "2020-07-15T17:24:40.307Z",
   "updated_at": "2020-07-15T17:24:40.307Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "EKITI",
+  "lga_name": "EFON"
 }
