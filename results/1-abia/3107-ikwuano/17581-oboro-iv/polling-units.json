@@ -1,0 +1,1100 @@
+[
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4515c440353badb0da8a",
+    "state_id": 1,
+    "state": "5f0eb6e06dda22674979bf22",
+    "lga_id": 3107,
+    "ward_id": 17581,
+    "state_constituency_id": 10,
+    "state_constituency": "5f0f371a93d20b39ceee1fbe",
+    "federal_constituency_id": 8,
+    "federal_constituency": "5f0f37f32d77c83a06f0f318",
+    "senatorial_district_id": 112,
+    "senatorial_district": "5f0f3958970bd83a6f453a19",
+    "name": "LOCAL GOVT. HEADQUARTERS - ISIALA OBORO II",
+    "code": "011",
+    "pu_code": "01/05/08/011",
+    "old_name": "",
+    "polling_unit_id": 1026,
+    "created_at": "2020-07-15T18:04:05.864Z",
+    "updated_at": "2023-02-23T20:11:07.897Z",
+    "__v": 0,
+    "pu_code_string": "010508011",
+    "state_name": "ABIA",
+    "lga_name": "IKWUANO",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe73b15e25666708795f48",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1020/result_162205_1677500489_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T21:35:45.041Z"
+    },
+    "old_documents": [
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63faac7b9ac3f00c09d38711",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/011/011-1677372481.pdf",
+        "size": 71686,
+        "updated_at": "2023-02-28T21:35:45.041Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcef28e6efd20cc276cf46",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1020/result_162205_1677500489_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T21:35:45.041Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 2,
+    "is_accredited": 1,
+    "_id": "63f7760ab3695239c617bfe6",
+    "state_id": 1,
+    "state": "5f0eb6e06dda22674979bf22",
+    "lga_id": 3107,
+    "ward_id": 17581,
+    "state_constituency_id": 10,
+    "state_constituency": "5f0f371a93d20b39ceee1fbe",
+    "federal_constituency_id": 8,
+    "federal_constituency": "5f0f37f32d77c83a06f0f318",
+    "senatorial_district_id": 112,
+    "senatorial_district": "5f0f3958970bd83a6f453a19",
+    "name": "UMUEZEUKWU VILLAGE SQUARE",
+    "code": "013",
+    "pu_code": "01/05/08/013",
+    "old_name": "",
+    "polling_unit_id": 127069,
+    "created_at": "2023-02-23T14:19:54.902Z",
+    "updated_at": "2023-02-23T21:48:44.064Z",
+    "__v": 0,
+    "pu_code_string": "010508013",
+    "state_name": "ABIA",
+    "lga_name": "IKWUANO",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe71c85e25666708791e1a",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618683/result_162207_1677500771_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T21:27:36.067Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcef04e6efd20cc2769f88",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618683/result_162207_1677500771_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T05:06:06.972Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcef04e6efd20cc2769f88",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618683/result_162207_1677500771_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T05:06:08.162Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bbe9f042d3563700514",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/127069/127069-1677559472.pdf",
+        "size": 1469212,
+        "updated_at": "2023-02-28T05:06:08.162Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bbe9f042d3563700514",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/127069/127069-1677559472.pdf",
+        "size": 1469212,
+        "updated_at": "2023-02-28T21:27:36.068Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bc09f042d3563700693",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/127069/127069-1677559472.pdf",
+        "size": 1469212,
+        "updated_at": "2023-02-28T21:27:36.068Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4515c440353badb0da85",
+    "state_id": 1,
+    "state": "5f0eb6e06dda22674979bf22",
+    "lga_id": 3107,
+    "ward_id": 17581,
+    "state_constituency_id": 10,
+    "state_constituency": "5f0f371a93d20b39ceee1fbe",
+    "federal_constituency_id": 8,
+    "federal_constituency": "5f0f37f32d77c83a06f0f318",
+    "senatorial_district_id": 112,
+    "senatorial_district": "5f0f3958970bd83a6f453a19",
+    "name": "NNONO CENTRAL SCHOOL - NNONO II",
+    "code": "006",
+    "pu_code": "01/05/08/006",
+    "old_name": "",
+    "polling_unit_id": 1021,
+    "created_at": "2020-07-15T18:04:05.567Z",
+    "updated_at": "2023-02-23T20:11:07.699Z",
+    "__v": 0,
+    "pu_code_string": "010508006",
+    "state_name": "ABIA",
+    "lga_name": "IKWUANO",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe6526d74638649a138d1c",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1015/result_162200_1677499417_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T20:33:42.802Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceec2e6efd20cc27642fa",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1015/result_162200_1677499417_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T05:06:03.372Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceec2e6efd20cc27642fa",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1015/result_162200_1677499417_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T05:06:04.547Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bbb9f042d35636fff0f",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/1021/1021-1677557384.pdf",
+        "size": 1446715,
+        "updated_at": "2023-02-28T05:06:04.547Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bbb9f042d35636fff0f",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/1021/1021-1677557384.pdf",
+        "size": 1446715,
+        "updated_at": "2023-02-28T20:33:42.802Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bbc9f042d35637000e6",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/1021/1021-1677557384.pdf",
+        "size": 1446715,
+        "updated_at": "2023-02-28T20:33:42.802Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4515c440353badb0da84",
+    "state_id": 1,
+    "state": "5f0eb6e06dda22674979bf22",
+    "lga_id": 3107,
+    "ward_id": 17581,
+    "state_constituency_id": 10,
+    "state_constituency": "5f0f371a93d20b39ceee1fbe",
+    "federal_constituency_id": 8,
+    "federal_constituency": "5f0f37f32d77c83a06f0f318",
+    "senatorial_district_id": 112,
+    "senatorial_district": "5f0f3958970bd83a6f453a19",
+    "name": "NNONO CENTRAL SCHOOL - NNONO I",
+    "code": "005",
+    "pu_code": "01/05/08/005",
+    "old_name": "",
+    "polling_unit_id": 1020,
+    "created_at": "2020-07-15T18:04:05.506Z",
+    "updated_at": "2023-02-23T20:11:07.652Z",
+    "__v": 0,
+    "pu_code_string": "010508005",
+    "state_name": "ABIA",
+    "lga_name": "IKWUANO",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe61a6d74638649a131d21",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1014/result_162199_1677499219_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T20:18:46.172Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcee83e6efd20cc275eda4",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1014/result_162199_1677499219_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T05:06:02.700Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcee83e6efd20cc275eda4",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1014/result_162199_1677499219_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T05:06:03.813Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bba9f042d35636ffdef",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/1020/1020-1677557087.pdf",
+        "size": 2089030,
+        "updated_at": "2023-02-28T05:06:03.813Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bba9f042d35636ffdef",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/1020/1020-1677557087.pdf",
+        "size": 2089030,
+        "updated_at": "2023-02-28T20:18:46.172Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bbb9f042d35636fffc3",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/1020/1020-1677557087.pdf",
+        "size": 2089030,
+        "updated_at": "2023-02-28T20:18:46.172Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4515c440353badb0da80",
+    "state_id": 1,
+    "state": "5f0eb6e06dda22674979bf22",
+    "lga_id": 3107,
+    "ward_id": 17581,
+    "state_constituency_id": 10,
+    "state_constituency": "5f0f371a93d20b39ceee1fbe",
+    "federal_constituency_id": 8,
+    "federal_constituency": "5f0f37f32d77c83a06f0f318",
+    "senatorial_district_id": 112,
+    "senatorial_district": "5f0f3958970bd83a6f453a19",
+    "name": "LOCAL GOVT. HEADQUARTERS - ISIALA OBORO I",
+    "code": "001",
+    "pu_code": "01/05/08/001",
+    "old_name": "",
+    "polling_unit_id": 1016,
+    "created_at": "2020-07-15T18:04:05.274Z",
+    "updated_at": "2023-02-23T20:11:07.459Z",
+    "__v": 0,
+    "pu_code_string": "010508001",
+    "state_name": "ABIA",
+    "lga_name": "IKWUANO",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe619ed74638649a131c4d",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1010/result_162195_1677498480_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T20:18:38.921Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcee83e6efd20cc275ed57",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1010/result_162195_1677498480_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T20:18:38.921Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4515c440353badb0da89",
+    "state_id": 1,
+    "state": "5f0eb6e06dda22674979bf22",
+    "lga_id": 3107,
+    "ward_id": 17581,
+    "state_constituency_id": 10,
+    "state_constituency": "5f0f371a93d20b39ceee1fbe",
+    "federal_constituency_id": 8,
+    "federal_constituency": "5f0f37f32d77c83a06f0f318",
+    "senatorial_district_id": 112,
+    "senatorial_district": "5f0f3958970bd83a6f453a19",
+    "name": "IKWUEKE CENTRAL SCHOOL - IKWUEKE II",
+    "code": "010",
+    "pu_code": "01/05/08/010",
+    "old_name": "",
+    "polling_unit_id": 1025,
+    "created_at": "2020-07-15T18:04:05.803Z",
+    "updated_at": "2023-02-23T20:11:07.858Z",
+    "__v": 0,
+    "pu_code_string": "010508010",
+    "state_name": "ABIA",
+    "lga_name": "IKWUANO",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe614fd74638649a131313",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1019/result_162204_1677500350_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T20:17:19.085Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcee7de6efd20cc275e613",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1019/result_162204_1677500350_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T05:06:06.147Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcee7de6efd20cc275e613",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1019/result_162204_1677500350_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T05:06:07.319Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bbe9f042d35637003aa",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/1025/1025-1677558797.pdf",
+        "size": 1499225,
+        "updated_at": "2023-02-28T05:06:07.319Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bbe9f042d35637003aa",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/1025/1025-1677558797.pdf",
+        "size": 1499225,
+        "updated_at": "2023-02-28T20:17:19.085Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bbf9f042d35637005a4",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/1025/1025-1677558797.pdf",
+        "size": 1499225,
+        "updated_at": "2023-02-28T20:17:19.085Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 2,
+    "is_accredited": 1,
+    "_id": "63f77609b3695239c617bfb2",
+    "state_id": 1,
+    "state": "5f0eb6e06dda22674979bf22",
+    "lga_id": 3107,
+    "ward_id": 17581,
+    "state_constituency_id": 10,
+    "state_constituency": "5f0f371a93d20b39ceee1fbe",
+    "federal_constituency_id": 8,
+    "federal_constituency": "5f0f37f32d77c83a06f0f318",
+    "senatorial_district_id": 112,
+    "senatorial_district": "5f0f3958970bd83a6f453a19",
+    "name": "OGBUEBULE CENTRAL SCH. III",
+    "code": "012",
+    "pu_code": "01/05/08/012",
+    "old_name": "",
+    "polling_unit_id": 127068,
+    "created_at": "2023-02-23T14:19:53.855Z",
+    "updated_at": "2023-02-23T21:48:44.018Z",
+    "__v": 0,
+    "pu_code_string": "010508012",
+    "state_name": "ABIA",
+    "lga_name": "IKWUANO",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe455939df295eae1b9356",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618682/result_162206_1677500651_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T18:18:01.978Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcee4ce6efd20cc275a6f4",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618682/result_162206_1677500651_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T05:06:06.627Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcee4ce6efd20cc275a6f4",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618682/result_162206_1677500651_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T05:06:07.803Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bbe9f042d3563700477",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/127068/127068-1677559156.pdf",
+        "size": 1386397,
+        "updated_at": "2023-02-28T05:06:07.803Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bbe9f042d3563700477",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/127068/127068-1677559156.pdf",
+        "size": 1386397,
+        "updated_at": "2023-02-28T18:18:01.978Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bbf9f042d3563700648",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/127068/127068-1677559156.pdf",
+        "size": 1386397,
+        "updated_at": "2023-02-28T18:18:01.978Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 2,
+    "is_accredited": 1,
+    "_id": "63f7760bb3695239c617c01a",
+    "state_id": 1,
+    "state": "5f0eb6e06dda22674979bf22",
+    "lga_id": 3107,
+    "ward_id": 17581,
+    "state_constituency_id": 10,
+    "state_constituency": "5f0f371a93d20b39ceee1fbe",
+    "federal_constituency_id": 8,
+    "federal_constituency": "5f0f37f32d77c83a06f0f318",
+    "senatorial_district_id": 112,
+    "senatorial_district": "5f0f3958970bd83a6f453a19",
+    "name": "NNONO CENTRAL SCH. IV",
+    "code": "014",
+    "pu_code": "01/05/08/014",
+    "old_name": "",
+    "polling_unit_id": 127070,
+    "created_at": "2023-02-23T14:19:55.945Z",
+    "updated_at": "2023-02-23T21:48:44.110Z",
+    "__v": 0,
+    "pu_code_string": "010508014",
+    "state_name": "ABIA",
+    "lga_name": "IKWUANO",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe446239df295eae1b7158",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618684/result_162208_1677500847_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T18:13:54.260Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fced89e6efd20cc2758ec3",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618684/result_162208_1677500847_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T05:06:07.181Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fced89e6efd20cc2758ec3",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618684/result_162208_1677500847_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T05:06:08.398Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bbf9f042d3563700567",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/127070/127070-1677559680.pdf",
+        "size": 1350638,
+        "updated_at": "2023-02-28T05:06:08.398Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bbf9f042d3563700567",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/127070/127070-1677559680.pdf",
+        "size": 1350638,
+        "updated_at": "2023-02-28T18:13:54.260Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bc09f042d35637006c1",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/127070/127070-1677559680.pdf",
+        "size": 1350638,
+        "updated_at": "2023-02-28T18:13:54.260Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4515c440353badb0da82",
+    "state_id": 1,
+    "state": "5f0eb6e06dda22674979bf22",
+    "lga_id": 3107,
+    "ward_id": 17581,
+    "state_constituency_id": 10,
+    "state_constituency": "5f0f371a93d20b39ceee1fbe",
+    "federal_constituency_id": 8,
+    "federal_constituency": "5f0f37f32d77c83a06f0f318",
+    "senatorial_district_id": 112,
+    "senatorial_district": "5f0f3958970bd83a6f453a19",
+    "name": "OGBUEBULE CENTRAL SCHOOL - OGBUEBULE II",
+    "code": "003",
+    "pu_code": "01/05/08/003",
+    "old_name": "",
+    "polling_unit_id": 1018,
+    "created_at": "2020-07-15T18:04:05.389Z",
+    "updated_at": "2023-02-23T20:11:07.545Z",
+    "__v": 0,
+    "pu_code_string": "010508003",
+    "state_name": "ABIA",
+    "lga_name": "IKWUANO",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe434839df295eae1b4c2c",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1012/result_162197_1677498945_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T18:09:13.008Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcec98e6efd20cc2757361",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1012/result_162197_1677498945_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T05:06:01.359Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcec98e6efd20cc2757361",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1012/result_162197_1677498945_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T05:06:02.538Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bb99f042d35636ffbe1",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/1018/1018-1677556532.pdf",
+        "size": 1508041,
+        "updated_at": "2023-02-28T05:06:02.538Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bb99f042d35636ffbe1",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/1018/1018-1677556532.pdf",
+        "size": 1508041,
+        "updated_at": "2023-02-28T18:09:13.008Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bba9f042d35636ffdaa",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/1018/1018-1677556532.pdf",
+        "size": 1508041,
+        "updated_at": "2023-02-28T18:09:13.008Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4515c440353badb0da87",
+    "state_id": 1,
+    "state": "5f0eb6e06dda22674979bf22",
+    "lga_id": 3107,
+    "ward_id": 17581,
+    "state_constituency_id": 10,
+    "state_constituency": "5f0f371a93d20b39ceee1fbe",
+    "federal_constituency_id": 8,
+    "federal_constituency": "5f0f37f32d77c83a06f0f318",
+    "senatorial_district_id": 112,
+    "senatorial_district": "5f0f3958970bd83a6f453a19",
+    "name": "IKWUEKE CENTRAL SCHOOL - IKWUEKE I",
+    "code": "008",
+    "pu_code": "01/05/08/008",
+    "old_name": "",
+    "polling_unit_id": 1023,
+    "created_at": "2020-07-15T18:04:05.687Z",
+    "updated_at": "2023-02-23T20:11:07.778Z",
+    "__v": 0,
+    "pu_code_string": "010508008",
+    "state_name": "ABIA",
+    "lga_name": "IKWUANO",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe432139df295eae1b466f",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1017/result_162202_1677499940_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T18:08:34.016Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcec75e6efd20cc2756f5c",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1017/result_162202_1677499940_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T05:06:04.604Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcec75e6efd20cc2756f5c",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1017/result_162202_1677499940_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T05:06:05.728Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bbc9f042d3563700100",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/1023/1023-1677557971.pdf",
+        "size": 2068758,
+        "updated_at": "2023-02-28T05:06:05.728Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bbc9f042d3563700100",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/1023/1023-1677557971.pdf",
+        "size": 2068758,
+        "updated_at": "2023-02-28T18:08:34.016Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bbd9f042d35637002f1",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/1023/1023-1677557971.pdf",
+        "size": 2068758,
+        "updated_at": "2023-02-28T18:08:34.016Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4515c440353badb0da83",
+    "state_id": 1,
+    "state": "5f0eb6e06dda22674979bf22",
+    "lga_id": 3107,
+    "ward_id": 17581,
+    "state_constituency_id": 10,
+    "state_constituency": "5f0f371a93d20b39ceee1fbe",
+    "federal_constituency_id": 8,
+    "federal_constituency": "5f0f37f32d77c83a06f0f318",
+    "senatorial_district_id": 112,
+    "senatorial_district": "5f0f3958970bd83a6f453a19",
+    "name": "EKEBEDI COMMUNITY SCHOOL - EKEBEDI",
+    "code": "004",
+    "pu_code": "01/05/08/004",
+    "old_name": "",
+    "polling_unit_id": 1019,
+    "created_at": "2020-07-15T18:04:05.450Z",
+    "updated_at": "2023-02-23T20:11:07.612Z",
+    "__v": 0,
+    "pu_code_string": "010508004",
+    "state_name": "ABIA",
+    "lga_name": "IKWUANO",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe41f239df295eae1b023c",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1013/result_162198_1677499120_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T18:03:30.995Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceb80e6efd20cc2755272",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1013/result_162198_1677499120_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T05:06:01.760Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceb80e6efd20cc2755272",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1013/result_162198_1677499120_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T05:06:02.892Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bb99f042d35636ffc74",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/1019/1019-1677556701.pdf",
+        "size": 2042483,
+        "updated_at": "2023-02-28T05:06:02.892Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bb99f042d35636ffc74",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/1019/1019-1677556701.pdf",
+        "size": 2042483,
+        "updated_at": "2023-02-28T18:03:30.995Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bba9f042d35636ffe3f",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/1019/1019-1677556701.pdf",
+        "size": 2042483,
+        "updated_at": "2023-02-28T18:03:30.995Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4515c440353badb0da88",
+    "state_id": 1,
+    "state": "5f0eb6e06dda22674979bf22",
+    "lga_id": 3107,
+    "ward_id": 17581,
+    "state_constituency_id": 10,
+    "state_constituency": "5f0f371a93d20b39ceee1fbe",
+    "federal_constituency_id": 8,
+    "federal_constituency": "5f0f37f32d77c83a06f0f318",
+    "senatorial_district_id": 112,
+    "senatorial_district": "5f0f3958970bd83a6f453a19",
+    "name": "AJATAKIRI COMMUNITY SCHOOL - AJATAKIRI",
+    "code": "009",
+    "pu_code": "01/05/08/009",
+    "old_name": "",
+    "polling_unit_id": 1024,
+    "created_at": "2020-07-15T18:04:05.743Z",
+    "updated_at": "2023-02-23T20:11:07.818Z",
+    "__v": 0,
+    "pu_code_string": "010508009",
+    "state_name": "ABIA",
+    "lga_name": "IKWUANO",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe41e939df295eae1afa55",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1018/result_162203_1677500069_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T18:03:21.257Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceb79e6efd20cc2755182",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1018/result_162203_1677500069_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T05:06:05.155Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceb79e6efd20cc2755182",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1018/result_162203_1677500069_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T05:06:06.285Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bbd9f042d35637001ed",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/1024/1024-1677558255.pdf",
+        "size": 1316389,
+        "updated_at": "2023-02-28T05:06:06.285Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bbd9f042d35637001ed",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/1024/1024-1677558255.pdf",
+        "size": 1316389,
+        "updated_at": "2023-02-28T18:03:21.258Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bbe9f042d35637003e1",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/1024/1024-1677558255.pdf",
+        "size": 1316389,
+        "updated_at": "2023-02-28T18:03:21.258Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4515c440353badb0da81",
+    "state_id": 1,
+    "state": "5f0eb6e06dda22674979bf22",
+    "lga_id": 3107,
+    "ward_id": 17581,
+    "state_constituency_id": 10,
+    "state_constituency": "5f0f371a93d20b39ceee1fbe",
+    "federal_constituency_id": 8,
+    "federal_constituency": "5f0f37f32d77c83a06f0f318",
+    "senatorial_district_id": 112,
+    "senatorial_district": "5f0f3958970bd83a6f453a19",
+    "name": "OGBUEBULE CENTRAL SCHOOL - OGBUEBULE I",
+    "code": "002",
+    "pu_code": "01/05/08/002",
+    "old_name": "",
+    "polling_unit_id": 1017,
+    "created_at": "2020-07-15T18:04:05.334Z",
+    "updated_at": "2023-02-23T20:11:07.505Z",
+    "__v": 0,
+    "pu_code_string": "010508002",
+    "state_name": "ABIA",
+    "lga_name": "IKWUANO",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe3bb46f2c3d5c2e711e7f",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1011/result_162196_1677498776_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T17:36:52.507Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcd8898f41741d1230eccc",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1011/result_162196_1677498776_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T05:06:00.114Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fce964e6efd20cc2751103",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1011/result_162196_1677498776_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T05:06:00.114Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fce964e6efd20cc2751103",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1011/result_162196_1677498776_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T05:06:01.139Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bb89f042d35636ffac6",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/1017/1017-1677556020.pdf",
+        "size": 1509516,
+        "updated_at": "2023-02-28T05:06:01.139Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bb89f042d35636ffac6",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/1017/1017-1677556020.pdf",
+        "size": 1509516,
+        "updated_at": "2023-02-28T17:12:22.065Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bb99f042d35636ffb81",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/1017/1017-1677556020.pdf",
+        "size": 1509516,
+        "updated_at": "2023-02-28T17:12:22.065Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bb99f042d35636ffb81",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/1017/1017-1677556020.pdf",
+        "size": 1509516,
+        "updated_at": "2023-02-28T17:36:52.507Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe35f6d86c3a5b6d10e4ab",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1011/result_162196_1677498776_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:36:52.507Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4515c440353badb0da86",
+    "state_id": 1,
+    "state": "5f0eb6e06dda22674979bf22",
+    "lga_id": 3107,
+    "ward_id": 17581,
+    "state_constituency_id": 10,
+    "state_constituency": "5f0f371a93d20b39ceee1fbe",
+    "federal_constituency_id": 8,
+    "federal_constituency": "5f0f37f32d77c83a06f0f318",
+    "senatorial_district_id": 112,
+    "senatorial_district": "5f0f3958970bd83a6f453a19",
+    "name": "NNONO CENTRAL SCHOOL - NNONO III",
+    "code": "007",
+    "pu_code": "01/05/08/007",
+    "old_name": "",
+    "polling_unit_id": 1022,
+    "created_at": "2020-07-15T18:04:05.624Z",
+    "updated_at": "2023-02-23T20:11:07.740Z",
+    "__v": 0,
+    "pu_code_string": "010508007",
+    "state_name": "ABIA",
+    "lga_name": "IKWUANO",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe3aaf6f2c3d5c2e70f925",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1016/result_162201_1677499777_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T17:32:31.533Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcd7d68f41741d1230d2db",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1016/result_162201_1677499777_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T05:06:04.061Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fce892e6efd20cc274f72b",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1016/result_162201_1677499777_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T05:06:04.061Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fce892e6efd20cc274f72b",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1016/result_162201_1677499777_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T05:06:05.229Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bbc9f042d356370002b",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/1022/1022-1677557685.pdf",
+        "size": 1362262,
+        "updated_at": "2023-02-28T05:06:05.229Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bbc9f042d356370002b",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/1022/1022-1677557685.pdf",
+        "size": 1362262,
+        "updated_at": "2023-02-28T17:08:35.409Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bbd9f042d3563700210",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/1022/1022-1677557685.pdf",
+        "size": 1362262,
+        "updated_at": "2023-02-28T17:08:35.409Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8bbd9f042d3563700210",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3107/ward/17581/pu/1022/1022-1677557685.pdf",
+        "size": 1362262,
+        "updated_at": "2023-02-28T17:32:31.533Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe3513d86c3a5b6d10b17a",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/1016/result_162201_1677499777_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:32:31.533Z"
+      }
+    ],
+    "has_old_documents": true
+  }
+]
