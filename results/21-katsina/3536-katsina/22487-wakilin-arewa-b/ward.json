@@ -17,5 +17,7 @@
   "ward_id": 22487,
   "created_at": "2020-07-15T17:29:56.496Z",
   "updated_at": "2020-07-15T17:29:56.496Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "KATSINA",
+  "lga_name": "KATSINA"
 }
