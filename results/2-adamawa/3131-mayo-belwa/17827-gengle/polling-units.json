@@ -1,0 +1,966 @@
+[
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f45e0c440353badb0e655",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3131,
+    "ward_id": 17827,
+    "state_constituency_id": 46,
+    "state_constituency": "5f0f371c93d20b39ceee1fe2",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "KONA/ KONA PRY. SCH.",
+    "code": "004",
+    "pu_code": "02/12/04/004",
+    "old_name": "",
+    "polling_unit_id": 4031,
+    "created_at": "2020-07-15T18:07:28.891Z",
+    "updated_at": "2023-02-23T20:13:18.509Z",
+    "__v": 0,
+    "pu_code_string": "021204004",
+    "state_name": "ADAMAWA",
+    "lga_name": "MAYO - BELWA",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fee754c6e83b6b3f404c2b",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4025/result_48057_1677499567_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-03-01T05:49:08.913Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcd6158f41741d12308f71",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4025/result_48057_1677499567_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T11:41:00.422Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fce68ae6efd20cc274b4ba",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4025/result_48057_1677499567_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T11:41:00.422Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fce68ae6efd20cc274b4ba",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4025/result_48057_1677499567_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T13:56:20.767Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fde84c3db89d47ea8fdfb6",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/4031/4031-1677584442.pdf",
+        "size": 4209339,
+        "updated_at": "2023-02-28T13:56:20.767Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fde84c3db89d47ea8fdfb6",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/4031/4031-1677584442.pdf",
+        "size": 4209339,
+        "updated_at": "2023-02-28T17:21:54.371Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe0804c43294524a48d16f",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4025/result_48057_1677499567_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:21:54.371Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe0804c43294524a48d16f",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4025/result_48057_1677499567_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:49:08.913Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe38326f2c3d5c2e709927",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4025/result_48057_1677499567_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-03-01T05:49:08.913Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f45e0c440353badb0e654",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3131,
+    "ward_id": 17827,
+    "state_constituency_id": 46,
+    "state_constituency": "5f0f371c93d20b39ceee1fe2",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "KANCHAROO/ KOFAR JAURO",
+    "code": "003",
+    "pu_code": "02/12/04/003",
+    "old_name": "",
+    "polling_unit_id": 4030,
+    "created_at": "2020-07-15T18:07:28.796Z",
+    "updated_at": "2023-02-23T20:13:18.466Z",
+    "__v": 0,
+    "pu_code_string": "021204003",
+    "state_name": "ADAMAWA",
+    "lga_name": "MAYO - BELWA",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe75025e25666708798b7a",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4024/result_48056_1677501952_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T21:41:22.476Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcef40e6efd20cc276f0ad",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4024/result_48056_1677501952_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T11:25:00.159Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcef40e6efd20cc276f0ad",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4024/result_48056_1677501952_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T11:25:00.186Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fde48c3db89d47ea8fd670",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/4030/4030-1677583457.pdf",
+        "size": 4276796,
+        "updated_at": "2023-02-28T11:25:00.186Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fde48c3db89d47ea8fd670",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/4030/4030-1677583457.pdf",
+        "size": 4276796,
+        "updated_at": "2023-02-28T21:41:22.476Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fde48c3db89d47ea8fd677",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/4030/4030-1677583457.pdf",
+        "size": 4276796,
+        "updated_at": "2023-02-28T21:41:22.476Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f45e1c440353badb0e65a",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3131,
+    "ward_id": 17827,
+    "state_constituency_id": 46,
+    "state_constituency": "5f0f371c93d20b39ceee1fe2",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "WURO AMINU/KOFAR JAURO",
+    "code": "009",
+    "pu_code": "02/12/04/009",
+    "old_name": "",
+    "polling_unit_id": 4036,
+    "created_at": "2020-07-15T18:07:29.219Z",
+    "updated_at": "2023-02-23T20:13:18.777Z",
+    "__v": 0,
+    "pu_code_string": "021204009",
+    "state_name": "ADAMAWA",
+    "lga_name": "MAYO - BELWA",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe6642d74638649a13b216",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4030/result_48062_1677497987_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T20:38:26.898Z"
+    },
+    "old_documents": [
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fcb454770bfc83c3439a67",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/4036/4036-1677505541.pdf",
+        "size": 4328195,
+        "updated_at": "2023-02-28T20:38:26.898Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceed4e6efd20cc2765d06",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4030/result_48062_1677497987_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T20:38:26.898Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 2,
+    "is_accredited": 1,
+    "_id": "63f7772eb3695239c617f7ea",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3131,
+    "ward_id": 17827,
+    "state_constituency_id": 46,
+    "state_constituency": "5f0f371c93d20b39ceee1fe2",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "GENGLE II PRIMARY HEALTH CARE CENTRE",
+    "code": "011",
+    "pu_code": "02/12/04/011",
+    "old_name": "",
+    "polling_unit_id": 128640,
+    "created_at": "2023-02-23T14:24:46.981Z",
+    "updated_at": "2023-02-23T21:50:05.331Z",
+    "__v": 0,
+    "pu_code_string": "021204011",
+    "state_name": "ADAMAWA",
+    "lga_name": "MAYO - BELWA",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe6580d74638649a13986b",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620251/result_48064_1677501695_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T20:35:12.153Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceec8e6efd20cc2764b4f",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620251/result_48064_1677501695_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T13:28:22.395Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceec8e6efd20cc2764b4f",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620251/result_48064_1677501695_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T13:28:23.813Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fe01768840a250691749f7",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/128640/128640-1677589933.pdf",
+        "size": 3876979,
+        "updated_at": "2023-02-28T13:28:23.813Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fe01768840a250691749f7",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/128640/128640-1677589933.pdf",
+        "size": 3876979,
+        "updated_at": "2023-02-28T20:35:12.154Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fe01778840a25069174bcb",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/128640/128640-1677589933.pdf",
+        "size": 3876979,
+        "updated_at": "2023-02-28T20:35:12.154Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f45e0c440353badb0e656",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3131,
+    "ward_id": 17827,
+    "state_constituency_id": 46,
+    "state_constituency": "5f0f371c93d20b39ceee1fe2",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "KUGAMA/ KUGAMA MANGA PRY. SCH.",
+    "code": "005",
+    "pu_code": "02/12/04/005",
+    "old_name": "",
+    "polling_unit_id": 4032,
+    "created_at": "2020-07-15T18:07:28.958Z",
+    "updated_at": "2023-02-23T20:13:18.549Z",
+    "__v": 0,
+    "pu_code_string": "021204005",
+    "state_name": "ADAMAWA",
+    "lga_name": "MAYO - BELWA",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe64f1d74638649a13864d",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4026/result_48058_1677501330_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T20:32:49.873Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceebee6efd20cc2763d88",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4026/result_48058_1677501330_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T11:55:00.004Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceebee6efd20cc2763d88",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4026/result_48058_1677501330_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T11:55:01.037Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdeb943db89d47ea8fe6d8",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/4032/4032-1677585251.pdf",
+        "size": 4410568,
+        "updated_at": "2023-02-28T11:55:01.037Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdeb943db89d47ea8fe6d8",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/4032/4032-1677585251.pdf",
+        "size": 4410568,
+        "updated_at": "2023-02-28T20:32:49.873Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdeb953db89d47ea8fe6f3",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/4032/4032-1677585251.pdf",
+        "size": 4410568,
+        "updated_at": "2023-02-28T20:32:49.873Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f45e1c440353badb0e659",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3131,
+    "ward_id": 17827,
+    "state_constituency_id": 46,
+    "state_constituency": "5f0f371c93d20b39ceee1fe2",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "WAPPA FULANI/ WAPPA PRY. SCH.",
+    "code": "008",
+    "pu_code": "02/12/04/008",
+    "old_name": "",
+    "polling_unit_id": 4035,
+    "created_at": "2020-07-15T18:07:29.151Z",
+    "updated_at": "2023-02-23T20:13:18.735Z",
+    "__v": 0,
+    "pu_code_string": "021204008",
+    "state_name": "ADAMAWA",
+    "lga_name": "MAYO - BELWA",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe63dbd74638649a1361ea",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4029/result_48061_1677504911_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T20:28:11.150Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceeaae6efd20cc2762162",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4029/result_48061_1677504911_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T12:52:12.225Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceeaae6efd20cc2762162",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4029/result_48061_1677504911_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T12:52:13.492Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdf8fc9d7d884e2ed836cb",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/4035/4035-1677587272.pdf",
+        "size": 3721253,
+        "updated_at": "2023-02-28T12:52:13.492Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdf8fc9d7d884e2ed836cb",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/4035/4035-1677587272.pdf",
+        "size": 3721253,
+        "updated_at": "2023-02-28T20:28:11.151Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdf8fd9d7d884e2ed8385e",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/4035/4035-1677587272.pdf",
+        "size": 3721253,
+        "updated_at": "2023-02-28T20:28:11.151Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f45e1c440353badb0e65b",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3131,
+    "ward_id": 17827,
+    "state_constituency_id": 46,
+    "state_constituency": "5f0f371c93d20b39ceee1fe2",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "YANDANG KARAJE/ Y/ KARAJE PRY. SCH.",
+    "code": "010",
+    "pu_code": "02/12/04/010",
+    "old_name": "",
+    "polling_unit_id": 4037,
+    "created_at": "2020-07-15T18:07:29.287Z",
+    "updated_at": "2023-02-23T20:13:18.822Z",
+    "__v": 0,
+    "pu_code_string": "021204010",
+    "state_name": "ADAMAWA",
+    "lga_name": "MAYO - BELWA",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe6385d74638649a1356c5",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4031/result_48063_1677496974_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T20:26:45.383Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceea3e6efd20cc276190e",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4031/result_48063_1677496974_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T13:28:30.473Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceea3e6efd20cc276190e",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4031/result_48063_1677496974_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T13:28:32.236Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fe017e8840a2506917549e",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/4037/4037-1677590177.pdf",
+        "size": 449399,
+        "updated_at": "2023-02-28T13:28:32.236Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fe017e8840a2506917549e",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/4037/4037-1677590177.pdf",
+        "size": 449399,
+        "updated_at": "2023-02-28T20:26:45.383Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fe01808840a250691756b1",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/4037/4037-1677590177.pdf",
+        "size": 449399,
+        "updated_at": "2023-02-28T20:26:45.383Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f45e1c440353badb0e658",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3131,
+    "ward_id": 17827,
+    "state_constituency_id": 46,
+    "state_constituency": "5f0f371c93d20b39ceee1fe2",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "TUGGA WURO / TUGGA PRY SCHOOL",
+    "code": "007",
+    "pu_code": "02/12/04/007",
+    "old_name": "",
+    "polling_unit_id": 4034,
+    "created_at": "2020-07-15T18:07:29.085Z",
+    "updated_at": "2023-02-23T20:13:18.677Z",
+    "__v": 0,
+    "pu_code_string": "021204007",
+    "state_name": "ADAMAWA",
+    "lga_name": "MAYO - BELWA",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe47c339df295eae1be2b2",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4028/result_48060_1677500672_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T18:28:19.308Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcee7ae6efd20cc275e0ed",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4028/result_48060_1677500672_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T12:52:10.644Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcee7ae6efd20cc275e0ed",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4028/result_48060_1677500672_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T12:52:11.823Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdf8fa9d7d884e2ed834be",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/4034/4034-1677587162.pdf",
+        "size": 4022377,
+        "updated_at": "2023-02-28T12:52:11.823Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdf8fa9d7d884e2ed834be",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/4034/4034-1677587162.pdf",
+        "size": 4022377,
+        "updated_at": "2023-02-28T18:28:19.308Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdf8fb9d7d884e2ed83649",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/4034/4034-1677587162.pdf",
+        "size": 4022377,
+        "updated_at": "2023-02-28T18:28:19.308Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 2,
+    "is_accredited": 1,
+    "_id": "63f7772fb3695239c617f81e",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3131,
+    "ward_id": 17827,
+    "state_constituency_id": 46,
+    "state_constituency": "5f0f371c93d20b39ceee1fe2",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "TUGGA PRIMARY HEALTH CARE CENTER",
+    "code": "012",
+    "pu_code": "02/12/04/012",
+    "old_name": "",
+    "polling_unit_id": 128641,
+    "created_at": "2023-02-23T14:24:47.995Z",
+    "updated_at": "2023-02-23T21:50:05.382Z",
+    "__v": 0,
+    "pu_code_string": "021204012",
+    "state_name": "ADAMAWA",
+    "lga_name": "MAYO - BELWA",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe45eb39df295eae1ba624",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620252/result_48065_1677499969_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T18:20:27.797Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcee58e6efd20cc275b529",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620252/result_48065_1677499969_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T13:28:07.340Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcee58e6efd20cc275b529",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620252/result_48065_1677499969_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T13:28:08.393Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fe01678840a25069173668",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/128641/128641-1677589450.pdf",
+        "size": 3909629,
+        "updated_at": "2023-02-28T13:28:08.393Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fe01678840a25069173668",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/128641/128641-1677589450.pdf",
+        "size": 3909629,
+        "updated_at": "2023-02-28T18:20:27.797Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fe01688840a250691737d7",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/128641/128641-1677589450.pdf",
+        "size": 3909629,
+        "updated_at": "2023-02-28T18:20:27.797Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f45e0c440353badb0e653",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3131,
+    "ward_id": 17827,
+    "state_constituency_id": 46,
+    "state_constituency": "5f0f371c93d20b39ceee1fe2",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "GENGLE/ GENGLE PRY. SCH.",
+    "code": "002",
+    "pu_code": "02/12/04/002",
+    "old_name": "",
+    "polling_unit_id": 4029,
+    "created_at": "2020-07-15T18:07:28.738Z",
+    "updated_at": "2023-02-23T20:13:18.422Z",
+    "__v": 0,
+    "pu_code_string": "021204002",
+    "state_name": "ADAMAWA",
+    "lga_name": "MAYO - BELWA",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe41cd39df295eae1acf2e",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4023/result_48055_1677498845_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T18:02:53.907Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceb64e6efd20cc2754ef4",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4023/result_48055_1677498845_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T11:28:00.270Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceb64e6efd20cc2754ef4",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4023/result_48055_1677498845_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T11:45:00.369Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fde5403db89d47ea8fd86e",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/4029/4029-1677583593.pdf",
+        "size": 4019566,
+        "updated_at": "2023-02-28T11:45:00.369Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fde5403db89d47ea8fd86e",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/4029/4029-1677583593.pdf",
+        "size": 4019566,
+        "updated_at": "2023-02-28T18:02:53.907Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fde93c3db89d47ea8fe1cc",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/4029/4029-1677584687.pdf",
+        "size": 3909629,
+        "updated_at": "2023-02-28T18:02:53.907Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f45e0c440353badb0e652",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3131,
+    "ward_id": 17827,
+    "state_constituency_id": 46,
+    "state_constituency": "5f0f371c93d20b39ceee1fe2",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "BIDDA/ BIDDA PRY. SCH.",
+    "code": "001",
+    "pu_code": "02/12/04/001",
+    "old_name": "",
+    "polling_unit_id": 4028,
+    "created_at": "2020-07-15T18:07:28.682Z",
+    "updated_at": "2023-02-23T20:13:18.381Z",
+    "__v": 0,
+    "pu_code_string": "021204001",
+    "state_name": "ADAMAWA",
+    "lga_name": "MAYO - BELWA",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe3bb06f2c3d5c2e711dda",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4022/result_48054_1677503893_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T17:36:48.618Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcd8868f41741d1230ec3f",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4022/result_48054_1677503893_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:12:18.063Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fce961e6efd20cc275108b",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4022/result_48054_1677503893_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:12:18.063Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fce961e6efd20cc275108b",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4022/result_48054_1677503893_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:36:48.618Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe35f2d86c3a5b6d10e40e",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4022/result_48054_1677503893_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:36:48.618Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f45e1c440353badb0e657",
+    "state_id": 2,
+    "state": "5f0eb6e06dda22674979bf23",
+    "lga_id": 3131,
+    "ward_id": 17827,
+    "state_constituency_id": 46,
+    "state_constituency": "5f0f371c93d20b39ceee1fe2",
+    "federal_constituency_id": 12,
+    "federal_constituency": "5f0f37f42d77c83a06f0f31c",
+    "senatorial_district_id": 6,
+    "senatorial_district": "5f0f3952970bd83a6f4539c0",
+    "name": "KUGAMA WURO DABO/ KOFAR JAURO KUGAMA",
+    "code": "006",
+    "pu_code": "02/12/04/006",
+    "old_name": "",
+    "polling_unit_id": 4033,
+    "created_at": "2020-07-15T18:07:29.034Z",
+    "updated_at": "2023-02-23T20:13:18.614Z",
+    "__v": 0,
+    "pu_code_string": "021204006",
+    "state_name": "ADAMAWA",
+    "lga_name": "MAYO - BELWA",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe38646f2c3d5c2e70a0c8",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4027/result_48059_1677499676_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T17:22:44.301Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcd6378f41741d12309479",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4027/result_48059_1677499676_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T12:52:05.964Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fce6b3e6efd20cc274b9f9",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4027/result_48059_1677499676_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T12:52:05.964Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fce6b3e6efd20cc274b9f9",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4027/result_48059_1677499676_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T12:52:07.120Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdf8f59d7d884e2ed82ef7",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/4033/4033-1677586882.pdf",
+        "size": 4019566,
+        "updated_at": "2023-02-28T12:52:07.120Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdf8f59d7d884e2ed82ef7",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/4033/4033-1677586882.pdf",
+        "size": 4019566,
+        "updated_at": "2023-02-28T13:57:05.871Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdf8f79d7d884e2ed8306d",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/4033/4033-1677586882.pdf",
+        "size": 4019566,
+        "updated_at": "2023-02-28T13:57:05.871Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdf8f79d7d884e2ed8306d",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17827/pu/4033/4033-1677586882.pdf",
+        "size": 4019566,
+        "updated_at": "2023-02-28T17:22:44.301Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fe0831c43294524a48d70b",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4027/result_48059_1677499676_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T17:22:44.301Z"
+      }
+    ],
+    "has_old_documents": true
+  }
+]
