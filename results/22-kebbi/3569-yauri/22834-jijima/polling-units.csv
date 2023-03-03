@@ -1,0 +1,9 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KEBBI,YAURI,JIJIMA,T/NOMA/T/ROGO,21/20/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3569/ward/22834/pu/72678/72678-1677612859.pdf,true
+KEBBI,YAURI,JIJIMA,UTSUN,21/20/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3569/ward/22834/pu/72677/72677-1677610823.pdf,true
+KEBBI,YAURI,JIJIMA,BARIKI,21/20/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3569/ward/22834/pu/72676/72676-1677609100.pdf,true
+KEBBI,YAURI,JIJIMA,JIJIMA SARKI,21/20/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/71979/result_140340_1677608130_thumb.jpg,true
+KEBBI,YAURI,JIJIMA,UNG. KUKA,21/20/03/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/71978/result_140339_1677605294_thumb.jpg,true
+KEBBI,YAURI,JIJIMA,TUNGAN MAISHAGALI,21/20/03/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/71977/result_140338_1677601512_thumb.jpg,false
+KEBBI,YAURI,JIJIMA,JIJIMA FARANSAWA,21/20/03/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/71976/result_140337_1677588970_thumb.jpg,true
+KEBBI,YAURI,JIJIMA,KANGUNGU JIJIMA,21/20/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/71975/result_140336_1677584509_thumb.jpg,false
