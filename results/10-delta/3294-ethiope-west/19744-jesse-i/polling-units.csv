@@ -1,0 +1,27 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+DELTA,ETHIOPE  WEST,,ATIWOR VILLAGE I/OPEN SPACE,10/06/03/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29384/result_145188_1677492825_thumb.jpg,true
+DELTA,ETHIOPE  WEST,,COLLEGE/L.A. PRIMARY SCHOOL,10/06/03/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29382/result_145186_1677498688_thumb.jpg,true
+DELTA,ETHIOPE  WEST,,JESSE SECONDARY SCH. IDJEDAKA JESSE,10/06/03/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629161/result_145204_1677500919_thumb.jpg,true
+DELTA,ETHIOPE  WEST,,OKUODE II/OPEN SPACE,10/06/03/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29392/result_145196_1677498406_thumb.jpg,true
+DELTA,ETHIOPE  WEST,,I.C.D.U HALL JESSE,10/06/03/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629154/result_145197_1677495742_thumb.jpg,true
+DELTA,ETHIOPE  WEST,,OGUEDION/UKUDEJOR ROAD OGUEDION HALL,10/06/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29381/result_145185_1677486820_thumb.jpg,true
+DELTA,ETHIOPE  WEST,,ATIWOR ROAD/OVIE PALACE,10/06/03/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29383/result_145187_1677496932_thumb.jpg,true
+DELTA,ETHIOPE  WEST,,OKUEKA PRI. SCH. JESSE,10/06/03/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629160/result_145203_1677491105_thumb.jpg,true
+DELTA,ETHIOPE  WEST,,OKUEKA I/OPEN SPACE,10/06/03/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29386/result_145190_1677504002_thumb.jpg,true
+DELTA,ETHIOPE  WEST,,ATIWOR COMMUNITY HALL JESSE,10/06/03/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629157/result_145200_1677495586_thumb.jpg,true
+DELTA,ETHIOPE  WEST,,ATIWOR PRI. HEALTH CARE CENTRE JESSE,10/06/03/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629156/result_145199_1677492318_thumb.jpg,true
+DELTA,ETHIOPE  WEST,,OPEN SPACE BY SIBEL INTERNATIONAL SCH. JESSE,10/06/03/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629159/result_145202_1677588501_thumb.jpg,false
+DELTA,ETHIOPE  WEST,,JENESA II/JENESA PRIMARY SCHOOL,10/06/03/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29389/result_145193_1677586216_thumb.jpg,false
+DELTA,ETHIOPE  WEST,,JENESA I/JENESA PRIMARY SCHOOL,10/06/03/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29388/result_145192_1677586006_thumb.jpg,false
+DELTA,ETHIOPE  WEST,,"UDUIGHE COMMUNITY HALL, JESSE",10/06/03/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629158/result_145201_1677586999_thumb.jpg,false
+DELTA,ETHIOPE  WEST,,AMAGHA STREET/IDJERHE PRIMARY SCHOOL,10/06/03/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29378/result_145182_1677581220_thumb.jpg,false
+DELTA,ETHIOPE  WEST,,I.C.E JESSE,10/06/03/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+DELTA,ETHIOPE  WEST,,UDUAKA ROAD/BROAD STREET IDJERHE PRIMARY SCHOOL,10/06/03/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29380/result_145184_1677581498_thumb.jpg,false
+DELTA,ETHIOPE  WEST,,IDJERHE GRAMMAR SCHOOL JESSE,10/06/03/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629162/result_145205_1677589053_thumb.jpg,false
+DELTA,ETHIOPE  WEST,,UMUKU ROAD/ERHIEKEWOLE IDJERHE PRIMARY SCHOOL,10/06/03/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29379/result_145183_1677581371_thumb.jpg,false
+DELTA,ETHIOPE  WEST,,UDUIGHE QUARTERS/MATERNITY,10/06/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29377/result_145181_1677581012_thumb.jpg,false
+DELTA,ETHIOPE  WEST,,OKUODE II/OPEN SPACE,10/06/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29387/result_145191_1677585412_thumb.jpg,false
+DELTA,ETHIOPE  WEST,,EJENESAN COMMUNITY HALL JESSE,10/06/03/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19744/pu/136444/136444-1677499561.pdf,false
+DELTA,ETHIOPE  WEST,,JENESA III/JENESA PRIMARY SCHOOL,10/06/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19744/pu/29400/29400-1677498454.pdf,false
+DELTA,ETHIOPE  WEST,,ATIWOR VILLAGE II/OPEN SPACE,10/06/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19744/pu/29395/29395-1677493262.pdf,false
+DELTA,ETHIOPE  WEST,,IDJERAKA/OPEN SPACE,10/06/03/015,,false
