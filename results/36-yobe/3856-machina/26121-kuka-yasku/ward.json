@@ -17,5 +17,7 @@
   "ward_id": 26121,
   "created_at": "2020-07-15T17:39:09.929Z",
   "updated_at": "2020-07-15T17:39:09.929Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "YOBE",
+  "lga_name": "MACHINA"
 }

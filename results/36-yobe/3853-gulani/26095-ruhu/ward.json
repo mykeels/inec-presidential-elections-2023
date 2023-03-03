@@ -17,5 +17,7 @@
   "ward_id": 26095,
   "created_at": "2020-07-15T17:39:06.022Z",
   "updated_at": "2020-07-15T17:39:06.022Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "YOBE",
+  "lga_name": "GULANI"
 }
