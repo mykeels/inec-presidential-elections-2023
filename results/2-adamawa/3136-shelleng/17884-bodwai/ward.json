@@ -17,5 +17,7 @@
   "ward_id": 17884,
   "created_at": "2020-07-15T17:18:37.522Z",
   "updated_at": "2020-07-15T17:18:37.522Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "ADAMAWA",
+  "lga_name": "SHELLENG"
 }
