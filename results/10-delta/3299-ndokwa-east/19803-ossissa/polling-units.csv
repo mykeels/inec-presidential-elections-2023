@@ -1,0 +1,11 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+DELTA,NDOKWA EAST,,OBIOGWA UMUOKOLO UTCHI II,10/11/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3299/ward/19803/pu/30141/30141-1677578952.pdf,false
+DELTA,NDOKWA EAST,,"UMULEKE PRIMARY SCHOOL, UMUEYI/DEWAYE I",10/11/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3299/ward/19803/pu/30144/30144-1677577461.pdf,true
+DELTA,NDOKWA EAST,,"UMUEZE PRIMARY SCHOOL, UMUEZE II",10/11/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3299/ward/19803/pu/30143/30143-1677576611.pdf,false
+DELTA,NDOKWA EAST,,"UMUEZE PRIMARY SCHOOL, UMUEZE I",10/11/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3299/ward/19803/pu/30142/30142-1677575940.pdf,false
+DELTA,NDOKWA EAST,,OBIOGWA UMUOKOLO UTCHI I,10/11/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3299/ward/19803/pu/30140/30140-1677575367.pdf,true
+DELTA,NDOKWA EAST,,"ADOFI PRIMARY SCHOOL , OSSISSA UMUOSIMILI III",10/11/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3299/ward/19803/pu/30139/30139-1677573628.pdf,true
+DELTA,NDOKWA EAST,,"ADOFI PRIMARY SCHOOL , OSSISSA UMUOSIMILI II",10/11/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3299/ward/19803/pu/30138/30138-1677572533.pdf,true
+DELTA,NDOKWA EAST,,"ADOFI PRIMARY SCHOOL , OSSISSA UMUOSIMILI I",10/11/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3299/ward/19803/pu/30137/30137-1677520807.pdf,false
+DELTA,NDOKWA EAST,,"UMULEKE PRIMARY SCHOOL, UMUEYI/DEWAYE II",10/11/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/01/pu/009/009-1677364237.pdf,false
+DELTA,NDOKWA EAST,,"OLOA PRIMARY SCHOOL, OLOA - OSSISSA",10/11/01/010,,false

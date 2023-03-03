@@ -1,0 +1,927 @@
+[
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 2,
+    "is_accredited": 1,
+    "_id": "63f77f6db3695239c6197129",
+    "state_id": 10,
+    "state": "5f0eb6e16dda22674979bf2b",
+    "lga_id": 3311,
+    "ward_id": 19936,
+    "state_constituency_id": 271,
+    "state_constituency": "5f0f372b93d20b39ceee20c3",
+    "federal_constituency_id": 93,
+    "federal_constituency": "5f0f37f82d77c83a06f0f369",
+    "senatorial_district_id": 31,
+    "senatorial_district": "5f0f3953970bd83a6f4539d3",
+    "name": "OGBUDUGBUDU TOWN HALL, EGBEMA IV",
+    "code": "008",
+    "pu_code": "10/23/10/008",
+    "old_name": "",
+    "polling_unit_id": 138090,
+    "created_at": "2023-02-23T14:59:57.422Z",
+    "updated_at": "2023-02-23T21:59:23.009Z",
+    "__v": 0,
+    "pu_code_string": "102310008",
+    "state_name": "DELTA",
+    "lga_name": "WARRI  NORTH",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe75325e25666708799202",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/630796/result_149340_1677519797_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T21:42:10.322Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcef44e6efd20cc276f53a",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/630796/result_149340_1677519797_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T09:20:10.950Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcef44e6efd20cc276f53a",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/630796/result_149340_1677519797_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T09:20:10.992Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74a764de23f78b1b14f",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/138090/138090-1677564249.pdf",
+        "size": 325896,
+        "updated_at": "2023-02-28T09:20:10.992Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74a764de23f78b1b14f",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/138090/138090-1677564249.pdf",
+        "size": 325896,
+        "updated_at": "2023-02-28T09:20:11.035Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74a764de23f78b1b167",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/138090/138090-1677564265.pdf",
+        "size": 325896,
+        "updated_at": "2023-02-28T09:20:11.035Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74a764de23f78b1b167",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/138090/138090-1677564265.pdf",
+        "size": 325896,
+        "updated_at": "2023-02-28T09:20:12.139Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74b764de23f78b1b17d",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/138090/138090-1677564291.pdf",
+        "size": 325896,
+        "updated_at": "2023-02-28T09:20:12.139Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74b764de23f78b1b17d",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/138090/138090-1677564291.pdf",
+        "size": 325896,
+        "updated_at": "2023-02-28T09:20:12.183Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74c764de23f78b1b34a",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/138090/138090-1677564249.pdf",
+        "size": 325896,
+        "updated_at": "2023-02-28T09:20:12.183Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74c764de23f78b1b34a",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/138090/138090-1677564249.pdf",
+        "size": 325896,
+        "updated_at": "2023-02-28T09:20:12.227Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74c764de23f78b1b35d",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/138090/138090-1677564265.pdf",
+        "size": 325896,
+        "updated_at": "2023-02-28T09:20:12.227Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74c764de23f78b1b35d",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/138090/138090-1677564265.pdf",
+        "size": 325896,
+        "updated_at": "2023-02-28T21:42:10.323Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74c764de23f78b1b370",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/138090/138090-1677564291.pdf",
+        "size": 325896,
+        "updated_at": "2023-02-28T21:42:10.323Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 2,
+    "is_accredited": 1,
+    "_id": "63f77f6bb3695239c61970e0",
+    "state_id": 10,
+    "state": "5f0eb6e16dda22674979bf2b",
+    "lga_id": 3311,
+    "ward_id": 19936,
+    "state_constituency_id": 271,
+    "state_constituency": "5f0f372b93d20b39ceee20c3",
+    "federal_constituency_id": 93,
+    "federal_constituency": "5f0f37f82d77c83a06f0f369",
+    "senatorial_district_id": 31,
+    "senatorial_district": "5f0f3953970bd83a6f4539d3",
+    "name": "ABAH HILL, OGBUDUGBUDU",
+    "code": "007",
+    "pu_code": "10/23/10/007",
+    "old_name": "",
+    "polling_unit_id": 138089,
+    "created_at": "2023-02-23T14:59:55.911Z",
+    "updated_at": "2023-02-23T21:59:22.958Z",
+    "__v": 0,
+    "pu_code_string": "102310007",
+    "state_name": "DELTA",
+    "lga_name": "WARRI  NORTH",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe71ef5e2566670879239c",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/630795/result_149339_1677519729_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T21:28:15.998Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcef07e6efd20cc276a2bd",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/630795/result_149339_1677519729_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T09:20:08.657Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcef07e6efd20cc276a2bd",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/630795/result_149339_1677519729_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T09:20:09.880Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc748764de23f78b1add0",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/138089/138089-1677563727.pdf",
+        "size": 299100,
+        "updated_at": "2023-02-28T09:20:09.880Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc748764de23f78b1add0",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/138089/138089-1677563727.pdf",
+        "size": 299100,
+        "updated_at": "2023-02-28T21:28:15.998Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc749764de23f78b1afbc",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/138089/138089-1677563727.pdf",
+        "size": 299100,
+        "updated_at": "2023-02-28T21:28:15.998Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4d3cc440353badb1532e",
+    "state_id": 10,
+    "state": "5f0eb6e16dda22674979bf2b",
+    "lga_id": 3311,
+    "ward_id": 19936,
+    "state_constituency_id": 271,
+    "state_constituency": "5f0f372b93d20b39ceee20c3",
+    "federal_constituency_id": 93,
+    "federal_constituency": "5f0f37f82d77c83a06f0f369",
+    "senatorial_district_id": 31,
+    "senatorial_district": "5f0f3953970bd83a6f4539d3",
+    "name": "ABADIGBENE PRIMARY SCHOOL, ABADIGBENE I",
+    "code": "001",
+    "pu_code": "10/23/10/001",
+    "old_name": "",
+    "polling_unit_id": 31885,
+    "created_at": "2020-07-15T18:38:52.532Z",
+    "updated_at": "2023-02-23T20:35:29.572Z",
+    "__v": 0,
+    "pu_code_string": "102310001",
+    "state_name": "DELTA",
+    "lga_name": "WARRI  NORTH",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe71365e25666708790b4e",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31875/result_149333_1677519266_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T21:25:10.641Z"
+    },
+    "old_documents": [
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fb7c24055091420d1f0822",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/10/pu/001/001-1677425661.pdf",
+        "size": 3078813,
+        "updated_at": "2023-02-28T21:25:10.641Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceef9e6efd20cc2769042",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31875/result_149333_1677519266_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T21:25:10.641Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4d3cc440353badb15330",
+    "state_id": 10,
+    "state": "5f0eb6e16dda22674979bf2b",
+    "lga_id": 3311,
+    "ward_id": 19936,
+    "state_constituency_id": 271,
+    "state_constituency": "5f0f372b93d20b39ceee20c3",
+    "federal_constituency_id": 93,
+    "federal_constituency": "5f0f37f82d77c83a06f0f369",
+    "senatorial_district_id": 31,
+    "senatorial_district": "5f0f3953970bd83a6f4539d3",
+    "name": "UTOLU PRIMARY SCHOOL, OGBUDUGBUDU I",
+    "code": "003",
+    "pu_code": "10/23/10/003",
+    "old_name": "",
+    "polling_unit_id": 31887,
+    "created_at": "2020-07-15T18:38:52.637Z",
+    "updated_at": "2023-02-23T20:35:29.674Z",
+    "__v": 0,
+    "pu_code_string": "102310003",
+    "state_name": "DELTA",
+    "lga_name": "WARRI  NORTH",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe665fd74638649a13b591",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31877/result_149335_1677519384_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T20:38:55.367Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceed8e6efd20cc276616a",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31877/result_149335_1677519384_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T09:20:00.984Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fceed8e6efd20cc276616a",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31877/result_149335_1677519384_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T09:20:02.083Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc740764de23f78b1a19d",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/31887/31887-1677561401.pdf",
+        "size": 213107,
+        "updated_at": "2023-02-28T09:20:02.083Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc740764de23f78b1a19d",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/31887/31887-1677561401.pdf",
+        "size": 213107,
+        "updated_at": "2023-02-28T20:38:55.367Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc742764de23f78b1a322",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/31887/31887-1677561401.pdf",
+        "size": 213107,
+        "updated_at": "2023-02-28T20:38:55.367Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 2,
+    "is_accredited": 1,
+    "_id": "63f77f6eb3695239c6197172",
+    "state_id": 10,
+    "state": "5f0eb6e16dda22674979bf2b",
+    "lga_id": 3311,
+    "ward_id": 19936,
+    "state_constituency_id": 271,
+    "state_constituency": "5f0f372b93d20b39ceee20c3",
+    "federal_constituency_id": 93,
+    "federal_constituency": "5f0f37f82d77c83a06f0f369",
+    "senatorial_district_id": 31,
+    "senatorial_district": "5f0f3953970bd83a6f4539d3",
+    "name": "KRUKRU-GBENE COMMUNITY",
+    "code": "009",
+    "pu_code": "10/23/10/009",
+    "old_name": "",
+    "polling_unit_id": 138091,
+    "created_at": "2023-02-23T14:59:58.852Z",
+    "updated_at": "2023-02-23T21:59:23.065Z",
+    "__v": 0,
+    "pu_code_string": "102310009",
+    "state_name": "DELTA",
+    "lga_name": "WARRI  NORTH",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe47b539df295eae1be113",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/630797/result_149341_1677519926_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T18:28:05.344Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcee79e6efd20cc275e05a",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/630797/result_149341_1677519926_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T09:20:13.311Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcee79e6efd20cc275e05a",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/630797/result_149341_1677519926_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T09:20:14.539Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74d764de23f78b1b531",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/138091/138091-1677564951.pdf",
+        "size": 222104,
+        "updated_at": "2023-02-28T09:20:14.539Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74d764de23f78b1b531",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/138091/138091-1677564951.pdf",
+        "size": 222104,
+        "updated_at": "2023-02-28T18:28:05.344Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74e764de23f78b1b737",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/138091/138091-1677564951.pdf",
+        "size": 222104,
+        "updated_at": "2023-02-28T18:28:05.344Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4d3cc440353badb15333",
+    "state_id": 10,
+    "state": "5f0eb6e16dda22674979bf2b",
+    "lga_id": 3311,
+    "ward_id": 19936,
+    "state_constituency_id": 271,
+    "state_constituency": "5f0f372b93d20b39ceee20c3",
+    "federal_constituency_id": 93,
+    "federal_constituency": "5f0f37f82d77c83a06f0f369",
+    "senatorial_district_id": 31,
+    "senatorial_district": "5f0f3953970bd83a6f4539d3",
+    "name": "OKIFAMBA PRIMARY SCHOOL, OKIFAMBA",
+    "code": "006",
+    "pu_code": "10/23/10/006",
+    "old_name": "",
+    "polling_unit_id": 31890,
+    "created_at": "2020-07-15T18:38:52.813Z",
+    "updated_at": "2023-02-23T20:35:29.829Z",
+    "__v": 0,
+    "pu_code_string": "102310006",
+    "state_name": "DELTA",
+    "lga_name": "WARRI  NORTH",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe444e39df295eae1b6ef2",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31880/result_149338_1677519671_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T18:13:34.238Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fced79e6efd20cc2758cd8",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31880/result_149338_1677519671_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T09:20:07.218Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fced79e6efd20cc2758cd8",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31880/result_149338_1677519671_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T09:20:08.358Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc747764de23f78b1ab76",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/31890/31890-1677563274.pdf",
+        "size": 297674,
+        "updated_at": "2023-02-28T09:20:08.358Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc747764de23f78b1ab76",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/31890/31890-1677563274.pdf",
+        "size": 297674,
+        "updated_at": "2023-02-28T18:13:34.239Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc748764de23f78b1ad54",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/31890/31890-1677563274.pdf",
+        "size": 297674,
+        "updated_at": "2023-02-28T18:13:34.239Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4d3cc440353badb15331",
+    "state_id": 10,
+    "state": "5f0eb6e16dda22674979bf2b",
+    "lga_id": 3311,
+    "ward_id": 19936,
+    "state_constituency_id": 271,
+    "state_constituency": "5f0f372b93d20b39ceee20c3",
+    "federal_constituency_id": 93,
+    "federal_constituency": "5f0f37f82d77c83a06f0f369",
+    "senatorial_district_id": 31,
+    "senatorial_district": "5f0f3953970bd83a6f4539d3",
+    "name": "UTOLU PRIMARY SCHOOL, OGBUDUGBUDU II",
+    "code": "004",
+    "pu_code": "10/23/10/004",
+    "old_name": "",
+    "polling_unit_id": 31888,
+    "created_at": "2020-07-15T18:38:52.696Z",
+    "updated_at": "2023-02-23T20:35:29.725Z",
+    "__v": 0,
+    "pu_code_string": "102310004",
+    "state_name": "DELTA",
+    "lga_name": "WARRI  NORTH",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe444d39df295eae1b6ee7",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31878/result_149336_1677519471_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T18:13:33.977Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fced79e6efd20cc2758ccf",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31878/result_149336_1677519471_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T09:20:04.636Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fced79e6efd20cc2758ccf",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31878/result_149336_1677519471_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T09:20:05.776Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc744764de23f78b1a744",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/31888/31888-1677562398.pdf",
+        "size": 270434,
+        "updated_at": "2023-02-28T09:20:05.776Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc744764de23f78b1a744",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/31888/31888-1677562398.pdf",
+        "size": 270434,
+        "updated_at": "2023-02-28T18:13:33.977Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc745764de23f78b1a912",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/31888/31888-1677562398.pdf",
+        "size": 270434,
+        "updated_at": "2023-02-28T18:13:33.977Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 2,
+    "is_accredited": 1,
+    "_id": "63f77f73b3695239c6197204",
+    "state_id": 10,
+    "state": "5f0eb6e16dda22674979bf2b",
+    "lga_id": 3311,
+    "ward_id": 19936,
+    "state_constituency_id": 271,
+    "state_constituency": "5f0f372b93d20b39ceee20c3",
+    "federal_constituency_id": 93,
+    "federal_constituency": "5f0f37f82d77c83a06f0f369",
+    "senatorial_district_id": 31,
+    "senatorial_district": "5f0f3953970bd83a6f4539d3",
+    "name": "OPUABO/ASANTUGBENE COMMUNITY HALL, OGBUDUGBUDU",
+    "code": "011",
+    "pu_code": "10/23/10/011",
+    "old_name": "",
+    "polling_unit_id": 138093,
+    "created_at": "2023-02-23T15:00:03.388Z",
+    "updated_at": "2023-02-23T21:59:23.175Z",
+    "__v": 0,
+    "pu_code_string": "102310011",
+    "state_name": "DELTA",
+    "lga_name": "WARRI  NORTH",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe444239df295eae1b6d8b",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com",
+      "size": 1000,
+      "updated_at": "2023-02-28T18:13:22.848Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fced6fe6efd20cc2758bbd",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com",
+        "size": 1000,
+        "updated_at": "2023-02-28T09:20:15.293Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fced6fe6efd20cc2758bbd",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com",
+        "size": 1000,
+        "updated_at": "2023-02-28T09:20:16.498Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74f764de23f78b1b86f",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/138093/138093-1677565639.pdf",
+        "size": 328244,
+        "updated_at": "2023-02-28T09:20:16.498Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74f764de23f78b1b86f",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/138093/138093-1677565639.pdf",
+        "size": 328244,
+        "updated_at": "2023-02-28T18:13:22.848Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc750764de23f78b1ba7a",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/138093/138093-1677565639.pdf",
+        "size": 328244,
+        "updated_at": "2023-02-28T18:13:22.848Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4d3cc440353badb15332",
+    "state_id": 10,
+    "state": "5f0eb6e16dda22674979bf2b",
+    "lga_id": 3311,
+    "ward_id": 19936,
+    "state_constituency_id": 271,
+    "state_constituency": "5f0f372b93d20b39ceee20c3",
+    "federal_constituency_id": 93,
+    "federal_constituency": "5f0f37f82d77c83a06f0f369",
+    "senatorial_district_id": 31,
+    "senatorial_district": "5f0f3953970bd83a6f4539d3",
+    "name": "UTOLU PRIMARY SCHOOL, OGBUDUGBUDU III",
+    "code": "005",
+    "pu_code": "10/23/10/005",
+    "old_name": "",
+    "polling_unit_id": 31889,
+    "created_at": "2020-07-15T18:38:52.760Z",
+    "updated_at": "2023-02-23T20:35:29.774Z",
+    "__v": 0,
+    "pu_code_string": "102310005",
+    "state_name": "DELTA",
+    "lga_name": "WARRI  NORTH",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe443139df295eae1b6b90",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31879/result_149337_1677519579_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T18:13:05.942Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fced62e6efd20cc2758a25",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31879/result_149337_1677519579_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T09:20:05.742Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fced62e6efd20cc2758a25",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31879/result_149337_1677519579_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T09:20:06.833Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc745764de23f78b1a901",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/31889/31889-1677562785.pdf",
+        "size": 297885,
+        "updated_at": "2023-02-28T09:20:06.833Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc745764de23f78b1a901",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/31889/31889-1677562785.pdf",
+        "size": 297885,
+        "updated_at": "2023-02-28T18:13:05.942Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc746764de23f78b1aad0",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/31889/31889-1677562785.pdf",
+        "size": 297885,
+        "updated_at": "2023-02-28T18:13:05.942Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 2,
+    "is_accredited": 1,
+    "_id": "63f77f70b3695239c61971bb",
+    "state_id": 10,
+    "state": "5f0eb6e16dda22674979bf2b",
+    "lga_id": 3311,
+    "ward_id": 19936,
+    "state_constituency_id": 271,
+    "state_constituency": "5f0f372b93d20b39ceee20c3",
+    "federal_constituency_id": 93,
+    "federal_constituency": "5f0f37f82d77c83a06f0f369",
+    "senatorial_district_id": 31,
+    "senatorial_district": "5f0f3953970bd83a6f4539d3",
+    "name": "AROTO-GBENE COMMUNITY",
+    "code": "010",
+    "pu_code": "10/23/10/010",
+    "old_name": "",
+    "polling_unit_id": 138092,
+    "created_at": "2023-02-23T15:00:00.871Z",
+    "updated_at": "2023-02-23T21:59:23.115Z",
+    "__v": 0,
+    "pu_code_string": "102310010",
+    "state_name": "DELTA",
+    "lga_name": "WARRI  NORTH",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe431e39df295eae1b4607",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com",
+      "size": 1000,
+      "updated_at": "2023-02-28T18:08:30.378Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcec72e6efd20cc2756f04",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com",
+        "size": 1000,
+        "updated_at": "2023-02-28T09:20:14.301Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcec72e6efd20cc2756f04",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com",
+        "size": 1000,
+        "updated_at": "2023-02-28T09:20:14.470Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74e764de23f78b1b6cb",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/138092/138092-1677565268.pdf",
+        "size": 309541,
+        "updated_at": "2023-02-28T09:20:14.470Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74e764de23f78b1b6cb",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/138092/138092-1677565268.pdf",
+        "size": 309541,
+        "updated_at": "2023-02-28T09:20:15.520Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74e764de23f78b1b716",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/138092/138092-1677565287.pdf",
+        "size": 309541,
+        "updated_at": "2023-02-28T09:20:15.520Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74e764de23f78b1b716",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/138092/138092-1677565287.pdf",
+        "size": 309541,
+        "updated_at": "2023-02-28T09:20:15.695Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74f764de23f78b1b8d1",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/138092/138092-1677565268.pdf",
+        "size": 309541,
+        "updated_at": "2023-02-28T09:20:15.695Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74f764de23f78b1b8d1",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/138092/138092-1677565268.pdf",
+        "size": 309541,
+        "updated_at": "2023-02-28T18:08:30.378Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fdc74f764de23f78b1b91b",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/138092/138092-1677565287.pdf",
+        "size": 309541,
+        "updated_at": "2023-02-28T18:08:30.378Z"
+      }
+    ],
+    "has_old_documents": true
+  },
+  {
+    "status": "ACTIVE",
+    "generation": 1,
+    "db_generation": 1,
+    "is_accredited": 1,
+    "_id": "5f0f4d3cc440353badb1532f",
+    "state_id": 10,
+    "state": "5f0eb6e16dda22674979bf2b",
+    "lga_id": 3311,
+    "ward_id": 19936,
+    "state_constituency_id": 271,
+    "state_constituency": "5f0f372b93d20b39ceee20c3",
+    "federal_constituency_id": 93,
+    "federal_constituency": "5f0f37f82d77c83a06f0f369",
+    "senatorial_district_id": 31,
+    "senatorial_district": "5f0f3953970bd83a6f4539d3",
+    "name": "ABADIGBENE PRIMARY SCHOOL, ABADIGBENE II",
+    "code": "002",
+    "pu_code": "10/23/10/002",
+    "old_name": "",
+    "polling_unit_id": 31886,
+    "created_at": "2020-07-15T18:38:52.587Z",
+    "updated_at": "2023-02-23T20:35:29.626Z",
+    "__v": 0,
+    "pu_code_string": "102310002",
+    "state_name": "DELTA",
+    "lga_name": "WARRI  NORTH",
+    "document": {
+      "external": true,
+      "status": 1,
+      "_id": "63fe423e39df295eae1b27fe",
+      "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31876/result_149334_1677519324_thumb.jpg",
+      "size": 1000,
+      "updated_at": "2023-02-28T18:04:46.433Z"
+    },
+    "old_documents": [
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcebbee6efd20cc27559d7",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31876/result_149334_1677519324_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T05:09:59.928Z"
+      },
+      {
+        "external": true,
+        "status": 1,
+        "_id": "63fcebbee6efd20cc27559d7",
+        "url": "https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/31876/result_149334_1677519324_thumb.jpg",
+        "size": 1000,
+        "updated_at": "2023-02-28T18:04:46.433Z"
+      },
+      {
+        "external": false,
+        "status": 1,
+        "_id": "63fd8ca79f042d3563700770",
+        "url": "https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3311/ward/19936/pu/31886/31886-1677560965.pdf",
+        "size": 215843,
+        "updated_at": "2023-02-28T18:04:46.433Z"
+      }
+    ],
+    "has_old_documents": true
+  }
+]
