@@ -1,0 +1,20 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+EBONYI,EBONYI,,NKUMORO PRIMARY SCHOOL,11/04/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/20004/pu/138710/138710-1677777316.pdf,true
+EBONYI,EBONYI,,MBEKE PRIMARY SCHOOL,11/04/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/20004/pu/32759/32759-1677775451.pdf,false
+EBONYI,EBONYI,,OHAGELEDO PRIMARY SCHOOL,11/04/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/20004/pu/32760/32760-1677775103.pdf,false
+EBONYI,EBONYI,,OHAGELEDO VILLAGE SQUARE,11/04/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/20004/pu/32761/32761-1677774854.pdf,false
+EBONYI,EBONYI,,NWODEBO PRIMARY SCHOOL,11/04/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/20004/pu/32762/32762-1677774489.pdf,false
+EBONYI,EBONYI,,EKEBELIGWE PRIMARY SCHOOL,11/04/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/20004/pu/32763/32763-1677774289.pdf,false
+EBONYI,EBONYI,,EKEBELIGWE VILLAGE SQUARE,11/04/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/20004/pu/32764/32764-1677774016.pdf,false
+EBONYI,EBONYI,,NDIUGO PLAY GROUND,11/04/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631435/result_150350_1677772956_thumb.jpg,false
+EBONYI,EBONYI,,OBEGU OTEBU PLAY GROUND,11/04/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631436/result_150351_1677772140_thumb.jpg,false
+EBONYI,EBONYI,,OGBUJAROKU PRIMARY SCHOOL,11/04/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631437/result_150352_1677771934_thumb.jpg,false
+EBONYI,EBONYI,,MBEKE NWAJI PRIMARY SCHOOL,11/04/09/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631439/result_150354_1677771470_thumb.jpg,false
+EBONYI,EBONYI,,NDUNWEDU PLAY GROUND,11/04/09/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+EBONYI,EBONYI,,AZUOKPURU PLAY GROUND,11/04/09/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631441/result_150356_1677771023_thumb.jpg,false
+EBONYI,EBONYI,,OMA-OHAGE PLAY GROUND,11/04/09/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631442/result_150357_1677770678_thumb.jpg,false
+EBONYI,EBONYI,,NDUNWALEKE PLAY GROUND,11/04/09/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/20004/pu/138715/138715-1677762154.pdf,false
+EBONYI,EBONYI,,OFFIA- UBE PLAY GROUND,11/04/09/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/20004/pu/138716/138716-1677761808.pdf,false
+EBONYI,EBONYI,,OCHAPFU PRIMARY SCHOOL,11/04/09/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/20004/pu/138718/138718-1677760748.pdf,false
+EBONYI,EBONYI,,EDUPFU MOTO PLAY GROUND,11/04/09/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/20004/pu/138719/138719-1677759459.pdf,false
+EBONYI,EBONYI,,NDIOGODO- ABA PRIMARY SCHOOL,11/04/09/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/017/017-1677375812.pdf,false

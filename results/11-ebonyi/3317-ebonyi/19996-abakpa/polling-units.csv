@@ -1,0 +1,20 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+EBONYI,EBONYI,,HOSSANA PARK,11/04/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/19996/pu/32687/32687-1677667579.pdf,false
+EBONYI,EBONYI,,OPPOSITE EBO TRANS,11/04/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/19996/pu/32694/32694-1677667324.pdf,true
+EBONYI,EBONYI,,TRACAS OFFICE,11/04/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/19996/pu/32693/32693-1677667112.pdf,false
+EBONYI,EBONYI,,AWKA/AROCHUKWU,11/04/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/19996/pu/32692/32692-1677666929.pdf,false
+EBONYI,EBONYI,,ABACHA ROUND ABOUT,11/04/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/19996/pu/32691/32691-1677666804.pdf,false
+EBONYI,EBONYI,,HAUSA QUARTERS OPP. OGOJA ROAD,11/04/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/19996/pu/32690/32690-1677666641.pdf,false
+EBONYI,EBONYI,,HAUSA QUARTERS,11/04/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/19996/pu/32689/32689-1677666445.pdf,false
+EBONYI,EBONYI,,OLD PARK,11/04/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/19996/pu/32688/32688-1677666217.pdf,false
+EBONYI,EBONYI,,HOSSANA HILL,11/04/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3317/ward/19996/pu/32686/32686-1677665620.pdf,false
+EBONYI,EBONYI,,EBOTRANS. II,11/04/01/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631375/result_150290_1677636626_thumb.jpg,false
+EBONYI,EBONYI,,AROCHUKWU HALL II,11/04/01/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631372/result_150287_1677636291_thumb.jpg,false
+EBONYI,EBONYI,,HAUSA QUARTERS III OPP. OGOJA RD,11/04/01/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631370/result_150285_1677635971_thumb.jpg,false
+EBONYI,EBONYI,,HAUSA QUARTERS III,11/04/01/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631368/result_150283_1677635682_thumb.jpg,false
+EBONYI,EBONYI,,HAUSA QUARTERS II OPP. OGOJA RD,11/04/01/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631369/result_150284_1677635457_thumb.jpg,false
+EBONYI,EBONYI,,HOSSANA PARK II,11/04/01/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631366/result_150281_1677599844_thumb.jpg,false
+EBONYI,EBONYI,,ABACHA ROUNDABOUT II.,11/04/01/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631371/result_150286_1677599452_thumb.jpg,false
+EBONYI,EBONYI,,HAUSA QUARTERS II,11/04/01/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631367/result_150282_1677596945_thumb.jpg,false
+EBONYI,EBONYI,,TRACAS/ ABIA LINE,11/04/01/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631374/result_150289_1677595899_thumb.jpg,false
+EBONYI,EBONYI,,AROCHUKWU HALL III,11/04/01/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/631373/result_150288_1677594356_thumb.jpg,false

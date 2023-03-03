@@ -1,0 +1,10 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+EBONYI,IKWO,,EJARA PLAY GROUND,11/07/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20039/pu/138938/138938-1677611559.pdf,false
+EBONYI,IKWO,,NDI EBONYI PLAY GROUND,11/07/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20039/pu/33134/33134-1677611459.pdf,false
+EBONYI,IKWO,,ODE KPUTARA PLAY GROUND,11/07/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20039/pu/33133/33133-1677611378.pdf,false
+EBONYI,IKWO,,OGAGBO TOWN HALL,11/07/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20039/pu/33132/33132-1677611279.pdf,true
+EBONYI,IKWO,,IZO TOWN HALL,11/07/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20039/pu/33131/33131-1677611191.pdf,false
+EBONYI,IKWO,,OKONOGU TOWN HALL,11/07/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20039/pu/33130/33130-1677611072.pdf,false
+EBONYI,IKWO,,OME MARKET SQUARE,11/07/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3320/ward/20039/pu/33129/33129-1677610758.pdf,true
+EBONYI,IKWO,,AKAHUFU PLAY GROUND,11/07/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/675588/result_150582_1677508787_thumb.jpg,true
+EBONYI,IKWO,,"URBAN PRIMARY SCHOOL, OGAGBO",11/07/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/675589/result_150583_1677604388_thumb.jpg,false
