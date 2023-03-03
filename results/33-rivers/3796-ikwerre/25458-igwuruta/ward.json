@@ -17,5 +17,7 @@
   "ward_id": 25458,
   "created_at": "2020-07-15T17:37:31.152Z",
   "updated_at": "2020-07-15T17:37:31.152Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "RIVERS",
+  "lga_name": "IKWERRE"
 }

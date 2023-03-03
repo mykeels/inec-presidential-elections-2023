@@ -17,5 +17,7 @@
   "ward_id": 25489,
   "created_at": "2020-07-15T17:37:35.698Z",
   "updated_at": "2020-07-15T17:37:35.698Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "RIVERS",
+  "lga_name": "OBIO/AKPOR"
 }

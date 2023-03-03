@@ -17,5 +17,7 @@
   "ward_id": 25336,
   "created_at": "2020-07-15T17:37:10.883Z",
   "updated_at": "2020-07-15T17:37:10.883Z",
-  "__v": 0
+  "__v": 0,
+  "state_name": "RIVERS",
+  "lga_name": "ANDONI"
 }
