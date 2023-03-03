@@ -1,18 +1,18 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,SANGA,,UNG NUNGU II,18/20/06/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642903/result_117723_1677629133_thumb.jpg,false
-KADUNA,SANGA,,FOOTBALL FIELD II,18/20/06/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642901/result_117721_1677629008_thumb.jpg,false
-KADUNA,SANGA,,UNG TANIMU,18/20/06/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55938/result_117716_1677628737_thumb.jpg,false
-KADUNA,SANGA,,SANSANI,18/20/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55940/result_117718_1677627705_thumb.jpg,false
-KADUNA,SANGA,,FOOTBALL FIELD I,18/20/06/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642900/result_117720_1677627278_thumb.jpg,false
-KADUNA,SANGA,,AMMANTU,18/20/06/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55931/result_117709_1677626877_thumb.jpg,false
-KADUNA,SANGA,,MANTUR,18/20/06/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55934/result_117712_1677626267_thumb.jpg,false
-KADUNA,SANGA,,GINDIN KWARA,18/20/06/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642904/result_117724_1677625286_thumb.jpg,false
-KADUNA,SANGA,,PRI SCH,18/20/06/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642902/result_117722_1677624692_thumb.jpg,false
-KADUNA,SANGA,,UNG MADA,18/20/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55935/result_117713_1677624118_thumb.jpg,false
-KADUNA,SANGA,,FADAN AYU II,18/20/06/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55933/result_117711_1677623655_thumb.jpg,false
-KADUNA,SANGA,,PRI HEALTH CARE CENTER,18/20/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642899/result_117719_1677622952_thumb.jpg,false
-KADUNA,SANGA,,UNG TANIMU II,18/20/06/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642905/result_117725_1677622269_thumb.jpg,false
-KADUNA,SANGA,,UNG NUNGU,18/20/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55937/result_117715_1677621538_thumb.jpg,false
-KADUNA,SANGA,,FADAN AYU I,18/20/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/002/002-1677417711.pdf,false
-KADUNA,SANGA,,UNG MADAKI,18/20/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/006/006-1677395188.pdf,false
-KADUNA,SANGA,,AMMANTU II,18/20/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/009/009-1677395041.pdf,false
+KADUNA,SANGA,BOKANA,UNG NUNGU II,18/20/06/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642903/result_117723_1677629133_thumb.jpg,false
+KADUNA,SANGA,BOKANA,FOOTBALL FIELD II,18/20/06/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642901/result_117721_1677629008_thumb.jpg,false
+KADUNA,SANGA,BOKANA,UNG TANIMU,18/20/06/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55938/result_117716_1677628737_thumb.jpg,false
+KADUNA,SANGA,BOKANA,SANSANI,18/20/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55940/result_117718_1677627705_thumb.jpg,false
+KADUNA,SANGA,BOKANA,FOOTBALL FIELD I,18/20/06/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642900/result_117720_1677627278_thumb.jpg,false
+KADUNA,SANGA,BOKANA,AMMANTU,18/20/06/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55931/result_117709_1677626877_thumb.jpg,false
+KADUNA,SANGA,BOKANA,MANTUR,18/20/06/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55934/result_117712_1677626267_thumb.jpg,false
+KADUNA,SANGA,BOKANA,GINDIN KWARA,18/20/06/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642904/result_117724_1677625286_thumb.jpg,false
+KADUNA,SANGA,BOKANA,PRI SCH,18/20/06/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642902/result_117722_1677624692_thumb.jpg,false
+KADUNA,SANGA,BOKANA,UNG MADA,18/20/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55935/result_117713_1677624118_thumb.jpg,false
+KADUNA,SANGA,BOKANA,FADAN AYU II,18/20/06/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55933/result_117711_1677623655_thumb.jpg,false
+KADUNA,SANGA,BOKANA,PRI HEALTH CARE CENTER,18/20/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642899/result_117719_1677622952_thumb.jpg,false
+KADUNA,SANGA,BOKANA,UNG TANIMU II,18/20/06/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642905/result_117725_1677622269_thumb.jpg,false
+KADUNA,SANGA,BOKANA,UNG NUNGU,18/20/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55937/result_117715_1677621538_thumb.jpg,false
+KADUNA,SANGA,BOKANA,FADAN AYU I,18/20/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/002/002-1677417711.pdf,false
+KADUNA,SANGA,BOKANA,UNG MADAKI,18/20/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/006/006-1677395188.pdf,false
+KADUNA,SANGA,BOKANA,AMMANTU II,18/20/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/06/pu/009/009-1677395041.pdf,false

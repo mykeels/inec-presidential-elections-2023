@@ -1,24 +1,24 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,SANGA,,UNG MADAKI,18/20/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55978/result_117777_1677643366_thumb.jpg,false
-KADUNA,SANGA,,ABAN,18/20/10/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55991/result_117790_1677629374_thumb.jpg,false
-KADUNA,SANGA,,ANKOLO,18/20/10/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55990/result_117789_1677629058_thumb.jpg,false
-KADUNA,SANGA,,ARAK I,18/20/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55984/result_117783_1677628818_thumb.jpg,false
-KADUNA,SANGA,,LANGA I,18/20/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55985/result_117784_1677628588_thumb.jpg,false
-KADUNA,SANGA,,GALADIMA LANGA LEA PRI SCH,18/20/10/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642889/result_117795_1677627903_thumb.jpg,false
-KADUNA,SANGA,,ESSEN (WAKILI),18/20/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55982/result_117781_1677627646_thumb.jpg,false
-KADUNA,SANGA,,SANGA II,18/20/10/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642890/result_117796_1677627496_thumb.jpg,false
-KADUNA,SANGA,,JANDA,18/20/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55979/result_117778_1677627291_thumb.jpg,false
-KADUNA,SANGA,,TSAUNI MAJIDADI,18/20/10/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55988/result_117787_1677626455_thumb.jpg,false
-KADUNA,SANGA,,LEA PRI SCH HAYIN GADA,18/20/10/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642888/result_117794_1677626141_thumb.jpg,false
-KADUNA,SANGA,,UNG GIGINYA,18/20/10/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55992/result_117791_1677625305_thumb.jpg,false
-KADUNA,SANGA,,GBONKOK,18/20/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-KADUNA,SANGA,,ANKWA,18/20/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55983/result_117782_1677623662_thumb.jpg,false
-KADUNA,SANGA,,NUNUKWAUCHU,18/20/10/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55986/result_117785_1677623410_thumb.jpg,false
-KADUNA,SANGA,,AMBE,18/20/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55989/result_117788_1677623017_thumb.jpg,false
-KADUNA,SANGA,,LANGA II,18/20/10/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55994/result_117793_1677622544_thumb.jpg,false
-KADUNA,SANGA,,KIBAN,18/20/10/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55993/result_117792_1677622132_thumb.jpg,false
-KADUNA,SANGA,,KADUNA STATE PRIMARY CARE CEN,18/20/10/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642892/result_117798_1677621763_thumb.jpg,false
-KADUNA,SANGA,,LEA PRI SCH,18/20/10/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642891/result_117797_1677621339_thumb.jpg,false
-KADUNA,SANGA,,T. KULERE,18/20/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55981/result_117780_1677620782_thumb.jpg,false
-KADUNA,SANGA,,GBAGABA UBE PRI SCH,18/20/10/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642893/result_117799_1677616144_thumb.jpg,false
-KADUNA,SANGA,,SANGA,18/20/10/010,,false
+KADUNA,SANGA,ARAK,UNG MADAKI,18/20/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55978/result_117777_1677643366_thumb.jpg,false
+KADUNA,SANGA,ARAK,ABAN,18/20/10/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55991/result_117790_1677629374_thumb.jpg,false
+KADUNA,SANGA,ARAK,ANKOLO,18/20/10/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55990/result_117789_1677629058_thumb.jpg,false
+KADUNA,SANGA,ARAK,ARAK I,18/20/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55984/result_117783_1677628818_thumb.jpg,false
+KADUNA,SANGA,ARAK,LANGA I,18/20/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55985/result_117784_1677628588_thumb.jpg,false
+KADUNA,SANGA,ARAK,GALADIMA LANGA LEA PRI SCH,18/20/10/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642889/result_117795_1677627903_thumb.jpg,false
+KADUNA,SANGA,ARAK,ESSEN (WAKILI),18/20/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55982/result_117781_1677627646_thumb.jpg,false
+KADUNA,SANGA,ARAK,SANGA II,18/20/10/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642890/result_117796_1677627496_thumb.jpg,false
+KADUNA,SANGA,ARAK,JANDA,18/20/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55979/result_117778_1677627291_thumb.jpg,false
+KADUNA,SANGA,ARAK,TSAUNI MAJIDADI,18/20/10/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55988/result_117787_1677626455_thumb.jpg,false
+KADUNA,SANGA,ARAK,LEA PRI SCH HAYIN GADA,18/20/10/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642888/result_117794_1677626141_thumb.jpg,false
+KADUNA,SANGA,ARAK,UNG GIGINYA,18/20/10/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55992/result_117791_1677625305_thumb.jpg,false
+KADUNA,SANGA,ARAK,GBONKOK,18/20/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,SANGA,ARAK,ANKWA,18/20/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55983/result_117782_1677623662_thumb.jpg,false
+KADUNA,SANGA,ARAK,NUNUKWAUCHU,18/20/10/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55986/result_117785_1677623410_thumb.jpg,false
+KADUNA,SANGA,ARAK,AMBE,18/20/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55989/result_117788_1677623017_thumb.jpg,false
+KADUNA,SANGA,ARAK,LANGA II,18/20/10/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55994/result_117793_1677622544_thumb.jpg,false
+KADUNA,SANGA,ARAK,KIBAN,18/20/10/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55993/result_117792_1677622132_thumb.jpg,false
+KADUNA,SANGA,ARAK,KADUNA STATE PRIMARY CARE CEN,18/20/10/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642892/result_117798_1677621763_thumb.jpg,false
+KADUNA,SANGA,ARAK,LEA PRI SCH,18/20/10/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642891/result_117797_1677621339_thumb.jpg,false
+KADUNA,SANGA,ARAK,T. KULERE,18/20/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55981/result_117780_1677620782_thumb.jpg,false
+KADUNA,SANGA,ARAK,GBAGABA UBE PRI SCH,18/20/10/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642893/result_117799_1677616144_thumb.jpg,false
+KADUNA,SANGA,ARAK,SANGA,18/20/10/010,,false

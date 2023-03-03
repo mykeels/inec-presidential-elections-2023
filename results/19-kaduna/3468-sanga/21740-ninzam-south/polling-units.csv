@@ -1,10 +1,10 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,SANGA,,ABU GARI,18/20/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/008/008-1677413486.pdf,false
-KADUNA,SANGA,,RAGGA,18/20/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/006/006-1677411991.pdf,false
-KADUNA,SANGA,,KONKIKIRI,18/20/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/004/004-1677411934.pdf,false
-KADUNA,SANGA,,AMAR LADA,18/20/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/003/003-1677411673.pdf,false
-KADUNA,SANGA,,TELEKPO,18/20/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/005/005-1677411616.pdf,false
-KADUNA,SANGA,,LEA PRI SCH RAGGA,18/20/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/009/009-1677410814.pdf,false
-KADUNA,SANGA,,ABU MAKARANTA,18/20/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/007/007-1677409010.pdf,false
-KADUNA,SANGA,,KONTANGORA,18/20/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/002/002-1677408256.pdf,false
-KADUNA,SANGA,,AMAR DOGO,18/20/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/001/001-1677407502.pdf,false
+KADUNA,SANGA,NINZAM SOUTH,ABU GARI,18/20/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/008/008-1677413486.pdf,false
+KADUNA,SANGA,NINZAM SOUTH,RAGGA,18/20/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/006/006-1677411991.pdf,false
+KADUNA,SANGA,NINZAM SOUTH,KONKIKIRI,18/20/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/004/004-1677411934.pdf,false
+KADUNA,SANGA,NINZAM SOUTH,AMAR LADA,18/20/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/003/003-1677411673.pdf,false
+KADUNA,SANGA,NINZAM SOUTH,TELEKPO,18/20/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/005/005-1677411616.pdf,false
+KADUNA,SANGA,NINZAM SOUTH,LEA PRI SCH RAGGA,18/20/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/009/009-1677410814.pdf,false
+KADUNA,SANGA,NINZAM SOUTH,ABU MAKARANTA,18/20/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/007/007-1677409010.pdf,false
+KADUNA,SANGA,NINZAM SOUTH,KONTANGORA,18/20/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/002/002-1677408256.pdf,false
+KADUNA,SANGA,NINZAM SOUTH,AMAR DOGO,18/20/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/05/pu/001/001-1677407502.pdf,false

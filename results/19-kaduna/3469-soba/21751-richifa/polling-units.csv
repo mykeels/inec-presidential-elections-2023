@@ -1,21 +1,21 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,SOBA,,GOVT. ARABIC SCH. MAGADA RICHIFA,18/21/05/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643002/result_117961_1677599668_thumb.jpg,false
-KADUNA,SOBA,,UNG. ALHAZAWA/ L.E.A. ALHAZAWA,18/21/05/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56106/result_117953_1677599314_thumb.jpg,false
-KADUNA,SOBA,,LEA UNG. TUNKU,18/21/05/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643003/result_117962_1677599079_thumb.jpg,false
-KADUNA,SOBA,,GOVT. ARABIC SCH. RICHIFA,18/21/05/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642999/result_117958_1677598958_thumb.jpg,false
-KADUNA,SOBA,,PRIMARY HEALTH CENTER RICHIFA,18/21/05/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643000/result_117959_1677598745_thumb.jpg,false
-KADUNA,SOBA,,UNG. S/RICHIFA/ S/RICHIFA,18/21/05/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56107/result_117954_1677598468_thumb.jpg,false
-KADUNA,SOBA,,MAGADDA II/ K/G MAIANGUWA,18/21/05/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56109/result_117956_1677598405_thumb.jpg,false
-KADUNA,SOBA,,UNG. S/FARIN KASA/ S/FARIN KASA,18/21/05/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56108/result_117955_1677598343_thumb.jpg,false
-KADUNA,SOBA,,"UNG. MADAKI, UNG. MADAKI",18/21/05/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56104/result_117951_1677598048_thumb.jpg,false
-KADUNA,SOBA,,"UNG. CHIROMA, UNG. CHIROMA",18/21/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56098/result_117945_1677597945_thumb.jpg,false
-KADUNA,SOBA,,"UNG. GARBA, UNG. GARBA",18/21/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56102/result_117949_1677597796_thumb.jpg,false
-KADUNA,SOBA,,"UNG. LIMAN, UNG. LIMAN",18/21/05/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56103/result_117950_1677597349_thumb.jpg,false
-KADUNA,SOBA,,UNG. FARIN KASA/ L.E.A. FARIN KASA,18/21/05/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56101/result_117948_1677597040_thumb.jpg,false
-KADUNA,SOBA,,"UNG. MAGADDA, UNG. MAGADDA",18/21/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56105/result_117952_1677597012_thumb.jpg,false
-KADUNA,SOBA,,"UNG KUZAI, UNG KUZAI",18/21/05/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56099/result_117946_1677596606_thumb.jpg,false
-KADUNA,SOBA,,"UNG. BAKUNTU, UNG. BAKUNTU",18/21/05/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56100/result_117947_1677596397_thumb.jpg,false
-KADUNA,SOBA,,"UNG. MAKAMA, UNG. MAKAMA",18/21/05/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56097/result_117944_1677596136_thumb.jpg,false
-KADUNA,SOBA,,"UNG. TURAKI, UNG. TURAKI",18/21/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-KADUNA,SOBA,,GOVT.SEC.SCH. RICHIFA,18/21/05/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/05/pu/015/015-1677404952.pdf,false
-KADUNA,SOBA,,"LEA BAKUNTU, HAYIN TAJIRAI",18/21/05/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/05/pu/018/018-1677359662.pdf,false
+KADUNA,SOBA,RICHIFA,GOVT. ARABIC SCH. MAGADA RICHIFA,18/21/05/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643002/result_117961_1677599668_thumb.jpg,false
+KADUNA,SOBA,RICHIFA,UNG. ALHAZAWA/ L.E.A. ALHAZAWA,18/21/05/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56106/result_117953_1677599314_thumb.jpg,false
+KADUNA,SOBA,RICHIFA,LEA UNG. TUNKU,18/21/05/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643003/result_117962_1677599079_thumb.jpg,false
+KADUNA,SOBA,RICHIFA,GOVT. ARABIC SCH. RICHIFA,18/21/05/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642999/result_117958_1677598958_thumb.jpg,false
+KADUNA,SOBA,RICHIFA,PRIMARY HEALTH CENTER RICHIFA,18/21/05/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643000/result_117959_1677598745_thumb.jpg,false
+KADUNA,SOBA,RICHIFA,UNG. S/RICHIFA/ S/RICHIFA,18/21/05/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56107/result_117954_1677598468_thumb.jpg,false
+KADUNA,SOBA,RICHIFA,MAGADDA II/ K/G MAIANGUWA,18/21/05/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56109/result_117956_1677598405_thumb.jpg,false
+KADUNA,SOBA,RICHIFA,UNG. S/FARIN KASA/ S/FARIN KASA,18/21/05/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56108/result_117955_1677598343_thumb.jpg,false
+KADUNA,SOBA,RICHIFA,"UNG. MADAKI, UNG. MADAKI",18/21/05/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56104/result_117951_1677598048_thumb.jpg,false
+KADUNA,SOBA,RICHIFA,"UNG. CHIROMA, UNG. CHIROMA",18/21/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56098/result_117945_1677597945_thumb.jpg,false
+KADUNA,SOBA,RICHIFA,"UNG. GARBA, UNG. GARBA",18/21/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56102/result_117949_1677597796_thumb.jpg,false
+KADUNA,SOBA,RICHIFA,"UNG. LIMAN, UNG. LIMAN",18/21/05/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56103/result_117950_1677597349_thumb.jpg,false
+KADUNA,SOBA,RICHIFA,UNG. FARIN KASA/ L.E.A. FARIN KASA,18/21/05/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56101/result_117948_1677597040_thumb.jpg,false
+KADUNA,SOBA,RICHIFA,"UNG. MAGADDA, UNG. MAGADDA",18/21/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56105/result_117952_1677597012_thumb.jpg,false
+KADUNA,SOBA,RICHIFA,"UNG KUZAI, UNG KUZAI",18/21/05/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56099/result_117946_1677596606_thumb.jpg,false
+KADUNA,SOBA,RICHIFA,"UNG. BAKUNTU, UNG. BAKUNTU",18/21/05/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56100/result_117947_1677596397_thumb.jpg,false
+KADUNA,SOBA,RICHIFA,"UNG. MAKAMA, UNG. MAKAMA",18/21/05/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56097/result_117944_1677596136_thumb.jpg,false
+KADUNA,SOBA,RICHIFA,"UNG. TURAKI, UNG. TURAKI",18/21/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,SOBA,RICHIFA,GOVT.SEC.SCH. RICHIFA,18/21/05/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/05/pu/015/015-1677404952.pdf,false
+KADUNA,SOBA,RICHIFA,"LEA BAKUNTU, HAYIN TAJIRAI",18/21/05/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/05/pu/018/018-1677359662.pdf,false

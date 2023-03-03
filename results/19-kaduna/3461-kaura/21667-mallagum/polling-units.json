@@ -26,6 +26,7 @@
     "pu_code_string": "181306008",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "MALLAGUM",
     "document": {
       "external": true,
       "status": 1,
@@ -81,6 +82,7 @@
     "pu_code_string": "181306015",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "MALLAGUM",
     "document": {
       "external": true,
       "status": 1,
@@ -119,6 +121,7 @@
     "pu_code_string": "181306001",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "MALLAGUM",
     "document": {
       "external": true,
       "status": 1,
@@ -157,6 +160,7 @@
     "pu_code_string": "181306004",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "MALLAGUM",
     "document": {
       "external": true,
       "status": 1,
@@ -195,6 +199,7 @@
     "pu_code_string": "181306009",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "MALLAGUM",
     "document": {
       "external": true,
       "status": 1,
@@ -233,6 +238,7 @@
     "pu_code_string": "181306014",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "MALLAGUM",
     "document": {
       "external": true,
       "status": 1,
@@ -280,6 +286,7 @@
     "pu_code_string": "181306011",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "MALLAGUM",
     "document": {
       "external": false,
       "status": 1,
@@ -318,6 +325,7 @@
     "pu_code_string": "181306002",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "MALLAGUM",
     "document": {
       "external": false,
       "status": 1,
@@ -356,6 +364,7 @@
     "pu_code_string": "181306010",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "MALLAGUM",
     "document": {
       "external": false,
       "status": 1,
@@ -394,6 +403,7 @@
     "pu_code_string": "181306006",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "MALLAGUM",
     "document": {
       "external": false,
       "status": 1,
@@ -432,6 +442,7 @@
     "pu_code_string": "181306012",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "MALLAGUM",
     "document": {
       "external": false,
       "status": 1,
@@ -470,6 +481,7 @@
     "pu_code_string": "181306007",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "MALLAGUM",
     "document": {
       "external": false,
       "status": 1,
@@ -508,6 +520,7 @@
     "pu_code_string": "181306013",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "MALLAGUM",
     "document": {
       "external": false,
       "status": 1,
@@ -546,6 +559,7 @@
     "pu_code_string": "181306005",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "MALLAGUM",
     "document": {
       "external": false,
       "status": 1,
@@ -584,6 +598,7 @@
     "pu_code_string": "181306016",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "MALLAGUM",
     "document": {
       "external": false,
       "status": 1,
@@ -622,6 +637,7 @@
     "pu_code_string": "181306003",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "MALLAGUM",
     "document": {
       "external": false,
       "status": 1,
@@ -660,6 +676,7 @@
     "pu_code_string": "181306017",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "MALLAGUM",
     "old_documents": [],
     "has_old_documents": false
   }

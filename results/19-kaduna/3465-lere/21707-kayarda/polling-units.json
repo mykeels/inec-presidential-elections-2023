@@ -26,6 +26,7 @@
     "pu_code_string": "181704015",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": true,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "181704014",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": true,
       "status": 1,
@@ -111,6 +113,7 @@
     "pu_code_string": "181704010",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": true,
       "status": 1,
@@ -166,6 +169,7 @@
     "pu_code_string": "181704031",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": true,
       "status": 1,
@@ -213,6 +217,7 @@
     "pu_code_string": "181704003",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": true,
       "status": 1,
@@ -260,6 +265,7 @@
     "pu_code_string": "181704017",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": true,
       "status": 1,
@@ -298,6 +304,7 @@
     "pu_code_string": "181704013",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": true,
       "status": 1,
@@ -336,6 +343,7 @@
     "pu_code_string": "181704008",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": true,
       "status": 1,
@@ -374,6 +382,7 @@
     "pu_code_string": "181704026",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": true,
       "status": 1,
@@ -412,6 +421,7 @@
     "pu_code_string": "181704027",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": true,
       "status": 1,
@@ -450,6 +460,7 @@
     "pu_code_string": "181704019",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": true,
       "status": 1,
@@ -488,6 +499,7 @@
     "pu_code_string": "181704028",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": true,
       "status": 1,
@@ -526,6 +538,7 @@
     "pu_code_string": "181704032",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": true,
       "status": 1,
@@ -564,6 +577,7 @@
     "pu_code_string": "181704029",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": true,
       "status": 1,
@@ -602,6 +616,7 @@
     "pu_code_string": "181704006",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": true,
       "status": 1,
@@ -640,6 +655,7 @@
     "pu_code_string": "181704022",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": true,
       "status": 1,
@@ -678,6 +694,7 @@
     "pu_code_string": "181704001",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": true,
       "status": 1,
@@ -716,6 +733,7 @@
     "pu_code_string": "181704025",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": true,
       "status": 1,
@@ -754,6 +772,7 @@
     "pu_code_string": "181704020",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": false,
       "status": 1,
@@ -792,6 +811,7 @@
     "pu_code_string": "181704021",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": false,
       "status": 1,
@@ -830,6 +850,7 @@
     "pu_code_string": "181704007",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": false,
       "status": 1,
@@ -868,6 +889,7 @@
     "pu_code_string": "181704024",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": false,
       "status": 1,
@@ -906,6 +928,7 @@
     "pu_code_string": "181704016",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": false,
       "status": 1,
@@ -944,6 +967,7 @@
     "pu_code_string": "181704005",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": false,
       "status": 1,
@@ -982,6 +1006,7 @@
     "pu_code_string": "181704011",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": false,
       "status": 1,
@@ -1020,6 +1045,7 @@
     "pu_code_string": "181704012",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": false,
       "status": 1,
@@ -1058,6 +1084,7 @@
     "pu_code_string": "181704030",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": false,
       "status": 1,
@@ -1096,6 +1123,7 @@
     "pu_code_string": "181704009",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": false,
       "status": 1,
@@ -1134,6 +1162,7 @@
     "pu_code_string": "181704002",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": false,
       "status": 1,
@@ -1172,6 +1201,7 @@
     "pu_code_string": "181704004",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": false,
       "status": 1,
@@ -1210,6 +1240,7 @@
     "pu_code_string": "181704018",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": false,
       "status": 1,
@@ -1248,6 +1279,7 @@
     "pu_code_string": "181704023",
     "state_name": "KADUNA",
     "lga_name": "LERE",
+    "ward_name": "KAYARDA",
     "document": {
       "external": false,
       "status": 1,

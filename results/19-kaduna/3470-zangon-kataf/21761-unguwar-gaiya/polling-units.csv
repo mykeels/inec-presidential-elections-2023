@@ -1,29 +1,29 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,ZANGON KATAF,,SAMARU MARKET,18/22/04/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643381/result_118219_1677580568_thumb.jpg,false
-KADUNA,ZANGON KATAF,,TAGAMA I/ L.E.A. PRI. SCH.,18/22/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56280/result_118192_1677577837_thumb.jpg,false
-KADUNA,ZANGON KATAF,,SAMARU/ L.E.A. PRI. SCH.,18/22/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56283/result_118195_1677590228_thumb.jpg,false
-KADUNA,ZANGON KATAF,,MAKWAKU/ GARIN MAKWAKU,18/22/04/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56292/result_118204_1677579769_thumb.jpg,false
-KADUNA,ZANGON KATAF,,UNG. YAYOCK /VILLAGE SQUARE,18/22/04/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643379/result_118217_1677580497_thumb.jpg,false
-KADUNA,ZANGON KATAF,,UNG. MADAWA,18/22/04/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643380/result_118218_1677589140_thumb.jpg,false
-KADUNA,ZANGON KATAF,,MABUSHI I/ L.E.A. PRI. SCH.,18/22/04/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56284/result_118196_1677591460_thumb.jpg,false
-KADUNA,ZANGON KATAF,,KACECERE/ GARIN KACELERE,18/22/04/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56291/result_118203_1677579716_thumb.jpg,false
-KADUNA,ZANGON KATAF,,MABUSHI MAKODA,18/22/04/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643377/result_118215_1677580372_thumb.jpg,false
-KADUNA,ZANGON KATAF,,TAGAMA II/ PRI. SCHOOL,18/22/04/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56297/result_118209_1677579995_thumb.jpg,false
-KADUNA,ZANGON KATAF,,TAGAMA MATINBIN,18/22/04/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643372/result_118210_1677590371_thumb.jpg,false
-KADUNA,ZANGON KATAF,,SAMARU DEV. AREA,18/22/04/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643374/result_118212_1677580134_thumb.jpg,false
-KADUNA,ZANGON KATAF,,FADAN TSOHO/ GARIN FADAN TSOHO,18/22/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56282/result_118194_1677579197_thumb.jpg,false
-KADUNA,ZANGON KATAF,,MAGWAM CUSTOMARY,18/22/04/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643375/result_118213_1677580257_thumb.jpg,false
-KADUNA,ZANGON KATAF,,UNG. JUJU/ GARIN U/JUJU,18/22/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56281/result_118193_1677579144_thumb.jpg,false
-KADUNA,ZANGON KATAF,,GIDAN KARAU/ GARIN GIDAN KARAU,18/22/04/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56290/result_118202_1677579637_thumb.jpg,false
-KADUNA,ZANGON KATAF,,MABUSHI LANGSON /UBE,18/22/04/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643378/result_118216_1677580434_thumb.jpg,false
-KADUNA,ZANGON KATAF,,SAMARU III/ SAMARU JUNCTION,18/22/04/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56296/result_118208_1677588832_thumb.jpg,false
-KADUNA,ZANGON KATAF,,UNG. GAIYA MAGONI,18/22/04/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643376/result_118214_1677580305_thumb.jpg,false
-KADUNA,ZANGON KATAF,,TANGE/ GARIN TANGE,18/22/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56286/result_118198_1677579370_thumb.jpg,false
-KADUNA,ZANGON KATAF,,MAGATA/ GARIN MAGATA,18/22/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56287/result_118199_1677579435_thumb.jpg,false
-KADUNA,ZANGON KATAF,,UNG. JABA I/ L.E.A. PRI. SCH.,18/22/04/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56288/result_118200_1677579521_thumb.jpg,false
-KADUNA,ZANGON KATAF,,SAMARU II/ BAKIN KASUWA,18/22/04/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56294/result_118206_1677579901_thumb.jpg,false
-KADUNA,ZANGON KATAF,,MABUSHI II/ L.E.A. PRI. SCH.,18/22/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56285/result_118197_1677579282_thumb.jpg,false
-KADUNA,ZANGON KATAF,,KURMIN DAWAKI/ L.E.A. PRI. SCH.,18/22/04/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56293/result_118205_1677579835_thumb.jpg,false
-KADUNA,ZANGON KATAF,,UNG. ALLAH MAGANI,18/22/04/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56295/result_118207_1677592345_thumb.jpg,false
-KADUNA,ZANGON KATAF,,UNG. JABA II/ L.E.A. PRI. SCH.,18/22/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56289/result_118201_1677579583_thumb.jpg,false
-KADUNA,ZANGON KATAF,,MABRAK UNG. JUJU,18/22/04/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643373/result_118211_1677580065_thumb.jpg,false
+KADUNA,ZANGON KATAF,UNGUWAR GAIYA,SAMARU MARKET,18/22/04/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643381/result_118219_1677580568_thumb.jpg,false
+KADUNA,ZANGON KATAF,UNGUWAR GAIYA,TAGAMA I/ L.E.A. PRI. SCH.,18/22/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56280/result_118192_1677577837_thumb.jpg,false
+KADUNA,ZANGON KATAF,UNGUWAR GAIYA,SAMARU/ L.E.A. PRI. SCH.,18/22/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56283/result_118195_1677590228_thumb.jpg,false
+KADUNA,ZANGON KATAF,UNGUWAR GAIYA,MAKWAKU/ GARIN MAKWAKU,18/22/04/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56292/result_118204_1677579769_thumb.jpg,false
+KADUNA,ZANGON KATAF,UNGUWAR GAIYA,UNG. YAYOCK /VILLAGE SQUARE,18/22/04/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643379/result_118217_1677580497_thumb.jpg,false
+KADUNA,ZANGON KATAF,UNGUWAR GAIYA,UNG. MADAWA,18/22/04/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643380/result_118218_1677589140_thumb.jpg,false
+KADUNA,ZANGON KATAF,UNGUWAR GAIYA,MABUSHI I/ L.E.A. PRI. SCH.,18/22/04/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56284/result_118196_1677591460_thumb.jpg,false
+KADUNA,ZANGON KATAF,UNGUWAR GAIYA,KACECERE/ GARIN KACELERE,18/22/04/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56291/result_118203_1677579716_thumb.jpg,false
+KADUNA,ZANGON KATAF,UNGUWAR GAIYA,MABUSHI MAKODA,18/22/04/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643377/result_118215_1677580372_thumb.jpg,false
+KADUNA,ZANGON KATAF,UNGUWAR GAIYA,TAGAMA II/ PRI. SCHOOL,18/22/04/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56297/result_118209_1677579995_thumb.jpg,false
+KADUNA,ZANGON KATAF,UNGUWAR GAIYA,TAGAMA MATINBIN,18/22/04/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643372/result_118210_1677590371_thumb.jpg,false
+KADUNA,ZANGON KATAF,UNGUWAR GAIYA,SAMARU DEV. AREA,18/22/04/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643374/result_118212_1677580134_thumb.jpg,false
+KADUNA,ZANGON KATAF,UNGUWAR GAIYA,FADAN TSOHO/ GARIN FADAN TSOHO,18/22/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56282/result_118194_1677579197_thumb.jpg,false
+KADUNA,ZANGON KATAF,UNGUWAR GAIYA,MAGWAM CUSTOMARY,18/22/04/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643375/result_118213_1677580257_thumb.jpg,false
+KADUNA,ZANGON KATAF,UNGUWAR GAIYA,UNG. JUJU/ GARIN U/JUJU,18/22/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56281/result_118193_1677579144_thumb.jpg,false
+KADUNA,ZANGON KATAF,UNGUWAR GAIYA,GIDAN KARAU/ GARIN GIDAN KARAU,18/22/04/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56290/result_118202_1677579637_thumb.jpg,false
+KADUNA,ZANGON KATAF,UNGUWAR GAIYA,MABUSHI LANGSON /UBE,18/22/04/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643378/result_118216_1677580434_thumb.jpg,false
+KADUNA,ZANGON KATAF,UNGUWAR GAIYA,SAMARU III/ SAMARU JUNCTION,18/22/04/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56296/result_118208_1677588832_thumb.jpg,false
+KADUNA,ZANGON KATAF,UNGUWAR GAIYA,UNG. GAIYA MAGONI,18/22/04/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643376/result_118214_1677580305_thumb.jpg,false
+KADUNA,ZANGON KATAF,UNGUWAR GAIYA,TANGE/ GARIN TANGE,18/22/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56286/result_118198_1677579370_thumb.jpg,false
+KADUNA,ZANGON KATAF,UNGUWAR GAIYA,MAGATA/ GARIN MAGATA,18/22/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56287/result_118199_1677579435_thumb.jpg,false
+KADUNA,ZANGON KATAF,UNGUWAR GAIYA,UNG. JABA I/ L.E.A. PRI. SCH.,18/22/04/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56288/result_118200_1677579521_thumb.jpg,false
+KADUNA,ZANGON KATAF,UNGUWAR GAIYA,SAMARU II/ BAKIN KASUWA,18/22/04/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56294/result_118206_1677579901_thumb.jpg,false
+KADUNA,ZANGON KATAF,UNGUWAR GAIYA,MABUSHI II/ L.E.A. PRI. SCH.,18/22/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56285/result_118197_1677579282_thumb.jpg,false
+KADUNA,ZANGON KATAF,UNGUWAR GAIYA,KURMIN DAWAKI/ L.E.A. PRI. SCH.,18/22/04/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56293/result_118205_1677579835_thumb.jpg,false
+KADUNA,ZANGON KATAF,UNGUWAR GAIYA,UNG. ALLAH MAGANI,18/22/04/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56295/result_118207_1677592345_thumb.jpg,false
+KADUNA,ZANGON KATAF,UNGUWAR GAIYA,UNG. JABA II/ L.E.A. PRI. SCH.,18/22/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56289/result_118201_1677579583_thumb.jpg,false
+KADUNA,ZANGON KATAF,UNGUWAR GAIYA,MABRAK UNG. JUJU,18/22/04/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643373/result_118211_1677580065_thumb.jpg,false

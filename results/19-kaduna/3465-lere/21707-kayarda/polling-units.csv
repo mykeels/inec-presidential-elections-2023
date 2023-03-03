@@ -1,33 +1,33 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,LERE,,UNG.ALHAJI KIMBA/ L.E.A.UNG ALHAJI,18/17/04/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55296/result_116731_1677775837_thumb.jpg,false
-KADUNA,LERE,,TSURUTAWA/ L.E.A.TSURUTAWA,18/17/04/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55295/result_116730_1677546679_thumb.jpg,true
-KADUNA,LERE,,UNG. SARKIN KAYARD II/ L.E.A.KAYARDA,18/17/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55291/result_116726_1677543908_thumb.jpg,true
-KADUNA,LERE,,UNG. ALWALU MAI SAMARI,18/17/04/031,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642584/result_116747_1677543651_thumb.jpg,true
-KADUNA,LERE,,TUDUN WADA/ K/MAIUNGUWA,18/17/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55284/result_116719_1677540760_thumb.jpg,true
-KADUNA,LERE,,WERE/ L.E.A.AWOLU,18/17/04/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55298/result_116733_1677633477_thumb.jpg,false
-KADUNA,LERE,,GAMA M.DATTI/ K.GIDAN MAIUNGUWA,18/17/04/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55294/result_116729_1677633375_thumb.jpg,false
-KADUNA,LERE,,TSURUTAWA UNG. SADI KAYARDA/ L.E.A.KAYARDA,18/17/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55289/result_116724_1677633270_thumb.jpg,false
-KADUNA,LERE,,UNG SARKIN KAYARADA  I/GABASHI KAYARDA,18/17/04/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-KADUNA,LERE,,UNG SARKIN KAYARDA II / NASSARAWA,18/17/04/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642580/result_116743_1677632854_thumb.jpg,false
-KADUNA,LERE,,WATARA/ L.E.A.WATARA,18/17/04/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55300/result_116735_1677632771_thumb.jpg,false
-KADUNA,LERE,,KAYARDA TASHA  II,18/17/04/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642581/result_116744_1677632050_thumb.jpg,false
-KADUNA,LERE,,PAYAN  II,18/17/04/032,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642585/result_116748_1677631981_thumb.jpg,false
-KADUNA,LERE,,GALMAN DATTI / KAMPANI,18/17/04/029,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642582/result_116745_1677631891_thumb.jpg,false
-KADUNA,LERE,,JANKANWA/ WATARA/ L.E.A.JANKANWA,18/17/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55287/result_116722_1677631809_thumb.jpg,false
-KADUNA,LERE,,UNG SARKI / LAYIN TSAKIYA,18/17/04/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642575/result_116738_1677631593_thumb.jpg,false
-KADUNA,LERE,,GORON DUTSE/ L.E.A.GORON DUTSE,18/17/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55282/result_116717_1677631387_thumb.jpg,false
-KADUNA,LERE,,UNG SARKIN KAYARDA I / HAYIN DODO,18/17/04/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642578/result_116741_1677630616_thumb.jpg,false
-KADUNA,LERE,,GORON DUTSE  II/ KROSEL / N MAI UNGWA,18/17/04/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3465/ward/21707/pu/147304/147304-1677474357.pdf,false
-KADUNA,LERE,,BAKIN KASUWA/ KAKU II,18/17/04/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3465/ward/21707/pu/147305/147305-1677473771.pdf,false
-KADUNA,LERE,,UNG.MAIABDU KAAYARDA/ L.E.A.KAYARDA,18/17/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3465/ward/21707/pu/55379/55379-1677471969.pdf,false
-KADUNA,LERE,,TSURATAWA / PLOTI,18/17/04/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3465/ward/21707/pu/147308/147308-1677470615.pdf,false
-KADUNA,LERE,,KADUGU/ K/GIDAN MAIUNGUWA,18/17/04/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3465/ward/21707/pu/55388/55388-1677470429.pdf,false
-KADUNA,LERE,,UNG.SARKI KAKU/ K/MAIUNGUWA,18/17/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3465/ward/21707/pu/55377/55377-1677469402.pdf,false
-KADUNA,LERE,,KAYARDA TASHA/ K/GIDAN MAIUNGUWA,18/17/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3465/ward/21707/pu/55383/55383-1677468892.pdf,false
-KADUNA,LERE,,MALUMFASHI/ K.GIDAN MAIUNGUWA,18/17/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3465/ward/21707/pu/55384/55384-1677467861.pdf,false
-KADUNA,LERE,,TSURATAWA / UNG KEDAH,18/17/04/030,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3465/ward/21707/pu/147314/147314-1677467514.pdf,false
-KADUNA,LERE,,UNG. SARKIN KAYARDA I/ L.E.A.KAYARDA,18/17/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3465/ward/21707/pu/55381/55381-1677467351.pdf,false
-KADUNA,LERE,,UNG.INUSA/ K/MAIUNGUWA,18/17/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3465/ward/21707/pu/55374/55374-1677466963.pdf,false
-KADUNA,LERE,,MAKARANTA KAKU/ L.E.A.KAKU,18/17/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3465/ward/21707/pu/55376/55376-1677463154.pdf,false
-KADUNA,LERE,,PAYAN/ L.E.A.PAYAN,18/17/04/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/04/pu/018/018-1677428776.pdf,false
-KADUNA,LERE,,UNG MAL AUDU YAMMARI  KAYARDA,18/17/04/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/04/pu/023/023-1677428010.pdf,false
+KADUNA,LERE,KAYARDA,UNG.ALHAJI KIMBA/ L.E.A.UNG ALHAJI,18/17/04/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55296/result_116731_1677775837_thumb.jpg,false
+KADUNA,LERE,KAYARDA,TSURUTAWA/ L.E.A.TSURUTAWA,18/17/04/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55295/result_116730_1677546679_thumb.jpg,true
+KADUNA,LERE,KAYARDA,UNG. SARKIN KAYARD II/ L.E.A.KAYARDA,18/17/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55291/result_116726_1677543908_thumb.jpg,true
+KADUNA,LERE,KAYARDA,UNG. ALWALU MAI SAMARI,18/17/04/031,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642584/result_116747_1677543651_thumb.jpg,true
+KADUNA,LERE,KAYARDA,TUDUN WADA/ K/MAIUNGUWA,18/17/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55284/result_116719_1677540760_thumb.jpg,true
+KADUNA,LERE,KAYARDA,WERE/ L.E.A.AWOLU,18/17/04/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55298/result_116733_1677633477_thumb.jpg,false
+KADUNA,LERE,KAYARDA,GAMA M.DATTI/ K.GIDAN MAIUNGUWA,18/17/04/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55294/result_116729_1677633375_thumb.jpg,false
+KADUNA,LERE,KAYARDA,TSURUTAWA UNG. SADI KAYARDA/ L.E.A.KAYARDA,18/17/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55289/result_116724_1677633270_thumb.jpg,false
+KADUNA,LERE,KAYARDA,UNG SARKIN KAYARADA  I/GABASHI KAYARDA,18/17/04/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,LERE,KAYARDA,UNG SARKIN KAYARDA II / NASSARAWA,18/17/04/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642580/result_116743_1677632854_thumb.jpg,false
+KADUNA,LERE,KAYARDA,WATARA/ L.E.A.WATARA,18/17/04/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55300/result_116735_1677632771_thumb.jpg,false
+KADUNA,LERE,KAYARDA,KAYARDA TASHA  II,18/17/04/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642581/result_116744_1677632050_thumb.jpg,false
+KADUNA,LERE,KAYARDA,PAYAN  II,18/17/04/032,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642585/result_116748_1677631981_thumb.jpg,false
+KADUNA,LERE,KAYARDA,GALMAN DATTI / KAMPANI,18/17/04/029,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642582/result_116745_1677631891_thumb.jpg,false
+KADUNA,LERE,KAYARDA,JANKANWA/ WATARA/ L.E.A.JANKANWA,18/17/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55287/result_116722_1677631809_thumb.jpg,false
+KADUNA,LERE,KAYARDA,UNG SARKI / LAYIN TSAKIYA,18/17/04/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642575/result_116738_1677631593_thumb.jpg,false
+KADUNA,LERE,KAYARDA,GORON DUTSE/ L.E.A.GORON DUTSE,18/17/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55282/result_116717_1677631387_thumb.jpg,false
+KADUNA,LERE,KAYARDA,UNG SARKIN KAYARDA I / HAYIN DODO,18/17/04/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642578/result_116741_1677630616_thumb.jpg,false
+KADUNA,LERE,KAYARDA,GORON DUTSE  II/ KROSEL / N MAI UNGWA,18/17/04/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3465/ward/21707/pu/147304/147304-1677474357.pdf,false
+KADUNA,LERE,KAYARDA,BAKIN KASUWA/ KAKU II,18/17/04/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3465/ward/21707/pu/147305/147305-1677473771.pdf,false
+KADUNA,LERE,KAYARDA,UNG.MAIABDU KAAYARDA/ L.E.A.KAYARDA,18/17/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3465/ward/21707/pu/55379/55379-1677471969.pdf,false
+KADUNA,LERE,KAYARDA,TSURATAWA / PLOTI,18/17/04/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3465/ward/21707/pu/147308/147308-1677470615.pdf,false
+KADUNA,LERE,KAYARDA,KADUGU/ K/GIDAN MAIUNGUWA,18/17/04/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3465/ward/21707/pu/55388/55388-1677470429.pdf,false
+KADUNA,LERE,KAYARDA,UNG.SARKI KAKU/ K/MAIUNGUWA,18/17/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3465/ward/21707/pu/55377/55377-1677469402.pdf,false
+KADUNA,LERE,KAYARDA,KAYARDA TASHA/ K/GIDAN MAIUNGUWA,18/17/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3465/ward/21707/pu/55383/55383-1677468892.pdf,false
+KADUNA,LERE,KAYARDA,MALUMFASHI/ K.GIDAN MAIUNGUWA,18/17/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3465/ward/21707/pu/55384/55384-1677467861.pdf,false
+KADUNA,LERE,KAYARDA,TSURATAWA / UNG KEDAH,18/17/04/030,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3465/ward/21707/pu/147314/147314-1677467514.pdf,false
+KADUNA,LERE,KAYARDA,UNG. SARKIN KAYARDA I/ L.E.A.KAYARDA,18/17/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3465/ward/21707/pu/55381/55381-1677467351.pdf,false
+KADUNA,LERE,KAYARDA,UNG.INUSA/ K/MAIUNGUWA,18/17/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3465/ward/21707/pu/55374/55374-1677466963.pdf,false
+KADUNA,LERE,KAYARDA,MAKARANTA KAKU/ L.E.A.KAKU,18/17/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3465/ward/21707/pu/55376/55376-1677463154.pdf,false
+KADUNA,LERE,KAYARDA,PAYAN/ L.E.A.PAYAN,18/17/04/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/04/pu/018/018-1677428776.pdf,false
+KADUNA,LERE,KAYARDA,UNG MAL AUDU YAMMARI  KAYARDA,18/17/04/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/04/pu/023/023-1677428010.pdf,false

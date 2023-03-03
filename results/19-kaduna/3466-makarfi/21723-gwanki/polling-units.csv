@@ -1,22 +1,22 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,MAKARFI,,ANG. DANLAMI/ K.M DANLAMI,18/18/09/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55591/result_117202_1677577506_thumb.jpg,false
-KADUNA,MAKARFI,,GWANKI GARI III/ GWANKI PRI. SCH.,18/18/09/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55592/result_117203_1677577336_thumb.jpg,false
-KADUNA,MAKARFI,,DANHODI/ K.M DANHODI,18/18/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55577/result_117188_1677516685_thumb.jpg,true
-KADUNA,MAKARFI,,ANG. KWADO/ K.M KWADO,18/18/09/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55590/result_117201_1677577635_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. LIMAN/TV CENTER,18/18/09/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642723/result_117205_1677576760_thumb.jpg,false
-KADUNA,MAKARFI,,KUNKUMI HEALTH CLINIC,18/18/09/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642724/result_117206_1677576617_thumb.jpg,false
-KADUNA,MAKARFI,,GWANKI I/PRI SCH. II,18/18/09/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642722/result_117204_1677576927_thumb.jpg,false
-KADUNA,MAKARFI,,TAFIDA I/ PRI. SCH. TAFIDA,18/18/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55582/result_117193_1677578923_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. FALKE/ K.M FALKE,18/18/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55581/result_117192_1677579024_thumb.jpg,false
-KADUNA,MAKARFI,,TUDUN DOKA/ K.M TUDUN DOKA,18/18/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55584/result_117195_1677578562_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. YARO/ K.M YARO,18/18/09/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55586/result_117197_1677578282_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. BARAU/ K.M BARAU,18/18/09/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55589/result_117200_1677577722_thumb.jpg,false
-KADUNA,MAKARFI,,KUNKUMI I/ PRI. SCH. KUNKUMI,18/18/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55578/result_117189_1677579452_thumb.jpg,false
-KADUNA,MAKARFI,,DORAYI GARI II/ K.M. DORAYI,18/18/09/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55588/result_117199_1677578036_thumb.jpg,false
-KADUNA,MAKARFI,,BAKUTAJE/ PRI. SCH. BAKUTAJE,18/18/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55580/result_117191_1677579147_thumb.jpg,false
-KADUNA,MAKARFI,,TAFIDA II/ K.M. TAFIDA,18/18/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55583/result_117194_1677578697_thumb.jpg,false
-KADUNA,MAKARFI,,GWANKI GARI I/ GWANKI PRI. SCHOOL,18/18/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55575/result_117186_1677580181_thumb.jpg,false
-KADUNA,MAKARFI,,DORAYI GARI I/ PRI. SCH. DORAYI,18/18/09/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55587/result_117198_1677578155_thumb.jpg,false
-KADUNA,MAKARFI,,GWANKI GARI II/ GWANKI PRI. SCHOOL,18/18/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55576/result_117187_1677579744_thumb.jpg,false
-KADUNA,MAKARFI,,KUNKUMI II/ K.M. KUNKUMI,18/18/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55579/result_117190_1677579331_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. DABO/ K.M DABO,18/18/09/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55585/result_117196_1677580612_thumb.jpg,false
+KADUNA,MAKARFI,GWANKI,ANG. DANLAMI/ K.M DANLAMI,18/18/09/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55591/result_117202_1677577506_thumb.jpg,false
+KADUNA,MAKARFI,GWANKI,GWANKI GARI III/ GWANKI PRI. SCH.,18/18/09/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55592/result_117203_1677577336_thumb.jpg,false
+KADUNA,MAKARFI,GWANKI,DANHODI/ K.M DANHODI,18/18/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55577/result_117188_1677516685_thumb.jpg,true
+KADUNA,MAKARFI,GWANKI,ANG. KWADO/ K.M KWADO,18/18/09/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55590/result_117201_1677577635_thumb.jpg,false
+KADUNA,MAKARFI,GWANKI,ANG. LIMAN/TV CENTER,18/18/09/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642723/result_117205_1677576760_thumb.jpg,false
+KADUNA,MAKARFI,GWANKI,KUNKUMI HEALTH CLINIC,18/18/09/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642724/result_117206_1677576617_thumb.jpg,false
+KADUNA,MAKARFI,GWANKI,GWANKI I/PRI SCH. II,18/18/09/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642722/result_117204_1677576927_thumb.jpg,false
+KADUNA,MAKARFI,GWANKI,TAFIDA I/ PRI. SCH. TAFIDA,18/18/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55582/result_117193_1677578923_thumb.jpg,false
+KADUNA,MAKARFI,GWANKI,ANG. FALKE/ K.M FALKE,18/18/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55581/result_117192_1677579024_thumb.jpg,false
+KADUNA,MAKARFI,GWANKI,TUDUN DOKA/ K.M TUDUN DOKA,18/18/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55584/result_117195_1677578562_thumb.jpg,false
+KADUNA,MAKARFI,GWANKI,ANG. YARO/ K.M YARO,18/18/09/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55586/result_117197_1677578282_thumb.jpg,false
+KADUNA,MAKARFI,GWANKI,ANG. BARAU/ K.M BARAU,18/18/09/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55589/result_117200_1677577722_thumb.jpg,false
+KADUNA,MAKARFI,GWANKI,KUNKUMI I/ PRI. SCH. KUNKUMI,18/18/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55578/result_117189_1677579452_thumb.jpg,false
+KADUNA,MAKARFI,GWANKI,DORAYI GARI II/ K.M. DORAYI,18/18/09/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55588/result_117199_1677578036_thumb.jpg,false
+KADUNA,MAKARFI,GWANKI,BAKUTAJE/ PRI. SCH. BAKUTAJE,18/18/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55580/result_117191_1677579147_thumb.jpg,false
+KADUNA,MAKARFI,GWANKI,TAFIDA II/ K.M. TAFIDA,18/18/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55583/result_117194_1677578697_thumb.jpg,false
+KADUNA,MAKARFI,GWANKI,GWANKI GARI I/ GWANKI PRI. SCHOOL,18/18/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55575/result_117186_1677580181_thumb.jpg,false
+KADUNA,MAKARFI,GWANKI,DORAYI GARI I/ PRI. SCH. DORAYI,18/18/09/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55587/result_117198_1677578155_thumb.jpg,false
+KADUNA,MAKARFI,GWANKI,GWANKI GARI II/ GWANKI PRI. SCHOOL,18/18/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55576/result_117187_1677579744_thumb.jpg,false
+KADUNA,MAKARFI,GWANKI,KUNKUMI II/ K.M. KUNKUMI,18/18/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55579/result_117190_1677579331_thumb.jpg,false
+KADUNA,MAKARFI,GWANKI,ANG. DABO/ K.M DABO,18/18/09/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55585/result_117196_1677580612_thumb.jpg,false

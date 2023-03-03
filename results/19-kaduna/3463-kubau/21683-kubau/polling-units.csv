@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,KUBAU,,LAYIN LIMAN,18/15/01/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-KADUNA,KUBAU,,UNG. KAFI/ K/G UNGUWA,18/15/01/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54839/result_116066_1677623762_thumb.jpg,false
-KADUNA,KUBAU,,GSS KUBAU,18/15/01/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642442/result_116068_1677623379_thumb.jpg,false
-KADUNA,KUBAU,,KUBAU SOUTH I/ KOFAR M/UNG.,18/15/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54833/result_116060_1677622892_thumb.jpg,false
-KADUNA,KUBAU,,KUTATOLO KG UNG,18/15/01/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54835/result_116062_1677622365_thumb.jpg,false
-KADUNA,KUBAU,,UNG.DIRI PRI. SCHOOL,18/15/01/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642444/result_116070_1677622003_thumb.jpg,false
-KADUNA,KUBAU,,RANDA/ K/G UNGUWA,18/15/01/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54838/result_116065_1677621562_thumb.jpg,false
-KADUNA,KUBAU,,KUTATTATO/ K/G UNGUWA,18/15/01/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54837/result_116064_1677620665_thumb.jpg,false
-KADUNA,KUBAU,,STORE KUBAU MARKET,18/15/01/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642443/result_116069_1677620120_thumb.jpg,false
-KADUNA,KUBAU,,KUBAU EAST II/ PRI.SCH.,18/15/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54831/result_116058_1677619396_thumb.jpg,false
-KADUNA,KUBAU,,UNG. MAKERA,18/15/01/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642447/result_116073_1677618859_thumb.jpg,false
-KADUNA,KUBAU,,KUBAU SOUTH II/ KOFAR M/UNG.,18/15/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54834/result_116061_1677618440_thumb.jpg,false
-KADUNA,KUBAU,,KUBAU EAST I/ PRI.SCH.,18/15/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54830/result_116057_1677609427_thumb.jpg,false
-KADUNA,KUBAU,,UNG. KAROFI/ K/G UNGUWA,18/15/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54836/result_116063_1677608657_thumb.jpg,false
-KADUNA,KUBAU,,HAYIN GADA,18/15/01/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642441/result_116067_1677607952_thumb.jpg,false
-KADUNA,KUBAU,,GGSSA KUBAU,18/15/01/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642448/result_116074_1677607488_thumb.jpg,false
-KADUNA,KUBAU,,UBE PRI. SCH. GABASHI KUBAU,18/15/01/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642445/result_116071_1677606788_thumb.jpg,false
-KADUNA,KUBAU,,KUBAU WEST/ PRI.SCH.,18/15/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54832/result_116059_1677605548_thumb.jpg,false
+KADUNA,KUBAU,KUBAU,LAYIN LIMAN,18/15/01/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,KUBAU,KUBAU,UNG. KAFI/ K/G UNGUWA,18/15/01/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54839/result_116066_1677623762_thumb.jpg,false
+KADUNA,KUBAU,KUBAU,GSS KUBAU,18/15/01/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642442/result_116068_1677623379_thumb.jpg,false
+KADUNA,KUBAU,KUBAU,KUBAU SOUTH I/ KOFAR M/UNG.,18/15/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54833/result_116060_1677622892_thumb.jpg,false
+KADUNA,KUBAU,KUBAU,KUTATOLO KG UNG,18/15/01/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54835/result_116062_1677622365_thumb.jpg,false
+KADUNA,KUBAU,KUBAU,UNG.DIRI PRI. SCHOOL,18/15/01/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642444/result_116070_1677622003_thumb.jpg,false
+KADUNA,KUBAU,KUBAU,RANDA/ K/G UNGUWA,18/15/01/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54838/result_116065_1677621562_thumb.jpg,false
+KADUNA,KUBAU,KUBAU,KUTATTATO/ K/G UNGUWA,18/15/01/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54837/result_116064_1677620665_thumb.jpg,false
+KADUNA,KUBAU,KUBAU,STORE KUBAU MARKET,18/15/01/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642443/result_116069_1677620120_thumb.jpg,false
+KADUNA,KUBAU,KUBAU,KUBAU EAST II/ PRI.SCH.,18/15/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54831/result_116058_1677619396_thumb.jpg,false
+KADUNA,KUBAU,KUBAU,UNG. MAKERA,18/15/01/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642447/result_116073_1677618859_thumb.jpg,false
+KADUNA,KUBAU,KUBAU,KUBAU SOUTH II/ KOFAR M/UNG.,18/15/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54834/result_116061_1677618440_thumb.jpg,false
+KADUNA,KUBAU,KUBAU,KUBAU EAST I/ PRI.SCH.,18/15/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54830/result_116057_1677609427_thumb.jpg,false
+KADUNA,KUBAU,KUBAU,UNG. KAROFI/ K/G UNGUWA,18/15/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54836/result_116063_1677608657_thumb.jpg,false
+KADUNA,KUBAU,KUBAU,HAYIN GADA,18/15/01/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642441/result_116067_1677607952_thumb.jpg,false
+KADUNA,KUBAU,KUBAU,GGSSA KUBAU,18/15/01/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642448/result_116074_1677607488_thumb.jpg,false
+KADUNA,KUBAU,KUBAU,UBE PRI. SCH. GABASHI KUBAU,18/15/01/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642445/result_116071_1677606788_thumb.jpg,false
+KADUNA,KUBAU,KUBAU,KUBAU WEST/ PRI.SCH.,18/15/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54832/result_116059_1677605548_thumb.jpg,false

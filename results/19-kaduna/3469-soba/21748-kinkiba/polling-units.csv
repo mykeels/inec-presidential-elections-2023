@@ -1,23 +1,23 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,SOBA,,GOVT.SEC.SCH.UNG. KUDU,18/21/02/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642970/result_117875_1677579888_thumb.jpg,false
-KADUNA,SOBA,,UNG. IRO KWARI II/ K.G. MAIANGWA,18/21/02/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56049/result_117873_1677584127_thumb.jpg,false
-KADUNA,SOBA,,WANKA KINKIBA/ WANKA,18/21/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56037/result_117861_1677580556_thumb.jpg,false
-KADUNA,SOBA,,UNG. MAKADA/ K.G MAIANGWA,18/21/02/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56048/result_117872_1677581272_thumb.jpg,false
-KADUNA,SOBA,,"UNG. KWARI, UNG. KWARI",18/21/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56035/result_117859_1677575448_thumb.jpg,false
-KADUNA,SOBA,,UNG. S/FAGACI/ L.E.A. FAGACI,18/21/02/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56040/result_117864_1677579576_thumb.jpg,false
-KADUNA,SOBA,,"UNG KUDU, UNG KUDU",18/21/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56034/result_117858_1677581073_thumb.jpg,false
-KADUNA,SOBA,,"DOKA, DOKA",18/21/02/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56044/result_117868_1677580839_thumb.jpg,false
-KADUNA,SOBA,,DANGALADIMA/ GOBIRAWA,18/21/02/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56041/result_117865_1677578479_thumb.jpg,false
-KADUNA,SOBA,,UNG. HAMIDA/ K.G MAIANGWA,18/21/02/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56047/result_117871_1677576286_thumb.jpg,false
-KADUNA,SOBA,,UNG. SAKO/ UN. SAKO,18/21/02/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56046/result_117870_1677577577_thumb.jpg,false
-KADUNA,SOBA,,BLOCK D LEA KINKIBA,18/21/02/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642969/result_117874_1677577056_thumb.jpg,false
-KADUNA,SOBA,,UNG. MAUDE,18/21/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56033/result_117857_1677583784_thumb.jpg,false
-KADUNA,SOBA,,"FAGACI TSOHUWA, FAGACI TSOHUWA",18/21/02/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56042/result_117866_1677586204_thumb.jpg,false
-KADUNA,SOBA,,L.E.A. MARWA/ L.E.A. MARWA,18/21/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3469/ward/21748/pu/56134/56134-1677481844.pdf,false
-KADUNA,SOBA,,PRIMARY HEALTH CENTER DAMARI,18/21/02/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3469/ward/21748/pu/147695/147695-1677481396.pdf,false
-KADUNA,SOBA,,L.E.A. KINKIBA,18/21/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/002/002-1677427801.pdf,false
-KADUNA,SOBA,,"ALHAZAWA TABA, ALHAZAWA TABA",18/21/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/006/006-1677402765.pdf,false
-KADUNA,SOBA,,UNG. MAKWARWA/ UN. MAKARWA,18/21/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/008/008-1677397985.pdf,false
-KADUNA,SOBA,,"DUMARU, DUMARU",18/21/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/015/015-1677397268.pdf,false
-KADUNA,SOBA,,UNG. SARKI,18/21/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/001/001-1677396571.pdf,false
-KADUNA,SOBA,,UNG. DAMARI/ DAMARI,18/21/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/009/009-1677370663.pdf,false
+KADUNA,SOBA,KINKIBA,GOVT.SEC.SCH.UNG. KUDU,18/21/02/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642970/result_117875_1677579888_thumb.jpg,false
+KADUNA,SOBA,KINKIBA,UNG. IRO KWARI II/ K.G. MAIANGWA,18/21/02/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56049/result_117873_1677584127_thumb.jpg,false
+KADUNA,SOBA,KINKIBA,WANKA KINKIBA/ WANKA,18/21/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56037/result_117861_1677580556_thumb.jpg,false
+KADUNA,SOBA,KINKIBA,UNG. MAKADA/ K.G MAIANGWA,18/21/02/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56048/result_117872_1677581272_thumb.jpg,false
+KADUNA,SOBA,KINKIBA,"UNG. KWARI, UNG. KWARI",18/21/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56035/result_117859_1677575448_thumb.jpg,false
+KADUNA,SOBA,KINKIBA,UNG. S/FAGACI/ L.E.A. FAGACI,18/21/02/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56040/result_117864_1677579576_thumb.jpg,false
+KADUNA,SOBA,KINKIBA,"UNG KUDU, UNG KUDU",18/21/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56034/result_117858_1677581073_thumb.jpg,false
+KADUNA,SOBA,KINKIBA,"DOKA, DOKA",18/21/02/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56044/result_117868_1677580839_thumb.jpg,false
+KADUNA,SOBA,KINKIBA,DANGALADIMA/ GOBIRAWA,18/21/02/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56041/result_117865_1677578479_thumb.jpg,false
+KADUNA,SOBA,KINKIBA,UNG. HAMIDA/ K.G MAIANGWA,18/21/02/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56047/result_117871_1677576286_thumb.jpg,false
+KADUNA,SOBA,KINKIBA,UNG. SAKO/ UN. SAKO,18/21/02/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56046/result_117870_1677577577_thumb.jpg,false
+KADUNA,SOBA,KINKIBA,BLOCK D LEA KINKIBA,18/21/02/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642969/result_117874_1677577056_thumb.jpg,false
+KADUNA,SOBA,KINKIBA,UNG. MAUDE,18/21/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56033/result_117857_1677583784_thumb.jpg,false
+KADUNA,SOBA,KINKIBA,"FAGACI TSOHUWA, FAGACI TSOHUWA",18/21/02/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56042/result_117866_1677586204_thumb.jpg,false
+KADUNA,SOBA,KINKIBA,L.E.A. MARWA/ L.E.A. MARWA,18/21/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3469/ward/21748/pu/56134/56134-1677481844.pdf,false
+KADUNA,SOBA,KINKIBA,PRIMARY HEALTH CENTER DAMARI,18/21/02/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3469/ward/21748/pu/147695/147695-1677481396.pdf,false
+KADUNA,SOBA,KINKIBA,L.E.A. KINKIBA,18/21/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/002/002-1677427801.pdf,false
+KADUNA,SOBA,KINKIBA,"ALHAZAWA TABA, ALHAZAWA TABA",18/21/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/006/006-1677402765.pdf,false
+KADUNA,SOBA,KINKIBA,UNG. MAKWARWA/ UN. MAKARWA,18/21/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/008/008-1677397985.pdf,false
+KADUNA,SOBA,KINKIBA,"DUMARU, DUMARU",18/21/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/015/015-1677397268.pdf,false
+KADUNA,SOBA,KINKIBA,UNG. SARKI,18/21/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/001/001-1677396571.pdf,false
+KADUNA,SOBA,KINKIBA,UNG. DAMARI/ DAMARI,18/21/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/02/pu/009/009-1677370663.pdf,false

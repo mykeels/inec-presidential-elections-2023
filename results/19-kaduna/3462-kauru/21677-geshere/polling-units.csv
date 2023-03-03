@@ -1,26 +1,26 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,KAURU,,ASAKE/ K/G MAI UNGUWA,18/14/06/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54756/result_115962_1677679492_thumb.jpg,false
-KADUNA,KAURU,,ANG/S. KURYA/ K/G MAI UNGUWA,18/14/06/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54753/result_115959_1677676592_thumb.jpg,false
-KADUNA,KAURU,,DINGI/ K/G MAI UNGUWA,18/14/06/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54754/result_115960_1677676579_thumb.jpg,false
-KADUNA,KAURU,,GWANDARA/ K/G MAI UNGUWA,18/14/06/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54751/result_115957_1677676305_thumb.jpg,false
-KADUNA,KAURU,,KIWAFA/ K/G MAI UNGUWA,18/14/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54750/result_115956_1677676098_thumb.jpg,false
-KADUNA,KAURU,,NINGI KARKUN,18/14/06/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642320/result_115965_1677675792_thumb.jpg,false
-KADUNA,KAURU,,KAZOH,18/14/06/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642321/result_115966_1677675539_thumb.jpg,false
-KADUNA,KAURU,,FADAN KONO/ L.E.A. PRI.SCH.,18/14/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54749/result_115955_1677675488_thumb.jpg,false
-KADUNA,KAURU,,ABUGA,18/14/06/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642322/result_115967_1677675413_thumb.jpg,false
-KADUNA,KAURU,,KABENE II/ L.E.A. PRI.SCH.,18/14/06/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54747/result_115953_1677675215_thumb.jpg,false
-KADUNA,KAURU,,MANGU BINAWA,18/14/06/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642323/result_115968_1677675155_thumb.jpg,false
-KADUNA,KAURU,,TSOHON GARI BINAWA,18/14/06/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642324/result_115969_1677674982_thumb.jpg,false
-KADUNA,KAURU,,ASSAKE II,18/14/06/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642325/result_115970_1677674780_thumb.jpg,false
-KADUNA,KAURU,,KABENE I/ L.E.A. PRI.SCH.,18/14/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54746/result_115952_1677666199_thumb.jpg,false
-KADUNA,KAURU,,BINAWA/ L.E.A. PRI.SCH.,18/14/06/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54745/result_115951_1677665915_thumb.jpg,false
-KADUNA,KAURU,,MAJAGADA/ L.E.A. PRI.SCH.,18/14/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54744/result_115950_1677665471_thumb.jpg,false
-KADUNA,KAURU,,KARKUN KASA/ K/G MAIUNGUWA,18/14/06/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54743/result_115949_1677665180_thumb.jpg,false
-KADUNA,KAURU,,GESHERE II/ K/G MAIUNGUWA,18/14/06/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54742/result_115948_1677664939_thumb.jpg,false
-KADUNA,KAURU,,GESHERE II/ L.E.A. PRY.SCH.,18/14/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54741/result_115947_1677664772_thumb.jpg,false
-KADUNA,KAURU,,TUNKURI/ K/G MAIUNGUWA,18/14/06/009,,false
-KADUNA,KAURU,,TUDUN YAWA GESHERE,18/14/06/019,,false
-KADUNA,KAURU,,KIMURU/ K/G MAI UNGUWA,18/14/06/013,,false
-KADUNA,KAURU,,BABBAN RUMBU,18/14/06/018,,false
-KADUNA,KAURU,,GESHERE I/ L.E.A. PRY.SCH.,18/14/06/001,,false
-KADUNA,KAURU,,ZAMFUR/ K/G MAI UNGUWA,18/14/06/016,,false
+KADUNA,KAURU,GESHERE,ASAKE/ K/G MAI UNGUWA,18/14/06/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54756/result_115962_1677679492_thumb.jpg,false
+KADUNA,KAURU,GESHERE,ANG/S. KURYA/ K/G MAI UNGUWA,18/14/06/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54753/result_115959_1677676592_thumb.jpg,false
+KADUNA,KAURU,GESHERE,DINGI/ K/G MAI UNGUWA,18/14/06/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54754/result_115960_1677676579_thumb.jpg,false
+KADUNA,KAURU,GESHERE,GWANDARA/ K/G MAI UNGUWA,18/14/06/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54751/result_115957_1677676305_thumb.jpg,false
+KADUNA,KAURU,GESHERE,KIWAFA/ K/G MAI UNGUWA,18/14/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54750/result_115956_1677676098_thumb.jpg,false
+KADUNA,KAURU,GESHERE,NINGI KARKUN,18/14/06/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642320/result_115965_1677675792_thumb.jpg,false
+KADUNA,KAURU,GESHERE,KAZOH,18/14/06/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642321/result_115966_1677675539_thumb.jpg,false
+KADUNA,KAURU,GESHERE,FADAN KONO/ L.E.A. PRI.SCH.,18/14/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54749/result_115955_1677675488_thumb.jpg,false
+KADUNA,KAURU,GESHERE,ABUGA,18/14/06/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642322/result_115967_1677675413_thumb.jpg,false
+KADUNA,KAURU,GESHERE,KABENE II/ L.E.A. PRI.SCH.,18/14/06/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54747/result_115953_1677675215_thumb.jpg,false
+KADUNA,KAURU,GESHERE,MANGU BINAWA,18/14/06/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642323/result_115968_1677675155_thumb.jpg,false
+KADUNA,KAURU,GESHERE,TSOHON GARI BINAWA,18/14/06/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642324/result_115969_1677674982_thumb.jpg,false
+KADUNA,KAURU,GESHERE,ASSAKE II,18/14/06/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642325/result_115970_1677674780_thumb.jpg,false
+KADUNA,KAURU,GESHERE,KABENE I/ L.E.A. PRI.SCH.,18/14/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54746/result_115952_1677666199_thumb.jpg,false
+KADUNA,KAURU,GESHERE,BINAWA/ L.E.A. PRI.SCH.,18/14/06/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54745/result_115951_1677665915_thumb.jpg,false
+KADUNA,KAURU,GESHERE,MAJAGADA/ L.E.A. PRI.SCH.,18/14/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54744/result_115950_1677665471_thumb.jpg,false
+KADUNA,KAURU,GESHERE,KARKUN KASA/ K/G MAIUNGUWA,18/14/06/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54743/result_115949_1677665180_thumb.jpg,false
+KADUNA,KAURU,GESHERE,GESHERE II/ K/G MAIUNGUWA,18/14/06/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54742/result_115948_1677664939_thumb.jpg,false
+KADUNA,KAURU,GESHERE,GESHERE II/ L.E.A. PRY.SCH.,18/14/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54741/result_115947_1677664772_thumb.jpg,false
+KADUNA,KAURU,GESHERE,TUNKURI/ K/G MAIUNGUWA,18/14/06/009,,false
+KADUNA,KAURU,GESHERE,TUDUN YAWA GESHERE,18/14/06/019,,false
+KADUNA,KAURU,GESHERE,KIMURU/ K/G MAI UNGUWA,18/14/06/013,,false
+KADUNA,KAURU,GESHERE,BABBAN RUMBU,18/14/06/018,,false
+KADUNA,KAURU,GESHERE,GESHERE I/ L.E.A. PRY.SCH.,18/14/06/001,,false
+KADUNA,KAURU,GESHERE,ZAMFUR/ K/G MAI UNGUWA,18/14/06/016,,false

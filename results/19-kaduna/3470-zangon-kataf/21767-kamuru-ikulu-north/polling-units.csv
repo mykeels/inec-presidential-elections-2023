@@ -1,39 +1,39 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,ZANGON KATAF,,FANGE/ GARIN FANGE,18/22/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56402/result_118401_1677582551_thumb.jpg,false
-KADUNA,ZANGON KATAF,,AKUPAL/ L.E.A. PRI. SCH.,18/22/10/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56412/result_118411_1677581373_thumb.jpg,false
-KADUNA,ZANGON KATAF,,KAMULU IKULU I/ GARIN IKULU,18/22/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56400/result_118399_1677576618_thumb.jpg,false
-KADUNA,ZANGON KATAF,,UNG. MAKAMA,18/22/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56411/result_118410_1677581122_thumb.jpg,false
-KADUNA,ZANGON KATAF,,UNG. PAH/ L.E.A. PRI. SCH.,18/22/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56409/result_118408_1677580966_thumb.jpg,false
-KADUNA,ZANGON KATAF,,U/BAKAYA,18/22/10/036,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-KADUNA,ZANGON KATAF,,U/PATE/UBE,18/22/10/037,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643351/result_118435_1677581540_thumb.jpg,false
-KADUNA,ZANGON KATAF,,KAMURU DUTSE/ L.E.A. PRI. SCH.,18/22/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56404/result_118403_1677581673_thumb.jpg,false
-KADUNA,ZANGON KATAF,,KAMURU DUTSE II/ PRI. SCHOOL,18/22/10/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56421/result_118420_1677580693_thumb.jpg,false
-KADUNA,ZANGON KATAF,,KAMULU IKULU II/ L.E.A. PRI. SCH.,18/22/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56401/result_118400_1677581792_thumb.jpg,false
-KADUNA,ZANGON KATAF,,U/GIMBA /LEA,18/22/10/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643348/result_118432_1677582371_thumb.jpg,false
-KADUNA,ZANGON KATAF,,LISURU/LEA PRI SCH.,18/22/10/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/56509/56509-1677474378.pdf,false
-KADUNA,ZANGON KATAF,,U/RIMI,18/22/10/038,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/147882/147882-1677473243.pdf,false
-KADUNA,ZANGON KATAF,,KATUL/LEA,18/22/10/032,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/147876/147876-1677472858.pdf,false
-KADUNA,ZANGON KATAF,,U/JATAU GARI,18/22/10/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/147872/147872-1677472419.pdf,false
-KADUNA,ZANGON KATAF,,KOLOSOK/ GARIN KOLOSOK,18/22/10/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/56508/56508-1677472306.pdf,false
-KADUNA,ZANGON KATAF,,IKULU YELWA,18/22/10/031,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/147875/147875-1677472006.pdf,false
-KADUNA,ZANGON KATAF,,U/RANA ASHAFA /UBE,18/22/10/029,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/147873/147873-1677471563.pdf,false
-KADUNA,ZANGON KATAF,,ASHAFA II/ PRIMARY SCHOOL,18/22/10/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/56513/56513-1677470914.pdf,false
-KADUNA,ZANGON KATAF,,U/BASHERU,18/22/10/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/147870/147870-1677470381.pdf,false
-KADUNA,ZANGON KATAF,,UNG. RANA/ L.E.A. PRI. SCH.,18/22/10/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/56511/56511-1677469455.pdf,false
-KADUNA,ZANGON KATAF,,ANTAL GIDAN,18/22/10/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/147871/147871-1677468630.pdf,false
-KADUNA,ZANGON KATAF,,KAMURU HAUSA/ L.E.A. PRI. SCH.,18/22/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/56494/56494-1677467600.pdf,false
-KADUNA,ZANGON KATAF,,GIDAN ALI/ L.E.A. PRI. SCH.,18/22/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/56505/56505-1677467250.pdf,false
-KADUNA,ZANGON KATAF,,FADAN IKULU/ L.E.A. PRI. SCH.,18/22/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/56504/56504-1677466287.pdf,false
-KADUNA,ZANGON KATAF,,BOTO II /GOSKA /UBE,18/22/10/030,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/147874/147874-1677466048.pdf,false
-KADUNA,ZANGON KATAF,,KWARKWANO/LEA,18/22/10/035,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/147879/147879-1677465358.pdf,false
-KADUNA,ZANGON KATAF,,ASHAFA/ GARIN ASHAFA,18/22/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/56496/56496-1677458952.pdf,false
-KADUNA,ZANGON KATAF,,SABON KAURA/ L.E.A. PRI. SCH.,18/22/10/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/56510/56510-1677458949.pdf,false
-KADUNA,ZANGON KATAF,,DUTSEN BAKO/ L.E.A. PRI. SCH.,18/22/10/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/56507/56507-1677458701.pdf,false
-KADUNA,ZANGON KATAF,,ZAGOM GAJERE/ L.E.A. PRI. SCH.,18/22/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/56497/56497-1677458541.pdf,false
-KADUNA,ZANGON KATAF,,ANCHUNA/ L.E.A. PRI. SCH.,18/22/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/56501/56501-1677457822.pdf,false
-KADUNA,ZANGON KATAF,,BOTO/ L.E.A. PRI. SCH.,18/22/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/56498/56498-1677456586.pdf,false
-KADUNA,ZANGON KATAF,,U/CHIRANI /LEA,18/22/10/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/147868/147868-1677456382.pdf,false
-KADUNA,ZANGON KATAF,,UNG. TORO/ L.E.A. PRI. SCH.,18/22/10/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/56506/56506-1677456004.pdf,false
-KADUNA,ZANGON KATAF,,BAKIN LAMBA/LEA,18/22/10/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/147869/147869-1677455058.pdf,false
-KADUNA,ZANGON KATAF,,GIDAN BAKO/ L.E.A. PRI. SCH.,18/22/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/56499/56499-1677454895.pdf,false
-KADUNA,ZANGON KATAF,,ANCHUNA /GSS,18/22/10/033,,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,FANGE/ GARIN FANGE,18/22/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56402/result_118401_1677582551_thumb.jpg,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,AKUPAL/ L.E.A. PRI. SCH.,18/22/10/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56412/result_118411_1677581373_thumb.jpg,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,KAMULU IKULU I/ GARIN IKULU,18/22/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56400/result_118399_1677576618_thumb.jpg,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,UNG. MAKAMA,18/22/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56411/result_118410_1677581122_thumb.jpg,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,UNG. PAH/ L.E.A. PRI. SCH.,18/22/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56409/result_118408_1677580966_thumb.jpg,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,U/BAKAYA,18/22/10/036,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,U/PATE/UBE,18/22/10/037,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643351/result_118435_1677581540_thumb.jpg,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,KAMURU DUTSE/ L.E.A. PRI. SCH.,18/22/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56404/result_118403_1677581673_thumb.jpg,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,KAMURU DUTSE II/ PRI. SCHOOL,18/22/10/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56421/result_118420_1677580693_thumb.jpg,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,KAMULU IKULU II/ L.E.A. PRI. SCH.,18/22/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56401/result_118400_1677581792_thumb.jpg,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,U/GIMBA /LEA,18/22/10/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643348/result_118432_1677582371_thumb.jpg,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,LISURU/LEA PRI SCH.,18/22/10/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/56509/56509-1677474378.pdf,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,U/RIMI,18/22/10/038,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/147882/147882-1677473243.pdf,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,KATUL/LEA,18/22/10/032,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/147876/147876-1677472858.pdf,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,U/JATAU GARI,18/22/10/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/147872/147872-1677472419.pdf,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,KOLOSOK/ GARIN KOLOSOK,18/22/10/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/56508/56508-1677472306.pdf,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,IKULU YELWA,18/22/10/031,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/147875/147875-1677472006.pdf,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,U/RANA ASHAFA /UBE,18/22/10/029,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/147873/147873-1677471563.pdf,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,ASHAFA II/ PRIMARY SCHOOL,18/22/10/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/56513/56513-1677470914.pdf,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,U/BASHERU,18/22/10/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/147870/147870-1677470381.pdf,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,UNG. RANA/ L.E.A. PRI. SCH.,18/22/10/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/56511/56511-1677469455.pdf,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,ANTAL GIDAN,18/22/10/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/147871/147871-1677468630.pdf,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,KAMURU HAUSA/ L.E.A. PRI. SCH.,18/22/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/56494/56494-1677467600.pdf,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,GIDAN ALI/ L.E.A. PRI. SCH.,18/22/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/56505/56505-1677467250.pdf,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,FADAN IKULU/ L.E.A. PRI. SCH.,18/22/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/56504/56504-1677466287.pdf,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,BOTO II /GOSKA /UBE,18/22/10/030,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/147874/147874-1677466048.pdf,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,KWARKWANO/LEA,18/22/10/035,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/147879/147879-1677465358.pdf,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,ASHAFA/ GARIN ASHAFA,18/22/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/56496/56496-1677458952.pdf,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,SABON KAURA/ L.E.A. PRI. SCH.,18/22/10/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/56510/56510-1677458949.pdf,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,DUTSEN BAKO/ L.E.A. PRI. SCH.,18/22/10/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/56507/56507-1677458701.pdf,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,ZAGOM GAJERE/ L.E.A. PRI. SCH.,18/22/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/56497/56497-1677458541.pdf,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,ANCHUNA/ L.E.A. PRI. SCH.,18/22/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/56501/56501-1677457822.pdf,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,BOTO/ L.E.A. PRI. SCH.,18/22/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/56498/56498-1677456586.pdf,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,U/CHIRANI /LEA,18/22/10/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/147868/147868-1677456382.pdf,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,UNG. TORO/ L.E.A. PRI. SCH.,18/22/10/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/56506/56506-1677456004.pdf,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,BAKIN LAMBA/LEA,18/22/10/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/147869/147869-1677455058.pdf,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,GIDAN BAKO/ L.E.A. PRI. SCH.,18/22/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21767/pu/56499/56499-1677454895.pdf,false
+KADUNA,ZANGON KATAF,KAMURU IKULU NORTH,ANCHUNA /GSS,18/22/10/033,,false

@@ -26,6 +26,7 @@
     "pu_code_string": "181303016",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "KPAK",
     "document": {
       "external": true,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "181303003",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "KPAK",
     "document": {
       "external": true,
       "status": 1,
@@ -119,6 +121,7 @@
     "pu_code_string": "181303004",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "KPAK",
     "document": {
       "external": false,
       "status": 1,
@@ -157,6 +160,7 @@
     "pu_code_string": "181303002",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "KPAK",
     "document": {
       "external": false,
       "status": 1,
@@ -195,6 +199,7 @@
     "pu_code_string": "181303007",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "KPAK",
     "document": {
       "external": false,
       "status": 1,
@@ -233,6 +238,7 @@
     "pu_code_string": "181303014",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "KPAK",
     "document": {
       "external": false,
       "status": 1,
@@ -271,6 +277,7 @@
     "pu_code_string": "181303005",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "KPAK",
     "document": {
       "external": false,
       "status": 1,
@@ -309,6 +316,7 @@
     "pu_code_string": "181303010",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "KPAK",
     "document": {
       "external": false,
       "status": 1,
@@ -347,6 +355,7 @@
     "pu_code_string": "181303009",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "KPAK",
     "document": {
       "external": false,
       "status": 1,
@@ -385,6 +394,7 @@
     "pu_code_string": "181303006",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "KPAK",
     "document": {
       "external": false,
       "status": 1,
@@ -423,6 +433,7 @@
     "pu_code_string": "181303015",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "KPAK",
     "document": {
       "external": false,
       "status": 1,
@@ -461,6 +472,7 @@
     "pu_code_string": "181303011",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "KPAK",
     "document": {
       "external": false,
       "status": 1,
@@ -499,6 +511,7 @@
     "pu_code_string": "181303008",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "KPAK",
     "document": {
       "external": false,
       "status": 1,
@@ -537,6 +550,7 @@
     "pu_code_string": "181303012",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "KPAK",
     "document": {
       "external": false,
       "status": 1,
@@ -575,6 +589,7 @@
     "pu_code_string": "181303001",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "KPAK",
     "document": {
       "external": false,
       "status": 1,
@@ -613,6 +628,7 @@
     "pu_code_string": "181303013",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "KPAK",
     "old_documents": [],
     "has_old_documents": false
   }

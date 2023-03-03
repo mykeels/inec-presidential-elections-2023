@@ -1,17 +1,17 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,SANGA,,GINDIN MANGWARO,18/20/03/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642898/result_117684_1677613702_thumb.jpg,false
-KADUNA,SANGA,,CUSTOMARY COURT,18/20/03/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642897/result_117683_1677613612_thumb.jpg,false
-KADUNA,SANGA,,UNG YUSUF,18/20/03/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642896/result_117682_1677613516_thumb.jpg,false
-KADUNA,SANGA,,GINDIN MANGWARO,18/20/03/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642895/result_117681_1677613404_thumb.jpg,false
-KADUNA,SANGA,,PRI HEALTH CARE CENTER MAYIR,18/20/03/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642894/result_117680_1677613302_thumb.jpg,false
-KADUNA,SANGA,,MAYIR II/MAYIR,18/20/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55912/result_117679_1677613018_thumb.jpg,false
-KADUNA,SANGA,,UNG GIMBA,18/20/03/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-KADUNA,SANGA,,UNG KAKO,18/20/03/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55910/result_117677_1677612664_thumb.jpg,false
-KADUNA,SANGA,,UNG MAMMAN,18/20/03/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55909/result_117676_1677612578_thumb.jpg,false
-KADUNA,SANGA,,ANKA/FATU,18/20/03/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55908/result_117675_1677612482_thumb.jpg,false
-KADUNA,SANGA,,BABUR,18/20/03/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55907/result_117674_1677612386_thumb.jpg,false
-KADUNA,SANGA,,ATILI,18/20/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55906/result_117673_1677611992_thumb.jpg,false
-KADUNA,SANGA,,TUGON,18/20/03/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55905/result_117672_1677611882_thumb.jpg,false
-KADUNA,SANGA,,AGAMATI,18/20/03/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55904/result_117671_1677611505_thumb.jpg,false
-KADUNA,SANGA,,TAYU,18/20/03/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55903/result_117670_1677611407_thumb.jpg,false
-KADUNA,SANGA,,MAYIR,18/20/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55902/result_117669_1677611082_thumb.jpg,false
+KADUNA,SANGA,AYU,GINDIN MANGWARO,18/20/03/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642898/result_117684_1677613702_thumb.jpg,false
+KADUNA,SANGA,AYU,CUSTOMARY COURT,18/20/03/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642897/result_117683_1677613612_thumb.jpg,false
+KADUNA,SANGA,AYU,UNG YUSUF,18/20/03/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642896/result_117682_1677613516_thumb.jpg,false
+KADUNA,SANGA,AYU,GINDIN MANGWARO,18/20/03/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642895/result_117681_1677613404_thumb.jpg,false
+KADUNA,SANGA,AYU,PRI HEALTH CARE CENTER MAYIR,18/20/03/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642894/result_117680_1677613302_thumb.jpg,false
+KADUNA,SANGA,AYU,MAYIR II/MAYIR,18/20/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55912/result_117679_1677613018_thumb.jpg,false
+KADUNA,SANGA,AYU,UNG GIMBA,18/20/03/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,SANGA,AYU,UNG KAKO,18/20/03/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55910/result_117677_1677612664_thumb.jpg,false
+KADUNA,SANGA,AYU,UNG MAMMAN,18/20/03/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55909/result_117676_1677612578_thumb.jpg,false
+KADUNA,SANGA,AYU,ANKA/FATU,18/20/03/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55908/result_117675_1677612482_thumb.jpg,false
+KADUNA,SANGA,AYU,BABUR,18/20/03/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55907/result_117674_1677612386_thumb.jpg,false
+KADUNA,SANGA,AYU,ATILI,18/20/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55906/result_117673_1677611992_thumb.jpg,false
+KADUNA,SANGA,AYU,TUGON,18/20/03/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55905/result_117672_1677611882_thumb.jpg,false
+KADUNA,SANGA,AYU,AGAMATI,18/20/03/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55904/result_117671_1677611505_thumb.jpg,false
+KADUNA,SANGA,AYU,TAYU,18/20/03/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55903/result_117670_1677611407_thumb.jpg,false
+KADUNA,SANGA,AYU,MAYIR,18/20/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55902/result_117669_1677611082_thumb.jpg,false

@@ -1,23 +1,23 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,SOBA,,UNG. LIMAN IBADA/ LIMAN IBADA,18/21/06/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56123/result_117976_1677614338_thumb.jpg,false
-KADUNA,SOBA,,"PRIMARY HEALTH CENTER, GURBABIYA",18/21/06/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642948/result_117981_1677579984_thumb.jpg,false
-KADUNA,SOBA,,UNG. MAKADA/ K.G MAIANGUWA,18/21/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56120/result_117973_1677590228_thumb.jpg,false
-KADUNA,SOBA,,GOVT. ARABIC SCH. GAMAGIRA,18/21/06/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642946/result_117979_1677584860_thumb.jpg,false
-KADUNA,SOBA,,TAMAN SAMA/ L.E.A. TAMA,18/21/06/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56113/result_117966_1677581272_thumb.jpg,false
-KADUNA,SOBA,,UNG. FULANI/ K/G MAI ANGUWA,18/21/06/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56112/result_117965_1677586244_thumb.jpg,false
-KADUNA,SOBA,,UNG. JABA/ K. MAIANGUWA,18/21/06/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56125/result_117978_1677583647_thumb.jpg,false
-KADUNA,SOBA,,UNG. MAHAUTA/ K. MAIANGUWA,18/21/06/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56124/result_117977_1677585663_thumb.jpg,false
-KADUNA,SOBA,,GOVT.SEC.SCH. GAMAGIRA,18/21/06/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642951/result_117984_1677582271_thumb.jpg,false
-KADUNA,SOBA,,UNG. S/DANJABA/ K.S. DANJABA,18/21/06/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56115/result_117968_1677584785_thumb.jpg,false
-KADUNA,SOBA,,"KADAGE, KADAGE",18/21/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56119/result_117972_1677581646_thumb.jpg,false
-KADUNA,SOBA,,GURBABIYA/ L.E.A. GURBABIYA,18/21/06/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56118/result_117971_1677590319_thumb.jpg,false
-KADUNA,SOBA,,GAMAGIRA/ L.E.A. G/GIRA,18/21/06/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56110/result_117963_1677582676_thumb.jpg,false
-KADUNA,SOBA,,"UNG. DOKAN ITU, UNG. DOKAN ITU",18/21/06/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56122/result_117975_1677586879_thumb.jpg,false
-KADUNA,SOBA,,DANJABA/ L.E.A. DANJABA,18/21/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56114/result_117967_1677585175_thumb.jpg,false
-KADUNA,SOBA,,UNG. AUTA,18/21/06/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56121/result_117974_1677583497_thumb.jpg,false
-KADUNA,SOBA,,PRIMARY HEALTH CENTER TAMAN SAMA,18/21/06/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642947/result_117980_1677586649_thumb.jpg,false
-KADUNA,SOBA,,"UNG. KATSINAWA, UNG. KATSINAWA",18/21/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56116/result_117969_1677585512_thumb.jpg,false
-KADUNA,SOBA,,LEA PRIMARY SCHOOL BLOCK 3 KADAGE,18/21/06/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642949/result_117982_1677582825_thumb.jpg,false
-KADUNA,SOBA,,PRIMARY HEALTH CENTER LIMAN IBADA,18/21/06/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642950/result_117983_1677586928_thumb.jpg,false
-KADUNA,SOBA,,UNG. WADAZA/ L.E.A. WADAZA,18/21/06/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56117/result_117970_1677582531_thumb.jpg,false
-KADUNA,SOBA,,UNG. S/GAMAGIRA/ T.V. CENTRE,18/21/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56111/result_117964_1677581812_thumb.jpg,false
+KADUNA,SOBA,GAMAGIRA,UNG. LIMAN IBADA/ LIMAN IBADA,18/21/06/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56123/result_117976_1677614338_thumb.jpg,false
+KADUNA,SOBA,GAMAGIRA,"PRIMARY HEALTH CENTER, GURBABIYA",18/21/06/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642948/result_117981_1677579984_thumb.jpg,false
+KADUNA,SOBA,GAMAGIRA,UNG. MAKADA/ K.G MAIANGUWA,18/21/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56120/result_117973_1677590228_thumb.jpg,false
+KADUNA,SOBA,GAMAGIRA,GOVT. ARABIC SCH. GAMAGIRA,18/21/06/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642946/result_117979_1677584860_thumb.jpg,false
+KADUNA,SOBA,GAMAGIRA,TAMAN SAMA/ L.E.A. TAMA,18/21/06/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56113/result_117966_1677581272_thumb.jpg,false
+KADUNA,SOBA,GAMAGIRA,UNG. FULANI/ K/G MAI ANGUWA,18/21/06/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56112/result_117965_1677586244_thumb.jpg,false
+KADUNA,SOBA,GAMAGIRA,UNG. JABA/ K. MAIANGUWA,18/21/06/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56125/result_117978_1677583647_thumb.jpg,false
+KADUNA,SOBA,GAMAGIRA,UNG. MAHAUTA/ K. MAIANGUWA,18/21/06/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56124/result_117977_1677585663_thumb.jpg,false
+KADUNA,SOBA,GAMAGIRA,GOVT.SEC.SCH. GAMAGIRA,18/21/06/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642951/result_117984_1677582271_thumb.jpg,false
+KADUNA,SOBA,GAMAGIRA,UNG. S/DANJABA/ K.S. DANJABA,18/21/06/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56115/result_117968_1677584785_thumb.jpg,false
+KADUNA,SOBA,GAMAGIRA,"KADAGE, KADAGE",18/21/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56119/result_117972_1677581646_thumb.jpg,false
+KADUNA,SOBA,GAMAGIRA,GURBABIYA/ L.E.A. GURBABIYA,18/21/06/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56118/result_117971_1677590319_thumb.jpg,false
+KADUNA,SOBA,GAMAGIRA,GAMAGIRA/ L.E.A. G/GIRA,18/21/06/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56110/result_117963_1677582676_thumb.jpg,false
+KADUNA,SOBA,GAMAGIRA,"UNG. DOKAN ITU, UNG. DOKAN ITU",18/21/06/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56122/result_117975_1677586879_thumb.jpg,false
+KADUNA,SOBA,GAMAGIRA,DANJABA/ L.E.A. DANJABA,18/21/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56114/result_117967_1677585175_thumb.jpg,false
+KADUNA,SOBA,GAMAGIRA,UNG. AUTA,18/21/06/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56121/result_117974_1677583497_thumb.jpg,false
+KADUNA,SOBA,GAMAGIRA,PRIMARY HEALTH CENTER TAMAN SAMA,18/21/06/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642947/result_117980_1677586649_thumb.jpg,false
+KADUNA,SOBA,GAMAGIRA,"UNG. KATSINAWA, UNG. KATSINAWA",18/21/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56116/result_117969_1677585512_thumb.jpg,false
+KADUNA,SOBA,GAMAGIRA,LEA PRIMARY SCHOOL BLOCK 3 KADAGE,18/21/06/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642949/result_117982_1677582825_thumb.jpg,false
+KADUNA,SOBA,GAMAGIRA,PRIMARY HEALTH CENTER LIMAN IBADA,18/21/06/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642950/result_117983_1677586928_thumb.jpg,false
+KADUNA,SOBA,GAMAGIRA,UNG. WADAZA/ L.E.A. WADAZA,18/21/06/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56117/result_117970_1677582531_thumb.jpg,false
+KADUNA,SOBA,GAMAGIRA,UNG. S/GAMAGIRA/ T.V. CENTRE,18/21/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56111/result_117964_1677581812_thumb.jpg,false

@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,MAKARFI,,DANDAMISA PRI. HEALTH CARE,18/18/10/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642702/result_117224_1677545468_thumb.jpg,false
-KADUNA,MAKARFI,,UNG. SARKI D/DAMISA/ PRI. SCH. D/DAMISA,18/18/10/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55609/result_117223_1677545212_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. SARKI MARKE II/ K.M MARKE,18/18/10/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55608/result_117222_1677545062_thumb.jpg,false
-KADUNA,MAKARFI,,KATUKAWA II/ K.M KATUKAWA,18/18/10/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55607/result_117221_1677544852_thumb.jpg,true
-KADUNA,MAKARFI,,ANG. MAKERA/ K.M MAKERA,18/18/10/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55606/result_117220_1677544638_thumb.jpg,false
-KADUNA,MAKARFI,,ABA MALAM/ K.M ABA MALAM,18/18/10/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55605/result_117219_1677544434_thumb.jpg,false
-KADUNA,MAKARFI,,SABON GARI DAJI II/ K.M SABON GARI DAJI,18/18/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55604/result_117218_1677544277_thumb.jpg,false
-KADUNA,MAKARFI,,SABON GARIN DAJI I/ PRI. SCH. S/DAJI,18/18/10/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55603/result_117217_1677544084_thumb.jpg,false
-KADUNA,MAKARFI,,KATUKAWA I/ K.M KATUKAWA,18/18/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55602/result_117216_1677543810_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. SARKI MARKE I/ K.M MARKE,18/18/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55599/result_117213_1677543599_thumb.jpg,false
-KADUNA,MAKARFI,,DANDAMISA/ PRI. SCH. DANDAMISA,18/18/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55598/result_117212_1677543420_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. TANKO D/MISA/ K.M DANDAMISA,18/18/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55597/result_117211_1677543210_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. MIKAILU/ K.M MIKAILU,18/18/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55596/result_117210_1677542920_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. MAGAJI/ K.M MAGAJI,18/18/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55595/result_117209_1677542715_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. DADA/ K.M DADA,18/18/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55594/result_117208_1677542365_thumb.jpg,true
-KADUNA,MAKARFI,,MARKE TASHA/ HEALTH CLINIC MARKE,18/18/10/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55601/result_117215_1677621275_thumb.jpg,false
-KADUNA,MAKARFI,,MARKE GARI/ PPRI. SCH. MARKE,18/18/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55600/result_117214_1677620995_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. SARKI D/MISA/ PRI. SCH. DANDAMISA,18/18/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55593/result_117207_1677516681_thumb.jpg,true
+KADUNA,MAKARFI,DANDAMISA,DANDAMISA PRI. HEALTH CARE,18/18/10/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642702/result_117224_1677545468_thumb.jpg,false
+KADUNA,MAKARFI,DANDAMISA,UNG. SARKI D/DAMISA/ PRI. SCH. D/DAMISA,18/18/10/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55609/result_117223_1677545212_thumb.jpg,false
+KADUNA,MAKARFI,DANDAMISA,ANG. SARKI MARKE II/ K.M MARKE,18/18/10/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55608/result_117222_1677545062_thumb.jpg,false
+KADUNA,MAKARFI,DANDAMISA,KATUKAWA II/ K.M KATUKAWA,18/18/10/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55607/result_117221_1677544852_thumb.jpg,true
+KADUNA,MAKARFI,DANDAMISA,ANG. MAKERA/ K.M MAKERA,18/18/10/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55606/result_117220_1677544638_thumb.jpg,false
+KADUNA,MAKARFI,DANDAMISA,ABA MALAM/ K.M ABA MALAM,18/18/10/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55605/result_117219_1677544434_thumb.jpg,false
+KADUNA,MAKARFI,DANDAMISA,SABON GARI DAJI II/ K.M SABON GARI DAJI,18/18/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55604/result_117218_1677544277_thumb.jpg,false
+KADUNA,MAKARFI,DANDAMISA,SABON GARIN DAJI I/ PRI. SCH. S/DAJI,18/18/10/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55603/result_117217_1677544084_thumb.jpg,false
+KADUNA,MAKARFI,DANDAMISA,KATUKAWA I/ K.M KATUKAWA,18/18/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55602/result_117216_1677543810_thumb.jpg,false
+KADUNA,MAKARFI,DANDAMISA,ANG. SARKI MARKE I/ K.M MARKE,18/18/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55599/result_117213_1677543599_thumb.jpg,false
+KADUNA,MAKARFI,DANDAMISA,DANDAMISA/ PRI. SCH. DANDAMISA,18/18/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55598/result_117212_1677543420_thumb.jpg,false
+KADUNA,MAKARFI,DANDAMISA,ANG. TANKO D/MISA/ K.M DANDAMISA,18/18/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55597/result_117211_1677543210_thumb.jpg,false
+KADUNA,MAKARFI,DANDAMISA,ANG. MIKAILU/ K.M MIKAILU,18/18/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55596/result_117210_1677542920_thumb.jpg,false
+KADUNA,MAKARFI,DANDAMISA,ANG. MAGAJI/ K.M MAGAJI,18/18/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55595/result_117209_1677542715_thumb.jpg,false
+KADUNA,MAKARFI,DANDAMISA,ANG. DADA/ K.M DADA,18/18/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55594/result_117208_1677542365_thumb.jpg,true
+KADUNA,MAKARFI,DANDAMISA,MARKE TASHA/ HEALTH CLINIC MARKE,18/18/10/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55601/result_117215_1677621275_thumb.jpg,false
+KADUNA,MAKARFI,DANDAMISA,MARKE GARI/ PPRI. SCH. MARKE,18/18/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55600/result_117214_1677620995_thumb.jpg,false
+KADUNA,MAKARFI,DANDAMISA,ANG. SARKI D/MISA/ PRI. SCH. DANDAMISA,18/18/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55593/result_117207_1677516681_thumb.jpg,true

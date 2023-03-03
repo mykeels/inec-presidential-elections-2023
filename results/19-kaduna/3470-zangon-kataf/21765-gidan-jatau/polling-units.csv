@@ -1,31 +1,31 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,ZANGON KATAF,,ABET/TUDUN WADA,18/22/08/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643307/result_118357_1677628444_thumb.jpg,false
-KADUNA,ZANGON KATAF,,ACHIN ABET/UBE,18/22/08/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/024/024-1677386991.pdf,false
-KADUNA,ZANGON KATAF,,ZUTURUNG MAGO/ L.E.A. PRI. SCH.,18/22/08/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/017/017-1677386034.pdf,false
-KADUNA,ZANGON KATAF,,FARMAN/ U/RANA,18/22/08/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/021/021-1677385477.pdf,false
-KADUNA,ZANGON KATAF,,ABET KUFAI/ L.E.A. PRI. SCH.,18/22/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/005/005-1677385400.pdf,false
-KADUNA,ZANGON KATAF,,ARI SHUMKUT /LEA,18/22/08/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/020/020-1677384849.pdf,false
-KADUNA,ZANGON KATAF,,KAMRUM KAJE III,18/22/08/026,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/026/026-1677384110.pdf,false
-KADUNA,ZANGON KATAF,,MARABANG II,18/22/08/030,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/030/030-1677383978.pdf,false
-KADUNA,ZANGON KATAF,,GIDAN JATAU/ L.E.A. PRI. SCH.,18/22/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/004/004-1677383908.pdf,false
-KADUNA,ZANGON KATAF,,KUMI /UBE,18/22/08/029,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/029/029-1677383137.pdf,false
-KADUNA,ZANGON KATAF,,U/JATAU UBE,18/22/08/025,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/025/025-1677382993.pdf,false
-KADUNA,ZANGON KATAF,,FARMAN/ L.E.A. PRI. SCH.,18/22/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/003/003-1677382364.pdf,false
-KADUNA,ZANGON KATAF,,AVONG/ L.E.A. PRI. SCH.,18/22/08/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/016/016-1677382078.pdf,false
-KADUNA,ZANGON KATAF,,KANEM/ L.E.A. PRI. SCH.,18/22/08/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/014/014-1677381843.pdf,false
-KADUNA,ZANGON KATAF,,IFAM/ L.E.A. PRI. SCH.,18/22/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/011/011-1677381659.pdf,false
-KADUNA,ZANGON KATAF,,ZUTURUNG GIDA/ L.E.A. PRI. SCH.,18/22/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/002/002-1677381241.pdf,false
-KADUNA,ZANGON KATAF,,ZUTURUNG GIDA II/ L.E.A. PRI. SCH.,18/22/08/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/013/013-1677381043.pdf,false
-KADUNA,ZANGON KATAF,,MARABANG/ L.E.A. PRI. SCH.,18/22/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/012/012-1677380493.pdf,false
-KADUNA,ZANGON KATAF,,KURDAN /UBE,18/22/08/027,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/027/027-1677380334.pdf,false
-KADUNA,ZANGON KATAF,,ZUTURUNG TINTA/ GARIN TINTA,18/22/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/001/001-1677379970.pdf,false
-KADUNA,ZANGON KATAF,,TINTA'A/ GARI,18/22/08/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/019/019-1677379827.pdf,false
-KADUNA,ZANGON KATAF,,SAKWAK/ GIDAN SAKWAK,18/22/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/008/008-1677379553.pdf,false
-KADUNA,ZANGON KATAF,,ZUTURUNG GURARA/ L.E.A. PRI. SCH,18/22/08/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/015/015-1677379323.pdf,false
-KADUNA,ZANGON KATAF,,GIDAN JATAU II,18/22/08/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/022/022-1677379235.pdf,false
-KADUNA,ZANGON KATAF,,KAMURU KAJE II/ PRI. SCH.,18/22/08/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/018/018-1677378594.pdf,false
-KADUNA,ZANGON KATAF,,ABET/ L.E.A. PRI. SCH.,18/22/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/006/006-1677378389.pdf,false
-KADUNA,ZANGON KATAF,,ZAURU/ L.E.A. PRI. SCH.,18/22/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/010/010-1677377907.pdf,false
-KADUNA,ZANGON KATAF,,KURDAN/ L.E.A. PRI. SCH.,18/22/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/009/009-1677377568.pdf,false
-KADUNA,ZANGON KATAF,,ZAURU II /UBE,18/22/08/028,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/028/028-1677376568.pdf,false
-KADUNA,ZANGON KATAF,,KAMURU KAJE I/ L.E.A. PRI. SCH.,18/22/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/007/007-1677376398.pdf,false
+KADUNA,ZANGON KATAF,GIDAN JATAU,ABET/TUDUN WADA,18/22/08/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643307/result_118357_1677628444_thumb.jpg,false
+KADUNA,ZANGON KATAF,GIDAN JATAU,ACHIN ABET/UBE,18/22/08/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/024/024-1677386991.pdf,false
+KADUNA,ZANGON KATAF,GIDAN JATAU,ZUTURUNG MAGO/ L.E.A. PRI. SCH.,18/22/08/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/017/017-1677386034.pdf,false
+KADUNA,ZANGON KATAF,GIDAN JATAU,FARMAN/ U/RANA,18/22/08/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/021/021-1677385477.pdf,false
+KADUNA,ZANGON KATAF,GIDAN JATAU,ABET KUFAI/ L.E.A. PRI. SCH.,18/22/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/005/005-1677385400.pdf,false
+KADUNA,ZANGON KATAF,GIDAN JATAU,ARI SHUMKUT /LEA,18/22/08/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/020/020-1677384849.pdf,false
+KADUNA,ZANGON KATAF,GIDAN JATAU,KAMRUM KAJE III,18/22/08/026,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/026/026-1677384110.pdf,false
+KADUNA,ZANGON KATAF,GIDAN JATAU,MARABANG II,18/22/08/030,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/030/030-1677383978.pdf,false
+KADUNA,ZANGON KATAF,GIDAN JATAU,GIDAN JATAU/ L.E.A. PRI. SCH.,18/22/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/004/004-1677383908.pdf,false
+KADUNA,ZANGON KATAF,GIDAN JATAU,KUMI /UBE,18/22/08/029,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/029/029-1677383137.pdf,false
+KADUNA,ZANGON KATAF,GIDAN JATAU,U/JATAU UBE,18/22/08/025,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/025/025-1677382993.pdf,false
+KADUNA,ZANGON KATAF,GIDAN JATAU,FARMAN/ L.E.A. PRI. SCH.,18/22/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/003/003-1677382364.pdf,false
+KADUNA,ZANGON KATAF,GIDAN JATAU,AVONG/ L.E.A. PRI. SCH.,18/22/08/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/016/016-1677382078.pdf,false
+KADUNA,ZANGON KATAF,GIDAN JATAU,KANEM/ L.E.A. PRI. SCH.,18/22/08/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/014/014-1677381843.pdf,false
+KADUNA,ZANGON KATAF,GIDAN JATAU,IFAM/ L.E.A. PRI. SCH.,18/22/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/011/011-1677381659.pdf,false
+KADUNA,ZANGON KATAF,GIDAN JATAU,ZUTURUNG GIDA/ L.E.A. PRI. SCH.,18/22/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/002/002-1677381241.pdf,false
+KADUNA,ZANGON KATAF,GIDAN JATAU,ZUTURUNG GIDA II/ L.E.A. PRI. SCH.,18/22/08/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/013/013-1677381043.pdf,false
+KADUNA,ZANGON KATAF,GIDAN JATAU,MARABANG/ L.E.A. PRI. SCH.,18/22/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/012/012-1677380493.pdf,false
+KADUNA,ZANGON KATAF,GIDAN JATAU,KURDAN /UBE,18/22/08/027,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/027/027-1677380334.pdf,false
+KADUNA,ZANGON KATAF,GIDAN JATAU,ZUTURUNG TINTA/ GARIN TINTA,18/22/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/001/001-1677379970.pdf,false
+KADUNA,ZANGON KATAF,GIDAN JATAU,TINTA'A/ GARI,18/22/08/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/019/019-1677379827.pdf,false
+KADUNA,ZANGON KATAF,GIDAN JATAU,SAKWAK/ GIDAN SAKWAK,18/22/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/008/008-1677379553.pdf,false
+KADUNA,ZANGON KATAF,GIDAN JATAU,ZUTURUNG GURARA/ L.E.A. PRI. SCH,18/22/08/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/015/015-1677379323.pdf,false
+KADUNA,ZANGON KATAF,GIDAN JATAU,GIDAN JATAU II,18/22/08/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/022/022-1677379235.pdf,false
+KADUNA,ZANGON KATAF,GIDAN JATAU,KAMURU KAJE II/ PRI. SCH.,18/22/08/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/018/018-1677378594.pdf,false
+KADUNA,ZANGON KATAF,GIDAN JATAU,ABET/ L.E.A. PRI. SCH.,18/22/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/006/006-1677378389.pdf,false
+KADUNA,ZANGON KATAF,GIDAN JATAU,ZAURU/ L.E.A. PRI. SCH.,18/22/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/010/010-1677377907.pdf,false
+KADUNA,ZANGON KATAF,GIDAN JATAU,KURDAN/ L.E.A. PRI. SCH.,18/22/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/009/009-1677377568.pdf,false
+KADUNA,ZANGON KATAF,GIDAN JATAU,ZAURU II /UBE,18/22/08/028,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/028/028-1677376568.pdf,false
+KADUNA,ZANGON KATAF,GIDAN JATAU,KAMURU KAJE I/ L.E.A. PRI. SCH.,18/22/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/08/pu/007/007-1677376398.pdf,false

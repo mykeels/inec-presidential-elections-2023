@@ -1,22 +1,22 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,SOBA,,RUNJI II/ K.G MAIANGUWA,18/21/11/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56221/result_118110_1677601501_thumb.jpg,false
-KADUNA,SOBA,,UNG. TUKURWA/ K.G MAIANGUWA,18/21/11/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56216/result_118105_1677597964_thumb.jpg,false
-KADUNA,SOBA,,UNG. ARUWA/ K.G MAIANGUWA,18/21/11/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56220/result_118109_1677597941_thumb.jpg,false
-KADUNA,SOBA,,UNG. MALLAM ALI/ K.G MAIANGUWA,18/21/11/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56217/result_118106_1677597641_thumb.jpg,false
-KADUNA,SOBA,,UNG. MAZADU/ K.G MAIANGUWA,18/21/11/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56211/result_118100_1677596764_thumb.jpg,false
-KADUNA,SOBA,,UNG. FULANI/ K.G MAIANGUWA,18/21/11/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56207/result_118096_1677596388_thumb.jpg,false
-KADUNA,SOBA,,LEA PRIMARY SCHOOL KAGADAMA,18/21/11/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642996/result_118114_1677596252_thumb.jpg,false
-KADUNA,SOBA,,TUDUN WADA/ K.G MAIANGUWA,18/21/11/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56213/result_118102_1677595840_thumb.jpg,false
-KADUNA,SOBA,,UNG.TASHAN ITACE/ K.G MAIANGUWA,18/21/11/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56210/result_118099_1677595268_thumb.jpg,false
-KADUNA,SOBA,,UNG. HAWAN KARI/ K.G MAIANGUWA,18/21/11/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-KADUNA,SOBA,,UNG. MADAKI/ K.G MAIANGUWA,18/21/11/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56208/result_118097_1677594384_thumb.jpg,false
-KADUNA,SOBA,,UNG. LEMU GARI/ L.E.A LEMU,18/21/11/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56212/result_118101_1677594368_thumb.jpg,false
-KADUNA,SOBA,,PRIMARY HEALTH CENTRE RAHAMA,18/21/11/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642994/result_118112_1677586868_thumb.jpg,false
-KADUNA,SOBA,,LEA PRI. SCH.HAYIN RAHAMA,18/21/11/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642997/result_118115_1677579889_thumb.jpg,false
-KADUNA,SOBA,,LEA WAWAN RAFI,18/21/11/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642995/result_118113_1677588796_thumb.jpg,false
-KADUNA,SOBA,,UNG. MARMARA LEA MAMARA,18/21/11/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-KADUNA,SOBA,,GOVT.DAY SEC.SCH. RAHAMA,18/21/11/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-KADUNA,SOBA,,UNG. MAJIDADI/ K.G MAIANGUWA,18/21/11/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56219/result_118108_1677584956_thumb.jpg,false
-KADUNA,SOBA,,UNG. RUNJI/ K.G MAIANGUWA,18/21/11/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/11/pu/013/013-1677390652.pdf,false
-KADUNA,SOBA,,RAHAMA GARI/ L.E.A. RAHAMA,18/21/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/11/pu/001/001-1677388887.pdf,false
-KADUNA,SOBA,,UNG. HARUNA/ K.G MAIANGUWA,18/21/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/11/pu/010/010-1677367372.pdf,false
+KADUNA,SOBA,RAHAMA,RUNJI II/ K.G MAIANGUWA,18/21/11/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56221/result_118110_1677601501_thumb.jpg,false
+KADUNA,SOBA,RAHAMA,UNG. TUKURWA/ K.G MAIANGUWA,18/21/11/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56216/result_118105_1677597964_thumb.jpg,false
+KADUNA,SOBA,RAHAMA,UNG. ARUWA/ K.G MAIANGUWA,18/21/11/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56220/result_118109_1677597941_thumb.jpg,false
+KADUNA,SOBA,RAHAMA,UNG. MALLAM ALI/ K.G MAIANGUWA,18/21/11/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56217/result_118106_1677597641_thumb.jpg,false
+KADUNA,SOBA,RAHAMA,UNG. MAZADU/ K.G MAIANGUWA,18/21/11/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56211/result_118100_1677596764_thumb.jpg,false
+KADUNA,SOBA,RAHAMA,UNG. FULANI/ K.G MAIANGUWA,18/21/11/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56207/result_118096_1677596388_thumb.jpg,false
+KADUNA,SOBA,RAHAMA,LEA PRIMARY SCHOOL KAGADAMA,18/21/11/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642996/result_118114_1677596252_thumb.jpg,false
+KADUNA,SOBA,RAHAMA,TUDUN WADA/ K.G MAIANGUWA,18/21/11/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56213/result_118102_1677595840_thumb.jpg,false
+KADUNA,SOBA,RAHAMA,UNG.TASHAN ITACE/ K.G MAIANGUWA,18/21/11/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56210/result_118099_1677595268_thumb.jpg,false
+KADUNA,SOBA,RAHAMA,UNG. HAWAN KARI/ K.G MAIANGUWA,18/21/11/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,SOBA,RAHAMA,UNG. MADAKI/ K.G MAIANGUWA,18/21/11/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56208/result_118097_1677594384_thumb.jpg,false
+KADUNA,SOBA,RAHAMA,UNG. LEMU GARI/ L.E.A LEMU,18/21/11/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56212/result_118101_1677594368_thumb.jpg,false
+KADUNA,SOBA,RAHAMA,PRIMARY HEALTH CENTRE RAHAMA,18/21/11/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642994/result_118112_1677586868_thumb.jpg,false
+KADUNA,SOBA,RAHAMA,LEA PRI. SCH.HAYIN RAHAMA,18/21/11/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642997/result_118115_1677579889_thumb.jpg,false
+KADUNA,SOBA,RAHAMA,LEA WAWAN RAFI,18/21/11/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642995/result_118113_1677588796_thumb.jpg,false
+KADUNA,SOBA,RAHAMA,UNG. MARMARA LEA MAMARA,18/21/11/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,SOBA,RAHAMA,GOVT.DAY SEC.SCH. RAHAMA,18/21/11/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,SOBA,RAHAMA,UNG. MAJIDADI/ K.G MAIANGUWA,18/21/11/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56219/result_118108_1677584956_thumb.jpg,false
+KADUNA,SOBA,RAHAMA,UNG. RUNJI/ K.G MAIANGUWA,18/21/11/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/11/pu/013/013-1677390652.pdf,false
+KADUNA,SOBA,RAHAMA,RAHAMA GARI/ L.E.A. RAHAMA,18/21/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/11/pu/001/001-1677388887.pdf,false
+KADUNA,SOBA,RAHAMA,UNG. HARUNA/ K.G MAIANGUWA,18/21/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/21/ward/11/pu/010/010-1677367372.pdf,false

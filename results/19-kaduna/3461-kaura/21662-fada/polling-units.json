@@ -26,6 +26,7 @@
     "pu_code_string": "181301021",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "FADA",
     "document": {
       "external": true,
       "status": 1,
@@ -81,6 +82,7 @@
     "pu_code_string": "181301020",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "FADA",
     "document": {
       "external": true,
       "status": 1,
@@ -119,6 +121,7 @@
     "pu_code_string": "181301019",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "FADA",
     "document": {
       "external": true,
       "status": 1,
@@ -157,6 +160,7 @@
     "pu_code_string": "181301018",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "FADA",
     "document": {
       "external": true,
       "status": 1,
@@ -204,6 +208,7 @@
     "pu_code_string": "181301017",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "FADA",
     "document": {
       "external": true,
       "status": 1,
@@ -259,6 +264,7 @@
     "pu_code_string": "181301016",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "FADA",
     "document": {
       "external": true,
       "status": 1,
@@ -297,6 +303,7 @@
     "pu_code_string": "181301015",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "FADA",
     "document": {
       "external": true,
       "status": 1,
@@ -352,6 +359,7 @@
     "pu_code_string": "181301014",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "FADA",
     "document": {
       "external": true,
       "status": 1,
@@ -390,6 +398,7 @@
     "pu_code_string": "181301013",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "FADA",
     "document": {
       "external": true,
       "status": 1,
@@ -445,6 +454,7 @@
     "pu_code_string": "181301012",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "FADA",
     "document": {
       "external": true,
       "status": 1,
@@ -483,6 +493,7 @@
     "pu_code_string": "181301011",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "FADA",
     "document": {
       "external": true,
       "status": 1,
@@ -530,6 +541,7 @@
     "pu_code_string": "181301010",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "FADA",
     "document": {
       "external": true,
       "status": 1,
@@ -568,6 +580,7 @@
     "pu_code_string": "181301009",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "FADA",
     "document": {
       "external": true,
       "status": 1,
@@ -606,6 +619,7 @@
     "pu_code_string": "181301008",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "FADA",
     "document": {
       "external": true,
       "status": 1,
@@ -644,6 +658,7 @@
     "pu_code_string": "181301007",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "FADA",
     "document": {
       "external": true,
       "status": 1,
@@ -682,6 +697,7 @@
     "pu_code_string": "181301006",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "FADA",
     "document": {
       "external": true,
       "status": 1,
@@ -720,6 +736,7 @@
     "pu_code_string": "181301004",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "FADA",
     "document": {
       "external": true,
       "status": 1,
@@ -758,6 +775,7 @@
     "pu_code_string": "181301003",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "FADA",
     "document": {
       "external": true,
       "status": 1,
@@ -796,6 +814,7 @@
     "pu_code_string": "181301002",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "FADA",
     "document": {
       "external": true,
       "status": 1,
@@ -834,6 +853,7 @@
     "pu_code_string": "181301001",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "FADA",
     "document": {
       "external": true,
       "status": 1,
@@ -872,6 +892,7 @@
     "pu_code_string": "181301005",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "FADA",
     "old_documents": [],
     "has_old_documents": false
   }

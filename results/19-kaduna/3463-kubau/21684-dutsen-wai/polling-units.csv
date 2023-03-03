@@ -1,25 +1,25 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,KUBAU,,UNG. BADUGU GEFEN TITI,18/15/02/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642410/result_116092_1677758103_thumb.jpg,false
-KADUNA,KUBAU,,UNG. MAKAMA II/ K/G UNGUWA,18/15/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54841/result_116076_1677757908_thumb.jpg,false
-KADUNA,KUBAU,,UNG. SARKI ADAMU CENIMA,18/15/02/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642413/result_116095_1677757753_thumb.jpg,false
-KADUNA,KUBAU,,BAWADA/ K/G UNGUWAN,18/15/02/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54848/result_116083_1677680339_thumb.jpg,false
-KADUNA,KUBAU,,UNG. LIMAN I/ PRI.SCH.,18/15/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-KADUNA,KUBAU,,UNG. LIMAN SUTON TAKI,18/15/02/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642414/result_116096_1677679773_thumb.jpg,false
-KADUNA,KUBAU,,UNG. ASIBITI II/ PRI.SCH.,18/15/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54843/result_116078_1677679454_thumb.jpg,false
-KADUNA,KUBAU,,KULI I/ PRI. SCH.,18/15/02/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54855/result_116090_1677679319_thumb.jpg,false
-KADUNA,KUBAU,,KULI II/ K/G UNGUWA,18/15/02/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54856/result_116091_1677679166_thumb.jpg,false
-KADUNA,KUBAU,,UNG. MAKAMA I/ K/G UNGUWA,18/15/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54840/result_116075_1677676257_thumb.jpg,false
-KADUNA,KUBAU,,UNG. S. ADAMU I/ PRI.SCH.,18/15/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54844/result_116079_1677676057_thumb.jpg,false
-KADUNA,KUBAU,,UNG. LIMAN II/ PRI.SCH.,18/15/02/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54847/result_116082_1677675909_thumb.jpg,false
-KADUNA,KUBAU,,UNG. S. ADAMU II/ PRI.SCH.,18/15/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54845/result_116080_1677674660_thumb.jpg,false
-KADUNA,KUBAU,,UNG. ASIBITI I/ DISPENSARY,18/15/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54842/result_116077_1677674376_thumb.jpg,false
-KADUNA,KUBAU,,UNG. YAU RAKATSE,18/15/02/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642415/result_116097_1677672237_thumb.jpg,false
-KADUNA,KUBAU,,KINKIRMI/ K/G UNGUWA,18/15/02/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-KADUNA,KUBAU,,HAYIN GADA/ K/G UNGUWAN,18/15/02/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54849/result_116084_1677670763_thumb.jpg,false
-KADUNA,KUBAU,,GIDAN KALLO MAIYASHIN TUKWANE,18/15/02/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642416/result_116098_1677670351_thumb.jpg,false
-KADUNA,KUBAU,,MAIYASHI II/ PRI. SCH.,18/15/02/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54853/result_116088_1677670042_thumb.jpg,false
-KADUNA,KUBAU,,MAIYASHI I/ PRI. SCH.,18/15/02/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54852/result_116087_1677669758_thumb.jpg,false
-KADUNA,KUBAU,,UNG. ADAMU TANTARUGU,18/15/02/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642412/result_116094_1677669462_thumb.jpg,false
-KADUNA,KUBAU,,UNG. M. YAU/ K/G UNGUWA,18/15/02/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54851/result_116086_1677668339_thumb.jpg,false
-KADUNA,KUBAU,,HANYAN KULI GIDAN RUWA,18/15/02/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642411/result_116093_1677667824_thumb.jpg,false
-KADUNA,KUBAU,,UNG. MAGAJIN GARI/ K/G UNGUWA,18/15/02/011,,false
+KADUNA,KUBAU,DUTSEN WAI,UNG. BADUGU GEFEN TITI,18/15/02/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642410/result_116092_1677758103_thumb.jpg,false
+KADUNA,KUBAU,DUTSEN WAI,UNG. MAKAMA II/ K/G UNGUWA,18/15/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54841/result_116076_1677757908_thumb.jpg,false
+KADUNA,KUBAU,DUTSEN WAI,UNG. SARKI ADAMU CENIMA,18/15/02/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642413/result_116095_1677757753_thumb.jpg,false
+KADUNA,KUBAU,DUTSEN WAI,BAWADA/ K/G UNGUWAN,18/15/02/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54848/result_116083_1677680339_thumb.jpg,false
+KADUNA,KUBAU,DUTSEN WAI,UNG. LIMAN I/ PRI.SCH.,18/15/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,KUBAU,DUTSEN WAI,UNG. LIMAN SUTON TAKI,18/15/02/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642414/result_116096_1677679773_thumb.jpg,false
+KADUNA,KUBAU,DUTSEN WAI,UNG. ASIBITI II/ PRI.SCH.,18/15/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54843/result_116078_1677679454_thumb.jpg,false
+KADUNA,KUBAU,DUTSEN WAI,KULI I/ PRI. SCH.,18/15/02/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54855/result_116090_1677679319_thumb.jpg,false
+KADUNA,KUBAU,DUTSEN WAI,KULI II/ K/G UNGUWA,18/15/02/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54856/result_116091_1677679166_thumb.jpg,false
+KADUNA,KUBAU,DUTSEN WAI,UNG. MAKAMA I/ K/G UNGUWA,18/15/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54840/result_116075_1677676257_thumb.jpg,false
+KADUNA,KUBAU,DUTSEN WAI,UNG. S. ADAMU I/ PRI.SCH.,18/15/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54844/result_116079_1677676057_thumb.jpg,false
+KADUNA,KUBAU,DUTSEN WAI,UNG. LIMAN II/ PRI.SCH.,18/15/02/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54847/result_116082_1677675909_thumb.jpg,false
+KADUNA,KUBAU,DUTSEN WAI,UNG. S. ADAMU II/ PRI.SCH.,18/15/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54845/result_116080_1677674660_thumb.jpg,false
+KADUNA,KUBAU,DUTSEN WAI,UNG. ASIBITI I/ DISPENSARY,18/15/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54842/result_116077_1677674376_thumb.jpg,false
+KADUNA,KUBAU,DUTSEN WAI,UNG. YAU RAKATSE,18/15/02/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642415/result_116097_1677672237_thumb.jpg,false
+KADUNA,KUBAU,DUTSEN WAI,KINKIRMI/ K/G UNGUWA,18/15/02/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,KUBAU,DUTSEN WAI,HAYIN GADA/ K/G UNGUWAN,18/15/02/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54849/result_116084_1677670763_thumb.jpg,false
+KADUNA,KUBAU,DUTSEN WAI,GIDAN KALLO MAIYASHIN TUKWANE,18/15/02/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642416/result_116098_1677670351_thumb.jpg,false
+KADUNA,KUBAU,DUTSEN WAI,MAIYASHI II/ PRI. SCH.,18/15/02/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54853/result_116088_1677670042_thumb.jpg,false
+KADUNA,KUBAU,DUTSEN WAI,MAIYASHI I/ PRI. SCH.,18/15/02/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54852/result_116087_1677669758_thumb.jpg,false
+KADUNA,KUBAU,DUTSEN WAI,UNG. ADAMU TANTARUGU,18/15/02/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642412/result_116094_1677669462_thumb.jpg,false
+KADUNA,KUBAU,DUTSEN WAI,UNG. M. YAU/ K/G UNGUWA,18/15/02/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54851/result_116086_1677668339_thumb.jpg,false
+KADUNA,KUBAU,DUTSEN WAI,HANYAN KULI GIDAN RUWA,18/15/02/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642411/result_116093_1677667824_thumb.jpg,false
+KADUNA,KUBAU,DUTSEN WAI,UNG. MAGAJIN GARI/ K/G UNGUWA,18/15/02/011,,false

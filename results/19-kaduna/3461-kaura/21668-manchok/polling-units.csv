@@ -1,23 +1,23 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,KAURA,,MANCHOK/ AKADA TIMBER SHED,18/13/07/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642298/result_115743_1677514284_thumb.jpg,false
-KADUNA,KAURA,,MANCHOK/ USMAN MUTUWA,18/13/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3461/ward/21668/pu/54668/54668-1677494879.pdf,false
-KADUNA,KAURA,,MANCHOK/ LGEA PRY. SCH. UNG. BOYE,18/13/07/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/021/021-1677421560.pdf,false
-KADUNA,KAURA,,MANHOCK/ UNG. LIMAN,18/13/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/017/017-1677376214.pdf,false
-KADUNA,KAURA,,MANHOCK/ UNG. BWANHOT,18/13/07/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/018/018-1677414753.pdf,false
-KADUNA,KAURA,,MANCHOK/ NADABO DUNIYA I,18/13/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/003/003-1677399558.pdf,false
-KADUNA,KAURA,,MANCHOK/ UNG. ABA DUBE I,18/13/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/001/001-1677397846.pdf,false
-KADUNA,KAURA,,KAJIM/ DABO YASHIM,18/13/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/013/013-1677389130.pdf,false
-KADUNA,KAURA,,MANHOCK/ UNG. ACHAI,18/13/07/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/019/019-1677388331.pdf,false
-KADUNA,KAURA,,BUNGEN/ AVONG NINYIO,18/13/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/016/016-1677375674.pdf,false
-KADUNA,KAURA,,MANHOCK/ UMARU SHEMANG,18/13/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/015/015-1677374699.pdf,false
-KADUNA,KAURA,,MANHOCK/ (''B.ADAN) BOBAI ADAM,18/13/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/014/014-1677373745.pdf,false
-KADUNA,KAURA,,MAHUTA/ DAUDA ZWANDEN,18/13/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/011/011-1677373495.pdf,false
-KADUNA,KAURA,,MANCHOK/ UNG. BABA DUBE III,18/13/07/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/022/022-1677373059.pdf,false
-KADUNA,KAURA,,MANCHOK/ BUBA DUNIYA,18/13/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/008/008-1677372949.pdf,false
-KADUNA,KAURA,,RADIAM/ NINYO ALLAH,18/13/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/009/009-1677372188.pdf,false
-KADUNA,KAURA,,MANCHOK/ KAZAH DUBE,18/13/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/006/006-1677372159.pdf,false
-KADUNA,KAURA,,MANCHOK/ UNG. ABA DUBE II,18/13/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/002/002-1677371234.pdf,false
-KADUNA,KAURA,,RADIAM/ KETA DUNIYA,18/13/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/010/010-1677370708.pdf,false
-KADUNA,KAURA,,MAHUTA/ AYUBA NUHU,18/13/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/012/012-1677370354.pdf,false
-KADUNA,KAURA,,MANCHOK/ NADABO DUNIYA II,18/13/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/004/004-1677369512.pdf,false
-KADUNA,KAURA,,MANCHOK/ UNG. KALI MAGAJI,18/13/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/007/007-1677368898.pdf,false
+KADUNA,KAURA,MANCHOK,MANCHOK/ AKADA TIMBER SHED,18/13/07/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642298/result_115743_1677514284_thumb.jpg,false
+KADUNA,KAURA,MANCHOK,MANCHOK/ USMAN MUTUWA,18/13/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3461/ward/21668/pu/54668/54668-1677494879.pdf,false
+KADUNA,KAURA,MANCHOK,MANCHOK/ LGEA PRY. SCH. UNG. BOYE,18/13/07/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/021/021-1677421560.pdf,false
+KADUNA,KAURA,MANCHOK,MANHOCK/ UNG. LIMAN,18/13/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/017/017-1677376214.pdf,false
+KADUNA,KAURA,MANCHOK,MANHOCK/ UNG. BWANHOT,18/13/07/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/018/018-1677414753.pdf,false
+KADUNA,KAURA,MANCHOK,MANCHOK/ NADABO DUNIYA I,18/13/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/003/003-1677399558.pdf,false
+KADUNA,KAURA,MANCHOK,MANCHOK/ UNG. ABA DUBE I,18/13/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/001/001-1677397846.pdf,false
+KADUNA,KAURA,MANCHOK,KAJIM/ DABO YASHIM,18/13/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/013/013-1677389130.pdf,false
+KADUNA,KAURA,MANCHOK,MANHOCK/ UNG. ACHAI,18/13/07/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/019/019-1677388331.pdf,false
+KADUNA,KAURA,MANCHOK,BUNGEN/ AVONG NINYIO,18/13/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/016/016-1677375674.pdf,false
+KADUNA,KAURA,MANCHOK,MANHOCK/ UMARU SHEMANG,18/13/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/015/015-1677374699.pdf,false
+KADUNA,KAURA,MANCHOK,MANHOCK/ (''B.ADAN) BOBAI ADAM,18/13/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/014/014-1677373745.pdf,false
+KADUNA,KAURA,MANCHOK,MAHUTA/ DAUDA ZWANDEN,18/13/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/011/011-1677373495.pdf,false
+KADUNA,KAURA,MANCHOK,MANCHOK/ UNG. BABA DUBE III,18/13/07/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/022/022-1677373059.pdf,false
+KADUNA,KAURA,MANCHOK,MANCHOK/ BUBA DUNIYA,18/13/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/008/008-1677372949.pdf,false
+KADUNA,KAURA,MANCHOK,RADIAM/ NINYO ALLAH,18/13/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/009/009-1677372188.pdf,false
+KADUNA,KAURA,MANCHOK,MANCHOK/ KAZAH DUBE,18/13/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/006/006-1677372159.pdf,false
+KADUNA,KAURA,MANCHOK,MANCHOK/ UNG. ABA DUBE II,18/13/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/002/002-1677371234.pdf,false
+KADUNA,KAURA,MANCHOK,RADIAM/ KETA DUNIYA,18/13/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/010/010-1677370708.pdf,false
+KADUNA,KAURA,MANCHOK,MAHUTA/ AYUBA NUHU,18/13/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/012/012-1677370354.pdf,false
+KADUNA,KAURA,MANCHOK,MANCHOK/ NADABO DUNIYA II,18/13/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/004/004-1677369512.pdf,false
+KADUNA,KAURA,MANCHOK,MANCHOK/ UNG. KALI MAGAJI,18/13/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/007/007-1677368898.pdf,false

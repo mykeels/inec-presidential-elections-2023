@@ -26,6 +26,7 @@
     "pu_code_string": "181310024",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "ZANKAN",
     "document": {
       "external": false,
       "status": 1,
@@ -89,6 +90,7 @@
     "pu_code_string": "181310022",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "ZANKAN",
     "document": {
       "external": false,
       "status": 1,
@@ -136,6 +138,7 @@
     "pu_code_string": "181310021",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "ZANKAN",
     "document": {
       "external": false,
       "status": 1,
@@ -183,6 +186,7 @@
     "pu_code_string": "181310019",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "ZANKAN",
     "document": {
       "external": false,
       "status": 1,
@@ -246,6 +250,7 @@
     "pu_code_string": "181310015",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "ZANKAN",
     "document": {
       "external": false,
       "status": 1,
@@ -293,6 +298,7 @@
     "pu_code_string": "181310012",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "ZANKAN",
     "document": {
       "external": false,
       "status": 1,
@@ -356,6 +362,7 @@
     "pu_code_string": "181310010",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "ZANKAN",
     "document": {
       "external": false,
       "status": 1,
@@ -403,6 +410,7 @@
     "pu_code_string": "181310009",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "ZANKAN",
     "document": {
       "external": false,
       "status": 1,
@@ -466,6 +474,7 @@
     "pu_code_string": "181310008",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "ZANKAN",
     "document": {
       "external": false,
       "status": 1,
@@ -529,6 +538,7 @@
     "pu_code_string": "181310007",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "ZANKAN",
     "document": {
       "external": false,
       "status": 1,
@@ -592,6 +602,7 @@
     "pu_code_string": "181310006",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "ZANKAN",
     "document": {
       "external": false,
       "status": 1,
@@ -639,6 +650,7 @@
     "pu_code_string": "181310003",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "ZANKAN",
     "document": {
       "external": false,
       "status": 1,
@@ -718,6 +730,7 @@
     "pu_code_string": "181310002",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "ZANKAN",
     "document": {
       "external": false,
       "status": 1,
@@ -781,6 +794,7 @@
     "pu_code_string": "181310023",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "ZANKAN",
     "document": {
       "external": true,
       "status": 1,
@@ -836,6 +850,7 @@
     "pu_code_string": "181310020",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "ZANKAN",
     "document": {
       "external": true,
       "status": 1,
@@ -891,6 +906,7 @@
     "pu_code_string": "181310018",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "ZANKAN",
     "document": {
       "external": true,
       "status": 1,
@@ -946,6 +962,7 @@
     "pu_code_string": "181310017",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "ZANKAN",
     "document": {
       "external": true,
       "status": 1,
@@ -1001,6 +1018,7 @@
     "pu_code_string": "181310016",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "ZANKAN",
     "document": {
       "external": true,
       "status": 1,
@@ -1056,6 +1074,7 @@
     "pu_code_string": "181310014",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "ZANKAN",
     "document": {
       "external": true,
       "status": 1,
@@ -1111,6 +1130,7 @@
     "pu_code_string": "181310013",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "ZANKAN",
     "document": {
       "external": true,
       "status": 1,
@@ -1166,6 +1186,7 @@
     "pu_code_string": "181310011",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "ZANKAN",
     "document": {
       "external": true,
       "status": 1,
@@ -1221,6 +1242,7 @@
     "pu_code_string": "181310005",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "ZANKAN",
     "document": {
       "external": true,
       "status": 1,
@@ -1276,6 +1298,7 @@
     "pu_code_string": "181310004",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "ZANKAN",
     "document": {
       "external": true,
       "status": 1,
@@ -1331,6 +1354,7 @@
     "pu_code_string": "181310001",
     "state_name": "KADUNA",
     "lga_name": "KAURA",
+    "ward_name": "ZANKAN",
     "document": {
       "external": true,
       "status": 1,

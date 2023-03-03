@@ -1,26 +1,26 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,MAKARFI,,UBE ANG LILI,18/18/07/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642736/result_117163_1677626925_thumb.jpg,false
-KADUNA,MAKARFI,,LEA PRI SCH. KWALO II,18/18/07/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642737/result_117164_1677626610_thumb.jpg,false
-KADUNA,MAKARFI,,MAIGADI/ K.M MAIGADI,18/18/07/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55554/result_117154_1677626092_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. SHUAIBU/ K.M SHUAIBU,18/18/07/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55542/result_117142_1677625126_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. JUMA/ PRI. SCH. A/JUMA,18/18/07/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55550/result_117150_1677624294_thumb.jpg,false
-KADUNA,MAKARFI,,DURUM GARI II/ K.M. DURUM,18/18/07/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55549/result_117149_1677624167_thumb.jpg,false
-KADUNA,MAKARFI,,TV CENTER ANG. JUMA,18/18/07/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642734/result_117161_1677623498_thumb.jpg,false
-KADUNA,MAKARFI,,DURUM GARI I/PRI SCH. II,18/18/07/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642732/result_117159_1677623303_thumb.jpg,false
-KADUNA,MAKARFI,,DANKWARE/ K.M DANKWARE,18/18/07/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55553/result_117153_1677622866_thumb.jpg,false
-KADUNA,MAKARFI,,DURUM GARI I/ PRI. SCH. DURUM,18/18/07/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55548/result_117148_1677620579_thumb.jpg,false
-KADUNA,MAKARFI,,UBE PRI SCH. KURUNTUMAWA,18/18/07/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642733/result_117160_1677620471_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. KAROFI/ PRI. SCH. KAROFI,18/18/07/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55545/result_117145_1677618671_thumb.jpg,false
-KADUNA,MAKARFI,,KANAKARGO/ K.M KANAKARGO,18/18/07/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55551/result_117151_1677620340_thumb.jpg,false
-KADUNA,MAKARFI,,KWALO/ K.M KWALO,18/18/07/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55555/result_117155_1677620136_thumb.jpg,false
-KADUNA,MAKARFI,,CHARWA/ K.M CHARWA,18/18/07/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55552/result_117152_1677619304_thumb.jpg,false
-KADUNA,MAKARFI,,UBE PRI SCH. ANG TUDU,18/18/07/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642735/result_117162_1677620002_thumb.jpg,false
-KADUNA,MAKARFI,,YARKASUWA/ K.M YARKASUWA,18/18/07/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55546/result_117146_1677619081_thumb.jpg,false
-KADUNA,MAKARFI,,NOMADIC PRI SCH. ANG FULANI,18/18/07/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642730/result_117157_1677619801_thumb.jpg,false
-KADUNA,MAKARFI,,BA'AWA/ K.M BA'AWA,18/18/07/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55547/result_117147_1677618323_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. MAKARANTA PRI SCH. MEYERE II,18/18/07/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642731/result_117158_1677618131_thumb.jpg,false
-KADUNA,MAKARFI,,UNG. MAKARANTA II/ PRI. SCH. MAYERE,18/18/07/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55556/result_117156_1677617741_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. BAWA/ K.M BAWA,18/18/07/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55544/result_117144_1677617533_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. MADAUCHI/ K.M MADAUCHI,18/18/07/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55543/result_117143_1677617366_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. MAKARANTA/ PRI. SCH. MAYERE,18/18/07/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55541/result_117141_1677617171_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. SARKIN FADA/ PRI. SCH. S/FADA,18/18/07/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55540/result_117140_1677598975_thumb.jpg,false
+KADUNA,MAKARFI,MAYERE,UBE ANG LILI,18/18/07/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642736/result_117163_1677626925_thumb.jpg,false
+KADUNA,MAKARFI,MAYERE,LEA PRI SCH. KWALO II,18/18/07/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642737/result_117164_1677626610_thumb.jpg,false
+KADUNA,MAKARFI,MAYERE,MAIGADI/ K.M MAIGADI,18/18/07/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55554/result_117154_1677626092_thumb.jpg,false
+KADUNA,MAKARFI,MAYERE,ANG. SHUAIBU/ K.M SHUAIBU,18/18/07/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55542/result_117142_1677625126_thumb.jpg,false
+KADUNA,MAKARFI,MAYERE,ANG. JUMA/ PRI. SCH. A/JUMA,18/18/07/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55550/result_117150_1677624294_thumb.jpg,false
+KADUNA,MAKARFI,MAYERE,DURUM GARI II/ K.M. DURUM,18/18/07/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55549/result_117149_1677624167_thumb.jpg,false
+KADUNA,MAKARFI,MAYERE,TV CENTER ANG. JUMA,18/18/07/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642734/result_117161_1677623498_thumb.jpg,false
+KADUNA,MAKARFI,MAYERE,DURUM GARI I/PRI SCH. II,18/18/07/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642732/result_117159_1677623303_thumb.jpg,false
+KADUNA,MAKARFI,MAYERE,DANKWARE/ K.M DANKWARE,18/18/07/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55553/result_117153_1677622866_thumb.jpg,false
+KADUNA,MAKARFI,MAYERE,DURUM GARI I/ PRI. SCH. DURUM,18/18/07/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55548/result_117148_1677620579_thumb.jpg,false
+KADUNA,MAKARFI,MAYERE,UBE PRI SCH. KURUNTUMAWA,18/18/07/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642733/result_117160_1677620471_thumb.jpg,false
+KADUNA,MAKARFI,MAYERE,ANG. KAROFI/ PRI. SCH. KAROFI,18/18/07/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55545/result_117145_1677618671_thumb.jpg,false
+KADUNA,MAKARFI,MAYERE,KANAKARGO/ K.M KANAKARGO,18/18/07/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55551/result_117151_1677620340_thumb.jpg,false
+KADUNA,MAKARFI,MAYERE,KWALO/ K.M KWALO,18/18/07/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55555/result_117155_1677620136_thumb.jpg,false
+KADUNA,MAKARFI,MAYERE,CHARWA/ K.M CHARWA,18/18/07/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55552/result_117152_1677619304_thumb.jpg,false
+KADUNA,MAKARFI,MAYERE,UBE PRI SCH. ANG TUDU,18/18/07/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642735/result_117162_1677620002_thumb.jpg,false
+KADUNA,MAKARFI,MAYERE,YARKASUWA/ K.M YARKASUWA,18/18/07/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55546/result_117146_1677619081_thumb.jpg,false
+KADUNA,MAKARFI,MAYERE,NOMADIC PRI SCH. ANG FULANI,18/18/07/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642730/result_117157_1677619801_thumb.jpg,false
+KADUNA,MAKARFI,MAYERE,BA'AWA/ K.M BA'AWA,18/18/07/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55547/result_117147_1677618323_thumb.jpg,false
+KADUNA,MAKARFI,MAYERE,ANG. MAKARANTA PRI SCH. MEYERE II,18/18/07/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642731/result_117158_1677618131_thumb.jpg,false
+KADUNA,MAKARFI,MAYERE,UNG. MAKARANTA II/ PRI. SCH. MAYERE,18/18/07/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55556/result_117156_1677617741_thumb.jpg,false
+KADUNA,MAKARFI,MAYERE,ANG. BAWA/ K.M BAWA,18/18/07/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55544/result_117144_1677617533_thumb.jpg,false
+KADUNA,MAKARFI,MAYERE,ANG. MADAUCHI/ K.M MADAUCHI,18/18/07/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55543/result_117143_1677617366_thumb.jpg,false
+KADUNA,MAKARFI,MAYERE,ANG. MAKARANTA/ PRI. SCH. MAYERE,18/18/07/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55541/result_117141_1677617171_thumb.jpg,false
+KADUNA,MAKARFI,MAYERE,ANG. SARKIN FADA/ PRI. SCH. S/FADA,18/18/07/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55540/result_117140_1677598975_thumb.jpg,false

@@ -1,52 +1,52 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,ZANGON KATAF,,MADAUCHI II/UBE,18/22/05/035,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643401/result_118254_1677670091_thumb.jpg,false
-KADUNA,ZANGON KATAF,,KURMIN B II/ ZAKWAT,18/22/05/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56321/result_118243_1677663288_thumb.jpg,false
-KADUNA,ZANGON KATAF,,U/MUSA NEW EXT.,18/22/05/041,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643407/result_118260_1677663159_thumb.jpg,false
-KADUNA,ZANGON KATAF,,U/ASIBITI/HEROS' FAITH,18/22/05/046,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643412/result_118265_1677662619_thumb.jpg,false
-KADUNA,ZANGON KATAF,,FADAN KAJE /LEA,18/22/05/039,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643405/result_118258_1677662429_thumb.jpg,false
-KADUNA,ZANGON KATAF,,UNG. KASUWA,18/22/05/051,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643417/result_118270_1677662212_thumb.jpg,false
-KADUNA,ZANGON KATAF,,ZONKWA TSAKIYA /ZON LIB,18/22/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56300/result_118222_1677662045_thumb.jpg,false
-KADUNA,ZANGON KATAF,,LAYIN SHABA A./ P.H.C. (CLINIC),18/22/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56298/result_118220_1677661830_thumb.jpg,false
-KADUNA,ZANGON KATAF,,UNG. SARKI II/ UNG. SARKI,18/22/05/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56316/result_118238_1677661605_thumb.jpg,false
-KADUNA,ZANGON KATAF,,UNG. BAPTIST I/ G.S.S. ZONKWA,18/22/05/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56324/result_118246_1677620517_thumb.jpg,false
-KADUNA,ZANGON KATAF,,UNG. DAUKE II / AREA,18/22/05/031,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643397/result_118250_1677608680_thumb.jpg,false
-KADUNA,ZANGON KATAF,,UNG. CHRISTOPHER/ L.E.A. PRI. SCH.,18/22/05/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56317/result_118239_1677608497_thumb.jpg,false
-KADUNA,ZANGON KATAF,,RICE MILL /AREA 11,18/22/05/037,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643403/result_118256_1677607994_thumb.jpg,false
-KADUNA,ZANGON KATAF,,UNG. SANKE II/ L.E.A. PRI. SCH.,18/22/05/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56320/result_118242_1677607722_thumb.jpg,false
-KADUNA,ZANGON KATAF,,UNG. RAMA/ NEAR ALH. KANORI HOUSE,18/22/05/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56299/result_118221_1677607533_thumb.jpg,false
-KADUNA,ZANGON KATAF,,RAMAI GIDA/ L.E.A. PRI. SCH.,18/22/05/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56312/result_118234_1677607338_thumb.jpg,false
-KADUNA,ZANGON KATAF,,UNG. DANBAKI II,18/22/05/032,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21762/pu/147793/147793-1677605834.pdf,true
-KADUNA,ZANGON KATAF,,U/ASIBITI/GGC,18/22/05/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643400/result_118253_1677607128_thumb.jpg,false
-KADUNA,ZANGON KATAF,,KURMIN BI/ UBE,18/22/05/047,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643413/result_118266_1677605182_thumb.jpg,false
-KADUNA,ZANGON KATAF,,UNG. ASIBITI/ L.E.A. PRI. SCH.,18/22/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-KADUNA,ZANGON KATAF,,UNG. ASIBITI ST. FRANCIS/ T. FRANCIS COLLEGE,18/22/05/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56322/result_118244_1677603844_thumb.jpg,false
-KADUNA,ZANGON KATAF,,FORMER CENTRAL NUR/PRI. SCH.,18/22/05/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-KADUNA,ZANGON KATAF,,FADAN KAJE/ G.S.S. FADAN KAJE,18/22/05/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56310/result_118232_1677595663_thumb.jpg,false
-KADUNA,ZANGON KATAF,,UNG. MISSION /BENJI'S HOTEL,18/22/05/033,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643399/result_118252_1677594566_thumb.jpg,false
-KADUNA,ZANGON KATAF,,TSOHON GIDA/ L.E.A. PRI. SCH.,18/22/05/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56311/result_118233_1677593351_thumb.jpg,false
-KADUNA,ZANGON KATAF,,UNG. BAPTIST II/ PRIMARY SCHOOL,18/22/05/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56325/result_118247_1677591902_thumb.jpg,false
-KADUNA,ZANGON KATAF,,UNG. TOWN HALL,18/22/05/050,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21762/pu/147811/147811-1677582524.pdf,true
-KADUNA,ZANGON KATAF,,MADAUCHI/ L.E.A. PRI. SCH.,18/22/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21762/pu/56399/56399-1677579652.pdf,true
-KADUNA,ZANGON KATAF,,ZONKWA GSS,18/22/05/043,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21762/pu/147804/147804-1677579221.pdf,true
-KADUNA,ZANGON KATAF,,RAMAI DAJI/ L.E.A. PRI. SCH. I,18/22/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21762/pu/56394/56394-1677577971.pdf,false
-KADUNA,ZANGON KATAF,,ZONAL OFFICE I/ ZONAL OFFICE,18/22/05/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21762/pu/56404/56404-1677577082.pdf,true
-KADUNA,ZANGON KATAF,,MADAUCHI III/UBE,18/22/05/036,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21762/pu/147797/147797-1677571631.pdf,true
-KADUNA,ZANGON KATAF,,"UNG. DANBAKI, UNG. DANBAKI",18/22/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21762/pu/56396/56396-1677570084.pdf,true
-KADUNA,ZANGON KATAF,,ZONKWA TSAKIYA II/NEAR ISLAMIYA,18/22/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21762/pu/56392/56392-1677474583.pdf,false
-KADUNA,ZANGON KATAF,,UNG. ISHAKU/ L.E.A. PRI. SCH. I,18/22/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21762/pu/56395/56395-1677473907.pdf,false
-KADUNA,ZANGON KATAF,,UNG. SANKE/ L.E.A. PRI. SCH.,18/22/05/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21762/pu/56405/56405-1677460344.pdf,false
-KADUNA,ZANGON KATAF,,"UNG. AYA, UNG. AYA",18/22/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21762/pu/56397/56397-1677460063.pdf,false
-KADUNA,ZANGON KATAF,,UNG. DAUKE/ L.E.A. PRI. SCH. I,18/22/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/05/pu/005/005-1677428666.pdf,false
-KADUNA,ZANGON KATAF,,ZONKWA TSAKIYA II/KOFAR GIDA,18/22/05/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/05/pu/022/022-1677428291.pdf,false
-KADUNA,ZANGON KATAF,,KURMIN B. I/ L.E.A. PRI. SCH.,18/22/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/05/pu/012/012-1677425488.pdf,false
-KADUNA,ZANGON KATAF,,UNG. SARKI I/ L.E.A. PRI. SCH.,18/22/05/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/05/pu/018/018-1677425111.pdf,false
-KADUNA,ZANGON KATAF,,ZONAL OFFICE II/ BAKIN KASUWA,18/22/05/029,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/05/pu/029/029-1677415462.pdf,false
-KADUNA,ZANGON KATAF,,FADAN KAJE /U/SHANU,18/22/05/038,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/05/pu/038/038-1677414702.pdf,false
-KADUNA,ZANGON KATAF,,FADAN KAJE BIJIM II/LEA PRI SCH,18/22/05/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/05/pu/021/021-1677405810.pdf,false
-KADUNA,ZANGON KATAF,,U/DORUWA (DI),18/22/05/049,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/05/pu/049/049-1677405365.pdf,false
-KADUNA,ZANGON KATAF,,KURMIN BI/ GSS,18/22/05/048,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/05/pu/048/048-1677404970.pdf,false
-KADUNA,ZANGON KATAF,,WAWAN RAFI,18/22/05/045,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/05/pu/045/045-1677403490.pdf,false
-KADUNA,ZANGON KATAF,,U/TABAK,18/22/05/044,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/05/pu/044/044-1677403254.pdf,false
-KADUNA,ZANGON KATAF,,U/ILIYASU TORO,18/22/05/042,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/05/pu/042/042-1677402528.pdf,false
-KADUNA,ZANGON KATAF,,RUMFA/UBE,18/22/05/040,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/05/pu/040/040-1677402197.pdf,false
-KADUNA,ZANGON KATAF,,KURMIN B III/ ECWA SCHOOL,18/22/05/026,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/05/pu/026/026-1677395183.pdf,false
+KADUNA,ZANGON KATAF,ZONKWA,MADAUCHI II/UBE,18/22/05/035,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643401/result_118254_1677670091_thumb.jpg,false
+KADUNA,ZANGON KATAF,ZONKWA,KURMIN B II/ ZAKWAT,18/22/05/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56321/result_118243_1677663288_thumb.jpg,false
+KADUNA,ZANGON KATAF,ZONKWA,U/MUSA NEW EXT.,18/22/05/041,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643407/result_118260_1677663159_thumb.jpg,false
+KADUNA,ZANGON KATAF,ZONKWA,U/ASIBITI/HEROS' FAITH,18/22/05/046,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643412/result_118265_1677662619_thumb.jpg,false
+KADUNA,ZANGON KATAF,ZONKWA,FADAN KAJE /LEA,18/22/05/039,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643405/result_118258_1677662429_thumb.jpg,false
+KADUNA,ZANGON KATAF,ZONKWA,UNG. KASUWA,18/22/05/051,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643417/result_118270_1677662212_thumb.jpg,false
+KADUNA,ZANGON KATAF,ZONKWA,ZONKWA TSAKIYA /ZON LIB,18/22/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56300/result_118222_1677662045_thumb.jpg,false
+KADUNA,ZANGON KATAF,ZONKWA,LAYIN SHABA A./ P.H.C. (CLINIC),18/22/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56298/result_118220_1677661830_thumb.jpg,false
+KADUNA,ZANGON KATAF,ZONKWA,UNG. SARKI II/ UNG. SARKI,18/22/05/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56316/result_118238_1677661605_thumb.jpg,false
+KADUNA,ZANGON KATAF,ZONKWA,UNG. BAPTIST I/ G.S.S. ZONKWA,18/22/05/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56324/result_118246_1677620517_thumb.jpg,false
+KADUNA,ZANGON KATAF,ZONKWA,UNG. DAUKE II / AREA,18/22/05/031,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643397/result_118250_1677608680_thumb.jpg,false
+KADUNA,ZANGON KATAF,ZONKWA,UNG. CHRISTOPHER/ L.E.A. PRI. SCH.,18/22/05/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56317/result_118239_1677608497_thumb.jpg,false
+KADUNA,ZANGON KATAF,ZONKWA,RICE MILL /AREA 11,18/22/05/037,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643403/result_118256_1677607994_thumb.jpg,false
+KADUNA,ZANGON KATAF,ZONKWA,UNG. SANKE II/ L.E.A. PRI. SCH.,18/22/05/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56320/result_118242_1677607722_thumb.jpg,false
+KADUNA,ZANGON KATAF,ZONKWA,UNG. RAMA/ NEAR ALH. KANORI HOUSE,18/22/05/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56299/result_118221_1677607533_thumb.jpg,false
+KADUNA,ZANGON KATAF,ZONKWA,RAMAI GIDA/ L.E.A. PRI. SCH.,18/22/05/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56312/result_118234_1677607338_thumb.jpg,false
+KADUNA,ZANGON KATAF,ZONKWA,UNG. DANBAKI II,18/22/05/032,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21762/pu/147793/147793-1677605834.pdf,true
+KADUNA,ZANGON KATAF,ZONKWA,U/ASIBITI/GGC,18/22/05/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643400/result_118253_1677607128_thumb.jpg,false
+KADUNA,ZANGON KATAF,ZONKWA,KURMIN BI/ UBE,18/22/05/047,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643413/result_118266_1677605182_thumb.jpg,false
+KADUNA,ZANGON KATAF,ZONKWA,UNG. ASIBITI/ L.E.A. PRI. SCH.,18/22/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,ZANGON KATAF,ZONKWA,UNG. ASIBITI ST. FRANCIS/ T. FRANCIS COLLEGE,18/22/05/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56322/result_118244_1677603844_thumb.jpg,false
+KADUNA,ZANGON KATAF,ZONKWA,FORMER CENTRAL NUR/PRI. SCH.,18/22/05/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,ZANGON KATAF,ZONKWA,FADAN KAJE/ G.S.S. FADAN KAJE,18/22/05/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56310/result_118232_1677595663_thumb.jpg,false
+KADUNA,ZANGON KATAF,ZONKWA,UNG. MISSION /BENJI'S HOTEL,18/22/05/033,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643399/result_118252_1677594566_thumb.jpg,false
+KADUNA,ZANGON KATAF,ZONKWA,TSOHON GIDA/ L.E.A. PRI. SCH.,18/22/05/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56311/result_118233_1677593351_thumb.jpg,false
+KADUNA,ZANGON KATAF,ZONKWA,UNG. BAPTIST II/ PRIMARY SCHOOL,18/22/05/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56325/result_118247_1677591902_thumb.jpg,false
+KADUNA,ZANGON KATAF,ZONKWA,UNG. TOWN HALL,18/22/05/050,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21762/pu/147811/147811-1677582524.pdf,true
+KADUNA,ZANGON KATAF,ZONKWA,MADAUCHI/ L.E.A. PRI. SCH.,18/22/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21762/pu/56399/56399-1677579652.pdf,true
+KADUNA,ZANGON KATAF,ZONKWA,ZONKWA GSS,18/22/05/043,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21762/pu/147804/147804-1677579221.pdf,true
+KADUNA,ZANGON KATAF,ZONKWA,RAMAI DAJI/ L.E.A. PRI. SCH. I,18/22/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21762/pu/56394/56394-1677577971.pdf,false
+KADUNA,ZANGON KATAF,ZONKWA,ZONAL OFFICE I/ ZONAL OFFICE,18/22/05/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21762/pu/56404/56404-1677577082.pdf,true
+KADUNA,ZANGON KATAF,ZONKWA,MADAUCHI III/UBE,18/22/05/036,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21762/pu/147797/147797-1677571631.pdf,true
+KADUNA,ZANGON KATAF,ZONKWA,"UNG. DANBAKI, UNG. DANBAKI",18/22/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21762/pu/56396/56396-1677570084.pdf,true
+KADUNA,ZANGON KATAF,ZONKWA,ZONKWA TSAKIYA II/NEAR ISLAMIYA,18/22/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21762/pu/56392/56392-1677474583.pdf,false
+KADUNA,ZANGON KATAF,ZONKWA,UNG. ISHAKU/ L.E.A. PRI. SCH. I,18/22/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21762/pu/56395/56395-1677473907.pdf,false
+KADUNA,ZANGON KATAF,ZONKWA,UNG. SANKE/ L.E.A. PRI. SCH.,18/22/05/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21762/pu/56405/56405-1677460344.pdf,false
+KADUNA,ZANGON KATAF,ZONKWA,"UNG. AYA, UNG. AYA",18/22/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21762/pu/56397/56397-1677460063.pdf,false
+KADUNA,ZANGON KATAF,ZONKWA,UNG. DAUKE/ L.E.A. PRI. SCH. I,18/22/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/05/pu/005/005-1677428666.pdf,false
+KADUNA,ZANGON KATAF,ZONKWA,ZONKWA TSAKIYA II/KOFAR GIDA,18/22/05/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/05/pu/022/022-1677428291.pdf,false
+KADUNA,ZANGON KATAF,ZONKWA,KURMIN B. I/ L.E.A. PRI. SCH.,18/22/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/05/pu/012/012-1677425488.pdf,false
+KADUNA,ZANGON KATAF,ZONKWA,UNG. SARKI I/ L.E.A. PRI. SCH.,18/22/05/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/05/pu/018/018-1677425111.pdf,false
+KADUNA,ZANGON KATAF,ZONKWA,ZONAL OFFICE II/ BAKIN KASUWA,18/22/05/029,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/05/pu/029/029-1677415462.pdf,false
+KADUNA,ZANGON KATAF,ZONKWA,FADAN KAJE /U/SHANU,18/22/05/038,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/05/pu/038/038-1677414702.pdf,false
+KADUNA,ZANGON KATAF,ZONKWA,FADAN KAJE BIJIM II/LEA PRI SCH,18/22/05/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/05/pu/021/021-1677405810.pdf,false
+KADUNA,ZANGON KATAF,ZONKWA,U/DORUWA (DI),18/22/05/049,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/05/pu/049/049-1677405365.pdf,false
+KADUNA,ZANGON KATAF,ZONKWA,KURMIN BI/ GSS,18/22/05/048,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/05/pu/048/048-1677404970.pdf,false
+KADUNA,ZANGON KATAF,ZONKWA,WAWAN RAFI,18/22/05/045,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/05/pu/045/045-1677403490.pdf,false
+KADUNA,ZANGON KATAF,ZONKWA,U/TABAK,18/22/05/044,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/05/pu/044/044-1677403254.pdf,false
+KADUNA,ZANGON KATAF,ZONKWA,U/ILIYASU TORO,18/22/05/042,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/05/pu/042/042-1677402528.pdf,false
+KADUNA,ZANGON KATAF,ZONKWA,RUMFA/UBE,18/22/05/040,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/05/pu/040/040-1677402197.pdf,false
+KADUNA,ZANGON KATAF,ZONKWA,KURMIN B III/ ECWA SCHOOL,18/22/05/026,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/05/pu/026/026-1677395183.pdf,false

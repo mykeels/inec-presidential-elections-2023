@@ -1,22 +1,22 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,MAKARFI,,ANG. S. FADA II/ K.M S. FADA,18/18/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55558/result_117166_1677581894_thumb.jpg,false
-KADUNA,MAKARFI,,GUBUCHI GARI III/ PRI. SCH. GUBUCHI,18/18/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55559/result_117167_1677591867_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. S. FADA I/ T.V. CENTRE,18/18/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55557/result_117165_1677581604_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. BARBASHI/ K.M BARBASHI,18/18/08/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55569/result_117177_1677595145_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. SALMANU/ K.M SALMANU,18/18/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55565/result_117173_1677594291_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. GOGARMA/ K.M DAUDA,18/18/08/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55571/result_117179_1677593750_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. DANDOKA/ K.M DANDOKA,18/18/08/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55568/result_117176_1677581463_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. S. FADA DAKIN BAKI,18/18/08/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642719/result_117183_1677587421_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. HARI/ K.M HARI,18/18/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55563/result_117171_1677587911_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. KANAWA/ K.M KANAWA,18/18/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55567/result_117175_1677588398_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. DANJU/ K.M DANJU,18/18/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55562/result_117170_1677593065_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. GALADIMA/ PRI. SCH. GUBUCHI,18/18/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55560/result_117168_1677592170_thumb.jpg,false
-KADUNA,MAKARFI,,UNG. SHUAIBU II/ HEALTH CLINIC,18/18/08/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55574/result_117182_1677592471_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. SHUAIBU/ HEALTH CLINIC,18/18/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55561/result_117169_1677591120_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. MAITURAWA/ PRI. SCH. M/RAWA,18/18/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55566/result_117174_1677590480_thumb.jpg,false
-KADUNA,MAKARFI,,UBE ANG. S. YAKI,18/18/08/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642721/result_117185_1677586980_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. SARKIN YAKI/ K.M SARKIN YAKI,18/18/08/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55572/result_117180_1677591537_thumb.jpg,false
-KADUNA,MAKARFI,,UNG. S/FADA II/ T.V. CENTRE,18/18/08/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55573/result_117181_1677579413_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. TARAI/ K.M TARAI,18/18/08/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55570/result_117178_1677585233_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. S. FADA/DAKIN PAMPO,18/18/08/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642720/result_117184_1677588859_thumb.jpg,false
-KADUNA,MAKARFI,,ANG. KAKALE/ K.M KAKALE,18/18/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55564/result_117172_1677581095_thumb.jpg,false
+KADUNA,MAKARFI,GUBUCHI,ANG. S. FADA II/ K.M S. FADA,18/18/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55558/result_117166_1677581894_thumb.jpg,false
+KADUNA,MAKARFI,GUBUCHI,GUBUCHI GARI III/ PRI. SCH. GUBUCHI,18/18/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55559/result_117167_1677591867_thumb.jpg,false
+KADUNA,MAKARFI,GUBUCHI,ANG. S. FADA I/ T.V. CENTRE,18/18/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55557/result_117165_1677581604_thumb.jpg,false
+KADUNA,MAKARFI,GUBUCHI,ANG. BARBASHI/ K.M BARBASHI,18/18/08/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55569/result_117177_1677595145_thumb.jpg,false
+KADUNA,MAKARFI,GUBUCHI,ANG. SALMANU/ K.M SALMANU,18/18/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55565/result_117173_1677594291_thumb.jpg,false
+KADUNA,MAKARFI,GUBUCHI,ANG. GOGARMA/ K.M DAUDA,18/18/08/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55571/result_117179_1677593750_thumb.jpg,false
+KADUNA,MAKARFI,GUBUCHI,ANG. DANDOKA/ K.M DANDOKA,18/18/08/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55568/result_117176_1677581463_thumb.jpg,false
+KADUNA,MAKARFI,GUBUCHI,ANG. S. FADA DAKIN BAKI,18/18/08/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642719/result_117183_1677587421_thumb.jpg,false
+KADUNA,MAKARFI,GUBUCHI,ANG. HARI/ K.M HARI,18/18/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55563/result_117171_1677587911_thumb.jpg,false
+KADUNA,MAKARFI,GUBUCHI,ANG. KANAWA/ K.M KANAWA,18/18/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55567/result_117175_1677588398_thumb.jpg,false
+KADUNA,MAKARFI,GUBUCHI,ANG. DANJU/ K.M DANJU,18/18/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55562/result_117170_1677593065_thumb.jpg,false
+KADUNA,MAKARFI,GUBUCHI,ANG. GALADIMA/ PRI. SCH. GUBUCHI,18/18/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55560/result_117168_1677592170_thumb.jpg,false
+KADUNA,MAKARFI,GUBUCHI,UNG. SHUAIBU II/ HEALTH CLINIC,18/18/08/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55574/result_117182_1677592471_thumb.jpg,false
+KADUNA,MAKARFI,GUBUCHI,ANG. SHUAIBU/ HEALTH CLINIC,18/18/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55561/result_117169_1677591120_thumb.jpg,false
+KADUNA,MAKARFI,GUBUCHI,ANG. MAITURAWA/ PRI. SCH. M/RAWA,18/18/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55566/result_117174_1677590480_thumb.jpg,false
+KADUNA,MAKARFI,GUBUCHI,UBE ANG. S. YAKI,18/18/08/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642721/result_117185_1677586980_thumb.jpg,false
+KADUNA,MAKARFI,GUBUCHI,ANG. SARKIN YAKI/ K.M SARKIN YAKI,18/18/08/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55572/result_117180_1677591537_thumb.jpg,false
+KADUNA,MAKARFI,GUBUCHI,UNG. S/FADA II/ T.V. CENTRE,18/18/08/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55573/result_117181_1677579413_thumb.jpg,false
+KADUNA,MAKARFI,GUBUCHI,ANG. TARAI/ K.M TARAI,18/18/08/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55570/result_117178_1677585233_thumb.jpg,false
+KADUNA,MAKARFI,GUBUCHI,ANG. S. FADA/DAKIN PAMPO,18/18/08/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642720/result_117184_1677588859_thumb.jpg,false
+KADUNA,MAKARFI,GUBUCHI,ANG. KAKALE/ K.M KAKALE,18/18/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55564/result_117172_1677581095_thumb.jpg,false

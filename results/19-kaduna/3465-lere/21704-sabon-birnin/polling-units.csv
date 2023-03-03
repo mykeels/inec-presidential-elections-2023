@@ -1,54 +1,54 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,LERE,,U/BAWA JUMARE G.R.A./ L.E.A. UNG. JUMARE,18/17/01/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55211/result_116570_1677547881_thumb.jpg,true
-KADUNA,LERE,,MARJI/UNG. ADAMU/ K/GIDAN MAIUNGUWA,18/17/01/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55208/result_116567_1677547891_thumb.jpg,true
-KADUNA,LERE,,U/ZAKARI/ K/GIDAN MAIUNGUWA,18/17/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55204/result_116563_1677547690_thumb.jpg,true
-KADUNA,LERE,,JURAN KARI/ JURAN KARI L.E.A.,18/17/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55201/result_116560_1677547572_thumb.jpg,true
-KADUNA,LERE,,U/BAWA TASHA I/ K/GIDAN ALH. INUWA,18/17/01/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55212/result_116571_1677547306_thumb.jpg,true
-KADUNA,LERE,,KWAFTARA/ K/GIDAN MAIUNGUWA,18/17/01/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55206/result_116565_1677547101_thumb.jpg,true
-KADUNA,LERE,,UNG. WAZIRI/ L.E.A. UNG. WAZIRI,18/17/01/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55217/result_116576_1677546859_thumb.jpg,true
-KADUNA,LERE,,MALALI/ L.E.A. MALALI,18/17/01/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55218/result_116577_1677546634_thumb.jpg,true
-KADUNA,LERE,,KOFAR BAKOSHI/YANBITA/ L.E.A. K/BAKOSHI,18/17/01/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55216/result_116575_1677546454_thumb.jpg,true
-KADUNA,LERE,,SABON BIRNIN/ L.E.A. SABON BIRNIN,18/17/01/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55215/result_116574_1677546089_thumb.jpg,true
-KADUNA,LERE,,U/BAWA LOWCOST/ L.E.A. UNG. BAWA,18/17/01/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55210/result_116569_1677545986_thumb.jpg,true
-KADUNA,LERE,,U/BOKA/ K/GIDAN MAIUNGUWA,18/17/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55203/result_116562_1677545760_thumb.jpg,true
-KADUNA,LERE,,U/KANCI/YADI/ L.E.A. YADI,18/17/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55202/result_116561_1677545618_thumb.jpg,true
-KADUNA,LERE,,UNG/DAWA GARI/ U/BAWA L.E.A.,18/17/01/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55209/result_116568_1677545490_thumb.jpg,true
-KADUNA,LERE,,DANJABA/ L.E.A. DANJABA,18/17/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,true
-KADUNA,LERE,,NASSARAWA  JAJA,18/17/01/049,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642643/result_116608_1677533649_thumb.jpg,true
-KADUNA,LERE,,UNG. BAWA TASHA  II,18/17/01/038,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642632/result_116597_1677532820_thumb.jpg,true
-KADUNA,LERE,,FAFIN DUHU/UNG. RIMI/ L.E.A. R/BULU,18/17/01/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55224/result_116583_1677532061_thumb.jpg,true
-KADUNA,LERE,,SABON  LAYI,18/17/01/052,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642646/result_116611_1677531923_thumb.jpg,true
-KADUNA,LERE,,UNG BAWA JUMARE GRA II,18/17/01/036,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642630/result_116595_1677531712_thumb.jpg,true
-KADUNA,LERE,,UNG BAWA GARI II,18/17/01/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642626/result_116589_1677531702_thumb.jpg,true
-KADUNA,LERE,,SABON BIRNI I,18/17/01/044,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642638/result_116603_1677531578_thumb.jpg,true
-KADUNA,LERE,,UNG BAWA TASHA I,18/17/01/037,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642631/result_116596_1677531433_thumb.jpg,false
-KADUNA,LERE,,UNG MATO  GARI,18/17/01/051,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642645/result_116610_1677531271_thumb.jpg,true
-KADUNA,LERE,,UNG WAZIRI / GARI,18/17/01/047,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642641/result_116606_1677531162_thumb.jpg,true
-KADUNA,LERE,,UNG. BAWA TASHA  III,18/17/01/040,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642634/result_116599_1677530966_thumb.jpg,false
-KADUNA,LERE,,SABON BIRNI   II,18/17/01/045,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642639/result_116604_1677530837_thumb.jpg,true
-KADUNA,LERE,,UNG  KURA,18/17/01/050,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642644/result_116609_1677530615_thumb.jpg,true
-KADUNA,LERE,,UNG. BAWA TASHA/BARDE III,18/17/01/042,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642636/result_116601_1677530473_thumb.jpg,true
-KADUNA,LERE,,MALALI   II,18/17/01/048,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642642/result_116607_1677530141_thumb.jpg,true
-KADUNA,LERE,,DAMAU/ L.E.A. DAMAU,18/17/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55207/result_116566_1677587332_thumb.jpg,false
-KADUNA,LERE,,UNG BAWA / YALWAN,18/17/01/031,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642627/result_116590_1677567787_thumb.jpg,false
-KADUNA,LERE,,DANJABA / KAURA,18/17/01/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643298/result_116586_1677567393_thumb.jpg,false
-KADUNA,LERE,,UNG BAWA III,18/17/01/033,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642629/result_116592_1677566951_thumb.jpg,false
-KADUNA,LERE,,JURAN KARI II,18/17/01/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643296/result_116584_1677566882_thumb.jpg,false
-KADUNA,LERE,,JAJA/ K.GIDAN MAIUNGUWA,18/17/01/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55219/result_116578_1677566853_thumb.jpg,false
-KADUNA,LERE,,UNG BAWA LOW COST III,18/17/01/035,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643302/result_116594_1677566825_thumb.jpg,false
-KADUNA,LERE,,UNG. BAWA LOW COST II,18/17/01/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643301/result_116593_1677566827_thumb.jpg,false
-KADUNA,LERE,,UNG RIMI,18/17/01/053,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642647/result_116612_1677565948_thumb.jpg,false
-KADUNA,LERE,,UNG. MELE/UNG. KURA/ L.E.A. UNG. MELE,18/17/01/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55221/result_116580_1677565758_thumb.jpg,false
-KADUNA,LERE,,KARAU- KARAU/S/BAYI/ K.GIDAN MAIUNGUWA,18/17/01/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55223/result_116582_1677565631_thumb.jpg,false
-KADUNA,LERE,,UNG. BAWA TASHA BARDE I,18/17/01/039,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642633/result_116598_1677565518_thumb.jpg,false
-KADUNA,LERE,,MARJIRE,18/17/01/029,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643300/result_116588_1677565524_thumb.jpg,false
-KADUNA,LERE,,UNG. MATO/ L.E.A. UNG. MATO,18/17/01/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55222/result_116581_1677565492_thumb.jpg,false
-KADUNA,LERE,,UNG. ALHAJI MATO/ K/GIDAN ALH. MATO,18/17/01/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55220/result_116579_1677565274_thumb.jpg,false
-KADUNA,LERE,,UNG KANCI,18/17/01/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643297/result_116585_1677564998_thumb.jpg,false
-KADUNA,LERE,,KWAFATARA II,18/17/01/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643299/result_116587_1677564798_thumb.jpg,false
-KADUNA,LERE,,UNG. BAWA TASHA/BARDE II,18/17/01/041,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642635/result_116600_1677564139_thumb.jpg,false
-KADUNA,LERE,,SABON BIRNI KURAMA / YANBITA,18/17/01/046,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642640/result_116605_1677563548_thumb.jpg,false
-KADUNA,LERE,,UNG BAWA / BIRJI,18/17/01/032,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3465/ward/21704/pu/147235/147235-1677538162.pdf,false
-KADUNA,LERE,,UNG. BAWA/BARDE,18/17/01/043,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3465/ward/21704/pu/147246/147246-1677514801.pdf,false
-KADUNA,LERE,,U/BAWA TASHA II/ K/GIDAN HAJIYA ZUWAIRA,18/17/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3465/ward/21704/pu/55304/55304-1677495305.pdf,false
-KADUNA,LERE,,U/BAWA TASHA II/ K/GIDAN BARDE,18/17/01/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/01/pu/014/014-1677420682.pdf,false
+KADUNA,LERE,SABON BIRNIN,U/BAWA JUMARE G.R.A./ L.E.A. UNG. JUMARE,18/17/01/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55211/result_116570_1677547881_thumb.jpg,true
+KADUNA,LERE,SABON BIRNIN,MARJI/UNG. ADAMU/ K/GIDAN MAIUNGUWA,18/17/01/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55208/result_116567_1677547891_thumb.jpg,true
+KADUNA,LERE,SABON BIRNIN,U/ZAKARI/ K/GIDAN MAIUNGUWA,18/17/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55204/result_116563_1677547690_thumb.jpg,true
+KADUNA,LERE,SABON BIRNIN,JURAN KARI/ JURAN KARI L.E.A.,18/17/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55201/result_116560_1677547572_thumb.jpg,true
+KADUNA,LERE,SABON BIRNIN,U/BAWA TASHA I/ K/GIDAN ALH. INUWA,18/17/01/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55212/result_116571_1677547306_thumb.jpg,true
+KADUNA,LERE,SABON BIRNIN,KWAFTARA/ K/GIDAN MAIUNGUWA,18/17/01/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55206/result_116565_1677547101_thumb.jpg,true
+KADUNA,LERE,SABON BIRNIN,UNG. WAZIRI/ L.E.A. UNG. WAZIRI,18/17/01/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55217/result_116576_1677546859_thumb.jpg,true
+KADUNA,LERE,SABON BIRNIN,MALALI/ L.E.A. MALALI,18/17/01/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55218/result_116577_1677546634_thumb.jpg,true
+KADUNA,LERE,SABON BIRNIN,KOFAR BAKOSHI/YANBITA/ L.E.A. K/BAKOSHI,18/17/01/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55216/result_116575_1677546454_thumb.jpg,true
+KADUNA,LERE,SABON BIRNIN,SABON BIRNIN/ L.E.A. SABON BIRNIN,18/17/01/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55215/result_116574_1677546089_thumb.jpg,true
+KADUNA,LERE,SABON BIRNIN,U/BAWA LOWCOST/ L.E.A. UNG. BAWA,18/17/01/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55210/result_116569_1677545986_thumb.jpg,true
+KADUNA,LERE,SABON BIRNIN,U/BOKA/ K/GIDAN MAIUNGUWA,18/17/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55203/result_116562_1677545760_thumb.jpg,true
+KADUNA,LERE,SABON BIRNIN,U/KANCI/YADI/ L.E.A. YADI,18/17/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55202/result_116561_1677545618_thumb.jpg,true
+KADUNA,LERE,SABON BIRNIN,UNG/DAWA GARI/ U/BAWA L.E.A.,18/17/01/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55209/result_116568_1677545490_thumb.jpg,true
+KADUNA,LERE,SABON BIRNIN,DANJABA/ L.E.A. DANJABA,18/17/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,true
+KADUNA,LERE,SABON BIRNIN,NASSARAWA  JAJA,18/17/01/049,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642643/result_116608_1677533649_thumb.jpg,true
+KADUNA,LERE,SABON BIRNIN,UNG. BAWA TASHA  II,18/17/01/038,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642632/result_116597_1677532820_thumb.jpg,true
+KADUNA,LERE,SABON BIRNIN,FAFIN DUHU/UNG. RIMI/ L.E.A. R/BULU,18/17/01/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55224/result_116583_1677532061_thumb.jpg,true
+KADUNA,LERE,SABON BIRNIN,SABON  LAYI,18/17/01/052,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642646/result_116611_1677531923_thumb.jpg,true
+KADUNA,LERE,SABON BIRNIN,UNG BAWA JUMARE GRA II,18/17/01/036,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642630/result_116595_1677531712_thumb.jpg,true
+KADUNA,LERE,SABON BIRNIN,UNG BAWA GARI II,18/17/01/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642626/result_116589_1677531702_thumb.jpg,true
+KADUNA,LERE,SABON BIRNIN,SABON BIRNI I,18/17/01/044,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642638/result_116603_1677531578_thumb.jpg,true
+KADUNA,LERE,SABON BIRNIN,UNG BAWA TASHA I,18/17/01/037,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642631/result_116596_1677531433_thumb.jpg,false
+KADUNA,LERE,SABON BIRNIN,UNG MATO  GARI,18/17/01/051,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642645/result_116610_1677531271_thumb.jpg,true
+KADUNA,LERE,SABON BIRNIN,UNG WAZIRI / GARI,18/17/01/047,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642641/result_116606_1677531162_thumb.jpg,true
+KADUNA,LERE,SABON BIRNIN,UNG. BAWA TASHA  III,18/17/01/040,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642634/result_116599_1677530966_thumb.jpg,false
+KADUNA,LERE,SABON BIRNIN,SABON BIRNI   II,18/17/01/045,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642639/result_116604_1677530837_thumb.jpg,true
+KADUNA,LERE,SABON BIRNIN,UNG  KURA,18/17/01/050,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642644/result_116609_1677530615_thumb.jpg,true
+KADUNA,LERE,SABON BIRNIN,UNG. BAWA TASHA/BARDE III,18/17/01/042,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642636/result_116601_1677530473_thumb.jpg,true
+KADUNA,LERE,SABON BIRNIN,MALALI   II,18/17/01/048,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642642/result_116607_1677530141_thumb.jpg,true
+KADUNA,LERE,SABON BIRNIN,DAMAU/ L.E.A. DAMAU,18/17/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55207/result_116566_1677587332_thumb.jpg,false
+KADUNA,LERE,SABON BIRNIN,UNG BAWA / YALWAN,18/17/01/031,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642627/result_116590_1677567787_thumb.jpg,false
+KADUNA,LERE,SABON BIRNIN,DANJABA / KAURA,18/17/01/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643298/result_116586_1677567393_thumb.jpg,false
+KADUNA,LERE,SABON BIRNIN,UNG BAWA III,18/17/01/033,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642629/result_116592_1677566951_thumb.jpg,false
+KADUNA,LERE,SABON BIRNIN,JURAN KARI II,18/17/01/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643296/result_116584_1677566882_thumb.jpg,false
+KADUNA,LERE,SABON BIRNIN,JAJA/ K.GIDAN MAIUNGUWA,18/17/01/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55219/result_116578_1677566853_thumb.jpg,false
+KADUNA,LERE,SABON BIRNIN,UNG BAWA LOW COST III,18/17/01/035,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643302/result_116594_1677566825_thumb.jpg,false
+KADUNA,LERE,SABON BIRNIN,UNG. BAWA LOW COST II,18/17/01/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643301/result_116593_1677566827_thumb.jpg,false
+KADUNA,LERE,SABON BIRNIN,UNG RIMI,18/17/01/053,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642647/result_116612_1677565948_thumb.jpg,false
+KADUNA,LERE,SABON BIRNIN,UNG. MELE/UNG. KURA/ L.E.A. UNG. MELE,18/17/01/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55221/result_116580_1677565758_thumb.jpg,false
+KADUNA,LERE,SABON BIRNIN,KARAU- KARAU/S/BAYI/ K.GIDAN MAIUNGUWA,18/17/01/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55223/result_116582_1677565631_thumb.jpg,false
+KADUNA,LERE,SABON BIRNIN,UNG. BAWA TASHA BARDE I,18/17/01/039,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642633/result_116598_1677565518_thumb.jpg,false
+KADUNA,LERE,SABON BIRNIN,MARJIRE,18/17/01/029,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643300/result_116588_1677565524_thumb.jpg,false
+KADUNA,LERE,SABON BIRNIN,UNG. MATO/ L.E.A. UNG. MATO,18/17/01/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55222/result_116581_1677565492_thumb.jpg,false
+KADUNA,LERE,SABON BIRNIN,UNG. ALHAJI MATO/ K/GIDAN ALH. MATO,18/17/01/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55220/result_116579_1677565274_thumb.jpg,false
+KADUNA,LERE,SABON BIRNIN,UNG KANCI,18/17/01/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643297/result_116585_1677564998_thumb.jpg,false
+KADUNA,LERE,SABON BIRNIN,KWAFATARA II,18/17/01/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643299/result_116587_1677564798_thumb.jpg,false
+KADUNA,LERE,SABON BIRNIN,UNG. BAWA TASHA/BARDE II,18/17/01/041,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642635/result_116600_1677564139_thumb.jpg,false
+KADUNA,LERE,SABON BIRNIN,SABON BIRNI KURAMA / YANBITA,18/17/01/046,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642640/result_116605_1677563548_thumb.jpg,false
+KADUNA,LERE,SABON BIRNIN,UNG BAWA / BIRJI,18/17/01/032,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3465/ward/21704/pu/147235/147235-1677538162.pdf,false
+KADUNA,LERE,SABON BIRNIN,UNG. BAWA/BARDE,18/17/01/043,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3465/ward/21704/pu/147246/147246-1677514801.pdf,false
+KADUNA,LERE,SABON BIRNIN,U/BAWA TASHA II/ K/GIDAN HAJIYA ZUWAIRA,18/17/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3465/ward/21704/pu/55304/55304-1677495305.pdf,false
+KADUNA,LERE,SABON BIRNIN,U/BAWA TASHA II/ K/GIDAN BARDE,18/17/01/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/01/pu/014/014-1677420682.pdf,false

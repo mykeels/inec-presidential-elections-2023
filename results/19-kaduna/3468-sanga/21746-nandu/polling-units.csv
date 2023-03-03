@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,SANGA,,NUMBU DAGACI,18/20/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21746/pu/56097/56097-1677625040.pdf,true
-KADUNA,SANGA,,TUDUN WADA,18/20/11/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56001/result_117806_1677628933_thumb.jpg,false
-KADUNA,SANGA,,NUMBU,18/20/11/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55997/result_117802_1677628636_thumb.jpg,false
-KADUNA,SANGA,,DANGAM,18/20/11/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55998/result_117803_1677628339_thumb.jpg,false
-KADUNA,SANGA,,NUMBU DAKACI II,18/20/11/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642930/result_117816_1677626788_thumb.jpg,false
-KADUNA,SANGA,,UNG MAIKAHO,18/20/11/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56003/result_117808_1677626398_thumb.jpg,false
-KADUNA,SANGA,,UNG SARKI NANDU,18/20/11/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55995/result_117800_1677624521_thumb.jpg,false
-KADUNA,SANGA,,UBE PRI SCH,18/20/11/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642928/result_117814_1677623770_thumb.jpg,false
-KADUNA,SANGA,,KOBIN LEA PRI SCH,18/20/11/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642927/result_117813_1677623654_thumb.jpg,false
-KADUNA,SANGA,,AGOM,18/20/11/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56002/result_117807_1677623666_thumb.jpg,false
-KADUNA,SANGA,,KOBIN,18/20/11/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55996/result_117801_1677623005_thumb.jpg,false
-KADUNA,SANGA,,WAMBE,18/20/11/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56004/result_117809_1677622978_thumb.jpg,false
-KADUNA,SANGA,,UNG. SARKI NANDU II,18/20/11/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21746/pu/56098/56098-1677622917.pdf,false
-KADUNA,SANGA,,LEA PRI SCH/ UNG SARKI NANDU,18/20/11/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21746/pu/147678/147678-1677622526.pdf,true
-KADUNA,SANGA,,UNG GOBE,18/20/11/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56005/result_117810_1677621856_thumb.jpg,false
-KADUNA,SANGA,,GANI SARKI,18/20/11/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55999/result_117804_1677619548_thumb.jpg,false
-KADUNA,SANGA,,LEA PRI SCH,18/20/11/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642929/result_117815_1677618034_thumb.jpg,false
-KADUNA,SANGA,,GANI MADAKI,18/20/11/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56000/result_117805_1677616362_thumb.jpg,false
+KADUNA,SANGA,NANDU,NUMBU DAGACI,18/20/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21746/pu/56097/56097-1677625040.pdf,true
+KADUNA,SANGA,NANDU,TUDUN WADA,18/20/11/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56001/result_117806_1677628933_thumb.jpg,false
+KADUNA,SANGA,NANDU,NUMBU,18/20/11/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55997/result_117802_1677628636_thumb.jpg,false
+KADUNA,SANGA,NANDU,DANGAM,18/20/11/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55998/result_117803_1677628339_thumb.jpg,false
+KADUNA,SANGA,NANDU,NUMBU DAKACI II,18/20/11/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642930/result_117816_1677626788_thumb.jpg,false
+KADUNA,SANGA,NANDU,UNG MAIKAHO,18/20/11/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56003/result_117808_1677626398_thumb.jpg,false
+KADUNA,SANGA,NANDU,UNG SARKI NANDU,18/20/11/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55995/result_117800_1677624521_thumb.jpg,false
+KADUNA,SANGA,NANDU,UBE PRI SCH,18/20/11/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642928/result_117814_1677623770_thumb.jpg,false
+KADUNA,SANGA,NANDU,KOBIN LEA PRI SCH,18/20/11/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642927/result_117813_1677623654_thumb.jpg,false
+KADUNA,SANGA,NANDU,AGOM,18/20/11/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56002/result_117807_1677623666_thumb.jpg,false
+KADUNA,SANGA,NANDU,KOBIN,18/20/11/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55996/result_117801_1677623005_thumb.jpg,false
+KADUNA,SANGA,NANDU,WAMBE,18/20/11/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56004/result_117809_1677622978_thumb.jpg,false
+KADUNA,SANGA,NANDU,UNG. SARKI NANDU II,18/20/11/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21746/pu/56098/56098-1677622917.pdf,false
+KADUNA,SANGA,NANDU,LEA PRI SCH/ UNG SARKI NANDU,18/20/11/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21746/pu/147678/147678-1677622526.pdf,true
+KADUNA,SANGA,NANDU,UNG GOBE,18/20/11/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56005/result_117810_1677621856_thumb.jpg,false
+KADUNA,SANGA,NANDU,GANI SARKI,18/20/11/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55999/result_117804_1677619548_thumb.jpg,false
+KADUNA,SANGA,NANDU,LEA PRI SCH,18/20/11/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642929/result_117815_1677618034_thumb.jpg,false
+KADUNA,SANGA,NANDU,GANI MADAKI,18/20/11/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56000/result_117805_1677616362_thumb.jpg,false

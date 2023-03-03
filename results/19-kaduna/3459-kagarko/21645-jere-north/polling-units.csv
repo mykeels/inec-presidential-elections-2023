@@ -1,21 +1,21 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,KAGARKO,,JERE NEW MARKET KWANJIRKO,18/11/04/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642191/result_115304_1677768569_thumb.jpg,false
-KADUNA,KAGARKO,,ABATOIR ZANGO KOFAR SARKI BAKI,18/11/04/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642190/result_115303_1677758413_thumb.jpg,false
-KADUNA,KAGARKO,,OLD JERE NORTH DISTRICT HEAD OFFICE KOFAR DALLATUN JERE,18/11/04/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642189/result_115302_1677758286_thumb.jpg,false
-KADUNA,KAGARKO,,UNG. RIMI WATER CENTER KOFAR GIDAN ALH. DANO,18/11/04/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642188/result_115301_1677758209_thumb.jpg,false
-KADUNA,KAGARKO,,UBE PRIMARY SCHOOL KUBA,18/11/04/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642187/result_115300_1677758110_thumb.jpg,false
-KADUNA,KAGARKO,,PHC CHINKA,18/11/04/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642186/result_115299_1677758035_thumb.jpg,false
-KADUNA,KAGARKO,,UBE PRIMARY SCHOOL KAROFI,18/11/04/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642185/result_115298_1677757919_thumb.jpg,false
-KADUNA,KAGARKO,,SOLAR WATER KAROFI MAL.ASO KAROFI,18/11/04/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642184/result_115297_1677757799_thumb.jpg,false
-KADUNA,KAGARKO,,UBE UNG. MASUKWANI,18/11/04/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642183/result_115296_1677757712_thumb.jpg,false
-KADUNA,KAGARKO,,PHC UNG. MA'AJI K/ BAUSHE,18/11/04/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642182/result_115295_1677757599_thumb.jpg,false
-KADUNA,KAGARKO,,UNG. MAGAJI II/ K/G/UNGUWA,18/11/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54270/result_115294_1677757500_thumb.jpg,false
-KADUNA,KAGARKO,,BAKIN KASUWA/ K/G/ UNGUWA,18/11/04/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54269/result_115293_1677757419_thumb.jpg,false
-KADUNA,KAGARKO,,KOFAR LAUYA/ K/G/SARKI,18/11/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54268/result_115292_1677757293_thumb.jpg,false
-KADUNA,KAGARKO,,KASIRI/ K/GIDAN SARKI,18/11/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54267/result_115291_1677757206_thumb.jpg,false
-KADUNA,KAGARKO,,KAFINTA/KAGUNI/ K.SARKI,18/11/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54266/result_115290_1677757083_thumb.jpg,false
-KADUNA,KAGARKO,,GIDAN KWASAU/ L.E.A. PRI. KWASAU,18/11/04/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54265/result_115289_1677756910_thumb.jpg,false
-KADUNA,KAGARKO,,KAROFI/FADAMA/ K/SARKI,18/11/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54264/result_115288_1677756754_thumb.jpg,false
-KADUNA,KAGARKO,,YELWA/ L.E.A. YELWA,18/11/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54263/result_115287_1677756640_thumb.jpg,false
-KADUNA,KAGARKO,,CIGWAMI/ K/SARKI,18/11/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54262/result_115286_1677756486_thumb.jpg,false
-KADUNA,KAGARKO,,UNG. MAGAJI I/ K/MA'AJI,18/11/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54261/result_115285_1677756355_thumb.jpg,false
+KADUNA,KAGARKO,JERE NORTH,JERE NEW MARKET KWANJIRKO,18/11/04/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642191/result_115304_1677768569_thumb.jpg,false
+KADUNA,KAGARKO,JERE NORTH,ABATOIR ZANGO KOFAR SARKI BAKI,18/11/04/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642190/result_115303_1677758413_thumb.jpg,false
+KADUNA,KAGARKO,JERE NORTH,OLD JERE NORTH DISTRICT HEAD OFFICE KOFAR DALLATUN JERE,18/11/04/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642189/result_115302_1677758286_thumb.jpg,false
+KADUNA,KAGARKO,JERE NORTH,UNG. RIMI WATER CENTER KOFAR GIDAN ALH. DANO,18/11/04/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642188/result_115301_1677758209_thumb.jpg,false
+KADUNA,KAGARKO,JERE NORTH,UBE PRIMARY SCHOOL KUBA,18/11/04/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642187/result_115300_1677758110_thumb.jpg,false
+KADUNA,KAGARKO,JERE NORTH,PHC CHINKA,18/11/04/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642186/result_115299_1677758035_thumb.jpg,false
+KADUNA,KAGARKO,JERE NORTH,UBE PRIMARY SCHOOL KAROFI,18/11/04/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642185/result_115298_1677757919_thumb.jpg,false
+KADUNA,KAGARKO,JERE NORTH,SOLAR WATER KAROFI MAL.ASO KAROFI,18/11/04/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642184/result_115297_1677757799_thumb.jpg,false
+KADUNA,KAGARKO,JERE NORTH,UBE UNG. MASUKWANI,18/11/04/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642183/result_115296_1677757712_thumb.jpg,false
+KADUNA,KAGARKO,JERE NORTH,PHC UNG. MA'AJI K/ BAUSHE,18/11/04/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642182/result_115295_1677757599_thumb.jpg,false
+KADUNA,KAGARKO,JERE NORTH,UNG. MAGAJI II/ K/G/UNGUWA,18/11/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54270/result_115294_1677757500_thumb.jpg,false
+KADUNA,KAGARKO,JERE NORTH,BAKIN KASUWA/ K/G/ UNGUWA,18/11/04/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54269/result_115293_1677757419_thumb.jpg,false
+KADUNA,KAGARKO,JERE NORTH,KOFAR LAUYA/ K/G/SARKI,18/11/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54268/result_115292_1677757293_thumb.jpg,false
+KADUNA,KAGARKO,JERE NORTH,KASIRI/ K/GIDAN SARKI,18/11/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54267/result_115291_1677757206_thumb.jpg,false
+KADUNA,KAGARKO,JERE NORTH,KAFINTA/KAGUNI/ K.SARKI,18/11/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54266/result_115290_1677757083_thumb.jpg,false
+KADUNA,KAGARKO,JERE NORTH,GIDAN KWASAU/ L.E.A. PRI. KWASAU,18/11/04/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54265/result_115289_1677756910_thumb.jpg,false
+KADUNA,KAGARKO,JERE NORTH,KAROFI/FADAMA/ K/SARKI,18/11/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54264/result_115288_1677756754_thumb.jpg,false
+KADUNA,KAGARKO,JERE NORTH,YELWA/ L.E.A. YELWA,18/11/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54263/result_115287_1677756640_thumb.jpg,false
+KADUNA,KAGARKO,JERE NORTH,CIGWAMI/ K/SARKI,18/11/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54262/result_115286_1677756486_thumb.jpg,false
+KADUNA,KAGARKO,JERE NORTH,UNG. MAGAJI I/ K/MA'AJI,18/11/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54261/result_115285_1677756355_thumb.jpg,false

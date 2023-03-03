@@ -1,43 +1,43 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,ZARIA,,UNG. DANKALI I/ L.E.A. UNG. DANKALI,18/23/13/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56757/result_118999_1677684138_thumb.jpg,false
-KADUNA,ZARIA,,WUSASA ASIBITI II/ ANNA KITCHENER,18/23/13/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56756/result_118998_1677573338_thumb.jpg,false
-KADUNA,ZARIA,,GWARGWAJE II/MASALLACIN YARBAWA,18/23/13/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643087/result_119014_1677574099_thumb.jpg,false
-KADUNA,ZARIA,,MADACI/KG ABU DALIB,18/23/13/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643088/result_119015_1677573419_thumb.jpg,false
-KADUNA,ZARIA,,UNG. MADAKI/ K/G MADAKI (TSOHO),18/23/13/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56766/result_119008_1677573266_thumb.jpg,false
-KADUNA,ZARIA,,DANMAGAJI III/K/G ABDUL ALIMU,18/23/13/040,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643107/result_119034_1677573952_thumb.jpg,false
-KADUNA,ZARIA,,HAYIN MAI RABO/K/G MAIANGUWA,18/23/13/036,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643103/result_119030_1677574182_thumb.jpg,false
-KADUNA,ZARIA,,KAKE/LEA KAKE,18/23/13/035,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643102/result_119029_1677571458_thumb.jpg,false
-KADUNA,ZARIA,,KUREGU II/KG MAI UNGUNGUWA,18/23/13/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643090/result_119017_1677573613_thumb.jpg,false
-KADUNA,ZARIA,,KAURAN JULI/ K.G. MUA'ZU GAMJI,18/23/13/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/56844/56844-1677486997.pdf,false
-KADUNA,ZARIA,,GABARI III/K/G MAL. SHEHU UWARI,18/23/13/034,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/148126/148126-1677486821.pdf,false
-KADUNA,ZARIA,,UNG. MAGAJI/ K.G. MAI UNG. R/MAGAJI,18/23/13/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/56855/56855-1677482945.pdf,false
-KADUNA,ZARIA,,KUFENA III/K/G SARKIN FULANI JUMARE,18/23/13/037,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/148129/148129-1677482553.pdf,false
-KADUNA,ZARIA,,GABARI I/ L.E.A. GABARI,18/23/13/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/56850/56850-1677480876.pdf,false
-KADUNA,ZARIA,,UNG. DANKALI VI/K/G SANI MAI SHANU,18/23/13/031,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/148123/148123-1677478788.pdf,false
-KADUNA,ZARIA,,WUSASA IV/K/G BONET AYUBA,18/23/13/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/148119/148119-1677478541.pdf,false
-KADUNA,ZARIA,,UNG. DANKALI IV/K/G MAI UNG JIBRIL,18/23/13/029,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/148121/148121-1677470539.pdf,false
-KADUNA,ZARIA,,WUSASA I/ECWA CHURCH,18/23/13/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/148116/148116-1677467366.pdf,false
-KADUNA,ZARIA,,UNG. DANKALI VIII/K/G MAI UNG BILA,18/23/13/033,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/148125/148125-1677466844.pdf,false
-KADUNA,ZARIA,,KUFENA II/ KUFENA COLLEGE,18/23/13/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/56853/56853-1677466538.pdf,false
-KADUNA,ZARIA,,WUSASA III/K/G SADAU,18/23/13/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/148118/148118-1677466200.pdf,false
-KADUNA,ZARIA,,TUDUN SARKI KUBANNI/ K/G M. UNG. T/SARKI,18/23/13/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/56859/56859-1677465654.pdf,false
-KADUNA,ZARIA,,WUSASA ASIBITI I/ FRONT S.T. HOSPITAL,18/23/13/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/56846/56846-1677463174.pdf,false
-KADUNA,ZARIA,,BAYAN DUTSE/ K.G. MAI UNG. KAROFI,18/23/13/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/56854/56854-1677462848.pdf,false
-KADUNA,ZARIA,,DANMAGAJI II/K/G MAI UNG SAMAILA,18/23/13/039,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/148131/148131-1677462645.pdf,false
-KADUNA,ZARIA,,RAFIN MAGAJI/ K/G SULE GARBA,18/23/13/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/56858/56858-1677462557.pdf,false
-KADUNA,ZARIA,,UNG. DANKALI II/ L.E.A. UNG. DANKALI,18/23/13/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/56849/56849-1677461972.pdf,false
-KADUNA,ZARIA,,KUREGU I/LEA KUREGU,18/23/13/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/148114/148114-1677461917.pdf,false
-KADUNA,ZARIA,,GWARGWAJE//KG SULEIMAN JALADA,18/23/13/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/148111/148111-1677461304.pdf,false
-KADUNA,ZARIA,,MADAKIN SAYE I/ K/G M. UNG. SAYE,18/23/13/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/56860/56860-1677461018.pdf,false
-KADUNA,ZARIA,,KUFENA I/ L.E.A. KUFENA,18/23/13/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/56852/56852-1677459818.pdf,false
-KADUNA,ZARIA,,UNG. DANKALI VII/K/G MAI ANG UNG YA'U,18/23/13/032,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/148124/148124-1677459139.pdf,false
-KADUNA,ZARIA,,DAN MAGAJI/ K.G. MAIWADA GOGA,18/23/13/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/56856/56856-1677458843.pdf,false
-KADUNA,ZARIA,,WUSASA II/KG TAGWAYE,18/23/13/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/148117/148117-1677456296.pdf,false
-KADUNA,ZARIA,,WUSASA KUREGU/ L.E.A. WUSASA,18/23/13/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/56845/56845-1677455575.pdf,false
-KADUNA,ZARIA,,MADAKIN SAYE II/K/G ALHAJI RUFAI,18/23/13/041,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/13/pu/041/041-1677427529.pdf,false
-KADUNA,ZARIA,,KAURAN GOBIRAWA/KG MAI ANGUWA,18/23/13/042,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/13/pu/042/042-1677426573.pdf,false
-KADUNA,ZARIA,,UNG. DANKALI III/K/G MAI UNG ISIHU DILA,18/23/13/028,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/13/pu/028/028-1677424984.pdf,false
-KADUNA,ZARIA,,GABARI II/ HEALTH CLINIC,18/23/13/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/13/pu/008/008-1677421055.pdf,false
-KADUNA,ZARIA,,BINA BAYAN DUTSE/K/G M YAHAYA,18/23/13/038,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/13/pu/038/038-1677420076.pdf,false
-KADUNA,ZARIA,,UNG. DANKALI V/K/G LIMAN M TANKO,18/23/13/030,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/13/pu/030/030-1677419054.pdf,false
-KADUNA,ZARIA,,KAUREN JULI II/ K/G M. MUA'ZU GAMJI,18/23/13/018,,false
+KADUNA,ZARIA,KUFENA,UNG. DANKALI I/ L.E.A. UNG. DANKALI,18/23/13/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56757/result_118999_1677684138_thumb.jpg,false
+KADUNA,ZARIA,KUFENA,WUSASA ASIBITI II/ ANNA KITCHENER,18/23/13/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56756/result_118998_1677573338_thumb.jpg,false
+KADUNA,ZARIA,KUFENA,GWARGWAJE II/MASALLACIN YARBAWA,18/23/13/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643087/result_119014_1677574099_thumb.jpg,false
+KADUNA,ZARIA,KUFENA,MADACI/KG ABU DALIB,18/23/13/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643088/result_119015_1677573419_thumb.jpg,false
+KADUNA,ZARIA,KUFENA,UNG. MADAKI/ K/G MADAKI (TSOHO),18/23/13/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56766/result_119008_1677573266_thumb.jpg,false
+KADUNA,ZARIA,KUFENA,DANMAGAJI III/K/G ABDUL ALIMU,18/23/13/040,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643107/result_119034_1677573952_thumb.jpg,false
+KADUNA,ZARIA,KUFENA,HAYIN MAI RABO/K/G MAIANGUWA,18/23/13/036,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643103/result_119030_1677574182_thumb.jpg,false
+KADUNA,ZARIA,KUFENA,KAKE/LEA KAKE,18/23/13/035,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643102/result_119029_1677571458_thumb.jpg,false
+KADUNA,ZARIA,KUFENA,KUREGU II/KG MAI UNGUNGUWA,18/23/13/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643090/result_119017_1677573613_thumb.jpg,false
+KADUNA,ZARIA,KUFENA,KAURAN JULI/ K.G. MUA'ZU GAMJI,18/23/13/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/56844/56844-1677486997.pdf,false
+KADUNA,ZARIA,KUFENA,GABARI III/K/G MAL. SHEHU UWARI,18/23/13/034,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/148126/148126-1677486821.pdf,false
+KADUNA,ZARIA,KUFENA,UNG. MAGAJI/ K.G. MAI UNG. R/MAGAJI,18/23/13/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/56855/56855-1677482945.pdf,false
+KADUNA,ZARIA,KUFENA,KUFENA III/K/G SARKIN FULANI JUMARE,18/23/13/037,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/148129/148129-1677482553.pdf,false
+KADUNA,ZARIA,KUFENA,GABARI I/ L.E.A. GABARI,18/23/13/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/56850/56850-1677480876.pdf,false
+KADUNA,ZARIA,KUFENA,UNG. DANKALI VI/K/G SANI MAI SHANU,18/23/13/031,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/148123/148123-1677478788.pdf,false
+KADUNA,ZARIA,KUFENA,WUSASA IV/K/G BONET AYUBA,18/23/13/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/148119/148119-1677478541.pdf,false
+KADUNA,ZARIA,KUFENA,UNG. DANKALI IV/K/G MAI UNG JIBRIL,18/23/13/029,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/148121/148121-1677470539.pdf,false
+KADUNA,ZARIA,KUFENA,WUSASA I/ECWA CHURCH,18/23/13/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/148116/148116-1677467366.pdf,false
+KADUNA,ZARIA,KUFENA,UNG. DANKALI VIII/K/G MAI UNG BILA,18/23/13/033,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/148125/148125-1677466844.pdf,false
+KADUNA,ZARIA,KUFENA,KUFENA II/ KUFENA COLLEGE,18/23/13/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/56853/56853-1677466538.pdf,false
+KADUNA,ZARIA,KUFENA,WUSASA III/K/G SADAU,18/23/13/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/148118/148118-1677466200.pdf,false
+KADUNA,ZARIA,KUFENA,TUDUN SARKI KUBANNI/ K/G M. UNG. T/SARKI,18/23/13/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/56859/56859-1677465654.pdf,false
+KADUNA,ZARIA,KUFENA,WUSASA ASIBITI I/ FRONT S.T. HOSPITAL,18/23/13/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/56846/56846-1677463174.pdf,false
+KADUNA,ZARIA,KUFENA,BAYAN DUTSE/ K.G. MAI UNG. KAROFI,18/23/13/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/56854/56854-1677462848.pdf,false
+KADUNA,ZARIA,KUFENA,DANMAGAJI II/K/G MAI UNG SAMAILA,18/23/13/039,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/148131/148131-1677462645.pdf,false
+KADUNA,ZARIA,KUFENA,RAFIN MAGAJI/ K/G SULE GARBA,18/23/13/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/56858/56858-1677462557.pdf,false
+KADUNA,ZARIA,KUFENA,UNG. DANKALI II/ L.E.A. UNG. DANKALI,18/23/13/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/56849/56849-1677461972.pdf,false
+KADUNA,ZARIA,KUFENA,KUREGU I/LEA KUREGU,18/23/13/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/148114/148114-1677461917.pdf,false
+KADUNA,ZARIA,KUFENA,GWARGWAJE//KG SULEIMAN JALADA,18/23/13/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/148111/148111-1677461304.pdf,false
+KADUNA,ZARIA,KUFENA,MADAKIN SAYE I/ K/G M. UNG. SAYE,18/23/13/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/56860/56860-1677461018.pdf,false
+KADUNA,ZARIA,KUFENA,KUFENA I/ L.E.A. KUFENA,18/23/13/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/56852/56852-1677459818.pdf,false
+KADUNA,ZARIA,KUFENA,UNG. DANKALI VII/K/G MAI ANG UNG YA'U,18/23/13/032,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/148124/148124-1677459139.pdf,false
+KADUNA,ZARIA,KUFENA,DAN MAGAJI/ K.G. MAIWADA GOGA,18/23/13/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/56856/56856-1677458843.pdf,false
+KADUNA,ZARIA,KUFENA,WUSASA II/KG TAGWAYE,18/23/13/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/148117/148117-1677456296.pdf,false
+KADUNA,ZARIA,KUFENA,WUSASA KUREGU/ L.E.A. WUSASA,18/23/13/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21781/pu/56845/56845-1677455575.pdf,false
+KADUNA,ZARIA,KUFENA,MADAKIN SAYE II/K/G ALHAJI RUFAI,18/23/13/041,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/13/pu/041/041-1677427529.pdf,false
+KADUNA,ZARIA,KUFENA,KAURAN GOBIRAWA/KG MAI ANGUWA,18/23/13/042,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/13/pu/042/042-1677426573.pdf,false
+KADUNA,ZARIA,KUFENA,UNG. DANKALI III/K/G MAI UNG ISIHU DILA,18/23/13/028,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/13/pu/028/028-1677424984.pdf,false
+KADUNA,ZARIA,KUFENA,GABARI II/ HEALTH CLINIC,18/23/13/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/13/pu/008/008-1677421055.pdf,false
+KADUNA,ZARIA,KUFENA,BINA BAYAN DUTSE/K/G M YAHAYA,18/23/13/038,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/13/pu/038/038-1677420076.pdf,false
+KADUNA,ZARIA,KUFENA,UNG. DANKALI V/K/G LIMAN M TANKO,18/23/13/030,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/13/pu/030/030-1677419054.pdf,false
+KADUNA,ZARIA,KUFENA,KAUREN JULI II/ K/G M. MUA'ZU GAMJI,18/23/13/018,,false

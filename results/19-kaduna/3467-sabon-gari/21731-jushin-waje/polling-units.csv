@@ -1,36 +1,36 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,SABON GARI,,UNG GWADO JUNCTION BY MAI ANG OFFICE,18/19/07/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/147559/147559-1677681718.pdf,true
-KADUNA,SABON GARI,,MUSA STREET/ BY SIKERIE HOUSE,18/19/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55865/55865-1677486731.pdf,false
-KADUNA,SABON GARI,,LATE AUDU KWARI PHC/CEMETARY ROAD,18/19/07/031,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/147563/147563-1677483185.pdf,false
-KADUNA,SABON GARI,,RAUDA SECONDARY SCHOOL SABON GARI ZARIA,18/19/07/032,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/147564/147564-1677482386.pdf,false
-KADUNA,SABON GARI,,BAMIDELE STREET/ BAMIDELE STREET,18/19/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55856/55856-1677479518.pdf,false
-KADUNA,SABON GARI,,UNG. MAI SULE/ BY KWAKWARE,18/19/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55851/55851-1677479456.pdf,false
-KADUNA,SABON GARI,,LAYIN YAN IZALA/MAKABARTA,18/19/07/034,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/147566/147566-1677479084.pdf,false
-KADUNA,SABON GARI,,UNG MAL SULE/ALH KACHALLA HOUSE,18/19/07/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/147557/147557-1677478842.pdf,false
-KADUNA,SABON GARI,,MOCHU STREET/ ARMY CHILDREN SCHOOL,18/19/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55860/55860-1677478428.pdf,false
-KADUNA,SABON GARI,,NMS STUDENT/ BY SCHOOL FIELD,18/19/07/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55869/55869-1677472733.pdf,false
-KADUNA,SABON GARI,,NMS WORKSHOP/ NMS WORKSHOP,18/19/07/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55871/55871-1677471348.pdf,false
-KADUNA,SABON GARI,,HAJIYA STREET/ ARMY CHILDREN SCHOOL,18/19/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55859/55859-1677471047.pdf,false
-KADUNA,SABON GARI,,BELLO STREET/ ARMY CHILDREN SCHOOL,18/19/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55862/55862-1677470722.pdf,false
-KADUNA,SABON GARI,,NMS STUDENTS/ BY NMS STAFF QTRS,18/19/07/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55868/55868-1677470535.pdf,false
-KADUNA,SABON GARI,,ARMY DEPOT/ BY WARRANT OFFICERS QTRS,18/19/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55867/55867-1677469751.pdf,false
-KADUNA,SABON GARI,,RSM KUMASI/ YAN MANGORI,18/19/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55855/55855-1677469668.pdf,false
-KADUNA,SABON GARI,,GDSS CHINDITH/ GDSS CHINDITH,18/19/07/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55870/55870-1677469204.pdf,false
-KADUNA,SABON GARI,,MUCHU STREET/WAWO HOUSE UNG KANAWA,18/19/07/033,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/147565/147565-1677468175.pdf,false
-KADUNA,SABON GARI,,LEA JUSHIN WAJE II/ANG. MAIGWADO,18/19/07/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/147556/147556-1677468039.pdf,false
-KADUNA,SABON GARI,,ARMY DEPOT (SS QUARTERS)/ BY SENIOR STAFF QTRS,18/19/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55866/55866-1677467584.pdf,false
-KADUNA,SABON GARI,,TANKO STREET/ L.E.A. UNG. KANAWA,18/19/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55857/55857-1677467369.pdf,false
-KADUNA,SABON GARI,,GINDIN RIMI/SABON UNG KANAWA,18/19/07/029,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/147561/147561-1677467031.pdf,false
-KADUNA,SABON GARI,,UNGWAR KANAWA II/ ARMY CHILDREN'S SCHOOL,18/19/07/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55872/55872-1677466586.pdf,false
-KADUNA,SABON GARI,,TANKO STREET/DESTINY INTERNATIONAL SCHOOL,18/19/07/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/147560/147560-1677466513.pdf,false
-KADUNA,SABON GARI,,ALHAJI STREET/ ARMY CHILDREN SCHOOL,18/19/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55861/55861-1677465998.pdf,false
-KADUNA,SABON GARI,,PHC ANG KUDU JUSHIN WAJE,18/19/07/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/147558/147558-1677465893.pdf,false
-KADUNA,SABON GARI,,ANG MAL. SULE LGEA PRIMARY SCHOOL,18/19/07/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/147555/147555-1677465149.pdf,false
-KADUNA,SABON GARI,,UNG ABDUL TELA/ ABDUL TELA HOUSE,18/19/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55864/55864-1677464878.pdf,false
-KADUNA,SABON GARI,,UNG MAL SULE /GOLDEN HEIGHT SECONDARY SCHOOL/RTD RSM HALLIRU HOUSE,18/19/07/035,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/147567/147567-1677463715.pdf,false
-KADUNA,SABON GARI,,LIMAN SAIDU ROAD/ LIMAN HOUSE,18/19/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55854/55854-1677463584.pdf,false
-KADUNA,SABON GARI,,UNG. KANAWA/ L.E.A. UNG. KANAWA,18/19/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/07/pu/008/008-1677423414.pdf,false
-KADUNA,SABON GARI,,UNG. MAI GWANDO/ ASHIRU MAIMAGANI HOUSE,18/19/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/07/pu/003/003-1677414712.pdf,false
-KADUNA,SABON GARI,,YAN RARIYA/MAI ANG HOUSE UNG KANAWA,18/19/07/030,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/07/pu/030/030-1677375362.pdf,false
-KADUNA,SABON GARI,,UNG. MAI GWANDO I/ L.E.A. JUSHIN WAJE,18/19/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/07/pu/002/002-1677366823.pdf,false
-KADUNA,SABON GARI,,UNG. FULANI/ L.E.A. ANG FULANI,18/19/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/07/pu/013/013-1677364200.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,UNG GWADO JUNCTION BY MAI ANG OFFICE,18/19/07/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/147559/147559-1677681718.pdf,true
+KADUNA,SABON GARI,JUSHIN WAJE,MUSA STREET/ BY SIKERIE HOUSE,18/19/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55865/55865-1677486731.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,LATE AUDU KWARI PHC/CEMETARY ROAD,18/19/07/031,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/147563/147563-1677483185.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,RAUDA SECONDARY SCHOOL SABON GARI ZARIA,18/19/07/032,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/147564/147564-1677482386.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,BAMIDELE STREET/ BAMIDELE STREET,18/19/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55856/55856-1677479518.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,UNG. MAI SULE/ BY KWAKWARE,18/19/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55851/55851-1677479456.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,LAYIN YAN IZALA/MAKABARTA,18/19/07/034,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/147566/147566-1677479084.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,UNG MAL SULE/ALH KACHALLA HOUSE,18/19/07/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/147557/147557-1677478842.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,MOCHU STREET/ ARMY CHILDREN SCHOOL,18/19/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55860/55860-1677478428.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,NMS STUDENT/ BY SCHOOL FIELD,18/19/07/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55869/55869-1677472733.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,NMS WORKSHOP/ NMS WORKSHOP,18/19/07/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55871/55871-1677471348.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,HAJIYA STREET/ ARMY CHILDREN SCHOOL,18/19/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55859/55859-1677471047.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,BELLO STREET/ ARMY CHILDREN SCHOOL,18/19/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55862/55862-1677470722.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,NMS STUDENTS/ BY NMS STAFF QTRS,18/19/07/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55868/55868-1677470535.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,ARMY DEPOT/ BY WARRANT OFFICERS QTRS,18/19/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55867/55867-1677469751.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,RSM KUMASI/ YAN MANGORI,18/19/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55855/55855-1677469668.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,GDSS CHINDITH/ GDSS CHINDITH,18/19/07/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55870/55870-1677469204.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,MUCHU STREET/WAWO HOUSE UNG KANAWA,18/19/07/033,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/147565/147565-1677468175.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,LEA JUSHIN WAJE II/ANG. MAIGWADO,18/19/07/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/147556/147556-1677468039.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,ARMY DEPOT (SS QUARTERS)/ BY SENIOR STAFF QTRS,18/19/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55866/55866-1677467584.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,TANKO STREET/ L.E.A. UNG. KANAWA,18/19/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55857/55857-1677467369.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,GINDIN RIMI/SABON UNG KANAWA,18/19/07/029,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/147561/147561-1677467031.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,UNGWAR KANAWA II/ ARMY CHILDREN'S SCHOOL,18/19/07/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55872/55872-1677466586.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,TANKO STREET/DESTINY INTERNATIONAL SCHOOL,18/19/07/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/147560/147560-1677466513.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,ALHAJI STREET/ ARMY CHILDREN SCHOOL,18/19/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55861/55861-1677465998.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,PHC ANG KUDU JUSHIN WAJE,18/19/07/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/147558/147558-1677465893.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,ANG MAL. SULE LGEA PRIMARY SCHOOL,18/19/07/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/147555/147555-1677465149.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,UNG ABDUL TELA/ ABDUL TELA HOUSE,18/19/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55864/55864-1677464878.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,UNG MAL SULE /GOLDEN HEIGHT SECONDARY SCHOOL/RTD RSM HALLIRU HOUSE,18/19/07/035,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/147567/147567-1677463715.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,LIMAN SAIDU ROAD/ LIMAN HOUSE,18/19/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3467/ward/21731/pu/55854/55854-1677463584.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,UNG. KANAWA/ L.E.A. UNG. KANAWA,18/19/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/07/pu/008/008-1677423414.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,UNG. MAI GWANDO/ ASHIRU MAIMAGANI HOUSE,18/19/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/07/pu/003/003-1677414712.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,YAN RARIYA/MAI ANG HOUSE UNG KANAWA,18/19/07/030,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/07/pu/030/030-1677375362.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,UNG. MAI GWANDO I/ L.E.A. JUSHIN WAJE,18/19/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/07/pu/002/002-1677366823.pdf,false
+KADUNA,SABON GARI,JUSHIN WAJE,UNG. FULANI/ L.E.A. ANG FULANI,18/19/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/19/ward/07/pu/013/013-1677364200.pdf,false

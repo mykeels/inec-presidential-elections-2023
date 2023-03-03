@@ -1,11 +1,11 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,KUDAN,,UNG. CHIROMA/ PRI. SCH. GARU,18/16/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/001/001-1677415278.pdf,false
-KADUNA,KUDAN,,UNG. DANBIRNI/ KGM DANBIRNI,18/16/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/006/006-1677410487.pdf,false
-KADUNA,KUDAN,,UNG. MALAMAI/ KGM MALAMAI,18/16/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/008/008-1677410103.pdf,false
-KADUNA,KUDAN,,LAFIYA GARI I/ PRI. SCH. LAFIYA,18/16/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/005/005-1677409624.pdf,false
-KADUNA,KUDAN,,LAFIYA GARI II/ PRI. SCH. LAFIYA,18/16/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/007/007-1677409366.pdf,false
-KADUNA,KUDAN,,UNG. WALI/ KGM WALI,18/16/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/009/009-1677408663.pdf,false
-KADUNA,KUDAN,,UNG. MADAKI/ KGM MADAKI,18/16/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/003/003-1677408114.pdf,false
-KADUNA,KUDAN,,GARU II/ KGM GARU,18/16/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/004/004-1677408053.pdf,false
-KADUNA,KUDAN,,UNG. WAZIRI II/ KGM WAZIRI,18/16/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/010/010-1677406384.pdf,false
-KADUNA,KUDAN,,UNG. WAZIRI/ KGM WAZIRI,18/16/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/002/002-1677404831.pdf,false
+KADUNA,KUDAN,GARU,UNG. CHIROMA/ PRI. SCH. GARU,18/16/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/001/001-1677415278.pdf,false
+KADUNA,KUDAN,GARU,UNG. DANBIRNI/ KGM DANBIRNI,18/16/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/006/006-1677410487.pdf,false
+KADUNA,KUDAN,GARU,UNG. MALAMAI/ KGM MALAMAI,18/16/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/008/008-1677410103.pdf,false
+KADUNA,KUDAN,GARU,LAFIYA GARI I/ PRI. SCH. LAFIYA,18/16/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/005/005-1677409624.pdf,false
+KADUNA,KUDAN,GARU,LAFIYA GARI II/ PRI. SCH. LAFIYA,18/16/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/007/007-1677409366.pdf,false
+KADUNA,KUDAN,GARU,UNG. WALI/ KGM WALI,18/16/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/009/009-1677408663.pdf,false
+KADUNA,KUDAN,GARU,UNG. MADAKI/ KGM MADAKI,18/16/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/003/003-1677408114.pdf,false
+KADUNA,KUDAN,GARU,GARU II/ KGM GARU,18/16/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/004/004-1677408053.pdf,false
+KADUNA,KUDAN,GARU,UNG. WAZIRI II/ KGM WAZIRI,18/16/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/010/010-1677406384.pdf,false
+KADUNA,KUDAN,GARU,UNG. WAZIRI/ KGM WAZIRI,18/16/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/04/pu/002/002-1677404831.pdf,false

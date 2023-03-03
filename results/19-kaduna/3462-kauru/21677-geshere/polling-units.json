@@ -26,6 +26,7 @@
     "pu_code_string": "181406017",
     "state_name": "KADUNA",
     "lga_name": "KAURU",
+    "ward_name": "GESHERE",
     "document": {
       "external": true,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "181406014",
     "state_name": "KADUNA",
     "lga_name": "KAURU",
+    "ward_name": "GESHERE",
     "document": {
       "external": true,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "181406015",
     "state_name": "KADUNA",
     "lga_name": "KAURU",
+    "ward_name": "GESHERE",
     "document": {
       "external": true,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "181406012",
     "state_name": "KADUNA",
     "lga_name": "KAURU",
+    "ward_name": "GESHERE",
     "document": {
       "external": true,
       "status": 1,
@@ -178,6 +182,7 @@
     "pu_code_string": "181406011",
     "state_name": "KADUNA",
     "lga_name": "KAURU",
+    "ward_name": "GESHERE",
     "document": {
       "external": true,
       "status": 1,
@@ -216,6 +221,7 @@
     "pu_code_string": "181406020",
     "state_name": "KADUNA",
     "lga_name": "KAURU",
+    "ward_name": "GESHERE",
     "document": {
       "external": true,
       "status": 1,
@@ -254,6 +260,7 @@
     "pu_code_string": "181406021",
     "state_name": "KADUNA",
     "lga_name": "KAURU",
+    "ward_name": "GESHERE",
     "document": {
       "external": true,
       "status": 1,
@@ -292,6 +299,7 @@
     "pu_code_string": "181406010",
     "state_name": "KADUNA",
     "lga_name": "KAURU",
+    "ward_name": "GESHERE",
     "document": {
       "external": true,
       "status": 1,
@@ -330,6 +338,7 @@
     "pu_code_string": "181406022",
     "state_name": "KADUNA",
     "lga_name": "KAURU",
+    "ward_name": "GESHERE",
     "document": {
       "external": true,
       "status": 1,
@@ -368,6 +377,7 @@
     "pu_code_string": "181406008",
     "state_name": "KADUNA",
     "lga_name": "KAURU",
+    "ward_name": "GESHERE",
     "document": {
       "external": true,
       "status": 1,
@@ -406,6 +416,7 @@
     "pu_code_string": "181406023",
     "state_name": "KADUNA",
     "lga_name": "KAURU",
+    "ward_name": "GESHERE",
     "document": {
       "external": true,
       "status": 1,
@@ -444,6 +455,7 @@
     "pu_code_string": "181406024",
     "state_name": "KADUNA",
     "lga_name": "KAURU",
+    "ward_name": "GESHERE",
     "document": {
       "external": true,
       "status": 1,
@@ -482,6 +494,7 @@
     "pu_code_string": "181406025",
     "state_name": "KADUNA",
     "lga_name": "KAURU",
+    "ward_name": "GESHERE",
     "document": {
       "external": true,
       "status": 1,
@@ -520,6 +533,7 @@
     "pu_code_string": "181406007",
     "state_name": "KADUNA",
     "lga_name": "KAURU",
+    "ward_name": "GESHERE",
     "document": {
       "external": true,
       "status": 1,
@@ -558,6 +572,7 @@
     "pu_code_string": "181406006",
     "state_name": "KADUNA",
     "lga_name": "KAURU",
+    "ward_name": "GESHERE",
     "document": {
       "external": true,
       "status": 1,
@@ -596,6 +611,7 @@
     "pu_code_string": "181406005",
     "state_name": "KADUNA",
     "lga_name": "KAURU",
+    "ward_name": "GESHERE",
     "document": {
       "external": true,
       "status": 1,
@@ -634,6 +650,7 @@
     "pu_code_string": "181406004",
     "state_name": "KADUNA",
     "lga_name": "KAURU",
+    "ward_name": "GESHERE",
     "document": {
       "external": true,
       "status": 1,
@@ -672,6 +689,7 @@
     "pu_code_string": "181406003",
     "state_name": "KADUNA",
     "lga_name": "KAURU",
+    "ward_name": "GESHERE",
     "document": {
       "external": true,
       "status": 1,
@@ -710,6 +728,7 @@
     "pu_code_string": "181406002",
     "state_name": "KADUNA",
     "lga_name": "KAURU",
+    "ward_name": "GESHERE",
     "document": {
       "external": true,
       "status": 1,
@@ -748,6 +767,7 @@
     "pu_code_string": "181406009",
     "state_name": "KADUNA",
     "lga_name": "KAURU",
+    "ward_name": "GESHERE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -778,6 +798,7 @@
     "pu_code_string": "181406019",
     "state_name": "KADUNA",
     "lga_name": "KAURU",
+    "ward_name": "GESHERE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -808,6 +829,7 @@
     "pu_code_string": "181406013",
     "state_name": "KADUNA",
     "lga_name": "KAURU",
+    "ward_name": "GESHERE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -838,6 +860,7 @@
     "pu_code_string": "181406018",
     "state_name": "KADUNA",
     "lga_name": "KAURU",
+    "ward_name": "GESHERE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -868,6 +891,7 @@
     "pu_code_string": "181406001",
     "state_name": "KADUNA",
     "lga_name": "KAURU",
+    "ward_name": "GESHERE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -898,6 +922,7 @@
     "pu_code_string": "181406016",
     "state_name": "KADUNA",
     "lga_name": "KAURU",
+    "ward_name": "GESHERE",
     "old_documents": [],
     "has_old_documents": false
   }

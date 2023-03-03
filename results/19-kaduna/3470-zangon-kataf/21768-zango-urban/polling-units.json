@@ -26,6 +26,7 @@
     "pu_code_string": "182211015",
     "state_name": "KADUNA",
     "lga_name": "ZANGON KATAF",
+    "ward_name": "ZANGO URBAN",
     "document": {
       "external": true,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "182211006",
     "state_name": "KADUNA",
     "lga_name": "ZANGON KATAF",
+    "ward_name": "ZANGO URBAN",
     "document": {
       "external": true,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "182211013",
     "state_name": "KADUNA",
     "lga_name": "ZANGON KATAF",
+    "ward_name": "ZANGO URBAN",
     "document": {
       "external": true,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "182211009",
     "state_name": "KADUNA",
     "lga_name": "ZANGON KATAF",
+    "ward_name": "ZANGO URBAN",
     "document": {
       "external": true,
       "status": 1,
@@ -178,6 +182,7 @@
     "pu_code_string": "182211002",
     "state_name": "KADUNA",
     "lga_name": "ZANGON KATAF",
+    "ward_name": "ZANGO URBAN",
     "document": {
       "external": true,
       "status": 1,
@@ -216,6 +221,7 @@
     "pu_code_string": "182211012",
     "state_name": "KADUNA",
     "lga_name": "ZANGON KATAF",
+    "ward_name": "ZANGO URBAN",
     "document": {
       "external": true,
       "status": 1,
@@ -254,6 +260,7 @@
     "pu_code_string": "182211016",
     "state_name": "KADUNA",
     "lga_name": "ZANGON KATAF",
+    "ward_name": "ZANGO URBAN",
     "document": {
       "external": true,
       "status": 1,
@@ -292,6 +299,7 @@
     "pu_code_string": "182211011",
     "state_name": "KADUNA",
     "lga_name": "ZANGON KATAF",
+    "ward_name": "ZANGO URBAN",
     "document": {
       "external": false,
       "status": 1,
@@ -330,6 +338,7 @@
     "pu_code_string": "182211014",
     "state_name": "KADUNA",
     "lga_name": "ZANGON KATAF",
+    "ward_name": "ZANGO URBAN",
     "document": {
       "external": false,
       "status": 1,
@@ -368,6 +377,7 @@
     "pu_code_string": "182211010",
     "state_name": "KADUNA",
     "lga_name": "ZANGON KATAF",
+    "ward_name": "ZANGO URBAN",
     "document": {
       "external": false,
       "status": 1,
@@ -406,6 +416,7 @@
     "pu_code_string": "182211007",
     "state_name": "KADUNA",
     "lga_name": "ZANGON KATAF",
+    "ward_name": "ZANGO URBAN",
     "document": {
       "external": false,
       "status": 1,
@@ -444,6 +455,7 @@
     "pu_code_string": "182211008",
     "state_name": "KADUNA",
     "lga_name": "ZANGON KATAF",
+    "ward_name": "ZANGO URBAN",
     "document": {
       "external": false,
       "status": 1,
@@ -482,6 +494,7 @@
     "pu_code_string": "182211005",
     "state_name": "KADUNA",
     "lga_name": "ZANGON KATAF",
+    "ward_name": "ZANGO URBAN",
     "document": {
       "external": false,
       "status": 1,
@@ -520,6 +533,7 @@
     "pu_code_string": "182211004",
     "state_name": "KADUNA",
     "lga_name": "ZANGON KATAF",
+    "ward_name": "ZANGO URBAN",
     "document": {
       "external": false,
       "status": 1,
@@ -558,6 +572,7 @@
     "pu_code_string": "182211003",
     "state_name": "KADUNA",
     "lga_name": "ZANGON KATAF",
+    "ward_name": "ZANGO URBAN",
     "document": {
       "external": false,
       "status": 1,
@@ -596,6 +611,7 @@
     "pu_code_string": "182211001",
     "state_name": "KADUNA",
     "lga_name": "ZANGON KATAF",
+    "ward_name": "ZANGO URBAN",
     "document": {
       "external": false,
       "status": 1,

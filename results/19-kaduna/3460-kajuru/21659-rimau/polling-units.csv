@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,KAJURU,,U.B.E AKUSHA,18/12/08/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643292/result_115575_1677775946_thumb.jpg,false
-KADUNA,KAJURU,,GOVT. DAY SECONDARY SCHOOL RIMAU,18/12/08/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643289/result_115572_1677775840_thumb.jpg,false
-KADUNA,KAJURU,,UNG. BARWA II/ K/G MAIUNGUWA,18/12/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54450/result_115570_1677775764_thumb.jpg,false
-KADUNA,KAJURU,,UNG. GALADIMA II/ K/G MAIUNGUWA,18/12/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54449/result_115569_1677775715_thumb.jpg,false
-KADUNA,KAJURU,,ISABE/ LGEA PRI. SCH.,18/12/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54448/result_115568_1677775643_thumb.jpg,false
-KADUNA,KAJURU,,ANG. TURAKI/ K/G TURAKI,18/12/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54445/result_115565_1677775515_thumb.jpg,false
-KADUNA,KAJURU,,UNG. GALADIMA/ K/G GALADIMA,18/12/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54442/result_115562_1677775452_thumb.jpg,false
-KADUNA,KAJURU,,UNG. MADAKI/ LGEA PRI. EKUZEH,18/12/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54441/result_115561_1677775391_thumb.jpg,false
-KADUNA,KAJURU,,RIMAU GARI/ LGEA PRI. RIMAU,18/12/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54440/result_115560_1677775326_thumb.jpg,false
-KADUNA,KAJURU,,PLAYGROUND/ EBASHIRE,18/12/08/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643294/result_115577_1677679711_thumb.jpg,false
-KADUNA,KAJURU,,UNG. BARWA/ K/G BARWA,18/12/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54447/result_115567_1677679658_thumb.jpg,false
-KADUNA,KAJURU,,LGEA PRIMARY SCHOOL AGBURAMUH,18/12/08/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643291/result_115574_1677679497_thumb.jpg,false
-KADUNA,KAJURU,,ANG BAGAMA/ K/G BAGAMA,18/12/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54444/result_115564_1677679435_thumb.jpg,false
-KADUNA,KAJURU,,ANG. BAGA/ K/G M/ANGUWA BAGA,18/12/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54443/result_115563_1677679375_thumb.jpg,false
-KADUNA,KAJURU,,P.H.C RIMAU GARI,18/12/08/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-KADUNA,KAJURU,,LGEA PRIMARY SCHOOL IKONAPEH,18/12/08/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643290/result_115573_1677679132_thumb.jpg,false
-KADUNA,KAJURU,,LGEA PRIMARY SCHOOL OVULUH,18/12/08/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643293/result_115576_1677679057_thumb.jpg,false
-KADUNA,KAJURU,,ANG. NASAMU/ K/G M/ANGUWA,18/12/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54446/result_115566_1677678889_thumb.jpg,false
+KADUNA,KAJURU,RIMAU,U.B.E AKUSHA,18/12/08/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643292/result_115575_1677775946_thumb.jpg,false
+KADUNA,KAJURU,RIMAU,GOVT. DAY SECONDARY SCHOOL RIMAU,18/12/08/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643289/result_115572_1677775840_thumb.jpg,false
+KADUNA,KAJURU,RIMAU,UNG. BARWA II/ K/G MAIUNGUWA,18/12/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54450/result_115570_1677775764_thumb.jpg,false
+KADUNA,KAJURU,RIMAU,UNG. GALADIMA II/ K/G MAIUNGUWA,18/12/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54449/result_115569_1677775715_thumb.jpg,false
+KADUNA,KAJURU,RIMAU,ISABE/ LGEA PRI. SCH.,18/12/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54448/result_115568_1677775643_thumb.jpg,false
+KADUNA,KAJURU,RIMAU,ANG. TURAKI/ K/G TURAKI,18/12/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54445/result_115565_1677775515_thumb.jpg,false
+KADUNA,KAJURU,RIMAU,UNG. GALADIMA/ K/G GALADIMA,18/12/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54442/result_115562_1677775452_thumb.jpg,false
+KADUNA,KAJURU,RIMAU,UNG. MADAKI/ LGEA PRI. EKUZEH,18/12/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54441/result_115561_1677775391_thumb.jpg,false
+KADUNA,KAJURU,RIMAU,RIMAU GARI/ LGEA PRI. RIMAU,18/12/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54440/result_115560_1677775326_thumb.jpg,false
+KADUNA,KAJURU,RIMAU,PLAYGROUND/ EBASHIRE,18/12/08/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643294/result_115577_1677679711_thumb.jpg,false
+KADUNA,KAJURU,RIMAU,UNG. BARWA/ K/G BARWA,18/12/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54447/result_115567_1677679658_thumb.jpg,false
+KADUNA,KAJURU,RIMAU,LGEA PRIMARY SCHOOL AGBURAMUH,18/12/08/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643291/result_115574_1677679497_thumb.jpg,false
+KADUNA,KAJURU,RIMAU,ANG BAGAMA/ K/G BAGAMA,18/12/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54444/result_115564_1677679435_thumb.jpg,false
+KADUNA,KAJURU,RIMAU,ANG. BAGA/ K/G M/ANGUWA BAGA,18/12/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54443/result_115563_1677679375_thumb.jpg,false
+KADUNA,KAJURU,RIMAU,P.H.C RIMAU GARI,18/12/08/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,KAJURU,RIMAU,LGEA PRIMARY SCHOOL IKONAPEH,18/12/08/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643290/result_115573_1677679132_thumb.jpg,false
+KADUNA,KAJURU,RIMAU,LGEA PRIMARY SCHOOL OVULUH,18/12/08/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643293/result_115576_1677679057_thumb.jpg,false
+KADUNA,KAJURU,RIMAU,ANG. NASAMU/ K/G M/ANGUWA,18/12/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54446/result_115566_1677678889_thumb.jpg,false

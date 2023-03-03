@@ -1,18 +1,18 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,KAJURU,,ATEE VILLAGE/ K/G MAIUNGUWA,18/12/05/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54401/result_115510_1677681555_thumb.jpg,false
-KADUNA,KAJURU,,GOVERNMENT DAY SECONDARY SCHOOL IBURU,18/12/05/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643281/result_115515_1677679970_thumb.jpg,false
-KADUNA,KAJURU,,LEA PRIMARY SCHOOL DANBAGUDU II,18/12/05/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642254/result_115514_1677679830_thumb.jpg,false
-KADUNA,KAJURU,,AGWALLA II/ L.G.E.A. AGWALLA,18/12/05/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54404/result_115513_1677679654_thumb.jpg,false
-KADUNA,KAJURU,,UNG. ADUNGA/ K/G MAIUNGUWA,18/12/05/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54403/result_115512_1677679472_thumb.jpg,false
-KADUNA,KAJURU,,K/WALI/ K/G MAIUNGUWA,18/12/05/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54402/result_115511_1677679306_thumb.jpg,false
-KADUNA,KAJURU,,M/AFOGO/ K/G MAIUNGUWA,18/12/05/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54400/result_115509_1677678884_thumb.jpg,false
-KADUNA,KAJURU,,UNG. S/NOMA/ PLAYGROUND,18/12/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54399/result_115508_1677678713_thumb.jpg,false
-KADUNA,KAJURU,,UNG. ALKALI/ K/G SALE,18/12/05/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54398/result_115507_1677678523_thumb.jpg,false
-KADUNA,KAJURU,,KAMPANI/ K/G M/ANGUWA,18/12/05/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54397/result_115506_1677678273_thumb.jpg,false
-KADUNA,KAJURU,,KURMIN IDON/ LGEA PRI. IDON,18/12/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54396/result_115505_1677678112_thumb.jpg,false
-KADUNA,KAJURU,,IBURU GARI/ K/G M/ANGUWA,18/12/05/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54395/result_115504_1677677990_thumb.jpg,false
-KADUNA,KAJURU,,IBURU HANYA/ LGEA PRI. IBURU,18/12/05/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54394/result_115503_1677677814_thumb.jpg,false
-KADUNA,KAJURU,,AGWALLA/ LGEA PRI. AGWALLA,18/12/05/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54393/result_115502_1677677675_thumb.jpg,false
-KADUNA,KAJURU,,AFOGO GIDA/ BUS STOP,18/12/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54392/result_115501_1677677451_thumb.jpg,false
-KADUNA,KAJURU,,UNG. S/AFOGO/ LGEA PRI. AFOGO,18/12/05/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54391/result_115500_1677677190_thumb.jpg,false
-KADUNA,KAJURU,,DANBAGUDU/ LGEA PRI. D/BAGUDU,18/12/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54390/result_115499_1677676900_thumb.jpg,false
+KADUNA,KAJURU,AFOGO,ATEE VILLAGE/ K/G MAIUNGUWA,18/12/05/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54401/result_115510_1677681555_thumb.jpg,false
+KADUNA,KAJURU,AFOGO,GOVERNMENT DAY SECONDARY SCHOOL IBURU,18/12/05/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643281/result_115515_1677679970_thumb.jpg,false
+KADUNA,KAJURU,AFOGO,LEA PRIMARY SCHOOL DANBAGUDU II,18/12/05/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642254/result_115514_1677679830_thumb.jpg,false
+KADUNA,KAJURU,AFOGO,AGWALLA II/ L.G.E.A. AGWALLA,18/12/05/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54404/result_115513_1677679654_thumb.jpg,false
+KADUNA,KAJURU,AFOGO,UNG. ADUNGA/ K/G MAIUNGUWA,18/12/05/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54403/result_115512_1677679472_thumb.jpg,false
+KADUNA,KAJURU,AFOGO,K/WALI/ K/G MAIUNGUWA,18/12/05/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54402/result_115511_1677679306_thumb.jpg,false
+KADUNA,KAJURU,AFOGO,M/AFOGO/ K/G MAIUNGUWA,18/12/05/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54400/result_115509_1677678884_thumb.jpg,false
+KADUNA,KAJURU,AFOGO,UNG. S/NOMA/ PLAYGROUND,18/12/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54399/result_115508_1677678713_thumb.jpg,false
+KADUNA,KAJURU,AFOGO,UNG. ALKALI/ K/G SALE,18/12/05/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54398/result_115507_1677678523_thumb.jpg,false
+KADUNA,KAJURU,AFOGO,KAMPANI/ K/G M/ANGUWA,18/12/05/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54397/result_115506_1677678273_thumb.jpg,false
+KADUNA,KAJURU,AFOGO,KURMIN IDON/ LGEA PRI. IDON,18/12/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54396/result_115505_1677678112_thumb.jpg,false
+KADUNA,KAJURU,AFOGO,IBURU GARI/ K/G M/ANGUWA,18/12/05/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54395/result_115504_1677677990_thumb.jpg,false
+KADUNA,KAJURU,AFOGO,IBURU HANYA/ LGEA PRI. IBURU,18/12/05/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54394/result_115503_1677677814_thumb.jpg,false
+KADUNA,KAJURU,AFOGO,AGWALLA/ LGEA PRI. AGWALLA,18/12/05/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54393/result_115502_1677677675_thumb.jpg,false
+KADUNA,KAJURU,AFOGO,AFOGO GIDA/ BUS STOP,18/12/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54392/result_115501_1677677451_thumb.jpg,false
+KADUNA,KAJURU,AFOGO,UNG. S/AFOGO/ LGEA PRI. AFOGO,18/12/05/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54391/result_115500_1677677190_thumb.jpg,false
+KADUNA,KAJURU,AFOGO,DANBAGUDU/ LGEA PRI. D/BAGUDU,18/12/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54390/result_115499_1677676900_thumb.jpg,false

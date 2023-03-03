@@ -1,25 +1,25 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,ZARIA,,TUDUN KUSA II/K/G BABBAN GIDA,18/23/11/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643280/result_118956_1677820798_thumb.jpg,false
-KADUNA,ZARIA,,ANG MAHARBA I/KG SARKI,18/23/11/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21779/pu/148101/148101-1677473399.pdf,false
-KADUNA,ZARIA,,ZAKARA B/K/G MUNTARI,18/23/11/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21779/pu/148102/148102-1677473231.pdf,false
-KADUNA,ZARIA,,RUBUCHI II/ L.E.A. RUBUCHI,18/23/11/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21779/pu/56812/56812-1677470492.pdf,false
-KADUNA,ZARIA,,RAFIN FA/ K/G MAI ANGUWA,18/23/11/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21779/pu/56810/56810-1677469807.pdf,false
-KADUNA,ZARIA,,UNG. FULANI/ K/G MAI ANGUWA,18/23/11/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21779/pu/56809/56809-1677469346.pdf,false
-KADUNA,ZARIA,,BAKIN KOGI/ K/G ISA MAIKAJI,18/23/11/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21779/pu/56808/56808-1677468655.pdf,false
-KADUNA,ZARIA,,RAFIN GAMJI/ K/G MAI ANGUWA,18/23/11/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21779/pu/56806/56806-1677468075.pdf,false
-KADUNA,ZARIA,,BOGARI I/ L.E.A. BOGORI,18/23/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21779/pu/56803/56803-1677467654.pdf,false
-KADUNA,ZARIA,,ABA I/ K/G ALH. NA'IDI,18/23/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21779/pu/56798/56798-1677467053.pdf,false
-KADUNA,ZARIA,,UNG. MAHAUTA/ K/G MAI ANGUWA,18/23/11/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21779/pu/56811/56811-1677466599.pdf,false
-KADUNA,ZARIA,,TUDUN KUSA/ L.E.A. T/KUSA,18/23/11/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21779/pu/56807/56807-1677459949.pdf,false
-KADUNA,ZARIA,,UNG. WAZIRI/ HEALTH CENTRE,18/23/11/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/11/pu/014/014-1677428432.pdf,false
-KADUNA,ZARIA,,BOGARI II/ L.E.A. BOGORI,18/23/11/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/11/pu/013/013-1677427740.pdf,false
-KADUNA,ZARIA,,KALADI/DAMANKO/ L.E.A. KALADI,18/23/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/11/pu/010/010-1677426565.pdf,false
-KADUNA,ZARIA,,TUDUN IYA/FANGA/ K/G M. ANG. FANGA,18/23/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/11/pu/009/009-1677425087.pdf,false
-KADUNA,ZARIA,,ZAKARA/ K/G MAI ANGUWA,18/23/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/11/pu/011/011-1677421978.pdf,false
-KADUNA,ZARIA,,ABA II/ L.E.A. ABA,18/23/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/11/pu/008/008-1677420240.pdf,false
-KADUNA,ZARIA,,TUDUN GORA/SABBI/ K/G M. ANG. TUDUN GORA,18/23/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/11/pu/006/006-1677417483.pdf,false
-KADUNA,ZARIA,,RUBUCHI/ L.E.A. RUBUCHI,18/23/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/11/pu/004/004-1677414122.pdf,false
-KADUNA,ZARIA,,WUCICCIRI III/ GIDAN MAKERA,18/23/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/11/pu/003/003-1677413193.pdf,false
-KADUNA,ZARIA,,WUCICCIRI I/ K/G SARKIN WUCICCIRI,18/23/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/11/pu/001/001-1677411677.pdf,false
-KADUNA,ZARIA,,WUCICCIRI II/ L.E.A. WUCICCIRI,18/23/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/11/pu/002/002-1677410209.pdf,false
-KADUNA,ZARIA,,BATAS/DALLA/ K/G SALAMU DALLA,18/23/11/005,,false
+KADUNA,ZARIA,WUCICCIRI,TUDUN KUSA II/K/G BABBAN GIDA,18/23/11/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643280/result_118956_1677820798_thumb.jpg,false
+KADUNA,ZARIA,WUCICCIRI,ANG MAHARBA I/KG SARKI,18/23/11/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21779/pu/148101/148101-1677473399.pdf,false
+KADUNA,ZARIA,WUCICCIRI,ZAKARA B/K/G MUNTARI,18/23/11/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21779/pu/148102/148102-1677473231.pdf,false
+KADUNA,ZARIA,WUCICCIRI,RUBUCHI II/ L.E.A. RUBUCHI,18/23/11/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21779/pu/56812/56812-1677470492.pdf,false
+KADUNA,ZARIA,WUCICCIRI,RAFIN FA/ K/G MAI ANGUWA,18/23/11/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21779/pu/56810/56810-1677469807.pdf,false
+KADUNA,ZARIA,WUCICCIRI,UNG. FULANI/ K/G MAI ANGUWA,18/23/11/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21779/pu/56809/56809-1677469346.pdf,false
+KADUNA,ZARIA,WUCICCIRI,BAKIN KOGI/ K/G ISA MAIKAJI,18/23/11/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21779/pu/56808/56808-1677468655.pdf,false
+KADUNA,ZARIA,WUCICCIRI,RAFIN GAMJI/ K/G MAI ANGUWA,18/23/11/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21779/pu/56806/56806-1677468075.pdf,false
+KADUNA,ZARIA,WUCICCIRI,BOGARI I/ L.E.A. BOGORI,18/23/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21779/pu/56803/56803-1677467654.pdf,false
+KADUNA,ZARIA,WUCICCIRI,ABA I/ K/G ALH. NA'IDI,18/23/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21779/pu/56798/56798-1677467053.pdf,false
+KADUNA,ZARIA,WUCICCIRI,UNG. MAHAUTA/ K/G MAI ANGUWA,18/23/11/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21779/pu/56811/56811-1677466599.pdf,false
+KADUNA,ZARIA,WUCICCIRI,TUDUN KUSA/ L.E.A. T/KUSA,18/23/11/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3471/ward/21779/pu/56807/56807-1677459949.pdf,false
+KADUNA,ZARIA,WUCICCIRI,UNG. WAZIRI/ HEALTH CENTRE,18/23/11/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/11/pu/014/014-1677428432.pdf,false
+KADUNA,ZARIA,WUCICCIRI,BOGARI II/ L.E.A. BOGORI,18/23/11/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/11/pu/013/013-1677427740.pdf,false
+KADUNA,ZARIA,WUCICCIRI,KALADI/DAMANKO/ L.E.A. KALADI,18/23/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/11/pu/010/010-1677426565.pdf,false
+KADUNA,ZARIA,WUCICCIRI,TUDUN IYA/FANGA/ K/G M. ANG. FANGA,18/23/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/11/pu/009/009-1677425087.pdf,false
+KADUNA,ZARIA,WUCICCIRI,ZAKARA/ K/G MAI ANGUWA,18/23/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/11/pu/011/011-1677421978.pdf,false
+KADUNA,ZARIA,WUCICCIRI,ABA II/ L.E.A. ABA,18/23/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/11/pu/008/008-1677420240.pdf,false
+KADUNA,ZARIA,WUCICCIRI,TUDUN GORA/SABBI/ K/G M. ANG. TUDUN GORA,18/23/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/11/pu/006/006-1677417483.pdf,false
+KADUNA,ZARIA,WUCICCIRI,RUBUCHI/ L.E.A. RUBUCHI,18/23/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/11/pu/004/004-1677414122.pdf,false
+KADUNA,ZARIA,WUCICCIRI,WUCICCIRI III/ GIDAN MAKERA,18/23/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/11/pu/003/003-1677413193.pdf,false
+KADUNA,ZARIA,WUCICCIRI,WUCICCIRI I/ K/G SARKIN WUCICCIRI,18/23/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/11/pu/001/001-1677411677.pdf,false
+KADUNA,ZARIA,WUCICCIRI,WUCICCIRI II/ L.E.A. WUCICCIRI,18/23/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/11/pu/002/002-1677410209.pdf,false
+KADUNA,ZARIA,WUCICCIRI,BATAS/DALLA/ K/G SALAMU DALLA,18/23/11/005,,false

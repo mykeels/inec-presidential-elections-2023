@@ -1,28 +1,28 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,KUDAN,,UNG. JAJA I/ PRI. SCH. JAJA,18/16/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3464/ward/21696/pu/55179/55179-1677662445.pdf,true
-KADUNA,KUDAN,,DUMUGA II/KGM DUMUGA,18/16/03/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55096/result_116435_1677529081_thumb.jpg,true
-KADUNA,KUDAN,,UNG. KYAUDAI II OLD CLINIC / LEA PRI. SCH. KYAUDAI,18/16/03/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642490/result_116441_1677515516_thumb.jpg,true
-KADUNA,KUDAN,,JAJAN MATASA / OPEN SPACE JAJAN MATASA,18/16/03/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642492/result_116443_1677515934_thumb.jpg,true
-KADUNA,KUDAN,,DUFA - DUFA/ KGM DUFA - DUFA,18/16/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55094/result_116433_1677514596_thumb.jpg,true
-KADUNA,KUDAN,,DANMAKWARWA / PHC DANMAKWARWA,18/16/03/027,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/027/027-1677420428.pdf,false
-KADUNA,KUDAN,,HAYIN MALAM BALA / OPEN SPACE HAYIN MALAM BALA,18/16/03/026,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/026/026-1677419192.pdf,false
-KADUNA,KUDAN,,UNG. GALADIMA KUZURU / LEA PRI. SCH. KUZURU,18/16/03/025,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/025/025-1677418624.pdf,false
-KADUNA,KUDAN,,JAJAN MIKAH / LEA PRI. SCH. JAJAN MIKAH,18/16/03/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/024/024-1677418531.pdf,false
-KADUNA,KUDAN,,UNG. SARKI MUSAWA / PHC MUSAWA,18/16/03/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/023/023-1677417685.pdf,false
-KADUNA,KUDAN,,UNG. LIMAN BARWA / OPEN SPACE UNG. LIMAN,18/16/03/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/022/022-1677417084.pdf,false
-KADUNA,KUDAN,,TASHAN ICCE / LEA PRI. SCH. TASHAN ICCE,18/16/03/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/020/020-1677414808.pdf,false
-KADUNA,KUDAN,,UNG. DANMADAMI MARABA / OPEN SPACE UNG. DANMADAMI,18/16/03/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/018/018-1677412596.pdf,false
-KADUNA,KUDAN,,UNG. JAJA II/ KGM MAKADA,18/16/03/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/017/017-1677412187.pdf,false
-KADUNA,KUDAN,,UNG. DANTSOHO/ KGM DANTSOHO,18/16/03/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/016/016-1677410711.pdf,false
-KADUNA,KUDAN,,UNG. JARMAI/ KGM JARMAI,18/16/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/015/015-1677409837.pdf,false
-KADUNA,KUDAN,,DUMUGA/ KGM DUMUGA,18/16/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/014/014-1677408574.pdf,false
-KADUNA,KUDAN,,MUSAWA II/ KGM MUSAWA,18/16/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/010/010-1677407839.pdf,false
-KADUNA,KUDAN,,MUSAWA I/ PRI. SCH. MUSAWA,18/16/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/009/009-1677407086.pdf,false
-KADUNA,KUDAN,,MARABAN DANJA II/ PRI. SCH. M/DANJA,18/16/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/008/008-1677406412.pdf,false
-KADUNA,KUDAN,,UNG. MAKAMA/ KGM MAKAMA,18/16/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/007/007-1677405459.pdf,false
-KADUNA,KUDAN,,DANBAMI I/ PRI. SCH. DANBAMI,18/16/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/012/012-1677404532.pdf,false
-KADUNA,KUDAN,,UNG. DANLAMI/ KGM DANLAMI,18/16/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/006/006-1677404500.pdf,false
-KADUNA,KUDAN,,UNG. ANGO/ KGM ANGO,18/16/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/004/004-1677402977.pdf,false
-KADUNA,KUDAN,,UNG. KYAUDAI/ KGM KYAUDAI,18/16/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/003/003-1677402221.pdf,false
-KADUNA,KUDAN,,MARABAN DANJA I/ KGM M/DANJA,18/16/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/002/002-1677401142.pdf,false
-KADUNA,KUDAN,,UNG. MUDI/ KGM MUDI,18/16/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/001/001-1677399897.pdf,false
+KADUNA,KUDAN,SABON GARI HUNKUYI,UNG. JAJA I/ PRI. SCH. JAJA,18/16/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3464/ward/21696/pu/55179/55179-1677662445.pdf,true
+KADUNA,KUDAN,SABON GARI HUNKUYI,DUMUGA II/KGM DUMUGA,18/16/03/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55096/result_116435_1677529081_thumb.jpg,true
+KADUNA,KUDAN,SABON GARI HUNKUYI,UNG. KYAUDAI II OLD CLINIC / LEA PRI. SCH. KYAUDAI,18/16/03/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642490/result_116441_1677515516_thumb.jpg,true
+KADUNA,KUDAN,SABON GARI HUNKUYI,JAJAN MATASA / OPEN SPACE JAJAN MATASA,18/16/03/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642492/result_116443_1677515934_thumb.jpg,true
+KADUNA,KUDAN,SABON GARI HUNKUYI,DUFA - DUFA/ KGM DUFA - DUFA,18/16/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55094/result_116433_1677514596_thumb.jpg,true
+KADUNA,KUDAN,SABON GARI HUNKUYI,DANMAKWARWA / PHC DANMAKWARWA,18/16/03/027,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/027/027-1677420428.pdf,false
+KADUNA,KUDAN,SABON GARI HUNKUYI,HAYIN MALAM BALA / OPEN SPACE HAYIN MALAM BALA,18/16/03/026,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/026/026-1677419192.pdf,false
+KADUNA,KUDAN,SABON GARI HUNKUYI,UNG. GALADIMA KUZURU / LEA PRI. SCH. KUZURU,18/16/03/025,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/025/025-1677418624.pdf,false
+KADUNA,KUDAN,SABON GARI HUNKUYI,JAJAN MIKAH / LEA PRI. SCH. JAJAN MIKAH,18/16/03/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/024/024-1677418531.pdf,false
+KADUNA,KUDAN,SABON GARI HUNKUYI,UNG. SARKI MUSAWA / PHC MUSAWA,18/16/03/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/023/023-1677417685.pdf,false
+KADUNA,KUDAN,SABON GARI HUNKUYI,UNG. LIMAN BARWA / OPEN SPACE UNG. LIMAN,18/16/03/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/022/022-1677417084.pdf,false
+KADUNA,KUDAN,SABON GARI HUNKUYI,TASHAN ICCE / LEA PRI. SCH. TASHAN ICCE,18/16/03/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/020/020-1677414808.pdf,false
+KADUNA,KUDAN,SABON GARI HUNKUYI,UNG. DANMADAMI MARABA / OPEN SPACE UNG. DANMADAMI,18/16/03/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/018/018-1677412596.pdf,false
+KADUNA,KUDAN,SABON GARI HUNKUYI,UNG. JAJA II/ KGM MAKADA,18/16/03/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/017/017-1677412187.pdf,false
+KADUNA,KUDAN,SABON GARI HUNKUYI,UNG. DANTSOHO/ KGM DANTSOHO,18/16/03/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/016/016-1677410711.pdf,false
+KADUNA,KUDAN,SABON GARI HUNKUYI,UNG. JARMAI/ KGM JARMAI,18/16/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/015/015-1677409837.pdf,false
+KADUNA,KUDAN,SABON GARI HUNKUYI,DUMUGA/ KGM DUMUGA,18/16/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/014/014-1677408574.pdf,false
+KADUNA,KUDAN,SABON GARI HUNKUYI,MUSAWA II/ KGM MUSAWA,18/16/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/010/010-1677407839.pdf,false
+KADUNA,KUDAN,SABON GARI HUNKUYI,MUSAWA I/ PRI. SCH. MUSAWA,18/16/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/009/009-1677407086.pdf,false
+KADUNA,KUDAN,SABON GARI HUNKUYI,MARABAN DANJA II/ PRI. SCH. M/DANJA,18/16/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/008/008-1677406412.pdf,false
+KADUNA,KUDAN,SABON GARI HUNKUYI,UNG. MAKAMA/ KGM MAKAMA,18/16/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/007/007-1677405459.pdf,false
+KADUNA,KUDAN,SABON GARI HUNKUYI,DANBAMI I/ PRI. SCH. DANBAMI,18/16/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/012/012-1677404532.pdf,false
+KADUNA,KUDAN,SABON GARI HUNKUYI,UNG. DANLAMI/ KGM DANLAMI,18/16/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/006/006-1677404500.pdf,false
+KADUNA,KUDAN,SABON GARI HUNKUYI,UNG. ANGO/ KGM ANGO,18/16/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/004/004-1677402977.pdf,false
+KADUNA,KUDAN,SABON GARI HUNKUYI,UNG. KYAUDAI/ KGM KYAUDAI,18/16/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/003/003-1677402221.pdf,false
+KADUNA,KUDAN,SABON GARI HUNKUYI,MARABAN DANJA I/ KGM M/DANJA,18/16/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/002/002-1677401142.pdf,false
+KADUNA,KUDAN,SABON GARI HUNKUYI,UNG. MUDI/ KGM MUDI,18/16/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/03/pu/001/001-1677399897.pdf,false

@@ -1,22 +1,22 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,KAURA,,KAURA/ UNG. JOHN LA'AH,18/13/09/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642285/result_115788_1677650155_thumb.jpg,false
-KADUNA,KAURA,,KAURA/ SHARUBUTU ZWAHU,18/13/09/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54627/result_115784_1677650013_thumb.jpg,false
-KADUNA,KAURA,,ANTRUNG/ ALI TABIO,18/13/09/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54623/result_115780_1677649458_thumb.jpg,false
-KADUNA,KAURA,,ANTRUNG/ PETER LAKI,18/13/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54617/result_115774_1677649193_thumb.jpg,false
-KADUNA,KAURA,,GIZA GWAI/ SHEBAYAN,18/13/09/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54624/result_115781_1677510640_thumb.jpg,false
-KADUNA,KAURA,,GIZA GWAI/ NKA,18/13/09/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54629/result_115786_1677508292_thumb.jpg,false
-KADUNA,KAURA,,KAURA/ BAMAYI NINIYIO I,18/13/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54615/result_115772_1677510832_thumb.jpg,false
-KADUNA,KAURA,,KAURA/ ADA BONNET,18/13/09/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54626/result_115783_1677510761_thumb.jpg,false
-KADUNA,KAURA,,ANTRUNG/ NKOM BAKWAP,18/13/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54618/result_115775_1677511216_thumb.jpg,true
-KADUNA,KAURA,,GIZA GWAI/ UNG. MAI FWUAH,18/13/09/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642286/result_115789_1677511382_thumb.jpg,false
-KADUNA,KAURA,,GIZA GWAI/ SALIYAT GANKON I,18/13/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54621/result_115778_1677510878_thumb.jpg,false
-KADUNA,KAURA,,ANTRUNG/ YASHIM UTUNG,18/13/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54619/result_115776_1677509089_thumb.jpg,true
-KADUNA,KAURA,,KAURA/ BAMAYI NINIYIO II,18/13/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54616/result_115773_1677511630_thumb.jpg,false
-KADUNA,KAURA,,KAURA/ UNG. ABAGAI,18/13/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54612/result_115769_1677510602_thumb.jpg,false
-KADUNA,KAURA,,GIZA GWAI/ DANIEL BAMAI,18/13/09/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54625/result_115782_1677511768_thumb.jpg,false
-KADUNA,KAURA,,KAURA/ UNG. GATAH,18/13/09/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642284/result_115787_1677511008_thumb.jpg,true
-KADUNA,KAURA,,KAURA/ YANGYOK BAKWAP,18/13/09/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54628/result_115785_1677513140_thumb.jpg,true
-KADUNA,KAURA,,ANTRUNG/ NGU ACHI,18/13/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54620/result_115777_1677510287_thumb.jpg,false
-KADUNA,KAURA,,KAURA/ NINYIO/Z/NKOM,18/13/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54614/result_115771_1677511934_thumb.jpg,false
-KADUNA,KAURA,,GIZA GWAI/ SALIYAT GANKON II,18/13/09/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54622/result_115779_1677505176_thumb.jpg,false
-KADUNA,KAURA,,KAURA/ ZAKKA AVONG,18/13/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54613/result_115770_1677511109_thumb.jpg,true
+KADUNA,KAURA,KAURA,KAURA/ UNG. JOHN LA'AH,18/13/09/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642285/result_115788_1677650155_thumb.jpg,false
+KADUNA,KAURA,KAURA,KAURA/ SHARUBUTU ZWAHU,18/13/09/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54627/result_115784_1677650013_thumb.jpg,false
+KADUNA,KAURA,KAURA,ANTRUNG/ ALI TABIO,18/13/09/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54623/result_115780_1677649458_thumb.jpg,false
+KADUNA,KAURA,KAURA,ANTRUNG/ PETER LAKI,18/13/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54617/result_115774_1677649193_thumb.jpg,false
+KADUNA,KAURA,KAURA,GIZA GWAI/ SHEBAYAN,18/13/09/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54624/result_115781_1677510640_thumb.jpg,false
+KADUNA,KAURA,KAURA,GIZA GWAI/ NKA,18/13/09/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54629/result_115786_1677508292_thumb.jpg,false
+KADUNA,KAURA,KAURA,KAURA/ BAMAYI NINIYIO I,18/13/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54615/result_115772_1677510832_thumb.jpg,false
+KADUNA,KAURA,KAURA,KAURA/ ADA BONNET,18/13/09/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54626/result_115783_1677510761_thumb.jpg,false
+KADUNA,KAURA,KAURA,ANTRUNG/ NKOM BAKWAP,18/13/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54618/result_115775_1677511216_thumb.jpg,true
+KADUNA,KAURA,KAURA,GIZA GWAI/ UNG. MAI FWUAH,18/13/09/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642286/result_115789_1677511382_thumb.jpg,false
+KADUNA,KAURA,KAURA,GIZA GWAI/ SALIYAT GANKON I,18/13/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54621/result_115778_1677510878_thumb.jpg,false
+KADUNA,KAURA,KAURA,ANTRUNG/ YASHIM UTUNG,18/13/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54619/result_115776_1677509089_thumb.jpg,true
+KADUNA,KAURA,KAURA,KAURA/ BAMAYI NINIYIO II,18/13/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54616/result_115773_1677511630_thumb.jpg,false
+KADUNA,KAURA,KAURA,KAURA/ UNG. ABAGAI,18/13/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54612/result_115769_1677510602_thumb.jpg,false
+KADUNA,KAURA,KAURA,GIZA GWAI/ DANIEL BAMAI,18/13/09/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54625/result_115782_1677511768_thumb.jpg,false
+KADUNA,KAURA,KAURA,KAURA/ UNG. GATAH,18/13/09/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642284/result_115787_1677511008_thumb.jpg,true
+KADUNA,KAURA,KAURA,KAURA/ YANGYOK BAKWAP,18/13/09/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54628/result_115785_1677513140_thumb.jpg,true
+KADUNA,KAURA,KAURA,ANTRUNG/ NGU ACHI,18/13/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54620/result_115777_1677510287_thumb.jpg,false
+KADUNA,KAURA,KAURA,KAURA/ NINYIO/Z/NKOM,18/13/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54614/result_115771_1677511934_thumb.jpg,false
+KADUNA,KAURA,KAURA,GIZA GWAI/ SALIYAT GANKON II,18/13/09/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54622/result_115779_1677505176_thumb.jpg,false
+KADUNA,KAURA,KAURA,KAURA/ ZAKKA AVONG,18/13/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54613/result_115770_1677511109_thumb.jpg,true

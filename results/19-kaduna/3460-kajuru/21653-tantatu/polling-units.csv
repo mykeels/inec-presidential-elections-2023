@@ -1,11 +1,11 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,KAJURU,,KUTURA HAUSA/ L.G. CLINIC K.,18/12/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54353/result_115451_1677680269_thumb.jpg,false
-KADUNA,KAJURU,,"TRAIN STATION, KAJURU STATION",18/12/02/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-KADUNA,KAJURU,,GOVERNMENT DAY SECONDARY SCHOOL GYANGYARE,18/12/02/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642273/result_115456_1677679664_thumb.jpg,false
-KADUNA,KAJURU,,KUTURA GARI II/ K/G SARKI,18/12/02/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-KADUNA,KAJURU,,KAJURU STATION/ LGEA PRI. KAJURU STATION,18/12/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54356/result_115454_1677679372_thumb.jpg,false
-KADUNA,KAJURU,,AGUBA/ K/G M/ANGUWAN,18/12/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54355/result_115453_1677679143_thumb.jpg,false
-KADUNA,KAJURU,,KUTURA STATION/ LGEA PRI. KUTURA,18/12/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54354/result_115452_1677679014_thumb.jpg,false
-KADUNA,KAJURU,,KUTURA GARI I/ K/G SARKI,18/12/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54352/result_115450_1677678791_thumb.jpg,false
-KADUNA,KAJURU,,GYANGYARE/ LGEA PRI. GYAN GARE,18/12/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54351/result_115449_1677678541_thumb.jpg,false
-KADUNA,KAJURU,,KUJENI/ K/G M/ANGUWAN,18/12/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54350/result_115448_1677678312_thumb.jpg,false
+KADUNA,KAJURU,TANTATU,KUTURA HAUSA/ L.G. CLINIC K.,18/12/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54353/result_115451_1677680269_thumb.jpg,false
+KADUNA,KAJURU,TANTATU,"TRAIN STATION, KAJURU STATION",18/12/02/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,KAJURU,TANTATU,GOVERNMENT DAY SECONDARY SCHOOL GYANGYARE,18/12/02/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642273/result_115456_1677679664_thumb.jpg,false
+KADUNA,KAJURU,TANTATU,KUTURA GARI II/ K/G SARKI,18/12/02/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,KAJURU,TANTATU,KAJURU STATION/ LGEA PRI. KAJURU STATION,18/12/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54356/result_115454_1677679372_thumb.jpg,false
+KADUNA,KAJURU,TANTATU,AGUBA/ K/G M/ANGUWAN,18/12/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54355/result_115453_1677679143_thumb.jpg,false
+KADUNA,KAJURU,TANTATU,KUTURA STATION/ LGEA PRI. KUTURA,18/12/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54354/result_115452_1677679014_thumb.jpg,false
+KADUNA,KAJURU,TANTATU,KUTURA GARI I/ K/G SARKI,18/12/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54352/result_115450_1677678791_thumb.jpg,false
+KADUNA,KAJURU,TANTATU,GYANGYARE/ LGEA PRI. GYAN GARE,18/12/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54351/result_115449_1677678541_thumb.jpg,false
+KADUNA,KAJURU,TANTATU,KUJENI/ K/G M/ANGUWAN,18/12/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54350/result_115448_1677678312_thumb.jpg,false

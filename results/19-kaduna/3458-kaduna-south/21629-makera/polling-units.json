@@ -26,6 +26,7 @@
     "pu_code_string": "181001031",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "181001002",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "181001003",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": null,
     "old_documents": [
       {
@@ -142,6 +145,7 @@
     "pu_code_string": "181001001",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -180,6 +184,7 @@
     "pu_code_string": "181001016",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": null,
     "old_documents": [
       {
@@ -220,6 +225,7 @@
     "pu_code_string": "181001007",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": null,
     "old_documents": [
       {
@@ -260,6 +266,7 @@
     "pu_code_string": "181001013",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -298,6 +305,7 @@
     "pu_code_string": "181001010",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -336,6 +344,7 @@
     "pu_code_string": "181001006",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": null,
     "old_documents": [
       {
@@ -376,6 +385,7 @@
     "pu_code_string": "181001014",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": null,
     "old_documents": [
       {
@@ -416,6 +426,7 @@
     "pu_code_string": "181001015",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": null,
     "old_documents": [
       {
@@ -456,6 +467,7 @@
     "pu_code_string": "181001011",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": null,
     "old_documents": [
       {
@@ -496,6 +508,7 @@
     "pu_code_string": "181001008",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": null,
     "old_documents": [
       {
@@ -536,6 +549,7 @@
     "pu_code_string": "181001017",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -574,6 +588,7 @@
     "pu_code_string": "181001012",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": null,
     "old_documents": [
       {
@@ -614,6 +629,7 @@
     "pu_code_string": "181001009",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": null,
     "old_documents": [
       {
@@ -654,6 +670,7 @@
     "pu_code_string": "181001005",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": null,
     "old_documents": [
       {
@@ -694,6 +711,7 @@
     "pu_code_string": "181001004",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -732,6 +750,7 @@
     "pu_code_string": "181001086",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -770,6 +789,7 @@
     "pu_code_string": "181001083",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -808,6 +828,7 @@
     "pu_code_string": "181001076",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -846,6 +867,7 @@
     "pu_code_string": "181001075",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -884,6 +906,7 @@
     "pu_code_string": "181001028",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -922,6 +945,7 @@
     "pu_code_string": "181001071",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -960,6 +984,7 @@
     "pu_code_string": "181001061",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -998,6 +1023,7 @@
     "pu_code_string": "181001072",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -1036,6 +1062,7 @@
     "pu_code_string": "181001065",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -1074,6 +1101,7 @@
     "pu_code_string": "181001085",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -1112,6 +1140,7 @@
     "pu_code_string": "181001048",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -1150,6 +1179,7 @@
     "pu_code_string": "181001060",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -1188,6 +1218,7 @@
     "pu_code_string": "181001033",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -1226,6 +1257,7 @@
     "pu_code_string": "181001081",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -1264,6 +1296,7 @@
     "pu_code_string": "181001066",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -1302,6 +1335,7 @@
     "pu_code_string": "181001057",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -1340,6 +1374,7 @@
     "pu_code_string": "181001080",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -1378,6 +1413,7 @@
     "pu_code_string": "181001062",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -1416,6 +1452,7 @@
     "pu_code_string": "181001068",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -1454,6 +1491,7 @@
     "pu_code_string": "181001063",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -1492,6 +1530,7 @@
     "pu_code_string": "181001070",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -1530,6 +1569,7 @@
     "pu_code_string": "181001055",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -1568,6 +1608,7 @@
     "pu_code_string": "181001069",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -1606,6 +1647,7 @@
     "pu_code_string": "181001047",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -1644,6 +1686,7 @@
     "pu_code_string": "181001084",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -1682,6 +1725,7 @@
     "pu_code_string": "181001079",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -1720,6 +1764,7 @@
     "pu_code_string": "181001074",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -1758,6 +1803,7 @@
     "pu_code_string": "181001043",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -1796,6 +1842,7 @@
     "pu_code_string": "181001045",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": true,
       "status": 1,
@@ -1834,6 +1881,7 @@
     "pu_code_string": "181001052",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -1872,6 +1920,7 @@
     "pu_code_string": "181001049",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -1910,6 +1959,7 @@
     "pu_code_string": "181001020",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -1948,6 +1998,7 @@
     "pu_code_string": "181001039",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -1986,6 +2037,7 @@
     "pu_code_string": "181001041",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -2024,6 +2076,7 @@
     "pu_code_string": "181001088",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -2062,6 +2115,7 @@
     "pu_code_string": "181001042",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -2100,6 +2154,7 @@
     "pu_code_string": "181001032",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -2138,6 +2193,7 @@
     "pu_code_string": "181001036",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -2176,6 +2232,7 @@
     "pu_code_string": "181001023",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -2214,6 +2271,7 @@
     "pu_code_string": "181001067",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -2252,6 +2310,7 @@
     "pu_code_string": "181001025",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -2290,6 +2349,7 @@
     "pu_code_string": "181001054",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -2328,6 +2388,7 @@
     "pu_code_string": "181001040",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -2366,6 +2427,7 @@
     "pu_code_string": "181001046",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -2404,6 +2466,7 @@
     "pu_code_string": "181001019",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -2442,6 +2505,7 @@
     "pu_code_string": "181001022",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -2480,6 +2544,7 @@
     "pu_code_string": "181001053",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -2518,6 +2583,7 @@
     "pu_code_string": "181001082",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -2556,6 +2622,7 @@
     "pu_code_string": "181001021",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -2594,6 +2661,7 @@
     "pu_code_string": "181001073",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -2632,6 +2700,7 @@
     "pu_code_string": "181001044",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -2670,6 +2739,7 @@
     "pu_code_string": "181001051",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -2708,6 +2778,7 @@
     "pu_code_string": "181001059",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -2746,6 +2817,7 @@
     "pu_code_string": "181001064",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -2784,6 +2856,7 @@
     "pu_code_string": "181001087",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -2822,6 +2895,7 @@
     "pu_code_string": "181001035",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -2860,6 +2934,7 @@
     "pu_code_string": "181001050",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -2898,6 +2973,7 @@
     "pu_code_string": "181001018",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -2936,6 +3012,7 @@
     "pu_code_string": "181001058",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -2974,6 +3051,7 @@
     "pu_code_string": "181001030",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -3012,6 +3090,7 @@
     "pu_code_string": "181001029",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -3050,6 +3129,7 @@
     "pu_code_string": "181001037",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -3088,6 +3168,7 @@
     "pu_code_string": "181001038",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -3126,6 +3207,7 @@
     "pu_code_string": "181001026",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -3164,6 +3246,7 @@
     "pu_code_string": "181001027",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -3202,6 +3285,7 @@
     "pu_code_string": "181001077",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "document": {
       "external": false,
       "status": 1,
@@ -3240,6 +3324,7 @@
     "pu_code_string": "181001078",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -3270,6 +3355,7 @@
     "pu_code_string": "181001034",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -3300,6 +3386,7 @@
     "pu_code_string": "181001056",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -3330,6 +3417,7 @@
     "pu_code_string": "181001024",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "MAKERA",
     "old_documents": [],
     "has_old_documents": false
   }

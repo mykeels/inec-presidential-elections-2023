@@ -1,72 +1,72 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,ZARIA,,MAKARFI I/ K/G A. ABDU,18/23/06/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56612/result_118732_1677537599_thumb.jpg,true
-KADUNA,ZARIA,,DIKKO ROAD/ K/G A. GANA,18/23/06/029,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56611/result_118731_1677537490_thumb.jpg,true
-KADUNA,ZARIA,,IMAM ROAD/ K/G ALH. IMAM,18/23/06/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56610/result_118730_1677537400_thumb.jpg,true
-KADUNA,ZARIA,,WAINA ROAD/ K/G ALH. UMAR,18/23/06/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56608/result_118728_1677537003_thumb.jpg,true
-KADUNA,ZARIA,,JIBGA/ L.E.A. N/HUDA,18/23/06/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56607/result_118727_1677536485_thumb.jpg,true
-KADUNA,ZARIA,,RIMI ROAD I/ K/G ALH. BAWA,18/23/06/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56606/result_118726_1677536365_thumb.jpg,true
-KADUNA,ZARIA,,MUSAN GWARZO II/ K/G ALH. IBRAHIM,18/23/06/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56605/result_118725_1677536055_thumb.jpg,true
-KADUNA,ZARIA,,MUSAN GWARZO I/ K/G M. GWARZO,18/23/06/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56604/result_118724_1677535953_thumb.jpg,true
-KADUNA,ZARIA,,L. ALKALI I/ IRO KAYA,18/23/06/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56603/result_118723_1677530826_thumb.jpg,true
-KADUNA,ZARIA,,MIL DA KWATA/ GIDAN HABIBALO,18/23/06/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,true
-KADUNA,ZARIA,,DRE BARI II/ K/G HUSSAINI B.,18/23/06/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56601/result_118721_1677530526_thumb.jpg,true
-KADUNA,ZARIA,,DRE BARI I/ K/G B. DOKO,18/23/06/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56600/result_118720_1677530216_thumb.jpg,true
-KADUNA,ZARIA,,LEMU II/ ALH. D. JUMO,18/23/06/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56599/result_118719_1677529311_thumb.jpg,true
-KADUNA,ZARIA,,LEMU I/ K/G ALH. M. K.,18/23/06/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56598/result_118718_1677529108_thumb.jpg,true
-KADUNA,ZARIA,,ZAILANI ROAD/ HAJIYA FALALA,18/23/06/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56597/result_118717_1677528621_thumb.jpg,true
-KADUNA,ZARIA,,JOJI ROAD III/ K/G ALH. DAUDA,18/23/06/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56596/result_118716_1677528106_thumb.jpg,true
-KADUNA,ZARIA,,JOJI ROAD II/ K/G MAMMAN GUSAU,18/23/06/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56595/result_118715_1677527833_thumb.jpg,false
-KADUNA,ZARIA,,JOJI ROAD I/ K/G ALH. MUSA,18/23/06/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56594/result_118714_1677527441_thumb.jpg,true
-KADUNA,ZARIA,,SARKI III/ L.G. OFFICE,18/23/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56593/result_118713_1677527260_thumb.jpg,true
-KADUNA,ZARIA,,SARKI II/ K/G AGORO,18/23/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56592/result_118712_1677526061_thumb.jpg,true
-KADUNA,ZARIA,,S/AMINU II/ K/G ALH. JAFARU,18/23/06/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56590/result_118710_1677525458_thumb.jpg,true
-KADUNA,ZARIA,,SARKI I/ CHILD CLINIC,18/23/06/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56591/result_118711_1677525576_thumb.jpg,true
-KADUNA,ZARIA,,S/AMINU I/ K/G ALH. Y. DARI,18/23/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56589/result_118709_1677524832_thumb.jpg,true
-KADUNA,ZARIA,,A.B.T.H. II/ BUS STOP (OPP) ABUTH,18/23/06/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56588/result_118708_1677524579_thumb.jpg,false
-KADUNA,ZARIA,,A.B.T.H. I/ STAFF QTRS. ABUTH,18/23/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56587/result_118707_1677522560_thumb.jpg,true
-KADUNA,ZARIA,,UNG. BAYO IV/ K/G MADAKIN KIRA,18/23/06/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56586/result_118706_1677522151_thumb.jpg,true
-KADUNA,ZARIA,,UNG. BAYO III/ BEHIND CINEMA,18/23/06/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56585/result_118705_1677521720_thumb.jpg,true
-KADUNA,ZARIA,,UNG. BAYO I/ L.E.A. PAMPO,18/23/06/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56583/result_118703_1677519449_thumb.jpg,true
-KADUNA,ZARIA,,UNG. BAYO II/ L.E.A. PAMPO,18/23/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,true
-KADUNA,ZARIA,,ALIYU ROAD II/KANTIN BENE,18/23/06/066,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643210/result_118768_1677570790_thumb.jpg,false
-KADUNA,ZARIA,,MAKARAHUTA/K/G BELLO GIDAN RUWA,18/23/06/067,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643211/result_118769_1677570877_thumb.jpg,false
-KADUNA,ZARIA,,SHAFI'I II/K/G DANGWAGGO,18/23/06/061,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643205/result_118763_1677570486_thumb.jpg,false
-KADUNA,ZARIA,,NUHU ROAD II/K/G MAIANGUWA BAITA,18/23/06/068,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643212/result_118770_1677570924_thumb.jpg,false
-KADUNA,ZARIA,,JIBGA III/K/G SARKIN HAYA,18/23/06/071,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643215/result_118773_1677571244_thumb.jpg,false
-KADUNA,ZARIA,,IMAM ROAD III/K/G SALISU SARKI,18/23/06/065,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643209/result_118767_1677570705_thumb.jpg,false
-KADUNA,ZARIA,,UNG DANDUTSE III/K/G ALH INDA SULE,18/23/06/069,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643213/result_118771_1677570987_thumb.jpg,false
-KADUNA,ZARIA,,JIBGA II/K/G SARKIN T/WADA,18/23/06/059,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643203/result_118761_1677569269_thumb.jpg,false
-KADUNA,ZARIA,,WAWA ROAD II/K/G SARKIN FAWA,18/23/06/060,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643204/result_118762_1677569432_thumb.jpg,false
-KADUNA,ZARIA,,RIMI ROAD II/K/G LATE ALH SADA,18/23/06/058,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643202/result_118760_1677569207_thumb.jpg,false
-KADUNA,ZARIA,,UNG DANDUTSE IV/K/G ALH ADAMU KUGU,18/23/06/070,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643214/result_118772_1677571185_thumb.jpg,false
-KADUNA,ZARIA,,MAKARFI ROAD III/ALH SANI DANTUMATUR,18/23/06/064,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643208/result_118766_1677570658_thumb.jpg,false
-KADUNA,ZARIA,,DIKKO ROAD II/K/G ALH IBRAHIM C14,18/23/06/063,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643207/result_118765_1677570607_thumb.jpg,false
-KADUNA,ZARIA,,IMAM ROAD II/K/G NA LAMI,18/23/06/062,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643206/result_118764_1677570548_thumb.jpg,false
-KADUNA,ZARIA,,MUSAN GWARZO III/K/G HASSAN ABBA,18/23/06/057,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643201/result_118759_1677569138_thumb.jpg,false
-KADUNA,ZARIA,,ALKALI ROAD II/K/G ALH MUSTAPHA WALAWA,18/23/06/056,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643200/result_118758_1677569076_thumb.jpg,false
-KADUNA,ZARIA,,MIL DA KWATA II/K/G ALH LIMAN,18/23/06/055,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643199/result_118757_1677568991_thumb.jpg,false
-KADUNA,ZARIA,,BAREBARI IV/K/G LAMIDO MAI ALLURA,18/23/06/054,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643198/result_118756_1677568922_thumb.jpg,false
-KADUNA,ZARIA,,BAREBARI III/K/G MUHD IYANDE,18/23/06/053,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-KADUNA,ZARIA,,LEMU III/K/G MAL HUSSAINI MAI-ALMAJIRAI,18/23/06/052,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-KADUNA,ZARIA,,ZAILANI ROAD II/K/G AHMADU NAMAKWA,18/23/06/051,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643195/result_118753_1677568726_thumb.jpg,false
-KADUNA,ZARIA,,JOJI ROAD V/ALHAJI DANLADI NA GARI,18/23/06/050,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643194/result_118752_1677568467_thumb.jpg,false
-KADUNA,ZARIA,,JOJI ROAD IV/K/G SULE DANGER,18/23/06/049,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643193/result_118751_1677568016_thumb.jpg,false
-KADUNA,ZARIA,,AMINU ROAD/K/G MAKERA,18/23/06/048,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643192/result_118750_1677567941_thumb.jpg,false
-KADUNA,ZARIA,,AGORO/K/G BABA TRADER,18/23/06/047,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643191/result_118749_1677567774_thumb.jpg,false
-KADUNA,ZARIA,,SARKI IV/K/G BABA AMU,18/23/06/046,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643190/result_118748_1677567710_thumb.jpg,false
-KADUNA,ZARIA,,RADIO ROAD/K/G UWAISU,18/23/06/045,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643189/result_118747_1677567647_thumb.jpg,false
-KADUNA,ZARIA,,NASARAWA/K/G MAL DAN YAKASAI,18/23/06/044,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643188/result_118746_1677567596_thumb.jpg,false
-KADUNA,ZARIA,,ABUTH II/MORTUARY GATE,18/23/06/043,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643187/result_118745_1677567540_thumb.jpg,false
-KADUNA,ZARIA,,GANGAREN MOBIL/K/G ALH SANI DANSARKI,18/23/06/042,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643186/result_118744_1677567477_thumb.jpg,false
-KADUNA,ZARIA,,UNG BAYO VII/BEHIND CINEMA/K/G UBA OMO,18/23/06/041,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643185/result_118743_1677567415_thumb.jpg,false
-KADUNA,ZARIA,,UNG BAYO VI/ALBARKA CINEMA,18/23/06/040,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643184/result_118742_1677567350_thumb.jpg,false
-KADUNA,ZARIA,,UNG BAYO V/K/G MAL HADI,18/23/06/039,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643183/result_118741_1677566818_thumb.jpg,false
-KADUNA,ZARIA,,UNG BAYO IV/K/G MAIANGUWA MUHAMMADU TANKO,18/23/06/038,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643182/result_118740_1677566756_thumb.jpg,false
-KADUNA,ZARIA,,RIMI ROAD II/ K/G ALH. BAWA,18/23/06/037,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56619/result_118739_1677566681_thumb.jpg,false
-KADUNA,ZARIA,,UNG. DANDUTSE II/ MATERNITY CLINIC,18/23/06/036,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56618/result_118738_1677566616_thumb.jpg,false
-KADUNA,ZARIA,,UNG. DANDUTSE I/ L.E.A. N/HUDA,18/23/06/035,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56617/result_118737_1677566549_thumb.jpg,false
-KADUNA,ZARIA,,NUHU ROAD/ HAJIYA FAMATA,18/23/06/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56616/result_118736_1677566471_thumb.jpg,false
-KADUNA,ZARIA,,MAKARA HUTA/ K/G BABA MANU,18/23/06/033,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56615/result_118735_1677566387_thumb.jpg,false
-KADUNA,ZARIA,,ALIYU ROAD/ K/G A/LAWANDI,18/23/06/032,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56614/result_118734_1677566315_thumb.jpg,false
-KADUNA,ZARIA,,MAKARFI II/ K/G M. SHANU,18/23/06/031,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56613/result_118733_1677566117_thumb.jpg,false
-KADUNA,ZARIA,,SHAFI II/ T/WADA L.E.A.,18/23/06/027,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/027/027-1677389066.pdf,false
+KADUNA,ZARIA,TUDUN WADA,MAKARFI I/ K/G A. ABDU,18/23/06/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56612/result_118732_1677537599_thumb.jpg,true
+KADUNA,ZARIA,TUDUN WADA,DIKKO ROAD/ K/G A. GANA,18/23/06/029,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56611/result_118731_1677537490_thumb.jpg,true
+KADUNA,ZARIA,TUDUN WADA,IMAM ROAD/ K/G ALH. IMAM,18/23/06/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56610/result_118730_1677537400_thumb.jpg,true
+KADUNA,ZARIA,TUDUN WADA,WAINA ROAD/ K/G ALH. UMAR,18/23/06/026,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56608/result_118728_1677537003_thumb.jpg,true
+KADUNA,ZARIA,TUDUN WADA,JIBGA/ L.E.A. N/HUDA,18/23/06/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56607/result_118727_1677536485_thumb.jpg,true
+KADUNA,ZARIA,TUDUN WADA,RIMI ROAD I/ K/G ALH. BAWA,18/23/06/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56606/result_118726_1677536365_thumb.jpg,true
+KADUNA,ZARIA,TUDUN WADA,MUSAN GWARZO II/ K/G ALH. IBRAHIM,18/23/06/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56605/result_118725_1677536055_thumb.jpg,true
+KADUNA,ZARIA,TUDUN WADA,MUSAN GWARZO I/ K/G M. GWARZO,18/23/06/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56604/result_118724_1677535953_thumb.jpg,true
+KADUNA,ZARIA,TUDUN WADA,L. ALKALI I/ IRO KAYA,18/23/06/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56603/result_118723_1677530826_thumb.jpg,true
+KADUNA,ZARIA,TUDUN WADA,MIL DA KWATA/ GIDAN HABIBALO,18/23/06/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,true
+KADUNA,ZARIA,TUDUN WADA,DRE BARI II/ K/G HUSSAINI B.,18/23/06/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56601/result_118721_1677530526_thumb.jpg,true
+KADUNA,ZARIA,TUDUN WADA,DRE BARI I/ K/G B. DOKO,18/23/06/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56600/result_118720_1677530216_thumb.jpg,true
+KADUNA,ZARIA,TUDUN WADA,LEMU II/ ALH. D. JUMO,18/23/06/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56599/result_118719_1677529311_thumb.jpg,true
+KADUNA,ZARIA,TUDUN WADA,LEMU I/ K/G ALH. M. K.,18/23/06/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56598/result_118718_1677529108_thumb.jpg,true
+KADUNA,ZARIA,TUDUN WADA,ZAILANI ROAD/ HAJIYA FALALA,18/23/06/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56597/result_118717_1677528621_thumb.jpg,true
+KADUNA,ZARIA,TUDUN WADA,JOJI ROAD III/ K/G ALH. DAUDA,18/23/06/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56596/result_118716_1677528106_thumb.jpg,true
+KADUNA,ZARIA,TUDUN WADA,JOJI ROAD II/ K/G MAMMAN GUSAU,18/23/06/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56595/result_118715_1677527833_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,JOJI ROAD I/ K/G ALH. MUSA,18/23/06/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56594/result_118714_1677527441_thumb.jpg,true
+KADUNA,ZARIA,TUDUN WADA,SARKI III/ L.G. OFFICE,18/23/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56593/result_118713_1677527260_thumb.jpg,true
+KADUNA,ZARIA,TUDUN WADA,SARKI II/ K/G AGORO,18/23/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56592/result_118712_1677526061_thumb.jpg,true
+KADUNA,ZARIA,TUDUN WADA,S/AMINU II/ K/G ALH. JAFARU,18/23/06/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56590/result_118710_1677525458_thumb.jpg,true
+KADUNA,ZARIA,TUDUN WADA,SARKI I/ CHILD CLINIC,18/23/06/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56591/result_118711_1677525576_thumb.jpg,true
+KADUNA,ZARIA,TUDUN WADA,S/AMINU I/ K/G ALH. Y. DARI,18/23/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56589/result_118709_1677524832_thumb.jpg,true
+KADUNA,ZARIA,TUDUN WADA,A.B.T.H. II/ BUS STOP (OPP) ABUTH,18/23/06/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56588/result_118708_1677524579_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,A.B.T.H. I/ STAFF QTRS. ABUTH,18/23/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56587/result_118707_1677522560_thumb.jpg,true
+KADUNA,ZARIA,TUDUN WADA,UNG. BAYO IV/ K/G MADAKIN KIRA,18/23/06/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56586/result_118706_1677522151_thumb.jpg,true
+KADUNA,ZARIA,TUDUN WADA,UNG. BAYO III/ BEHIND CINEMA,18/23/06/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56585/result_118705_1677521720_thumb.jpg,true
+KADUNA,ZARIA,TUDUN WADA,UNG. BAYO I/ L.E.A. PAMPO,18/23/06/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56583/result_118703_1677519449_thumb.jpg,true
+KADUNA,ZARIA,TUDUN WADA,UNG. BAYO II/ L.E.A. PAMPO,18/23/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,true
+KADUNA,ZARIA,TUDUN WADA,ALIYU ROAD II/KANTIN BENE,18/23/06/066,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643210/result_118768_1677570790_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,MAKARAHUTA/K/G BELLO GIDAN RUWA,18/23/06/067,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643211/result_118769_1677570877_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,SHAFI'I II/K/G DANGWAGGO,18/23/06/061,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643205/result_118763_1677570486_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,NUHU ROAD II/K/G MAIANGUWA BAITA,18/23/06/068,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643212/result_118770_1677570924_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,JIBGA III/K/G SARKIN HAYA,18/23/06/071,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643215/result_118773_1677571244_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,IMAM ROAD III/K/G SALISU SARKI,18/23/06/065,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643209/result_118767_1677570705_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,UNG DANDUTSE III/K/G ALH INDA SULE,18/23/06/069,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643213/result_118771_1677570987_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,JIBGA II/K/G SARKIN T/WADA,18/23/06/059,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643203/result_118761_1677569269_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,WAWA ROAD II/K/G SARKIN FAWA,18/23/06/060,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643204/result_118762_1677569432_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,RIMI ROAD II/K/G LATE ALH SADA,18/23/06/058,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643202/result_118760_1677569207_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,UNG DANDUTSE IV/K/G ALH ADAMU KUGU,18/23/06/070,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643214/result_118772_1677571185_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,MAKARFI ROAD III/ALH SANI DANTUMATUR,18/23/06/064,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643208/result_118766_1677570658_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,DIKKO ROAD II/K/G ALH IBRAHIM C14,18/23/06/063,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643207/result_118765_1677570607_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,IMAM ROAD II/K/G NA LAMI,18/23/06/062,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643206/result_118764_1677570548_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,MUSAN GWARZO III/K/G HASSAN ABBA,18/23/06/057,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643201/result_118759_1677569138_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,ALKALI ROAD II/K/G ALH MUSTAPHA WALAWA,18/23/06/056,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643200/result_118758_1677569076_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,MIL DA KWATA II/K/G ALH LIMAN,18/23/06/055,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643199/result_118757_1677568991_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,BAREBARI IV/K/G LAMIDO MAI ALLURA,18/23/06/054,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643198/result_118756_1677568922_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,BAREBARI III/K/G MUHD IYANDE,18/23/06/053,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,ZARIA,TUDUN WADA,LEMU III/K/G MAL HUSSAINI MAI-ALMAJIRAI,18/23/06/052,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,ZARIA,TUDUN WADA,ZAILANI ROAD II/K/G AHMADU NAMAKWA,18/23/06/051,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643195/result_118753_1677568726_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,JOJI ROAD V/ALHAJI DANLADI NA GARI,18/23/06/050,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643194/result_118752_1677568467_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,JOJI ROAD IV/K/G SULE DANGER,18/23/06/049,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643193/result_118751_1677568016_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,AMINU ROAD/K/G MAKERA,18/23/06/048,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643192/result_118750_1677567941_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,AGORO/K/G BABA TRADER,18/23/06/047,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643191/result_118749_1677567774_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,SARKI IV/K/G BABA AMU,18/23/06/046,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643190/result_118748_1677567710_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,RADIO ROAD/K/G UWAISU,18/23/06/045,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643189/result_118747_1677567647_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,NASARAWA/K/G MAL DAN YAKASAI,18/23/06/044,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643188/result_118746_1677567596_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,ABUTH II/MORTUARY GATE,18/23/06/043,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643187/result_118745_1677567540_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,GANGAREN MOBIL/K/G ALH SANI DANSARKI,18/23/06/042,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643186/result_118744_1677567477_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,UNG BAYO VII/BEHIND CINEMA/K/G UBA OMO,18/23/06/041,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643185/result_118743_1677567415_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,UNG BAYO VI/ALBARKA CINEMA,18/23/06/040,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643184/result_118742_1677567350_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,UNG BAYO V/K/G MAL HADI,18/23/06/039,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643183/result_118741_1677566818_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,UNG BAYO IV/K/G MAIANGUWA MUHAMMADU TANKO,18/23/06/038,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643182/result_118740_1677566756_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,RIMI ROAD II/ K/G ALH. BAWA,18/23/06/037,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56619/result_118739_1677566681_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,UNG. DANDUTSE II/ MATERNITY CLINIC,18/23/06/036,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56618/result_118738_1677566616_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,UNG. DANDUTSE I/ L.E.A. N/HUDA,18/23/06/035,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56617/result_118737_1677566549_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,NUHU ROAD/ HAJIYA FAMATA,18/23/06/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56616/result_118736_1677566471_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,MAKARA HUTA/ K/G BABA MANU,18/23/06/033,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56615/result_118735_1677566387_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,ALIYU ROAD/ K/G A/LAWANDI,18/23/06/032,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56614/result_118734_1677566315_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,MAKARFI II/ K/G M. SHANU,18/23/06/031,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56613/result_118733_1677566117_thumb.jpg,false
+KADUNA,ZARIA,TUDUN WADA,SHAFI II/ T/WADA L.E.A.,18/23/06/027,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/06/pu/027/027-1677389066.pdf,false

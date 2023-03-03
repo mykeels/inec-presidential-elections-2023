@@ -26,6 +26,7 @@
     "pu_code_string": "181009017",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": null,
     "old_documents": [
       {
@@ -66,6 +67,7 @@
     "pu_code_string": "181009016",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": null,
     "old_documents": [
       {
@@ -106,6 +108,7 @@
     "pu_code_string": "181009015",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": null,
     "old_documents": [
       {
@@ -146,6 +149,7 @@
     "pu_code_string": "181009014",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": null,
     "old_documents": [
       {
@@ -186,6 +190,7 @@
     "pu_code_string": "181009013",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": null,
     "old_documents": [
       {
@@ -226,6 +231,7 @@
     "pu_code_string": "181009012",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": null,
     "old_documents": [
       {
@@ -266,6 +272,7 @@
     "pu_code_string": "181009010",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": null,
     "old_documents": [
       {
@@ -306,6 +313,7 @@
     "pu_code_string": "181009009",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": true,
       "status": 1,
@@ -344,6 +352,7 @@
     "pu_code_string": "181009008",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": null,
     "old_documents": [
       {
@@ -384,6 +393,7 @@
     "pu_code_string": "181009007",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": null,
     "old_documents": [
       {
@@ -424,6 +434,7 @@
     "pu_code_string": "181009006",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": null,
     "old_documents": [
       {
@@ -464,6 +475,7 @@
     "pu_code_string": "181009005",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": true,
       "status": 1,
@@ -502,6 +514,7 @@
     "pu_code_string": "181009004",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": null,
     "old_documents": [
       {
@@ -542,6 +555,7 @@
     "pu_code_string": "181009003",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": null,
     "old_documents": [
       {
@@ -582,6 +596,7 @@
     "pu_code_string": "181009002",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": null,
     "old_documents": [
       {
@@ -622,6 +637,7 @@
     "pu_code_string": "181009001",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": null,
     "old_documents": [
       {
@@ -662,6 +678,7 @@
     "pu_code_string": "181009064",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": true,
       "status": 1,
@@ -700,6 +717,7 @@
     "pu_code_string": "181009053",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": true,
       "status": 1,
@@ -738,6 +756,7 @@
     "pu_code_string": "181009045",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": true,
       "status": 1,
@@ -776,6 +795,7 @@
     "pu_code_string": "181009051",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": true,
       "status": 1,
@@ -814,6 +834,7 @@
     "pu_code_string": "181009040",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": true,
       "status": 1,
@@ -852,6 +873,7 @@
     "pu_code_string": "181009059",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": true,
       "status": 1,
@@ -890,6 +912,7 @@
     "pu_code_string": "181009043",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": true,
       "status": 1,
@@ -928,6 +951,7 @@
     "pu_code_string": "181009036",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": true,
       "status": 1,
@@ -966,6 +990,7 @@
     "pu_code_string": "181009049",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": true,
       "status": 1,
@@ -1004,6 +1029,7 @@
     "pu_code_string": "181009057",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": true,
       "status": 1,
@@ -1042,6 +1068,7 @@
     "pu_code_string": "181009061",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": true,
       "status": 1,
@@ -1080,6 +1107,7 @@
     "pu_code_string": "181009062",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": true,
       "status": 1,
@@ -1118,6 +1146,7 @@
     "pu_code_string": "181009041",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": true,
       "status": 1,
@@ -1156,6 +1185,7 @@
     "pu_code_string": "181009038",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": true,
       "status": 1,
@@ -1194,6 +1224,7 @@
     "pu_code_string": "181009054",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": true,
       "status": 1,
@@ -1232,6 +1263,7 @@
     "pu_code_string": "181009065",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": true,
       "status": 1,
@@ -1270,6 +1302,7 @@
     "pu_code_string": "181009020",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": true,
       "status": 1,
@@ -1308,6 +1341,7 @@
     "pu_code_string": "181009042",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": true,
       "status": 1,
@@ -1346,6 +1380,7 @@
     "pu_code_string": "181009025",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": true,
       "status": 1,
@@ -1384,6 +1419,7 @@
     "pu_code_string": "181009052",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": true,
       "status": 1,
@@ -1422,6 +1458,7 @@
     "pu_code_string": "181009063",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": false,
       "status": 1,
@@ -1460,6 +1497,7 @@
     "pu_code_string": "181009060",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": false,
       "status": 1,
@@ -1498,6 +1536,7 @@
     "pu_code_string": "181009058",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": false,
       "status": 1,
@@ -1536,6 +1575,7 @@
     "pu_code_string": "181009056",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": false,
       "status": 1,
@@ -1574,6 +1614,7 @@
     "pu_code_string": "181009055",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": false,
       "status": 1,
@@ -1612,6 +1653,7 @@
     "pu_code_string": "181009050",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": false,
       "status": 1,
@@ -1650,6 +1692,7 @@
     "pu_code_string": "181009024",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": false,
       "status": 1,
@@ -1688,6 +1731,7 @@
     "pu_code_string": "181009048",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": false,
       "status": 1,
@@ -1726,6 +1770,7 @@
     "pu_code_string": "181009046",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": false,
       "status": 1,
@@ -1764,6 +1809,7 @@
     "pu_code_string": "181009047",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": false,
       "status": 1,
@@ -1802,6 +1848,7 @@
     "pu_code_string": "181009044",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": false,
       "status": 1,
@@ -1840,6 +1887,7 @@
     "pu_code_string": "181009039",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": false,
       "status": 1,
@@ -1878,6 +1926,7 @@
     "pu_code_string": "181009037",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": false,
       "status": 1,
@@ -1916,6 +1965,7 @@
     "pu_code_string": "181009034",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": false,
       "status": 1,
@@ -1954,6 +2004,7 @@
     "pu_code_string": "181009035",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": false,
       "status": 1,
@@ -1992,6 +2043,7 @@
     "pu_code_string": "181009032",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": false,
       "status": 1,
@@ -2030,6 +2082,7 @@
     "pu_code_string": "181009033",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": false,
       "status": 1,
@@ -2068,6 +2121,7 @@
     "pu_code_string": "181009031",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": false,
       "status": 1,
@@ -2106,6 +2160,7 @@
     "pu_code_string": "181009029",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": false,
       "status": 1,
@@ -2144,6 +2199,7 @@
     "pu_code_string": "181009030",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": false,
       "status": 1,
@@ -2182,6 +2238,7 @@
     "pu_code_string": "181009027",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": false,
       "status": 1,
@@ -2220,6 +2277,7 @@
     "pu_code_string": "181009028",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": false,
       "status": 1,
@@ -2258,6 +2316,7 @@
     "pu_code_string": "181009022",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": false,
       "status": 1,
@@ -2296,6 +2355,7 @@
     "pu_code_string": "181009023",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": false,
       "status": 1,
@@ -2334,6 +2394,7 @@
     "pu_code_string": "181009026",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": false,
       "status": 1,
@@ -2372,6 +2433,7 @@
     "pu_code_string": "181009021",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": false,
       "status": 1,
@@ -2410,6 +2472,7 @@
     "pu_code_string": "181009018",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": false,
       "status": 1,
@@ -2448,6 +2511,7 @@
     "pu_code_string": "181009019",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": false,
       "status": 1,
@@ -2486,6 +2550,7 @@
     "pu_code_string": "181009011",
     "state_name": "KADUNA",
     "lga_name": "KADUNA SOUTH",
+    "ward_name": "TUDUN NUWAPA",
     "document": {
       "external": false,
       "status": 1,

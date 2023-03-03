@@ -1,50 +1,50 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,ZARIA,,UNGUWAN BISHAR V/K/G SHEHU YERO,18/23/05/047,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643083/result_118700_1677659959_thumb.jpg,false
-KADUNA,ZARIA,,RUNGI IV/KG SARKIN MAKERA,18/23/05/043,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643079/result_118696_1677659892_thumb.jpg,false
-KADUNA,ZARIA,,RUNGI III/KG SARKIN FIGINI,18/23/05/042,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643078/result_118695_1677659829_thumb.jpg,false
-KADUNA,ZARIA,,UNG KARFE III/A.A.D BREAD,18/23/05/041,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643077/result_118694_1677659773_thumb.jpg,false
-KADUNA,ZARIA,,T/YANZARE II/K/G ADAMU TIRI,18/23/05/040,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643076/result_118693_1677659687_thumb.jpg,false
-KADUNA,ZARIA,,KAURA III/K/G AMBASSADOR LAWAL SAMBO,18/23/05/035,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643071/result_118688_1677659616_thumb.jpg,false
-KADUNA,ZARIA,,KWANKIRA IV / BY NUHU BAYARO HOUSE,18/23/05/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56582/result_118687_1677659550_thumb.jpg,false
-KADUNA,ZARIA,,KAURA III / L. E. A. KAURA,18/23/05/033,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56581/result_118686_1677659451_thumb.jpg,false
-KADUNA,ZARIA,,RIMIN KAMBARI I/ K/G SARKIN DOGARI,18/23/05/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56573/result_118678_1677659310_thumb.jpg,false
-KADUNA,ZARIA,,ZAKARA/ K/G SHEHU YARO,18/23/05/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-KADUNA,ZARIA,,SHADANTSE III/ NO.42 ZAKARA,18/23/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56555/result_118660_1677658244_thumb.jpg,false
-KADUNA,ZARIA,,SHADANTSE II/ K/G M. ALU,18/23/05/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56554/result_118659_1677658120_thumb.jpg,false
-KADUNA,ZARIA,,GIDAN KAMBARAWA I/ K/G KAMBARAWA,18/23/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56551/result_118656_1677657984_thumb.jpg,false
-KADUNA,ZARIA,,RIMIN KAMBARI VII/MAKARANTAR MAL SARKI,18/23/05/046,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643082/result_118699_1677657795_thumb.jpg,false
-KADUNA,ZARIA,,RUNGI V/KG WAMBAI,18/23/05/044,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/044/044-1677395401.pdf,false
-KADUNA,ZARIA,,KOFAR GAYAN/ K/G M. KASIMU,18/23/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/009/009-1677393230.pdf,false
-KADUNA,ZARIA,,RIMIN DOKO I/ L.E.A. R/DOKO,18/23/05/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/015/015-1677369025.pdf,false
-KADUNA,ZARIA,,SHADANTSE I/ K/G M. DABO,18/23/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/005/005-1677367756.pdf,false
-KADUNA,ZARIA,,KWANKIRA VII/K/G MARDANNIN ZAZZAU,18/23/05/049,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/049/049-1677366515.pdf,false
-KADUNA,ZARIA,,RIMIN KAMBARI IV/ K/G ALH. YA'U KAFINTA,18/23/05/028,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/028/028-1677365606.pdf,false
-KADUNA,ZARIA,,RIMIN KAMBARI VI/KG MAHABAWA,18/23/05/045,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/045/045-1677363256.pdf,false
-KADUNA,ZARIA,,UNG. BISHAR I/ K/G ALH. YERO,18/23/05/029,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/029/029-1677400974.pdf,false
-KADUNA,ZARIA,,MAKWALLA I/ K/O ISA,18/23/05/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/020/020-1677395223.pdf,false
-KADUNA,ZARIA,,UNG. BISHAR I/ K/G MALAMIN SHANU,18/23/05/030,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/030/030-1677391365.pdf,false
-KADUNA,ZARIA,,T/YANZARE I/ K/G ADAMU,18/23/05/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/019/019-1677391141.pdf,false
-KADUNA,ZARIA,,RUNJI II/ K/G KUKA,18/23/05/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/024/024-1677390069.pdf,false
-KADUNA,ZARIA,,UNG. BISHAR III / K/G MAI ANGUWA,18/23/05/031,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/031/031-1677386734.pdf,false
-KADUNA,ZARIA,,UNG KARFE III/K/G SANI MAI RIDI,18/23/05/036,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/036/036-1677386695.pdf,false
-KADUNA,ZARIA,,RIMIN KAMBARI II/ K/G ALH. GODI,18/23/05/026,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/026/026-1677383522.pdf,false
-KADUNA,ZARIA,,KAURA II/ HOUSE NO.159,18/23/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/002/002-1677382562.pdf,false
-KADUNA,ZARIA,,UNG. BISHAR IV/ K/G ALH. YAHAYA BRIGED,18/23/05/032,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/032/032-1677381628.pdf,false
-KADUNA,ZARIA,,UNG. KARFE I/ DISTRICT HEAD OFFICE,18/23/05/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/017/017-1677381431.pdf,false
-KADUNA,ZARIA,,KWANKIRA II/ HOUSE NO.226 KWANKIRA,18/23/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/013/013-1677374434.pdf,false
-KADUNA,ZARIA,,SHADANTSE IV/K/G MUDI CUSTOM,18/23/05/037,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/037/037-1677371509.pdf,false
-KADUNA,ZARIA,,RIMIN DOKO II/ L.E.A. R/DOKO,18/23/05/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/016/016-1677370827.pdf,false
-KADUNA,ZARIA,,MAKWALLA III/ K/G ISA,18/23/05/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/022/022-1677369445.pdf,false
-KADUNA,ZARIA,,UNGUWAN BISHAR VI/K/G BABA MAIDOKI,18/23/05/048,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/048/048-1677368014.pdf,false
-KADUNA,ZARIA,,RUNJI I/ K/G M. SORO,18/23/05/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/023/023-1677367933.pdf,false
-KADUNA,ZARIA,,KAURA I/ L.E.A. KAURA,18/23/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/001/001-1677367862.pdf,false
-KADUNA,ZARIA,,MAKWALLA II/ OFFICE M. ANG.,18/23/05/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/021/021-1677367373.pdf,false
-KADUNA,ZARIA,,KWANKIRA V/K/G KABO,18/23/05/038,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/038/038-1677367206.pdf,false
-KADUNA,ZARIA,,MAZANGUDU I/ L.E.A. M. GUDU,18/23/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/010/010-1677366903.pdf,false
-KADUNA,ZARIA,,KWANKIRA I/ K/G ALH. ANGO,18/23/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/012/012-1677366729.pdf,false
-KADUNA,ZARIA,,GIDAN KAMBARAWA II/ OFFICE M. ANG.,18/23/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/004/004-1677366503.pdf,false
-KADUNA,ZARIA,,MAZANGUDU II/ HAGON FALALA,18/23/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/011/011-1677365218.pdf,false
-KADUNA,ZARIA,,RIMIN KAMBARI III/ K/G SALE MAIMANJA,18/23/05/027,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/027/027-1677365034.pdf,false
-KADUNA,ZARIA,,KWANKIRA VI/K/G GUMIN KAURA,18/23/05/039,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/039/039-1677364812.pdf,false
-KADUNA,ZARIA,,KWANKIRA III/ K/G TABARI,18/23/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/014/014-1677364735.pdf,false
-KADUNA,ZARIA,,UNG. KARFE II/ K/G SANI HULAN GASHI,18/23/05/018,,false
+KADUNA,ZARIA,KAURA,UNGUWAN BISHAR V/K/G SHEHU YERO,18/23/05/047,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643083/result_118700_1677659959_thumb.jpg,false
+KADUNA,ZARIA,KAURA,RUNGI IV/KG SARKIN MAKERA,18/23/05/043,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643079/result_118696_1677659892_thumb.jpg,false
+KADUNA,ZARIA,KAURA,RUNGI III/KG SARKIN FIGINI,18/23/05/042,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643078/result_118695_1677659829_thumb.jpg,false
+KADUNA,ZARIA,KAURA,UNG KARFE III/A.A.D BREAD,18/23/05/041,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643077/result_118694_1677659773_thumb.jpg,false
+KADUNA,ZARIA,KAURA,T/YANZARE II/K/G ADAMU TIRI,18/23/05/040,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643076/result_118693_1677659687_thumb.jpg,false
+KADUNA,ZARIA,KAURA,KAURA III/K/G AMBASSADOR LAWAL SAMBO,18/23/05/035,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643071/result_118688_1677659616_thumb.jpg,false
+KADUNA,ZARIA,KAURA,KWANKIRA IV / BY NUHU BAYARO HOUSE,18/23/05/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56582/result_118687_1677659550_thumb.jpg,false
+KADUNA,ZARIA,KAURA,KAURA III / L. E. A. KAURA,18/23/05/033,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56581/result_118686_1677659451_thumb.jpg,false
+KADUNA,ZARIA,KAURA,RIMIN KAMBARI I/ K/G SARKIN DOGARI,18/23/05/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56573/result_118678_1677659310_thumb.jpg,false
+KADUNA,ZARIA,KAURA,ZAKARA/ K/G SHEHU YARO,18/23/05/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,ZARIA,KAURA,SHADANTSE III/ NO.42 ZAKARA,18/23/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56555/result_118660_1677658244_thumb.jpg,false
+KADUNA,ZARIA,KAURA,SHADANTSE II/ K/G M. ALU,18/23/05/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56554/result_118659_1677658120_thumb.jpg,false
+KADUNA,ZARIA,KAURA,GIDAN KAMBARAWA I/ K/G KAMBARAWA,18/23/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56551/result_118656_1677657984_thumb.jpg,false
+KADUNA,ZARIA,KAURA,RIMIN KAMBARI VII/MAKARANTAR MAL SARKI,18/23/05/046,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643082/result_118699_1677657795_thumb.jpg,false
+KADUNA,ZARIA,KAURA,RUNGI V/KG WAMBAI,18/23/05/044,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/044/044-1677395401.pdf,false
+KADUNA,ZARIA,KAURA,KOFAR GAYAN/ K/G M. KASIMU,18/23/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/009/009-1677393230.pdf,false
+KADUNA,ZARIA,KAURA,RIMIN DOKO I/ L.E.A. R/DOKO,18/23/05/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/015/015-1677369025.pdf,false
+KADUNA,ZARIA,KAURA,SHADANTSE I/ K/G M. DABO,18/23/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/005/005-1677367756.pdf,false
+KADUNA,ZARIA,KAURA,KWANKIRA VII/K/G MARDANNIN ZAZZAU,18/23/05/049,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/049/049-1677366515.pdf,false
+KADUNA,ZARIA,KAURA,RIMIN KAMBARI IV/ K/G ALH. YA'U KAFINTA,18/23/05/028,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/028/028-1677365606.pdf,false
+KADUNA,ZARIA,KAURA,RIMIN KAMBARI VI/KG MAHABAWA,18/23/05/045,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/045/045-1677363256.pdf,false
+KADUNA,ZARIA,KAURA,UNG. BISHAR I/ K/G ALH. YERO,18/23/05/029,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/029/029-1677400974.pdf,false
+KADUNA,ZARIA,KAURA,MAKWALLA I/ K/O ISA,18/23/05/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/020/020-1677395223.pdf,false
+KADUNA,ZARIA,KAURA,UNG. BISHAR I/ K/G MALAMIN SHANU,18/23/05/030,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/030/030-1677391365.pdf,false
+KADUNA,ZARIA,KAURA,T/YANZARE I/ K/G ADAMU,18/23/05/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/019/019-1677391141.pdf,false
+KADUNA,ZARIA,KAURA,RUNJI II/ K/G KUKA,18/23/05/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/024/024-1677390069.pdf,false
+KADUNA,ZARIA,KAURA,UNG. BISHAR III / K/G MAI ANGUWA,18/23/05/031,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/031/031-1677386734.pdf,false
+KADUNA,ZARIA,KAURA,UNG KARFE III/K/G SANI MAI RIDI,18/23/05/036,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/036/036-1677386695.pdf,false
+KADUNA,ZARIA,KAURA,RIMIN KAMBARI II/ K/G ALH. GODI,18/23/05/026,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/026/026-1677383522.pdf,false
+KADUNA,ZARIA,KAURA,KAURA II/ HOUSE NO.159,18/23/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/002/002-1677382562.pdf,false
+KADUNA,ZARIA,KAURA,UNG. BISHAR IV/ K/G ALH. YAHAYA BRIGED,18/23/05/032,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/032/032-1677381628.pdf,false
+KADUNA,ZARIA,KAURA,UNG. KARFE I/ DISTRICT HEAD OFFICE,18/23/05/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/017/017-1677381431.pdf,false
+KADUNA,ZARIA,KAURA,KWANKIRA II/ HOUSE NO.226 KWANKIRA,18/23/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/013/013-1677374434.pdf,false
+KADUNA,ZARIA,KAURA,SHADANTSE IV/K/G MUDI CUSTOM,18/23/05/037,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/037/037-1677371509.pdf,false
+KADUNA,ZARIA,KAURA,RIMIN DOKO II/ L.E.A. R/DOKO,18/23/05/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/016/016-1677370827.pdf,false
+KADUNA,ZARIA,KAURA,MAKWALLA III/ K/G ISA,18/23/05/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/022/022-1677369445.pdf,false
+KADUNA,ZARIA,KAURA,UNGUWAN BISHAR VI/K/G BABA MAIDOKI,18/23/05/048,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/048/048-1677368014.pdf,false
+KADUNA,ZARIA,KAURA,RUNJI I/ K/G M. SORO,18/23/05/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/023/023-1677367933.pdf,false
+KADUNA,ZARIA,KAURA,KAURA I/ L.E.A. KAURA,18/23/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/001/001-1677367862.pdf,false
+KADUNA,ZARIA,KAURA,MAKWALLA II/ OFFICE M. ANG.,18/23/05/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/021/021-1677367373.pdf,false
+KADUNA,ZARIA,KAURA,KWANKIRA V/K/G KABO,18/23/05/038,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/038/038-1677367206.pdf,false
+KADUNA,ZARIA,KAURA,MAZANGUDU I/ L.E.A. M. GUDU,18/23/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/010/010-1677366903.pdf,false
+KADUNA,ZARIA,KAURA,KWANKIRA I/ K/G ALH. ANGO,18/23/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/012/012-1677366729.pdf,false
+KADUNA,ZARIA,KAURA,GIDAN KAMBARAWA II/ OFFICE M. ANG.,18/23/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/004/004-1677366503.pdf,false
+KADUNA,ZARIA,KAURA,MAZANGUDU II/ HAGON FALALA,18/23/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/011/011-1677365218.pdf,false
+KADUNA,ZARIA,KAURA,RIMIN KAMBARI III/ K/G SALE MAIMANJA,18/23/05/027,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/027/027-1677365034.pdf,false
+KADUNA,ZARIA,KAURA,KWANKIRA VI/K/G GUMIN KAURA,18/23/05/039,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/039/039-1677364812.pdf,false
+KADUNA,ZARIA,KAURA,KWANKIRA III/ K/G TABARI,18/23/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/05/pu/014/014-1677364735.pdf,false
+KADUNA,ZARIA,KAURA,UNG. KARFE II/ K/G SANI HULAN GASHI,18/23/05/018,,false

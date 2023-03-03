@@ -1,15 +1,15 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,KAURA,,AGBAN GIDA/ PETER AGUDI,18/13/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/04/pu/003/003-1677418368.pdf,false
-KADUNA,KAURA,,AGBAN GIDA/ KOLAI NIKAF,18/13/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/04/pu/004/004-1677416231.pdf,false
-KADUNA,KAURA,,TSONJE/ KANWAI ATUNG,18/13/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/04/pu/005/005-1677415346.pdf,false
-KADUNA,KAURA,,ZUNURUK/ YARO SHEKARI,18/13/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/04/pu/009/009-1677414468.pdf,false
-KADUNA,KAURA,,GARAJE/ UNG. MAMMAN,18/13/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/04/pu/014/014-1677413725.pdf,false
-KADUNA,KAURA,,TSONJE/ YASANG,18/13/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/04/pu/006/006-1677411476.pdf,false
-KADUNA,KAURA,,UNG. AGBAN GIDA/ LA'AH DAUJI,18/13/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/04/pu/002/002-1677410791.pdf,false
-KADUNA,KAURA,,GARAJE/ LA'AH/ ATONG,18/13/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/04/pu/007/007-1677409237.pdf,false
-KADUNA,KAURA,,TSONJE/ SABON GARI,18/13/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/04/pu/010/010-1677408377.pdf,false
-KADUNA,KAURA,,GARAJE/ UNG. ATIONG II,18/13/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/04/pu/012/012-1677407292.pdf,false
-KADUNA,KAURA,,GARAJE/ UNG. ATIONG I,18/13/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/04/pu/011/011-1677406277.pdf,false
-KADUNA,KAURA,,UNG. GARKUWA/ UNG. GARRUWA,18/13/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/04/pu/001/001-1677404836.pdf,false
-KADUNA,KAURA,,GARAJE/ ADAN,18/13/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/04/pu/013/013-1677403284.pdf,false
-KADUNA,KAURA,,GARAJE/ ASHIN ABUI,18/13/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/04/pu/008/008-1677399748.pdf,false
+KADUNA,KAURA,AGBAN,AGBAN GIDA/ PETER AGUDI,18/13/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/04/pu/003/003-1677418368.pdf,false
+KADUNA,KAURA,AGBAN,AGBAN GIDA/ KOLAI NIKAF,18/13/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/04/pu/004/004-1677416231.pdf,false
+KADUNA,KAURA,AGBAN,TSONJE/ KANWAI ATUNG,18/13/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/04/pu/005/005-1677415346.pdf,false
+KADUNA,KAURA,AGBAN,ZUNURUK/ YARO SHEKARI,18/13/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/04/pu/009/009-1677414468.pdf,false
+KADUNA,KAURA,AGBAN,GARAJE/ UNG. MAMMAN,18/13/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/04/pu/014/014-1677413725.pdf,false
+KADUNA,KAURA,AGBAN,TSONJE/ YASANG,18/13/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/04/pu/006/006-1677411476.pdf,false
+KADUNA,KAURA,AGBAN,UNG. AGBAN GIDA/ LA'AH DAUJI,18/13/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/04/pu/002/002-1677410791.pdf,false
+KADUNA,KAURA,AGBAN,GARAJE/ LA'AH/ ATONG,18/13/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/04/pu/007/007-1677409237.pdf,false
+KADUNA,KAURA,AGBAN,TSONJE/ SABON GARI,18/13/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/04/pu/010/010-1677408377.pdf,false
+KADUNA,KAURA,AGBAN,GARAJE/ UNG. ATIONG II,18/13/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/04/pu/012/012-1677407292.pdf,false
+KADUNA,KAURA,AGBAN,GARAJE/ UNG. ATIONG I,18/13/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/04/pu/011/011-1677406277.pdf,false
+KADUNA,KAURA,AGBAN,UNG. GARKUWA/ UNG. GARRUWA,18/13/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/04/pu/001/001-1677404836.pdf,false
+KADUNA,KAURA,AGBAN,GARAJE/ ADAN,18/13/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/04/pu/013/013-1677403284.pdf,false
+KADUNA,KAURA,AGBAN,GARAJE/ ASHIN ABUI,18/13/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/04/pu/008/008-1677399748.pdf,false

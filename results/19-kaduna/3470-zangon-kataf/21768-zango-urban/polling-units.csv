@@ -1,17 +1,17 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,ZANGON KATAF,,UNG. MALLAMI,18/22/11/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643029/result_118451_1677595364_thumb.jpg,false
-KADUNA,ZANGON KATAF,,RIMI/ RIMI,18/22/11/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56428/result_118442_1677594485_thumb.jpg,false
-KADUNA,ZANGON KATAF,,LIBRARY/ READING ROOM,18/22/11/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56435/result_118449_1677594206_thumb.jpg,false
-KADUNA,ZANGON KATAF,,"CHAKAIKAI, CHAKAIKAI",18/22/11/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56431/result_118445_1677593962_thumb.jpg,false
-KADUNA,ZANGON KATAF,,UNG. ALKALI/ UPPER AREA COURT,18/22/11/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56424/result_118438_1677593455_thumb.jpg,false
-KADUNA,ZANGON KATAF,,UNG. DANBAKO/ UNG. FULANI,18/22/11/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56434/result_118448_1677593122_thumb.jpg,false
-KADUNA,ZANGON KATAF,,UNG. MAKERA,18/22/11/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643030/result_118452_1677592441_thumb.jpg,false
-KADUNA,ZANGON KATAF,,DISTRICT/ DISTRICT OFFICE,18/22/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21768/pu/56524/56524-1677464593.pdf,false
-KADUNA,ZANGON KATAF,,BAKIN KASUWA II/ BAKIN KASUWA,18/22/11/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21768/pu/56527/56527-1677462602.pdf,false
-KADUNA,ZANGON KATAF,,DARGOZO/ DARGOZO,18/22/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21768/pu/56523/56523-1677457117.pdf,false
-KADUNA,ZANGON KATAF,,UNG. LIMAN GOMA/ UNG. LIMAN GOMA,18/22/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21768/pu/56520/56520-1677455785.pdf,false
-KADUNA,ZANGON KATAF,,BAKIN RAFI/ L.E.A PRI. SCH.,18/22/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21768/pu/56521/56521-1677454456.pdf,false
-KADUNA,ZANGON KATAF,,RIMIN DUNA/ RIMIN DUNA,18/22/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/11/pu/005/005-1677428636.pdf,false
-KADUNA,ZANGON KATAF,,UNG. TUDU/ UNG. TUDU,18/22/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/11/pu/004/004-1677427171.pdf,false
-KADUNA,ZANGON KATAF,,BAKIN KASUWA I/ BAKIN KASUWA,18/22/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/11/pu/003/003-1677425566.pdf,false
-KADUNA,ZANGON KATAF,,FADA/ FADA,18/22/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/11/pu/001/001-1677414971.pdf,false
+KADUNA,ZANGON KATAF,ZANGO URBAN,UNG. MALLAMI,18/22/11/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643029/result_118451_1677595364_thumb.jpg,false
+KADUNA,ZANGON KATAF,ZANGO URBAN,RIMI/ RIMI,18/22/11/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56428/result_118442_1677594485_thumb.jpg,false
+KADUNA,ZANGON KATAF,ZANGO URBAN,LIBRARY/ READING ROOM,18/22/11/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56435/result_118449_1677594206_thumb.jpg,false
+KADUNA,ZANGON KATAF,ZANGO URBAN,"CHAKAIKAI, CHAKAIKAI",18/22/11/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56431/result_118445_1677593962_thumb.jpg,false
+KADUNA,ZANGON KATAF,ZANGO URBAN,UNG. ALKALI/ UPPER AREA COURT,18/22/11/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56424/result_118438_1677593455_thumb.jpg,false
+KADUNA,ZANGON KATAF,ZANGO URBAN,UNG. DANBAKO/ UNG. FULANI,18/22/11/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/56434/result_118448_1677593122_thumb.jpg,false
+KADUNA,ZANGON KATAF,ZANGO URBAN,UNG. MAKERA,18/22/11/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/643030/result_118452_1677592441_thumb.jpg,false
+KADUNA,ZANGON KATAF,ZANGO URBAN,DISTRICT/ DISTRICT OFFICE,18/22/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21768/pu/56524/56524-1677464593.pdf,false
+KADUNA,ZANGON KATAF,ZANGO URBAN,BAKIN KASUWA II/ BAKIN KASUWA,18/22/11/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21768/pu/56527/56527-1677462602.pdf,false
+KADUNA,ZANGON KATAF,ZANGO URBAN,DARGOZO/ DARGOZO,18/22/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21768/pu/56523/56523-1677457117.pdf,false
+KADUNA,ZANGON KATAF,ZANGO URBAN,UNG. LIMAN GOMA/ UNG. LIMAN GOMA,18/22/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21768/pu/56520/56520-1677455785.pdf,false
+KADUNA,ZANGON KATAF,ZANGO URBAN,BAKIN RAFI/ L.E.A PRI. SCH.,18/22/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3470/ward/21768/pu/56521/56521-1677454456.pdf,false
+KADUNA,ZANGON KATAF,ZANGO URBAN,RIMIN DUNA/ RIMIN DUNA,18/22/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/11/pu/005/005-1677428636.pdf,false
+KADUNA,ZANGON KATAF,ZANGO URBAN,UNG. TUDU/ UNG. TUDU,18/22/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/11/pu/004/004-1677427171.pdf,false
+KADUNA,ZANGON KATAF,ZANGO URBAN,BAKIN KASUWA I/ BAKIN KASUWA,18/22/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/11/pu/003/003-1677425566.pdf,false
+KADUNA,ZANGON KATAF,ZANGO URBAN,FADA/ FADA,18/22/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/22/ward/11/pu/001/001-1677414971.pdf,false

@@ -1,16 +1,16 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,KAURA,,KUKUM DAJI/ UNG. KUHIYEP BIDAM II,18/13/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54513/result_115650_1677521104_thumb.jpg,false
-KADUNA,KAURA,,KUKUM DAJI/ ABA KAJANG,18/13/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54514/result_115651_1677519889_thumb.jpg,true
-KADUNA,KAURA,,KUKUM DAJI/ UNG. AJIYAT,18/13/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/012/012-1677406117.pdf,false
-KADUNA,KAURA,,ZAKWA/ SALE,18/13/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/010/010-1677406068.pdf,false
-KADUNA,KAURA,,KUKUM GIDA/ MADAKI ABA,18/13/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/007/007-1677391945.pdf,false
-KADUNA,KAURA,,KUKUM GIDA/ UNG. SALIYUK,18/13/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/014/014-1677390449.pdf,false
-KADUNA,KAURA,,KUKUM GIDA/ BATC,18/13/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/015/015-1677387559.pdf,false
-KADUNA,KAURA,,KUKUM DAJI/GWANZANG,18/13/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/011/011-1677386969.pdf,false
-KADUNA,KAURA,,KUKUM DAJI/ UNG. KUHIYEP BIDAM I,18/13/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/001/001-1677386922.pdf,false
-KADUNA,KAURA,,ZAKWA/ BODAM AMAI II,18/13/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/009/009-1677386396.pdf,false
-KADUNA,KAURA,,ZAKWA/UNG DUBA GARI,18/13/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/013/013-1677386076.pdf,false
-KADUNA,KAURA,,KUKUM GIDA/ ABA ALLA,18/13/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/005/005-1677382666.pdf,false
-KADUNA,KAURA,,ZAKWA/ BODAM AMAI I,18/13/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/008/008-1677382527.pdf,false
-KADUNA,KAURA,,KUKUM GIDA/ YAYA GWAYIT,18/13/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/004/004-1677382499.pdf,false
-KADUNA,KAURA,,KUKUM GIDA/ YAKYANG,18/13/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/006/006-1677382492.pdf,false
+KADUNA,KAURA,KUKUM,KUKUM DAJI/ UNG. KUHIYEP BIDAM II,18/13/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54513/result_115650_1677521104_thumb.jpg,false
+KADUNA,KAURA,KUKUM,KUKUM DAJI/ ABA KAJANG,18/13/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54514/result_115651_1677519889_thumb.jpg,true
+KADUNA,KAURA,KUKUM,KUKUM DAJI/ UNG. AJIYAT,18/13/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/012/012-1677406117.pdf,false
+KADUNA,KAURA,KUKUM,ZAKWA/ SALE,18/13/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/010/010-1677406068.pdf,false
+KADUNA,KAURA,KUKUM,KUKUM GIDA/ MADAKI ABA,18/13/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/007/007-1677391945.pdf,false
+KADUNA,KAURA,KUKUM,KUKUM GIDA/ UNG. SALIYUK,18/13/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/014/014-1677390449.pdf,false
+KADUNA,KAURA,KUKUM,KUKUM GIDA/ BATC,18/13/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/015/015-1677387559.pdf,false
+KADUNA,KAURA,KUKUM,KUKUM DAJI/GWANZANG,18/13/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/011/011-1677386969.pdf,false
+KADUNA,KAURA,KUKUM,KUKUM DAJI/ UNG. KUHIYEP BIDAM I,18/13/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/001/001-1677386922.pdf,false
+KADUNA,KAURA,KUKUM,ZAKWA/ BODAM AMAI II,18/13/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/009/009-1677386396.pdf,false
+KADUNA,KAURA,KUKUM,ZAKWA/UNG DUBA GARI,18/13/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/013/013-1677386076.pdf,false
+KADUNA,KAURA,KUKUM,KUKUM GIDA/ ABA ALLA,18/13/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/005/005-1677382666.pdf,false
+KADUNA,KAURA,KUKUM,ZAKWA/ BODAM AMAI I,18/13/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/008/008-1677382527.pdf,false
+KADUNA,KAURA,KUKUM,KUKUM GIDA/ YAYA GWAYIT,18/13/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/004/004-1677382499.pdf,false
+KADUNA,KAURA,KUKUM,KUKUM GIDA/ YAKYANG,18/13/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/02/pu/006/006-1677382492.pdf,false

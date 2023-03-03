@@ -1,16 +1,16 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,SANGA,,UNG MUSULMI II,18/20/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21744/pu/147665/147665-1677621954.pdf,false
-KADUNA,SANGA,,KAJAR II,18/20/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21744/pu/147663/147663-1677620839.pdf,false
-KADUNA,SANGA,,UNG HAUSAWA II,18/20/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21744/pu/56068/56068-1677607805.pdf,true
-KADUNA,SANGA,,PANTINYA,18/20/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21744/pu/56062/56062-1677604223.pdf,false
-KADUNA,SANGA,,WURRO ANDAHA,18/20/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21744/pu/56061/56061-1677470085.pdf,false
-KADUNA,SANGA,,UNG JIRGI,18/20/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21744/pu/56065/56065-1677466629.pdf,false
-KADUNA,SANGA,,UNG HAUSAWA I,18/20/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21744/pu/56064/56064-1677466056.pdf,false
-KADUNA,SANGA,,WASA STATION,18/20/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21744/pu/56067/56067-1677465158.pdf,false
-KADUNA,SANGA,,KWAKWASA,18/20/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21744/pu/56063/56063-1677464567.pdf,false
-KADUNA,SANGA,,UNG NINZAM,18/20/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21744/pu/147664/147664-1677463844.pdf,false
-KADUNA,SANGA,,UNG DODO MADA,18/20/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21744/pu/147666/147666-1677463284.pdf,false
-KADUNA,SANGA,,ANJI,18/20/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21744/pu/56059/56059-1677462946.pdf,false
-KADUNA,SANGA,,KAJAR,18/20/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21744/pu/56060/56060-1677462421.pdf,false
-KADUNA,SANGA,,RINZE UNG HAUSAWA,18/20/09/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21744/pu/147667/147667-1677461669.pdf,false
-KADUNA,SANGA,,UNG MUSULUMI,18/20/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21744/pu/56066/56066-1677460864.pdf,false
+KADUNA,SANGA,WASA STATION,UNG MUSULMI II,18/20/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21744/pu/147665/147665-1677621954.pdf,false
+KADUNA,SANGA,WASA STATION,KAJAR II,18/20/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21744/pu/147663/147663-1677620839.pdf,false
+KADUNA,SANGA,WASA STATION,UNG HAUSAWA II,18/20/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21744/pu/56068/56068-1677607805.pdf,true
+KADUNA,SANGA,WASA STATION,PANTINYA,18/20/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21744/pu/56062/56062-1677604223.pdf,false
+KADUNA,SANGA,WASA STATION,WURRO ANDAHA,18/20/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21744/pu/56061/56061-1677470085.pdf,false
+KADUNA,SANGA,WASA STATION,UNG JIRGI,18/20/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21744/pu/56065/56065-1677466629.pdf,false
+KADUNA,SANGA,WASA STATION,UNG HAUSAWA I,18/20/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21744/pu/56064/56064-1677466056.pdf,false
+KADUNA,SANGA,WASA STATION,WASA STATION,18/20/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21744/pu/56067/56067-1677465158.pdf,false
+KADUNA,SANGA,WASA STATION,KWAKWASA,18/20/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21744/pu/56063/56063-1677464567.pdf,false
+KADUNA,SANGA,WASA STATION,UNG NINZAM,18/20/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21744/pu/147664/147664-1677463844.pdf,false
+KADUNA,SANGA,WASA STATION,UNG DODO MADA,18/20/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21744/pu/147666/147666-1677463284.pdf,false
+KADUNA,SANGA,WASA STATION,ANJI,18/20/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21744/pu/56059/56059-1677462946.pdf,false
+KADUNA,SANGA,WASA STATION,KAJAR,18/20/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21744/pu/56060/56060-1677462421.pdf,false
+KADUNA,SANGA,WASA STATION,RINZE UNG HAUSAWA,18/20/09/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21744/pu/147667/147667-1677461669.pdf,false
+KADUNA,SANGA,WASA STATION,UNG MUSULUMI,18/20/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3468/ward/21744/pu/56066/56066-1677460864.pdf,false

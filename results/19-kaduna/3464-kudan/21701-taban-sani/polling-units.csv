@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,KUDAN,,UNG. GARBA/ KGM GARBA,18/16/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/010/010-1677420318.pdf,false
-KADUNA,KUDAN,,MAHUTA GARI I/ PRI. SCH. MAHUTA,18/16/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/006/006-1677418571.pdf,false
-KADUNA,KUDAN,,KADA KADA II/ KGM KADA KADA,18/16/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/005/005-1677418148.pdf,false
-KADUNA,KUDAN,,UNG. HAKIMI / OLD PHC TABA,18/16/08/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/018/018-1677417838.pdf,false
-KADUNA,KUDAN,,MAHUTA GARI II/ PRI. SCH. MAHUTA,18/16/08/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/015/015-1677416929.pdf,false
-KADUNA,KUDAN,,UNG. SARKI/ PRI. SCH. T/SANI,18/16/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/007/007-1677416887.pdf,false
-KADUNA,KUDAN,,DANTARO/ KGM DANTORO,18/16/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/009/009-1677416316.pdf,false
-KADUNA,KUDAN,,UNG. MAKERA/ KGM MAKERA,18/16/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/011/011-1677415248.pdf,false
-KADUNA,KUDAN,,UNG. GALADIMA/ KGM GALADIMA,18/16/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/008/008-1677412701.pdf,false
-KADUNA,KUDAN,,UNG. SARKI II/ L.E.A. PRI. SCH.,18/16/08/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/017/017-1677411629.pdf,false
-KADUNA,KUDAN,,UNG. MASASSAKA/ KGM MASASSAKA,18/16/08/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/013/013-1677410652.pdf,false
-KADUNA,KUDAN,,UNG. DANKALA/ KGM DANKALA,18/16/08/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/014/014-1677409605.pdf,false
-KADUNA,KUDAN,,UNG. NOMAU/ KGM NOMAU,18/16/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/004/004-1677409038.pdf,false
-KADUNA,KUDAN,,KADA - KADA I/ PRI. SCH. K/KADA,18/16/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/003/003-1677407133.pdf,false
-KADUNA,KUDAN,,UNG. GUDUGU/ KGM GUDUGU,18/16/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/012/012-1677403058.pdf,false
-KADUNA,KUDAN,,UNG. SHARU/ KGM SHARU,18/16/08/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/016/016-1677401753.pdf,false
-KADUNA,KUDAN,,LIKORO TASHA/ KGM L/TASHA,18/16/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/002/002-1677397830.pdf,false
-KADUNA,KUDAN,,BAGADDI MUDI/ KGM BAGADDI,18/16/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/001/001-1677396696.pdf,false
+KADUNA,KUDAN,TABAN SANI,UNG. GARBA/ KGM GARBA,18/16/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/010/010-1677420318.pdf,false
+KADUNA,KUDAN,TABAN SANI,MAHUTA GARI I/ PRI. SCH. MAHUTA,18/16/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/006/006-1677418571.pdf,false
+KADUNA,KUDAN,TABAN SANI,KADA KADA II/ KGM KADA KADA,18/16/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/005/005-1677418148.pdf,false
+KADUNA,KUDAN,TABAN SANI,UNG. HAKIMI / OLD PHC TABA,18/16/08/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/018/018-1677417838.pdf,false
+KADUNA,KUDAN,TABAN SANI,MAHUTA GARI II/ PRI. SCH. MAHUTA,18/16/08/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/015/015-1677416929.pdf,false
+KADUNA,KUDAN,TABAN SANI,UNG. SARKI/ PRI. SCH. T/SANI,18/16/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/007/007-1677416887.pdf,false
+KADUNA,KUDAN,TABAN SANI,DANTARO/ KGM DANTORO,18/16/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/009/009-1677416316.pdf,false
+KADUNA,KUDAN,TABAN SANI,UNG. MAKERA/ KGM MAKERA,18/16/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/011/011-1677415248.pdf,false
+KADUNA,KUDAN,TABAN SANI,UNG. GALADIMA/ KGM GALADIMA,18/16/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/008/008-1677412701.pdf,false
+KADUNA,KUDAN,TABAN SANI,UNG. SARKI II/ L.E.A. PRI. SCH.,18/16/08/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/017/017-1677411629.pdf,false
+KADUNA,KUDAN,TABAN SANI,UNG. MASASSAKA/ KGM MASASSAKA,18/16/08/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/013/013-1677410652.pdf,false
+KADUNA,KUDAN,TABAN SANI,UNG. DANKALA/ KGM DANKALA,18/16/08/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/014/014-1677409605.pdf,false
+KADUNA,KUDAN,TABAN SANI,UNG. NOMAU/ KGM NOMAU,18/16/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/004/004-1677409038.pdf,false
+KADUNA,KUDAN,TABAN SANI,KADA - KADA I/ PRI. SCH. K/KADA,18/16/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/003/003-1677407133.pdf,false
+KADUNA,KUDAN,TABAN SANI,UNG. GUDUGU/ KGM GUDUGU,18/16/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/012/012-1677403058.pdf,false
+KADUNA,KUDAN,TABAN SANI,UNG. SHARU/ KGM SHARU,18/16/08/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/016/016-1677401753.pdf,false
+KADUNA,KUDAN,TABAN SANI,LIKORO TASHA/ KGM L/TASHA,18/16/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/002/002-1677397830.pdf,false
+KADUNA,KUDAN,TABAN SANI,BAGADDI MUDI/ KGM BAGADDI,18/16/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/08/pu/001/001-1677396696.pdf,false

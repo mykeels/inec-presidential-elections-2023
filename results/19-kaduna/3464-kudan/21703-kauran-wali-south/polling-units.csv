@@ -1,11 +1,11 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,KUDAN,,UNG. DANJUMA/ KGM DANJUMA,18/16/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55192/result_116550_1677581587_thumb.jpg,false
-KADUNA,KUDAN,,UNG. SADAU I/ KGM SADAU,18/16/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/10/pu/003/003-1677426317.pdf,false
-KADUNA,KUDAN,,UNG. DANGASHI/ PRI. SCH.,18/16/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/10/pu/002/002-1677421537.pdf,false
-KADUNA,KUDAN,,UNG. SADAU II/ K/M SADAU,18/16/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/10/pu/009/009-1677418517.pdf,false
-KADUNA,KUDAN,,UNG. DANDABO/ KGM DANDABO,18/16/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/10/pu/004/004-1677417985.pdf,false
-KADUNA,KUDAN,,UNG. BAWA/ KGM BAWA,18/16/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/10/pu/006/006-1677417278.pdf,false
-KADUNA,KUDAN,,UNG. PAWA/ KGM PAWA,18/16/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/10/pu/005/005-1677415971.pdf,false
-KADUNA,KUDAN,,UNG. BAKOSHI/ KGM BAKOSHI,18/16/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/10/pu/008/008-1677415427.pdf,false
-KADUNA,KUDAN,,TASHAN MUSA / UBE PRI. SCH. T/MUSA,18/16/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/10/pu/010/010-1677414193.pdf,false
-KADUNA,KUDAN,,UNG. KAROFI/ KGM KAROFI,18/16/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/10/pu/007/007-1677413434.pdf,false
+KADUNA,KUDAN,KAURAN WALI SOUTH,UNG. DANJUMA/ KGM DANJUMA,18/16/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55192/result_116550_1677581587_thumb.jpg,false
+KADUNA,KUDAN,KAURAN WALI SOUTH,UNG. SADAU I/ KGM SADAU,18/16/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/10/pu/003/003-1677426317.pdf,false
+KADUNA,KUDAN,KAURAN WALI SOUTH,UNG. DANGASHI/ PRI. SCH.,18/16/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/10/pu/002/002-1677421537.pdf,false
+KADUNA,KUDAN,KAURAN WALI SOUTH,UNG. SADAU II/ K/M SADAU,18/16/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/10/pu/009/009-1677418517.pdf,false
+KADUNA,KUDAN,KAURAN WALI SOUTH,UNG. DANDABO/ KGM DANDABO,18/16/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/10/pu/004/004-1677417985.pdf,false
+KADUNA,KUDAN,KAURAN WALI SOUTH,UNG. BAWA/ KGM BAWA,18/16/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/10/pu/006/006-1677417278.pdf,false
+KADUNA,KUDAN,KAURAN WALI SOUTH,UNG. PAWA/ KGM PAWA,18/16/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/10/pu/005/005-1677415971.pdf,false
+KADUNA,KUDAN,KAURAN WALI SOUTH,UNG. BAKOSHI/ KGM BAKOSHI,18/16/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/10/pu/008/008-1677415427.pdf,false
+KADUNA,KUDAN,KAURAN WALI SOUTH,TASHAN MUSA / UBE PRI. SCH. T/MUSA,18/16/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/10/pu/010/010-1677414193.pdf,false
+KADUNA,KUDAN,KAURAN WALI SOUTH,UNG. KAROFI/ KGM KAROFI,18/16/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/10/pu/007/007-1677413434.pdf,false

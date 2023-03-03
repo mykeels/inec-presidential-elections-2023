@@ -1,23 +1,23 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-KADUNA,KUBAU,,NASARU DISPENSARY GADA,18/15/06/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3463/ward/21688/pu/147138/147138-1677760708.pdf,false
-KADUNA,KUBAU,,KARREH UNG. SARKI/ PRI.SCH.,18/15/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3463/ward/21688/pu/55015/55015-1677657074.pdf,true
-KADUNA,KUBAU,,KARREH NORTH/ K/G UNGUWA,18/15/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3463/ward/21688/pu/55014/55014-1677656962.pdf,true
-KADUNA,KUBAU,,UNG. MATO JANBULO SUTO,18/15/06/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642440/result_116210_1677626893_thumb.jpg,false
-KADUNA,KUBAU,,UBE PRI SCH. KADAWAN AMAWA,18/15/06/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642438/result_116208_1677626815_thumb.jpg,false
-KADUNA,KUBAU,,UBE PRI. SCHOOL KODORO,18/15/06/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642437/result_116207_1677626748_thumb.jpg,false
-KADUNA,KUBAU,,UBE PRI. SCH. TUDUN GAIYA,18/15/06/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642436/result_116206_1677626678_thumb.jpg,false
-KADUNA,KUBAU,,KAMFANIN JIDDA/ K/G UNGUWA,18/15/06/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54939/result_116205_1677626588_thumb.jpg,false
-KADUNA,KUBAU,,UNG. S. BAKA/ K/G UNGUWA,18/15/06/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54938/result_116204_1677626516_thumb.jpg,false
-KADUNA,KUBAU,,UNG. MATO/ K/G UNGUWA,18/15/06/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54937/result_116203_1677626439_thumb.jpg,false
-KADUNA,KUBAU,,DANLADI II/ PRI. SCH.,18/15/06/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54936/result_116202_1677626355_thumb.jpg,false
-KADUNA,KUBAU,,DANLADI I/ PRI. SCH.,18/15/06/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54935/result_116201_1677626279_thumb.jpg,false
-KADUNA,KUBAU,,NASARU II/ PRI. SCH.,18/15/06/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54934/result_116200_1677626211_thumb.jpg,false
-KADUNA,KUBAU,,NASARU I/ PRI. SCH.,18/15/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54933/result_116199_1677626122_thumb.jpg,false
-KADUNA,KUBAU,,HAYIN DOGO/ PRI. SCH.,18/15/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54932/result_116198_1677626050_thumb.jpg,false
-KADUNA,KUBAU,,RAFIN DODO/ K/G UNGUWA,18/15/06/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-KADUNA,KUBAU,,KADAWA/ K/G UNGUWA,18/15/06/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54930/result_116196_1677625886_thumb.jpg,false
-KADUNA,KUBAU,,MATANGI/ PRI.SCH.,18/15/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54929/result_116195_1677625816_thumb.jpg,false
-KADUNA,KUBAU,,MAIKALANGU/ K/G UNGUWA,18/15/06/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-KADUNA,KUBAU,,GAJA GAJA II/ K/G UNGUWA,18/15/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54927/result_116193_1677625667_thumb.jpg,false
-KADUNA,KUBAU,,GAJA GAJA I/ K/G UNGUWA,18/15/06/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54926/result_116192_1677625568_thumb.jpg,false
-KADUNA,KUBAU,,KARREH SOUTH/ PRI. SCH.,18/15/06/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54925/result_116191_1677625441_thumb.jpg,false
+KADUNA,KUBAU,KARREH,NASARU DISPENSARY GADA,18/15/06/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3463/ward/21688/pu/147138/147138-1677760708.pdf,false
+KADUNA,KUBAU,KARREH,KARREH UNG. SARKI/ PRI.SCH.,18/15/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3463/ward/21688/pu/55015/55015-1677657074.pdf,true
+KADUNA,KUBAU,KARREH,KARREH NORTH/ K/G UNGUWA,18/15/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3463/ward/21688/pu/55014/55014-1677656962.pdf,true
+KADUNA,KUBAU,KARREH,UNG. MATO JANBULO SUTO,18/15/06/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642440/result_116210_1677626893_thumb.jpg,false
+KADUNA,KUBAU,KARREH,UBE PRI SCH. KADAWAN AMAWA,18/15/06/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642438/result_116208_1677626815_thumb.jpg,false
+KADUNA,KUBAU,KARREH,UBE PRI. SCHOOL KODORO,18/15/06/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642437/result_116207_1677626748_thumb.jpg,false
+KADUNA,KUBAU,KARREH,UBE PRI. SCH. TUDUN GAIYA,18/15/06/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/642436/result_116206_1677626678_thumb.jpg,false
+KADUNA,KUBAU,KARREH,KAMFANIN JIDDA/ K/G UNGUWA,18/15/06/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54939/result_116205_1677626588_thumb.jpg,false
+KADUNA,KUBAU,KARREH,UNG. S. BAKA/ K/G UNGUWA,18/15/06/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54938/result_116204_1677626516_thumb.jpg,false
+KADUNA,KUBAU,KARREH,UNG. MATO/ K/G UNGUWA,18/15/06/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54937/result_116203_1677626439_thumb.jpg,false
+KADUNA,KUBAU,KARREH,DANLADI II/ PRI. SCH.,18/15/06/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54936/result_116202_1677626355_thumb.jpg,false
+KADUNA,KUBAU,KARREH,DANLADI I/ PRI. SCH.,18/15/06/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54935/result_116201_1677626279_thumb.jpg,false
+KADUNA,KUBAU,KARREH,NASARU II/ PRI. SCH.,18/15/06/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54934/result_116200_1677626211_thumb.jpg,false
+KADUNA,KUBAU,KARREH,NASARU I/ PRI. SCH.,18/15/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54933/result_116199_1677626122_thumb.jpg,false
+KADUNA,KUBAU,KARREH,HAYIN DOGO/ PRI. SCH.,18/15/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54932/result_116198_1677626050_thumb.jpg,false
+KADUNA,KUBAU,KARREH,RAFIN DODO/ K/G UNGUWA,18/15/06/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,KUBAU,KARREH,KADAWA/ K/G UNGUWA,18/15/06/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54930/result_116196_1677625886_thumb.jpg,false
+KADUNA,KUBAU,KARREH,MATANGI/ PRI.SCH.,18/15/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54929/result_116195_1677625816_thumb.jpg,false
+KADUNA,KUBAU,KARREH,MAIKALANGU/ K/G UNGUWA,18/15/06/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+KADUNA,KUBAU,KARREH,GAJA GAJA II/ K/G UNGUWA,18/15/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54927/result_116193_1677625667_thumb.jpg,false
+KADUNA,KUBAU,KARREH,GAJA GAJA I/ K/G UNGUWA,18/15/06/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54926/result_116192_1677625568_thumb.jpg,false
+KADUNA,KUBAU,KARREH,KARREH SOUTH/ PRI. SCH.,18/15/06/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/54925/result_116191_1677625441_thumb.jpg,false
