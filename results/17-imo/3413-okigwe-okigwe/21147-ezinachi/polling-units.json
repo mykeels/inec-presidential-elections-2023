@@ -26,6 +26,7 @@
     "pu_code_string": "161906011",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "EZINACHI",
     "document": {
       "external": true,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "161906010",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "EZINACHI",
     "document": {
       "external": true,
       "status": 1,
@@ -111,6 +113,7 @@
     "pu_code_string": "161906009",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "EZINACHI",
     "document": {
       "external": true,
       "status": 1,
@@ -149,6 +152,7 @@
     "pu_code_string": "161906002",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "EZINACHI",
     "document": {
       "external": true,
       "status": 1,
@@ -187,6 +191,7 @@
     "pu_code_string": "161906004",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "EZINACHI",
     "document": {
       "external": true,
       "status": 1,
@@ -225,6 +230,7 @@
     "pu_code_string": "161906001",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "EZINACHI",
     "document": {
       "external": true,
       "status": 1,
@@ -263,6 +269,7 @@
     "pu_code_string": "161906007",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "EZINACHI",
     "document": {
       "external": true,
       "status": 1,
@@ -301,6 +308,7 @@
     "pu_code_string": "161906006",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "EZINACHI",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -331,6 +339,7 @@
     "pu_code_string": "161906005",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "EZINACHI",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -361,6 +370,7 @@
     "pu_code_string": "161906003",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "EZINACHI",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -391,6 +401,7 @@
     "pu_code_string": "161906008",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "EZINACHI",
     "old_documents": [],
     "has_old_documents": false
   }

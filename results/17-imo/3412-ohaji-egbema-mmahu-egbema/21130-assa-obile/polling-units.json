@@ -26,6 +26,7 @@
     "pu_code_string": "161801005",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "ASSA/OBILE",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "161801008",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "ASSA/OBILE",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "161801003",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "ASSA/OBILE",
     "document": {
       "external": false,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "161801004",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "ASSA/OBILE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -170,6 +174,7 @@
     "pu_code_string": "161801009",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "ASSA/OBILE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -200,6 +205,7 @@
     "pu_code_string": "161801014",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "ASSA/OBILE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -230,6 +236,7 @@
     "pu_code_string": "161801001",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "ASSA/OBILE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -260,6 +267,7 @@
     "pu_code_string": "161801006",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "ASSA/OBILE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -290,6 +298,7 @@
     "pu_code_string": "161801002",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "ASSA/OBILE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -320,6 +329,7 @@
     "pu_code_string": "161801011",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "ASSA/OBILE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -350,6 +360,7 @@
     "pu_code_string": "161801007",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "ASSA/OBILE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -380,6 +391,7 @@
     "pu_code_string": "161801016",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "ASSA/OBILE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -410,6 +422,7 @@
     "pu_code_string": "161801013",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "ASSA/OBILE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -440,6 +453,7 @@
     "pu_code_string": "161801012",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "ASSA/OBILE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -470,6 +484,7 @@
     "pu_code_string": "161801010",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "ASSA/OBILE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -500,6 +515,7 @@
     "pu_code_string": "161801015",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "ASSA/OBILE",
     "old_documents": [],
     "has_old_documents": false
   }

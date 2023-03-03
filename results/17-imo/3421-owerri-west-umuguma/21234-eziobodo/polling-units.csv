@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-IMO,OWERRI WEST (UMUGUMA),,COMM GEN HOSP UMUEZEALA EZIOBODO,16/27/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/011/011-1677424129.pdf,false
-IMO,OWERRI WEST (UMUGUMA),,OBI UMUAKURU EZIOBODO,16/27/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/012/012-1677422712.pdf,false
-IMO,OWERRI WEST (UMUGUMA),,COMM. SCHOOL UMUAYO,16/27/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/003/003-1677367891.pdf,false
-IMO,OWERRI WEST (UMUGUMA),,UMUAKUNIHU SQ NEAR ST. MARY CATHOLIC CHURCH,16/27/05/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/015/015-1677367442.pdf,false
-IMO,OWERRI WEST (UMUGUMA),,OKPURUOKPU SQUARE,16/27/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/004/004-1677365064.pdf,false
-IMO,OWERRI WEST (UMUGUMA),,OGBAKORO UMUKOCHIE EZIOBODO,16/27/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/013/013-1677404159.pdf,false
-IMO,OWERRI WEST (UMUGUMA),,CENTRAL SCHOOL EZIOBODO II,16/27/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/007/007-1677372189.pdf,false
-IMO,OWERRI WEST (UMUGUMA),,UMUECHEM VILLAGE SQUARE,16/27/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/005/005-1677369295.pdf,false
-IMO,OWERRI WEST (UMUGUMA),,ORIE EZIOBODO,16/27/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/006/006-1677368560.pdf,false
-IMO,OWERRI WEST (UMUGUMA),,MGBABA UDARA UMUAYO,16/27/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/010/010-1677368071.pdf,false
-IMO,OWERRI WEST (UMUGUMA),,UMUAYO VILLAGE SQUARE,16/27/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/002/002-1677367715.pdf,false
-IMO,OWERRI WEST (UMUGUMA),,SALVATION MINISTRY JUNCTION UMUAYO,16/27/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/009/009-1677366896.pdf,false
-IMO,OWERRI WEST (UMUGUMA),,UMUOBOMIKA SQ EZIOBODO,16/27/05/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/017/017-1677362901.pdf,false
-IMO,OWERRI WEST (UMUGUMA),,UMUDAGU SQ. EZIOBODO,16/27/05/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/018/018-1677362413.pdf,false
-IMO,OWERRI WEST (UMUGUMA),,UMUNWACHI SQ EZIOKELE EZIOBODO,16/27/05/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/016/016-1677362409.pdf,false
-IMO,OWERRI WEST (UMUGUMA),,CENTRAL SCHOOL EZIOBODO I,16/27/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/001/001-1677362221.pdf,false
-IMO,OWERRI WEST (UMUGUMA),,CENTRAL SCHOOL EZIOBODO III,16/27/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/008/008-1677362168.pdf,false
-IMO,OWERRI WEST (UMUGUMA),,ORUALA JUNCTION EZIOBODO,16/27/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/014/014-1677360716.pdf,false
+IMO,OWERRI WEST (UMUGUMA),EZIOBODO,COMM GEN HOSP UMUEZEALA EZIOBODO,16/27/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/011/011-1677424129.pdf,false
+IMO,OWERRI WEST (UMUGUMA),EZIOBODO,OBI UMUAKURU EZIOBODO,16/27/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/012/012-1677422712.pdf,false
+IMO,OWERRI WEST (UMUGUMA),EZIOBODO,COMM. SCHOOL UMUAYO,16/27/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/003/003-1677367891.pdf,false
+IMO,OWERRI WEST (UMUGUMA),EZIOBODO,UMUAKUNIHU SQ NEAR ST. MARY CATHOLIC CHURCH,16/27/05/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/015/015-1677367442.pdf,false
+IMO,OWERRI WEST (UMUGUMA),EZIOBODO,OKPURUOKPU SQUARE,16/27/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/004/004-1677365064.pdf,false
+IMO,OWERRI WEST (UMUGUMA),EZIOBODO,OGBAKORO UMUKOCHIE EZIOBODO,16/27/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/013/013-1677404159.pdf,false
+IMO,OWERRI WEST (UMUGUMA),EZIOBODO,CENTRAL SCHOOL EZIOBODO II,16/27/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/007/007-1677372189.pdf,false
+IMO,OWERRI WEST (UMUGUMA),EZIOBODO,UMUECHEM VILLAGE SQUARE,16/27/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/005/005-1677369295.pdf,false
+IMO,OWERRI WEST (UMUGUMA),EZIOBODO,ORIE EZIOBODO,16/27/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/006/006-1677368560.pdf,false
+IMO,OWERRI WEST (UMUGUMA),EZIOBODO,MGBABA UDARA UMUAYO,16/27/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/010/010-1677368071.pdf,false
+IMO,OWERRI WEST (UMUGUMA),EZIOBODO,UMUAYO VILLAGE SQUARE,16/27/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/002/002-1677367715.pdf,false
+IMO,OWERRI WEST (UMUGUMA),EZIOBODO,SALVATION MINISTRY JUNCTION UMUAYO,16/27/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/009/009-1677366896.pdf,false
+IMO,OWERRI WEST (UMUGUMA),EZIOBODO,UMUOBOMIKA SQ EZIOBODO,16/27/05/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/017/017-1677362901.pdf,false
+IMO,OWERRI WEST (UMUGUMA),EZIOBODO,UMUDAGU SQ. EZIOBODO,16/27/05/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/018/018-1677362413.pdf,false
+IMO,OWERRI WEST (UMUGUMA),EZIOBODO,UMUNWACHI SQ EZIOKELE EZIOBODO,16/27/05/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/016/016-1677362409.pdf,false
+IMO,OWERRI WEST (UMUGUMA),EZIOBODO,CENTRAL SCHOOL EZIOBODO I,16/27/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/001/001-1677362221.pdf,false
+IMO,OWERRI WEST (UMUGUMA),EZIOBODO,CENTRAL SCHOOL EZIOBODO III,16/27/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/008/008-1677362168.pdf,false
+IMO,OWERRI WEST (UMUGUMA),EZIOBODO,ORUALA JUNCTION EZIOBODO,16/27/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/27/ward/05/pu/014/014-1677360716.pdf,false

@@ -1,16 +1,16 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-IMO,NWANGELE (ONU-NWANGELE AMAIGBO),,OKWENAFA HALL,16/15/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21107/pu/46706/46706-1677593151.pdf,true
-IMO,NWANGELE (ONU-NWANGELE AMAIGBO),,UMUOMA HALL,16/15/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21107/pu/143574/143574-1677592695.pdf,true
-IMO,NWANGELE (ONU-NWANGELE AMAIGBO),,COMM. SCHOOL UMUARISI,16/15/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21107/pu/46716/46716-1677592510.pdf,true
-IMO,NWANGELE (ONU-NWANGELE AMAIGBO),,UMUDURUARO HALL I,16/15/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21107/pu/46705/46705-1677592095.pdf,true
-IMO,NWANGELE (ONU-NWANGELE AMAIGBO),,UMUDURU HALL,16/15/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21107/pu/46713/46713-1677591553.pdf,false
-IMO,NWANGELE (ONU-NWANGELE AMAIGBO),,CENTRAL SCHOOL ABAJAH,16/15/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21107/pu/46715/46715-1677528381.pdf,false
-IMO,NWANGELE (ONU-NWANGELE AMAIGBO),,UMUDIM HALL,16/15/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21107/pu/46710/46710-1677527582.pdf,false
-IMO,NWANGELE (ONU-NWANGELE AMAIGBO),,UMUOZUO HALL,16/15/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21107/pu/46707/46707-1677526950.pdf,false
-IMO,NWANGELE (ONU-NWANGELE AMAIGBO),,COMM. SCH. UMUDIAGBA,16/15/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21107/pu/46708/46708-1677526081.pdf,false
-IMO,NWANGELE (ONU-NWANGELE AMAIGBO),,UMUISHII,16/15/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21107/pu/46711/46711-1677525515.pdf,false
-IMO,NWANGELE (ONU-NWANGELE AMAIGBO),,UMUDURUARO HALL II,16/15/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21107/pu/46717/46717-1677524567.pdf,false
-IMO,NWANGELE (ONU-NWANGELE AMAIGBO),,UMUEZEALAEHIE HALL,16/15/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21107/pu/46714/46714-1677523452.pdf,false
-IMO,NWANGELE (ONU-NWANGELE AMAIGBO),,UMULOLO HALL,16/15/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21107/pu/143573/143573-1677521906.pdf,false
-IMO,NWANGELE (ONU-NWANGELE AMAIGBO),,UMUOKWARANYANWU HALL,16/15/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21107/pu/46712/46712-1677520923.pdf,false
-IMO,NWANGELE (ONU-NWANGELE AMAIGBO),,UMUOKWARAORI HALL,16/15/10/005,,false
+IMO,NWANGELE (ONU-NWANGELE AMAIGBO),ABAJAH WARD I,OKWENAFA HALL,16/15/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21107/pu/46706/46706-1677593151.pdf,true
+IMO,NWANGELE (ONU-NWANGELE AMAIGBO),ABAJAH WARD I,UMUOMA HALL,16/15/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21107/pu/143574/143574-1677592695.pdf,true
+IMO,NWANGELE (ONU-NWANGELE AMAIGBO),ABAJAH WARD I,COMM. SCHOOL UMUARISI,16/15/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21107/pu/46716/46716-1677592510.pdf,true
+IMO,NWANGELE (ONU-NWANGELE AMAIGBO),ABAJAH WARD I,UMUDURUARO HALL I,16/15/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21107/pu/46705/46705-1677592095.pdf,true
+IMO,NWANGELE (ONU-NWANGELE AMAIGBO),ABAJAH WARD I,UMUDURU HALL,16/15/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21107/pu/46713/46713-1677591553.pdf,false
+IMO,NWANGELE (ONU-NWANGELE AMAIGBO),ABAJAH WARD I,CENTRAL SCHOOL ABAJAH,16/15/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21107/pu/46715/46715-1677528381.pdf,false
+IMO,NWANGELE (ONU-NWANGELE AMAIGBO),ABAJAH WARD I,UMUDIM HALL,16/15/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21107/pu/46710/46710-1677527582.pdf,false
+IMO,NWANGELE (ONU-NWANGELE AMAIGBO),ABAJAH WARD I,UMUOZUO HALL,16/15/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21107/pu/46707/46707-1677526950.pdf,false
+IMO,NWANGELE (ONU-NWANGELE AMAIGBO),ABAJAH WARD I,COMM. SCH. UMUDIAGBA,16/15/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21107/pu/46708/46708-1677526081.pdf,false
+IMO,NWANGELE (ONU-NWANGELE AMAIGBO),ABAJAH WARD I,UMUISHII,16/15/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21107/pu/46711/46711-1677525515.pdf,false
+IMO,NWANGELE (ONU-NWANGELE AMAIGBO),ABAJAH WARD I,UMUDURUARO HALL II,16/15/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21107/pu/46717/46717-1677524567.pdf,false
+IMO,NWANGELE (ONU-NWANGELE AMAIGBO),ABAJAH WARD I,UMUEZEALAEHIE HALL,16/15/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21107/pu/46714/46714-1677523452.pdf,false
+IMO,NWANGELE (ONU-NWANGELE AMAIGBO),ABAJAH WARD I,UMULOLO HALL,16/15/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21107/pu/143573/143573-1677521906.pdf,false
+IMO,NWANGELE (ONU-NWANGELE AMAIGBO),ABAJAH WARD I,UMUOKWARANYANWU HALL,16/15/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21107/pu/46712/46712-1677520923.pdf,false
+IMO,NWANGELE (ONU-NWANGELE AMAIGBO),ABAJAH WARD I,UMUOKWARAORI HALL,16/15/10/005,,false

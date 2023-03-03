@@ -1,21 +1,21 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-IMO,OGUTA (OGUTA),,TOWN SCH. EGWE,16/17/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46758/result_104492_1677672407_thumb.jpg,true
-IMO,OGUTA (OGUTA),,AMAMANWU/OBOMUMUZU,16/17/02/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/638350/result_104509_1677671158_thumb.jpg,false
-IMO,OGUTA (OGUTA),,OBOM UMUOSU SQ,16/17/02/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/638347/result_104506_1677670956_thumb.jpg,false
-IMO,OGUTA (OGUTA),,DISTRICT OFFICE EGWE,16/17/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46757/result_104491_1677670471_thumb.jpg,true
-IMO,OGUTA (OGUTA),,PRIMARY SCH. NKWOEGBU,16/17/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46762/result_104496_1677670121_thumb.jpg,true
-IMO,OGUTA (OGUTA),,COMM. SCH. EGBUOMA II,16/17/02/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46765/result_104499_1677669713_thumb.jpg,true
-IMO,OGUTA (OGUTA),,UMUEZEALA PRI. SCHOOL,16/17/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46759/result_104493_1677669569_thumb.jpg,true
-IMO,OGUTA (OGUTA),,TOWN SCHOOL EGWE,16/17/02/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46764/result_104498_1677669272_thumb.jpg,true
-IMO,OGUTA (OGUTA),,PRI. SCH. EGBUOMA,16/17/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46756/result_104490_1677668928_thumb.jpg,true
-IMO,OGUTA (OGUTA),,COMM. SCH. EGBUOMA I,16/17/02/006,,true
-IMO,OGUTA (OGUTA),,UMUNWACHUKWU OMIRIMA/AMALA EREKE/UMUOLOWU,16/17/02/005,,true
-IMO,OGUTA (OGUTA),,OBOM AMADI SQ EGBUOMA,16/17/02/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/02/pu/018/018-1677398104.pdf,false
-IMO,OGUTA (OGUTA),,CENTRAL SCH. EGBUOMA II,16/17/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/02/pu/011/011-1677397425.pdf,false
-IMO,OGUTA (OGUTA),,CENTRAL SCH. EGBUOMA I,16/17/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/02/pu/008/008-1677396440.pdf,false
-IMO,OGUTA (OGUTA),,OBINIKPA CIVIC HALL,16/17/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/02/pu/013/013-1677390455.pdf,false
-IMO,OGUTA (OGUTA),,NDIONYEMAOBI HEALTH CENT.,16/17/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/02/pu/012/012-1677389859.pdf,false
-IMO,OGUTA (OGUTA),,OBOM UMUEZEALA VIL. SQ,16/17/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/02/pu/016/016-1677387771.pdf,false
-IMO,OGUTA (OGUTA),,OPEN SPACE IN FRONT OF ST. PAULâ€™S ANG. CH. NDIONYEMAOBI,16/17/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/02/pu/014/014-1677367528.pdf,false
-IMO,OGUTA (OGUTA),,EBENALO NDIGWE SQ,16/17/02/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/02/pu/019/019-1677365295.pdf,false
-IMO,OGUTA (OGUTA),,EGWE TOWN HALL MILE 4,16/17/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/02/pu/015/015-1677363633.pdf,false
+IMO,OGUTA (OGUTA),EGWE/EGBUOMA,TOWN SCH. EGWE,16/17/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46758/result_104492_1677672407_thumb.jpg,true
+IMO,OGUTA (OGUTA),EGWE/EGBUOMA,AMAMANWU/OBOMUMUZU,16/17/02/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/638350/result_104509_1677671158_thumb.jpg,false
+IMO,OGUTA (OGUTA),EGWE/EGBUOMA,OBOM UMUOSU SQ,16/17/02/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/638347/result_104506_1677670956_thumb.jpg,false
+IMO,OGUTA (OGUTA),EGWE/EGBUOMA,DISTRICT OFFICE EGWE,16/17/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46757/result_104491_1677670471_thumb.jpg,true
+IMO,OGUTA (OGUTA),EGWE/EGBUOMA,PRIMARY SCH. NKWOEGBU,16/17/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46762/result_104496_1677670121_thumb.jpg,true
+IMO,OGUTA (OGUTA),EGWE/EGBUOMA,COMM. SCH. EGBUOMA II,16/17/02/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46765/result_104499_1677669713_thumb.jpg,true
+IMO,OGUTA (OGUTA),EGWE/EGBUOMA,UMUEZEALA PRI. SCHOOL,16/17/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46759/result_104493_1677669569_thumb.jpg,true
+IMO,OGUTA (OGUTA),EGWE/EGBUOMA,TOWN SCHOOL EGWE,16/17/02/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46764/result_104498_1677669272_thumb.jpg,true
+IMO,OGUTA (OGUTA),EGWE/EGBUOMA,PRI. SCH. EGBUOMA,16/17/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46756/result_104490_1677668928_thumb.jpg,true
+IMO,OGUTA (OGUTA),EGWE/EGBUOMA,COMM. SCH. EGBUOMA I,16/17/02/006,,true
+IMO,OGUTA (OGUTA),EGWE/EGBUOMA,UMUNWACHUKWU OMIRIMA/AMALA EREKE/UMUOLOWU,16/17/02/005,,true
+IMO,OGUTA (OGUTA),EGWE/EGBUOMA,OBOM AMADI SQ EGBUOMA,16/17/02/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/02/pu/018/018-1677398104.pdf,false
+IMO,OGUTA (OGUTA),EGWE/EGBUOMA,CENTRAL SCH. EGBUOMA II,16/17/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/02/pu/011/011-1677397425.pdf,false
+IMO,OGUTA (OGUTA),EGWE/EGBUOMA,CENTRAL SCH. EGBUOMA I,16/17/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/02/pu/008/008-1677396440.pdf,false
+IMO,OGUTA (OGUTA),EGWE/EGBUOMA,OBINIKPA CIVIC HALL,16/17/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/02/pu/013/013-1677390455.pdf,false
+IMO,OGUTA (OGUTA),EGWE/EGBUOMA,NDIONYEMAOBI HEALTH CENT.,16/17/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/02/pu/012/012-1677389859.pdf,false
+IMO,OGUTA (OGUTA),EGWE/EGBUOMA,OBOM UMUEZEALA VIL. SQ,16/17/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/02/pu/016/016-1677387771.pdf,false
+IMO,OGUTA (OGUTA),EGWE/EGBUOMA,OPEN SPACE IN FRONT OF ST. PAULâ€™S ANG. CH. NDIONYEMAOBI,16/17/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/02/pu/014/014-1677367528.pdf,false
+IMO,OGUTA (OGUTA),EGWE/EGBUOMA,EBENALO NDIGWE SQ,16/17/02/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/02/pu/019/019-1677365295.pdf,false
+IMO,OGUTA (OGUTA),EGWE/EGBUOMA,EGWE TOWN HALL MILE 4,16/17/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/02/pu/015/015-1677363633.pdf,false

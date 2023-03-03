@@ -26,6 +26,7 @@
     "pu_code_string": "161703012",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "IZOMBE",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -57,6 +58,7 @@
     "pu_code_string": "161703004",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "IZOMBE",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -88,6 +90,7 @@
     "pu_code_string": "161703009",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "IZOMBE",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -119,6 +122,7 @@
     "pu_code_string": "161703006",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "IZOMBE",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -150,6 +154,7 @@
     "pu_code_string": "161703013",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "IZOMBE",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -181,6 +186,7 @@
     "pu_code_string": "161703002",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "IZOMBE",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -212,6 +218,7 @@
     "pu_code_string": "161703001",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "IZOMBE",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -243,6 +250,7 @@
     "pu_code_string": "161703005",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "IZOMBE",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -274,6 +282,7 @@
     "pu_code_string": "161703003",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "IZOMBE",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -305,6 +314,7 @@
     "pu_code_string": "161703007",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "IZOMBE",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -336,6 +346,7 @@
     "pu_code_string": "161703011",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "IZOMBE",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -367,6 +378,7 @@
     "pu_code_string": "161703010",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "IZOMBE",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -398,6 +410,7 @@
     "pu_code_string": "161703008",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "IZOMBE",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -429,6 +442,7 @@
     "pu_code_string": "161703019",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "IZOMBE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -459,6 +473,7 @@
     "pu_code_string": "161703016",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "IZOMBE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -489,6 +504,7 @@
     "pu_code_string": "161703018",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "IZOMBE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -519,6 +535,7 @@
     "pu_code_string": "161703017",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "IZOMBE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -549,6 +566,7 @@
     "pu_code_string": "161703020",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "IZOMBE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -579,6 +597,7 @@
     "pu_code_string": "161703014",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "IZOMBE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -609,6 +628,7 @@
     "pu_code_string": "161703015",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "IZOMBE",
     "old_documents": [],
     "has_old_documents": false
   }

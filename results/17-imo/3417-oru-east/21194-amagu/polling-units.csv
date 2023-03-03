@@ -1,7 +1,7 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-IMO,ORU-EAST,,"CENTRAL SCHOOL, AMAGU",16/23/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/08/pu/003/003-1677415536.pdf,false
-IMO,ORU-EAST,,IHITTE HALL I,16/23/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/08/pu/004/004-1677414359.pdf,false
-IMO,ORU-EAST,,ONYEAGHALA HALL,16/23/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/08/pu/001/001-1677414222.pdf,false
-IMO,ORU-EAST,,IHITTE HALL II,16/23/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/08/pu/005/005-1677414104.pdf,false
-IMO,ORU-EAST,,"HEALTH CENTRE, AMAGU I",16/23/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/08/pu/002/002-1677414046.pdf,false
-IMO,ORU-EAST,,"HEALTH CENTRE, AMAGU II",16/23/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/08/pu/006/006-1677410768.pdf,false
+IMO,ORU-EAST,AMAGU,"CENTRAL SCHOOL, AMAGU",16/23/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/08/pu/003/003-1677415536.pdf,false
+IMO,ORU-EAST,AMAGU,IHITTE HALL I,16/23/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/08/pu/004/004-1677414359.pdf,false
+IMO,ORU-EAST,AMAGU,ONYEAGHALA HALL,16/23/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/08/pu/001/001-1677414222.pdf,false
+IMO,ORU-EAST,AMAGU,IHITTE HALL II,16/23/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/08/pu/005/005-1677414104.pdf,false
+IMO,ORU-EAST,AMAGU,"HEALTH CENTRE, AMAGU I",16/23/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/08/pu/002/002-1677414046.pdf,false
+IMO,ORU-EAST,AMAGU,"HEALTH CENTRE, AMAGU II",16/23/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/08/pu/006/006-1677410768.pdf,false

@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-IMO,OWERRI NORTH (ORIE URATTA),,AMUZI AWAKA VILLAGE SQUARE,16/26/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/01/pu/005/005-1677383078.pdf,false
-IMO,OWERRI NORTH (ORIE URATTA),,IHITTA-OGADA-VILLAGE SQUARE,16/26/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/01/pu/008/008-1677382046.pdf,false
-IMO,OWERRI NORTH (ORIE URATTA),,FRONT OF AKIRI AMUZI,16/26/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/01/pu/011/011-1677380236.pdf,false
-IMO,OWERRI NORTH (ORIE URATTA),,COMMUNITY PRIMARY SCHOOL AMAPU AWAKA I,16/26/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/01/pu/003/003-1677371950.pdf,false
-IMO,OWERRI NORTH (ORIE URATTA),,FRONT OF BLESSED VIRGIN MARY ANGLICIAN CHURCH,16/26/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/01/pu/012/012-1677369730.pdf,false
-IMO,OWERRI NORTH (ORIE URATTA),,EKEAMA PRIMARY SCHOOL AWAKA II,16/26/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/01/pu/002/002-1677368134.pdf,false
-IMO,OWERRI NORTH (ORIE URATTA),,PILIGRIMAGE CENTER SQUARE,16/26/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/01/pu/010/010-1677367925.pdf,false
-IMO,OWERRI NORTH (ORIE URATTA),,COMMUNITY PRIMARY SCHOOL AMAPU AWAKA II,16/26/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/01/pu/004/004-1677366320.pdf,false
-IMO,OWERRI NORTH (ORIE URATTA),,COMMUNITY PRIMARY SCHOOL IHITTA-OGADA II,16/26/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/01/pu/007/007-1677364122.pdf,false
-IMO,OWERRI NORTH (ORIE URATTA),,COMMUNITY PRIMARY SCHOOL IHITTA-OGADA I,16/26/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/01/pu/006/006-1677361611.pdf,false
-IMO,OWERRI NORTH (ORIE URATTA),,OKPURU OBU NDIEGBELU,16/26/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/01/pu/009/009-1677359672.pdf,false
-IMO,OWERRI NORTH (ORIE URATTA),,EKEAMA PRIMARY SCHOOL AWAKA I,16/26/01/001,,false
+IMO,OWERRI NORTH (ORIE URATTA),AWAKA/IHITTE-OGADA,AMUZI AWAKA VILLAGE SQUARE,16/26/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/01/pu/005/005-1677383078.pdf,false
+IMO,OWERRI NORTH (ORIE URATTA),AWAKA/IHITTE-OGADA,IHITTA-OGADA-VILLAGE SQUARE,16/26/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/01/pu/008/008-1677382046.pdf,false
+IMO,OWERRI NORTH (ORIE URATTA),AWAKA/IHITTE-OGADA,FRONT OF AKIRI AMUZI,16/26/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/01/pu/011/011-1677380236.pdf,false
+IMO,OWERRI NORTH (ORIE URATTA),AWAKA/IHITTE-OGADA,COMMUNITY PRIMARY SCHOOL AMAPU AWAKA I,16/26/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/01/pu/003/003-1677371950.pdf,false
+IMO,OWERRI NORTH (ORIE URATTA),AWAKA/IHITTE-OGADA,FRONT OF BLESSED VIRGIN MARY ANGLICIAN CHURCH,16/26/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/01/pu/012/012-1677369730.pdf,false
+IMO,OWERRI NORTH (ORIE URATTA),AWAKA/IHITTE-OGADA,EKEAMA PRIMARY SCHOOL AWAKA II,16/26/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/01/pu/002/002-1677368134.pdf,false
+IMO,OWERRI NORTH (ORIE URATTA),AWAKA/IHITTE-OGADA,PILIGRIMAGE CENTER SQUARE,16/26/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/01/pu/010/010-1677367925.pdf,false
+IMO,OWERRI NORTH (ORIE URATTA),AWAKA/IHITTE-OGADA,COMMUNITY PRIMARY SCHOOL AMAPU AWAKA II,16/26/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/01/pu/004/004-1677366320.pdf,false
+IMO,OWERRI NORTH (ORIE URATTA),AWAKA/IHITTE-OGADA,COMMUNITY PRIMARY SCHOOL IHITTA-OGADA II,16/26/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/01/pu/007/007-1677364122.pdf,false
+IMO,OWERRI NORTH (ORIE URATTA),AWAKA/IHITTE-OGADA,COMMUNITY PRIMARY SCHOOL IHITTA-OGADA I,16/26/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/01/pu/006/006-1677361611.pdf,false
+IMO,OWERRI NORTH (ORIE URATTA),AWAKA/IHITTE-OGADA,OKPURU OBU NDIEGBELU,16/26/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/26/ward/01/pu/009/009-1677359672.pdf,false
+IMO,OWERRI NORTH (ORIE URATTA),AWAKA/IHITTE-OGADA,EKEAMA PRIMARY SCHOOL AWAKA I,16/26/01/001,,false

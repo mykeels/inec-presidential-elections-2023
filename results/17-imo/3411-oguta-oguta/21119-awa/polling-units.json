@@ -26,6 +26,7 @@
     "pu_code_string": "161701016",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "AWA",
     "document": {
       "external": true,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "161701007",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "AWA",
     "document": {
       "external": true,
       "status": 1,
@@ -111,6 +113,7 @@
     "pu_code_string": "161701001",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "AWA",
     "document": {
       "external": true,
       "status": 1,
@@ -158,6 +161,7 @@
     "pu_code_string": "161701008",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "AWA",
     "document": {
       "external": true,
       "status": 1,
@@ -205,6 +209,7 @@
     "pu_code_string": "161701009",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "AWA",
     "document": {
       "external": true,
       "status": 1,
@@ -252,6 +257,7 @@
     "pu_code_string": "161701003",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "AWA",
     "document": {
       "external": true,
       "status": 1,
@@ -299,6 +305,7 @@
     "pu_code_string": "161701002",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "AWA",
     "document": {
       "external": true,
       "status": 1,
@@ -346,6 +353,7 @@
     "pu_code_string": "161701005",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "AWA",
     "document": {
       "external": true,
       "status": 1,
@@ -393,6 +401,7 @@
     "pu_code_string": "161701004",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "AWA",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -424,6 +433,7 @@
     "pu_code_string": "161701011",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "AWA",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -455,6 +465,7 @@
     "pu_code_string": "161701006",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "AWA",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -486,6 +497,7 @@
     "pu_code_string": "161701010",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "AWA",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -517,6 +529,7 @@
     "pu_code_string": "161701015",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "AWA",
     "document": {
       "external": false,
       "status": 1,
@@ -555,6 +568,7 @@
     "pu_code_string": "161701020",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "AWA",
     "document": {
       "external": false,
       "status": 1,
@@ -593,6 +607,7 @@
     "pu_code_string": "161701021",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "AWA",
     "document": {
       "external": false,
       "status": 1,
@@ -631,6 +646,7 @@
     "pu_code_string": "161701017",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "AWA",
     "document": {
       "external": false,
       "status": 1,
@@ -669,6 +685,7 @@
     "pu_code_string": "161701018",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "AWA",
     "document": {
       "external": false,
       "status": 1,
@@ -707,6 +724,7 @@
     "pu_code_string": "161701013",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "AWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -737,6 +755,7 @@
     "pu_code_string": "161701012",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "AWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -767,6 +786,7 @@
     "pu_code_string": "161701014",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "AWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -797,6 +817,7 @@
     "pu_code_string": "161701022",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "AWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -827,6 +848,7 @@
     "pu_code_string": "161701019",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "AWA",
     "old_documents": [],
     "has_old_documents": false
   }

@@ -26,6 +26,7 @@
     "pu_code_string": "162001009",
     "state_name": "IMO",
     "lga_name": "ONUIMO (OKWE)",
+    "ward_name": "EZIAMA",
     "document": {
       "external": true,
       "status": 1,
@@ -73,6 +74,7 @@
     "pu_code_string": "162001004",
     "state_name": "IMO",
     "lga_name": "ONUIMO (OKWE)",
+    "ward_name": "EZIAMA",
     "document": {
       "external": true,
       "status": 1,
@@ -111,6 +113,7 @@
     "pu_code_string": "162001003",
     "state_name": "IMO",
     "lga_name": "ONUIMO (OKWE)",
+    "ward_name": "EZIAMA",
     "document": {
       "external": true,
       "status": 1,
@@ -149,6 +152,7 @@
     "pu_code_string": "162001006",
     "state_name": "IMO",
     "lga_name": "ONUIMO (OKWE)",
+    "ward_name": "EZIAMA",
     "document": {
       "external": true,
       "status": 1,
@@ -187,6 +191,7 @@
     "pu_code_string": "162001002",
     "state_name": "IMO",
     "lga_name": "ONUIMO (OKWE)",
+    "ward_name": "EZIAMA",
     "document": {
       "external": true,
       "status": 1,
@@ -225,6 +230,7 @@
     "pu_code_string": "162001010",
     "state_name": "IMO",
     "lga_name": "ONUIMO (OKWE)",
+    "ward_name": "EZIAMA",
     "document": {
       "external": true,
       "status": 1,
@@ -263,6 +269,7 @@
     "pu_code_string": "162001008",
     "state_name": "IMO",
     "lga_name": "ONUIMO (OKWE)",
+    "ward_name": "EZIAMA",
     "document": {
       "external": true,
       "status": 1,
@@ -301,6 +308,7 @@
     "pu_code_string": "162001007",
     "state_name": "IMO",
     "lga_name": "ONUIMO (OKWE)",
+    "ward_name": "EZIAMA",
     "document": {
       "external": true,
       "status": 1,
@@ -339,6 +347,7 @@
     "pu_code_string": "162001005",
     "state_name": "IMO",
     "lga_name": "ONUIMO (OKWE)",
+    "ward_name": "EZIAMA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -369,6 +378,7 @@
     "pu_code_string": "162001001",
     "state_name": "IMO",
     "lga_name": "ONUIMO (OKWE)",
+    "ward_name": "EZIAMA",
     "old_documents": [],
     "has_old_documents": false
   }

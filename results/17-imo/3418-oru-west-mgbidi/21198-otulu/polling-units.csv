@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-IMO,ORU WEST (MGBIDI),,C.P.S. OTULU II,16/24/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/02/pu/003/003-1677418376.pdf,false
-IMO,ORU WEST (MGBIDI),,AMA WIRE,16/24/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/02/pu/008/008-1677403857.pdf,false
-IMO,ORU WEST (MGBIDI),,AMAUKWU SQUARE,16/24/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/02/pu/013/013-1677402748.pdf,false
-IMO,ORU WEST (MGBIDI),,UKWUEGBU SQUARE,16/24/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/02/pu/012/012-1677401681.pdf,false
-IMO,ORU WEST (MGBIDI),,UKWUOZIE SQUARE,16/24/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/02/pu/011/011-1677398235.pdf,false
-IMO,ORU WEST (MGBIDI),,C.P.S. OTULU I,16/24/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/02/pu/002/002-1677365105.pdf,false
-IMO,ORU WEST (MGBIDI),,OKECHUKWU HALL,16/24/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/02/pu/006/006-1677364888.pdf,false
-IMO,ORU WEST (MGBIDI),,COMMUNITY HALL OTULU,16/24/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/02/pu/004/004-1677361821.pdf,false
-IMO,ORU WEST (MGBIDI),,WILFRED CIVIC CENTRE,16/24/02/007,,false
-IMO,ORU WEST (MGBIDI),,PROGRESSIVE CENT. SCHOOL,16/24/02/001,,false
-IMO,ORU WEST (MGBIDI),,SEC. COMM. SCHOOL OTULU,16/24/02/005,,false
-IMO,ORU WEST (MGBIDI),,AMACHELEKE VILLAGE SQUARE,16/24/02/010,,false
-IMO,ORU WEST (MGBIDI),,OKWUORA,16/24/02/009,,false
+IMO,ORU WEST (MGBIDI),OTULU,C.P.S. OTULU II,16/24/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/02/pu/003/003-1677418376.pdf,false
+IMO,ORU WEST (MGBIDI),OTULU,AMA WIRE,16/24/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/02/pu/008/008-1677403857.pdf,false
+IMO,ORU WEST (MGBIDI),OTULU,AMAUKWU SQUARE,16/24/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/02/pu/013/013-1677402748.pdf,false
+IMO,ORU WEST (MGBIDI),OTULU,UKWUEGBU SQUARE,16/24/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/02/pu/012/012-1677401681.pdf,false
+IMO,ORU WEST (MGBIDI),OTULU,UKWUOZIE SQUARE,16/24/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/02/pu/011/011-1677398235.pdf,false
+IMO,ORU WEST (MGBIDI),OTULU,C.P.S. OTULU I,16/24/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/02/pu/002/002-1677365105.pdf,false
+IMO,ORU WEST (MGBIDI),OTULU,OKECHUKWU HALL,16/24/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/02/pu/006/006-1677364888.pdf,false
+IMO,ORU WEST (MGBIDI),OTULU,COMMUNITY HALL OTULU,16/24/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/24/ward/02/pu/004/004-1677361821.pdf,false
+IMO,ORU WEST (MGBIDI),OTULU,WILFRED CIVIC CENTRE,16/24/02/007,,false
+IMO,ORU WEST (MGBIDI),OTULU,PROGRESSIVE CENT. SCHOOL,16/24/02/001,,false
+IMO,ORU WEST (MGBIDI),OTULU,SEC. COMM. SCHOOL OTULU,16/24/02/005,,false
+IMO,ORU WEST (MGBIDI),OTULU,AMACHELEKE VILLAGE SQUARE,16/24/02/010,,false
+IMO,ORU WEST (MGBIDI),OTULU,OKWUORA,16/24/02/009,,false

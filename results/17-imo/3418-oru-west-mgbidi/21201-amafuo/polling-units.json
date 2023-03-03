@@ -26,6 +26,7 @@
     "pu_code_string": "162405005",
     "state_name": "IMO",
     "lga_name": "ORU WEST (MGBIDI)",
+    "ward_name": "AMAFUO",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -56,6 +57,7 @@
     "pu_code_string": "162405004",
     "state_name": "IMO",
     "lga_name": "ORU WEST (MGBIDI)",
+    "ward_name": "AMAFUO",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -86,6 +88,7 @@
     "pu_code_string": "162405003",
     "state_name": "IMO",
     "lga_name": "ORU WEST (MGBIDI)",
+    "ward_name": "AMAFUO",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -116,6 +119,7 @@
     "pu_code_string": "162405002",
     "state_name": "IMO",
     "lga_name": "ORU WEST (MGBIDI)",
+    "ward_name": "AMAFUO",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -146,6 +150,7 @@
     "pu_code_string": "162405001",
     "state_name": "IMO",
     "lga_name": "ORU WEST (MGBIDI)",
+    "ward_name": "AMAFUO",
     "old_documents": [],
     "has_old_documents": false
   }

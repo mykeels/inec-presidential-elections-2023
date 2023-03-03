@@ -26,6 +26,7 @@
     "pu_code_string": "162207005",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "ORSU IHITEUKWA",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "162207008",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "ORSU IHITEUKWA",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "162207001",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "ORSU IHITEUKWA",
     "document": {
       "external": false,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "162207003",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "ORSU IHITEUKWA",
     "document": {
       "external": false,
       "status": 1,
@@ -178,6 +182,7 @@
     "pu_code_string": "162207010",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "ORSU IHITEUKWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -208,6 +213,7 @@
     "pu_code_string": "162207015",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "ORSU IHITEUKWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -238,6 +244,7 @@
     "pu_code_string": "162207004",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "ORSU IHITEUKWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -268,6 +275,7 @@
     "pu_code_string": "162207009",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "ORSU IHITEUKWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -298,6 +306,7 @@
     "pu_code_string": "162207014",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "ORSU IHITEUKWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -328,6 +337,7 @@
     "pu_code_string": "162207013",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "ORSU IHITEUKWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -358,6 +368,7 @@
     "pu_code_string": "162207002",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "ORSU IHITEUKWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -388,6 +399,7 @@
     "pu_code_string": "162207007",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "ORSU IHITEUKWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -418,6 +430,7 @@
     "pu_code_string": "162207012",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "ORSU IHITEUKWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -448,6 +461,7 @@
     "pu_code_string": "162207006",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "ORSU IHITEUKWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -478,6 +492,7 @@
     "pu_code_string": "162207011",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "ORSU IHITEUKWA",
     "old_documents": [],
     "has_old_documents": false
   }

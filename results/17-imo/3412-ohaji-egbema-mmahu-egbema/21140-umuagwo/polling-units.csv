@@ -1,25 +1,25 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),,COMMUNITY PRI. SCH. ETIOHA,16/18/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/001/001-1677395916.pdf,false
-IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),,TOWN SCHOOL UMUAGWO III,16/18/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/007/007-1677395746.pdf,false
-IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),,COURT PREMISES UMUELU II,16/18/11/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/013/013-1677393696.pdf,false
-IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),,AMANCHI SQUARE,16/18/11/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/020/020-1677393098.pdf,false
-IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),,CENTRAL SCHOOL UMUAGWO I,16/18/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/008/008-1677392029.pdf,false
-IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),,CENTRAL SCHOOL UMUAGWO IV,16/18/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/011/011-1677391745.pdf,false
-IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),,CENTRAL SCHOOL UMUAGWO III,16/18/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/010/010-1677390899.pdf,false
-IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),,WOMEN HALL UMUAGWO,16/18/11/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/016/016-1677390838.pdf,false
-IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),,CENTRAL SCHOOL UMUAGWO II,16/18/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/009/009-1677390708.pdf,false
-IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),,TOWN SCHOOL UMUAGWO II,16/18/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/006/006-1677389613.pdf,false
-IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),,COMMUNITY SCH UMUAGWO,16/18/11/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/019/019-1677389384.pdf,false
-IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),,TOWN SCHOOL UMUAGWO IV,16/18/11/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/015/015-1677389182.pdf,false
-IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),,"COMM. PRIMARY SCHOOL, UMUKENE II",16/18/11/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/014/014-1677388825.pdf,false
-IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),,EKE UMUAGWO MARKET SQUARE,16/18/11/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/017/017-1677388815.pdf,false
-IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),,COURT PREMISES UMUELU I,16/18/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/012/012-1677388804.pdf,false
-IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),,OKEOHIA VILLAGE SQ.,16/18/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/004/004-1677388219.pdf,false
-IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),,WATERSIDE PRIMARY SCHOOL,16/18/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/002/002-1677387869.pdf,false
-IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),,TOWN SCHOOL UMUAGWO I,16/18/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/005/005-1677387715.pdf,false
-IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),,HEALTH CENTER UMUELU,16/18/11/021,,false
-IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),,COMM. PRIMARY SCH. UMUKENE I,16/18/11/003,,false
-IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),,AMANGBA SQUARE,16/18/11/018,,false
-IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),,UKWUEGBU SQUARE,16/18/11/023,,false
-IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),,MGBABO ATO UMUNGUMA,16/18/11/024,,false
-IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),,UMUOGBUANU VILLAGE HALL,16/18/11/022,,false
+IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),UMUAGWO,COMMUNITY PRI. SCH. ETIOHA,16/18/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/001/001-1677395916.pdf,false
+IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),UMUAGWO,TOWN SCHOOL UMUAGWO III,16/18/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/007/007-1677395746.pdf,false
+IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),UMUAGWO,COURT PREMISES UMUELU II,16/18/11/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/013/013-1677393696.pdf,false
+IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),UMUAGWO,AMANCHI SQUARE,16/18/11/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/020/020-1677393098.pdf,false
+IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),UMUAGWO,CENTRAL SCHOOL UMUAGWO I,16/18/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/008/008-1677392029.pdf,false
+IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),UMUAGWO,CENTRAL SCHOOL UMUAGWO IV,16/18/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/011/011-1677391745.pdf,false
+IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),UMUAGWO,CENTRAL SCHOOL UMUAGWO III,16/18/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/010/010-1677390899.pdf,false
+IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),UMUAGWO,WOMEN HALL UMUAGWO,16/18/11/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/016/016-1677390838.pdf,false
+IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),UMUAGWO,CENTRAL SCHOOL UMUAGWO II,16/18/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/009/009-1677390708.pdf,false
+IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),UMUAGWO,TOWN SCHOOL UMUAGWO II,16/18/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/006/006-1677389613.pdf,false
+IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),UMUAGWO,COMMUNITY SCH UMUAGWO,16/18/11/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/019/019-1677389384.pdf,false
+IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),UMUAGWO,TOWN SCHOOL UMUAGWO IV,16/18/11/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/015/015-1677389182.pdf,false
+IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),UMUAGWO,"COMM. PRIMARY SCHOOL, UMUKENE II",16/18/11/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/014/014-1677388825.pdf,false
+IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),UMUAGWO,EKE UMUAGWO MARKET SQUARE,16/18/11/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/017/017-1677388815.pdf,false
+IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),UMUAGWO,COURT PREMISES UMUELU I,16/18/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/012/012-1677388804.pdf,false
+IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),UMUAGWO,OKEOHIA VILLAGE SQ.,16/18/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/004/004-1677388219.pdf,false
+IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),UMUAGWO,WATERSIDE PRIMARY SCHOOL,16/18/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/002/002-1677387869.pdf,false
+IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),UMUAGWO,TOWN SCHOOL UMUAGWO I,16/18/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/11/pu/005/005-1677387715.pdf,false
+IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),UMUAGWO,HEALTH CENTER UMUELU,16/18/11/021,,false
+IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),UMUAGWO,COMM. PRIMARY SCH. UMUKENE I,16/18/11/003,,false
+IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),UMUAGWO,AMANGBA SQUARE,16/18/11/018,,false
+IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),UMUAGWO,UKWUEGBU SQUARE,16/18/11/023,,false
+IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),UMUAGWO,MGBABO ATO UMUNGUMA,16/18/11/024,,false
+IMO,OHAJI/EGBEMA (MMAHU-EGBEMA),UMUAGWO,UMUOGBUANU VILLAGE HALL,16/18/11/022,,false

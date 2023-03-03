@@ -26,6 +26,7 @@
     "pu_code_string": "162205005",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "OKWUAMARAIHIE  II",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "162205002",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "OKWUAMARAIHIE  II",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "162205004",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "OKWUAMARAIHIE  II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -132,6 +135,7 @@
     "pu_code_string": "162205003",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "OKWUAMARAIHIE  II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -162,6 +166,7 @@
     "pu_code_string": "162205001",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "OKWUAMARAIHIE  II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -192,6 +197,7 @@
     "pu_code_string": "162205006",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "OKWUAMARAIHIE  II",
     "old_documents": [],
     "has_old_documents": false
   }

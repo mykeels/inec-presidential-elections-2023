@@ -26,6 +26,7 @@
     "pu_code_string": "161704005",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "MBALA/UBA",
     "document": null,
     "old_documents": [
       {
@@ -66,6 +67,7 @@
     "pu_code_string": "161704001",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "MBALA/UBA",
     "document": null,
     "old_documents": [
       {
@@ -106,6 +108,7 @@
     "pu_code_string": "161704009",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "MBALA/UBA",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -137,6 +140,7 @@
     "pu_code_string": "161704010",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "MBALA/UBA",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -168,6 +172,7 @@
     "pu_code_string": "161704011",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "MBALA/UBA",
     "document": null,
     "old_documents": [
       {
@@ -208,6 +213,7 @@
     "pu_code_string": "161704003",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "MBALA/UBA",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -239,6 +245,7 @@
     "pu_code_string": "161704002",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "MBALA/UBA",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -270,6 +277,7 @@
     "pu_code_string": "161704004",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "MBALA/UBA",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -301,6 +309,7 @@
     "pu_code_string": "161704012",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "MBALA/UBA",
     "document": null,
     "old_documents": [
       {
@@ -341,6 +350,7 @@
     "pu_code_string": "161704006",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "MBALA/UBA",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -372,6 +382,7 @@
     "pu_code_string": "161704008",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "MBALA/UBA",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -403,6 +414,7 @@
     "pu_code_string": "161704007",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "MBALA/UBA",
     "old_documents": [],
     "has_old_documents": false
   }

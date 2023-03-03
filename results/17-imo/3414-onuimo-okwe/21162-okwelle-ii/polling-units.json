@@ -26,6 +26,7 @@
     "pu_code_string": "162010001",
     "state_name": "IMO",
     "lga_name": "ONUIMO (OKWE)",
+    "ward_name": "OKWELLE II",
     "document": {
       "external": true,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "162010002",
     "state_name": "IMO",
     "lga_name": "ONUIMO (OKWE)",
+    "ward_name": "OKWELLE II",
     "document": {
       "external": true,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "162010003",
     "state_name": "IMO",
     "lga_name": "ONUIMO (OKWE)",
+    "ward_name": "OKWELLE II",
     "document": {
       "external": true,
       "status": 1,
@@ -149,6 +152,7 @@
     "pu_code_string": "162010008",
     "state_name": "IMO",
     "lga_name": "ONUIMO (OKWE)",
+    "ward_name": "OKWELLE II",
     "document": {
       "external": true,
       "status": 1,
@@ -187,6 +191,7 @@
     "pu_code_string": "162010004",
     "state_name": "IMO",
     "lga_name": "ONUIMO (OKWE)",
+    "ward_name": "OKWELLE II",
     "document": {
       "external": true,
       "status": 1,
@@ -225,6 +230,7 @@
     "pu_code_string": "162010005",
     "state_name": "IMO",
     "lga_name": "ONUIMO (OKWE)",
+    "ward_name": "OKWELLE II",
     "document": {
       "external": true,
       "status": 1,
@@ -263,6 +269,7 @@
     "pu_code_string": "162010006",
     "state_name": "IMO",
     "lga_name": "ONUIMO (OKWE)",
+    "ward_name": "OKWELLE II",
     "document": {
       "external": true,
       "status": 1,
@@ -342,6 +349,7 @@
     "pu_code_string": "162010007",
     "state_name": "IMO",
     "lga_name": "ONUIMO (OKWE)",
+    "ward_name": "OKWELLE II",
     "old_documents": [],
     "has_old_documents": false
   }

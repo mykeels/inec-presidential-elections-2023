@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-IMO,NWANGELE (ONU-NWANGELE AMAIGBO),,OPPOSITE CONVENT (COMPREHENSIVE SEC. SCHOOL),16/15/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21104/pu/46685/46685-1677580085.pdf,true
-IMO,NWANGELE (ONU-NWANGELE AMAIGBO),,UMUDURUEZE HALL,16/15/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21104/pu/143568/143568-1677590756.pdf,true
-IMO,NWANGELE (ONU-NWANGELE AMAIGBO),,OKWUOME HALL,16/15/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21104/pu/46688/46688-1677590425.pdf,true
-IMO,NWANGELE (ONU-NWANGELE AMAIGBO),,OKOROKWARA HALL,16/15/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21104/pu/46687/46687-1677590220.pdf,true
-IMO,NWANGELE (ONU-NWANGELE AMAIGBO),,UMUOSO HALL,16/15/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21104/pu/46686/46686-1677589534.pdf,true
-IMO,NWANGELE (ONU-NWANGELE AMAIGBO),,UMUOZU CIVIC CENTRE,16/15/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21104/pu/46684/46684-1677582172.pdf,false
-IMO,NWANGELE (ONU-NWANGELE AMAIGBO),,COMM. SCHOOL UMUOZU,16/15/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21104/pu/46683/46683-1677581847.pdf,true
-IMO,NWANGELE (ONU-NWANGELE AMAIGBO),,EGBECHI HALL,16/15/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21104/pu/46682/46682-1677581448.pdf,true
-IMO,NWANGELE (ONU-NWANGELE AMAIGBO),,UMUEMETO HALL,16/15/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21104/pu/46681/46681-1677580966.pdf,true
-IMO,NWANGELE (ONU-NWANGELE AMAIGBO),,UMURAWAI HALL,16/15/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21104/pu/46680/46680-1677580826.pdf,true
-IMO,NWANGELE (ONU-NWANGELE AMAIGBO),,CENTRAL SCHOOL UMUOZU,16/15/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21104/pu/46679/46679-1677580489.pdf,true
-IMO,NWANGELE (ONU-NWANGELE AMAIGBO),,UMUONUKWURU HALL,16/15/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/07/pu/011/011-1677380450.pdf,false
+IMO,NWANGELE (ONU-NWANGELE AMAIGBO),UMUOZU WARD,OPPOSITE CONVENT (COMPREHENSIVE SEC. SCHOOL),16/15/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21104/pu/46685/46685-1677580085.pdf,true
+IMO,NWANGELE (ONU-NWANGELE AMAIGBO),UMUOZU WARD,UMUDURUEZE HALL,16/15/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21104/pu/143568/143568-1677590756.pdf,true
+IMO,NWANGELE (ONU-NWANGELE AMAIGBO),UMUOZU WARD,OKWUOME HALL,16/15/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21104/pu/46688/46688-1677590425.pdf,true
+IMO,NWANGELE (ONU-NWANGELE AMAIGBO),UMUOZU WARD,OKOROKWARA HALL,16/15/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21104/pu/46687/46687-1677590220.pdf,true
+IMO,NWANGELE (ONU-NWANGELE AMAIGBO),UMUOZU WARD,UMUOSO HALL,16/15/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21104/pu/46686/46686-1677589534.pdf,true
+IMO,NWANGELE (ONU-NWANGELE AMAIGBO),UMUOZU WARD,UMUOZU CIVIC CENTRE,16/15/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21104/pu/46684/46684-1677582172.pdf,false
+IMO,NWANGELE (ONU-NWANGELE AMAIGBO),UMUOZU WARD,COMM. SCHOOL UMUOZU,16/15/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21104/pu/46683/46683-1677581847.pdf,true
+IMO,NWANGELE (ONU-NWANGELE AMAIGBO),UMUOZU WARD,EGBECHI HALL,16/15/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21104/pu/46682/46682-1677581448.pdf,true
+IMO,NWANGELE (ONU-NWANGELE AMAIGBO),UMUOZU WARD,UMUEMETO HALL,16/15/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21104/pu/46681/46681-1677580966.pdf,true
+IMO,NWANGELE (ONU-NWANGELE AMAIGBO),UMUOZU WARD,UMURAWAI HALL,16/15/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21104/pu/46680/46680-1677580826.pdf,true
+IMO,NWANGELE (ONU-NWANGELE AMAIGBO),UMUOZU WARD,CENTRAL SCHOOL UMUOZU,16/15/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3409/ward/21104/pu/46679/46679-1677580489.pdf,true
+IMO,NWANGELE (ONU-NWANGELE AMAIGBO),UMUOZU WARD,UMUONUKWURU HALL,16/15/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/07/pu/011/011-1677380450.pdf,false

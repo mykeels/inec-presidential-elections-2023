@@ -26,6 +26,7 @@
     "pu_code_string": "162304006",
     "state_name": "IMO",
     "lga_name": "ORU-EAST",
+    "ward_name": "AWO-OMAMMA IV",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "162304005",
     "state_name": "IMO",
     "lga_name": "ORU-EAST",
+    "ward_name": "AWO-OMAMMA IV",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "162304004",
     "state_name": "IMO",
     "lga_name": "ORU-EAST",
+    "ward_name": "AWO-OMAMMA IV",
     "document": {
       "external": false,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "162304007",
     "state_name": "IMO",
     "lga_name": "ORU-EAST",
+    "ward_name": "AWO-OMAMMA IV",
     "document": {
       "external": false,
       "status": 1,
@@ -178,6 +182,7 @@
     "pu_code_string": "162304008",
     "state_name": "IMO",
     "lga_name": "ORU-EAST",
+    "ward_name": "AWO-OMAMMA IV",
     "document": {
       "external": false,
       "status": 1,
@@ -216,6 +221,7 @@
     "pu_code_string": "162304003",
     "state_name": "IMO",
     "lga_name": "ORU-EAST",
+    "ward_name": "AWO-OMAMMA IV",
     "document": {
       "external": false,
       "status": 1,
@@ -254,6 +260,7 @@
     "pu_code_string": "162304001",
     "state_name": "IMO",
     "lga_name": "ORU-EAST",
+    "ward_name": "AWO-OMAMMA IV",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -284,6 +291,7 @@
     "pu_code_string": "162304011",
     "state_name": "IMO",
     "lga_name": "ORU-EAST",
+    "ward_name": "AWO-OMAMMA IV",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -314,6 +322,7 @@
     "pu_code_string": "162304010",
     "state_name": "IMO",
     "lga_name": "ORU-EAST",
+    "ward_name": "AWO-OMAMMA IV",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -344,6 +353,7 @@
     "pu_code_string": "162304009",
     "state_name": "IMO",
     "lga_name": "ORU-EAST",
+    "ward_name": "AWO-OMAMMA IV",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -374,6 +384,7 @@
     "pu_code_string": "162304014",
     "state_name": "IMO",
     "lga_name": "ORU-EAST",
+    "ward_name": "AWO-OMAMMA IV",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -404,6 +415,7 @@
     "pu_code_string": "162304002",
     "state_name": "IMO",
     "lga_name": "ORU-EAST",
+    "ward_name": "AWO-OMAMMA IV",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -434,6 +446,7 @@
     "pu_code_string": "162304013",
     "state_name": "IMO",
     "lga_name": "ORU-EAST",
+    "ward_name": "AWO-OMAMMA IV",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -464,6 +477,7 @@
     "pu_code_string": "162304012",
     "state_name": "IMO",
     "lga_name": "ORU-EAST",
+    "ward_name": "AWO-OMAMMA IV",
     "old_documents": [],
     "has_old_documents": false
   }

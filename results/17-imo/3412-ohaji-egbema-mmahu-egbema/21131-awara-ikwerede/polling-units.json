@@ -26,6 +26,7 @@
     "pu_code_string": "161802016",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "AWARA/IKWEREDE",
     "document": {
       "external": true,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "161802015",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "AWARA/IKWEREDE",
     "document": {
       "external": true,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "161802020",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "AWARA/IKWEREDE",
     "document": {
       "external": true,
       "status": 1,
@@ -165,6 +168,7 @@
     "pu_code_string": "161802009",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "AWARA/IKWEREDE",
     "document": {
       "external": true,
       "status": 1,
@@ -228,6 +232,7 @@
     "pu_code_string": "161802010",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "AWARA/IKWEREDE",
     "document": {
       "external": false,
       "status": 1,
@@ -266,6 +271,7 @@
     "pu_code_string": "161802007",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "AWARA/IKWEREDE",
     "document": {
       "external": false,
       "status": 1,
@@ -304,6 +310,7 @@
     "pu_code_string": "161802013",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "AWARA/IKWEREDE",
     "document": {
       "external": false,
       "status": 1,
@@ -342,6 +349,7 @@
     "pu_code_string": "161802003",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "AWARA/IKWEREDE",
     "document": {
       "external": false,
       "status": 1,
@@ -380,6 +388,7 @@
     "pu_code_string": "161802014",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "AWARA/IKWEREDE",
     "document": {
       "external": false,
       "status": 1,
@@ -418,6 +427,7 @@
     "pu_code_string": "161802018",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "AWARA/IKWEREDE",
     "document": {
       "external": false,
       "status": 1,
@@ -456,6 +466,7 @@
     "pu_code_string": "161802001",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "AWARA/IKWEREDE",
     "document": {
       "external": false,
       "status": 1,
@@ -494,6 +505,7 @@
     "pu_code_string": "161802005",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "AWARA/IKWEREDE",
     "document": {
       "external": false,
       "status": 1,
@@ -532,6 +544,7 @@
     "pu_code_string": "161802008",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "AWARA/IKWEREDE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -562,6 +575,7 @@
     "pu_code_string": "161802002",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "AWARA/IKWEREDE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -592,6 +606,7 @@
     "pu_code_string": "161802012",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "AWARA/IKWEREDE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -622,6 +637,7 @@
     "pu_code_string": "161802006",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "AWARA/IKWEREDE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -652,6 +668,7 @@
     "pu_code_string": "161802017",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "AWARA/IKWEREDE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -682,6 +699,7 @@
     "pu_code_string": "161802004",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "AWARA/IKWEREDE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -712,6 +730,7 @@
     "pu_code_string": "161802011",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "AWARA/IKWEREDE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -742,6 +761,7 @@
     "pu_code_string": "161802019",
     "state_name": "IMO",
     "lga_name": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+    "ward_name": "AWARA/IKWEREDE",
     "old_documents": [],
     "has_old_documents": false
   }

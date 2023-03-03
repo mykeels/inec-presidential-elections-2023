@@ -26,6 +26,7 @@
     "pu_code_string": "162211010",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "AMARURU",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "162211009",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "AMARURU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -94,6 +96,7 @@
     "pu_code_string": "162211008",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "AMARURU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -124,6 +127,7 @@
     "pu_code_string": "162211007",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "AMARURU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -154,6 +158,7 @@
     "pu_code_string": "162211012",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "AMARURU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -184,6 +189,7 @@
     "pu_code_string": "162211011",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "AMARURU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -214,6 +220,7 @@
     "pu_code_string": "162211004",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "AMARURU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -244,6 +251,7 @@
     "pu_code_string": "162211003",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "AMARURU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -274,6 +282,7 @@
     "pu_code_string": "162211002",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "AMARURU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -304,6 +313,7 @@
     "pu_code_string": "162211001",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "AMARURU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -334,6 +344,7 @@
     "pu_code_string": "162211006",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "AMARURU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -364,6 +375,7 @@
     "pu_code_string": "162211005",
     "state_name": "IMO",
     "lga_name": "ORSU (AWO IDEMILI)",
+    "ward_name": "AMARURU",
     "old_documents": [],
     "has_old_documents": false
   }

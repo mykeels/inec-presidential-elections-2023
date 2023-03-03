@@ -26,6 +26,7 @@
     "pu_code_string": "161902020",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "OKIGWE II",
     "document": {
       "external": true,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "161902019",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "OKIGWE II",
     "document": {
       "external": true,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "161902007",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "OKIGWE II",
     "document": {
       "external": true,
       "status": 1,
@@ -149,6 +152,7 @@
     "pu_code_string": "161902006",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "OKIGWE II",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -180,6 +184,7 @@
     "pu_code_string": "161902004",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "OKIGWE II",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -211,6 +216,7 @@
     "pu_code_string": "161902001",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "OKIGWE II",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -242,6 +248,7 @@
     "pu_code_string": "161902009",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "OKIGWE II",
     "document": {
       "external": true,
       "status": 1,
@@ -280,6 +287,7 @@
     "pu_code_string": "161902027",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "OKIGWE II",
     "document": {
       "external": true,
       "status": 1,
@@ -318,6 +326,7 @@
     "pu_code_string": "161902011",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "OKIGWE II",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -349,6 +358,7 @@
     "pu_code_string": "161902016",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "OKIGWE II",
     "document": {
       "external": true,
       "status": 1,
@@ -387,6 +397,7 @@
     "pu_code_string": "161902014",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "OKIGWE II",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -418,6 +429,7 @@
     "pu_code_string": "161902008",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "OKIGWE II",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -449,6 +461,7 @@
     "pu_code_string": "161902018",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "OKIGWE II",
     "document": {
       "external": true,
       "status": 1,
@@ -487,6 +500,7 @@
     "pu_code_string": "161902012",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "OKIGWE II",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -518,6 +532,7 @@
     "pu_code_string": "161902013",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "OKIGWE II",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -549,6 +564,7 @@
     "pu_code_string": "161902010",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "OKIGWE II",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -580,6 +596,7 @@
     "pu_code_string": "161902002",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "OKIGWE II",
     "document": {
       "external": true,
       "status": 1,
@@ -651,6 +668,7 @@
     "pu_code_string": "161902015",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "OKIGWE II",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -682,6 +700,7 @@
     "pu_code_string": "161902003",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "OKIGWE II",
     "document": null,
     "old_documents": [],
     "has_old_documents": false
@@ -713,6 +732,7 @@
     "pu_code_string": "161902023",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "OKIGWE II",
     "document": {
       "external": true,
       "status": 1,
@@ -751,6 +771,7 @@
     "pu_code_string": "161902021",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "OKIGWE II",
     "document": {
       "external": true,
       "status": 1,
@@ -814,6 +835,7 @@
     "pu_code_string": "161902030",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "OKIGWE II",
     "document": {
       "external": true,
       "status": 1,
@@ -877,6 +899,7 @@
     "pu_code_string": "161902024",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "OKIGWE II",
     "document": {
       "external": true,
       "status": 1,
@@ -940,6 +963,7 @@
     "pu_code_string": "161902005",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "OKIGWE II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -970,6 +994,7 @@
     "pu_code_string": "161902025",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "OKIGWE II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1000,6 +1025,7 @@
     "pu_code_string": "161902017",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "OKIGWE II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1030,6 +1056,7 @@
     "pu_code_string": "161902022",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "OKIGWE II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1060,6 +1087,7 @@
     "pu_code_string": "161902029",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "OKIGWE II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1090,6 +1118,7 @@
     "pu_code_string": "161902028",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "OKIGWE II",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -1120,6 +1149,7 @@
     "pu_code_string": "161902026",
     "state_name": "IMO",
     "lga_name": "OKIGWE  (OKIGWE)",
+    "ward_name": "OKIGWE II",
     "old_documents": [],
     "has_old_documents": false
   }

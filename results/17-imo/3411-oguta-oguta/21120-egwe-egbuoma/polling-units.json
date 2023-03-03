@@ -26,6 +26,7 @@
     "pu_code_string": "161702003",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "EGWE/EGBUOMA",
     "document": {
       "external": true,
       "status": 1,
@@ -73,6 +74,7 @@
     "pu_code_string": "161702020",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "EGWE/EGBUOMA",
     "document": {
       "external": true,
       "status": 1,
@@ -111,6 +113,7 @@
     "pu_code_string": "161702017",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "EGWE/EGBUOMA",
     "document": {
       "external": true,
       "status": 1,
@@ -149,6 +152,7 @@
     "pu_code_string": "161702002",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "EGWE/EGBUOMA",
     "document": {
       "external": true,
       "status": 1,
@@ -196,6 +200,7 @@
     "pu_code_string": "161702007",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "EGWE/EGBUOMA",
     "document": {
       "external": true,
       "status": 1,
@@ -243,6 +248,7 @@
     "pu_code_string": "161702010",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "EGWE/EGBUOMA",
     "document": {
       "external": true,
       "status": 1,
@@ -290,6 +296,7 @@
     "pu_code_string": "161702004",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "EGWE/EGBUOMA",
     "document": {
       "external": true,
       "status": 1,
@@ -337,6 +344,7 @@
     "pu_code_string": "161702009",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "EGWE/EGBUOMA",
     "document": {
       "external": true,
       "status": 1,
@@ -384,6 +392,7 @@
     "pu_code_string": "161702001",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "EGWE/EGBUOMA",
     "document": {
       "external": true,
       "status": 1,
@@ -431,6 +440,7 @@
     "pu_code_string": "161702006",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "EGWE/EGBUOMA",
     "document": null,
     "old_documents": [
       {
@@ -471,6 +481,7 @@
     "pu_code_string": "161702005",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "EGWE/EGBUOMA",
     "document": null,
     "old_documents": [
       {
@@ -511,6 +522,7 @@
     "pu_code_string": "161702018",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "EGWE/EGBUOMA",
     "document": {
       "external": false,
       "status": 1,
@@ -549,6 +561,7 @@
     "pu_code_string": "161702011",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "EGWE/EGBUOMA",
     "document": {
       "external": false,
       "status": 1,
@@ -587,6 +600,7 @@
     "pu_code_string": "161702008",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "EGWE/EGBUOMA",
     "document": {
       "external": false,
       "status": 1,
@@ -625,6 +639,7 @@
     "pu_code_string": "161702013",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "EGWE/EGBUOMA",
     "document": {
       "external": false,
       "status": 1,
@@ -663,6 +678,7 @@
     "pu_code_string": "161702012",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "EGWE/EGBUOMA",
     "document": {
       "external": false,
       "status": 1,
@@ -701,6 +717,7 @@
     "pu_code_string": "161702016",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "EGWE/EGBUOMA",
     "document": {
       "external": false,
       "status": 1,
@@ -739,6 +756,7 @@
     "pu_code_string": "161702014",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "EGWE/EGBUOMA",
     "document": {
       "external": false,
       "status": 1,
@@ -777,6 +795,7 @@
     "pu_code_string": "161702019",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "EGWE/EGBUOMA",
     "document": {
       "external": false,
       "status": 1,
@@ -815,6 +834,7 @@
     "pu_code_string": "161702015",
     "state_name": "IMO",
     "lga_name": "OGUTA (OGUTA)",
+    "ward_name": "EGWE/EGBUOMA",
     "document": {
       "external": false,
       "status": 1,

@@ -1,23 +1,23 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-IMO,ORU-EAST,,"PROGRESSIVE PRIMARY SCHOOL, AZIAKATTA II",16/23/09/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/017/017-1677418658.pdf,false
-IMO,ORU-EAST,,AKATTA TOWN HALL II,16/23/09/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/016/016-1677418065.pdf,false
-IMO,ORU-EAST,,"COMMUNITY PRIMARY SCHOOL, OKPORO AKATTA",16/23/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/011/011-1677417671.pdf,false
-IMO,ORU-EAST,,WOMEN EDUCATION CENTRE,16/23/09/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/015/015-1677417292.pdf,false
-IMO,ORU-EAST,,UMUOKPARA AKWA HALL,16/23/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/009/009-1677416940.pdf,false
-IMO,ORU-EAST,,AKATTA TOWN HALL I,16/23/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/014/014-1677416888.pdf,false
-IMO,ORU-EAST,,"PROGRESSIVE PRIMARY SCHOOL, AZIAKATTA I",16/23/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/013/013-1677416854.pdf,false
-IMO,ORU-EAST,,MIDDLE AGE HALL ICHI I,16/23/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/006/006-1677416678.pdf,false
-IMO,ORU-EAST,,OKWU AKATA HALL,16/23/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/003/003-1677416626.pdf,false
-IMO,ORU-EAST,,IHITTE PRIMARY SCHOOL,16/23/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/002/002-1677416553.pdf,false
-IMO,ORU-EAST,,UBAHU PRIMARY SCHOOL I,16/23/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/004/004-1677416338.pdf,false
-IMO,ORU-EAST,,MIDDLE AGE HALL ICHI II,16/23/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/007/007-1677416241.pdf,false
-IMO,ORU-EAST,,UBAHA PRIMARY SCHOOL II,16/23/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/012/012-1677416203.pdf,false
-IMO,ORU-EAST,,"COMM. PRIMARY SCHOOL, KURAH",16/23/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/005/005-1677415628.pdf,false
-IMO,ORU-EAST,,CENTRAL SCHOOL AKATA,16/23/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/001/001-1677415457.pdf,false
-IMO,ORU-EAST,,OHANA HALL,16/23/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/010/010-1677415438.pdf,false
-IMO,ORU-EAST,,AKWA CIVIC CENTRE,16/23/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/008/008-1677415334.pdf,false
-IMO,ORU-EAST,,OKWU OWERE AKATA,16/23/09/019,,false
-IMO,ORU-EAST,,AMANATO HALL UBAHA AKATA,16/23/09/018,,false
-IMO,ORU-EAST,,OKPORO AKATA TOWN HALL,16/23/09/022,,false
-IMO,ORU-EAST,,UMUDURU AKWA HALL,16/23/09/021,,false
-IMO,ORU-EAST,,AKATA SECONDARY SCHOOL,16/23/09/020,,false
+IMO,ORU-EAST,AKATA,"PROGRESSIVE PRIMARY SCHOOL, AZIAKATTA II",16/23/09/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/017/017-1677418658.pdf,false
+IMO,ORU-EAST,AKATA,AKATTA TOWN HALL II,16/23/09/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/016/016-1677418065.pdf,false
+IMO,ORU-EAST,AKATA,"COMMUNITY PRIMARY SCHOOL, OKPORO AKATTA",16/23/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/011/011-1677417671.pdf,false
+IMO,ORU-EAST,AKATA,WOMEN EDUCATION CENTRE,16/23/09/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/015/015-1677417292.pdf,false
+IMO,ORU-EAST,AKATA,UMUOKPARA AKWA HALL,16/23/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/009/009-1677416940.pdf,false
+IMO,ORU-EAST,AKATA,AKATTA TOWN HALL I,16/23/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/014/014-1677416888.pdf,false
+IMO,ORU-EAST,AKATA,"PROGRESSIVE PRIMARY SCHOOL, AZIAKATTA I",16/23/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/013/013-1677416854.pdf,false
+IMO,ORU-EAST,AKATA,MIDDLE AGE HALL ICHI I,16/23/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/006/006-1677416678.pdf,false
+IMO,ORU-EAST,AKATA,OKWU AKATA HALL,16/23/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/003/003-1677416626.pdf,false
+IMO,ORU-EAST,AKATA,IHITTE PRIMARY SCHOOL,16/23/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/002/002-1677416553.pdf,false
+IMO,ORU-EAST,AKATA,UBAHU PRIMARY SCHOOL I,16/23/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/004/004-1677416338.pdf,false
+IMO,ORU-EAST,AKATA,MIDDLE AGE HALL ICHI II,16/23/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/007/007-1677416241.pdf,false
+IMO,ORU-EAST,AKATA,UBAHA PRIMARY SCHOOL II,16/23/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/012/012-1677416203.pdf,false
+IMO,ORU-EAST,AKATA,"COMM. PRIMARY SCHOOL, KURAH",16/23/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/005/005-1677415628.pdf,false
+IMO,ORU-EAST,AKATA,CENTRAL SCHOOL AKATA,16/23/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/001/001-1677415457.pdf,false
+IMO,ORU-EAST,AKATA,OHANA HALL,16/23/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/010/010-1677415438.pdf,false
+IMO,ORU-EAST,AKATA,AKWA CIVIC CENTRE,16/23/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/23/ward/09/pu/008/008-1677415334.pdf,false
+IMO,ORU-EAST,AKATA,OKWU OWERE AKATA,16/23/09/019,,false
+IMO,ORU-EAST,AKATA,AMANATO HALL UBAHA AKATA,16/23/09/018,,false
+IMO,ORU-EAST,AKATA,OKPORO AKATA TOWN HALL,16/23/09/022,,false
+IMO,ORU-EAST,AKATA,UMUDURU AKWA HALL,16/23/09/021,,false
+IMO,ORU-EAST,AKATA,AKATA SECONDARY SCHOOL,16/23/09/020,,false

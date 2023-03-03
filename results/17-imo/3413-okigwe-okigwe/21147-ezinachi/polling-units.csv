@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-IMO,OKIGWE  (OKIGWE),,WOMEN HALL EZINACHI,16/19/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639005/result_104959_1677530141_thumb.jpg,false
-IMO,OKIGWE  (OKIGWE),,EZINACHI CENTRAL SCHOOL II,16/19/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/47082/result_104958_1677529984_thumb.jpg,true
-IMO,OKIGWE  (OKIGWE),,UMUDIABA VILLAGE SQUARE,16/19/06/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/47081/result_104957_1677529576_thumb.jpg,false
-IMO,OKIGWE  (OKIGWE),,UBAHU VILLAGE SQUARE,16/19/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/47074/result_104950_1677529385_thumb.jpg,false
-IMO,OKIGWE  (OKIGWE),,EZINACHI PRIMARY SCHOOL,16/19/06/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/47076/result_104952_1677529213_thumb.jpg,false
-IMO,OKIGWE  (OKIGWE),,EZINACHI CENTRAL SCHOOL I,16/19/06/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/47073/result_104949_1677528848_thumb.jpg,false
-IMO,OKIGWE  (OKIGWE),,AMACHARA VILLAGE SQUARE,16/19/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/47079/result_104955_1677528585_thumb.jpg,false
-IMO,OKIGWE  (OKIGWE),,EZINACHI COMM. PRIMARY SCHOOL,16/19/06/006,,false
-IMO,OKIGWE  (OKIGWE),,NDIOHIA COMM. SCHOOL,16/19/06/005,,false
-IMO,OKIGWE  (OKIGWE),,AMAUKWA VILLAGE SQUARE,16/19/06/003,,false
-IMO,OKIGWE  (OKIGWE),,EZINACHI COMM. SEC. SCHOOL,16/19/06/008,,false
+IMO,OKIGWE  (OKIGWE),EZINACHI,WOMEN HALL EZINACHI,16/19/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/639005/result_104959_1677530141_thumb.jpg,false
+IMO,OKIGWE  (OKIGWE),EZINACHI,EZINACHI CENTRAL SCHOOL II,16/19/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/47082/result_104958_1677529984_thumb.jpg,true
+IMO,OKIGWE  (OKIGWE),EZINACHI,UMUDIABA VILLAGE SQUARE,16/19/06/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/47081/result_104957_1677529576_thumb.jpg,false
+IMO,OKIGWE  (OKIGWE),EZINACHI,UBAHU VILLAGE SQUARE,16/19/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/47074/result_104950_1677529385_thumb.jpg,false
+IMO,OKIGWE  (OKIGWE),EZINACHI,EZINACHI PRIMARY SCHOOL,16/19/06/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/47076/result_104952_1677529213_thumb.jpg,false
+IMO,OKIGWE  (OKIGWE),EZINACHI,EZINACHI CENTRAL SCHOOL I,16/19/06/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/47073/result_104949_1677528848_thumb.jpg,false
+IMO,OKIGWE  (OKIGWE),EZINACHI,AMACHARA VILLAGE SQUARE,16/19/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/47079/result_104955_1677528585_thumb.jpg,false
+IMO,OKIGWE  (OKIGWE),EZINACHI,EZINACHI COMM. PRIMARY SCHOOL,16/19/06/006,,false
+IMO,OKIGWE  (OKIGWE),EZINACHI,NDIOHIA COMM. SCHOOL,16/19/06/005,,false
+IMO,OKIGWE  (OKIGWE),EZINACHI,AMAUKWA VILLAGE SQUARE,16/19/06/003,,false
+IMO,OKIGWE  (OKIGWE),EZINACHI,EZINACHI COMM. SEC. SCHOOL,16/19/06/008,,false

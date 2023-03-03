@@ -1,22 +1,22 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-IMO,OGUTA (OGUTA),,GIRLS' PRI. SCH. OGUTA IV,16/17/07/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46801/result_104568_1677675777_thumb.jpg,true
-IMO,OGUTA (OGUTA),,GEN. HOSPITAL OGUTA,16/17/07/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/638377/result_104584_1677673005_thumb.jpg,false
-IMO,OGUTA (OGUTA),,MAGISTRATE COURT OGUTA,16/17/07/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/638376/result_104583_1677672676_thumb.jpg,false
-IMO,OGUTA (OGUTA),,OGUTA CIVIC CENT.,16/17/07/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/638375/result_104582_1677672499_thumb.jpg,false
-IMO,OGUTA (OGUTA),,TRINITY HIGH SCH. OGUTA,16/17/07/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/638374/result_104581_1677672073_thumb.jpg,false
-IMO,OGUTA (OGUTA),,NOMADIC SCHOOL UGADA I,16/17/07/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46812/result_104579_1677671926_thumb.jpg,false
-IMO,OGUTA (OGUTA),,AFIAFOR UGADA,16/17/07/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46811/result_104578_1677671717_thumb.jpg,false
-IMO,OGUTA (OGUTA),,TOWN SCHOOL OGUTA III,16/17/07/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46810/result_104577_1677671546_thumb.jpg,false
-IMO,OGUTA (OGUTA),,TOWN SCHOOL OGUTA II,16/17/07/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46809/result_104576_1677671347_thumb.jpg,false
-IMO,OGUTA (OGUTA),,TOWN SCHOOL OGUTA I,16/17/07/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46808/result_104575_1677671188_thumb.jpg,false
-IMO,OGUTA (OGUTA),,CENTRAL SCH. OGUTA VI,16/17/07/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46807/result_104574_1677670931_thumb.jpg,false
-IMO,OGUTA (OGUTA),,CENTRAL SCH. OGUTA V,16/17/07/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46806/result_104573_1677670775_thumb.jpg,false
-IMO,OGUTA (OGUTA),,CENTRAL SCH. OGUTA IV,16/17/07/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46805/result_104572_1677670572_thumb.jpg,true
-IMO,OGUTA (OGUTA),,GIRLS' PRI. SCH. OGUTA III,16/17/07/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46800/result_104567_1677670312_thumb.jpg,false
-IMO,OGUTA (OGUTA),,CENTRAL SCH. OGUTA I,16/17/07/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46802/result_104569_1677670105_thumb.jpg,false
-IMO,OGUTA (OGUTA),,GIRLS' PRI. SCH. OGUTA II,16/17/07/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46799/result_104566_1677669807_thumb.jpg,false
-IMO,OGUTA (OGUTA),,GIRLS' PRI. SCH. OGUTA I,16/17/07/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46798/result_104565_1677669589_thumb.jpg,false
-IMO,OGUTA (OGUTA),,CENTRAL SCH. OGUTA III,16/17/07/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46804/result_104571_1677669317_thumb.jpg,false
-IMO,OGUTA (OGUTA),,CENTRAL SCH. OGUTA II,16/17/07/006,,false
-IMO,OGUTA (OGUTA),,AFIAAFOR OGADA II,16/17/07/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/07/pu/021/021-1677396569.pdf,false
-IMO,OGUTA (OGUTA),,NOMADIC SCHOOL UGADA II,16/17/07/016,,false
+IMO,OGUTA (OGUTA),OGUTA 'A',GIRLS' PRI. SCH. OGUTA IV,16/17/07/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46801/result_104568_1677675777_thumb.jpg,true
+IMO,OGUTA (OGUTA),OGUTA 'A',GEN. HOSPITAL OGUTA,16/17/07/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/638377/result_104584_1677673005_thumb.jpg,false
+IMO,OGUTA (OGUTA),OGUTA 'A',MAGISTRATE COURT OGUTA,16/17/07/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/638376/result_104583_1677672676_thumb.jpg,false
+IMO,OGUTA (OGUTA),OGUTA 'A',OGUTA CIVIC CENT.,16/17/07/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/638375/result_104582_1677672499_thumb.jpg,false
+IMO,OGUTA (OGUTA),OGUTA 'A',TRINITY HIGH SCH. OGUTA,16/17/07/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/638374/result_104581_1677672073_thumb.jpg,false
+IMO,OGUTA (OGUTA),OGUTA 'A',NOMADIC SCHOOL UGADA I,16/17/07/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46812/result_104579_1677671926_thumb.jpg,false
+IMO,OGUTA (OGUTA),OGUTA 'A',AFIAFOR UGADA,16/17/07/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46811/result_104578_1677671717_thumb.jpg,false
+IMO,OGUTA (OGUTA),OGUTA 'A',TOWN SCHOOL OGUTA III,16/17/07/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46810/result_104577_1677671546_thumb.jpg,false
+IMO,OGUTA (OGUTA),OGUTA 'A',TOWN SCHOOL OGUTA II,16/17/07/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46809/result_104576_1677671347_thumb.jpg,false
+IMO,OGUTA (OGUTA),OGUTA 'A',TOWN SCHOOL OGUTA I,16/17/07/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46808/result_104575_1677671188_thumb.jpg,false
+IMO,OGUTA (OGUTA),OGUTA 'A',CENTRAL SCH. OGUTA VI,16/17/07/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46807/result_104574_1677670931_thumb.jpg,false
+IMO,OGUTA (OGUTA),OGUTA 'A',CENTRAL SCH. OGUTA V,16/17/07/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46806/result_104573_1677670775_thumb.jpg,false
+IMO,OGUTA (OGUTA),OGUTA 'A',CENTRAL SCH. OGUTA IV,16/17/07/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46805/result_104572_1677670572_thumb.jpg,true
+IMO,OGUTA (OGUTA),OGUTA 'A',GIRLS' PRI. SCH. OGUTA III,16/17/07/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46800/result_104567_1677670312_thumb.jpg,false
+IMO,OGUTA (OGUTA),OGUTA 'A',CENTRAL SCH. OGUTA I,16/17/07/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46802/result_104569_1677670105_thumb.jpg,false
+IMO,OGUTA (OGUTA),OGUTA 'A',GIRLS' PRI. SCH. OGUTA II,16/17/07/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46799/result_104566_1677669807_thumb.jpg,false
+IMO,OGUTA (OGUTA),OGUTA 'A',GIRLS' PRI. SCH. OGUTA I,16/17/07/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46798/result_104565_1677669589_thumb.jpg,false
+IMO,OGUTA (OGUTA),OGUTA 'A',CENTRAL SCH. OGUTA III,16/17/07/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/46804/result_104571_1677669317_thumb.jpg,false
+IMO,OGUTA (OGUTA),OGUTA 'A',CENTRAL SCH. OGUTA II,16/17/07/006,,false
+IMO,OGUTA (OGUTA),OGUTA 'A',AFIAAFOR OGADA II,16/17/07/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/07/pu/021/021-1677396569.pdf,false
+IMO,OGUTA (OGUTA),OGUTA 'A',NOMADIC SCHOOL UGADA II,16/17/07/016,,false
