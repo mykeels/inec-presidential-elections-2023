@@ -1,15 +1,15 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,MAYO - BELWA,,ZABI / SAKLA / ZABI PRI. SCH.,02/12/08/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4100/result_48164_1677530494_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,BISSA PRIMARY SCH,02/12/08/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620283/result_48165_1677530589_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,MUMNAPI YAMDO / KOFAR JAURO YAMDO,02/12/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4098/result_48162_1677530286_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,PONG / MIBOLO / KOFAR JAURO,02/12/08/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4099/result_48163_1677530384_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,JERENG HAUSA  / VIEWING CENTRE,02/12/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4097/result_48161_1677530206_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,JERENG FULANI / JERENG PRI. SCH.,02/12/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4096/result_48160_1677530107_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,JELENG / JELENG PRI. SCH.,02/12/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4095/result_48159_1677529855_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,GANGLAMJA/G/PELUM / GANGLAMJA PRI.  SCH.,02/12/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4093/result_48157_1677529691_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,DANGSA / BARGAL /  DANGSA PRI. SCH.,02/12/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4092/result_48156_1677529602_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,JATULUYU / KOFAR JAURO,02/12/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4094/result_48158_1677529766_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,DANGSA / KOFAR  J/ DANGSA,02/12/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4091/result_48155_1677529506_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,DADORU / DADORU PRI. SCH.,02/12/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4090/result_48154_1677529332_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,BURA/ BURA PRI. SCH.,02/12/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4089/result_48153_1677529077_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,BAMBE FULANI   -  BAMBE PRI. SCH.,02/12/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4088/result_48152_1677528940_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,NASSARAWO JERENG,ZABI / SAKLA / ZABI PRI. SCH.,02/12/08/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4100/result_48164_1677530494_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,NASSARAWO JERENG,BISSA PRIMARY SCH,02/12/08/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620283/result_48165_1677530589_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,NASSARAWO JERENG,MUMNAPI YAMDO / KOFAR JAURO YAMDO,02/12/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4098/result_48162_1677530286_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,NASSARAWO JERENG,PONG / MIBOLO / KOFAR JAURO,02/12/08/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4099/result_48163_1677530384_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,NASSARAWO JERENG,JERENG HAUSA  / VIEWING CENTRE,02/12/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4097/result_48161_1677530206_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,NASSARAWO JERENG,JERENG FULANI / JERENG PRI. SCH.,02/12/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4096/result_48160_1677530107_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,NASSARAWO JERENG,JELENG / JELENG PRI. SCH.,02/12/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4095/result_48159_1677529855_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,NASSARAWO JERENG,GANGLAMJA/G/PELUM / GANGLAMJA PRI.  SCH.,02/12/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4093/result_48157_1677529691_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,NASSARAWO JERENG,DANGSA / BARGAL /  DANGSA PRI. SCH.,02/12/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4092/result_48156_1677529602_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,NASSARAWO JERENG,JATULUYU / KOFAR JAURO,02/12/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4094/result_48158_1677529766_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,NASSARAWO JERENG,DANGSA / KOFAR  J/ DANGSA,02/12/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4091/result_48155_1677529506_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,NASSARAWO JERENG,DADORU / DADORU PRI. SCH.,02/12/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4090/result_48154_1677529332_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,NASSARAWO JERENG,BURA/ BURA PRI. SCH.,02/12/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4089/result_48153_1677529077_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,NASSARAWO JERENG,BAMBE FULANI   -  BAMBE PRI. SCH.,02/12/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4088/result_48152_1677528940_thumb.jpg,true

@@ -1,8 +1,8 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,MUBI SOUTH,,KINGA/ KINGA PRI. SCH.,02/15/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3134/ward/17867/pu/4499/4499-1677764878.pdf,true
-ADAMAWA,MUBI SOUTH,,KISSA/ KOFAR JAURO SA'IDU,02/15/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3134/ward/17867/pu/4500/4500-1677764555.pdf,false
-ADAMAWA,MUBI SOUTH,,MAZA KOYA/ KOFAR JAURO ALH. AHMADU I,02/15/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3134/ward/17867/pu/4502/4502-1677762098.pdf,false
-ADAMAWA,MUBI SOUTH,,MAZA KOYA/ KOFAR JAURO ALH. AHMADU II,02/15/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3134/ward/17867/pu/4503/4503-1677760936.pdf,false
-ADAMAWA,MUBI SOUTH,,MIZUWA/ KOFAR JAURO HAYATU ARDO,02/15/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/05/pu/007/007-1677380308.pdf,false
-ADAMAWA,MUBI SOUTH,,MBURIMA/ KOFAR WAKILI JAURO MUSA HAMMAWA,02/15/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/05/pu/006/006-1677380014.pdf,false
-ADAMAWA,MUBI SOUTH,,LUMORE/ KWAJA PRI. SCH.,02/15/05/003,,false
+ADAMAWA,MUBI SOUTH,KWAJA,KINGA/ KINGA PRI. SCH.,02/15/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3134/ward/17867/pu/4499/4499-1677764878.pdf,true
+ADAMAWA,MUBI SOUTH,KWAJA,KISSA/ KOFAR JAURO SA'IDU,02/15/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3134/ward/17867/pu/4500/4500-1677764555.pdf,false
+ADAMAWA,MUBI SOUTH,KWAJA,MAZA KOYA/ KOFAR JAURO ALH. AHMADU I,02/15/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3134/ward/17867/pu/4502/4502-1677762098.pdf,false
+ADAMAWA,MUBI SOUTH,KWAJA,MAZA KOYA/ KOFAR JAURO ALH. AHMADU II,02/15/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3134/ward/17867/pu/4503/4503-1677760936.pdf,false
+ADAMAWA,MUBI SOUTH,KWAJA,MIZUWA/ KOFAR JAURO HAYATU ARDO,02/15/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/05/pu/007/007-1677380308.pdf,false
+ADAMAWA,MUBI SOUTH,KWAJA,MBURIMA/ KOFAR WAKILI JAURO MUSA HAMMAWA,02/15/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/15/ward/05/pu/006/006-1677380014.pdf,false
+ADAMAWA,MUBI SOUTH,KWAJA,LUMORE/ KWAJA PRI. SCH.,02/15/05/003,,false

@@ -26,6 +26,7 @@
     "pu_code_string": "021311003",
     "state_name": "ADAMAWA",
     "lga_name": "MICHIKA",
+    "ward_name": "SINA / KAMALE / KWANDE",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "021311010",
     "state_name": "ADAMAWA",
     "lga_name": "MICHIKA",
+    "ward_name": "SINA / KAMALE / KWANDE",
     "document": {
       "external": false,
       "status": 1,
@@ -111,6 +113,7 @@
     "pu_code_string": "021311008",
     "state_name": "ADAMAWA",
     "lga_name": "MICHIKA",
+    "ward_name": "SINA / KAMALE / KWANDE",
     "document": {
       "external": false,
       "status": 1,
@@ -149,6 +152,7 @@
     "pu_code_string": "021311007",
     "state_name": "ADAMAWA",
     "lga_name": "MICHIKA",
+    "ward_name": "SINA / KAMALE / KWANDE",
     "document": {
       "external": false,
       "status": 1,
@@ -187,6 +191,7 @@
     "pu_code_string": "021311001",
     "state_name": "ADAMAWA",
     "lga_name": "MICHIKA",
+    "ward_name": "SINA / KAMALE / KWANDE",
     "document": {
       "external": false,
       "status": 1,
@@ -225,6 +230,7 @@
     "pu_code_string": "021311009",
     "state_name": "ADAMAWA",
     "lga_name": "MICHIKA",
+    "ward_name": "SINA / KAMALE / KWANDE",
     "document": {
       "external": false,
       "status": 1,
@@ -263,6 +269,7 @@
     "pu_code_string": "021311002",
     "state_name": "ADAMAWA",
     "lga_name": "MICHIKA",
+    "ward_name": "SINA / KAMALE / KWANDE",
     "document": {
       "external": false,
       "status": 1,
@@ -301,6 +308,7 @@
     "pu_code_string": "021311005",
     "state_name": "ADAMAWA",
     "lga_name": "MICHIKA",
+    "ward_name": "SINA / KAMALE / KWANDE",
     "document": {
       "external": false,
       "status": 1,
@@ -339,6 +347,7 @@
     "pu_code_string": "021311015",
     "state_name": "ADAMAWA",
     "lga_name": "MICHIKA",
+    "ward_name": "SINA / KAMALE / KWANDE",
     "document": {
       "external": false,
       "status": 1,
@@ -377,6 +386,7 @@
     "pu_code_string": "021311006",
     "state_name": "ADAMAWA",
     "lga_name": "MICHIKA",
+    "ward_name": "SINA / KAMALE / KWANDE",
     "document": {
       "external": false,
       "status": 1,
@@ -415,6 +425,7 @@
     "pu_code_string": "021311004",
     "state_name": "ADAMAWA",
     "lga_name": "MICHIKA",
+    "ward_name": "SINA / KAMALE / KWANDE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -445,6 +456,7 @@
     "pu_code_string": "021311014",
     "state_name": "ADAMAWA",
     "lga_name": "MICHIKA",
+    "ward_name": "SINA / KAMALE / KWANDE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -475,6 +487,7 @@
     "pu_code_string": "021311011",
     "state_name": "ADAMAWA",
     "lga_name": "MICHIKA",
+    "ward_name": "SINA / KAMALE / KWANDE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -505,6 +518,7 @@
     "pu_code_string": "021311013",
     "state_name": "ADAMAWA",
     "lga_name": "MICHIKA",
+    "ward_name": "SINA / KAMALE / KWANDE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -535,6 +549,7 @@
     "pu_code_string": "021311012",
     "state_name": "ADAMAWA",
     "lga_name": "MICHIKA",
+    "ward_name": "SINA / KAMALE / KWANDE",
     "old_documents": [],
     "has_old_documents": false
   }

@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,GUYUK,,WAWI CLINIC,02/06/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/03/pu/011/011-1677386413.pdf,false
-ADAMAWA,GUYUK,,GOROTORO/ WAWI/ GOROTORO PRY. SCH.,02/06/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/03/pu/004/004-1677385019.pdf,false
-ADAMAWA,GUYUK,,BODENO/ BODENO PRY. SCH.,02/06/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/03/pu/001/001-1677384563.pdf,false
-ADAMAWA,GUYUK,,CHANGILGALIYE/ K/MAIUNGUWA,02/06/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/03/pu/002/002-1677384279.pdf,false
-ADAMAWA,GUYUK,,DOMA/ DOMA PRY. SCH.,02/06/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/03/pu/003/003-1677383635.pdf,false
-ADAMAWA,GUYUK,,BODENO CLINIC,02/06/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/03/pu/007/007-1677383368.pdf,false
-ADAMAWA,GUYUK,,WAWI/ WAWI PRY. SCH.,02/06/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/03/pu/006/006-1677382629.pdf,false
-ADAMAWA,GUYUK,,TSOHON TASHA BODENO,02/06/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/03/pu/010/010-1677381988.pdf,false
-ADAMAWA,GUYUK,,MADA/ MADA PRY. SCH.,02/06/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/03/pu/005/005-1677381557.pdf,false
-ADAMAWA,GUYUK,,BAKIN KASUWA BODENO,02/06/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/03/pu/008/008-1677380874.pdf,false
-ADAMAWA,GUYUK,,JIMKISE NEAR BORE HOLE,02/06/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/03/pu/009/009-1677379795.pdf,false
+ADAMAWA,GUYUK,BODENO,WAWI CLINIC,02/06/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/03/pu/011/011-1677386413.pdf,false
+ADAMAWA,GUYUK,BODENO,GOROTORO/ WAWI/ GOROTORO PRY. SCH.,02/06/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/03/pu/004/004-1677385019.pdf,false
+ADAMAWA,GUYUK,BODENO,BODENO/ BODENO PRY. SCH.,02/06/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/03/pu/001/001-1677384563.pdf,false
+ADAMAWA,GUYUK,BODENO,CHANGILGALIYE/ K/MAIUNGUWA,02/06/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/03/pu/002/002-1677384279.pdf,false
+ADAMAWA,GUYUK,BODENO,DOMA/ DOMA PRY. SCH.,02/06/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/03/pu/003/003-1677383635.pdf,false
+ADAMAWA,GUYUK,BODENO,BODENO CLINIC,02/06/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/03/pu/007/007-1677383368.pdf,false
+ADAMAWA,GUYUK,BODENO,WAWI/ WAWI PRY. SCH.,02/06/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/03/pu/006/006-1677382629.pdf,false
+ADAMAWA,GUYUK,BODENO,TSOHON TASHA BODENO,02/06/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/03/pu/010/010-1677381988.pdf,false
+ADAMAWA,GUYUK,BODENO,MADA/ MADA PRY. SCH.,02/06/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/03/pu/005/005-1677381557.pdf,false
+ADAMAWA,GUYUK,BODENO,BAKIN KASUWA BODENO,02/06/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/03/pu/008/008-1677380874.pdf,false
+ADAMAWA,GUYUK,BODENO,JIMKISE NEAR BORE HOLE,02/06/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/03/pu/009/009-1677379795.pdf,false

@@ -1,15 +1,15 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,DEMSA,,KULA TAMU,02/01/04/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619592/result_46082_1677581324_thumb.jpg,false
-ADAMAWA,DEMSA,,DWAM LOH/ FOOTBALL GROUND,02/01/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/2704/result_46073_1677579934_thumb.jpg,false
-ADAMAWA,DEMSA,,NGONGULANG,02/01/04/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619594/result_46084_1677585348_thumb.jpg,false
-ADAMAWA,DEMSA,,LAKATI/ PLAYING GROUND,02/01/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/2705/result_46074_1677580042_thumb.jpg,false
-ADAMAWA,DEMSA,,SABON PEGI,02/01/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619590/result_46080_1677580898_thumb.jpg,false
-ADAMAWA,DEMSA,,LOH/ LOH PRI. SCH.,02/01/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/2707/result_46076_1677580219_thumb.jpg,false
-ADAMAWA,DEMSA,,MBUNGUDO/ OPEN SPACE,02/01/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/2708/result_46077_1677580332_thumb.jpg,false
-ADAMAWA,DEMSA,,BOSSO/ BOSSO PRI. SCH.,02/01/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/2703/result_46072_1677579785_thumb.jpg,false
-ADAMAWA,DEMSA,,LOH II,02/01/04/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619593/result_46083_1677581423_thumb.jpg,false
-ADAMAWA,DEMSA,,LINGA/ EXT. PRI. SCH.,02/01/04/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/2706/result_46075_1677580133_thumb.jpg,false
-ADAMAWA,DEMSA,,LAKATI II,02/01/04/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619591/result_46081_1677580989_thumb.jpg,false
-ADAMAWA,DEMSA,,GWANTANG,02/01/04/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619589/result_46079_1677580541_thumb.jpg,false
-ADAMAWA,DEMSA,,BILLACHI/ BILLACHI PRI. SCH.,02/01/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/2702/result_46071_1677579611_thumb.jpg,false
-ADAMAWA,DEMSA,,MURGWAYING/ DILLI PRI. SCH.,02/01/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/2709/result_46078_1677580429_thumb.jpg,false
+ADAMAWA,DEMSA,DILLI,KULA TAMU,02/01/04/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619592/result_46082_1677581324_thumb.jpg,false
+ADAMAWA,DEMSA,DILLI,DWAM LOH/ FOOTBALL GROUND,02/01/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/2704/result_46073_1677579934_thumb.jpg,false
+ADAMAWA,DEMSA,DILLI,NGONGULANG,02/01/04/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619594/result_46084_1677585348_thumb.jpg,false
+ADAMAWA,DEMSA,DILLI,LAKATI/ PLAYING GROUND,02/01/04/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/2705/result_46074_1677580042_thumb.jpg,false
+ADAMAWA,DEMSA,DILLI,SABON PEGI,02/01/04/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619590/result_46080_1677580898_thumb.jpg,false
+ADAMAWA,DEMSA,DILLI,LOH/ LOH PRI. SCH.,02/01/04/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/2707/result_46076_1677580219_thumb.jpg,false
+ADAMAWA,DEMSA,DILLI,MBUNGUDO/ OPEN SPACE,02/01/04/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/2708/result_46077_1677580332_thumb.jpg,false
+ADAMAWA,DEMSA,DILLI,BOSSO/ BOSSO PRI. SCH.,02/01/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/2703/result_46072_1677579785_thumb.jpg,false
+ADAMAWA,DEMSA,DILLI,LOH II,02/01/04/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619593/result_46083_1677581423_thumb.jpg,false
+ADAMAWA,DEMSA,DILLI,LINGA/ EXT. PRI. SCH.,02/01/04/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/2706/result_46075_1677580133_thumb.jpg,false
+ADAMAWA,DEMSA,DILLI,LAKATI II,02/01/04/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619591/result_46081_1677580989_thumb.jpg,false
+ADAMAWA,DEMSA,DILLI,GWANTANG,02/01/04/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/619589/result_46079_1677580541_thumb.jpg,false
+ADAMAWA,DEMSA,DILLI,BILLACHI/ BILLACHI PRI. SCH.,02/01/04/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/2702/result_46071_1677579611_thumb.jpg,false
+ADAMAWA,DEMSA,DILLI,MURGWAYING/ DILLI PRI. SCH.,02/01/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/2709/result_46078_1677580429_thumb.jpg,false

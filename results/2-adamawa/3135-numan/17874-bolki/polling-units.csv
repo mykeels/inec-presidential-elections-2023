@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,NUMAN,,BANG/ BANG PRI. SCH.,02/16/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/02/pu/001/001-1677403081.pdf,false
-ADAMAWA,NUMAN,,NZUMOSO PRI.SCH I,02/16/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/02/pu/013/013-1677402781.pdf,false
-ADAMAWA,NUMAN,,NZUMOSO/ NZUMOSO PRI. SCH.,02/16/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/02/pu/010/010-1677402386.pdf,false
-ADAMAWA,NUMAN,,NEGA/ K.J. NZOPURATO A.,02/16/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/02/pu/008/008-1677401910.pdf,false
-ADAMAWA,NUMAN,,LAWE/ LAWE PRI. SCH.,02/16/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/02/pu/007/007-1677401843.pdf,false
-ADAMAWA,NUMAN,,GON/ K.J. ISTIFANUS M.,02/16/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/02/pu/005/005-1677400798.pdf,false
-ADAMAWA,NUMAN,,BOLKI/ BOLKI PRI. SCH. I,02/16/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/02/pu/003/003-1677400482.pdf,false
-ADAMAWA,NUMAN,,KEGBALE/ KEGBALE PRI. SCH.,02/16/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/02/pu/006/006-1677399846.pdf,false
-ADAMAWA,NUMAN,,YANGA E.E / YANGA PRI. SCH.,02/16/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/02/pu/012/012-1677398891.pdf,false
-ADAMAWA,NUMAN,,NYAPULI/ K.J. ISHAYA N.,02/16/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/02/pu/009/009-1677397681.pdf,false
-ADAMAWA,NUMAN,,BOKKI/ K.J. KADAH L.,02/16/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/02/pu/002/002-1677396865.pdf,false
-ADAMAWA,NUMAN,,BOLKI/ BOLKI PRI. SCH. II,02/16/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/02/pu/004/004-1677396476.pdf,false
-ADAMAWA,NUMAN,,YANGA E/ YANGA PRI. SCH.,02/16/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/02/pu/011/011-1677395067.pdf,false
+ADAMAWA,NUMAN,BOLKI,BANG/ BANG PRI. SCH.,02/16/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/02/pu/001/001-1677403081.pdf,false
+ADAMAWA,NUMAN,BOLKI,NZUMOSO PRI.SCH I,02/16/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/02/pu/013/013-1677402781.pdf,false
+ADAMAWA,NUMAN,BOLKI,NZUMOSO/ NZUMOSO PRI. SCH.,02/16/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/02/pu/010/010-1677402386.pdf,false
+ADAMAWA,NUMAN,BOLKI,NEGA/ K.J. NZOPURATO A.,02/16/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/02/pu/008/008-1677401910.pdf,false
+ADAMAWA,NUMAN,BOLKI,LAWE/ LAWE PRI. SCH.,02/16/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/02/pu/007/007-1677401843.pdf,false
+ADAMAWA,NUMAN,BOLKI,GON/ K.J. ISTIFANUS M.,02/16/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/02/pu/005/005-1677400798.pdf,false
+ADAMAWA,NUMAN,BOLKI,BOLKI/ BOLKI PRI. SCH. I,02/16/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/02/pu/003/003-1677400482.pdf,false
+ADAMAWA,NUMAN,BOLKI,KEGBALE/ KEGBALE PRI. SCH.,02/16/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/02/pu/006/006-1677399846.pdf,false
+ADAMAWA,NUMAN,BOLKI,YANGA E.E / YANGA PRI. SCH.,02/16/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/02/pu/012/012-1677398891.pdf,false
+ADAMAWA,NUMAN,BOLKI,NYAPULI/ K.J. ISHAYA N.,02/16/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/02/pu/009/009-1677397681.pdf,false
+ADAMAWA,NUMAN,BOLKI,BOKKI/ K.J. KADAH L.,02/16/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/02/pu/002/002-1677396865.pdf,false
+ADAMAWA,NUMAN,BOLKI,BOLKI/ BOLKI PRI. SCH. II,02/16/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/02/pu/004/004-1677396476.pdf,false
+ADAMAWA,NUMAN,BOLKI,YANGA E/ YANGA PRI. SCH.,02/16/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/02/pu/011/011-1677395067.pdf,false

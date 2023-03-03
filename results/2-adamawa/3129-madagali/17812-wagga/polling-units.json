@@ -26,6 +26,7 @@
     "pu_code_string": "021009005",
     "state_name": "ADAMAWA",
     "lga_name": "MADAGALI",
+    "ward_name": "WAGGA",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "021009018",
     "state_name": "ADAMAWA",
     "lga_name": "MADAGALI",
+    "ward_name": "WAGGA",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "021009002",
     "state_name": "ADAMAWA",
     "lga_name": "MADAGALI",
+    "ward_name": "WAGGA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -132,6 +135,7 @@
     "pu_code_string": "021009007",
     "state_name": "ADAMAWA",
     "lga_name": "MADAGALI",
+    "ward_name": "WAGGA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -162,6 +166,7 @@
     "pu_code_string": "021009012",
     "state_name": "ADAMAWA",
     "lga_name": "MADAGALI",
+    "ward_name": "WAGGA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -192,6 +197,7 @@
     "pu_code_string": "021009017",
     "state_name": "ADAMAWA",
     "lga_name": "MADAGALI",
+    "ward_name": "WAGGA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -222,6 +228,7 @@
     "pu_code_string": "021009004",
     "state_name": "ADAMAWA",
     "lga_name": "MADAGALI",
+    "ward_name": "WAGGA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -252,6 +259,7 @@
     "pu_code_string": "021009009",
     "state_name": "ADAMAWA",
     "lga_name": "MADAGALI",
+    "ward_name": "WAGGA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -282,6 +290,7 @@
     "pu_code_string": "021009014",
     "state_name": "ADAMAWA",
     "lga_name": "MADAGALI",
+    "ward_name": "WAGGA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -312,6 +321,7 @@
     "pu_code_string": "021009003",
     "state_name": "ADAMAWA",
     "lga_name": "MADAGALI",
+    "ward_name": "WAGGA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -342,6 +352,7 @@
     "pu_code_string": "021009008",
     "state_name": "ADAMAWA",
     "lga_name": "MADAGALI",
+    "ward_name": "WAGGA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -372,6 +383,7 @@
     "pu_code_string": "021009013",
     "state_name": "ADAMAWA",
     "lga_name": "MADAGALI",
+    "ward_name": "WAGGA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -402,6 +414,7 @@
     "pu_code_string": "021009001",
     "state_name": "ADAMAWA",
     "lga_name": "MADAGALI",
+    "ward_name": "WAGGA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -432,6 +445,7 @@
     "pu_code_string": "021009006",
     "state_name": "ADAMAWA",
     "lga_name": "MADAGALI",
+    "ward_name": "WAGGA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -462,6 +476,7 @@
     "pu_code_string": "021009011",
     "state_name": "ADAMAWA",
     "lga_name": "MADAGALI",
+    "ward_name": "WAGGA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -492,6 +507,7 @@
     "pu_code_string": "021009016",
     "state_name": "ADAMAWA",
     "lga_name": "MADAGALI",
+    "ward_name": "WAGGA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -522,6 +538,7 @@
     "pu_code_string": "021009010",
     "state_name": "ADAMAWA",
     "lga_name": "MADAGALI",
+    "ward_name": "WAGGA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -552,6 +569,7 @@
     "pu_code_string": "021009015",
     "state_name": "ADAMAWA",
     "lga_name": "MADAGALI",
+    "ward_name": "WAGGA",
     "old_documents": [],
     "has_old_documents": false
   }

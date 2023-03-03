@@ -1,23 +1,23 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,MAYO - BELWA,,GIJARO/ GIJARO PRY. SCH.,02/12/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17830/pu/4076/4076-1677701763.pdf,true
-ADAMAWA,MAYO - BELWA,,MAYO FARANG SECONDARY SCH.,02/12/07/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17830/pu/128670/128670-1677691435.pdf,true
-ADAMAWA,MAYO - BELWA,,MAYO LAMJA  PRIMARY SCHOOL,02/12/07/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17830/pu/128671/128671-1677688098.pdf,true
-ADAMAWA,MAYO - BELWA,,WURO YOMBE/ W/YOMBE PRY. SCH.,02/12/07/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17830/pu/4093/4093-1677680250.pdf,true
-ADAMAWA,MAYO - BELWA,,WURO LIMAN/ KOFAR J/W/LIMAN,02/12/07/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17830/pu/4092/4092-1677679869.pdf,true
-ADAMAWA,MAYO - BELWA,,WURO BIRIJI/ KOFAR JAURO BELLO,02/12/07/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17830/pu/4091/4091-1677662720.pdf,true
-ADAMAWA,MAYO - BELWA,,WURO ALIM/KJ W/ALIM,02/12/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17830/pu/4090/4090-1677661992.pdf,true
-ADAMAWA,MAYO - BELWA,,SEBORE AHMADU II/ SEBORE PRY. SCH.,02/12/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17830/pu/4089/4089-1677661545.pdf,true
-ADAMAWA,MAYO - BELWA,,SEBORE AHMADU I/ KOFAR J/SEBORE,02/12/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17830/pu/4088/4088-1677661195.pdf,true
-ADAMAWA,MAYO - BELWA,,SATE KOSEYEL - JOYE/ KOFAR JAURO,02/12/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17830/pu/4087/4087-1677660731.pdf,true
-ADAMAWA,MAYO - BELWA,,NGORONG/ KOFAR JAURO,02/12/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17830/pu/4086/4086-1677660312.pdf,true
-ADAMAWA,MAYO - BELWA,,MBALGARE/ MBALGARE PRY. SCH.,02/12/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17830/pu/4085/4085-1677659695.pdf,true
-ADAMAWA,MAYO - BELWA,,DIBANCI  JILIMA I/ KOFAR JAURO TEME,02/12/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17830/pu/4074/4074-1677659399.pdf,true
-ADAMAWA,MAYO - BELWA,,MAYO FARANG II/ MAYO FARANG PRY. SCH. II,02/12/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17830/pu/4083/4083-1677657786.pdf,true
-ADAMAWA,MAYO - BELWA,,MAYO FARANG I/ MAYO FARANG PRY. SCH. I,02/12/07/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4076/result_48138_1677541688_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,LAIDE DANGSA GIJARO/ K/JAURO LAIDE,02/12/07/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4074/result_48136_1677540056_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,KOKOLI/ KOFAR JAURO,02/12/07/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4072/result_48134_1677537788_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,DIBANCI  JILIMA II/ KOFAR JAURO DIBANCI,02/12/07/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4069/result_48131_1677503265_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,GUNURE/ KOFAR JAURO,02/12/07/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4071/result_48133_1677496017_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,KUSAKE R/GIWA/ R/GIWA PRY. SCH.,02/12/07/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4073/result_48135_1677566243_thumb.jpg,false
-ADAMAWA,MAYO - BELWA,,LIRINGO/SAKINGO/ KOFAR J/LIRINGO,02/12/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/07/pu/008/008-1677406627.pdf,false
-ADAMAWA,MAYO - BELWA,,MAYO LAMJA/ MAYO LAMJA PRY. SCH.,02/12/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/07/pu/011/011-1677405460.pdf,false
+ADAMAWA,MAYO - BELWA,MAYO FARANG,GIJARO/ GIJARO PRY. SCH.,02/12/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17830/pu/4076/4076-1677701763.pdf,true
+ADAMAWA,MAYO - BELWA,MAYO FARANG,MAYO FARANG SECONDARY SCH.,02/12/07/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17830/pu/128670/128670-1677691435.pdf,true
+ADAMAWA,MAYO - BELWA,MAYO FARANG,MAYO LAMJA  PRIMARY SCHOOL,02/12/07/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17830/pu/128671/128671-1677688098.pdf,true
+ADAMAWA,MAYO - BELWA,MAYO FARANG,WURO YOMBE/ W/YOMBE PRY. SCH.,02/12/07/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17830/pu/4093/4093-1677680250.pdf,true
+ADAMAWA,MAYO - BELWA,MAYO FARANG,WURO LIMAN/ KOFAR J/W/LIMAN,02/12/07/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17830/pu/4092/4092-1677679869.pdf,true
+ADAMAWA,MAYO - BELWA,MAYO FARANG,WURO BIRIJI/ KOFAR JAURO BELLO,02/12/07/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17830/pu/4091/4091-1677662720.pdf,true
+ADAMAWA,MAYO - BELWA,MAYO FARANG,WURO ALIM/KJ W/ALIM,02/12/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17830/pu/4090/4090-1677661992.pdf,true
+ADAMAWA,MAYO - BELWA,MAYO FARANG,SEBORE AHMADU II/ SEBORE PRY. SCH.,02/12/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17830/pu/4089/4089-1677661545.pdf,true
+ADAMAWA,MAYO - BELWA,MAYO FARANG,SEBORE AHMADU I/ KOFAR J/SEBORE,02/12/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17830/pu/4088/4088-1677661195.pdf,true
+ADAMAWA,MAYO - BELWA,MAYO FARANG,SATE KOSEYEL - JOYE/ KOFAR JAURO,02/12/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17830/pu/4087/4087-1677660731.pdf,true
+ADAMAWA,MAYO - BELWA,MAYO FARANG,NGORONG/ KOFAR JAURO,02/12/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17830/pu/4086/4086-1677660312.pdf,true
+ADAMAWA,MAYO - BELWA,MAYO FARANG,MBALGARE/ MBALGARE PRY. SCH.,02/12/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17830/pu/4085/4085-1677659695.pdf,true
+ADAMAWA,MAYO - BELWA,MAYO FARANG,DIBANCI  JILIMA I/ KOFAR JAURO TEME,02/12/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17830/pu/4074/4074-1677659399.pdf,true
+ADAMAWA,MAYO - BELWA,MAYO FARANG,MAYO FARANG II/ MAYO FARANG PRY. SCH. II,02/12/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17830/pu/4083/4083-1677657786.pdf,true
+ADAMAWA,MAYO - BELWA,MAYO FARANG,MAYO FARANG I/ MAYO FARANG PRY. SCH. I,02/12/07/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4076/result_48138_1677541688_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,MAYO FARANG,LAIDE DANGSA GIJARO/ K/JAURO LAIDE,02/12/07/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4074/result_48136_1677540056_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,MAYO FARANG,KOKOLI/ KOFAR JAURO,02/12/07/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4072/result_48134_1677537788_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,MAYO FARANG,DIBANCI  JILIMA II/ KOFAR JAURO DIBANCI,02/12/07/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4069/result_48131_1677503265_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,MAYO FARANG,GUNURE/ KOFAR JAURO,02/12/07/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4071/result_48133_1677496017_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,MAYO FARANG,KUSAKE R/GIWA/ R/GIWA PRY. SCH.,02/12/07/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4073/result_48135_1677566243_thumb.jpg,false
+ADAMAWA,MAYO - BELWA,MAYO FARANG,LIRINGO/SAKINGO/ KOFAR J/LIRINGO,02/12/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/07/pu/008/008-1677406627.pdf,false
+ADAMAWA,MAYO - BELWA,MAYO FARANG,MAYO LAMJA/ MAYO LAMJA PRY. SCH.,02/12/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/07/pu/011/011-1677405460.pdf,false

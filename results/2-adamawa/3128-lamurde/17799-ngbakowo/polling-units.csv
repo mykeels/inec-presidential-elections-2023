@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,LAMURDE,,VUDETO,02/09/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17799/pu/128559/128559-1677588250.pdf,true
-ADAMAWA,LAMURDE,,KABAWA/ KOFAR JAURO,02/09/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17799/pu/3723/3723-1677581130.pdf,true
-ADAMAWA,LAMURDE,,KABAWA/ KOFAR SARKIN HAUSAWA.,02/09/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17799/pu/3724/3724-1677580733.pdf,true
-ADAMAWA,LAMURDE,,POMOKOLANG/ KOFAR MAI ANGUWA,02/09/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17799/pu/3728/3728-1677580268.pdf,true
-ADAMAWA,LAMURDE,,NGBAKOWO DISPENSARY,02/09/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17799/pu/128557/128557-1677580093.pdf,true
-ADAMAWA,LAMURDE,,POMOKOLANG/ KOFAR MAI ANGUWA,02/09/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17799/pu/128556/128556-1677579558.pdf,true
-ADAMAWA,LAMURDE,,NGODOGORON/ KOFAR WAKILI,02/09/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17799/pu/3727/3727-1677578688.pdf,false
-ADAMAWA,LAMURDE,,KWAHANDAKAI,02/09/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17799/pu/128558/128558-1677578380.pdf,false
-ADAMAWA,LAMURDE,,NGODOGORON/ KOFAR JAURO,02/09/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17799/pu/3726/3726-1677575903.pdf,false
-ADAMAWA,LAMURDE,,TINGNO KOGI/ KOFAR WAKILI,02/09/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17799/pu/128555/128555-1677572761.pdf,false
-ADAMAWA,LAMURDE,,JANGAGURA/ NGBAKOWO PRY SCH.,02/09/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17799/pu/3722/3722-1677572488.pdf,true
-ADAMAWA,LAMURDE,,KOWEI/ KOFAR JAURO,02/09/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17799/pu/3725/3725-1677571129.pdf,true
+ADAMAWA,LAMURDE,NGBAKOWO,VUDETO,02/09/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17799/pu/128559/128559-1677588250.pdf,true
+ADAMAWA,LAMURDE,NGBAKOWO,KABAWA/ KOFAR JAURO,02/09/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17799/pu/3723/3723-1677581130.pdf,true
+ADAMAWA,LAMURDE,NGBAKOWO,KABAWA/ KOFAR SARKIN HAUSAWA.,02/09/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17799/pu/3724/3724-1677580733.pdf,true
+ADAMAWA,LAMURDE,NGBAKOWO,POMOKOLANG/ KOFAR MAI ANGUWA,02/09/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17799/pu/3728/3728-1677580268.pdf,true
+ADAMAWA,LAMURDE,NGBAKOWO,NGBAKOWO DISPENSARY,02/09/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17799/pu/128557/128557-1677580093.pdf,true
+ADAMAWA,LAMURDE,NGBAKOWO,POMOKOLANG/ KOFAR MAI ANGUWA,02/09/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17799/pu/128556/128556-1677579558.pdf,true
+ADAMAWA,LAMURDE,NGBAKOWO,NGODOGORON/ KOFAR WAKILI,02/09/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17799/pu/3727/3727-1677578688.pdf,false
+ADAMAWA,LAMURDE,NGBAKOWO,KWAHANDAKAI,02/09/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17799/pu/128558/128558-1677578380.pdf,false
+ADAMAWA,LAMURDE,NGBAKOWO,NGODOGORON/ KOFAR JAURO,02/09/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17799/pu/3726/3726-1677575903.pdf,false
+ADAMAWA,LAMURDE,NGBAKOWO,TINGNO KOGI/ KOFAR WAKILI,02/09/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17799/pu/128555/128555-1677572761.pdf,false
+ADAMAWA,LAMURDE,NGBAKOWO,JANGAGURA/ NGBAKOWO PRY SCH.,02/09/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17799/pu/3722/3722-1677572488.pdf,true
+ADAMAWA,LAMURDE,NGBAKOWO,KOWEI/ KOFAR JAURO,02/09/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17799/pu/3725/3725-1677571129.pdf,true

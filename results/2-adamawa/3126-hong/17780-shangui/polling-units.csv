@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,HONG,,WAJA/ KOFAR JAURO TIMOTHAWUS,02/07/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3483/result_47312_1677531813_thumb.jpg,true
-ADAMAWA,HONG,,GABBA / SHANGUI PRIMARY SCHOOL. III,02/07/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620051/result_47314_1677531618_thumb.jpg,true
-ADAMAWA,HONG,,MANDZAA/ JAURO ILIYA,02/07/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3480/result_47309_1677531447_thumb.jpg,true
-ADAMAWA,HONG,,MANDZAA/HEALTH POST,02/07/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17780/pu/128439/128439-1677616454.pdf,false
-ADAMAWA,HONG,,GABBA / SHANGUI PRIMARY SCHOOL II,02/07/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17780/pu/128437/128437-1677613493.pdf,false
-ADAMAWA,HONG,,WAJA/WAJA GIRLS PRIMARY SCHOOL,02/07/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17780/pu/128444/128444-1677612572.pdf,false
-ADAMAWA,HONG,,MUNGA/ MUNGA PRY. SCH.,02/07/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17780/pu/3488/3488-1677611761.pdf,false
-ADAMAWA,HONG,,MUNGA / MUNGA PRIMARY SCHOOL II,02/07/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17780/pu/128443/128443-1677611199.pdf,false
-ADAMAWA,HONG,,MBUVU OPEN SPACE. II,02/07/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17780/pu/128440/128440-1677607503.pdf,true
-ADAMAWA,HONG,,MBUVU OPEN SPACE IV,02/07/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17780/pu/128442/128442-1677604446.pdf,true
-ADAMAWA,HONG,,MBUVU OPEN SPACE III,02/07/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17780/pu/128441/128441-1677603492.pdf,true
-ADAMAWA,HONG,,MBUVU/ EUROPEAN QUARTERS,02/07/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17780/pu/3487/3487-1677591224.pdf,false
-ADAMAWA,HONG,,GABBA/ SHANGUI PRY. SCH.,02/07/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17780/pu/3485/3485-1677589344.pdf,true
+ADAMAWA,HONG,SHANGUI,WAJA/ KOFAR JAURO TIMOTHAWUS,02/07/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3483/result_47312_1677531813_thumb.jpg,true
+ADAMAWA,HONG,SHANGUI,GABBA / SHANGUI PRIMARY SCHOOL. III,02/07/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620051/result_47314_1677531618_thumb.jpg,true
+ADAMAWA,HONG,SHANGUI,MANDZAA/ JAURO ILIYA,02/07/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/3480/result_47309_1677531447_thumb.jpg,true
+ADAMAWA,HONG,SHANGUI,MANDZAA/HEALTH POST,02/07/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17780/pu/128439/128439-1677616454.pdf,false
+ADAMAWA,HONG,SHANGUI,GABBA / SHANGUI PRIMARY SCHOOL II,02/07/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17780/pu/128437/128437-1677613493.pdf,false
+ADAMAWA,HONG,SHANGUI,WAJA/WAJA GIRLS PRIMARY SCHOOL,02/07/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17780/pu/128444/128444-1677612572.pdf,false
+ADAMAWA,HONG,SHANGUI,MUNGA/ MUNGA PRY. SCH.,02/07/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17780/pu/3488/3488-1677611761.pdf,false
+ADAMAWA,HONG,SHANGUI,MUNGA / MUNGA PRIMARY SCHOOL II,02/07/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17780/pu/128443/128443-1677611199.pdf,false
+ADAMAWA,HONG,SHANGUI,MBUVU OPEN SPACE. II,02/07/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17780/pu/128440/128440-1677607503.pdf,true
+ADAMAWA,HONG,SHANGUI,MBUVU OPEN SPACE IV,02/07/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17780/pu/128442/128442-1677604446.pdf,true
+ADAMAWA,HONG,SHANGUI,MBUVU OPEN SPACE III,02/07/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17780/pu/128441/128441-1677603492.pdf,true
+ADAMAWA,HONG,SHANGUI,MBUVU/ EUROPEAN QUARTERS,02/07/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17780/pu/3487/3487-1677591224.pdf,false
+ADAMAWA,HONG,SHANGUI,GABBA/ SHANGUI PRY. SCH.,02/07/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17780/pu/3485/3485-1677589344.pdf,true

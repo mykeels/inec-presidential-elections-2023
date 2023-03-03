@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,NUMAN,,KWAGORO/ KWANGORO PRI. SCH,02/16/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3135/ward/17882/pu/4658/4658-1677597945.pdf,false
-ADAMAWA,NUMAN,,BONANGA/ KOFAR J. BITRUS,02/16/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3135/ward/17882/pu/4655/4655-1677597566.pdf,false
-ADAMAWA,NUMAN,,GBALAPUN/ GBALAPUN PRI. SCH.,02/16/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3135/ward/17882/pu/4656/4656-1677597028.pdf,false
-ADAMAWA,NUMAN,,BOKOTYE/ K.J ESTHON NDUGO,02/16/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3135/ward/17882/pu/4654/4654-1677596445.pdf,false
-ADAMAWA,NUMAN,,NGWALTI/ K.J HALILU,02/16/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3135/ward/17882/pu/4659/4659-1677595701.pdf,false
-ADAMAWA,NUMAN,,SALTI PRI.SCH I,02/16/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3135/ward/17882/pu/128985/128985-1677594435.pdf,true
-ADAMAWA,NUMAN,,BANGWE/ K.J BLI FUREMA,02/16/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3135/ward/17882/pu/4653/4653-1677594390.pdf,false
-ADAMAWA,NUMAN,,VULPI/ KWAHANOGWE,02/16/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3135/ward/17882/pu/4662/4662-1677593997.pdf,true
-ADAMAWA,NUMAN,,GYEMUN/ K.J EDWARD SAKTO,02/16/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3135/ward/17882/pu/4657/4657-1677593581.pdf,true
-ADAMAWA,NUMAN,,VULPI/ VULPI PRI. SCH.,02/16/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3135/ward/17882/pu/4661/4661-1677593249.pdf,true
-ADAMAWA,NUMAN,,SALTI/ SALTI PRI. SCH.,02/16/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3135/ward/17882/pu/4660/4660-1677592638.pdf,true
+ADAMAWA,NUMAN,VULPI,KWAGORO/ KWANGORO PRI. SCH,02/16/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3135/ward/17882/pu/4658/4658-1677597945.pdf,false
+ADAMAWA,NUMAN,VULPI,BONANGA/ KOFAR J. BITRUS,02/16/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3135/ward/17882/pu/4655/4655-1677597566.pdf,false
+ADAMAWA,NUMAN,VULPI,GBALAPUN/ GBALAPUN PRI. SCH.,02/16/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3135/ward/17882/pu/4656/4656-1677597028.pdf,false
+ADAMAWA,NUMAN,VULPI,BOKOTYE/ K.J ESTHON NDUGO,02/16/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3135/ward/17882/pu/4654/4654-1677596445.pdf,false
+ADAMAWA,NUMAN,VULPI,NGWALTI/ K.J HALILU,02/16/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3135/ward/17882/pu/4659/4659-1677595701.pdf,false
+ADAMAWA,NUMAN,VULPI,SALTI PRI.SCH I,02/16/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3135/ward/17882/pu/128985/128985-1677594435.pdf,true
+ADAMAWA,NUMAN,VULPI,BANGWE/ K.J BLI FUREMA,02/16/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3135/ward/17882/pu/4653/4653-1677594390.pdf,false
+ADAMAWA,NUMAN,VULPI,VULPI/ KWAHANOGWE,02/16/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3135/ward/17882/pu/4662/4662-1677593997.pdf,true
+ADAMAWA,NUMAN,VULPI,GYEMUN/ K.J EDWARD SAKTO,02/16/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3135/ward/17882/pu/4657/4657-1677593581.pdf,true
+ADAMAWA,NUMAN,VULPI,VULPI/ VULPI PRI. SCH.,02/16/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3135/ward/17882/pu/4661/4661-1677593249.pdf,true
+ADAMAWA,NUMAN,VULPI,SALTI/ SALTI PRI. SCH.,02/16/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3135/ward/17882/pu/4660/4660-1677592638.pdf,true

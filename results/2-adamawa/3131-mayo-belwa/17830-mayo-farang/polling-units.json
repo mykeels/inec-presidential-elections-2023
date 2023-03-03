@@ -26,6 +26,7 @@
     "pu_code_string": "021207003",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "MAYO FARANG",
     "document": {
       "external": false,
       "status": 1,
@@ -89,6 +90,7 @@
     "pu_code_string": "021207021",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "MAYO FARANG",
     "document": {
       "external": false,
       "status": 1,
@@ -136,6 +138,7 @@
     "pu_code_string": "021207022",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "MAYO FARANG",
     "document": {
       "external": false,
       "status": 1,
@@ -183,6 +186,7 @@
     "pu_code_string": "021207020",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "MAYO FARANG",
     "document": {
       "external": false,
       "status": 1,
@@ -230,6 +234,7 @@
     "pu_code_string": "021207019",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "MAYO FARANG",
     "document": {
       "external": false,
       "status": 1,
@@ -277,6 +282,7 @@
     "pu_code_string": "021207018",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "MAYO FARANG",
     "document": {
       "external": false,
       "status": 1,
@@ -324,6 +330,7 @@
     "pu_code_string": "021207017",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "MAYO FARANG",
     "document": {
       "external": false,
       "status": 1,
@@ -371,6 +378,7 @@
     "pu_code_string": "021207016",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "MAYO FARANG",
     "document": {
       "external": false,
       "status": 1,
@@ -418,6 +426,7 @@
     "pu_code_string": "021207015",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "MAYO FARANG",
     "document": {
       "external": false,
       "status": 1,
@@ -465,6 +474,7 @@
     "pu_code_string": "021207014",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "MAYO FARANG",
     "document": {
       "external": false,
       "status": 1,
@@ -512,6 +522,7 @@
     "pu_code_string": "021207013",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "MAYO FARANG",
     "document": {
       "external": false,
       "status": 1,
@@ -591,6 +602,7 @@
     "pu_code_string": "021207012",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "MAYO FARANG",
     "document": {
       "external": false,
       "status": 1,
@@ -638,6 +650,7 @@
     "pu_code_string": "021207001",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "MAYO FARANG",
     "document": {
       "external": false,
       "status": 1,
@@ -701,6 +714,7 @@
     "pu_code_string": "021207010",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "MAYO FARANG",
     "document": {
       "external": false,
       "status": 1,
@@ -780,6 +794,7 @@
     "pu_code_string": "021207009",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "MAYO FARANG",
     "document": {
       "external": true,
       "status": 1,
@@ -859,6 +874,7 @@
     "pu_code_string": "021207007",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "MAYO FARANG",
     "document": {
       "external": true,
       "status": 1,
@@ -938,6 +954,7 @@
     "pu_code_string": "021207005",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "MAYO FARANG",
     "document": {
       "external": true,
       "status": 1,
@@ -1017,6 +1034,7 @@
     "pu_code_string": "021207002",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "MAYO FARANG",
     "document": {
       "external": true,
       "status": 1,
@@ -1104,6 +1122,7 @@
     "pu_code_string": "021207004",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "MAYO FARANG",
     "document": {
       "external": true,
       "status": 1,
@@ -1175,6 +1194,7 @@
     "pu_code_string": "021207006",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "MAYO FARANG",
     "document": {
       "external": true,
       "status": 1,
@@ -1213,6 +1233,7 @@
     "pu_code_string": "021207008",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "MAYO FARANG",
     "document": {
       "external": false,
       "status": 1,
@@ -1251,6 +1272,7 @@
     "pu_code_string": "021207011",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "MAYO FARANG",
     "document": {
       "external": false,
       "status": 1,

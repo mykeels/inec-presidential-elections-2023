@@ -1,17 +1,17 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,DEMSA,,KAWON DOWAYA/ PRY. SCH.,02/01/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17715/pu/2723/2723-1677605552.pdf,true
-ADAMAWA,DEMSA,,GOLI DWAM,02/01/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17715/pu/127993/127993-1677601237.pdf,false
-ADAMAWA,DEMSA,,GWASALA,02/01/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17715/pu/127997/127997-1677600886.pdf,false
-ADAMAWA,DEMSA,,DWAM PARE/ PLAYING GROUND,02/01/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17715/pu/2721/2721-1677600313.pdf,false
-ADAMAWA,DEMSA,,ZURAN I,02/01/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17715/pu/128000/128000-1677599917.pdf,false
-ADAMAWA,DEMSA,,DAKANTA DWAM,02/01/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17715/pu/127991/127991-1677599395.pdf,false
-ADAMAWA,DEMSA,,DOWAYA II,02/01/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17715/pu/127994/127994-1677598934.pdf,true
-ADAMAWA,DEMSA,,DOWAYA III,02/01/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17715/pu/127995/127995-1677598309.pdf,false
-ADAMAWA,DEMSA,,ZURAN/ FOOTBALL PLAYING GROUND,02/01/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17715/pu/2726/2726-1677597828.pdf,false
-ADAMAWA,DEMSA,,KWALE/ KWALE PRY. SCH.,02/01/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17715/pu/2724/2724-1677597458.pdf,false
-ADAMAWA,DEMSA,,NDABONDO DWAM,02/01/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17715/pu/127992/127992-1677596814.pdf,true
-ADAMAWA,DEMSA,,MALIKI,02/01/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17715/pu/127998/127998-1677596315.pdf,false
-ADAMAWA,DEMSA,,DWAM SAKATO/ PRY. SCH.,02/01/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/002/002-1677401798.pdf,false
-ADAMAWA,DEMSA,,SABON GARI/ PRY. SCH.,02/01/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/005/005-1677400992.pdf,false
-ADAMAWA,DEMSA,,SABON GARI HEALTH CENTRE,02/01/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/015/015-1677399749.pdf,false
-ADAMAWA,DEMSA,,DOWAYA IV,02/01/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/012/012-1677374689.pdf,false
+ADAMAWA,DEMSA,DWAM,KAWON DOWAYA/ PRY. SCH.,02/01/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17715/pu/2723/2723-1677605552.pdf,true
+ADAMAWA,DEMSA,DWAM,GOLI DWAM,02/01/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17715/pu/127993/127993-1677601237.pdf,false
+ADAMAWA,DEMSA,DWAM,GWASALA,02/01/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17715/pu/127997/127997-1677600886.pdf,false
+ADAMAWA,DEMSA,DWAM,DWAM PARE/ PLAYING GROUND,02/01/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17715/pu/2721/2721-1677600313.pdf,false
+ADAMAWA,DEMSA,DWAM,ZURAN I,02/01/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17715/pu/128000/128000-1677599917.pdf,false
+ADAMAWA,DEMSA,DWAM,DAKANTA DWAM,02/01/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17715/pu/127991/127991-1677599395.pdf,false
+ADAMAWA,DEMSA,DWAM,DOWAYA II,02/01/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17715/pu/127994/127994-1677598934.pdf,true
+ADAMAWA,DEMSA,DWAM,DOWAYA III,02/01/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17715/pu/127995/127995-1677598309.pdf,false
+ADAMAWA,DEMSA,DWAM,ZURAN/ FOOTBALL PLAYING GROUND,02/01/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17715/pu/2726/2726-1677597828.pdf,false
+ADAMAWA,DEMSA,DWAM,KWALE/ KWALE PRY. SCH.,02/01/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17715/pu/2724/2724-1677597458.pdf,false
+ADAMAWA,DEMSA,DWAM,NDABONDO DWAM,02/01/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17715/pu/127992/127992-1677596814.pdf,true
+ADAMAWA,DEMSA,DWAM,MALIKI,02/01/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17715/pu/127998/127998-1677596315.pdf,false
+ADAMAWA,DEMSA,DWAM,DWAM SAKATO/ PRY. SCH.,02/01/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/002/002-1677401798.pdf,false
+ADAMAWA,DEMSA,DWAM,SABON GARI/ PRY. SCH.,02/01/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/005/005-1677400992.pdf,false
+ADAMAWA,DEMSA,DWAM,SABON GARI HEALTH CENTRE,02/01/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/015/015-1677399749.pdf,false
+ADAMAWA,DEMSA,DWAM,DOWAYA IV,02/01/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/06/pu/012/012-1677374689.pdf,false

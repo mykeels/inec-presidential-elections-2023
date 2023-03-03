@@ -1,20 +1,20 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,MICHIKA,,YASKULE PRI.SCH.III,02/13/07/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3132/ward/17842/pu/128733/128733-1677494299.pdf,false
-ADAMAWA,MICHIKA,,CHASDAWOL II / GSSS MICHIKA.IV,02/13/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3132/ward/17842/pu/128725/128725-1677492763.pdf,false
-ADAMAWA,MICHIKA,,CHASDEWOL I / CHASDEWOL PRI. SCH. IV,02/13/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3132/ward/17842/pu/128723/128723-1677492003.pdf,false
-ADAMAWA,MICHIKA,,CHASDEWOL I/ CHASDEWOL PRI. SCH III.,02/13/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3132/ward/17842/pu/128722/128722-1677491126.pdf,false
-ADAMAWA,MICHIKA,,SAGERE I / GSSS MICHIKA .II,02/13/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3132/ward/17842/pu/128726/128726-1677474990.pdf,false
-ADAMAWA,MICHIKA,,SANGERE  I / G.S.S MICHIKA,02/13/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3132/ward/17842/pu/4213/4213-1677474759.pdf,false
-ADAMAWA,MICHIKA,,YASKULE PRI.SCH.II,02/13/07/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3132/ward/17842/pu/128732/128732-1677472911.pdf,false
-ADAMAWA,MICHIKA,,CHASDEWOL  II /G.S.S MICHIKA,02/13/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3132/ward/17842/pu/4209/4209-1677471820.pdf,false
-ADAMAWA,MICHIKA,,MUNKURAHE / CENTRAL PRI. SCH.,02/13/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3132/ward/17842/pu/4212/4212-1677471301.pdf,false
-ADAMAWA,MICHIKA,,LUGHU / LUGHU PRI. SCH.,02/13/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/004/004-1677427891.pdf,false
-ADAMAWA,MICHIKA,,MUNKURAHE CENT. PRI. SCH.I,02/13/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/014/014-1677427252.pdf,false
-ADAMAWA,MICHIKA,,LUGHU I PRI. SCH.I,02/13/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/016/016-1677423737.pdf,false
-ADAMAWA,MICHIKA,,LIKUNI PRI. SCH.,02/13/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/017/017-1677421561.pdf,false
-ADAMAWA,MICHIKA,,JANG / G.S.S JANG,02/13/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/003/003-1677409271.pdf,false
-ADAMAWA,MICHIKA,,JANG/ / G.S.S. JANG.II,02/13/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/010/010-1677360426.pdf,false
-ADAMAWA,MICHIKA,,SANGERE  II / YASKULE PRI. SCH.,02/13/07/007,,false
-ADAMAWA,MICHIKA,,SANGERE I / GSSS MICHIKA III,02/13/07/013,,false
-ADAMAWA,MICHIKA,,MUTSI PRI. SCH.,02/13/07/015,,false
-ADAMAWA,MICHIKA,,CHASDEWOL  I / CHASDEWOL PRI. SCH.,02/13/07/001,,false
+ADAMAWA,MICHIKA,MICHIKA  II,YASKULE PRI.SCH.III,02/13/07/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3132/ward/17842/pu/128733/128733-1677494299.pdf,false
+ADAMAWA,MICHIKA,MICHIKA  II,CHASDAWOL II / GSSS MICHIKA.IV,02/13/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3132/ward/17842/pu/128725/128725-1677492763.pdf,false
+ADAMAWA,MICHIKA,MICHIKA  II,CHASDEWOL I / CHASDEWOL PRI. SCH. IV,02/13/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3132/ward/17842/pu/128723/128723-1677492003.pdf,false
+ADAMAWA,MICHIKA,MICHIKA  II,CHASDEWOL I/ CHASDEWOL PRI. SCH III.,02/13/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3132/ward/17842/pu/128722/128722-1677491126.pdf,false
+ADAMAWA,MICHIKA,MICHIKA  II,SAGERE I / GSSS MICHIKA .II,02/13/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3132/ward/17842/pu/128726/128726-1677474990.pdf,false
+ADAMAWA,MICHIKA,MICHIKA  II,SANGERE  I / G.S.S MICHIKA,02/13/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3132/ward/17842/pu/4213/4213-1677474759.pdf,false
+ADAMAWA,MICHIKA,MICHIKA  II,YASKULE PRI.SCH.II,02/13/07/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3132/ward/17842/pu/128732/128732-1677472911.pdf,false
+ADAMAWA,MICHIKA,MICHIKA  II,CHASDEWOL  II /G.S.S MICHIKA,02/13/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3132/ward/17842/pu/4209/4209-1677471820.pdf,false
+ADAMAWA,MICHIKA,MICHIKA  II,MUNKURAHE / CENTRAL PRI. SCH.,02/13/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3132/ward/17842/pu/4212/4212-1677471301.pdf,false
+ADAMAWA,MICHIKA,MICHIKA  II,LUGHU / LUGHU PRI. SCH.,02/13/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/004/004-1677427891.pdf,false
+ADAMAWA,MICHIKA,MICHIKA  II,MUNKURAHE CENT. PRI. SCH.I,02/13/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/014/014-1677427252.pdf,false
+ADAMAWA,MICHIKA,MICHIKA  II,LUGHU I PRI. SCH.I,02/13/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/016/016-1677423737.pdf,false
+ADAMAWA,MICHIKA,MICHIKA  II,LIKUNI PRI. SCH.,02/13/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/017/017-1677421561.pdf,false
+ADAMAWA,MICHIKA,MICHIKA  II,JANG / G.S.S JANG,02/13/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/003/003-1677409271.pdf,false
+ADAMAWA,MICHIKA,MICHIKA  II,JANG/ / G.S.S. JANG.II,02/13/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/07/pu/010/010-1677360426.pdf,false
+ADAMAWA,MICHIKA,MICHIKA  II,SANGERE  II / YASKULE PRI. SCH.,02/13/07/007,,false
+ADAMAWA,MICHIKA,MICHIKA  II,SANGERE I / GSSS MICHIKA III,02/13/07/013,,false
+ADAMAWA,MICHIKA,MICHIKA  II,MUTSI PRI. SCH.,02/13/07/015,,false
+ADAMAWA,MICHIKA,MICHIKA  II,CHASDEWOL  I / CHASDEWOL PRI. SCH.,02/13/07/001,,false

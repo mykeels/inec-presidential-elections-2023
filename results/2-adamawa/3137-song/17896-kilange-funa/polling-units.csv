@@ -1,15 +1,15 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,SONG,,ARDO MUAZU,02/18/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/04/pu/001/001-1677412522.pdf,false
-ADAMAWA,SONG,,ZUMORE,02/18/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/04/pu/014/014-1677408775.pdf,false
-ADAMAWA,SONG,,WURO BABBA,02/18/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/04/pu/010/010-1677407948.pdf,false
-ADAMAWA,SONG,,GOLA USMAN,02/18/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/04/pu/004/004-1677407196.pdf,false
-ADAMAWA,SONG,,WURO BUBA,02/18/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/04/pu/012/012-1677406018.pdf,false
-ADAMAWA,SONG,,WURO MALLUM,02/18/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/04/pu/013/013-1677405226.pdf,false
-ADAMAWA,SONG,,MURI MANDA,02/18/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/04/pu/007/007-1677404079.pdf,false
-ADAMAWA,SONG,,KOFAR ARDO,02/18/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/04/pu/005/005-1677403049.pdf,false
-ADAMAWA,SONG,,KORIBU,02/18/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/04/pu/006/006-1677401940.pdf,false
-ADAMAWA,SONG,,WURO BADIDDI,02/18/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/04/pu/011/011-1677400762.pdf,false
-ADAMAWA,SONG,,GOLA FULANI,02/18/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/04/pu/003/003-1677399816.pdf,false
-ADAMAWA,SONG,,DAMARE,02/18/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/04/pu/002/002-1677398484.pdf,false
-ADAMAWA,SONG,,WALOWOL,02/18/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/04/pu/009/009-1677396163.pdf,false
-ADAMAWA,SONG,,SABON GARI,02/18/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/04/pu/008/008-1677391672.pdf,false
+ADAMAWA,SONG,KILANGE FUNA,ARDO MUAZU,02/18/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/04/pu/001/001-1677412522.pdf,false
+ADAMAWA,SONG,KILANGE FUNA,ZUMORE,02/18/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/04/pu/014/014-1677408775.pdf,false
+ADAMAWA,SONG,KILANGE FUNA,WURO BABBA,02/18/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/04/pu/010/010-1677407948.pdf,false
+ADAMAWA,SONG,KILANGE FUNA,GOLA USMAN,02/18/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/04/pu/004/004-1677407196.pdf,false
+ADAMAWA,SONG,KILANGE FUNA,WURO BUBA,02/18/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/04/pu/012/012-1677406018.pdf,false
+ADAMAWA,SONG,KILANGE FUNA,WURO MALLUM,02/18/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/04/pu/013/013-1677405226.pdf,false
+ADAMAWA,SONG,KILANGE FUNA,MURI MANDA,02/18/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/04/pu/007/007-1677404079.pdf,false
+ADAMAWA,SONG,KILANGE FUNA,KOFAR ARDO,02/18/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/04/pu/005/005-1677403049.pdf,false
+ADAMAWA,SONG,KILANGE FUNA,KORIBU,02/18/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/04/pu/006/006-1677401940.pdf,false
+ADAMAWA,SONG,KILANGE FUNA,WURO BADIDDI,02/18/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/04/pu/011/011-1677400762.pdf,false
+ADAMAWA,SONG,KILANGE FUNA,GOLA FULANI,02/18/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/04/pu/003/003-1677399816.pdf,false
+ADAMAWA,SONG,KILANGE FUNA,DAMARE,02/18/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/04/pu/002/002-1677398484.pdf,false
+ADAMAWA,SONG,KILANGE FUNA,WALOWOL,02/18/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/04/pu/009/009-1677396163.pdf,false
+ADAMAWA,SONG,KILANGE FUNA,SABON GARI,02/18/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/04/pu/008/008-1677391672.pdf,false

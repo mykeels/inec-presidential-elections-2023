@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,GOMBI,,BOGA/ BOGA PRIMARY SCHOOL,02/05/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/3167/3167-1677628079.pdf,true
-ADAMAWA,GOMBI,,BOGA/ KOFAR JAURO,02/05/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/3168/3168-1677627940.pdf,true
-ADAMAWA,GOMBI,,DINGAI/ D/MASKA /KOFAR JAURO,02/05/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/3169/3169-1677627614.pdf,true
-ADAMAWA,GOMBI,,DINGAI / DINGAI PRIMARY SCHOOL,02/05/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/3170/3170-1677627443.pdf,true
-ADAMAWA,GOMBI,,DINGAI / JEBRE PRIMARY SCHOOL,02/05/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/3172/3172-1677627224.pdf,true
-ADAMAWA,GOMBI,,KILAR/ DINGAI/ KOFAR JAURO,02/05/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/3174/3174-1677626976.pdf,true
-ADAMAWA,GOMBI,,KWARGWASHE DINGAI/ PRY. SCH.,02/05/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/3176/3176-1677625846.pdf,true
-ADAMAWA,GOMBI,,SAMA FARTICHA - KOFAR JAURO,02/05/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/3177/3177-1677625700.pdf,true
-ADAMAWA,GOMBI,,SIRTA / DINGAI/ KOFAR JAURO,02/05/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/3178/3178-1677625507.pdf,true
-ADAMAWA,GOMBI,,SHIME/ BOGA   PRY. SCH.,02/05/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/3179/3179-1677625327.pdf,true
-ADAMAWA,GOMBI,,ZANGRA/ BOGA PRY SCH,02/05/01/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/3180/3180-1677625101.pdf,true
-ADAMAWA,GOMBI,,SAMA FARTICHA PRY SCHOOL II,02/05/01/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/128259/128259-1677624850.pdf,true
-ADAMAWA,GOMBI,,ZANGRA PRY SCHOOL II,02/05/01/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/128260/128260-1677624709.pdf,true
-ADAMAWA,GOMBI,,BOGA /DINGAI PRY SCHOOL II,02/05/01/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/128261/128261-1677624539.pdf,true
-ADAMAWA,GOMBI,,DINGAI /JOHITA / KOFAR JAURO,02/05/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/3173/3173-1677586575.pdf,true
-ADAMAWA,GOMBI,,HURTUNDA /OKAFOR JAURO,02/05/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/3171/3171-1677573917.pdf,true
-ADAMAWA,GOMBI,,KWADUMRA/ KOFAR JAURO,02/05/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/3175/3175-1677572493.pdf,true
-ADAMAWA,GOMBI,,DINGAI PRY SCHOOL II,02/05/01/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/128258/128258-1677571426.pdf,true
+ADAMAWA,GOMBI,BOGA/ DINGAI,BOGA/ BOGA PRIMARY SCHOOL,02/05/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/3167/3167-1677628079.pdf,true
+ADAMAWA,GOMBI,BOGA/ DINGAI,BOGA/ KOFAR JAURO,02/05/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/3168/3168-1677627940.pdf,true
+ADAMAWA,GOMBI,BOGA/ DINGAI,DINGAI/ D/MASKA /KOFAR JAURO,02/05/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/3169/3169-1677627614.pdf,true
+ADAMAWA,GOMBI,BOGA/ DINGAI,DINGAI / DINGAI PRIMARY SCHOOL,02/05/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/3170/3170-1677627443.pdf,true
+ADAMAWA,GOMBI,BOGA/ DINGAI,DINGAI / JEBRE PRIMARY SCHOOL,02/05/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/3172/3172-1677627224.pdf,true
+ADAMAWA,GOMBI,BOGA/ DINGAI,KILAR/ DINGAI/ KOFAR JAURO,02/05/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/3174/3174-1677626976.pdf,true
+ADAMAWA,GOMBI,BOGA/ DINGAI,KWARGWASHE DINGAI/ PRY. SCH.,02/05/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/3176/3176-1677625846.pdf,true
+ADAMAWA,GOMBI,BOGA/ DINGAI,SAMA FARTICHA - KOFAR JAURO,02/05/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/3177/3177-1677625700.pdf,true
+ADAMAWA,GOMBI,BOGA/ DINGAI,SIRTA / DINGAI/ KOFAR JAURO,02/05/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/3178/3178-1677625507.pdf,true
+ADAMAWA,GOMBI,BOGA/ DINGAI,SHIME/ BOGA   PRY. SCH.,02/05/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/3179/3179-1677625327.pdf,true
+ADAMAWA,GOMBI,BOGA/ DINGAI,ZANGRA/ BOGA PRY SCH,02/05/01/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/3180/3180-1677625101.pdf,true
+ADAMAWA,GOMBI,BOGA/ DINGAI,SAMA FARTICHA PRY SCHOOL II,02/05/01/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/128259/128259-1677624850.pdf,true
+ADAMAWA,GOMBI,BOGA/ DINGAI,ZANGRA PRY SCHOOL II,02/05/01/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/128260/128260-1677624709.pdf,true
+ADAMAWA,GOMBI,BOGA/ DINGAI,BOGA /DINGAI PRY SCHOOL II,02/05/01/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/128261/128261-1677624539.pdf,true
+ADAMAWA,GOMBI,BOGA/ DINGAI,DINGAI /JOHITA / KOFAR JAURO,02/05/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/3173/3173-1677586575.pdf,true
+ADAMAWA,GOMBI,BOGA/ DINGAI,HURTUNDA /OKAFOR JAURO,02/05/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/3171/3171-1677573917.pdf,true
+ADAMAWA,GOMBI,BOGA/ DINGAI,KWADUMRA/ KOFAR JAURO,02/05/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/3175/3175-1677572493.pdf,true
+ADAMAWA,GOMBI,BOGA/ DINGAI,DINGAI PRY SCHOOL II,02/05/01/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17751/pu/128258/128258-1677571426.pdf,true

@@ -1,11 +1,11 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,GANYE,,NALOMI/G.MASO/OPEN   SPACE OPP.MTN MAST,02/03/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17732/pu/128125/128125-1677680807.pdf,false
-ADAMAWA,GANYE,,GAMU BARKI /GAMU PRIM.HEALTH CARE,02/03/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17732/pu/128124/128124-1677680650.pdf,false
-ADAMAWA,GANYE,,SANKOM/ SANKOM PRY. SCH.,02/03/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17732/pu/2972/2972-1677680569.pdf,false
-ADAMAWA,GANYE,,SAMBERI/ KJ SAMBERI,02/03/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17732/pu/2971/2971-1677680476.pdf,false
-ADAMAWA,GANYE,,SABERE KARANDANG/ SABERE PRY. SCH.,02/03/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17732/pu/2970/2970-1677680388.pdf,false
-ADAMAWA,GANYE,,NALOMI/ G. MASO/ KJ NALOMI,02/03/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17732/pu/2969/2969-1677680301.pdf,false
-ADAMAWA,GANYE,,KURUM/ KURUM PRY. SCH.,02/03/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17732/pu/2968/2968-1677680199.pdf,false
-ADAMAWA,GANYE,,GANGTOMA/ TIYABUMSO PRY. SCH.,02/03/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17732/pu/2967/2967-1677680103.pdf,false
-ADAMAWA,GANYE,,GAMU BARIKI/ GAMU PRY. SCH.,02/03/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17732/pu/2966/2966-1677680023.pdf,false
-ADAMAWA,GANYE,,DISSOL NALOMI/ DISSOL PRY. SCH.,02/03/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17732/pu/2965/2965-1677679891.pdf,false
+ADAMAWA,GANYE,GAMU,NALOMI/G.MASO/OPEN   SPACE OPP.MTN MAST,02/03/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17732/pu/128125/128125-1677680807.pdf,false
+ADAMAWA,GANYE,GAMU,GAMU BARKI /GAMU PRIM.HEALTH CARE,02/03/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17732/pu/128124/128124-1677680650.pdf,false
+ADAMAWA,GANYE,GAMU,SANKOM/ SANKOM PRY. SCH.,02/03/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17732/pu/2972/2972-1677680569.pdf,false
+ADAMAWA,GANYE,GAMU,SAMBERI/ KJ SAMBERI,02/03/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17732/pu/2971/2971-1677680476.pdf,false
+ADAMAWA,GANYE,GAMU,SABERE KARANDANG/ SABERE PRY. SCH.,02/03/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17732/pu/2970/2970-1677680388.pdf,false
+ADAMAWA,GANYE,GAMU,NALOMI/ G. MASO/ KJ NALOMI,02/03/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17732/pu/2969/2969-1677680301.pdf,false
+ADAMAWA,GANYE,GAMU,KURUM/ KURUM PRY. SCH.,02/03/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17732/pu/2968/2968-1677680199.pdf,false
+ADAMAWA,GANYE,GAMU,GANGTOMA/ TIYABUMSO PRY. SCH.,02/03/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17732/pu/2967/2967-1677680103.pdf,false
+ADAMAWA,GANYE,GAMU,GAMU BARIKI/ GAMU PRY. SCH.,02/03/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17732/pu/2966/2966-1677680023.pdf,false
+ADAMAWA,GANYE,GAMU,DISSOL NALOMI/ DISSOL PRY. SCH.,02/03/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17732/pu/2965/2965-1677679891.pdf,false

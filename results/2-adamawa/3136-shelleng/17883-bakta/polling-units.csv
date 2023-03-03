@@ -1,7 +1,7 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,SHELLENG,,UNGUWAN GEDE/ KOFAR JAURO GEDE,02/17/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/01/pu/004/004-1677405586.pdf,false
-ADAMAWA,SHELLENG,,BABRA/ KOFAR JAURO KULA,02/17/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/01/pu/001/001-1677402573.pdf,false
-ADAMAWA,SHELLENG,,BAKTA DISPENSARY,02/17/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/01/pu/006/006-1677396832.pdf,false
-ADAMAWA,SHELLENG,,DEBEN/ DEBEN PRI. SCH.,02/17/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/01/pu/003/003-1677391727.pdf,false
-ADAMAWA,SHELLENG,,BAKTA/ KULA PRI. SCH.,02/17/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/01/pu/002/002-1677388558.pdf,false
-ADAMAWA,SHELLENG,,JEKINDA/ KOFAR JAURO,02/17/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/01/pu/005/005-1677366993.pdf,false
+ADAMAWA,SHELLENG,BAKTA,UNGUWAN GEDE/ KOFAR JAURO GEDE,02/17/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/01/pu/004/004-1677405586.pdf,false
+ADAMAWA,SHELLENG,BAKTA,BABRA/ KOFAR JAURO KULA,02/17/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/01/pu/001/001-1677402573.pdf,false
+ADAMAWA,SHELLENG,BAKTA,BAKTA DISPENSARY,02/17/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/01/pu/006/006-1677396832.pdf,false
+ADAMAWA,SHELLENG,BAKTA,DEBEN/ DEBEN PRI. SCH.,02/17/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/01/pu/003/003-1677391727.pdf,false
+ADAMAWA,SHELLENG,BAKTA,BAKTA/ KULA PRI. SCH.,02/17/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/01/pu/002/002-1677388558.pdf,false
+ADAMAWA,SHELLENG,BAKTA,JEKINDA/ KOFAR JAURO,02/17/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/01/pu/005/005-1677366993.pdf,false

@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,LAMURDE,,NGBABONGE/ WADUKU PRY. SCH.,02/09/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/3768/3768-1677583557.pdf,false
-ADAMAWA,LAMURDE,,TINGNO II PRI. SCHL.,02/09/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/128572/128572-1677582745.pdf,false
-ADAMAWA,LAMURDE,,TINGNO TSAKIYA/ KOFAR BALA DANGOGO,02/09/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/3770/3770-1677582176.pdf,false
-ADAMAWA,LAMURDE,,GYILLA/ KOFAR JAURO,02/09/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/3763/3763-1677581474.pdf,true
-ADAMAWA,LAMURDE,,GDSS WADUKU,02/09/10/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/128576/128576-1677580939.pdf,true
-ADAMAWA,LAMURDE,,NGBAYOFE/ VUDE POTO,02/09/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/3769/3769-1677580279.pdf,true
-ADAMAWA,LAMURDE,,KAGBARE/ KOFAR MAI UNG. JAMES,02/09/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/3764/3764-1677580247.pdf,true
-ADAMAWA,LAMURDE,,ADJECENT AYM FILLING STATION,02/09/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/128573/128573-1677579909.pdf,true
-ADAMAWA,LAMURDE,,BANDAWA/ KOFAR JAURO,02/09/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/3761/3761-1677579149.pdf,true
-ADAMAWA,LAMURDE,,WODIKOUTO GINDIN RIMI,02/09/10/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/128575/128575-1677578676.pdf,false
-ADAMAWA,LAMURDE,,SAYAWA BORE HOLE,02/09/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/128574/128574-1677577704.pdf,false
-ADAMAWA,LAMURDE,,KWA MISSION/ KOFAR BABA ELAM,02/09/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/3766/3766-1677577658.pdf,true
-ADAMAWA,LAMURDE,,TINGNO MOTOR PARK,02/09/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/128571/128571-1677577103.pdf,false
-ADAMAWA,LAMURDE,,KWAHUBA/ KOFAR MAL. SUNDAY,02/09/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/3765/3765-1677576644.pdf,false
-ADAMAWA,LAMURDE,,TINGNO MARKET,02/09/10/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/128577/128577-1677576377.pdf,false
-ADAMAWA,LAMURDE,,DWENTI/ KOFAR MAI ANGUWA,02/09/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/3762/3762-1677574686.pdf,true
-ADAMAWA,LAMURDE,,LAGOS/ KOFAR MAI ANGUWA,02/09/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/3767/3767-1677573292.pdf,true
-ADAMAWA,LAMURDE,,GDSS TINGNO,02/09/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/10/pu/011/011-1677387840.pdf,false
+ADAMAWA,LAMURDE,WADUKU,NGBABONGE/ WADUKU PRY. SCH.,02/09/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/3768/3768-1677583557.pdf,false
+ADAMAWA,LAMURDE,WADUKU,TINGNO II PRI. SCHL.,02/09/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/128572/128572-1677582745.pdf,false
+ADAMAWA,LAMURDE,WADUKU,TINGNO TSAKIYA/ KOFAR BALA DANGOGO,02/09/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/3770/3770-1677582176.pdf,false
+ADAMAWA,LAMURDE,WADUKU,GYILLA/ KOFAR JAURO,02/09/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/3763/3763-1677581474.pdf,true
+ADAMAWA,LAMURDE,WADUKU,GDSS WADUKU,02/09/10/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/128576/128576-1677580939.pdf,true
+ADAMAWA,LAMURDE,WADUKU,NGBAYOFE/ VUDE POTO,02/09/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/3769/3769-1677580279.pdf,true
+ADAMAWA,LAMURDE,WADUKU,KAGBARE/ KOFAR MAI UNG. JAMES,02/09/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/3764/3764-1677580247.pdf,true
+ADAMAWA,LAMURDE,WADUKU,ADJECENT AYM FILLING STATION,02/09/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/128573/128573-1677579909.pdf,true
+ADAMAWA,LAMURDE,WADUKU,BANDAWA/ KOFAR JAURO,02/09/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/3761/3761-1677579149.pdf,true
+ADAMAWA,LAMURDE,WADUKU,WODIKOUTO GINDIN RIMI,02/09/10/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/128575/128575-1677578676.pdf,false
+ADAMAWA,LAMURDE,WADUKU,SAYAWA BORE HOLE,02/09/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/128574/128574-1677577704.pdf,false
+ADAMAWA,LAMURDE,WADUKU,KWA MISSION/ KOFAR BABA ELAM,02/09/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/3766/3766-1677577658.pdf,true
+ADAMAWA,LAMURDE,WADUKU,TINGNO MOTOR PARK,02/09/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/128571/128571-1677577103.pdf,false
+ADAMAWA,LAMURDE,WADUKU,KWAHUBA/ KOFAR MAL. SUNDAY,02/09/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/3765/3765-1677576644.pdf,false
+ADAMAWA,LAMURDE,WADUKU,TINGNO MARKET,02/09/10/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/128577/128577-1677576377.pdf,false
+ADAMAWA,LAMURDE,WADUKU,DWENTI/ KOFAR MAI ANGUWA,02/09/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/3762/3762-1677574686.pdf,true
+ADAMAWA,LAMURDE,WADUKU,LAGOS/ KOFAR MAI ANGUWA,02/09/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17803/pu/3767/3767-1677573292.pdf,true
+ADAMAWA,LAMURDE,WADUKU,GDSS TINGNO,02/09/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/09/ward/10/pu/011/011-1677387840.pdf,false

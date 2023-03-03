@@ -26,6 +26,7 @@
     "pu_code_string": "021310005",
     "state_name": "ADAMAWA",
     "lga_name": "MICHIKA",
+    "ward_name": "MUNKAVICITA",
     "document": {
       "external": true,
       "status": 1,
@@ -73,6 +74,7 @@
     "pu_code_string": "021310001",
     "state_name": "ADAMAWA",
     "lga_name": "MICHIKA",
+    "ward_name": "MUNKAVICITA",
     "document": {
       "external": false,
       "status": 1,
@@ -111,6 +113,7 @@
     "pu_code_string": "021310002",
     "state_name": "ADAMAWA",
     "lga_name": "MICHIKA",
+    "ward_name": "MUNKAVICITA",
     "document": {
       "external": false,
       "status": 1,
@@ -149,6 +152,7 @@
     "pu_code_string": "021310006",
     "state_name": "ADAMAWA",
     "lga_name": "MICHIKA",
+    "ward_name": "MUNKAVICITA",
     "document": {
       "external": false,
       "status": 1,
@@ -187,6 +191,7 @@
     "pu_code_string": "021310003",
     "state_name": "ADAMAWA",
     "lga_name": "MICHIKA",
+    "ward_name": "MUNKAVICITA",
     "document": {
       "external": false,
       "status": 1,
@@ -225,6 +230,7 @@
     "pu_code_string": "021310004",
     "state_name": "ADAMAWA",
     "lga_name": "MICHIKA",
+    "ward_name": "MUNKAVICITA",
     "document": {
       "external": false,
       "status": 1,

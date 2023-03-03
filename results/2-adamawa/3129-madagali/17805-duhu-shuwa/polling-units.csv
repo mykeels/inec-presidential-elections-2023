@@ -1,20 +1,20 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,MADAGALI,,SHUWA BAKARI II/ SHIWA CEN. PRY. SCH. II,02/10/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17805/pu/3787/3787-1677792977.pdf,true
-ADAMAWA,MADAGALI,,PLAN INTERN BUILDING,02/10/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17805/pu/128580/128580-1677792652.pdf,true
-ADAMAWA,MADAGALI,,KUBURSHUWA/ NEAR LAWAN'S HOUSE,02/10/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17805/pu/3782/3782-1677791080.pdf,false
-ADAMAWA,MADAGALI,,NEAR VIEW CENTER,02/10/02/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17805/pu/128581/128581-1677790866.pdf,true
-ADAMAWA,MADAGALI,,SHUWA BAKARI III/ SHIWA CEN. PRY. SCH. III,02/10/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17805/pu/3788/3788-1677790624.pdf,true
-ADAMAWA,MADAGALI,,ASSEMBLY GROUND AT LUMADU PRIMARY SCHOOL,02/10/02/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17805/pu/128582/128582-1677790346.pdf,true
-ADAMAWA,MADAGALI,,SHUWA KUTIJU I/ SHIWA CEN. PRY. SCH. I,02/10/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17805/pu/3789/3789-1677790076.pdf,false
-ADAMAWA,MADAGALI,,GWABA NUHU I/ DUHU PRY. SCH. I,02/10/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17805/pu/3778/3778-1677789708.pdf,true
-ADAMAWA,MADAGALI,,NDIRAKUDIYA/ DURIYA DLUKU AREA,02/10/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17805/pu/3785/3785-1677789351.pdf,true
-ADAMAWA,MADAGALI,,SHUWA BAKARI I/ SHIWA CEN. PRY. SCH. I,02/10/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17805/pu/3786/3786-1677789026.pdf,true
-ADAMAWA,MADAGALI,,THALWACHINA/ THALWACHINA PRY. SCH.,02/10/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17805/pu/3791/3791-1677788608.pdf,true
-ADAMAWA,MADAGALI,,SHUWA KUTIJU II/ SHIWA CEN. PRY. SCH. II,02/10/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/014/014-1677405908.pdf,false
-ADAMAWA,MADAGALI,,GWABA NUHU II/ DUHU PRY. SCH. II,02/10/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/003/003-1677404973.pdf,false
-ADAMAWA,MADAGALI,,HARUNA/ BIRSHISHIWA PRY. SCH.,02/10/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/004/004-1677399839.pdf,false
-ADAMAWA,MADAGALI,,KOLBADI/ KOLBADI PRY. SCH.,02/10/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/005/005-1677399690.pdf,false
-ADAMAWA,MADAGALI,,LUMADU/ LUMADU PRY. SCH.,02/10/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/008/008-1677399016.pdf,false
-ADAMAWA,MADAGALI,,DUHU MAYO/ NJAHILI PRY. SCH.,02/10/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/001/001-1677398920.pdf,false
-ADAMAWA,MADAGALI,,KWAMBULA/ KWABULA PRY. SCH.,02/10/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/007/007-1677395622.pdf,false
-ADAMAWA,MADAGALI,,GWABA NUHU PRIMARY SCHOOL NEAR BOBBO TREE,02/10/02/019,,false
+ADAMAWA,MADAGALI,DUHU/ SHUWA,SHUWA BAKARI II/ SHIWA CEN. PRY. SCH. II,02/10/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17805/pu/3787/3787-1677792977.pdf,true
+ADAMAWA,MADAGALI,DUHU/ SHUWA,PLAN INTERN BUILDING,02/10/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17805/pu/128580/128580-1677792652.pdf,true
+ADAMAWA,MADAGALI,DUHU/ SHUWA,KUBURSHUWA/ NEAR LAWAN'S HOUSE,02/10/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17805/pu/3782/3782-1677791080.pdf,false
+ADAMAWA,MADAGALI,DUHU/ SHUWA,NEAR VIEW CENTER,02/10/02/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17805/pu/128581/128581-1677790866.pdf,true
+ADAMAWA,MADAGALI,DUHU/ SHUWA,SHUWA BAKARI III/ SHIWA CEN. PRY. SCH. III,02/10/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17805/pu/3788/3788-1677790624.pdf,true
+ADAMAWA,MADAGALI,DUHU/ SHUWA,ASSEMBLY GROUND AT LUMADU PRIMARY SCHOOL,02/10/02/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17805/pu/128582/128582-1677790346.pdf,true
+ADAMAWA,MADAGALI,DUHU/ SHUWA,SHUWA KUTIJU I/ SHIWA CEN. PRY. SCH. I,02/10/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17805/pu/3789/3789-1677790076.pdf,false
+ADAMAWA,MADAGALI,DUHU/ SHUWA,GWABA NUHU I/ DUHU PRY. SCH. I,02/10/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17805/pu/3778/3778-1677789708.pdf,true
+ADAMAWA,MADAGALI,DUHU/ SHUWA,NDIRAKUDIYA/ DURIYA DLUKU AREA,02/10/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17805/pu/3785/3785-1677789351.pdf,true
+ADAMAWA,MADAGALI,DUHU/ SHUWA,SHUWA BAKARI I/ SHIWA CEN. PRY. SCH. I,02/10/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17805/pu/3786/3786-1677789026.pdf,true
+ADAMAWA,MADAGALI,DUHU/ SHUWA,THALWACHINA/ THALWACHINA PRY. SCH.,02/10/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17805/pu/3791/3791-1677788608.pdf,true
+ADAMAWA,MADAGALI,DUHU/ SHUWA,SHUWA KUTIJU II/ SHIWA CEN. PRY. SCH. II,02/10/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/014/014-1677405908.pdf,false
+ADAMAWA,MADAGALI,DUHU/ SHUWA,GWABA NUHU II/ DUHU PRY. SCH. II,02/10/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/003/003-1677404973.pdf,false
+ADAMAWA,MADAGALI,DUHU/ SHUWA,HARUNA/ BIRSHISHIWA PRY. SCH.,02/10/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/004/004-1677399839.pdf,false
+ADAMAWA,MADAGALI,DUHU/ SHUWA,KOLBADI/ KOLBADI PRY. SCH.,02/10/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/005/005-1677399690.pdf,false
+ADAMAWA,MADAGALI,DUHU/ SHUWA,LUMADU/ LUMADU PRY. SCH.,02/10/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/008/008-1677399016.pdf,false
+ADAMAWA,MADAGALI,DUHU/ SHUWA,DUHU MAYO/ NJAHILI PRY. SCH.,02/10/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/001/001-1677398920.pdf,false
+ADAMAWA,MADAGALI,DUHU/ SHUWA,KWAMBULA/ KWABULA PRY. SCH.,02/10/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/02/pu/007/007-1677395622.pdf,false
+ADAMAWA,MADAGALI,DUHU/ SHUWA,GWABA NUHU PRIMARY SCHOOL NEAR BOBBO TREE,02/10/02/019,,false

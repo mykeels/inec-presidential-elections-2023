@@ -1,15 +1,15 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,JADA,,GANGSANEN/ KOFAR JAURO GANGSANEN,02/08/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17783/pu/3520/3520-1677668842.pdf,false
-ADAMAWA,JADA,,DIMKUSUN/ DIMKUSUN PRY. SCH.,02/08/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17783/pu/3519/3519-1677667736.pdf,false
-ADAMAWA,JADA,,SANKEUPO/ SANKEUPO PRY. SCH.,02/08/01/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17783/pu/3528/3528-1677625105.pdf,true
-ADAMAWA,JADA,,SANGUDING/SANGUDING PRY SCH,02/08/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17783/pu/3527/3527-1677625009.pdf,true
-ADAMAWA,JADA,,PRY SCH SANDAGUNI,02/08/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17783/pu/3526/3526-1677624931.pdf,true
-ADAMAWA,JADA,,SABON LAYI/ DANABA PRY. SCH.,02/08/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17783/pu/3524/3524-1677624794.pdf,true
-ADAMAWA,JADA,,NAGUMA/ WURO ALHAJI/ NAGUMA PRY. SCH.,02/08/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17783/pu/3523/3523-1677624709.pdf,true
-ADAMAWA,JADA,,GANGTANGEN/ NADEU PRIMARY SCHOOL,02/08/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17783/pu/3521/3521-1677624607.pdf,true
-ADAMAWA,JADA,,KAMENYA/ KAMENYA PRY. SCH.,02/08/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17783/pu/3522/3522-1677624539.pdf,true
-ADAMAWA,JADA,,BAWURO/ BAWURO PRY. SCH.,02/08/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17783/pu/3515/3515-1677623396.pdf,false
-ADAMAWA,JADA,,DASHE/ KOFAR JAURO DASHE,02/08/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/01/pu/004/004-1677392019.pdf,false
-ADAMAWA,JADA,,SAMAN/ KOFAR JAURO SAMAN,02/08/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/01/pu/011/011-1677379153.pdf,false
-ADAMAWA,JADA,,BELLO TONGA/ KOFAR JAURO BELLO TONGA,02/08/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/01/pu/002/002-1677378028.pdf,false
-ADAMAWA,JADA,,DANABA TSOHO/ DANABA PRY. SCH.,02/08/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/01/pu/003/003-1677376749.pdf,false
+ADAMAWA,JADA,DANABA,GANGSANEN/ KOFAR JAURO GANGSANEN,02/08/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17783/pu/3520/3520-1677668842.pdf,false
+ADAMAWA,JADA,DANABA,DIMKUSUN/ DIMKUSUN PRY. SCH.,02/08/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17783/pu/3519/3519-1677667736.pdf,false
+ADAMAWA,JADA,DANABA,SANKEUPO/ SANKEUPO PRY. SCH.,02/08/01/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17783/pu/3528/3528-1677625105.pdf,true
+ADAMAWA,JADA,DANABA,SANGUDING/SANGUDING PRY SCH,02/08/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17783/pu/3527/3527-1677625009.pdf,true
+ADAMAWA,JADA,DANABA,PRY SCH SANDAGUNI,02/08/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17783/pu/3526/3526-1677624931.pdf,true
+ADAMAWA,JADA,DANABA,SABON LAYI/ DANABA PRY. SCH.,02/08/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17783/pu/3524/3524-1677624794.pdf,true
+ADAMAWA,JADA,DANABA,NAGUMA/ WURO ALHAJI/ NAGUMA PRY. SCH.,02/08/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17783/pu/3523/3523-1677624709.pdf,true
+ADAMAWA,JADA,DANABA,GANGTANGEN/ NADEU PRIMARY SCHOOL,02/08/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17783/pu/3521/3521-1677624607.pdf,true
+ADAMAWA,JADA,DANABA,KAMENYA/ KAMENYA PRY. SCH.,02/08/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17783/pu/3522/3522-1677624539.pdf,true
+ADAMAWA,JADA,DANABA,BAWURO/ BAWURO PRY. SCH.,02/08/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17783/pu/3515/3515-1677623396.pdf,false
+ADAMAWA,JADA,DANABA,DASHE/ KOFAR JAURO DASHE,02/08/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/01/pu/004/004-1677392019.pdf,false
+ADAMAWA,JADA,DANABA,SAMAN/ KOFAR JAURO SAMAN,02/08/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/01/pu/011/011-1677379153.pdf,false
+ADAMAWA,JADA,DANABA,BELLO TONGA/ KOFAR JAURO BELLO TONGA,02/08/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/01/pu/002/002-1677378028.pdf,false
+ADAMAWA,JADA,DANABA,DANABA TSOHO/ DANABA PRY. SCH.,02/08/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/01/pu/003/003-1677376749.pdf,false

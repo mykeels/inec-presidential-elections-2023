@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,JADA,,WURO JATAU/ GINDIN MANGO TREE,02/08/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17787/pu/3586/3586-1677745666.pdf,false
-ADAMAWA,JADA,,SULI/ KOFAR JAURO SULI,02/08/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17787/pu/3583/3583-1677745572.pdf,false
-ADAMAWA,JADA,,TULI/ TULI PRY. SCH.,02/08/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17787/pu/3584/3584-1677745468.pdf,true
-ADAMAWA,JADA,,SAMLO/ SAMLO PRY. SCH.,02/08/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17787/pu/3582/3582-1677745166.pdf,false
-ADAMAWA,JADA,,NAMJORO/ KOFAR JAURO NAMJORO,02/08/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17787/pu/3581/3581-1677744645.pdf,true
-ADAMAWA,JADA,,KONGLO/ KOFAR JAURO KONGLO,02/08/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17787/pu/3580/3580-1677744468.pdf,true
-ADAMAWA,JADA,,KEWAL/KEWAL PRY. SCH.,02/08/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17787/pu/3578/3578-1677600569.pdf,true
-ADAMAWA,JADA,,GBAGGI/ KOFAR JAURO GBAGGI,02/08/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17787/pu/3577/3577-1677600268.pdf,false
-ADAMAWA,JADA,,BETTI/ BETTI PRY. SCH.,02/08/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17787/pu/3575/3575-1677598243.pdf,false
-ADAMAWA,JADA,,BANTAJI/ KOFAR JAURO BANTAJI,02/08/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17787/pu/3574/3574-1677597518.pdf,false
-ADAMAWA,JADA,,KOMNI/ KOFAR JAURO KOMNI,02/08/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/006/006-1677397107.pdf,false
-ADAMAWA,JADA,,WARI BATA/ KOFAR JAURO WARI BATA,02/08/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/012/012-1677376740.pdf,false
-ADAMAWA,JADA,,DELLI/ KOFAR JAURO DELLI,02/08/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/003/003-1677375540.pdf,false
+ADAMAWA,JADA,KOMA II,WURO JATAU/ GINDIN MANGO TREE,02/08/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17787/pu/3586/3586-1677745666.pdf,false
+ADAMAWA,JADA,KOMA II,SULI/ KOFAR JAURO SULI,02/08/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17787/pu/3583/3583-1677745572.pdf,false
+ADAMAWA,JADA,KOMA II,TULI/ TULI PRY. SCH.,02/08/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17787/pu/3584/3584-1677745468.pdf,true
+ADAMAWA,JADA,KOMA II,SAMLO/ SAMLO PRY. SCH.,02/08/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17787/pu/3582/3582-1677745166.pdf,false
+ADAMAWA,JADA,KOMA II,NAMJORO/ KOFAR JAURO NAMJORO,02/08/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17787/pu/3581/3581-1677744645.pdf,true
+ADAMAWA,JADA,KOMA II,KONGLO/ KOFAR JAURO KONGLO,02/08/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17787/pu/3580/3580-1677744468.pdf,true
+ADAMAWA,JADA,KOMA II,KEWAL/KEWAL PRY. SCH.,02/08/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17787/pu/3578/3578-1677600569.pdf,true
+ADAMAWA,JADA,KOMA II,GBAGGI/ KOFAR JAURO GBAGGI,02/08/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17787/pu/3577/3577-1677600268.pdf,false
+ADAMAWA,JADA,KOMA II,BETTI/ BETTI PRY. SCH.,02/08/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17787/pu/3575/3575-1677598243.pdf,false
+ADAMAWA,JADA,KOMA II,BANTAJI/ KOFAR JAURO BANTAJI,02/08/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17787/pu/3574/3574-1677597518.pdf,false
+ADAMAWA,JADA,KOMA II,KOMNI/ KOFAR JAURO KOMNI,02/08/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/006/006-1677397107.pdf,false
+ADAMAWA,JADA,KOMA II,WARI BATA/ KOFAR JAURO WARI BATA,02/08/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/012/012-1677376740.pdf,false
+ADAMAWA,JADA,KOMA II,DELLI/ KOFAR JAURO DELLI,02/08/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/003/003-1677375540.pdf,false

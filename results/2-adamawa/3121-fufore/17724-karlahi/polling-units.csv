@@ -1,21 +1,21 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,FUFORE,,K. JAURO PATURU,02/02/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17724/pu/2851/2851-1677587413.pdf,true
-ADAMAWA,FUFORE,,K. JAURO LUGGA,02/02/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/010/010-1677412781.pdf,false
-ADAMAWA,FUFORE,,K. JAURO LUGGERE,02/02/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/011/011-1677412718.pdf,false
-ADAMAWA,FUFORE,,K. JAURO KILA SAKRA,02/02/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/009/009-1677411909.pdf,false
-ADAMAWA,FUFORE,,K. JAURO BOSSIVANI,02/02/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/006/006-1677410236.pdf,false
-ADAMAWA,FUFORE,,G.D.S.S KARLAHI II,02/02/05/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/018/018-1677408861.pdf,false
-ADAMAWA,FUFORE,,K. JAURO SABON GARI,02/02/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/013/013-1677408529.pdf,false
-ADAMAWA,FUFORE,,KOFAR JAURO WURO JAURO YAHYA,02/02/05/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/015/015-1677407608.pdf,false
-ADAMAWA,FUFORE,,NGURORE PRY. SCH,02/02/05/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/016/016-1677407315.pdf,false
-ADAMAWA,FUFORE,,G.D.S.S. KARLAHI,02/02/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/001/001-1677406768.pdf,false
-ADAMAWA,FUFORE,,TOZA PRY. SCH.,02/02/05/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/017/017-1677406287.pdf,false
-ADAMAWA,FUFORE,,AREA COURT,02/02/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/002/002-1677405874.pdf,false
-ADAMAWA,FUFORE,,KOFAR JAURO BAGAURI,02/02/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/004/004-1677404411.pdf,false
-ADAMAWA,FUFORE,,AREA COURT,02/02/05/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/019/019-1677404070.pdf,false
-ADAMAWA,FUFORE,,K. JAURO GOGRA,02/02/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/008/008-1677403914.pdf,false
-ADAMAWA,FUFORE,,NGURORE PRI. SCH.,02/02/05/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/020/020-1677402733.pdf,false
-ADAMAWA,FUFORE,,K. JAURO BETI GIWARE,02/02/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/005/005-1677401627.pdf,false
-ADAMAWA,FUFORE,,KOFAR ARDO FULANI,02/02/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/003/003-1677400059.pdf,false
-ADAMAWA,FUFORE,,K. JAURO WAMGO GARGA,02/02/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/014/014-1677399352.pdf,false
-ADAMAWA,FUFORE,,K. JAURO GAGDI,02/02/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/007/007-1677398117.pdf,false
+ADAMAWA,FUFORE,KARLAHI,K. JAURO PATURU,02/02/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17724/pu/2851/2851-1677587413.pdf,true
+ADAMAWA,FUFORE,KARLAHI,K. JAURO LUGGA,02/02/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/010/010-1677412781.pdf,false
+ADAMAWA,FUFORE,KARLAHI,K. JAURO LUGGERE,02/02/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/011/011-1677412718.pdf,false
+ADAMAWA,FUFORE,KARLAHI,K. JAURO KILA SAKRA,02/02/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/009/009-1677411909.pdf,false
+ADAMAWA,FUFORE,KARLAHI,K. JAURO BOSSIVANI,02/02/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/006/006-1677410236.pdf,false
+ADAMAWA,FUFORE,KARLAHI,G.D.S.S KARLAHI II,02/02/05/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/018/018-1677408861.pdf,false
+ADAMAWA,FUFORE,KARLAHI,K. JAURO SABON GARI,02/02/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/013/013-1677408529.pdf,false
+ADAMAWA,FUFORE,KARLAHI,KOFAR JAURO WURO JAURO YAHYA,02/02/05/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/015/015-1677407608.pdf,false
+ADAMAWA,FUFORE,KARLAHI,NGURORE PRY. SCH,02/02/05/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/016/016-1677407315.pdf,false
+ADAMAWA,FUFORE,KARLAHI,G.D.S.S. KARLAHI,02/02/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/001/001-1677406768.pdf,false
+ADAMAWA,FUFORE,KARLAHI,TOZA PRY. SCH.,02/02/05/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/017/017-1677406287.pdf,false
+ADAMAWA,FUFORE,KARLAHI,AREA COURT,02/02/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/002/002-1677405874.pdf,false
+ADAMAWA,FUFORE,KARLAHI,KOFAR JAURO BAGAURI,02/02/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/004/004-1677404411.pdf,false
+ADAMAWA,FUFORE,KARLAHI,AREA COURT,02/02/05/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/019/019-1677404070.pdf,false
+ADAMAWA,FUFORE,KARLAHI,K. JAURO GOGRA,02/02/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/008/008-1677403914.pdf,false
+ADAMAWA,FUFORE,KARLAHI,NGURORE PRI. SCH.,02/02/05/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/020/020-1677402733.pdf,false
+ADAMAWA,FUFORE,KARLAHI,K. JAURO BETI GIWARE,02/02/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/005/005-1677401627.pdf,false
+ADAMAWA,FUFORE,KARLAHI,KOFAR ARDO FULANI,02/02/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/003/003-1677400059.pdf,false
+ADAMAWA,FUFORE,KARLAHI,K. JAURO WAMGO GARGA,02/02/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/014/014-1677399352.pdf,false
+ADAMAWA,FUFORE,KARLAHI,K. JAURO GAGDI,02/02/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/007/007-1677398117.pdf,false

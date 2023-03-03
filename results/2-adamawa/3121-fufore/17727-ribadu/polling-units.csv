@@ -1,25 +1,25 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,FUFORE,,KOFAR JAURO KUKA,02/02/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/2904/result_46397_1677484875_thumb.jpg,true
-ADAMAWA,FUFORE,,DASIN PRI. SCH. I,02/02/08/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17727/pu/128106/128106-1677493257.pdf,false
-ADAMAWA,FUFORE,,DISPENS. CHAFAJAULE,02/02/08/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17727/pu/128101/128101-1677490322.pdf,false
-ADAMAWA,FUFORE,,CHAUFAJAULE PRY. SCH.,02/02/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17727/pu/2903/2903-1677488952.pdf,false
-ADAMAWA,FUFORE,,NAFORI PRY SCH,02/02/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17727/pu/2911/2911-1677487352.pdf,false
-ADAMAWA,FUFORE,,DASIN PRI. SCH. II,02/02/08/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17727/pu/128107/128107-1677485307.pdf,false
-ADAMAWA,FUFORE,,RIBADU PRI. SCH. II,02/02/08/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17727/pu/128104/128104-1677479570.pdf,false
-ADAMAWA,FUFORE,,WURO MALLUM PRY. SCH. RIBADU,02/02/08/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17727/pu/2917/2917-1677478714.pdf,false
-ADAMAWA,FUFORE,,KOFAR JAURO FARANG FARANG,02/02/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17727/pu/2909/2909-1677478206.pdf,false
-ADAMAWA,FUFORE,,G.D.S.S RIBADU II,02/02/08/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17727/pu/128103/128103-1677477875.pdf,false
-ADAMAWA,FUFORE,,PRI. SCH. DASIN III,02/02/08/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17727/pu/128108/128108-1677477256.pdf,false
-ADAMAWA,FUFORE,,DASIN BWATIYE PRY. SCH.,02/02/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17727/pu/2904/2904-1677477004.pdf,false
-ADAMAWA,FUFORE,,RIBADU PRY. SCH.,02/02/08/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17727/pu/2916/2916-1677476356.pdf,false
-ADAMAWA,FUFORE,,WURO-MALLUM PRI. SCH. RIBADU II,02/02/08/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17727/pu/128105/128105-1677476070.pdf,false
-ADAMAWA,FUFORE,,KOFAR WAZIRI RIBADU,02/02/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17727/pu/2914/2914-1677475534.pdf,false
-ADAMAWA,FUFORE,,DISPENS. B. DULO,02/02/08/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/017/017-1677428436.pdf,false
-ADAMAWA,FUFORE,,KOFAR JAURO BAURE II,02/02/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/005/005-1677427083.pdf,false
-ADAMAWA,FUFORE,,DULO BWATIYE PRY. SCH.,02/02/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/003/003-1677425627.pdf,false
-ADAMAWA,FUFORE,,KOFAR JAURO TUMBINDE,02/02/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/011/011-1677423776.pdf,false
-ADAMAWA,FUFORE,,KOFAR JAURO BODERE,02/02/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/006/006-1677420611.pdf,false
-ADAMAWA,FUFORE,,KOFAR JAURO BAURE I,02/02/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/004/004-1677419696.pdf,false
-ADAMAWA,FUFORE,,DULO FULANI  PRY SCH,02/02/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/010/010-1677414906.pdf,false
-ADAMAWA,FUFORE,,DASIN PRI. SCH. IV,02/02/08/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/024/024-1677413336.pdf,false
-ADAMAWA,FUFORE,,NEAR BORE HOLE DASIN,02/02/08/013,,false
+ADAMAWA,FUFORE,RIBADU,KOFAR JAURO KUKA,02/02/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/2904/result_46397_1677484875_thumb.jpg,true
+ADAMAWA,FUFORE,RIBADU,DASIN PRI. SCH. I,02/02/08/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17727/pu/128106/128106-1677493257.pdf,false
+ADAMAWA,FUFORE,RIBADU,DISPENS. CHAFAJAULE,02/02/08/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17727/pu/128101/128101-1677490322.pdf,false
+ADAMAWA,FUFORE,RIBADU,CHAUFAJAULE PRY. SCH.,02/02/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17727/pu/2903/2903-1677488952.pdf,false
+ADAMAWA,FUFORE,RIBADU,NAFORI PRY SCH,02/02/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17727/pu/2911/2911-1677487352.pdf,false
+ADAMAWA,FUFORE,RIBADU,DASIN PRI. SCH. II,02/02/08/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17727/pu/128107/128107-1677485307.pdf,false
+ADAMAWA,FUFORE,RIBADU,RIBADU PRI. SCH. II,02/02/08/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17727/pu/128104/128104-1677479570.pdf,false
+ADAMAWA,FUFORE,RIBADU,WURO MALLUM PRY. SCH. RIBADU,02/02/08/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17727/pu/2917/2917-1677478714.pdf,false
+ADAMAWA,FUFORE,RIBADU,KOFAR JAURO FARANG FARANG,02/02/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17727/pu/2909/2909-1677478206.pdf,false
+ADAMAWA,FUFORE,RIBADU,G.D.S.S RIBADU II,02/02/08/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17727/pu/128103/128103-1677477875.pdf,false
+ADAMAWA,FUFORE,RIBADU,PRI. SCH. DASIN III,02/02/08/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17727/pu/128108/128108-1677477256.pdf,false
+ADAMAWA,FUFORE,RIBADU,DASIN BWATIYE PRY. SCH.,02/02/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17727/pu/2904/2904-1677477004.pdf,false
+ADAMAWA,FUFORE,RIBADU,RIBADU PRY. SCH.,02/02/08/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17727/pu/2916/2916-1677476356.pdf,false
+ADAMAWA,FUFORE,RIBADU,WURO-MALLUM PRI. SCH. RIBADU II,02/02/08/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17727/pu/128105/128105-1677476070.pdf,false
+ADAMAWA,FUFORE,RIBADU,KOFAR WAZIRI RIBADU,02/02/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17727/pu/2914/2914-1677475534.pdf,false
+ADAMAWA,FUFORE,RIBADU,DISPENS. B. DULO,02/02/08/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/017/017-1677428436.pdf,false
+ADAMAWA,FUFORE,RIBADU,KOFAR JAURO BAURE II,02/02/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/005/005-1677427083.pdf,false
+ADAMAWA,FUFORE,RIBADU,DULO BWATIYE PRY. SCH.,02/02/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/003/003-1677425627.pdf,false
+ADAMAWA,FUFORE,RIBADU,KOFAR JAURO TUMBINDE,02/02/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/011/011-1677423776.pdf,false
+ADAMAWA,FUFORE,RIBADU,KOFAR JAURO BODERE,02/02/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/006/006-1677420611.pdf,false
+ADAMAWA,FUFORE,RIBADU,KOFAR JAURO BAURE I,02/02/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/004/004-1677419696.pdf,false
+ADAMAWA,FUFORE,RIBADU,DULO FULANI  PRY SCH,02/02/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/010/010-1677414906.pdf,false
+ADAMAWA,FUFORE,RIBADU,DASIN PRI. SCH. IV,02/02/08/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/024/024-1677413336.pdf,false
+ADAMAWA,FUFORE,RIBADU,NEAR BORE HOLE DASIN,02/02/08/013,,false

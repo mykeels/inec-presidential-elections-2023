@@ -1,23 +1,23 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,MAIHA,,FADA/ DISTRICT OFFICE II,02/11/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3945/3945-1677704067.pdf,true
-ADAMAWA,MAIHA,,PANJAUDA/ KOFAR JAURO II,02/11/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3954/3954-1677598612.pdf,false
-ADAMAWA,MAIHA,,PANJAUDA/ KOFAR JAURO I,02/11/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3953/3953-1677598131.pdf,false
-ADAMAWA,MAIHA,,NASSARAWO MAKSHA PRI.SCH. III,02/11/06/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/128631/128631-1677596922.pdf,true
-ADAMAWA,MAIHA,,BUBA PAKKA 'B'/ MAZULVA PRY. SCH. II,02/11/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3941/3941-1677595234.pdf,false
-ADAMAWA,MAIHA,,NASSARAWO/ MAKSHA PRY. SCH. II,02/11/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3952/3952-1677580800.pdf,true
-ADAMAWA,MAIHA,,NASSARAWO/ MAKSHA PRY. SCH. I,02/11/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3951/3951-1677580453.pdf,true
-ADAMAWA,MAIHA,,MANGIDEN/ KOFAR ARDO,02/11/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3950/3950-1677579978.pdf,true
-ADAMAWA,MAIHA,,JALINGO MAIHA PRY SCH,02/11/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3949/3949-1677579616.pdf,true
-ADAMAWA,MAIHA,,HUDU/ KOFAR JAURO,02/11/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3948/3948-1677579236.pdf,true
-ADAMAWA,MAIHA,,HAMDALLA/ KOFAR JAURO ALI,02/11/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3947/3947-1677578742.pdf,false
-ADAMAWA,MAIHA,,FULBERE/ KOFAR JAURO,02/11/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3946/3946-1677578312.pdf,false
-ADAMAWA,MAIHA,,FADA/ DISTRICT OFFICE I,02/11/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3944/3944-1677577611.pdf,false
-ADAMAWA,MAIHA,,BWADE/ KOFAR JAURO,02/11/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3943/3943-1677576953.pdf,false
-ADAMAWA,MAIHA,,BUBA PAKKA 'C'/ MAZULVA PRY. SCH. III,02/11/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3942/3942-1677576497.pdf,false
-ADAMAWA,MAIHA,,BUBA PAKKA 'A'/ KOFAR JAURO I,02/11/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3940/3940-1677573520.pdf,true
-ADAMAWA,MAIHA,,NASARAWO MAKSHA PRI.SCH IV,02/11/06/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/128632/128632-1677571106.pdf,true
-ADAMAWA,MAIHA,,TOUNGO/ JALINGO MAIHA PRY. SCH. II,02/11/06/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3956/3956-1677570322.pdf,true
-ADAMAWA,MAIHA,,TOUNGO/ JALINGO MAIHA PRY. SCH. I,02/11/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3955/3955-1677569898.pdf,true
-ADAMAWA,MAIHA,,HAMMADALA NEAR VETERINARY,02/11/06/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/128629/128629-1677568617.pdf,true
-ADAMAWA,MAIHA,,TOUNGO /JALINGO PRIMARY SCHOOL III,02/11/06/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/128628/128628-1677567400.pdf,true
-ADAMAWA,MAIHA,,MANGEDEN NEAR BORE HOLE,02/11/06/020,,false
+ADAMAWA,MAIHA,MAYONGULI,FADA/ DISTRICT OFFICE II,02/11/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3945/3945-1677704067.pdf,true
+ADAMAWA,MAIHA,MAYONGULI,PANJAUDA/ KOFAR JAURO II,02/11/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3954/3954-1677598612.pdf,false
+ADAMAWA,MAIHA,MAYONGULI,PANJAUDA/ KOFAR JAURO I,02/11/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3953/3953-1677598131.pdf,false
+ADAMAWA,MAIHA,MAYONGULI,NASSARAWO MAKSHA PRI.SCH. III,02/11/06/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/128631/128631-1677596922.pdf,true
+ADAMAWA,MAIHA,MAYONGULI,BUBA PAKKA 'B'/ MAZULVA PRY. SCH. II,02/11/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3941/3941-1677595234.pdf,false
+ADAMAWA,MAIHA,MAYONGULI,NASSARAWO/ MAKSHA PRY. SCH. II,02/11/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3952/3952-1677580800.pdf,true
+ADAMAWA,MAIHA,MAYONGULI,NASSARAWO/ MAKSHA PRY. SCH. I,02/11/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3951/3951-1677580453.pdf,true
+ADAMAWA,MAIHA,MAYONGULI,MANGIDEN/ KOFAR ARDO,02/11/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3950/3950-1677579978.pdf,true
+ADAMAWA,MAIHA,MAYONGULI,JALINGO MAIHA PRY SCH,02/11/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3949/3949-1677579616.pdf,true
+ADAMAWA,MAIHA,MAYONGULI,HUDU/ KOFAR JAURO,02/11/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3948/3948-1677579236.pdf,true
+ADAMAWA,MAIHA,MAYONGULI,HAMDALLA/ KOFAR JAURO ALI,02/11/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3947/3947-1677578742.pdf,false
+ADAMAWA,MAIHA,MAYONGULI,FULBERE/ KOFAR JAURO,02/11/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3946/3946-1677578312.pdf,false
+ADAMAWA,MAIHA,MAYONGULI,FADA/ DISTRICT OFFICE I,02/11/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3944/3944-1677577611.pdf,false
+ADAMAWA,MAIHA,MAYONGULI,BWADE/ KOFAR JAURO,02/11/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3943/3943-1677576953.pdf,false
+ADAMAWA,MAIHA,MAYONGULI,BUBA PAKKA 'C'/ MAZULVA PRY. SCH. III,02/11/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3942/3942-1677576497.pdf,false
+ADAMAWA,MAIHA,MAYONGULI,BUBA PAKKA 'A'/ KOFAR JAURO I,02/11/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3940/3940-1677573520.pdf,true
+ADAMAWA,MAIHA,MAYONGULI,NASARAWO MAKSHA PRI.SCH IV,02/11/06/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/128632/128632-1677571106.pdf,true
+ADAMAWA,MAIHA,MAYONGULI,TOUNGO/ JALINGO MAIHA PRY. SCH. II,02/11/06/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3956/3956-1677570322.pdf,true
+ADAMAWA,MAIHA,MAYONGULI,TOUNGO/ JALINGO MAIHA PRY. SCH. I,02/11/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/3955/3955-1677569898.pdf,true
+ADAMAWA,MAIHA,MAYONGULI,HAMMADALA NEAR VETERINARY,02/11/06/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/128629/128629-1677568617.pdf,true
+ADAMAWA,MAIHA,MAYONGULI,TOUNGO /JALINGO PRIMARY SCHOOL III,02/11/06/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17819/pu/128628/128628-1677567400.pdf,true
+ADAMAWA,MAIHA,MAYONGULI,MANGEDEN NEAR BORE HOLE,02/11/06/020,,false

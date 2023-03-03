@@ -26,6 +26,7 @@
     "pu_code_string": "020211001",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "YADIM",
     "document": {
       "external": true,
       "status": 1,
@@ -129,6 +130,7 @@
     "pu_code_string": "020211002",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "YADIM",
     "document": {
       "external": true,
       "status": 1,
@@ -184,6 +186,7 @@
     "pu_code_string": "020211013",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "YADIM",
     "document": {
       "external": false,
       "status": 1,
@@ -222,6 +225,7 @@
     "pu_code_string": "020211012",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "YADIM",
     "document": {
       "external": false,
       "status": 1,
@@ -260,6 +264,7 @@
     "pu_code_string": "020211011",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "YADIM",
     "document": {
       "external": false,
       "status": 1,
@@ -298,6 +303,7 @@
     "pu_code_string": "020211010",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "YADIM",
     "document": {
       "external": false,
       "status": 1,
@@ -336,6 +342,7 @@
     "pu_code_string": "020211009",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "YADIM",
     "document": {
       "external": false,
       "status": 1,
@@ -374,6 +381,7 @@
     "pu_code_string": "020211008",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "YADIM",
     "document": {
       "external": false,
       "status": 1,
@@ -412,6 +420,7 @@
     "pu_code_string": "020211007",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "YADIM",
     "document": {
       "external": false,
       "status": 1,
@@ -450,6 +459,7 @@
     "pu_code_string": "020211006",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "YADIM",
     "document": {
       "external": false,
       "status": 1,
@@ -488,6 +498,7 @@
     "pu_code_string": "020211005",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "YADIM",
     "document": {
       "external": false,
       "status": 1,
@@ -526,6 +537,7 @@
     "pu_code_string": "020211004",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "YADIM",
     "document": {
       "external": false,
       "status": 1,
@@ -564,6 +576,7 @@
     "pu_code_string": "020211003",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "YADIM",
     "document": {
       "external": false,
       "status": 1,

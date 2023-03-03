@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,MAYO - BELWA,,GANG BINDOL III MOTOR PARK,02/12/11/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620295/result_48206_1677530377_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,MUNCHI PRIMARY SCH,02/12/11/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620294/result_48205_1677530230_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,TOLA JABU / KOSSA - TOLA JABU PRI. SCH.,02/12/11/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4128/result_48202_1677529924_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,GANGWASO BAKARI / KOFAR J/G/WASO,02/12/11/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4125/result_48199_1677529706_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,KIBANG / KIBANG PRI. SCH.,02/12/11/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4126/result_48200_1677529791_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,GANGWASO KOFA - G/WASO PRI. SCH.,02/12/11/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4124/result_48198_1677528594_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,GANGDIDOL  / KOFAR J/GANGDIDOL,02/12/11/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4123/result_48197_1677528255_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,GANG BINDOL II / TOLA MARKET II,02/12/11/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4122/result_48196_1677528086_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,FADA   II / TOLA V/CENTRE II,02/12/11/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4120/result_48194_1677527750_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,GANG BINDOL  I / TOLA MARKET I,02/12/11/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4121/result_48195_1677527861_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,FADA   I / TOLA V/CENTRE I,02/12/11/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4119/result_48193_1677527596_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,DAYINO KOSSA  / KOFAR J/ DAYINO,02/12/11/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4117/result_48191_1677527336_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,BURA / BURA PRI. SCH.,02/12/11/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4116/result_48190_1677526620_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,WALOWOL  IWARE / KOFAR JAURO,02/12/11/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4129/result_48203_1677517399_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,DEJJA M / LESDI / KOFAR J / DEJJA,02/12/11/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4118/result_48192_1677516960_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,SABON GARI W/JAMA'A / KOFAR JAURO/W/JAMA'A,02/12/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/11/pu/012/012-1677403980.pdf,false
-ADAMAWA,MAYO - BELWA,,GANG BINDOL IV MOTOR PARK,02/12/11/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/11/pu/018/018-1677399297.pdf,false
-ADAMAWA,MAYO - BELWA,,KUBBA PRIMARY SCHOOL,02/12/11/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/11/pu/015/015-1677399160.pdf,false
+ADAMAWA,MAYO - BELWA,TOLA,GANG BINDOL III MOTOR PARK,02/12/11/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620295/result_48206_1677530377_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,TOLA,MUNCHI PRIMARY SCH,02/12/11/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620294/result_48205_1677530230_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,TOLA,TOLA JABU / KOSSA - TOLA JABU PRI. SCH.,02/12/11/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4128/result_48202_1677529924_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,TOLA,GANGWASO BAKARI / KOFAR J/G/WASO,02/12/11/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4125/result_48199_1677529706_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,TOLA,KIBANG / KIBANG PRI. SCH.,02/12/11/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4126/result_48200_1677529791_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,TOLA,GANGWASO KOFA - G/WASO PRI. SCH.,02/12/11/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4124/result_48198_1677528594_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,TOLA,GANGDIDOL  / KOFAR J/GANGDIDOL,02/12/11/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4123/result_48197_1677528255_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,TOLA,GANG BINDOL II / TOLA MARKET II,02/12/11/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4122/result_48196_1677528086_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,TOLA,FADA   II / TOLA V/CENTRE II,02/12/11/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4120/result_48194_1677527750_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,TOLA,GANG BINDOL  I / TOLA MARKET I,02/12/11/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4121/result_48195_1677527861_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,TOLA,FADA   I / TOLA V/CENTRE I,02/12/11/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4119/result_48193_1677527596_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,TOLA,DAYINO KOSSA  / KOFAR J/ DAYINO,02/12/11/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4117/result_48191_1677527336_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,TOLA,BURA / BURA PRI. SCH.,02/12/11/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4116/result_48190_1677526620_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,TOLA,WALOWOL  IWARE / KOFAR JAURO,02/12/11/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4129/result_48203_1677517399_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,TOLA,DEJJA M / LESDI / KOFAR J / DEJJA,02/12/11/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4118/result_48192_1677516960_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,TOLA,SABON GARI W/JAMA'A / KOFAR JAURO/W/JAMA'A,02/12/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/11/pu/012/012-1677403980.pdf,false
+ADAMAWA,MAYO - BELWA,TOLA,GANG BINDOL IV MOTOR PARK,02/12/11/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/11/pu/018/018-1677399297.pdf,false
+ADAMAWA,MAYO - BELWA,TOLA,KUBBA PRIMARY SCHOOL,02/12/11/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/12/ward/11/pu/015/015-1677399160.pdf,false

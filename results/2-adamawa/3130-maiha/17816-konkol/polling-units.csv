@@ -1,11 +1,11 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,MAIHA,,MARARABAN KONKOL/ KONKOL 1 PRY. SCH.,02/11/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17816/pu/3918/3918-1677594343.pdf,false
-ADAMAWA,MAIHA,,MARRARABAN KONKOL  II,02/11/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17816/pu/128626/128626-1677594231.pdf,false
-ADAMAWA,MAIHA,,IBADAN/ KONKOL DISPENSARY,02/11/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17816/pu/3917/3917-1677593737.pdf,false
-ADAMAWA,MAIHA,,IBADAN/ KONKOL DISPENSARY,02/11/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17816/pu/3916/3916-1677593166.pdf,true
-ADAMAWA,MAIHA,,KONKOL PRY SCH,02/11/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17816/pu/3915/3915-1677592699.pdf,true
-ADAMAWA,MAIHA,,BAPPARE/ KOFAR JAURO BUBA,02/11/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17816/pu/3914/3914-1677589269.pdf,true
-ADAMAWA,MAIHA,,BANTAHI/ KOFAR TELLA NJIDDA,02/11/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17816/pu/3913/3913-1677587350.pdf,true
-ADAMAWA,MAIHA,,BAKIN KASUWA ''B''/ KOFAR JAURO ADAMU II,02/11/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17816/pu/3912/3912-1677585422.pdf,false
-ADAMAWA,MAIHA,,BAKIN KASUWA ''A''/ KOFAR JAURO ADAMU I,02/11/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17816/pu/3911/3911-1677583593.pdf,true
-ADAMAWA,MAIHA,,WURO BAMADI/ KOFAR ISA IYAWA,02/11/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/03/pu/009/009-1677397703.pdf,false
+ADAMAWA,MAIHA,KONKOL,MARARABAN KONKOL/ KONKOL 1 PRY. SCH.,02/11/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17816/pu/3918/3918-1677594343.pdf,false
+ADAMAWA,MAIHA,KONKOL,MARRARABAN KONKOL  II,02/11/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17816/pu/128626/128626-1677594231.pdf,false
+ADAMAWA,MAIHA,KONKOL,IBADAN/ KONKOL DISPENSARY,02/11/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17816/pu/3917/3917-1677593737.pdf,false
+ADAMAWA,MAIHA,KONKOL,IBADAN/ KONKOL DISPENSARY,02/11/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17816/pu/3916/3916-1677593166.pdf,true
+ADAMAWA,MAIHA,KONKOL,KONKOL PRY SCH,02/11/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17816/pu/3915/3915-1677592699.pdf,true
+ADAMAWA,MAIHA,KONKOL,BAPPARE/ KOFAR JAURO BUBA,02/11/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17816/pu/3914/3914-1677589269.pdf,true
+ADAMAWA,MAIHA,KONKOL,BANTAHI/ KOFAR TELLA NJIDDA,02/11/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17816/pu/3913/3913-1677587350.pdf,true
+ADAMAWA,MAIHA,KONKOL,BAKIN KASUWA ''B''/ KOFAR JAURO ADAMU II,02/11/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17816/pu/3912/3912-1677585422.pdf,false
+ADAMAWA,MAIHA,KONKOL,BAKIN KASUWA ''A''/ KOFAR JAURO ADAMU I,02/11/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17816/pu/3911/3911-1677583593.pdf,true
+ADAMAWA,MAIHA,KONKOL,WURO BAMADI/ KOFAR ISA IYAWA,02/11/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/03/pu/009/009-1677397703.pdf,false

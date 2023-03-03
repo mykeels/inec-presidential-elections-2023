@@ -1,16 +1,16 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,MUBI NORTH,,MAYO BANI PRIMARY SCH,02/14/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/06/pu/013/013-1677413111.pdf,false
-ADAMAWA,MUBI NORTH,,MUVA PRIMARY SCHOOL I,02/14/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/06/pu/015/015-1677412619.pdf,false
-ADAMAWA,MUBI NORTH,,KOFAR JAURO BIRMA/ BIRMA LAYI,02/14/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/06/pu/009/009-1677405817.pdf,false
-ADAMAWA,MUBI NORTH,,KOFAR JAURO DIGIRE/ DIGIRE,02/14/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/06/pu/005/005-1677404579.pdf,false
-ADAMAWA,MUBI NORTH,,MUVA PRY. SCH./ MUVA LAYI,02/14/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/06/pu/011/011-1677403954.pdf,false
-ADAMAWA,MUBI NORTH,,KOFAR JAURO LAINDE/ LAINDE,02/14/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/06/pu/007/007-1677402969.pdf,false
-ADAMAWA,MUBI NORTH,,MAYO BANI PRY. SCH./ BULURE,02/14/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/06/pu/010/010-1677402249.pdf,false
-ADAMAWA,MUBI NORTH,,GIWABLAM PRY SCH./ BAJAUGAFU,02/14/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/06/pu/001/001-1677400102.pdf,false
-ADAMAWA,MUBI NORTH,,KOFAR JAURO DADIGAL/ DADIGAL,02/14/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/06/pu/006/006-1677396736.pdf,false
-ADAMAWA,MUBI NORTH,,MAYO BANI DEVELOPMENT AREA,02/14/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/06/pu/014/014-1677395722.pdf,false
-ADAMAWA,MUBI NORTH,,JARENGOL PRI. SCH./ JARENGOL,02/14/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/06/pu/002/002-1677395097.pdf,false
-ADAMAWA,MUBI NORTH,,KOFAR JAURO KOTIRDE UBARE/ UBARE,02/14/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/06/pu/008/008-1677393945.pdf,false
-ADAMAWA,MUBI NORTH,,KOFAR JAURO DIDIF/ DIDIF,02/14/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/06/pu/004/004-1677392812.pdf,false
-ADAMAWA,MUBI NORTH,,JAURO KURMI HUSARA/ KURMI,02/14/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/06/pu/003/003-1677391406.pdf,false
-ADAMAWA,MUBI NORTH,,TAPPARE PRI. SCH./ TAPPARE,02/14/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/06/pu/012/012-1677377348.pdf,false
+ADAMAWA,MUBI NORTH,MAYO BANI,MAYO BANI PRIMARY SCH,02/14/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/06/pu/013/013-1677413111.pdf,false
+ADAMAWA,MUBI NORTH,MAYO BANI,MUVA PRIMARY SCHOOL I,02/14/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/06/pu/015/015-1677412619.pdf,false
+ADAMAWA,MUBI NORTH,MAYO BANI,KOFAR JAURO BIRMA/ BIRMA LAYI,02/14/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/06/pu/009/009-1677405817.pdf,false
+ADAMAWA,MUBI NORTH,MAYO BANI,KOFAR JAURO DIGIRE/ DIGIRE,02/14/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/06/pu/005/005-1677404579.pdf,false
+ADAMAWA,MUBI NORTH,MAYO BANI,MUVA PRY. SCH./ MUVA LAYI,02/14/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/06/pu/011/011-1677403954.pdf,false
+ADAMAWA,MUBI NORTH,MAYO BANI,KOFAR JAURO LAINDE/ LAINDE,02/14/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/06/pu/007/007-1677402969.pdf,false
+ADAMAWA,MUBI NORTH,MAYO BANI,MAYO BANI PRY. SCH./ BULURE,02/14/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/06/pu/010/010-1677402249.pdf,false
+ADAMAWA,MUBI NORTH,MAYO BANI,GIWABLAM PRY SCH./ BAJAUGAFU,02/14/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/06/pu/001/001-1677400102.pdf,false
+ADAMAWA,MUBI NORTH,MAYO BANI,KOFAR JAURO DADIGAL/ DADIGAL,02/14/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/06/pu/006/006-1677396736.pdf,false
+ADAMAWA,MUBI NORTH,MAYO BANI,MAYO BANI DEVELOPMENT AREA,02/14/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/06/pu/014/014-1677395722.pdf,false
+ADAMAWA,MUBI NORTH,MAYO BANI,JARENGOL PRI. SCH./ JARENGOL,02/14/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/06/pu/002/002-1677395097.pdf,false
+ADAMAWA,MUBI NORTH,MAYO BANI,KOFAR JAURO KOTIRDE UBARE/ UBARE,02/14/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/06/pu/008/008-1677393945.pdf,false
+ADAMAWA,MUBI NORTH,MAYO BANI,KOFAR JAURO DIDIF/ DIDIF,02/14/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/06/pu/004/004-1677392812.pdf,false
+ADAMAWA,MUBI NORTH,MAYO BANI,JAURO KURMI HUSARA/ KURMI,02/14/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/06/pu/003/003-1677391406.pdf,false
+ADAMAWA,MUBI NORTH,MAYO BANI,TAPPARE PRI. SCH./ TAPPARE,02/14/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/06/pu/012/012-1677377348.pdf,false

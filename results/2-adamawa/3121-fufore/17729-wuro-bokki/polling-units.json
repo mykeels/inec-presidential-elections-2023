@@ -26,6 +26,7 @@
     "pu_code_string": "020210013",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "WURO BOKKI",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "020210017",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "WURO BOKKI",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "020210020",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "WURO BOKKI",
     "document": {
       "external": false,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "020210005",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "WURO BOKKI",
     "document": {
       "external": false,
       "status": 1,
@@ -178,6 +182,7 @@
     "pu_code_string": "020210007",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "WURO BOKKI",
     "document": {
       "external": false,
       "status": 1,
@@ -216,6 +221,7 @@
     "pu_code_string": "020210015",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "WURO BOKKI",
     "document": {
       "external": false,
       "status": 1,
@@ -254,6 +260,7 @@
     "pu_code_string": "020210021",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "WURO BOKKI",
     "document": {
       "external": false,
       "status": 1,
@@ -292,6 +299,7 @@
     "pu_code_string": "020210018",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "WURO BOKKI",
     "document": {
       "external": false,
       "status": 1,
@@ -330,6 +338,7 @@
     "pu_code_string": "020210016",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "WURO BOKKI",
     "document": {
       "external": false,
       "status": 1,
@@ -368,6 +377,7 @@
     "pu_code_string": "020210023",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "WURO BOKKI",
     "document": {
       "external": false,
       "status": 1,
@@ -406,6 +416,7 @@
     "pu_code_string": "020210002",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "WURO BOKKI",
     "document": {
       "external": false,
       "status": 1,
@@ -444,6 +455,7 @@
     "pu_code_string": "020210010",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "WURO BOKKI",
     "document": {
       "external": false,
       "status": 1,
@@ -482,6 +494,7 @@
     "pu_code_string": "020210001",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "WURO BOKKI",
     "document": {
       "external": false,
       "status": 1,
@@ -520,6 +533,7 @@
     "pu_code_string": "020210011",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "WURO BOKKI",
     "document": {
       "external": false,
       "status": 1,
@@ -558,6 +572,7 @@
     "pu_code_string": "020210014",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "WURO BOKKI",
     "document": {
       "external": false,
       "status": 1,
@@ -596,6 +611,7 @@
     "pu_code_string": "020210003",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "WURO BOKKI",
     "document": {
       "external": false,
       "status": 1,
@@ -634,6 +650,7 @@
     "pu_code_string": "020210019",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "WURO BOKKI",
     "document": {
       "external": false,
       "status": 1,
@@ -672,6 +689,7 @@
     "pu_code_string": "020210012",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "WURO BOKKI",
     "document": {
       "external": false,
       "status": 1,
@@ -710,6 +728,7 @@
     "pu_code_string": "020210008",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "WURO BOKKI",
     "document": {
       "external": false,
       "status": 1,
@@ -748,6 +767,7 @@
     "pu_code_string": "020210006",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "WURO BOKKI",
     "document": {
       "external": false,
       "status": 1,
@@ -786,6 +806,7 @@
     "pu_code_string": "020210009",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "WURO BOKKI",
     "document": {
       "external": false,
       "status": 1,
@@ -824,6 +845,7 @@
     "pu_code_string": "020210025",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "WURO BOKKI",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -854,6 +876,7 @@
     "pu_code_string": "020210024",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "WURO BOKKI",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -884,6 +907,7 @@
     "pu_code_string": "020210022",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "WURO BOKKI",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -914,6 +938,7 @@
     "pu_code_string": "020210004",
     "state_name": "ADAMAWA",
     "lga_name": "FUFORE",
+    "ward_name": "WURO BOKKI",
     "old_documents": [],
     "has_old_documents": false
   }

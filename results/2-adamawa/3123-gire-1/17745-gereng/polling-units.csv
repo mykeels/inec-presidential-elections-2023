@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,GIRE 1,,KOFAR NASARA KWAHA LUMO,02/04/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17745/pu/3124/3124-1677515153.pdf,false
-ADAMAWA,GIRE 1,,JAURO DAGIYA / DAGIYA PRY. SCH.,02/04/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17745/pu/3119/3119-1677501983.pdf,false
-ADAMAWA,GIRE 1,,FAWAIRE / KOFAR JAURO DUNIYA,02/04/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17745/pu/3116/3116-1677501472.pdf,false
-ADAMAWA,GIRE 1,,KOFAR JAURO KALIFA / GERENG 'B' PRY. SCH.,02/04/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17745/pu/3123/3123-1677500215.pdf,false
-ADAMAWA,GIRE 1,,GERENG 'I' / GERENG 'I' PRY. SCH.,02/04/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17745/pu/3117/3117-1677499190.pdf,false
-ADAMAWA,GIRE 1,,GERENG 'II' / GERENG 'II' PRY. SCH.,02/04/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17745/pu/3118/3118-1677498415.pdf,false
-ADAMAWA,GIRE 1,,KANGLING NEAR CLINIC,02/04/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17745/pu/128230/128230-1677497185.pdf,false
-ADAMAWA,GIRE 1,,KOFAR ARNADO / KOFAR JONAH,02/04/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17745/pu/3121/3121-1677496315.pdf,false
-ADAMAWA,GIRE 1,,KANGLING / KANGLING PRY. SCH.,02/04/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17745/pu/3120/3120-1677494895.pdf,false
-ADAMAWA,GIRE 1,,KOFAR JAURO JATAU / VUDEITU - NO -INE,02/04/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17745/pu/3122/3122-1677494595.pdf,false
-ADAMAWA,GIRE 1,,G.D.S.S KOH,02/04/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17745/pu/128231/128231-1677493706.pdf,false
-ADAMAWA,GIRE 1,,KWAHAMADAN NEAR AIRTEL MAST,02/04/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/05/pu/012/012-1677388088.pdf,false
+ADAMAWA,GIRE 1,GERENG,KOFAR NASARA KWAHA LUMO,02/04/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17745/pu/3124/3124-1677515153.pdf,false
+ADAMAWA,GIRE 1,GERENG,JAURO DAGIYA / DAGIYA PRY. SCH.,02/04/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17745/pu/3119/3119-1677501983.pdf,false
+ADAMAWA,GIRE 1,GERENG,FAWAIRE / KOFAR JAURO DUNIYA,02/04/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17745/pu/3116/3116-1677501472.pdf,false
+ADAMAWA,GIRE 1,GERENG,KOFAR JAURO KALIFA / GERENG 'B' PRY. SCH.,02/04/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17745/pu/3123/3123-1677500215.pdf,false
+ADAMAWA,GIRE 1,GERENG,GERENG 'I' / GERENG 'I' PRY. SCH.,02/04/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17745/pu/3117/3117-1677499190.pdf,false
+ADAMAWA,GIRE 1,GERENG,GERENG 'II' / GERENG 'II' PRY. SCH.,02/04/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17745/pu/3118/3118-1677498415.pdf,false
+ADAMAWA,GIRE 1,GERENG,KANGLING NEAR CLINIC,02/04/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17745/pu/128230/128230-1677497185.pdf,false
+ADAMAWA,GIRE 1,GERENG,KOFAR ARNADO / KOFAR JONAH,02/04/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17745/pu/3121/3121-1677496315.pdf,false
+ADAMAWA,GIRE 1,GERENG,KANGLING / KANGLING PRY. SCH.,02/04/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17745/pu/3120/3120-1677494895.pdf,false
+ADAMAWA,GIRE 1,GERENG,KOFAR JAURO JATAU / VUDEITU - NO -INE,02/04/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17745/pu/3122/3122-1677494595.pdf,false
+ADAMAWA,GIRE 1,GERENG,G.D.S.S KOH,02/04/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17745/pu/128231/128231-1677493706.pdf,false
+ADAMAWA,GIRE 1,GERENG,KWAHAMADAN NEAR AIRTEL MAST,02/04/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/05/pu/012/012-1677388088.pdf,false

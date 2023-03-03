@@ -1,21 +1,21 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,LAMURDE,,GBATI,02/09/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/128527/128527-1677591914.pdf,true
-ADAMAWA,LAMURDE,,BIMUKALING/ KOFAR MAI ANGUWA,02/09/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/3679/3679-1677591892.pdf,false
-ADAMAWA,LAMURDE,,MUPUN/KOFAR JAURO,02/09/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/3686/3686-1677586957.pdf,true
-ADAMAWA,LAMURDE,,GOKWANGHO,02/09/02/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/128533/128533-1677586256.pdf,true
-ADAMAWA,LAMURDE,,KULKON,02/09/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/128529/128529-1677586060.pdf,false
-ADAMAWA,LAMURDE,,VOMOKO,02/09/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/128531/128531-1677585153.pdf,false
-ADAMAWA,LAMURDE,,SAVANNAH HIGH SCHL.,02/09/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/128528/128528-1677584823.pdf,false
-ADAMAWA,LAMURDE,,MUPUNMONG,02/09/02/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/128534/128534-1677581849.pdf,true
-ADAMAWA,LAMURDE,,NGBAKOWO/ KOFAR JAURO,02/09/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/3687/3687-1677581455.pdf,true
-ADAMAWA,LAMURDE,,NGBAGWALING,02/09/02/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/128535/128535-1677581008.pdf,true
-ADAMAWA,LAMURDE,,GARIN OVERSEER/ KOFAR JAURO,02/09/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/3683/3683-1677580544.pdf,true
-ADAMAWA,LAMURDE,,FANZ / SENIOR STAFF CLUB II,02/09/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/3681/3681-1677579887.pdf,true
-ADAMAWA,LAMURDE,,GARIN MALLAM ISA/ KOFAR JAURO,02/09/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/3682/3682-1677579648.pdf,true
-ADAMAWA,LAMURDE,,SUPTO/ KOFAR JAURO,02/09/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/3688/3688-1677579444.pdf,true
-ADAMAWA,LAMURDE,,LOW COST/ JUNIOR STAFF CLUB,02/09/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/3685/3685-1677579048.pdf,true
-ADAMAWA,LAMURDE,,MATERNITY GYAWANA,02/09/02/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/128536/128536-1677578889.pdf,false
-ADAMAWA,LAMURDE,,KPENTI PRI. SCHL.,02/09/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/128532/128532-1677578308.pdf,false
-ADAMAWA,LAMURDE,,FANZ / SENIOR STAFF CLUB I,02/09/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/3680/3680-1677577694.pdf,false
-ADAMAWA,LAMURDE,,KASUWAN DARE/ KOFAR MAI ANGUWA,02/09/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/3684/3684-1677577303.pdf,false
-ADAMAWA,LAMURDE,,OVER SEER PRI. SCHL.,02/09/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/128530/128530-1677576301.pdf,true
+ADAMAWA,LAMURDE,GYAWANA,GBATI,02/09/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/128527/128527-1677591914.pdf,true
+ADAMAWA,LAMURDE,GYAWANA,BIMUKALING/ KOFAR MAI ANGUWA,02/09/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/3679/3679-1677591892.pdf,false
+ADAMAWA,LAMURDE,GYAWANA,MUPUN/KOFAR JAURO,02/09/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/3686/3686-1677586957.pdf,true
+ADAMAWA,LAMURDE,GYAWANA,GOKWANGHO,02/09/02/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/128533/128533-1677586256.pdf,true
+ADAMAWA,LAMURDE,GYAWANA,KULKON,02/09/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/128529/128529-1677586060.pdf,false
+ADAMAWA,LAMURDE,GYAWANA,VOMOKO,02/09/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/128531/128531-1677585153.pdf,false
+ADAMAWA,LAMURDE,GYAWANA,SAVANNAH HIGH SCHL.,02/09/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/128528/128528-1677584823.pdf,false
+ADAMAWA,LAMURDE,GYAWANA,MUPUNMONG,02/09/02/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/128534/128534-1677581849.pdf,true
+ADAMAWA,LAMURDE,GYAWANA,NGBAKOWO/ KOFAR JAURO,02/09/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/3687/3687-1677581455.pdf,true
+ADAMAWA,LAMURDE,GYAWANA,NGBAGWALING,02/09/02/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/128535/128535-1677581008.pdf,true
+ADAMAWA,LAMURDE,GYAWANA,GARIN OVERSEER/ KOFAR JAURO,02/09/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/3683/3683-1677580544.pdf,true
+ADAMAWA,LAMURDE,GYAWANA,FANZ / SENIOR STAFF CLUB II,02/09/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/3681/3681-1677579887.pdf,true
+ADAMAWA,LAMURDE,GYAWANA,GARIN MALLAM ISA/ KOFAR JAURO,02/09/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/3682/3682-1677579648.pdf,true
+ADAMAWA,LAMURDE,GYAWANA,SUPTO/ KOFAR JAURO,02/09/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/3688/3688-1677579444.pdf,true
+ADAMAWA,LAMURDE,GYAWANA,LOW COST/ JUNIOR STAFF CLUB,02/09/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/3685/3685-1677579048.pdf,true
+ADAMAWA,LAMURDE,GYAWANA,MATERNITY GYAWANA,02/09/02/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/128536/128536-1677578889.pdf,false
+ADAMAWA,LAMURDE,GYAWANA,KPENTI PRI. SCHL.,02/09/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/128532/128532-1677578308.pdf,false
+ADAMAWA,LAMURDE,GYAWANA,FANZ / SENIOR STAFF CLUB I,02/09/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/3680/3680-1677577694.pdf,false
+ADAMAWA,LAMURDE,GYAWANA,KASUWAN DARE/ KOFAR MAI ANGUWA,02/09/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/3684/3684-1677577303.pdf,false
+ADAMAWA,LAMURDE,GYAWANA,OVER SEER PRI. SCHL.,02/09/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17795/pu/128530/128530-1677576301.pdf,true

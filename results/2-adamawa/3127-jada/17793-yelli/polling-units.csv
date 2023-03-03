@@ -1,23 +1,23 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,JADA,,GADJO/ GADJO PRY. SCH.,02/08/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/3661/3661-1677684014.pdf,false
-ADAMAWA,JADA,,BELLO NDAMBA I/WURO USMAN PRIMARY SCHOOL,02/08/11/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/128520/128520-1677683944.pdf,false
-ADAMAWA,JADA,,KOJOLI  V/ OPEN SPACE KOJOLI II FOOTBALL FIELD PRIMARY SCHOOL,02/08/11/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/128524/128524-1677683709.pdf,false
-ADAMAWA,JADA,,KOJOLI  IV/ OPEN SPACE FOOTBALL FIELD KOJOLI PRIMARY SCHOOL,02/08/11/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/128523/128523-1677683591.pdf,false
-ADAMAWA,JADA,,GADJO I/OPEN SPACE GADJO FOOTBALL FIELD PRIMARY SCHOOL,02/08/11/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/128522/128522-1677683463.pdf,false
-ADAMAWA,JADA,,KOJOLI III/OPEN SPACE GINDIN KADANYA NEAR KOJOLI PRIMARY SCHOOL,02/08/11/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/128521/128521-1677683396.pdf,false
-ADAMAWA,JADA,,MAYINE I/MAYINE PRIMARY SCHOOL,02/08/11/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/128519/128519-1677626011.pdf,true
-ADAMAWA,JADA,,KOJOLI 3 PRY SCH,02/08/11/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/3668/3668-1677625844.pdf,true
-ADAMAWA,JADA,,SUDI CHEDE/ KOFAR JAURO SUDI,02/08/11/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/3667/3667-1677625773.pdf,true
-ADAMAWA,JADA,,SAPEO/ SAPEO PRY. SCH.,02/08/11/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/3666/3666-1677625705.pdf,true
-ADAMAWA,JADA,,NAMBERU/ NAMBERU PRY. SCH.,02/08/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/3665/3665-1677625620.pdf,true
-ADAMAWA,JADA,,KOJOLI II/ KOFAR JAURO FULANI,02/08/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/3664/3664-1677625556.pdf,true
-ADAMAWA,JADA,,KOJOLI I/ KOJOLI PRY. SCH.,02/08/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/3663/3663-1677625277.pdf,true
-ADAMAWA,JADA,,KALI/ BAYERO/ KOFAR JAURO KALI,02/08/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/3662/3662-1677625212.pdf,true
-ADAMAWA,JADA,,DAGGA/ JAGGI/ KOFAR JAURO DAGGA,02/08/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/3660/3660-1677624991.pdf,true
-ADAMAWA,JADA,,MBOJU MAJADU,02/08/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/3658/3658-1677624769.pdf,true
-ADAMAWA,JADA,,KOJOLI 2 PRY SCH (BIKKOI KAJI),02/08/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/3657/3657-1677624701.pdf,true
-ADAMAWA,JADA,,BELLO NDAMBA/ WURO USMAN PRY. SCH.,02/08/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/3656/3656-1677624563.pdf,true
-ADAMAWA,JADA,,ALH. JATAU/ KOFAR J. ALH. JATAU,02/08/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/3655/3655-1677624329.pdf,true
-ADAMAWA,JADA,,ALH. MAYINE/ KOFAR J. ALH. MAYINE,02/08/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/3654/3654-1677624053.pdf,true
-ADAMAWA,JADA,,KOJOLI  VI/ OPEN SPACE FOOTBALL FIELD GSS KOJOLI,02/08/11/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/11/pu/022/022-1677401396.pdf,false
-ADAMAWA,JADA,,BORKONO/ BORKONO PRY. SCH.,02/08/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/11/pu/006/006-1677396261.pdf,false
+ADAMAWA,JADA,YELLI,GADJO/ GADJO PRY. SCH.,02/08/11/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/3661/3661-1677684014.pdf,false
+ADAMAWA,JADA,YELLI,BELLO NDAMBA I/WURO USMAN PRIMARY SCHOOL,02/08/11/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/128520/128520-1677683944.pdf,false
+ADAMAWA,JADA,YELLI,KOJOLI  V/ OPEN SPACE KOJOLI II FOOTBALL FIELD PRIMARY SCHOOL,02/08/11/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/128524/128524-1677683709.pdf,false
+ADAMAWA,JADA,YELLI,KOJOLI  IV/ OPEN SPACE FOOTBALL FIELD KOJOLI PRIMARY SCHOOL,02/08/11/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/128523/128523-1677683591.pdf,false
+ADAMAWA,JADA,YELLI,GADJO I/OPEN SPACE GADJO FOOTBALL FIELD PRIMARY SCHOOL,02/08/11/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/128522/128522-1677683463.pdf,false
+ADAMAWA,JADA,YELLI,KOJOLI III/OPEN SPACE GINDIN KADANYA NEAR KOJOLI PRIMARY SCHOOL,02/08/11/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/128521/128521-1677683396.pdf,false
+ADAMAWA,JADA,YELLI,MAYINE I/MAYINE PRIMARY SCHOOL,02/08/11/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/128519/128519-1677626011.pdf,true
+ADAMAWA,JADA,YELLI,KOJOLI 3 PRY SCH,02/08/11/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/3668/3668-1677625844.pdf,true
+ADAMAWA,JADA,YELLI,SUDI CHEDE/ KOFAR JAURO SUDI,02/08/11/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/3667/3667-1677625773.pdf,true
+ADAMAWA,JADA,YELLI,SAPEO/ SAPEO PRY. SCH.,02/08/11/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/3666/3666-1677625705.pdf,true
+ADAMAWA,JADA,YELLI,NAMBERU/ NAMBERU PRY. SCH.,02/08/11/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/3665/3665-1677625620.pdf,true
+ADAMAWA,JADA,YELLI,KOJOLI II/ KOFAR JAURO FULANI,02/08/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/3664/3664-1677625556.pdf,true
+ADAMAWA,JADA,YELLI,KOJOLI I/ KOJOLI PRY. SCH.,02/08/11/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/3663/3663-1677625277.pdf,true
+ADAMAWA,JADA,YELLI,KALI/ BAYERO/ KOFAR JAURO KALI,02/08/11/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/3662/3662-1677625212.pdf,true
+ADAMAWA,JADA,YELLI,DAGGA/ JAGGI/ KOFAR JAURO DAGGA,02/08/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/3660/3660-1677624991.pdf,true
+ADAMAWA,JADA,YELLI,MBOJU MAJADU,02/08/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/3658/3658-1677624769.pdf,true
+ADAMAWA,JADA,YELLI,KOJOLI 2 PRY SCH (BIKKOI KAJI),02/08/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/3657/3657-1677624701.pdf,true
+ADAMAWA,JADA,YELLI,BELLO NDAMBA/ WURO USMAN PRY. SCH.,02/08/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/3656/3656-1677624563.pdf,true
+ADAMAWA,JADA,YELLI,ALH. JATAU/ KOFAR J. ALH. JATAU,02/08/11/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/3655/3655-1677624329.pdf,true
+ADAMAWA,JADA,YELLI,ALH. MAYINE/ KOFAR J. ALH. MAYINE,02/08/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17793/pu/3654/3654-1677624053.pdf,true
+ADAMAWA,JADA,YELLI,KOJOLI  VI/ OPEN SPACE FOOTBALL FIELD GSS KOJOLI,02/08/11/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/11/pu/022/022-1677401396.pdf,false
+ADAMAWA,JADA,YELLI,BORKONO/ BORKONO PRY. SCH.,02/08/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/11/pu/006/006-1677396261.pdf,false

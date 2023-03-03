@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,HONG,,"PADA II / PRIMARY HEALTHCARE, BAKIN RIJIYA MARARRABA",02/07/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/09/pu/012/012-1677389185.pdf,false
-ADAMAWA,HONG,,PADA I/G.D.S.S MARARRABA,02/07/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/09/pu/011/011-1677387420.pdf,false
-ADAMAWA,HONG,,NJAIRI / NJAIRI PRIMARY SCHOOL,02/07/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/09/pu/010/010-1677386223.pdf,false
-ADAMAWA,HONG,,KURMI MAYO-LOPE/ KURMI PRIMARY SCHOOL,02/07/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/09/pu/009/009-1677385291.pdf,false
-ADAMAWA,HONG,,PADA II/ BAKIN KASUWA,02/07/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/09/pu/008/008-1677384281.pdf,false
-ADAMAWA,HONG,,PADA I/ BAKIN KASUWA,02/07/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/09/pu/007/007-1677383214.pdf,false
-ADAMAWA,HONG,,NJAIRI/ NJAIRI PRY. SCH.,02/07/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/09/pu/006/006-1677379459.pdf,false
-ADAMAWA,HONG,,MISIRDANYI/ GASHALA DISPENSARY,02/07/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/09/pu/005/005-1677377239.pdf,false
-ADAMAWA,HONG,,MIRINYI FULANI/ KOFAR JAURO FULANI MIRYI,02/07/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/09/pu/004/004-1677375184.pdf,false
-ADAMAWA,HONG,,KURMI MAYO LOPE/ KOFAR JAURO K/MAYO LOPE,02/07/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/09/pu/003/003-1677372565.pdf,false
-ADAMAWA,HONG,,KUMARTAI/ KOFAR JAURO KUMARTAI,02/07/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/09/pu/002/002-1677369904.pdf,false
-ADAMAWA,HONG,,GASHALA/ GASHALA PRY. SCH.,02/07/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/09/pu/001/001-1677368378.pdf,false
+ADAMAWA,HONG,MAYO LOPE,"PADA II / PRIMARY HEALTHCARE, BAKIN RIJIYA MARARRABA",02/07/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/09/pu/012/012-1677389185.pdf,false
+ADAMAWA,HONG,MAYO LOPE,PADA I/G.D.S.S MARARRABA,02/07/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/09/pu/011/011-1677387420.pdf,false
+ADAMAWA,HONG,MAYO LOPE,NJAIRI / NJAIRI PRIMARY SCHOOL,02/07/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/09/pu/010/010-1677386223.pdf,false
+ADAMAWA,HONG,MAYO LOPE,KURMI MAYO-LOPE/ KURMI PRIMARY SCHOOL,02/07/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/09/pu/009/009-1677385291.pdf,false
+ADAMAWA,HONG,MAYO LOPE,PADA II/ BAKIN KASUWA,02/07/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/09/pu/008/008-1677384281.pdf,false
+ADAMAWA,HONG,MAYO LOPE,PADA I/ BAKIN KASUWA,02/07/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/09/pu/007/007-1677383214.pdf,false
+ADAMAWA,HONG,MAYO LOPE,NJAIRI/ NJAIRI PRY. SCH.,02/07/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/09/pu/006/006-1677379459.pdf,false
+ADAMAWA,HONG,MAYO LOPE,MISIRDANYI/ GASHALA DISPENSARY,02/07/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/09/pu/005/005-1677377239.pdf,false
+ADAMAWA,HONG,MAYO LOPE,MIRINYI FULANI/ KOFAR JAURO FULANI MIRYI,02/07/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/09/pu/004/004-1677375184.pdf,false
+ADAMAWA,HONG,MAYO LOPE,KURMI MAYO LOPE/ KOFAR JAURO K/MAYO LOPE,02/07/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/09/pu/003/003-1677372565.pdf,false
+ADAMAWA,HONG,MAYO LOPE,KUMARTAI/ KOFAR JAURO KUMARTAI,02/07/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/09/pu/002/002-1677369904.pdf,false
+ADAMAWA,HONG,MAYO LOPE,GASHALA/ GASHALA PRY. SCH.,02/07/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/09/pu/001/001-1677368378.pdf,false

@@ -1,18 +1,18 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,JADA,,MAPEO I/MAYO-BEWA/MAPEO PRIMARY SCHOOL,02/08/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/128503/128503-1677670229.pdf,false
-ADAMAWA,JADA,,LENDO IV/OPEN SPACE NEAR LENDO PRIMARY SCHOOL,02/08/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/128502/128502-1677669982.pdf,true
-ADAMAWA,JADA,,LENDO III/GINDINMAINA BEHIND LENDO PRIMARY SCHOOL,02/08/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/128501/128501-1677669690.pdf,false
-ADAMAWA,JADA,,KAREJI NATUBI II/GOVERNMENT DAY SECONDARY SCHOOL MAPEO,02/08/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/128500/128500-1677669154.pdf,false
-ADAMAWA,JADA,,KAREJINATUBI I/OPEN SPACE NEAR BORE HOLE,02/08/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/128499/128499-1677668749.pdf,false
-ADAMAWA,JADA,,LENDO MARKET SQUARE,02/08/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/128498/128498-1677668435.pdf,false
-ADAMAWA,JADA,,VERE/ KOFAR ARNADO VERE,02/08/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/3610/3610-1677668154.pdf,false
-ADAMAWA,JADA,,TAPPARE/ KOFAR JAURO TAPPARE,02/08/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/3609/3609-1677667724.pdf,false
-ADAMAWA,JADA,,MAPEO/ MAYO BEWA/ MAPEO PRY. SCH.,02/08/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/3608/3608-1677626412.pdf,true
-ADAMAWA,JADA,,LENGDO II/ LENGDO PRY. SCH. II,02/08/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/3607/3607-1677626082.pdf,true
-ADAMAWA,JADA,,LENGDO I/ LENGDO PRY. SCH. I,02/08/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/3606/3606-1677625678.pdf,true
-ADAMAWA,JADA,,KOJOLI JABBE/ KOJOLI JABBE PRY. SCH.,02/08/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/3605/3605-1677625180.pdf,true
-ADAMAWA,JADA,,KAREJI NATUBI/ KOFAR JAURO NATUBI,02/08/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/3604/3604-1677624565.pdf,true
-ADAMAWA,JADA,,OPEN SPACE JALINGO II LETTERE(JALINGO II/K/J LETTERE),02/08/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/3603/3603-1677623757.pdf,false
-ADAMAWA,JADA,,JALINGO I/ JALINGO DISPENSARY,02/08/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/3602/3602-1677599032.pdf,false
-ADAMAWA,JADA,,FULANI/ KOFAR JAURO FULANI,02/08/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/3601/3601-1677598282.pdf,false
-ADAMAWA,JADA,,DIMKEMI/ K.J. KULU WURBA KOMA,02/08/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/3600/3600-1677597011.pdf,true
+ADAMAWA,JADA,MAPEO,MAPEO I/MAYO-BEWA/MAPEO PRIMARY SCHOOL,02/08/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/128503/128503-1677670229.pdf,false
+ADAMAWA,JADA,MAPEO,LENDO IV/OPEN SPACE NEAR LENDO PRIMARY SCHOOL,02/08/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/128502/128502-1677669982.pdf,true
+ADAMAWA,JADA,MAPEO,LENDO III/GINDINMAINA BEHIND LENDO PRIMARY SCHOOL,02/08/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/128501/128501-1677669690.pdf,false
+ADAMAWA,JADA,MAPEO,KAREJI NATUBI II/GOVERNMENT DAY SECONDARY SCHOOL MAPEO,02/08/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/128500/128500-1677669154.pdf,false
+ADAMAWA,JADA,MAPEO,KAREJINATUBI I/OPEN SPACE NEAR BORE HOLE,02/08/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/128499/128499-1677668749.pdf,false
+ADAMAWA,JADA,MAPEO,LENDO MARKET SQUARE,02/08/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/128498/128498-1677668435.pdf,false
+ADAMAWA,JADA,MAPEO,VERE/ KOFAR ARNADO VERE,02/08/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/3610/3610-1677668154.pdf,false
+ADAMAWA,JADA,MAPEO,TAPPARE/ KOFAR JAURO TAPPARE,02/08/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/3609/3609-1677667724.pdf,false
+ADAMAWA,JADA,MAPEO,MAPEO/ MAYO BEWA/ MAPEO PRY. SCH.,02/08/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/3608/3608-1677626412.pdf,true
+ADAMAWA,JADA,MAPEO,LENGDO II/ LENGDO PRY. SCH. II,02/08/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/3607/3607-1677626082.pdf,true
+ADAMAWA,JADA,MAPEO,LENGDO I/ LENGDO PRY. SCH. I,02/08/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/3606/3606-1677625678.pdf,true
+ADAMAWA,JADA,MAPEO,KOJOLI JABBE/ KOJOLI JABBE PRY. SCH.,02/08/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/3605/3605-1677625180.pdf,true
+ADAMAWA,JADA,MAPEO,KAREJI NATUBI/ KOFAR JAURO NATUBI,02/08/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/3604/3604-1677624565.pdf,true
+ADAMAWA,JADA,MAPEO,OPEN SPACE JALINGO II LETTERE(JALINGO II/K/J LETTERE),02/08/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/3603/3603-1677623757.pdf,false
+ADAMAWA,JADA,MAPEO,JALINGO I/ JALINGO DISPENSARY,02/08/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/3602/3602-1677599032.pdf,false
+ADAMAWA,JADA,MAPEO,FULANI/ KOFAR JAURO FULANI,02/08/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/3601/3601-1677598282.pdf,false
+ADAMAWA,JADA,MAPEO,DIMKEMI/ K.J. KULU WURBA KOMA,02/08/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3127/ward/17789/pu/3600/3600-1677597011.pdf,true

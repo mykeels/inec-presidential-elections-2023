@@ -1,15 +1,15 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,MICHIKA,,HUDZUKWI PRI. SCHOOL,02/13/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3132/ward/17844/pu/4225/4225-1677491549.pdf,false
-ADAMAWA,MICHIKA,,JAURO SALIHU / MODA PRI. SCH.,02/13/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/09/pu/003/003-1677420234.pdf,false
-ADAMAWA,MICHIKA,,KWADIRI / KWADIR PRI. SCH.,02/13/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/09/pu/004/004-1677419478.pdf,false
-ADAMAWA,MICHIKA,,DAMAGO / KOFAR BULAMA,02/13/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/09/pu/001/001-1677418384.pdf,false
-ADAMAWA,MICHIKA,,UNG. ARDO TARI YAWA / KOFAR ARDO TARI YAWA,02/13/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/09/pu/005/005-1677417082.pdf,false
-ADAMAWA,MICHIKA,,UNG. ARDO TARI YAWA / KOFAR BULAMA KIDE,02/13/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/09/pu/006/006-1677414958.pdf,false
-ADAMAWA,MICHIKA,,WAJARA NDAWA   I / BARKI DLAKA PRI. SCH. I,02/13/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/09/pu/007/007-1677414776.pdf,false
-ADAMAWA,MICHIKA,,WAJARA NDAWA  II / BARKI DLAKA  PRI. SCH. II,02/13/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/09/pu/008/008-1677413731.pdf,false
-ADAMAWA,MICHIKA,,BARKI DLAKA PRI.SCH. III,02/13/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/09/pu/009/009-1677413379.pdf,false
-ADAMAWA,MICHIKA,,TIGHEMI / TIGHEMI PRI. SCH.,02/13/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/09/pu/011/011-1677412229.pdf,false
-ADAMAWA,MICHIKA,,WAJARA NDAWA II / BARKI DLAKA PRI. SCH. III,02/13/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/09/pu/010/010-1677411793.pdf,false
-ADAMAWA,MICHIKA,,HUDZUKWI I.  PRI. SCH.II,02/13/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/09/pu/012/012-1677410188.pdf,false
-ADAMAWA,MICHIKA,,GDSS MODA,02/13/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/09/pu/013/013-1677409402.pdf,false
-ADAMAWA,MICHIKA,,WARANKI PRI. SCH.,02/13/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/09/pu/014/014-1677406670.pdf,false
+ADAMAWA,MICHIKA,MODA / DLAKA / GHENJUWA,HUDZUKWI PRI. SCHOOL,02/13/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3132/ward/17844/pu/4225/4225-1677491549.pdf,false
+ADAMAWA,MICHIKA,MODA / DLAKA / GHENJUWA,JAURO SALIHU / MODA PRI. SCH.,02/13/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/09/pu/003/003-1677420234.pdf,false
+ADAMAWA,MICHIKA,MODA / DLAKA / GHENJUWA,KWADIRI / KWADIR PRI. SCH.,02/13/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/09/pu/004/004-1677419478.pdf,false
+ADAMAWA,MICHIKA,MODA / DLAKA / GHENJUWA,DAMAGO / KOFAR BULAMA,02/13/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/09/pu/001/001-1677418384.pdf,false
+ADAMAWA,MICHIKA,MODA / DLAKA / GHENJUWA,UNG. ARDO TARI YAWA / KOFAR ARDO TARI YAWA,02/13/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/09/pu/005/005-1677417082.pdf,false
+ADAMAWA,MICHIKA,MODA / DLAKA / GHENJUWA,UNG. ARDO TARI YAWA / KOFAR BULAMA KIDE,02/13/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/09/pu/006/006-1677414958.pdf,false
+ADAMAWA,MICHIKA,MODA / DLAKA / GHENJUWA,WAJARA NDAWA   I / BARKI DLAKA PRI. SCH. I,02/13/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/09/pu/007/007-1677414776.pdf,false
+ADAMAWA,MICHIKA,MODA / DLAKA / GHENJUWA,WAJARA NDAWA  II / BARKI DLAKA  PRI. SCH. II,02/13/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/09/pu/008/008-1677413731.pdf,false
+ADAMAWA,MICHIKA,MODA / DLAKA / GHENJUWA,BARKI DLAKA PRI.SCH. III,02/13/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/09/pu/009/009-1677413379.pdf,false
+ADAMAWA,MICHIKA,MODA / DLAKA / GHENJUWA,TIGHEMI / TIGHEMI PRI. SCH.,02/13/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/09/pu/011/011-1677412229.pdf,false
+ADAMAWA,MICHIKA,MODA / DLAKA / GHENJUWA,WAJARA NDAWA II / BARKI DLAKA PRI. SCH. III,02/13/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/09/pu/010/010-1677411793.pdf,false
+ADAMAWA,MICHIKA,MODA / DLAKA / GHENJUWA,HUDZUKWI I.  PRI. SCH.II,02/13/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/09/pu/012/012-1677410188.pdf,false
+ADAMAWA,MICHIKA,MODA / DLAKA / GHENJUWA,GDSS MODA,02/13/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/09/pu/013/013-1677409402.pdf,false
+ADAMAWA,MICHIKA,MODA / DLAKA / GHENJUWA,WARANKI PRI. SCH.,02/13/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/09/pu/014/014-1677406670.pdf,false

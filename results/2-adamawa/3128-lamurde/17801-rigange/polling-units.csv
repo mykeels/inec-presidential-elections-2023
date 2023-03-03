@@ -1,10 +1,10 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,LAMURDE,,TITO/ KOFAR SARKIN HAUSAWA,02/09/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17801/pu/3744/3744-1677599693.pdf,false
-ADAMAWA,LAMURDE,,GONGONG/ KOFAR MAI ANGUWA,02/09/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17801/pu/3741/3741-1677597592.pdf,false
-ADAMAWA,LAMURDE,,DOME/ KOFAR MAL. NEBAN,02/09/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17801/pu/3740/3740-1677594264.pdf,true
-ADAMAWA,LAMURDE,,BAJEN/ KOFAR JAURO,02/09/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17801/pu/3738/3738-1677593477.pdf,true
-ADAMAWA,LAMURDE,,BAJEN/ KWAHABUN,02/09/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17801/pu/3739/3739-1677593354.pdf,true
-ADAMAWA,LAMURDE,,KORGOSEI/ KOFAR MAI ANGUWA,02/09/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17801/pu/3742/3742-1677593023.pdf,true
-ADAMAWA,LAMURDE,,NGBAMUPTO/ RIGANGE PRY. SCH.,02/09/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17801/pu/3743/3743-1677592513.pdf,true
-ADAMAWA,LAMURDE,,TITO/ TITO PRY. SCH.,02/09/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17801/pu/3745/3745-1677591907.pdf,true
-ADAMAWA,LAMURDE,,ZINA/ KOFAR JEKAMIAH,02/09/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17801/pu/3746/3746-1677586971.pdf,true
+ADAMAWA,LAMURDE,RIGANGE,TITO/ KOFAR SARKIN HAUSAWA,02/09/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17801/pu/3744/3744-1677599693.pdf,false
+ADAMAWA,LAMURDE,RIGANGE,GONGONG/ KOFAR MAI ANGUWA,02/09/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17801/pu/3741/3741-1677597592.pdf,false
+ADAMAWA,LAMURDE,RIGANGE,DOME/ KOFAR MAL. NEBAN,02/09/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17801/pu/3740/3740-1677594264.pdf,true
+ADAMAWA,LAMURDE,RIGANGE,BAJEN/ KOFAR JAURO,02/09/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17801/pu/3738/3738-1677593477.pdf,true
+ADAMAWA,LAMURDE,RIGANGE,BAJEN/ KWAHABUN,02/09/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17801/pu/3739/3739-1677593354.pdf,true
+ADAMAWA,LAMURDE,RIGANGE,KORGOSEI/ KOFAR MAI ANGUWA,02/09/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17801/pu/3742/3742-1677593023.pdf,true
+ADAMAWA,LAMURDE,RIGANGE,NGBAMUPTO/ RIGANGE PRY. SCH.,02/09/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17801/pu/3743/3743-1677592513.pdf,true
+ADAMAWA,LAMURDE,RIGANGE,TITO/ TITO PRY. SCH.,02/09/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17801/pu/3745/3745-1677591907.pdf,true
+ADAMAWA,LAMURDE,RIGANGE,ZINA/ KOFAR JEKAMIAH,02/09/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3128/ward/17801/pu/3746/3746-1677586971.pdf,true

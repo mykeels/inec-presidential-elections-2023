@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,GIRE 1,,BAJABURE HOUSING ESTATE/ PHASE II ROAD 2,02/04/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17741/pu/3085/3085-1677508927.pdf,false
-ADAMAWA,GIRE 1,,UNIVERSITY BESIDE SCHOOL CLINIC II,02/04/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17741/pu/128194/128194-1677507914.pdf,false
-ADAMAWA,GIRE 1,,LABONDO PRIMARY SCHOOL,02/04/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17741/pu/128192/128192-1677507149.pdf,false
-ADAMAWA,GIRE 1,,DAKRI ALHAJI/ KOFAR ALH. BAKARI,02/04/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17741/pu/3086/3086-1677505261.pdf,false
-ADAMAWA,GIRE 1,,KOFAR JAURO YAHAYA/ KOFAR JAURO YAHAYA,02/04/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17741/pu/3088/3088-1677501829.pdf,false
-ADAMAWA,GIRE 1,,LABONDO/ KOFAR JAURO,02/04/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17741/pu/3089/3089-1677501559.pdf,false
-ADAMAWA,GIRE 1,,ANGUWAN LABARAN/ KOFAR JAURO MOH,02/04/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17741/pu/3084/3084-1677500658.pdf,false
-ADAMAWA,GIRE 1,,UNIVERSITY/ NEAR GIRLS HOSTEL,02/04/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17741/pu/3090/3090-1677499797.pdf,false
-ADAMAWA,GIRE 1,,FEDERAL HOUSING   ESTATE NEAR CLINIC,02/04/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17741/pu/128189/128189-1677499768.pdf,false
-ADAMAWA,GIRE 1,,FEDERAL HOUSING ESTATE NEAR  BORE HOLE,02/04/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17741/pu/128190/128190-1677498776.pdf,false
-ADAMAWA,GIRE 1,,BAJABURE FEDERAL HOUSING ESTATE   PRIMARY SCHOOL,02/04/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17741/pu/128191/128191-1677498501.pdf,false
-ADAMAWA,GIRE 1,,UNIVERSITY BESIDE SCHOOL CLINIC I,02/04/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17741/pu/128193/128193-1677498043.pdf,false
-ADAMAWA,GIRE 1,,KOFAR JAURO BOBBO/ KOFAR JAURO BOBBO,02/04/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17741/pu/3087/3087-1677497063.pdf,false
+ADAMAWA,GIRE 1,DAKRI,BAJABURE HOUSING ESTATE/ PHASE II ROAD 2,02/04/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17741/pu/3085/3085-1677508927.pdf,false
+ADAMAWA,GIRE 1,DAKRI,UNIVERSITY BESIDE SCHOOL CLINIC II,02/04/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17741/pu/128194/128194-1677507914.pdf,false
+ADAMAWA,GIRE 1,DAKRI,LABONDO PRIMARY SCHOOL,02/04/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17741/pu/128192/128192-1677507149.pdf,false
+ADAMAWA,GIRE 1,DAKRI,DAKRI ALHAJI/ KOFAR ALH. BAKARI,02/04/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17741/pu/3086/3086-1677505261.pdf,false
+ADAMAWA,GIRE 1,DAKRI,KOFAR JAURO YAHAYA/ KOFAR JAURO YAHAYA,02/04/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17741/pu/3088/3088-1677501829.pdf,false
+ADAMAWA,GIRE 1,DAKRI,LABONDO/ KOFAR JAURO,02/04/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17741/pu/3089/3089-1677501559.pdf,false
+ADAMAWA,GIRE 1,DAKRI,ANGUWAN LABARAN/ KOFAR JAURO MOH,02/04/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17741/pu/3084/3084-1677500658.pdf,false
+ADAMAWA,GIRE 1,DAKRI,UNIVERSITY/ NEAR GIRLS HOSTEL,02/04/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17741/pu/3090/3090-1677499797.pdf,false
+ADAMAWA,GIRE 1,DAKRI,FEDERAL HOUSING   ESTATE NEAR CLINIC,02/04/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17741/pu/128189/128189-1677499768.pdf,false
+ADAMAWA,GIRE 1,DAKRI,FEDERAL HOUSING ESTATE NEAR  BORE HOLE,02/04/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17741/pu/128190/128190-1677498776.pdf,false
+ADAMAWA,GIRE 1,DAKRI,BAJABURE FEDERAL HOUSING ESTATE   PRIMARY SCHOOL,02/04/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17741/pu/128191/128191-1677498501.pdf,false
+ADAMAWA,GIRE 1,DAKRI,UNIVERSITY BESIDE SCHOOL CLINIC I,02/04/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17741/pu/128193/128193-1677498043.pdf,false
+ADAMAWA,GIRE 1,DAKRI,KOFAR JAURO BOBBO/ KOFAR JAURO BOBBO,02/04/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17741/pu/3087/3087-1677497063.pdf,false

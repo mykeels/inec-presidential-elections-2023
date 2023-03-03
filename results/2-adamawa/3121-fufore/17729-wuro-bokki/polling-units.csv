@@ -1,26 +1,26 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,FUFORE,,WURO HAUSA PRY SCH,02/02/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/013/013-1677427620.pdf,false
-ADAMAWA,FUFORE,,WURO BOKKI PRY. SCH.,02/02/10/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/017/017-1677427090.pdf,false
-ADAMAWA,FUFORE,,MALABU PRI. SCH. III,02/02/10/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/020/020-1677426287.pdf,false
-ADAMAWA,FUFORE,,GDSS MALABU,02/02/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/005/005-1677425161.pdf,false
-ADAMAWA,FUFORE,,MALABU PRY SCH,02/02/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/007/007-1677425095.pdf,false
-ADAMAWA,FUFORE,,KOFAR JAURO WURO MARAFA,02/02/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/015/015-1677424637.pdf,false
-ADAMAWA,FUFORE,,MALABU DISPENSARY II,02/02/10/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/021/021-1677424564.pdf,false
-ADAMAWA,FUFORE,,G.D.S.S MALABU II,02/02/10/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/018/018-1677423586.pdf,false
-ADAMAWA,FUFORE,,WURO BOKKI PRY. SCH.,02/02/10/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/016/016-1677422722.pdf,false
-ADAMAWA,FUFORE,,MALABU DISPENSARY IV,02/02/10/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/023/023-1677422469.pdf,false
-ADAMAWA,FUFORE,,DASIN ABBA KUMBO PRY. SCH. II,02/02/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/002/002-1677421790.pdf,false
-ADAMAWA,FUFORE,,MBILLA BILACHI PRY SCH,02/02/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/010/010-1677418964.pdf,false
-ADAMAWA,FUFORE,,DASIN ABBA KUMBO PRY. SCH. I,02/02/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/001/001-1677418825.pdf,false
-ADAMAWA,FUFORE,,KOFAR JAURO NADERE,02/02/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/011/011-1677418667.pdf,false
-ADAMAWA,FUFORE,,BILACHI DISPENSARY,02/02/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/014/014-1677418515.pdf,false
-ADAMAWA,FUFORE,,KAMARSA PRY. SCH.,02/02/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/003/003-1677418456.pdf,false
-ADAMAWA,FUFORE,,MALABU PRI. SCH. II,02/02/10/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/019/019-1677418295.pdf,false
-ADAMAWA,FUFORE,,KOFAR JAURO SUWAWO,02/02/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/012/012-1677418103.pdf,false
-ADAMAWA,FUFORE,,MALABU DISPENSARY,02/02/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/008/008-1677418029.pdf,false
-ADAMAWA,FUFORE,,WURO UJIRI PRY SCH,02/02/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/006/006-1677416527.pdf,false
-ADAMAWA,FUFORE,,KOFAR JAURO JAMBUTU,02/02/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/009/009-1677389576.pdf,false
-ADAMAWA,FUFORE,,WURO BOKKI PRI. SCH. IV,02/02/10/025,,false
-ADAMAWA,FUFORE,,WURO BOKKI PRI. SCH. III,02/02/10/024,,false
-ADAMAWA,FUFORE,,MALABU DISPENSARY III,02/02/10/022,,false
-ADAMAWA,FUFORE,,BILACHI PRY SCH,02/02/10/004,,false
+ADAMAWA,FUFORE,WURO BOKKI,WURO HAUSA PRY SCH,02/02/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/013/013-1677427620.pdf,false
+ADAMAWA,FUFORE,WURO BOKKI,WURO BOKKI PRY. SCH.,02/02/10/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/017/017-1677427090.pdf,false
+ADAMAWA,FUFORE,WURO BOKKI,MALABU PRI. SCH. III,02/02/10/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/020/020-1677426287.pdf,false
+ADAMAWA,FUFORE,WURO BOKKI,GDSS MALABU,02/02/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/005/005-1677425161.pdf,false
+ADAMAWA,FUFORE,WURO BOKKI,MALABU PRY SCH,02/02/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/007/007-1677425095.pdf,false
+ADAMAWA,FUFORE,WURO BOKKI,KOFAR JAURO WURO MARAFA,02/02/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/015/015-1677424637.pdf,false
+ADAMAWA,FUFORE,WURO BOKKI,MALABU DISPENSARY II,02/02/10/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/021/021-1677424564.pdf,false
+ADAMAWA,FUFORE,WURO BOKKI,G.D.S.S MALABU II,02/02/10/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/018/018-1677423586.pdf,false
+ADAMAWA,FUFORE,WURO BOKKI,WURO BOKKI PRY. SCH.,02/02/10/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/016/016-1677422722.pdf,false
+ADAMAWA,FUFORE,WURO BOKKI,MALABU DISPENSARY IV,02/02/10/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/023/023-1677422469.pdf,false
+ADAMAWA,FUFORE,WURO BOKKI,DASIN ABBA KUMBO PRY. SCH. II,02/02/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/002/002-1677421790.pdf,false
+ADAMAWA,FUFORE,WURO BOKKI,MBILLA BILACHI PRY SCH,02/02/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/010/010-1677418964.pdf,false
+ADAMAWA,FUFORE,WURO BOKKI,DASIN ABBA KUMBO PRY. SCH. I,02/02/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/001/001-1677418825.pdf,false
+ADAMAWA,FUFORE,WURO BOKKI,KOFAR JAURO NADERE,02/02/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/011/011-1677418667.pdf,false
+ADAMAWA,FUFORE,WURO BOKKI,BILACHI DISPENSARY,02/02/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/014/014-1677418515.pdf,false
+ADAMAWA,FUFORE,WURO BOKKI,KAMARSA PRY. SCH.,02/02/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/003/003-1677418456.pdf,false
+ADAMAWA,FUFORE,WURO BOKKI,MALABU PRI. SCH. II,02/02/10/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/019/019-1677418295.pdf,false
+ADAMAWA,FUFORE,WURO BOKKI,KOFAR JAURO SUWAWO,02/02/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/012/012-1677418103.pdf,false
+ADAMAWA,FUFORE,WURO BOKKI,MALABU DISPENSARY,02/02/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/008/008-1677418029.pdf,false
+ADAMAWA,FUFORE,WURO BOKKI,WURO UJIRI PRY SCH,02/02/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/006/006-1677416527.pdf,false
+ADAMAWA,FUFORE,WURO BOKKI,KOFAR JAURO JAMBUTU,02/02/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/009/009-1677389576.pdf,false
+ADAMAWA,FUFORE,WURO BOKKI,WURO BOKKI PRI. SCH. IV,02/02/10/025,,false
+ADAMAWA,FUFORE,WURO BOKKI,WURO BOKKI PRI. SCH. III,02/02/10/024,,false
+ADAMAWA,FUFORE,WURO BOKKI,MALABU DISPENSARY III,02/02/10/022,,false
+ADAMAWA,FUFORE,WURO BOKKI,BILACHI PRY SCH,02/02/10/004,,false

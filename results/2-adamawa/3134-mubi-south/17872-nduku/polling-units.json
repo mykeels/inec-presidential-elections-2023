@@ -26,6 +26,7 @@
     "pu_code_string": "021510003",
     "state_name": "ADAMAWA",
     "lga_name": "MUBI SOUTH",
+    "ward_name": "NDUKU",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "021510001",
     "state_name": "ADAMAWA",
     "lga_name": "MUBI SOUTH",
+    "ward_name": "NDUKU",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "021510002",
     "state_name": "ADAMAWA",
     "lga_name": "MUBI SOUTH",
+    "ward_name": "NDUKU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -132,6 +135,7 @@
     "pu_code_string": "021510007",
     "state_name": "ADAMAWA",
     "lga_name": "MUBI SOUTH",
+    "ward_name": "NDUKU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -162,6 +166,7 @@
     "pu_code_string": "021510004",
     "state_name": "ADAMAWA",
     "lga_name": "MUBI SOUTH",
+    "ward_name": "NDUKU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -192,6 +197,7 @@
     "pu_code_string": "021510009",
     "state_name": "ADAMAWA",
     "lga_name": "MUBI SOUTH",
+    "ward_name": "NDUKU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -222,6 +228,7 @@
     "pu_code_string": "021510008",
     "state_name": "ADAMAWA",
     "lga_name": "MUBI SOUTH",
+    "ward_name": "NDUKU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -252,6 +259,7 @@
     "pu_code_string": "021510006",
     "state_name": "ADAMAWA",
     "lga_name": "MUBI SOUTH",
+    "ward_name": "NDUKU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -282,6 +290,7 @@
     "pu_code_string": "021510005",
     "state_name": "ADAMAWA",
     "lga_name": "MUBI SOUTH",
+    "ward_name": "NDUKU",
     "old_documents": [],
     "has_old_documents": false
   }

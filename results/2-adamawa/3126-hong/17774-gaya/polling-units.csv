@@ -1,22 +1,22 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,HONG,,HUDUMA/MARKET SQUARE,02/07/04/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/128398/128398-1677617427.pdf,false
-ADAMAWA,HONG,,MULATA/OPEN SPACE,02/07/04/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/128397/128397-1677617138.pdf,false
-ADAMAWA,HONG,,KUVA YASHE / FA'A PRI. SCH. B,02/07/04/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/128396/128396-1677616073.pdf,false
-ADAMAWA,HONG,,GARTSANU/GARTSANU PRIMARY SCHOOL. B,02/07/04/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/128395/128395-1677615663.pdf,false
-ADAMAWA,HONG,,ZUBAGU/ KOFAR JAURO ZUBAGU,02/07/04/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3432/3432-1677615182.pdf,false
-ADAMAWA,HONG,,MUSDA/ KOFAR JAURO HARUNA,02/07/04/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3431/3431-1677614627.pdf,false
-ADAMAWA,HONG,,MULATA/ KOFAR JAURO MULATA,02/07/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3430/3430-1677614379.pdf,false
-ADAMAWA,HONG,,MUBUTA/ KOFAR JAURO MBUTA,02/07/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3429/3429-1677610017.pdf,false
-ADAMAWA,HONG,,MIJILI MISSION/ MIJILI PRY. SCH.,02/07/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3428/3428-1677608973.pdf,false
-ADAMAWA,HONG,,MIJILI FULANI/ KOFAR JAURO MIJILI,02/07/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3427/3427-1677607944.pdf,false
-ADAMAWA,HONG,,MAKI/ MAKI PRY. SCH.,02/07/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3426/3426-1677606949.pdf,true
-ADAMAWA,HONG,,KUVA YASHE/ FA'A PRY. SCH.,02/07/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3425/3425-1677606560.pdf,true
-ADAMAWA,HONG,,KUVA GAYA II/ KUVA GAYA PRY. SCH.,02/07/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3424/3424-1677606251.pdf,true
-ADAMAWA,HONG,,KUVA GAYA I/ KUVA GAYA PRY. SCH.,02/07/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3423/3423-1677604648.pdf,true
-ADAMAWA,HONG,,HUDUMA/ KOFAR JAURO HAMIDU,02/07/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3422/3422-1677603790.pdf,true
-ADAMAWA,HONG,,GAYA BITIRHUYA/ KOFAR JAURO YOHANNA,02/07/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3421/3421-1677603046.pdf,false
-ADAMAWA,HONG,,GASHALA MBULA/ MUBULA PRY. SCH.,02/07/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3420/3420-1677601677.pdf,false
-ADAMAWA,HONG,,GASHALA GUW/ GUW PRY. SCH.,02/07/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3419/3419-1677595487.pdf,false
-ADAMAWA,HONG,,GARTSANU/ GARTSANU PRY. SCH.,02/07/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3418/3418-1677594226.pdf,false
-ADAMAWA,HONG,,BUGU/CHIKA/ KOFAR JAURO TOMA,02/07/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3417/3417-1677593343.pdf,true
-ADAMAWA,HONG,,GASHALA GUW / GUW PRIMARY SCH. II,02/07/04/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/04/pu/021/021-1677373197.pdf,false
+ADAMAWA,HONG,GAYA,HUDUMA/MARKET SQUARE,02/07/04/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/128398/128398-1677617427.pdf,false
+ADAMAWA,HONG,GAYA,MULATA/OPEN SPACE,02/07/04/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/128397/128397-1677617138.pdf,false
+ADAMAWA,HONG,GAYA,KUVA YASHE / FA'A PRI. SCH. B,02/07/04/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/128396/128396-1677616073.pdf,false
+ADAMAWA,HONG,GAYA,GARTSANU/GARTSANU PRIMARY SCHOOL. B,02/07/04/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/128395/128395-1677615663.pdf,false
+ADAMAWA,HONG,GAYA,ZUBAGU/ KOFAR JAURO ZUBAGU,02/07/04/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3432/3432-1677615182.pdf,false
+ADAMAWA,HONG,GAYA,MUSDA/ KOFAR JAURO HARUNA,02/07/04/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3431/3431-1677614627.pdf,false
+ADAMAWA,HONG,GAYA,MULATA/ KOFAR JAURO MULATA,02/07/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3430/3430-1677614379.pdf,false
+ADAMAWA,HONG,GAYA,MUBUTA/ KOFAR JAURO MBUTA,02/07/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3429/3429-1677610017.pdf,false
+ADAMAWA,HONG,GAYA,MIJILI MISSION/ MIJILI PRY. SCH.,02/07/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3428/3428-1677608973.pdf,false
+ADAMAWA,HONG,GAYA,MIJILI FULANI/ KOFAR JAURO MIJILI,02/07/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3427/3427-1677607944.pdf,false
+ADAMAWA,HONG,GAYA,MAKI/ MAKI PRY. SCH.,02/07/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3426/3426-1677606949.pdf,true
+ADAMAWA,HONG,GAYA,KUVA YASHE/ FA'A PRY. SCH.,02/07/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3425/3425-1677606560.pdf,true
+ADAMAWA,HONG,GAYA,KUVA GAYA II/ KUVA GAYA PRY. SCH.,02/07/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3424/3424-1677606251.pdf,true
+ADAMAWA,HONG,GAYA,KUVA GAYA I/ KUVA GAYA PRY. SCH.,02/07/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3423/3423-1677604648.pdf,true
+ADAMAWA,HONG,GAYA,HUDUMA/ KOFAR JAURO HAMIDU,02/07/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3422/3422-1677603790.pdf,true
+ADAMAWA,HONG,GAYA,GAYA BITIRHUYA/ KOFAR JAURO YOHANNA,02/07/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3421/3421-1677603046.pdf,false
+ADAMAWA,HONG,GAYA,GASHALA MBULA/ MUBULA PRY. SCH.,02/07/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3420/3420-1677601677.pdf,false
+ADAMAWA,HONG,GAYA,GASHALA GUW/ GUW PRY. SCH.,02/07/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3419/3419-1677595487.pdf,false
+ADAMAWA,HONG,GAYA,GARTSANU/ GARTSANU PRY. SCH.,02/07/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3418/3418-1677594226.pdf,false
+ADAMAWA,HONG,GAYA,BUGU/CHIKA/ KOFAR JAURO TOMA,02/07/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17774/pu/3417/3417-1677593343.pdf,true
+ADAMAWA,HONG,GAYA,GASHALA GUW / GUW PRIMARY SCH. II,02/07/04/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/04/pu/021/021-1677373197.pdf,false

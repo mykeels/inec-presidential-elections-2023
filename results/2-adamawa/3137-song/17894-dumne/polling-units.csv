@@ -1,25 +1,25 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,SONG,,TASHA,02/18/02/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/018/018-1677409777.pdf,false
-ADAMAWA,SONG,,KOGI,02/18/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/011/011-1677409195.pdf,false
-ADAMAWA,SONG,,WALKISHA,02/18/02/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/019/019-1677408436.pdf,false
-ADAMAWA,SONG,,BAKKA,02/18/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/001/001-1677408376.pdf,false
-ADAMAWA,SONG,,HOMBO PRI. SCH.,02/18/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/006/006-1677407804.pdf,false
-ADAMAWA,SONG,,MALERO,02/18/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/012/012-1677407636.pdf,false
-ADAMAWA,SONG,,KINDE PRIMARY SCHOOL,02/18/02/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/023/023-1677407480.pdf,false
-ADAMAWA,SONG,,BODOMA,02/18/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/002/002-1677406873.pdf,false
-ADAMAWA,SONG,,DEVELOPMENT AREA DUMNE,02/18/02/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/021/021-1677406817.pdf,false
-ADAMAWA,SONG,,PELLA,02/18/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/013/013-1677406170.pdf,false
-ADAMAWA,SONG,,AREA COURT DADIN KOWA,02/18/02/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/020/020-1677405939.pdf,false
-ADAMAWA,SONG,,SHILON PRI. SCH.,02/18/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/016/016-1677405369.pdf,false
-ADAMAWA,SONG,,ZAâ€™A DUMNE PRIMARY SCHOOL,02/18/02/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/022/022-1677404863.pdf,false
-ADAMAWA,SONG,,PULLE YANKA,02/18/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/014/014-1677404686.pdf,false
-ADAMAWA,SONG,,SHILON SECONDARY SCHOOL,02/18/02/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/024/024-1677403886.pdf,false
-ADAMAWA,SONG,,DUMNE B PRI. SCH.,02/18/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/004/004-1677403430.pdf,false
-ADAMAWA,SONG,,K. WAKILI BAUNA,02/18/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/010/010-1677403280.pdf,false
-ADAMAWA,SONG,,KOFAR JAURO,02/18/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/009/009-1677402520.pdf,false
-ADAMAWA,SONG,,KASUWA,02/18/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/008/008-1677402337.pdf,false
-ADAMAWA,SONG,,GOLLA,02/18/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/005/005-1677400708.pdf,false
-ADAMAWA,SONG,,SIMRA,02/18/02/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/017/017-1677393008.pdf,false
-ADAMAWA,SONG,,SANGRA,02/18/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/015/015-1677391903.pdf,false
-ADAMAWA,SONG,,DIMDIMA,02/18/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/003/003-1677391516.pdf,false
-ADAMAWA,SONG,,HOMBO KASITA,02/18/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/007/007-1677391234.pdf,false
+ADAMAWA,SONG,DUMNE,TASHA,02/18/02/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/018/018-1677409777.pdf,false
+ADAMAWA,SONG,DUMNE,KOGI,02/18/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/011/011-1677409195.pdf,false
+ADAMAWA,SONG,DUMNE,WALKISHA,02/18/02/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/019/019-1677408436.pdf,false
+ADAMAWA,SONG,DUMNE,BAKKA,02/18/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/001/001-1677408376.pdf,false
+ADAMAWA,SONG,DUMNE,HOMBO PRI. SCH.,02/18/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/006/006-1677407804.pdf,false
+ADAMAWA,SONG,DUMNE,MALERO,02/18/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/012/012-1677407636.pdf,false
+ADAMAWA,SONG,DUMNE,KINDE PRIMARY SCHOOL,02/18/02/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/023/023-1677407480.pdf,false
+ADAMAWA,SONG,DUMNE,BODOMA,02/18/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/002/002-1677406873.pdf,false
+ADAMAWA,SONG,DUMNE,DEVELOPMENT AREA DUMNE,02/18/02/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/021/021-1677406817.pdf,false
+ADAMAWA,SONG,DUMNE,PELLA,02/18/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/013/013-1677406170.pdf,false
+ADAMAWA,SONG,DUMNE,AREA COURT DADIN KOWA,02/18/02/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/020/020-1677405939.pdf,false
+ADAMAWA,SONG,DUMNE,SHILON PRI. SCH.,02/18/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/016/016-1677405369.pdf,false
+ADAMAWA,SONG,DUMNE,ZAâ€™A DUMNE PRIMARY SCHOOL,02/18/02/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/022/022-1677404863.pdf,false
+ADAMAWA,SONG,DUMNE,PULLE YANKA,02/18/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/014/014-1677404686.pdf,false
+ADAMAWA,SONG,DUMNE,SHILON SECONDARY SCHOOL,02/18/02/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/024/024-1677403886.pdf,false
+ADAMAWA,SONG,DUMNE,DUMNE B PRI. SCH.,02/18/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/004/004-1677403430.pdf,false
+ADAMAWA,SONG,DUMNE,K. WAKILI BAUNA,02/18/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/010/010-1677403280.pdf,false
+ADAMAWA,SONG,DUMNE,KOFAR JAURO,02/18/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/009/009-1677402520.pdf,false
+ADAMAWA,SONG,DUMNE,KASUWA,02/18/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/008/008-1677402337.pdf,false
+ADAMAWA,SONG,DUMNE,GOLLA,02/18/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/005/005-1677400708.pdf,false
+ADAMAWA,SONG,DUMNE,SIMRA,02/18/02/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/017/017-1677393008.pdf,false
+ADAMAWA,SONG,DUMNE,SANGRA,02/18/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/015/015-1677391903.pdf,false
+ADAMAWA,SONG,DUMNE,DIMDIMA,02/18/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/003/003-1677391516.pdf,false
+ADAMAWA,SONG,DUMNE,HOMBO KASITA,02/18/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/18/ward/02/pu/007/007-1677391234.pdf,false

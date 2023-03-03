@@ -1,28 +1,28 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,FUFORE,,KOFAR JAURO KURO,02/02/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17721/pu/2786/2786-1677675899.pdf,true
-ADAMAWA,FUFORE,,KOFAR JAURO JALINGO,02/02/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17721/pu/2784/2784-1677675927.pdf,false
-ADAMAWA,FUFORE,,MUBAKU PRI. SCH. II,02/02/02/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17721/pu/128050/128050-1677675505.pdf,false
-ADAMAWA,FUFORE,,FARANG PRI. SCH. IV,02/02/02/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17721/pu/128047/128047-1677675431.pdf,false
-ADAMAWA,FUFORE,,FARANG PRY SCH,02/02/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17721/pu/2780/2780-1677675391.pdf,false
-ADAMAWA,FUFORE,,SABON GARI PRY. SCH,02/02/02/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17721/pu/2798/2798-1677507712.pdf,false
-ADAMAWA,FUFORE,,DAMARE PRY SCH,02/02/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17721/pu/2792/2792-1677504341.pdf,false
-ADAMAWA,FUFORE,,GDSS     FARANG,02/02/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17721/pu/2781/2781-1677503866.pdf,false
-ADAMAWA,FUFORE,,MAGAJI PRY SCH,02/02/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17721/pu/2788/2788-1677503347.pdf,false
-ADAMAWA,FUFORE,,FARANG PRI. SCH. VI,02/02/02/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17721/pu/128049/128049-1677502744.pdf,false
-ADAMAWA,FUFORE,,GDSS     FARANG,02/02/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17721/pu/2790/2790-1677501778.pdf,false
-ADAMAWA,FUFORE,,KOFAR JAURO HOLMARE,02/02/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17721/pu/2782/2782-1677500217.pdf,false
-ADAMAWA,FUFORE,,KOFAR JAURO MALABU,02/02/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17721/pu/2789/2789-1677499917.pdf,false
-ADAMAWA,FUFORE,,MUBAKO PRY SCH,02/02/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17721/pu/2791/2791-1677498411.pdf,false
-ADAMAWA,FUFORE,,KOFAR JAURO LITARE,02/02/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17721/pu/2787/2787-1677498177.pdf,false
-ADAMAWA,FUFORE,,FARANG PRY SCH,02/02/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/002/002-1677425459.pdf,false
-ADAMAWA,FUFORE,,FARANG PRY. SCH.,02/02/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/001/001-1677417902.pdf,false
-ADAMAWA,FUFORE,,KOFAR JAURO JALINGO,02/02/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/009/009-1677417836.pdf,false
-ADAMAWA,FUFORE,,KOFAR JAURO HORE NYIWA,02/02/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/007/007-1677416253.pdf,false
-ADAMAWA,FUFORE,,KOFAR JAURO WURO HESO,02/02/02/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/020/020-1677416147.pdf,false
-ADAMAWA,FUFORE,,KOFAR JAURO WURO BELLO,02/02/02/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/019/019-1677414540.pdf,false
-ADAMAWA,FUFORE,,SABON GARI PRY SCH,02/02/02/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/017/017-1677414460.pdf,false
-ADAMAWA,FUFORE,,KOFAR JAURO DOUKEROL,02/02/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/003/003-1677414066.pdf,false
-ADAMAWA,FUFORE,,KOFAR JAURO TALA,02/02/02/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/018/018-1677413827.pdf,false
-ADAMAWA,FUFORE,,BUNGA N. B/HOLE,02/02/02/027,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/027/027-1677413372.pdf,false
-ADAMAWA,FUFORE,,FARANG PRI. SCH. V,02/02/02/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/024/024-1677412842.pdf,false
-ADAMAWA,FUFORE,,KOFAR JAURO WURO JIJIWA,02/02/02/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/021/021-1677412389.pdf,false
+ADAMAWA,FUFORE,FARANG,KOFAR JAURO KURO,02/02/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17721/pu/2786/2786-1677675899.pdf,true
+ADAMAWA,FUFORE,FARANG,KOFAR JAURO JALINGO,02/02/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17721/pu/2784/2784-1677675927.pdf,false
+ADAMAWA,FUFORE,FARANG,MUBAKU PRI. SCH. II,02/02/02/026,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17721/pu/128050/128050-1677675505.pdf,false
+ADAMAWA,FUFORE,FARANG,FARANG PRI. SCH. IV,02/02/02/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17721/pu/128047/128047-1677675431.pdf,false
+ADAMAWA,FUFORE,FARANG,FARANG PRY SCH,02/02/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17721/pu/2780/2780-1677675391.pdf,false
+ADAMAWA,FUFORE,FARANG,SABON GARI PRY. SCH,02/02/02/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17721/pu/2798/2798-1677507712.pdf,false
+ADAMAWA,FUFORE,FARANG,DAMARE PRY SCH,02/02/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17721/pu/2792/2792-1677504341.pdf,false
+ADAMAWA,FUFORE,FARANG,GDSS     FARANG,02/02/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17721/pu/2781/2781-1677503866.pdf,false
+ADAMAWA,FUFORE,FARANG,MAGAJI PRY SCH,02/02/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17721/pu/2788/2788-1677503347.pdf,false
+ADAMAWA,FUFORE,FARANG,FARANG PRI. SCH. VI,02/02/02/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17721/pu/128049/128049-1677502744.pdf,false
+ADAMAWA,FUFORE,FARANG,GDSS     FARANG,02/02/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17721/pu/2790/2790-1677501778.pdf,false
+ADAMAWA,FUFORE,FARANG,KOFAR JAURO HOLMARE,02/02/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17721/pu/2782/2782-1677500217.pdf,false
+ADAMAWA,FUFORE,FARANG,KOFAR JAURO MALABU,02/02/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17721/pu/2789/2789-1677499917.pdf,false
+ADAMAWA,FUFORE,FARANG,MUBAKO PRY SCH,02/02/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17721/pu/2791/2791-1677498411.pdf,false
+ADAMAWA,FUFORE,FARANG,KOFAR JAURO LITARE,02/02/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17721/pu/2787/2787-1677498177.pdf,false
+ADAMAWA,FUFORE,FARANG,FARANG PRY SCH,02/02/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/002/002-1677425459.pdf,false
+ADAMAWA,FUFORE,FARANG,FARANG PRY. SCH.,02/02/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/001/001-1677417902.pdf,false
+ADAMAWA,FUFORE,FARANG,KOFAR JAURO JALINGO,02/02/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/009/009-1677417836.pdf,false
+ADAMAWA,FUFORE,FARANG,KOFAR JAURO HORE NYIWA,02/02/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/007/007-1677416253.pdf,false
+ADAMAWA,FUFORE,FARANG,KOFAR JAURO WURO HESO,02/02/02/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/020/020-1677416147.pdf,false
+ADAMAWA,FUFORE,FARANG,KOFAR JAURO WURO BELLO,02/02/02/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/019/019-1677414540.pdf,false
+ADAMAWA,FUFORE,FARANG,SABON GARI PRY SCH,02/02/02/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/017/017-1677414460.pdf,false
+ADAMAWA,FUFORE,FARANG,KOFAR JAURO DOUKEROL,02/02/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/003/003-1677414066.pdf,false
+ADAMAWA,FUFORE,FARANG,KOFAR JAURO TALA,02/02/02/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/018/018-1677413827.pdf,false
+ADAMAWA,FUFORE,FARANG,BUNGA N. B/HOLE,02/02/02/027,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/027/027-1677413372.pdf,false
+ADAMAWA,FUFORE,FARANG,FARANG PRI. SCH. V,02/02/02/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/024/024-1677412842.pdf,false
+ADAMAWA,FUFORE,FARANG,KOFAR JAURO WURO JIJIWA,02/02/02/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/02/pu/021/021-1677412389.pdf,false

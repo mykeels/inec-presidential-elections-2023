@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,GANYE,,BARI GAJERE/ BARI PRY. SCH.,02/03/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17736/pu/3021/3021-1677682021.pdf,true
-ADAMAWA,GANYE,,DAKOLA/ KJ DOKALA,02/03/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17736/pu/3022/3022-1677681825.pdf,false
-ADAMAWA,GANYE,,JAGGU SABON LAYI/ JAGGU PRY. SCH.,02/03/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17736/pu/3023/3023-1677681652.pdf,false
-ADAMAWA,GANYE,,JAURO IDI/ KJ IDI,02/03/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17736/pu/3024/3024-1677681430.pdf,false
-ADAMAWA,GANYE,,RIBADU YELWA/ KJ RIBADU YELWA,02/03/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17736/pu/3025/3025-1677681222.pdf,false
-ADAMAWA,GANYE,,WADORE/ KJ WADORE,02/03/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17736/pu/3026/3026-1677681036.pdf,false
-ADAMAWA,GANYE,,JAGU SABON LAYL/JAGU SABON LAYI I,02/03/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17736/pu/128159/128159-1677680834.pdf,false
-ADAMAWA,GANYE,,"BARI GAJERE/ BARI PRIM.SCH.
+ADAMAWA,GANYE,JAGGU,BARI GAJERE/ BARI PRY. SCH.,02/03/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17736/pu/3021/3021-1677682021.pdf,true
+ADAMAWA,GANYE,JAGGU,DAKOLA/ KJ DOKALA,02/03/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17736/pu/3022/3022-1677681825.pdf,false
+ADAMAWA,GANYE,JAGGU,JAGGU SABON LAYI/ JAGGU PRY. SCH.,02/03/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17736/pu/3023/3023-1677681652.pdf,false
+ADAMAWA,GANYE,JAGGU,JAURO IDI/ KJ IDI,02/03/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17736/pu/3024/3024-1677681430.pdf,false
+ADAMAWA,GANYE,JAGGU,RIBADU YELWA/ KJ RIBADU YELWA,02/03/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17736/pu/3025/3025-1677681222.pdf,false
+ADAMAWA,GANYE,JAGGU,WADORE/ KJ WADORE,02/03/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17736/pu/3026/3026-1677681036.pdf,false
+ADAMAWA,GANYE,JAGGU,JAGU SABON LAYL/JAGU SABON LAYI I,02/03/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17736/pu/128159/128159-1677680834.pdf,false
+ADAMAWA,GANYE,JAGGU,"BARI GAJERE/ BARI PRIM.SCH.
 /BARI GIWA OPEN SPACE",02/03/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17736/pu/128160/128160-1677680454.pdf,false
-ADAMAWA,GANYE,,JAGGU SABON LAYI/JAGGU PRIM HEALTH CARE CENTRE,02/03/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17736/pu/128161/128161-1677680263.pdf,false
-ADAMAWA,GANYE,,BALGARE/BALGARE  PRIM.SCH.  I,02/03/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17736/pu/128162/128162-1677678668.pdf,false
-ADAMAWA,GANYE,,BALGARE/ BALGARE PRY. SCH.,02/03/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17736/pu/3020/3020-1677675714.pdf,false
+ADAMAWA,GANYE,JAGGU,JAGGU SABON LAYI/JAGGU PRIM HEALTH CARE CENTRE,02/03/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17736/pu/128161/128161-1677680263.pdf,false
+ADAMAWA,GANYE,JAGGU,BALGARE/BALGARE  PRIM.SCH.  I,02/03/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17736/pu/128162/128162-1677678668.pdf,false
+ADAMAWA,GANYE,JAGGU,BALGARE/ BALGARE PRY. SCH.,02/03/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17736/pu/3020/3020-1677675714.pdf,false

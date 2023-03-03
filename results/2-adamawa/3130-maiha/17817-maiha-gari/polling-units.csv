@@ -1,11 +1,11 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,MAIHA,,BOKEN/ BOKEN PRY. SCH.,02/11/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17817/pu/3920/3920-1677592595.pdf,true
-ADAMAWA,MAIHA,,NASSARAWO LUGGA/ KOFAR JAURO,02/11/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17817/pu/3929/3929-1677591933.pdf,false
-ADAMAWA,MAIHA,,MANDARA PRY SCH,02/11/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17817/pu/3921/3921-1677591300.pdf,false
-ADAMAWA,MAIHA,,JABA JABA/ KOFAR JAURO,02/11/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17817/pu/3922/3922-1677590933.pdf,false
-ADAMAWA,MAIHA,,KAREWA/ KOFAR JAURO,02/11/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17817/pu/3923/3923-1677590639.pdf,true
-ADAMAWA,MAIHA,,LUGGA/ LUGGA DISPENSARY,02/11/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17817/pu/3924/3924-1677590346.pdf,true
-ADAMAWA,MAIHA,,MAIHA GARI/ MAIHA GARI DISPENSARY I,02/11/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17817/pu/3925/3925-1677590010.pdf,true
-ADAMAWA,MAIHA,,MAIHA GARI/ MAIHA GARI DISPENSARY II,02/11/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17817/pu/3926/3926-1677588521.pdf,true
-ADAMAWA,MAIHA,,NASARAWO/ MANDARA PRY. SCH. I,02/11/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17817/pu/3927/3927-1677588045.pdf,true
-ADAMAWA,MAIHA,,NASARAWO/ MANDARA PRY. SCH.  II,02/11/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17817/pu/3928/3928-1677587534.pdf,true
+ADAMAWA,MAIHA,MAIHA GARI,BOKEN/ BOKEN PRY. SCH.,02/11/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17817/pu/3920/3920-1677592595.pdf,true
+ADAMAWA,MAIHA,MAIHA GARI,NASSARAWO LUGGA/ KOFAR JAURO,02/11/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17817/pu/3929/3929-1677591933.pdf,false
+ADAMAWA,MAIHA,MAIHA GARI,MANDARA PRY SCH,02/11/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17817/pu/3921/3921-1677591300.pdf,false
+ADAMAWA,MAIHA,MAIHA GARI,JABA JABA/ KOFAR JAURO,02/11/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17817/pu/3922/3922-1677590933.pdf,false
+ADAMAWA,MAIHA,MAIHA GARI,KAREWA/ KOFAR JAURO,02/11/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17817/pu/3923/3923-1677590639.pdf,true
+ADAMAWA,MAIHA,MAIHA GARI,LUGGA/ LUGGA DISPENSARY,02/11/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17817/pu/3924/3924-1677590346.pdf,true
+ADAMAWA,MAIHA,MAIHA GARI,MAIHA GARI/ MAIHA GARI DISPENSARY I,02/11/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17817/pu/3925/3925-1677590010.pdf,true
+ADAMAWA,MAIHA,MAIHA GARI,MAIHA GARI/ MAIHA GARI DISPENSARY II,02/11/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17817/pu/3926/3926-1677588521.pdf,true
+ADAMAWA,MAIHA,MAIHA GARI,NASARAWO/ MANDARA PRY. SCH. I,02/11/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17817/pu/3927/3927-1677588045.pdf,true
+ADAMAWA,MAIHA,MAIHA GARI,NASARAWO/ MANDARA PRY. SCH.  II,02/11/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17817/pu/3928/3928-1677587534.pdf,true

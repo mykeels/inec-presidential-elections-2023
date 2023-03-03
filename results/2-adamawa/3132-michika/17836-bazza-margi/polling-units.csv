@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,MICHIKA,,UNG.ARDO/ABBATOIR,02/13/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/01/pu/009/009-1677426789.pdf,false
-ADAMAWA,MICHIKA,,KAMINGARI PRI.SCH.II,02/13/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/01/pu/008/008-1677425960.pdf,false
-ADAMAWA,MICHIKA,,KAMINGIRI / KAMINGIRI PRI. SCH.,02/13/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/01/pu/002/002-1677425205.pdf,false
-ADAMAWA,MICHIKA,,UNG. ARDO / KASUWA BAZZA II,02/13/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/01/pu/007/007-1677424555.pdf,false
-ADAMAWA,MICHIKA,,LDABA / LDABA PRI. SCH.,02/13/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/01/pu/003/003-1677423532.pdf,false
-ADAMAWA,MICHIKA,,JULE / BIANG PRI. SCH.,02/13/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/01/pu/001/001-1677422468.pdf,false
-ADAMAWA,MICHIKA,,BIANG KASA,02/13/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/01/pu/012/012-1677421641.pdf,false
-ADAMAWA,MICHIKA,,POU DRIMBI / F.W.A PRI. SCH.,02/13/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/01/pu/005/005-1677420748.pdf,false
-ADAMAWA,MICHIKA,,MUKULO / KOFAR BULAMA,02/13/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/01/pu/004/004-1677418405.pdf,false
-ADAMAWA,MICHIKA,,UNG. ARDO / KASUWA BAZZA I,02/13/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/01/pu/006/006-1677417950.pdf,false
-ADAMAWA,MICHIKA,,KIJA PRI.SCH,02/13/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/01/pu/010/010-1677416526.pdf,false
-ADAMAWA,MICHIKA,,LDABA DISPENSARY,02/13/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/01/pu/011/011-1677390780.pdf,false
+ADAMAWA,MICHIKA,BAZZA MARGI,UNG.ARDO/ABBATOIR,02/13/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/01/pu/009/009-1677426789.pdf,false
+ADAMAWA,MICHIKA,BAZZA MARGI,KAMINGARI PRI.SCH.II,02/13/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/01/pu/008/008-1677425960.pdf,false
+ADAMAWA,MICHIKA,BAZZA MARGI,KAMINGIRI / KAMINGIRI PRI. SCH.,02/13/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/01/pu/002/002-1677425205.pdf,false
+ADAMAWA,MICHIKA,BAZZA MARGI,UNG. ARDO / KASUWA BAZZA II,02/13/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/01/pu/007/007-1677424555.pdf,false
+ADAMAWA,MICHIKA,BAZZA MARGI,LDABA / LDABA PRI. SCH.,02/13/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/01/pu/003/003-1677423532.pdf,false
+ADAMAWA,MICHIKA,BAZZA MARGI,JULE / BIANG PRI. SCH.,02/13/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/01/pu/001/001-1677422468.pdf,false
+ADAMAWA,MICHIKA,BAZZA MARGI,BIANG KASA,02/13/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/01/pu/012/012-1677421641.pdf,false
+ADAMAWA,MICHIKA,BAZZA MARGI,POU DRIMBI / F.W.A PRI. SCH.,02/13/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/01/pu/005/005-1677420748.pdf,false
+ADAMAWA,MICHIKA,BAZZA MARGI,MUKULO / KOFAR BULAMA,02/13/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/01/pu/004/004-1677418405.pdf,false
+ADAMAWA,MICHIKA,BAZZA MARGI,UNG. ARDO / KASUWA BAZZA I,02/13/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/01/pu/006/006-1677417950.pdf,false
+ADAMAWA,MICHIKA,BAZZA MARGI,KIJA PRI.SCH,02/13/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/01/pu/010/010-1677416526.pdf,false
+ADAMAWA,MICHIKA,BAZZA MARGI,LDABA DISPENSARY,02/13/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/01/pu/011/011-1677390780.pdf,false

@@ -26,6 +26,7 @@
     "pu_code_string": "020703003",
     "state_name": "ADAMAWA",
     "lga_name": "HONG",
+    "ward_name": "GARAHA",
     "document": {
       "external": true,
       "status": 1,
@@ -81,6 +82,7 @@
     "pu_code_string": "020703002",
     "state_name": "ADAMAWA",
     "lga_name": "HONG",
+    "ward_name": "GARAHA",
     "document": {
       "external": true,
       "status": 1,
@@ -136,6 +138,7 @@
     "pu_code_string": "020703001",
     "state_name": "ADAMAWA",
     "lga_name": "HONG",
+    "ward_name": "GARAHA",
     "document": {
       "external": true,
       "status": 1,
@@ -191,6 +194,7 @@
     "pu_code_string": "020703004",
     "state_name": "ADAMAWA",
     "lga_name": "HONG",
+    "ward_name": "GARAHA",
     "document": {
       "external": true,
       "status": 1,
@@ -262,6 +266,7 @@
     "pu_code_string": "020703006",
     "state_name": "ADAMAWA",
     "lga_name": "HONG",
+    "ward_name": "GARAHA",
     "document": {
       "external": true,
       "status": 1,
@@ -333,6 +338,7 @@
     "pu_code_string": "020703005",
     "state_name": "ADAMAWA",
     "lga_name": "HONG",
+    "ward_name": "GARAHA",
     "document": {
       "external": true,
       "status": 1,
@@ -404,6 +410,7 @@
     "pu_code_string": "020703011",
     "state_name": "ADAMAWA",
     "lga_name": "HONG",
+    "ward_name": "GARAHA",
     "document": {
       "external": false,
       "status": 1,
@@ -442,6 +449,7 @@
     "pu_code_string": "020703008",
     "state_name": "ADAMAWA",
     "lga_name": "HONG",
+    "ward_name": "GARAHA",
     "document": {
       "external": false,
       "status": 1,
@@ -480,6 +488,7 @@
     "pu_code_string": "020703012",
     "state_name": "ADAMAWA",
     "lga_name": "HONG",
+    "ward_name": "GARAHA",
     "document": {
       "external": false,
       "status": 1,
@@ -518,6 +527,7 @@
     "pu_code_string": "020703013",
     "state_name": "ADAMAWA",
     "lga_name": "HONG",
+    "ward_name": "GARAHA",
     "document": {
       "external": false,
       "status": 1,
@@ -556,6 +566,7 @@
     "pu_code_string": "020703009",
     "state_name": "ADAMAWA",
     "lga_name": "HONG",
+    "ward_name": "GARAHA",
     "document": {
       "external": false,
       "status": 1,
@@ -594,6 +605,7 @@
     "pu_code_string": "020703007",
     "state_name": "ADAMAWA",
     "lga_name": "HONG",
+    "ward_name": "GARAHA",
     "document": {
       "external": false,
       "status": 1,
@@ -632,6 +644,7 @@
     "pu_code_string": "020703015",
     "state_name": "ADAMAWA",
     "lga_name": "HONG",
+    "ward_name": "GARAHA",
     "document": {
       "external": false,
       "status": 1,
@@ -670,6 +683,7 @@
     "pu_code_string": "020703014",
     "state_name": "ADAMAWA",
     "lga_name": "HONG",
+    "ward_name": "GARAHA",
     "document": {
       "external": false,
       "status": 1,
@@ -708,6 +722,7 @@
     "pu_code_string": "020703010",
     "state_name": "ADAMAWA",
     "lga_name": "HONG",
+    "ward_name": "GARAHA",
     "document": {
       "external": false,
       "status": 1,

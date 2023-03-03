@@ -1,9 +1,9 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,GIRE 1,,SABONGARI ACROSS THE RIVER,02/04/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17747/pu/128233/128233-1677504135.pdf,false
-ADAMAWA,GIRE 1,,ABBA MURKE/ KOFAR JAURO DANGO,02/04/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17747/pu/3131/3131-1677503271.pdf,false
-ADAMAWA,GIRE 1,,SABON GARI DANEYEL/ KOFAR JAURO S/GARI,02/04/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17747/pu/3137/3137-1677502419.pdf,false
-ADAMAWA,GIRE 1,,PASAGIDA/ KOFAR ARDO BAMANGA,02/04/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17747/pu/3136/3136-1677501290.pdf,false
-ADAMAWA,GIRE 1,,ARDO HAYATU/ FATTUDE JAURO,02/04/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17747/pu/3132/3132-1677500565.pdf,false
-ADAMAWA,GIRE 1,,JERA BONYO PRY. SCH.,02/04/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17747/pu/3134/3134-1677499500.pdf,false
-ADAMAWA,GIRE 1,,DANEYEL/ DANEYEL PRY. SCH.,02/04/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17747/pu/3133/3133-1677498774.pdf,false
-ADAMAWA,GIRE 1,,JERA BONYO W/MALA/ KOFAR BARADE,02/04/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/07/pu/005/005-1677365200.pdf,false
+ADAMAWA,GIRE 1,JERA BONYO,SABONGARI ACROSS THE RIVER,02/04/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17747/pu/128233/128233-1677504135.pdf,false
+ADAMAWA,GIRE 1,JERA BONYO,ABBA MURKE/ KOFAR JAURO DANGO,02/04/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17747/pu/3131/3131-1677503271.pdf,false
+ADAMAWA,GIRE 1,JERA BONYO,SABON GARI DANEYEL/ KOFAR JAURO S/GARI,02/04/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17747/pu/3137/3137-1677502419.pdf,false
+ADAMAWA,GIRE 1,JERA BONYO,PASAGIDA/ KOFAR ARDO BAMANGA,02/04/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17747/pu/3136/3136-1677501290.pdf,false
+ADAMAWA,GIRE 1,JERA BONYO,ARDO HAYATU/ FATTUDE JAURO,02/04/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17747/pu/3132/3132-1677500565.pdf,false
+ADAMAWA,GIRE 1,JERA BONYO,JERA BONYO PRY. SCH.,02/04/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17747/pu/3134/3134-1677499500.pdf,false
+ADAMAWA,GIRE 1,JERA BONYO,DANEYEL/ DANEYEL PRY. SCH.,02/04/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17747/pu/3133/3133-1677498774.pdf,false
+ADAMAWA,GIRE 1,JERA BONYO,JERA BONYO W/MALA/ KOFAR BARADE,02/04/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/07/pu/005/005-1677365200.pdf,false

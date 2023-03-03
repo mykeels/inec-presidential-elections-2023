@@ -1,17 +1,17 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,NUMAN,,GSS BASKETBALL COURT II,02/16/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/014/014-1677383356.pdf,false
-ADAMAWA,NUMAN,,ANGUWAN WAJA/ NUMAN III PRY SCHOOL,02/16/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/001/001-1677382459.pdf,false
-ADAMAWA,NUMAN,,UNGUWAR WURKUN/ K.MAI ANG. HANANIYA,02/16/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/007/007-1677382399.pdf,false
-ADAMAWA,NUMAN,,NUMAN III PRI.SCH. I,02/16/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/009/009-1677381467.pdf,false
-ADAMAWA,NUMAN,,TUDUN WADA/ KOFAR MALLAM ISHAYA,02/16/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/006/006-1677380752.pdf,false
-ADAMAWA,NUMAN,,SGSS/ GTSS/ SAKATO G.S.S,02/16/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/004/004-1677380797.pdf,false
-ADAMAWA,NUMAN,,STADIUM ROAD I,02/16/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/015/015-1677380001.pdf,false
-ADAMAWA,NUMAN,,GSS SAKATO I,02/16/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/010/010-1677379774.pdf,false
-ADAMAWA,NUMAN,,BAMTATO II,02/16/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/012/012-1677378929.pdf,false
-ADAMAWA,NUMAN,,GSS BASKETBALL COURT I,02/16/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/013/013-1677378651.pdf,false
-ADAMAWA,NUMAN,,BAMTATO I,02/16/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/011/011-1677377874.pdf,false
-ADAMAWA,NUMAN,,"VTC, GSS/ V. T. C",02/16/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/008/008-1677377096.pdf,false
-ADAMAWA,NUMAN,,BAMTATO/ K.MAI ANG. TOPOGBANGE,02/16/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/002/002-1677376401.pdf,false
-ADAMAWA,NUMAN,,STADIUM ROAD/ MAKWADA SQUARE,02/16/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/005/005-1677375873.pdf,false
-ADAMAWA,NUMAN,,VTC/TTS I,02/16/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/016/016-1677373918.pdf,false
-ADAMAWA,NUMAN,,N P C ROAD/ N P C PREMISES,02/16/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/003/003-1677372589.pdf,false
+ADAMAWA,NUMAN,NUMAN I,GSS BASKETBALL COURT II,02/16/06/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/014/014-1677383356.pdf,false
+ADAMAWA,NUMAN,NUMAN I,ANGUWAN WAJA/ NUMAN III PRY SCHOOL,02/16/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/001/001-1677382459.pdf,false
+ADAMAWA,NUMAN,NUMAN I,UNGUWAR WURKUN/ K.MAI ANG. HANANIYA,02/16/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/007/007-1677382399.pdf,false
+ADAMAWA,NUMAN,NUMAN I,NUMAN III PRI.SCH. I,02/16/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/009/009-1677381467.pdf,false
+ADAMAWA,NUMAN,NUMAN I,TUDUN WADA/ KOFAR MALLAM ISHAYA,02/16/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/006/006-1677380752.pdf,false
+ADAMAWA,NUMAN,NUMAN I,SGSS/ GTSS/ SAKATO G.S.S,02/16/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/004/004-1677380797.pdf,false
+ADAMAWA,NUMAN,NUMAN I,STADIUM ROAD I,02/16/06/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/015/015-1677380001.pdf,false
+ADAMAWA,NUMAN,NUMAN I,GSS SAKATO I,02/16/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/010/010-1677379774.pdf,false
+ADAMAWA,NUMAN,NUMAN I,BAMTATO II,02/16/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/012/012-1677378929.pdf,false
+ADAMAWA,NUMAN,NUMAN I,GSS BASKETBALL COURT I,02/16/06/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/013/013-1677378651.pdf,false
+ADAMAWA,NUMAN,NUMAN I,BAMTATO I,02/16/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/011/011-1677377874.pdf,false
+ADAMAWA,NUMAN,NUMAN I,"VTC, GSS/ V. T. C",02/16/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/008/008-1677377096.pdf,false
+ADAMAWA,NUMAN,NUMAN I,BAMTATO/ K.MAI ANG. TOPOGBANGE,02/16/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/002/002-1677376401.pdf,false
+ADAMAWA,NUMAN,NUMAN I,STADIUM ROAD/ MAKWADA SQUARE,02/16/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/005/005-1677375873.pdf,false
+ADAMAWA,NUMAN,NUMAN I,VTC/TTS I,02/16/06/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/016/016-1677373918.pdf,false
+ADAMAWA,NUMAN,NUMAN I,N P C ROAD/ N P C PREMISES,02/16/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/06/pu/003/003-1677372589.pdf,false

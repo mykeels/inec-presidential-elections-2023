@@ -1,20 +1,20 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,SHELLENG,,LABAU BARE,02/17/03/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/017/017-1677414912.pdf,false
-ADAMAWA,SHELLENG,,GUNDO/ GUNDO PRI. SCH.,02/17/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/004/004-1677414677.pdf,false
-ADAMAWA,SHELLENG,,LABABIRI/ KASUWAN DARE,02/17/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/006/006-1677413740.pdf,false
-ADAMAWA,SHELLENG,,DEBIO PRIMARY SCHOOL,02/17/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/015/015-1677413470.pdf,false
-ADAMAWA,SHELLENG,,YERIMAJO/ KOFAR JAURO,02/17/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/009/009-1677412492.pdf,false
-ADAMAWA,SHELLENG,,LABABIRI PRIMARY SCHOOL,02/17/03/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/016/016-1677412400.pdf,false
-ADAMAWA,SHELLENG,,BOPOLA,02/17/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/013/013-1677411504.pdf,false
-ADAMAWA,SHELLENG,,KEM/ KEM PRI. SCH.,02/17/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/005/005-1677410154.pdf,false
-ADAMAWA,SHELLENG,,TUDUN KEM/ KOFAR JAURO GOLO,02/17/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/007/007-1677408892.pdf,false
-ADAMAWA,SHELLENG,,GDSS KEM,02/17/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/014/014-1677408203.pdf,false
-ADAMAWA,SHELLENG,,BOBERE/ BOBERE DISPENSARY,02/17/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/002/002-1677407276.pdf,false
-ADAMAWA,SHELLENG,,GELODE PRIMARY SCHOOL,02/17/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/012/012-1677407214.pdf,false
-ADAMAWA,SHELLENG,,BAYAN DUTSE PRIMARY SCHOOL,02/17/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/011/011-1677406091.pdf,false
-ADAMAWA,SHELLENG,,DASO/ DASO PRI. SCH.,02/17/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/003/003-1677404916.pdf,false
-ADAMAWA,SHELLENG,,KEM PHC,02/17/03/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/018/018-1677403229.pdf,false
-ADAMAWA,SHELLENG,,TUDUN KEM/ TUDUN MARKET,02/17/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/008/008-1677402432.pdf,false
-ADAMAWA,SHELLENG,,KURUNGU DISPENSARY,02/17/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/010/010-1677401240.pdf,false
-ADAMAWA,SHELLENG,,MAMDA BORE HOLE,02/17/03/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/019/019-1677400802.pdf,false
-ADAMAWA,SHELLENG,,AJIYA/ KOFAR JAURO AJIYA,02/17/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/001/001-1677398804.pdf,false
+ADAMAWA,SHELLENG,GUNDO,LABAU BARE,02/17/03/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/017/017-1677414912.pdf,false
+ADAMAWA,SHELLENG,GUNDO,GUNDO/ GUNDO PRI. SCH.,02/17/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/004/004-1677414677.pdf,false
+ADAMAWA,SHELLENG,GUNDO,LABABIRI/ KASUWAN DARE,02/17/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/006/006-1677413740.pdf,false
+ADAMAWA,SHELLENG,GUNDO,DEBIO PRIMARY SCHOOL,02/17/03/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/015/015-1677413470.pdf,false
+ADAMAWA,SHELLENG,GUNDO,YERIMAJO/ KOFAR JAURO,02/17/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/009/009-1677412492.pdf,false
+ADAMAWA,SHELLENG,GUNDO,LABABIRI PRIMARY SCHOOL,02/17/03/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/016/016-1677412400.pdf,false
+ADAMAWA,SHELLENG,GUNDO,BOPOLA,02/17/03/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/013/013-1677411504.pdf,false
+ADAMAWA,SHELLENG,GUNDO,KEM/ KEM PRI. SCH.,02/17/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/005/005-1677410154.pdf,false
+ADAMAWA,SHELLENG,GUNDO,TUDUN KEM/ KOFAR JAURO GOLO,02/17/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/007/007-1677408892.pdf,false
+ADAMAWA,SHELLENG,GUNDO,GDSS KEM,02/17/03/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/014/014-1677408203.pdf,false
+ADAMAWA,SHELLENG,GUNDO,BOBERE/ BOBERE DISPENSARY,02/17/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/002/002-1677407276.pdf,false
+ADAMAWA,SHELLENG,GUNDO,GELODE PRIMARY SCHOOL,02/17/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/012/012-1677407214.pdf,false
+ADAMAWA,SHELLENG,GUNDO,BAYAN DUTSE PRIMARY SCHOOL,02/17/03/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/011/011-1677406091.pdf,false
+ADAMAWA,SHELLENG,GUNDO,DASO/ DASO PRI. SCH.,02/17/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/003/003-1677404916.pdf,false
+ADAMAWA,SHELLENG,GUNDO,KEM PHC,02/17/03/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/018/018-1677403229.pdf,false
+ADAMAWA,SHELLENG,GUNDO,TUDUN KEM/ TUDUN MARKET,02/17/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/008/008-1677402432.pdf,false
+ADAMAWA,SHELLENG,GUNDO,KURUNGU DISPENSARY,02/17/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/010/010-1677401240.pdf,false
+ADAMAWA,SHELLENG,GUNDO,MAMDA BORE HOLE,02/17/03/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/019/019-1677400802.pdf,false
+ADAMAWA,SHELLENG,GUNDO,AJIYA/ KOFAR JAURO AJIYA,02/17/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/17/ward/03/pu/001/001-1677398804.pdf,false

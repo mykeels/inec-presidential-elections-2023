@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,MUBI NORTH,,KOFAR JAURO M.T.MARA/ M.T. MARA,02/14/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/01/pu/006/006-1677397867.pdf,false
-ADAMAWA,MUBI NORTH,,KOFAR JAURO GIRLAHWA/ GIRLAHWA,02/14/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/01/pu/003/003-1677397215.pdf,false
-ADAMAWA,MUBI NORTH,,KOFAR JAURO WAFANGO / WAFANGO,02/14/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/01/pu/008/008-1677390145.pdf,false
-ADAMAWA,MUBI NORTH,,KOFAR JAURO BALAYA/ DUGA,02/14/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/01/pu/002/002-1677389118.pdf,false
-ADAMAWA,MUBI NORTH,,R C M/ BOITSAMA,02/14/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/01/pu/012/012-1677395449.pdf,false
-ADAMAWA,MUBI NORTH,,KOFAR JAURO HAYATU/ NDUKU,02/14/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/01/pu/005/005-1677394684.pdf,false
-ADAMAWA,MUBI NORTH,,KOFAR JAURO TSEMA/ GIRMANJARA,02/14/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/01/pu/010/010-1677394623.pdf,false
-ADAMAWA,MUBI NORTH,,GURANGA PRI. SCH./ GURANGA,02/14/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/01/pu/001/001-1677394196.pdf,false
-ADAMAWA,MUBI NORTH,,KOFAR JAURO TSEMO/ TSEMO,02/14/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/01/pu/009/009-1677393066.pdf,false
-ADAMAWA,MUBI NORTH,,KOFAR JAURO GURI/ GURI,02/14/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/01/pu/004/004-1677392134.pdf,false
-ADAMAWA,MUBI NORTH,,KOFAR JAURO MBIDUWA/ MBIDUWA,02/14/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/01/pu/007/007-1677391991.pdf,false
-ADAMAWA,MUBI NORTH,,MADUGUVA PRI. SCH./ MADUGUVA,02/14/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/01/pu/011/011-1677391214.pdf,false
-ADAMAWA,MUBI NORTH,,BURHA VAMGO,02/14/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/01/pu/013/013-1677390857.pdf,false
+ADAMAWA,MUBI NORTH,BAHULI,KOFAR JAURO M.T.MARA/ M.T. MARA,02/14/01/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/01/pu/006/006-1677397867.pdf,false
+ADAMAWA,MUBI NORTH,BAHULI,KOFAR JAURO GIRLAHWA/ GIRLAHWA,02/14/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/01/pu/003/003-1677397215.pdf,false
+ADAMAWA,MUBI NORTH,BAHULI,KOFAR JAURO WAFANGO / WAFANGO,02/14/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/01/pu/008/008-1677390145.pdf,false
+ADAMAWA,MUBI NORTH,BAHULI,KOFAR JAURO BALAYA/ DUGA,02/14/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/01/pu/002/002-1677389118.pdf,false
+ADAMAWA,MUBI NORTH,BAHULI,R C M/ BOITSAMA,02/14/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/01/pu/012/012-1677395449.pdf,false
+ADAMAWA,MUBI NORTH,BAHULI,KOFAR JAURO HAYATU/ NDUKU,02/14/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/01/pu/005/005-1677394684.pdf,false
+ADAMAWA,MUBI NORTH,BAHULI,KOFAR JAURO TSEMA/ GIRMANJARA,02/14/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/01/pu/010/010-1677394623.pdf,false
+ADAMAWA,MUBI NORTH,BAHULI,GURANGA PRI. SCH./ GURANGA,02/14/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/01/pu/001/001-1677394196.pdf,false
+ADAMAWA,MUBI NORTH,BAHULI,KOFAR JAURO TSEMO/ TSEMO,02/14/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/01/pu/009/009-1677393066.pdf,false
+ADAMAWA,MUBI NORTH,BAHULI,KOFAR JAURO GURI/ GURI,02/14/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/01/pu/004/004-1677392134.pdf,false
+ADAMAWA,MUBI NORTH,BAHULI,KOFAR JAURO MBIDUWA/ MBIDUWA,02/14/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/01/pu/007/007-1677391991.pdf,false
+ADAMAWA,MUBI NORTH,BAHULI,MADUGUVA PRI. SCH./ MADUGUVA,02/14/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/01/pu/011/011-1677391214.pdf,false
+ADAMAWA,MUBI NORTH,BAHULI,BURHA VAMGO,02/14/01/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/14/ward/01/pu/013/013-1677390857.pdf,false

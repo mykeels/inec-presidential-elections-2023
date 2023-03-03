@@ -1,11 +1,11 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,GOMBI,,KONDUSUN/ PRY. SCH.,02/05/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17760/pu/3277/3277-1677595866.pdf,false
-ADAMAWA,GOMBI,,SHENO PRY SCHOOL II,02/05/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17760/pu/128323/128323-1677595345.pdf,false
-ADAMAWA,GOMBI,,GANJING PRY SCH,02/05/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17760/pu/128322/128322-1677594274.pdf,true
-ADAMAWA,GOMBI,,FUTENA PRY SCH,02/05/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17760/pu/128321/128321-1677593707.pdf,true
-ADAMAWA,GOMBI,,YANG/ YANG PRY. SCH. II,02/05/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17760/pu/3280/3280-1677593265.pdf,true
-ADAMAWA,GOMBI,,YANG/ YANG PRY. SCH. I,02/05/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17760/pu/3279/3279-1677592848.pdf,true
-ADAMAWA,GOMBI,,SHENO GORMOSO/ PRY. SCH.,02/05/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17760/pu/3278/3278-1677592385.pdf,true
-ADAMAWA,GOMBI,,GANJING/ KOFAR JAURO,02/05/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17760/pu/3276/3276-1677591797.pdf,true
-ADAMAWA,GOMBI,,FOTTA DUTSE/ KOFAR JAURO,02/05/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17760/pu/3275/3275-1677591202.pdf,false
-ADAMAWA,GOMBI,,FUTENA/ PRY. SCH.,02/05/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17760/pu/3274/3274-1677590422.pdf,true
+ADAMAWA,GOMBI,YANG,KONDUSUN/ PRY. SCH.,02/05/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17760/pu/3277/3277-1677595866.pdf,false
+ADAMAWA,GOMBI,YANG,SHENO PRY SCHOOL II,02/05/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17760/pu/128323/128323-1677595345.pdf,false
+ADAMAWA,GOMBI,YANG,GANJING PRY SCH,02/05/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17760/pu/128322/128322-1677594274.pdf,true
+ADAMAWA,GOMBI,YANG,FUTENA PRY SCH,02/05/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17760/pu/128321/128321-1677593707.pdf,true
+ADAMAWA,GOMBI,YANG,YANG/ YANG PRY. SCH. II,02/05/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17760/pu/3280/3280-1677593265.pdf,true
+ADAMAWA,GOMBI,YANG,YANG/ YANG PRY. SCH. I,02/05/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17760/pu/3279/3279-1677592848.pdf,true
+ADAMAWA,GOMBI,YANG,SHENO GORMOSO/ PRY. SCH.,02/05/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17760/pu/3278/3278-1677592385.pdf,true
+ADAMAWA,GOMBI,YANG,GANJING/ KOFAR JAURO,02/05/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17760/pu/3276/3276-1677591797.pdf,true
+ADAMAWA,GOMBI,YANG,FOTTA DUTSE/ KOFAR JAURO,02/05/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17760/pu/3275/3275-1677591202.pdf,false
+ADAMAWA,GOMBI,YANG,FUTENA/ PRY. SCH.,02/05/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3124/ward/17760/pu/3274/3274-1677590422.pdf,true

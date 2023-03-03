@@ -1,17 +1,17 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,GIRE 1,,KOFAR MAITURARE,02/04/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/3112/3112-1677506404.pdf,false
-ADAMAWA,GIRE 1,,ABUJA NEAR BORE HOLE,02/04/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/128223/128223-1677506352.pdf,false
-ADAMAWA,GIRE 1,,NEAR BORE HOLE ANGUWAN LAMBU,02/04/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/128225/128225-1677505018.pdf,false
-ADAMAWA,GIRE 1,,WURO BULAMA PRIMARY SCHOOL,02/04/04/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/128229/128229-1677504395.pdf,false
-ADAMAWA,GIRE 1,,ANGUWAN ABUJA NEAR EASE FEATURE,02/04/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/128221/128221-1677504271.pdf,false
-ADAMAWA,GIRE 1,,WURO HAUSA - NEAR CLINIC,02/04/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/128224/128224-1677504025.pdf,false
-ADAMAWA,GIRE 1,,WURO HAUSA NEAR RIVER,02/04/04/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/128228/128228-1677504044.pdf,false
-ADAMAWA,GIRE 1,,KOFAR SARKIN HAUSAWA,02/04/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/3113/3113-1677503311.pdf,false
-ADAMAWA,GIRE 1,,SABONGARI NEAR BORE HOLE,02/04/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/128227/128227-1677503031.pdf,false
-ADAMAWA,GIRE 1,,NANA ASMA'U PRIMARY SCHOOL,02/04/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/128226/128226-1677502707.pdf,false
-ADAMAWA,GIRE 1,,WURO HAUSA BORE HOLE,02/04/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/128222/128222-1677502131.pdf,false
-ADAMAWA,GIRE 1,,NJARENGA/ KOFAR JAURO NJARENGA,02/04/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/3114/3114-1677501098.pdf,false
-ADAMAWA,GIRE 1,,KOFAR GALADIMA,02/04/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/3111/3111-1677500871.pdf,false
-ADAMAWA,GIRE 1,,BAPETEL KILA/ GIREI II PRY. SCH.,02/04/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/3109/3109-1677500514.pdf,false
-ADAMAWA,GIRE 1,,KOFAR BUBA MARGI,02/04/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/3110/3110-1677499718.pdf,false
-ADAMAWA,GIRE 1,,SANGERE W/MADI/ KOFAR JAURO,02/04/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/3115/3115-1677498765.pdf,false
+ADAMAWA,GIRE 1,GIREI  II,KOFAR MAITURARE,02/04/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/3112/3112-1677506404.pdf,false
+ADAMAWA,GIRE 1,GIREI  II,ABUJA NEAR BORE HOLE,02/04/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/128223/128223-1677506352.pdf,false
+ADAMAWA,GIRE 1,GIREI  II,NEAR BORE HOLE ANGUWAN LAMBU,02/04/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/128225/128225-1677505018.pdf,false
+ADAMAWA,GIRE 1,GIREI  II,WURO BULAMA PRIMARY SCHOOL,02/04/04/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/128229/128229-1677504395.pdf,false
+ADAMAWA,GIRE 1,GIREI  II,ANGUWAN ABUJA NEAR EASE FEATURE,02/04/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/128221/128221-1677504271.pdf,false
+ADAMAWA,GIRE 1,GIREI  II,WURO HAUSA - NEAR CLINIC,02/04/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/128224/128224-1677504025.pdf,false
+ADAMAWA,GIRE 1,GIREI  II,WURO HAUSA NEAR RIVER,02/04/04/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/128228/128228-1677504044.pdf,false
+ADAMAWA,GIRE 1,GIREI  II,KOFAR SARKIN HAUSAWA,02/04/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/3113/3113-1677503311.pdf,false
+ADAMAWA,GIRE 1,GIREI  II,SABONGARI NEAR BORE HOLE,02/04/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/128227/128227-1677503031.pdf,false
+ADAMAWA,GIRE 1,GIREI  II,NANA ASMA'U PRIMARY SCHOOL,02/04/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/128226/128226-1677502707.pdf,false
+ADAMAWA,GIRE 1,GIREI  II,WURO HAUSA BORE HOLE,02/04/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/128222/128222-1677502131.pdf,false
+ADAMAWA,GIRE 1,GIREI  II,NJARENGA/ KOFAR JAURO NJARENGA,02/04/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/3114/3114-1677501098.pdf,false
+ADAMAWA,GIRE 1,GIREI  II,KOFAR GALADIMA,02/04/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/3111/3111-1677500871.pdf,false
+ADAMAWA,GIRE 1,GIREI  II,BAPETEL KILA/ GIREI II PRY. SCH.,02/04/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/3109/3109-1677500514.pdf,false
+ADAMAWA,GIRE 1,GIREI  II,KOFAR BUBA MARGI,02/04/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/3110/3110-1677499718.pdf,false
+ADAMAWA,GIRE 1,GIREI  II,SANGERE W/MADI/ KOFAR JAURO,02/04/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17744/pu/3115/3115-1677498765.pdf,false

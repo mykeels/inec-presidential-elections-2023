@@ -26,6 +26,7 @@
     "pu_code_string": "021503002",
     "state_name": "ADAMAWA",
     "lga_name": "MUBI SOUTH",
+    "ward_name": "GELLA",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "021503005",
     "state_name": "ADAMAWA",
     "lga_name": "MUBI SOUTH",
+    "ward_name": "GELLA",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "021503006",
     "state_name": "ADAMAWA",
     "lga_name": "MUBI SOUTH",
+    "ward_name": "GELLA",
     "document": {
       "external": false,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "021503007",
     "state_name": "ADAMAWA",
     "lga_name": "MUBI SOUTH",
+    "ward_name": "GELLA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -170,6 +174,7 @@
     "pu_code_string": "021503001",
     "state_name": "ADAMAWA",
     "lga_name": "MUBI SOUTH",
+    "ward_name": "GELLA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -200,6 +205,7 @@
     "pu_code_string": "021503004",
     "state_name": "ADAMAWA",
     "lga_name": "MUBI SOUTH",
+    "ward_name": "GELLA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -230,6 +236,7 @@
     "pu_code_string": "021503003",
     "state_name": "ADAMAWA",
     "lga_name": "MUBI SOUTH",
+    "ward_name": "GELLA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -260,6 +267,7 @@
     "pu_code_string": "021503008",
     "state_name": "ADAMAWA",
     "lga_name": "MUBI SOUTH",
+    "ward_name": "GELLA",
     "old_documents": [],
     "has_old_documents": false
   }

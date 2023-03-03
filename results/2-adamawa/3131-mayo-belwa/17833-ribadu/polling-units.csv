@@ -1,9 +1,9 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,MAYO - BELWA,,YOLDE GUBUDO/ Y / GUBUDO PRI. SCH.,02/12/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4115/result_48187_1677509613_thumb.jpg,true
-ADAMAWA,MAYO - BELWA,,CHAKKAWA PRY SCH,02/12/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17833/pu/128680/128680-1677608917.pdf,true
-ADAMAWA,MAYO - BELWA,,WURO YERIMA / GONA  / KOFAR JAURO,02/12/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17833/pu/4120/4120-1677608511.pdf,true
-ADAMAWA,MAYO - BELWA,,WURO - LONDE /KOFAR MAI UNGUWA,02/12/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17833/pu/4119/4119-1677608293.pdf,true
-ADAMAWA,MAYO - BELWA,,WALOWOL  KULAJE /KOFAR,02/12/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17833/pu/4118/4118-1677607557.pdf,true
-ADAMAWA,MAYO - BELWA,,RIBADU W/BOKKI  / RIBADU PRI. SCH.,02/12/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17833/pu/4117/4117-1677607311.pdf,true
-ADAMAWA,MAYO - BELWA,,LABBARE / LABARE PRI. SCH.,02/12/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17833/pu/4116/4116-1677606796.pdf,true
-ADAMAWA,MAYO - BELWA,,RIBADU WURO BOKKI PHCC,02/12/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620292/result_48189_1677580748_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,RIBADU,YOLDE GUBUDO/ Y / GUBUDO PRI. SCH.,02/12/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4115/result_48187_1677509613_thumb.jpg,true
+ADAMAWA,MAYO - BELWA,RIBADU,CHAKKAWA PRY SCH,02/12/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17833/pu/128680/128680-1677608917.pdf,true
+ADAMAWA,MAYO - BELWA,RIBADU,WURO YERIMA / GONA  / KOFAR JAURO,02/12/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17833/pu/4120/4120-1677608511.pdf,true
+ADAMAWA,MAYO - BELWA,RIBADU,WURO - LONDE /KOFAR MAI UNGUWA,02/12/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17833/pu/4119/4119-1677608293.pdf,true
+ADAMAWA,MAYO - BELWA,RIBADU,WALOWOL  KULAJE /KOFAR,02/12/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17833/pu/4118/4118-1677607557.pdf,true
+ADAMAWA,MAYO - BELWA,RIBADU,RIBADU W/BOKKI  / RIBADU PRI. SCH.,02/12/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17833/pu/4117/4117-1677607311.pdf,true
+ADAMAWA,MAYO - BELWA,RIBADU,LABBARE / LABARE PRI. SCH.,02/12/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3131/ward/17833/pu/4116/4116-1677606796.pdf,true
+ADAMAWA,MAYO - BELWA,RIBADU,RIBADU WURO BOKKI PHCC,02/12/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/620292/result_48189_1677580748_thumb.jpg,true

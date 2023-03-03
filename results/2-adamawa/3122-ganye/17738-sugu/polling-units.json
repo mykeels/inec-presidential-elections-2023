@@ -26,6 +26,7 @@
     "pu_code_string": "020308008",
     "state_name": "ADAMAWA",
     "lga_name": "GANYE",
+    "ward_name": "SUGU",
     "document": {
       "external": false,
       "status": 1,
@@ -73,6 +74,7 @@
     "pu_code_string": "020308007",
     "state_name": "ADAMAWA",
     "lga_name": "GANYE",
+    "ward_name": "SUGU",
     "document": {
       "external": false,
       "status": 1,
@@ -111,6 +113,7 @@
     "pu_code_string": "020308006",
     "state_name": "ADAMAWA",
     "lga_name": "GANYE",
+    "ward_name": "SUGU",
     "document": {
       "external": false,
       "status": 1,
@@ -158,6 +161,7 @@
     "pu_code_string": "020308005",
     "state_name": "ADAMAWA",
     "lga_name": "GANYE",
+    "ward_name": "SUGU",
     "document": {
       "external": false,
       "status": 1,
@@ -196,6 +200,7 @@
     "pu_code_string": "020308004",
     "state_name": "ADAMAWA",
     "lga_name": "GANYE",
+    "ward_name": "SUGU",
     "document": {
       "external": false,
       "status": 1,
@@ -234,6 +239,7 @@
     "pu_code_string": "020308003",
     "state_name": "ADAMAWA",
     "lga_name": "GANYE",
+    "ward_name": "SUGU",
     "document": {
       "external": false,
       "status": 1,
@@ -281,6 +287,7 @@
     "pu_code_string": "020308002",
     "state_name": "ADAMAWA",
     "lga_name": "GANYE",
+    "ward_name": "SUGU",
     "document": {
       "external": false,
       "status": 1,
@@ -328,6 +335,7 @@
     "pu_code_string": "020308001",
     "state_name": "ADAMAWA",
     "lga_name": "GANYE",
+    "ward_name": "SUGU",
     "document": {
       "external": false,
       "status": 1,
@@ -366,6 +374,7 @@
     "pu_code_string": "020308010",
     "state_name": "ADAMAWA",
     "lga_name": "GANYE",
+    "ward_name": "SUGU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -396,6 +405,7 @@
     "pu_code_string": "020308015",
     "state_name": "ADAMAWA",
     "lga_name": "GANYE",
+    "ward_name": "SUGU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -426,6 +436,7 @@
     "pu_code_string": "020308020",
     "state_name": "ADAMAWA",
     "lga_name": "GANYE",
+    "ward_name": "SUGU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -456,6 +467,7 @@
     "pu_code_string": "020308012",
     "state_name": "ADAMAWA",
     "lga_name": "GANYE",
+    "ward_name": "SUGU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -486,6 +498,7 @@
     "pu_code_string": "020308017",
     "state_name": "ADAMAWA",
     "lga_name": "GANYE",
+    "ward_name": "SUGU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -516,6 +529,7 @@
     "pu_code_string": "020308011",
     "state_name": "ADAMAWA",
     "lga_name": "GANYE",
+    "ward_name": "SUGU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -546,6 +560,7 @@
     "pu_code_string": "020308016",
     "state_name": "ADAMAWA",
     "lga_name": "GANYE",
+    "ward_name": "SUGU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -576,6 +591,7 @@
     "pu_code_string": "020308021",
     "state_name": "ADAMAWA",
     "lga_name": "GANYE",
+    "ward_name": "SUGU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -606,6 +622,7 @@
     "pu_code_string": "020308009",
     "state_name": "ADAMAWA",
     "lga_name": "GANYE",
+    "ward_name": "SUGU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -636,6 +653,7 @@
     "pu_code_string": "020308014",
     "state_name": "ADAMAWA",
     "lga_name": "GANYE",
+    "ward_name": "SUGU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -666,6 +684,7 @@
     "pu_code_string": "020308019",
     "state_name": "ADAMAWA",
     "lga_name": "GANYE",
+    "ward_name": "SUGU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -696,6 +715,7 @@
     "pu_code_string": "020308013",
     "state_name": "ADAMAWA",
     "lga_name": "GANYE",
+    "ward_name": "SUGU",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -726,6 +746,7 @@
     "pu_code_string": "020308018",
     "state_name": "ADAMAWA",
     "lga_name": "GANYE",
+    "ward_name": "SUGU",
     "old_documents": [],
     "has_old_documents": false
   }

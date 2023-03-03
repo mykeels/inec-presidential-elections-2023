@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,GIRE 1,,BAJABURE CLINIC,02/04/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17742/pu/128197/128197-1677608316.pdf,false
-ADAMAWA,GIRE 1,,BAJABURE/ KOFAR JAURO YUGUDA I,02/04/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17742/pu/3092/3092-1677515025.pdf,false
-ADAMAWA,GIRE 1,,DAMARE BORE HOLE,02/04/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17742/pu/128200/128200-1677514454.pdf,false
-ADAMAWA,GIRE 1,,YELWA/ KOFAR JAURO ALI,02/04/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17742/pu/3097/3097-1677514442.pdf,false
-ADAMAWA,GIRE 1,,LAINDE D/FULANI/ KOFAR JAURO SANI,02/04/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17742/pu/3096/3096-1677514013.pdf,false
-ADAMAWA,GIRE 1,,BAJABURE YUGUDA II,02/04/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17742/pu/128198/128198-1677513958.pdf,false
-ADAMAWA,GIRE 1,,BAJABURE/ KOFAR JAURO YUGUDA II,02/04/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17742/pu/3093/3093-1677513890.pdf,false
-ADAMAWA,GIRE 1,,DAMARE/ DAMARE PRIMARY SCHOOL II,02/04/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17742/pu/128199/128199-1677513272.pdf,false
-ADAMAWA,GIRE 1,,KARAMTI/ KOFAR MAI ANGUWA SANI,02/04/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17742/pu/3095/3095-1677512841.pdf,false
-ADAMAWA,GIRE 1,,BADIRISA BYE PASS,02/04/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17742/pu/128196/128196-1677512330.pdf,false
-ADAMAWA,GIRE 1,,DAMARE/ DAMARE PRY. SCH.,02/04/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17742/pu/3094/3094-1677511889.pdf,false
-ADAMAWA,GIRE 1,,LAINDE BADIRISA PRIMARY SCHOOL SCHOOL,02/04/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17742/pu/128195/128195-1677511265.pdf,false
-ADAMAWA,GIRE 1,,BADIRISA/ KOFAR JAURO ADAMU,02/04/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17742/pu/3091/3091-1677510321.pdf,false
+ADAMAWA,GIRE 1,DAMARE,BAJABURE CLINIC,02/04/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17742/pu/128197/128197-1677608316.pdf,false
+ADAMAWA,GIRE 1,DAMARE,BAJABURE/ KOFAR JAURO YUGUDA I,02/04/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17742/pu/3092/3092-1677515025.pdf,false
+ADAMAWA,GIRE 1,DAMARE,DAMARE BORE HOLE,02/04/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17742/pu/128200/128200-1677514454.pdf,false
+ADAMAWA,GIRE 1,DAMARE,YELWA/ KOFAR JAURO ALI,02/04/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17742/pu/3097/3097-1677514442.pdf,false
+ADAMAWA,GIRE 1,DAMARE,LAINDE D/FULANI/ KOFAR JAURO SANI,02/04/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17742/pu/3096/3096-1677514013.pdf,false
+ADAMAWA,GIRE 1,DAMARE,BAJABURE YUGUDA II,02/04/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17742/pu/128198/128198-1677513958.pdf,false
+ADAMAWA,GIRE 1,DAMARE,BAJABURE/ KOFAR JAURO YUGUDA II,02/04/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17742/pu/3093/3093-1677513890.pdf,false
+ADAMAWA,GIRE 1,DAMARE,DAMARE/ DAMARE PRIMARY SCHOOL II,02/04/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17742/pu/128199/128199-1677513272.pdf,false
+ADAMAWA,GIRE 1,DAMARE,KARAMTI/ KOFAR MAI ANGUWA SANI,02/04/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17742/pu/3095/3095-1677512841.pdf,false
+ADAMAWA,GIRE 1,DAMARE,BADIRISA BYE PASS,02/04/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17742/pu/128196/128196-1677512330.pdf,false
+ADAMAWA,GIRE 1,DAMARE,DAMARE/ DAMARE PRY. SCH.,02/04/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17742/pu/3094/3094-1677511889.pdf,false
+ADAMAWA,GIRE 1,DAMARE,LAINDE BADIRISA PRIMARY SCHOOL SCHOOL,02/04/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17742/pu/128195/128195-1677511265.pdf,false
+ADAMAWA,GIRE 1,DAMARE,BADIRISA/ KOFAR JAURO ADAMU,02/04/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17742/pu/3091/3091-1677510321.pdf,false

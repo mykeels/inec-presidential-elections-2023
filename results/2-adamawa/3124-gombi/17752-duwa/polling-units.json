@@ -26,6 +26,7 @@
     "pu_code_string": "020502002",
     "state_name": "ADAMAWA",
     "lga_name": "GOMBI",
+    "ward_name": "DUWA",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "020502012",
     "state_name": "ADAMAWA",
     "lga_name": "GOMBI",
+    "ward_name": "DUWA",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "020502006",
     "state_name": "ADAMAWA",
     "lga_name": "GOMBI",
+    "ward_name": "DUWA",
     "document": {
       "external": false,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "020502007",
     "state_name": "ADAMAWA",
     "lga_name": "GOMBI",
+    "ward_name": "DUWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -170,6 +174,7 @@
     "pu_code_string": "020502004",
     "state_name": "ADAMAWA",
     "lga_name": "GOMBI",
+    "ward_name": "DUWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -200,6 +205,7 @@
     "pu_code_string": "020502009",
     "state_name": "ADAMAWA",
     "lga_name": "GOMBI",
+    "ward_name": "DUWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -230,6 +236,7 @@
     "pu_code_string": "020502003",
     "state_name": "ADAMAWA",
     "lga_name": "GOMBI",
+    "ward_name": "DUWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -260,6 +267,7 @@
     "pu_code_string": "020502008",
     "state_name": "ADAMAWA",
     "lga_name": "GOMBI",
+    "ward_name": "DUWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -290,6 +298,7 @@
     "pu_code_string": "020502001",
     "state_name": "ADAMAWA",
     "lga_name": "GOMBI",
+    "ward_name": "DUWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -320,6 +329,7 @@
     "pu_code_string": "020502011",
     "state_name": "ADAMAWA",
     "lga_name": "GOMBI",
+    "ward_name": "DUWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -350,6 +360,7 @@
     "pu_code_string": "020502005",
     "state_name": "ADAMAWA",
     "lga_name": "GOMBI",
+    "ward_name": "DUWA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -380,6 +391,7 @@
     "pu_code_string": "020502010",
     "state_name": "ADAMAWA",
     "lga_name": "GOMBI",
+    "ward_name": "DUWA",
     "old_documents": [],
     "has_old_documents": false
   }

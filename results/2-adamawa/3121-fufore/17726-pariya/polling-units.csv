@@ -1,33 +1,33 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,FUFORE,,HAMDALLA PRY SCH,02/02/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2887/2887-1677599370.pdf,false
-ADAMAWA,FUFORE,,PARIYA PRI. SCH.,02/02/07/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/128096/128096-1677598622.pdf,false
-ADAMAWA,FUFORE,,PARIYA B PRI. SCH. II,02/02/07/030,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/128098/128098-1677598449.pdf,true
-ADAMAWA,FUFORE,,KADARBU PRY. SCH.,02/02/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2884/2884-1677597248.pdf,false
-ADAMAWA,FUFORE,,DAWARE PRI. SCH. III,02/02/07/032,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/128100/128100-1677595513.pdf,false
-ADAMAWA,FUFORE,,JAURO J. PRI. SCH.,02/02/07/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/128095/128095-1677593900.pdf,true
-ADAMAWA,FUFORE,,PARIYA GDSS,02/02/07/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2900/2900-1677593647.pdf,true
-ADAMAWA,FUFORE,,YAUNGO PRY. SCH.,02/02/07/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2902/2902-1677593327.pdf,true
-ADAMAWA,FUFORE,,WURO MOU PRY SCH,02/02/07/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2901/2901-1677593315.pdf,true
-ADAMAWA,FUFORE,,DAWARE PRY SCH    I,02/02/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2880/2880-1677592292.pdf,true
-ADAMAWA,FUFORE,,WURO AHI YAUNGO PRY SCH,02/02/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2894/2894-1677591729.pdf,false
-ADAMAWA,FUFORE,,PARIYA B PRY SCH,02/02/07/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2899/2899-1677591190.pdf,true
-ADAMAWA,FUFORE,,BENGO PRY. SCH.,02/02/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2879/2879-1677588748.pdf,false
-ADAMAWA,FUFORE,,DAWARE PRY SCH    II,02/02/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2881/2881-1677586717.pdf,true
-ADAMAWA,FUFORE,,NASSARAWO PRY. SCH.,02/02/07/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2897/2897-1677586148.pdf,false
-ADAMAWA,FUFORE,,KOFAR JAURO NASSARAWO,02/02/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2893/2893-1677584154.pdf,false
-ADAMAWA,FUFORE,,MBODEJAM PRY SCH,02/02/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2891/2891-1677520737.pdf,false
-ADAMAWA,FUFORE,,BAGALE PRY. SCH.,02/02/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2878/2878-1677518777.pdf,false
-ADAMAWA,FUFORE,,WURO YOLDE PRY SCH,02/02/07/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2896/2896-1677515843.pdf,false
-ADAMAWA,FUFORE,,KOFAR JAURO WURO ALAJI,02/02/07/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2895/2895-1677515767.pdf,false
-ADAMAWA,FUFORE,,DIGINO NGARAWO PRY. SCH.,02/02/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2882/2882-1677515087.pdf,false
-ADAMAWA,FUFORE,,DIGINO JUBAWO PRY SCH,02/02/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/07/pu/008/008-1677426784.pdf,false
-ADAMAWA,FUFORE,,FURO PRY. SCH.,02/02/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/07/pu/006/006-1677426415.pdf,false
-ADAMAWA,FUFORE,,KOFAR JAURO M/ BELLO,02/02/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/07/pu/015/015-1677424816.pdf,false
-ADAMAWA,FUFORE,,FUFOREYEL PRY SCH,02/02/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/07/pu/009/009-1677423364.pdf,false
-ADAMAWA,FUFORE,,G.D.S.S PARIYA II,02/02/07/029,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/07/pu/029/029-1677422713.pdf,false
-ADAMAWA,FUFORE,,MBILLA HOLMAWO PRY SCH,02/02/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/07/pu/013/013-1677422194.pdf,false
-ADAMAWA,FUFORE,,KADARBU PRI. SCH. II,02/02/07/026,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/07/pu/026/026-1677421216.pdf,false
-ADAMAWA,FUFORE,,BAGALE PRI. SCH. II,02/02/07/031,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/07/pu/031/031-1677419961.pdf,false
-ADAMAWA,FUFORE,,KOFAR JAURO HODANGO,02/02/07/011,,false
-ADAMAWA,FUFORE,,PARIYA A PRY SCH,02/02/07/021,,false
-ADAMAWA,FUFORE,,KOFAR JAURO JAMBUTU BAGALE,02/02/07/012,,false
+ADAMAWA,FUFORE,PARIYA,HAMDALLA PRY SCH,02/02/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2887/2887-1677599370.pdf,false
+ADAMAWA,FUFORE,PARIYA,PARIYA PRI. SCH.,02/02/07/028,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/128096/128096-1677598622.pdf,false
+ADAMAWA,FUFORE,PARIYA,PARIYA B PRI. SCH. II,02/02/07/030,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/128098/128098-1677598449.pdf,true
+ADAMAWA,FUFORE,PARIYA,KADARBU PRY. SCH.,02/02/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2884/2884-1677597248.pdf,false
+ADAMAWA,FUFORE,PARIYA,DAWARE PRI. SCH. III,02/02/07/032,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/128100/128100-1677595513.pdf,false
+ADAMAWA,FUFORE,PARIYA,JAURO J. PRI. SCH.,02/02/07/027,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/128095/128095-1677593900.pdf,true
+ADAMAWA,FUFORE,PARIYA,PARIYA GDSS,02/02/07/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2900/2900-1677593647.pdf,true
+ADAMAWA,FUFORE,PARIYA,YAUNGO PRY. SCH.,02/02/07/025,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2902/2902-1677593327.pdf,true
+ADAMAWA,FUFORE,PARIYA,WURO MOU PRY SCH,02/02/07/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2901/2901-1677593315.pdf,true
+ADAMAWA,FUFORE,PARIYA,DAWARE PRY SCH    I,02/02/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2880/2880-1677592292.pdf,true
+ADAMAWA,FUFORE,PARIYA,WURO AHI YAUNGO PRY SCH,02/02/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2894/2894-1677591729.pdf,false
+ADAMAWA,FUFORE,PARIYA,PARIYA B PRY SCH,02/02/07/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2899/2899-1677591190.pdf,true
+ADAMAWA,FUFORE,PARIYA,BENGO PRY. SCH.,02/02/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2879/2879-1677588748.pdf,false
+ADAMAWA,FUFORE,PARIYA,DAWARE PRY SCH    II,02/02/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2881/2881-1677586717.pdf,true
+ADAMAWA,FUFORE,PARIYA,NASSARAWO PRY. SCH.,02/02/07/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2897/2897-1677586148.pdf,false
+ADAMAWA,FUFORE,PARIYA,KOFAR JAURO NASSARAWO,02/02/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2893/2893-1677584154.pdf,false
+ADAMAWA,FUFORE,PARIYA,MBODEJAM PRY SCH,02/02/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2891/2891-1677520737.pdf,false
+ADAMAWA,FUFORE,PARIYA,BAGALE PRY. SCH.,02/02/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2878/2878-1677518777.pdf,false
+ADAMAWA,FUFORE,PARIYA,WURO YOLDE PRY SCH,02/02/07/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2896/2896-1677515843.pdf,false
+ADAMAWA,FUFORE,PARIYA,KOFAR JAURO WURO ALAJI,02/02/07/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2895/2895-1677515767.pdf,false
+ADAMAWA,FUFORE,PARIYA,DIGINO NGARAWO PRY. SCH.,02/02/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3121/ward/17726/pu/2882/2882-1677515087.pdf,false
+ADAMAWA,FUFORE,PARIYA,DIGINO JUBAWO PRY SCH,02/02/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/07/pu/008/008-1677426784.pdf,false
+ADAMAWA,FUFORE,PARIYA,FURO PRY. SCH.,02/02/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/07/pu/006/006-1677426415.pdf,false
+ADAMAWA,FUFORE,PARIYA,KOFAR JAURO M/ BELLO,02/02/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/07/pu/015/015-1677424816.pdf,false
+ADAMAWA,FUFORE,PARIYA,FUFOREYEL PRY SCH,02/02/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/07/pu/009/009-1677423364.pdf,false
+ADAMAWA,FUFORE,PARIYA,G.D.S.S PARIYA II,02/02/07/029,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/07/pu/029/029-1677422713.pdf,false
+ADAMAWA,FUFORE,PARIYA,MBILLA HOLMAWO PRY SCH,02/02/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/07/pu/013/013-1677422194.pdf,false
+ADAMAWA,FUFORE,PARIYA,KADARBU PRI. SCH. II,02/02/07/026,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/07/pu/026/026-1677421216.pdf,false
+ADAMAWA,FUFORE,PARIYA,BAGALE PRI. SCH. II,02/02/07/031,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/07/pu/031/031-1677419961.pdf,false
+ADAMAWA,FUFORE,PARIYA,KOFAR JAURO HODANGO,02/02/07/011,,false
+ADAMAWA,FUFORE,PARIYA,PARIYA A PRY SCH,02/02/07/021,,false
+ADAMAWA,FUFORE,PARIYA,KOFAR JAURO JAMBUTU BAGALE,02/02/07/012,,false

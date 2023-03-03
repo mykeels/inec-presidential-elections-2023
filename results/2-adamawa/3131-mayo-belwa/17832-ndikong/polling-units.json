@@ -26,6 +26,7 @@
     "pu_code_string": "021209007",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "NDIKONG",
     "document": {
       "external": true,
       "status": 1,
@@ -73,6 +74,7 @@
     "pu_code_string": "021209002",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "NDIKONG",
     "document": {
       "external": true,
       "status": 1,
@@ -120,6 +122,7 @@
     "pu_code_string": "021209001",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "NDIKONG",
     "document": {
       "external": true,
       "status": 1,
@@ -167,6 +170,7 @@
     "pu_code_string": "021209012",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "NDIKONG",
     "document": {
       "external": true,
       "status": 1,
@@ -214,6 +218,7 @@
     "pu_code_string": "021209015",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "NDIKONG",
     "document": {
       "external": true,
       "status": 1,
@@ -261,6 +266,7 @@
     "pu_code_string": "021209008",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "NDIKONG",
     "document": {
       "external": true,
       "status": 1,
@@ -308,6 +314,7 @@
     "pu_code_string": "021209014",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "NDIKONG",
     "document": {
       "external": true,
       "status": 1,
@@ -395,6 +402,7 @@
     "pu_code_string": "021209005",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "NDIKONG",
     "document": {
       "external": true,
       "status": 1,
@@ -442,6 +450,7 @@
     "pu_code_string": "021209004",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "NDIKONG",
     "document": {
       "external": true,
       "status": 1,
@@ -513,6 +522,7 @@
     "pu_code_string": "021209016",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "NDIKONG",
     "document": {
       "external": true,
       "status": 1,
@@ -584,6 +594,7 @@
     "pu_code_string": "021209010",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "NDIKONG",
     "document": {
       "external": false,
       "status": 1,
@@ -622,6 +633,7 @@
     "pu_code_string": "021209009",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "NDIKONG",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -652,6 +664,7 @@
     "pu_code_string": "021209003",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "NDIKONG",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -682,6 +695,7 @@
     "pu_code_string": "021209013",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "NDIKONG",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -712,6 +726,7 @@
     "pu_code_string": "021209006",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "NDIKONG",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -742,6 +757,7 @@
     "pu_code_string": "021209011",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "NDIKONG",
     "old_documents": [],
     "has_old_documents": false
   }

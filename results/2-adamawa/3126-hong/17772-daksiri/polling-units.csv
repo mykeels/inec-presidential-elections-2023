@@ -1,18 +1,18 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,HONG,,DAKZA / DAKZA PRI. SCH.,02/07/02/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/128393/128393-1677691554.pdf,false
-ADAMAWA,HONG,,WAJAWARI/ZHEDINYI PRI. SCH. II,02/07/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/128392/128392-1677691364.pdf,false
-ADAMAWA,HONG,,UNGUWAN MANDA / MITIL DAJI PRI. SCH. II,02/07/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/128391/128391-1677691187.pdf,false
-ADAMAWA,HONG,,UNGUWAN DAKSIRI/ DAKSIRI PRI. SCH.  III,02/07/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/128390/128390-1677691045.pdf,false
-ADAMAWA,HONG,,UNGUWAN DAKSIRI/ DAKSIRI PRI. SCH. II,02/07/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/128389/128389-1677690899.pdf,true
-ADAMAWA,HONG,,WURO BOKKI / WURO BOKKI PRY. SCH.,02/07/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/3402/3402-1677690511.pdf,false
-ADAMAWA,HONG,,WAJAWARI/ ZHEDINYI PRY. SCH.,02/07/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/3401/3401-1677690324.pdf,false
-ADAMAWA,HONG,,UNGUWAN NUVU/ TIDING PRY. SCH.,02/07/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/3400/3400-1677690120.pdf,true
-ADAMAWA,HONG,,UNGUWAN MANDA/ MITIL DAJI PRY. SCH.,02/07/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/3399/3399-1677689907.pdf,false
-ADAMAWA,HONG,,UNGUWAN JAGULA/ DILCHINAMA PRY. SCH.,02/07/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/3398/3398-1677689661.pdf,false
-ADAMAWA,HONG,,UNGUWAN DAKSIRI/ DAKSIRI PRY. SCH.,02/07/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/3397/3397-1677689462.pdf,false
-ADAMAWA,HONG,,HOLMA/ KOFAR JAURO HOLMA,02/07/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/3396/3396-1677689177.pdf,false
-ADAMAWA,HONG,,DAKZA/ DAKZA PRY. SCH.,02/07/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/3395/3395-1677688970.pdf,false
-ADAMAWA,HONG,,BIZIRGUNA III/ UDING PRY. SCH. III,02/07/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/3394/3394-1677688766.pdf,false
-ADAMAWA,HONG,,BIZIRGUNA II/ UDING PRY. SCH. II,02/07/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/3393/3393-1677688523.pdf,false
-ADAMAWA,HONG,,BIZIRGUNA I/ UDING PRY. SCH. I,02/07/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/3392/3392-1677688210.pdf,false
-ADAMAWA,HONG,,BALANGA/ KOFAR JAURO BALANGA,02/07/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/3391/3391-1677686583.pdf,true
+ADAMAWA,HONG,DAKSIRI,DAKZA / DAKZA PRI. SCH.,02/07/02/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/128393/128393-1677691554.pdf,false
+ADAMAWA,HONG,DAKSIRI,WAJAWARI/ZHEDINYI PRI. SCH. II,02/07/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/128392/128392-1677691364.pdf,false
+ADAMAWA,HONG,DAKSIRI,UNGUWAN MANDA / MITIL DAJI PRI. SCH. II,02/07/02/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/128391/128391-1677691187.pdf,false
+ADAMAWA,HONG,DAKSIRI,UNGUWAN DAKSIRI/ DAKSIRI PRI. SCH.  III,02/07/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/128390/128390-1677691045.pdf,false
+ADAMAWA,HONG,DAKSIRI,UNGUWAN DAKSIRI/ DAKSIRI PRI. SCH. II,02/07/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/128389/128389-1677690899.pdf,true
+ADAMAWA,HONG,DAKSIRI,WURO BOKKI / WURO BOKKI PRY. SCH.,02/07/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/3402/3402-1677690511.pdf,false
+ADAMAWA,HONG,DAKSIRI,WAJAWARI/ ZHEDINYI PRY. SCH.,02/07/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/3401/3401-1677690324.pdf,false
+ADAMAWA,HONG,DAKSIRI,UNGUWAN NUVU/ TIDING PRY. SCH.,02/07/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/3400/3400-1677690120.pdf,true
+ADAMAWA,HONG,DAKSIRI,UNGUWAN MANDA/ MITIL DAJI PRY. SCH.,02/07/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/3399/3399-1677689907.pdf,false
+ADAMAWA,HONG,DAKSIRI,UNGUWAN JAGULA/ DILCHINAMA PRY. SCH.,02/07/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/3398/3398-1677689661.pdf,false
+ADAMAWA,HONG,DAKSIRI,UNGUWAN DAKSIRI/ DAKSIRI PRY. SCH.,02/07/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/3397/3397-1677689462.pdf,false
+ADAMAWA,HONG,DAKSIRI,HOLMA/ KOFAR JAURO HOLMA,02/07/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/3396/3396-1677689177.pdf,false
+ADAMAWA,HONG,DAKSIRI,DAKZA/ DAKZA PRY. SCH.,02/07/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/3395/3395-1677688970.pdf,false
+ADAMAWA,HONG,DAKSIRI,BIZIRGUNA III/ UDING PRY. SCH. III,02/07/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/3394/3394-1677688766.pdf,false
+ADAMAWA,HONG,DAKSIRI,BIZIRGUNA II/ UDING PRY. SCH. II,02/07/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/3393/3393-1677688523.pdf,false
+ADAMAWA,HONG,DAKSIRI,BIZIRGUNA I/ UDING PRY. SCH. I,02/07/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/3392/3392-1677688210.pdf,false
+ADAMAWA,HONG,DAKSIRI,BALANGA/ KOFAR JAURO BALANGA,02/07/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17772/pu/3391/3391-1677686583.pdf,true

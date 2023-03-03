@@ -1,7 +1,7 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,MICHIKA,,ZILLI HANTE / KOFAR BULAMA,02/13/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4230/result_48367_1677531711_thumb.jpg,true
-ADAMAWA,MICHIKA,,DZUGWALDE P/PALI - KOFAR BULAMA,02/13/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/10/pu/001/001-1677384928.pdf,false
-ADAMAWA,MICHIKA,,KULE MBULE / NKAFAMIYA  PRI. SCH.,02/13/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/10/pu/002/002-1677384366.pdf,false
-ADAMAWA,MICHIKA,,PATHA/PATHA PRI. SCH.II,02/13/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/10/pu/006/006-1677383637.pdf,false
-ADAMAWA,MICHIKA,,MRAZHIWE / KOFAR BULAMA,02/13/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/10/pu/003/003-1677382269.pdf,false
-ADAMAWA,MICHIKA,,PATHA / PATHA PRI. SCH.,02/13/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/10/pu/004/004-1677362509.pdf,false
+ADAMAWA,MICHIKA,MUNKAVICITA,ZILLI HANTE / KOFAR BULAMA,02/13/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/4230/result_48367_1677531711_thumb.jpg,true
+ADAMAWA,MICHIKA,MUNKAVICITA,DZUGWALDE P/PALI - KOFAR BULAMA,02/13/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/10/pu/001/001-1677384928.pdf,false
+ADAMAWA,MICHIKA,MUNKAVICITA,KULE MBULE / NKAFAMIYA  PRI. SCH.,02/13/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/10/pu/002/002-1677384366.pdf,false
+ADAMAWA,MICHIKA,MUNKAVICITA,PATHA/PATHA PRI. SCH.II,02/13/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/10/pu/006/006-1677383637.pdf,false
+ADAMAWA,MICHIKA,MUNKAVICITA,MRAZHIWE / KOFAR BULAMA,02/13/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/10/pu/003/003-1677382269.pdf,false
+ADAMAWA,MICHIKA,MUNKAVICITA,PATHA / PATHA PRI. SCH.,02/13/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/10/pu/004/004-1677362509.pdf,false

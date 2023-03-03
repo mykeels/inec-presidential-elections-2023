@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,DEMSA,,KWA WAJA,02/01/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17714/pu/127987/127987-1677588219.pdf,true
-ADAMAWA,DEMSA,,URO II/ OLD MARKET PREMISES,02/01/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17714/pu/2720/2720-1677587682.pdf,true
-ADAMAWA,DEMSA,,BIDOMA,02/01/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17714/pu/127983/127983-1677587069.pdf,true
-ADAMAWA,DEMSA,,FARABARAUNE/ FARABARAUNE PRY. SCH.,02/01/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17714/pu/2716/2716-1677586657.pdf,true
-ADAMAWA,DEMSA,,NGBEKENDEWE II,02/01/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17714/pu/127986/127986-1677585692.pdf,false
-ADAMAWA,DEMSA,,NGBAGANGRATO,02/01/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17714/pu/127989/127989-1677585071.pdf,true
-ADAMAWA,DEMSA,,JANAWURI II,02/01/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/008/008-1677390706.pdf,false
-ADAMAWA,DEMSA,,KWANA PRY. SCH.,02/01/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/007/007-1677390587.pdf,false
-ADAMAWA,DEMSA,,NGBEKENDEWE/ PRY. SCH. GROUND,02/01/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/003/003-1677388933.pdf,false
-ADAMAWA,DEMSA,,URO I/ DONG PRY. SCH.,02/01/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/004/004-1677373151.pdf,false
-ADAMAWA,DEMSA,,NIRO,02/01/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/011/011-1677373124.pdf,false
-ADAMAWA,DEMSA,,URO NOGWE,02/01/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/013/013-1677371724.pdf,false
-ADAMAWA,DEMSA,,JANAWURI/ JANAWURI PRY. SCH.,02/01/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/002/002-1677370967.pdf,false
+ADAMAWA,DEMSA,DONG,KWA WAJA,02/01/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17714/pu/127987/127987-1677588219.pdf,true
+ADAMAWA,DEMSA,DONG,URO II/ OLD MARKET PREMISES,02/01/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17714/pu/2720/2720-1677587682.pdf,true
+ADAMAWA,DEMSA,DONG,BIDOMA,02/01/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17714/pu/127983/127983-1677587069.pdf,true
+ADAMAWA,DEMSA,DONG,FARABARAUNE/ FARABARAUNE PRY. SCH.,02/01/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17714/pu/2716/2716-1677586657.pdf,true
+ADAMAWA,DEMSA,DONG,NGBEKENDEWE II,02/01/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17714/pu/127986/127986-1677585692.pdf,false
+ADAMAWA,DEMSA,DONG,NGBAGANGRATO,02/01/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3120/ward/17714/pu/127989/127989-1677585071.pdf,true
+ADAMAWA,DEMSA,DONG,JANAWURI II,02/01/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/008/008-1677390706.pdf,false
+ADAMAWA,DEMSA,DONG,KWANA PRY. SCH.,02/01/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/007/007-1677390587.pdf,false
+ADAMAWA,DEMSA,DONG,NGBEKENDEWE/ PRY. SCH. GROUND,02/01/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/003/003-1677388933.pdf,false
+ADAMAWA,DEMSA,DONG,URO I/ DONG PRY. SCH.,02/01/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/004/004-1677373151.pdf,false
+ADAMAWA,DEMSA,DONG,NIRO,02/01/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/011/011-1677373124.pdf,false
+ADAMAWA,DEMSA,DONG,URO NOGWE,02/01/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/013/013-1677371724.pdf,false
+ADAMAWA,DEMSA,DONG,JANAWURI/ JANAWURI PRY. SCH.,02/01/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/05/pu/002/002-1677370967.pdf,false

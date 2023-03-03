@@ -1,16 +1,16 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,GUYUK,,ZABALA/ ZABALA PRY. SCH.,02/06/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17765/pu/3332/3332-1677484879.pdf,false
-ADAMAWA,GUYUK,,DAKATSAMZA/ K/M UNG. DAKATSAMZA,02/06/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17765/pu/3322/3322-1677484024.pdf,false
-ADAMAWA,GUYUK,,LAMZA MARKET SQUARE,02/06/05/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17765/pu/128345/128345-1677482688.pdf,false
-ADAMAWA,GUYUK,,"ANGUWAN ABUJA, FALU",02/06/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17765/pu/128344/128344-1677481613.pdf,false
-ADAMAWA,GUYUK,,GWANAH/ GWANAH PRY. SCH.,02/06/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17765/pu/3324/3324-1677480689.pdf,false
-ADAMAWA,GUYUK,,GWAZILIYA/ GWAZILIYA PRY. SCH.,02/06/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17765/pu/3325/3325-1677479655.pdf,false
-ADAMAWA,GUYUK,,LARABI/ GUNDENYI PRY. SCH.,02/06/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17765/pu/3328/3328-1677472437.pdf,false
-ADAMAWA,GUYUK,,KANGIMA TSWINTHIRE PRY. SCH.,02/06/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17765/pu/3327/3327-1677472025.pdf,false
-ADAMAWA,GUYUK,,WALUKRISTA/WALU PRIMARY SCHOOL,02/06/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17765/pu/3331/3331-1677471603.pdf,false
-ADAMAWA,GUYUK,,FALU TSIKIYE/ FALU PRY. SCH.,02/06/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17765/pu/3323/3323-1677469843.pdf,false
-ADAMAWA,GUYUK,,KWAGIMA/ LAMZA PRY SCHOOL,02/06/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/05/pu/006/006-1677397558.pdf,false
-ADAMAWA,GUYUK,,KURNYI DISPENSARY,02/06/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/05/pu/013/013-1677397210.pdf,false
-ADAMAWA,GUYUK,,CHIRKA/ LAMZA  II PRY. SCH.,02/06/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/05/pu/001/001-1677395408.pdf,false
-ADAMAWA,GUYUK,,TSIKIYE/ T/KOFAR MAI UNGWAR FALU,02/06/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/05/pu/009/009-1677393814.pdf,false
-ADAMAWA,GUYUK,,WALNYE/ GUNDENYI II PRY. SCH.,02/06/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/05/pu/010/010-1677392287.pdf,false
+ADAMAWA,GUYUK,DUKUL,ZABALA/ ZABALA PRY. SCH.,02/06/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17765/pu/3332/3332-1677484879.pdf,false
+ADAMAWA,GUYUK,DUKUL,DAKATSAMZA/ K/M UNG. DAKATSAMZA,02/06/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17765/pu/3322/3322-1677484024.pdf,false
+ADAMAWA,GUYUK,DUKUL,LAMZA MARKET SQUARE,02/06/05/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17765/pu/128345/128345-1677482688.pdf,false
+ADAMAWA,GUYUK,DUKUL,"ANGUWAN ABUJA, FALU",02/06/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17765/pu/128344/128344-1677481613.pdf,false
+ADAMAWA,GUYUK,DUKUL,GWANAH/ GWANAH PRY. SCH.,02/06/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17765/pu/3324/3324-1677480689.pdf,false
+ADAMAWA,GUYUK,DUKUL,GWAZILIYA/ GWAZILIYA PRY. SCH.,02/06/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17765/pu/3325/3325-1677479655.pdf,false
+ADAMAWA,GUYUK,DUKUL,LARABI/ GUNDENYI PRY. SCH.,02/06/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17765/pu/3328/3328-1677472437.pdf,false
+ADAMAWA,GUYUK,DUKUL,KANGIMA TSWINTHIRE PRY. SCH.,02/06/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17765/pu/3327/3327-1677472025.pdf,false
+ADAMAWA,GUYUK,DUKUL,WALUKRISTA/WALU PRIMARY SCHOOL,02/06/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17765/pu/3331/3331-1677471603.pdf,false
+ADAMAWA,GUYUK,DUKUL,FALU TSIKIYE/ FALU PRY. SCH.,02/06/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17765/pu/3323/3323-1677469843.pdf,false
+ADAMAWA,GUYUK,DUKUL,KWAGIMA/ LAMZA PRY SCHOOL,02/06/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/05/pu/006/006-1677397558.pdf,false
+ADAMAWA,GUYUK,DUKUL,KURNYI DISPENSARY,02/06/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/05/pu/013/013-1677397210.pdf,false
+ADAMAWA,GUYUK,DUKUL,CHIRKA/ LAMZA  II PRY. SCH.,02/06/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/05/pu/001/001-1677395408.pdf,false
+ADAMAWA,GUYUK,DUKUL,TSIKIYE/ T/KOFAR MAI UNGWAR FALU,02/06/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/05/pu/009/009-1677393814.pdf,false
+ADAMAWA,GUYUK,DUKUL,WALNYE/ GUNDENYI II PRY. SCH.,02/06/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/05/pu/010/010-1677392287.pdf,false

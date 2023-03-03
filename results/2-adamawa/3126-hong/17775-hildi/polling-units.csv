@@ -1,16 +1,16 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,HONG,,KADALA/ KOFAR JAURO GLAJI,02/07/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17775/pu/3435/3435-1677589906.pdf,true
-ADAMAWA,HONG,,GUW I/ GUW PRY. SCH.,02/07/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17775/pu/3433/3433-1677589481.pdf,true
-ADAMAWA,HONG,,KAIGAMA/HILDI B PRY. SCH.,02/07/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17775/pu/128402/128402-1677589114.pdf,false
-ADAMAWA,HONG,,SAMBO/ HILDI B. PRY. SCH.,02/07/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17775/pu/3440/3440-1677588773.pdf,false
-ADAMAWA,HONG,,PARAGALDA II/ HILDI A. PRY. SCH.,02/07/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17775/pu/3439/3439-1677588390.pdf,true
-ADAMAWA,HONG,,PARAGALDA I / AREA COURT,02/07/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17775/pu/128404/128404-1677587506.pdf,true
-ADAMAWA,HONG,,GUW I / GUW PRI. SCHOOL B,02/07/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17775/pu/128400/128400-1677586930.pdf,true
-ADAMAWA,HONG,,PARAGALDA II / HILDI OPEN SPACE NEAR COMMUNITY BORE HOLE,02/07/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17775/pu/128405/128405-1677582176.pdf,false
-ADAMAWA,HONG,,GUW II/ GUW CENTRAL PRIMARY SCH,02/07/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17775/pu/128401/128401-1677574576.pdf,true
-ADAMAWA,HONG,,NJEMEDI / NJEMEDI PRIMARY SCHOOL B.,02/07/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17775/pu/128403/128403-1677574492.pdf,true
-ADAMAWA,HONG,,SAMBO  SULE/ HILDI B. PRIMARY SCH. II,02/07/05/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17775/pu/128406/128406-1677573933.pdf,true
-ADAMAWA,HONG,,NJEMEDI/ NJEMEDI PRY. SCH.,02/07/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/05/pu/005/005-1677369230.pdf,false
-ADAMAWA,HONG,,KAIGAMA/ KOFAR JAURO YADUMA,02/07/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/05/pu/004/004-1677366332.pdf,false
-ADAMAWA,HONG,,PARAGALDA I/ HILDI A. PRY. SCH.,02/07/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/05/pu/006/006-1677365356.pdf,false
-ADAMAWA,HONG,,GUW II/ GUW PRY. SCH.,02/07/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/05/pu/002/002-1677364175.pdf,false
+ADAMAWA,HONG,HILDI,KADALA/ KOFAR JAURO GLAJI,02/07/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17775/pu/3435/3435-1677589906.pdf,true
+ADAMAWA,HONG,HILDI,GUW I/ GUW PRY. SCH.,02/07/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17775/pu/3433/3433-1677589481.pdf,true
+ADAMAWA,HONG,HILDI,KAIGAMA/HILDI B PRY. SCH.,02/07/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17775/pu/128402/128402-1677589114.pdf,false
+ADAMAWA,HONG,HILDI,SAMBO/ HILDI B. PRY. SCH.,02/07/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17775/pu/3440/3440-1677588773.pdf,false
+ADAMAWA,HONG,HILDI,PARAGALDA II/ HILDI A. PRY. SCH.,02/07/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17775/pu/3439/3439-1677588390.pdf,true
+ADAMAWA,HONG,HILDI,PARAGALDA I / AREA COURT,02/07/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17775/pu/128404/128404-1677587506.pdf,true
+ADAMAWA,HONG,HILDI,GUW I / GUW PRI. SCHOOL B,02/07/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17775/pu/128400/128400-1677586930.pdf,true
+ADAMAWA,HONG,HILDI,PARAGALDA II / HILDI OPEN SPACE NEAR COMMUNITY BORE HOLE,02/07/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17775/pu/128405/128405-1677582176.pdf,false
+ADAMAWA,HONG,HILDI,GUW II/ GUW CENTRAL PRIMARY SCH,02/07/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17775/pu/128401/128401-1677574576.pdf,true
+ADAMAWA,HONG,HILDI,NJEMEDI / NJEMEDI PRIMARY SCHOOL B.,02/07/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17775/pu/128403/128403-1677574492.pdf,true
+ADAMAWA,HONG,HILDI,SAMBO  SULE/ HILDI B. PRIMARY SCH. II,02/07/05/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3126/ward/17775/pu/128406/128406-1677573933.pdf,true
+ADAMAWA,HONG,HILDI,NJEMEDI/ NJEMEDI PRY. SCH.,02/07/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/05/pu/005/005-1677369230.pdf,false
+ADAMAWA,HONG,HILDI,KAIGAMA/ KOFAR JAURO YADUMA,02/07/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/05/pu/004/004-1677366332.pdf,false
+ADAMAWA,HONG,HILDI,PARAGALDA I/ HILDI A. PRY. SCH.,02/07/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/05/pu/006/006-1677365356.pdf,false
+ADAMAWA,HONG,HILDI,GUW II/ GUW PRY. SCH.,02/07/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/07/ward/05/pu/002/002-1677364175.pdf,false

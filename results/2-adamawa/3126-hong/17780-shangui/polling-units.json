@@ -26,6 +26,7 @@
     "pu_code_string": "020710005",
     "state_name": "ADAMAWA",
     "lga_name": "HONG",
+    "ward_name": "SHANGUI",
     "document": {
       "external": true,
       "status": 1,
@@ -89,6 +90,7 @@
     "pu_code_string": "020710007",
     "state_name": "ADAMAWA",
     "lga_name": "HONG",
+    "ward_name": "SHANGUI",
     "document": {
       "external": true,
       "status": 1,
@@ -152,6 +154,7 @@
     "pu_code_string": "020710002",
     "state_name": "ADAMAWA",
     "lga_name": "HONG",
+    "ward_name": "SHANGUI",
     "document": {
       "external": true,
       "status": 1,
@@ -199,6 +202,7 @@
     "pu_code_string": "020710008",
     "state_name": "ADAMAWA",
     "lga_name": "HONG",
+    "ward_name": "SHANGUI",
     "document": {
       "external": false,
       "status": 1,
@@ -237,6 +241,7 @@
     "pu_code_string": "020710006",
     "state_name": "ADAMAWA",
     "lga_name": "HONG",
+    "ward_name": "SHANGUI",
     "document": {
       "external": false,
       "status": 1,
@@ -275,6 +280,7 @@
     "pu_code_string": "020710013",
     "state_name": "ADAMAWA",
     "lga_name": "HONG",
+    "ward_name": "SHANGUI",
     "document": {
       "external": false,
       "status": 1,
@@ -313,6 +319,7 @@
     "pu_code_string": "020710004",
     "state_name": "ADAMAWA",
     "lga_name": "HONG",
+    "ward_name": "SHANGUI",
     "document": {
       "external": false,
       "status": 1,
@@ -351,6 +358,7 @@
     "pu_code_string": "020710012",
     "state_name": "ADAMAWA",
     "lga_name": "HONG",
+    "ward_name": "SHANGUI",
     "document": {
       "external": false,
       "status": 1,
@@ -389,6 +397,7 @@
     "pu_code_string": "020710009",
     "state_name": "ADAMAWA",
     "lga_name": "HONG",
+    "ward_name": "SHANGUI",
     "document": {
       "external": false,
       "status": 1,
@@ -436,6 +445,7 @@
     "pu_code_string": "020710011",
     "state_name": "ADAMAWA",
     "lga_name": "HONG",
+    "ward_name": "SHANGUI",
     "document": {
       "external": false,
       "status": 1,
@@ -483,6 +493,7 @@
     "pu_code_string": "020710010",
     "state_name": "ADAMAWA",
     "lga_name": "HONG",
+    "ward_name": "SHANGUI",
     "document": {
       "external": false,
       "status": 1,
@@ -530,6 +541,7 @@
     "pu_code_string": "020710003",
     "state_name": "ADAMAWA",
     "lga_name": "HONG",
+    "ward_name": "SHANGUI",
     "document": {
       "external": false,
       "status": 1,
@@ -568,6 +580,7 @@
     "pu_code_string": "020710001",
     "state_name": "ADAMAWA",
     "lga_name": "HONG",
+    "ward_name": "SHANGUI",
     "document": {
       "external": false,
       "status": 1,

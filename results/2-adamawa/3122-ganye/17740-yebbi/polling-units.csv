@@ -1,23 +1,23 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,GANYE,,TIMKO. TIMYA. NYA/ TIMKO PRY. SCH.,02/03/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/3083/3083-1677785258.pdf,true
-ADAMAWA,GANYE,,TADING KAKUSUM/ KJ GANGMEN,02/03/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/3082/3082-1677784494.pdf,false
-ADAMAWA,GANYE,,NGURORE YEBBI/ NGURORE PRY. SCH.,02/03/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/3081/3081-1677773841.pdf,false
-ADAMAWA,GANYE,,LABARI/ KJ LABARI,02/03/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/3080/3080-1677747989.pdf,false
-ADAMAWA,GANYE,,"DIMBIWERI I DASUKU I OPEN
+ADAMAWA,GANYE,YEBBI,TIMKO. TIMYA. NYA/ TIMKO PRY. SCH.,02/03/10/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/3083/3083-1677785258.pdf,true
+ADAMAWA,GANYE,YEBBI,TADING KAKUSUM/ KJ GANGMEN,02/03/10/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/3082/3082-1677784494.pdf,false
+ADAMAWA,GANYE,YEBBI,NGURORE YEBBI/ NGURORE PRY. SCH.,02/03/10/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/3081/3081-1677773841.pdf,false
+ADAMAWA,GANYE,YEBBI,LABARI/ KJ LABARI,02/03/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/3080/3080-1677747989.pdf,false
+ADAMAWA,GANYE,YEBBI,"DIMBIWERI I DASUKU I OPEN
 SPACE",02/03/10/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/128188/128188-1677743927.pdf,false
-ADAMAWA,GANYE,,"DIMBIWERI SANI NA GANA I
+ADAMAWA,GANYE,YEBBI,"DIMBIWERI SANI NA GANA I
 BANKUREN PRI SCH.",02/03/10/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/128187/128187-1677741304.pdf,true
-ADAMAWA,GANYE,,"GANJARI JARANDE I GANJARI
+ADAMAWA,GANYE,YEBBI,"GANJARI JARANDE I GANJARI
 NAKAN OPEN SPACE",02/03/10/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/128186/128186-1677738009.pdf,true
-ADAMAWA,GANYE,,GANJUBI KAVAN NYA / KAVAN HEALTH CLINIC,02/03/10/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/128185/128185-1677735563.pdf,false
-ADAMAWA,GANYE,,KUBI LISABI/ KJ LISABI,02/03/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/3079/3079-1677730834.pdf,false
-ADAMAWA,GANYE,,KAIKA/ BAKIN TASHA KAIKA,02/03/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/3077/3077-1677730326.pdf,true
-ADAMAWA,GANYE,,JANPULI/ KJ JANPULI,02/03/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/3076/3076-1677729894.pdf,false
-ADAMAWA,GANYE,,GBANIN/ KJ GBANIN,02/03/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/3075/3075-1677729488.pdf,false
-ADAMAWA,GANYE,,GANJUKEN G. LARI/ GANG JUKEN,02/03/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/3074/3074-1677728970.pdf,true
-ADAMAWA,GANYE,,GANGJUBI KAVAN NYA/ GANJUB PRY. SCH.,02/03/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/3073/3073-1677712758.pdf,false
-ADAMAWA,GANYE,,GANJARI JARANDE/ KJ JARANDE,02/03/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/3072/3072-1677712098.pdf,false
-ADAMAWA,GANYE,,DIMBIWERI SANI NAGANA/ DIMBI PRY. SCH. II,02/03/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/3071/3071-1677710197.pdf,false
-ADAMAWA,GANYE,,DIMBIWERI SANI NAGANA/ DIMBI PRY. SCH. I,02/03/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/3070/3070-1677709659.pdf,false
-ADAMAWA,GANYE,,BASULE/ KJ BASULE,02/03/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/3069/3069-1677704899.pdf,false
-ADAMAWA,GANYE,,KOFAR GANGYAWARE/ KJ KAKUSUM,02/03/10/010,,false
+ADAMAWA,GANYE,YEBBI,GANJUBI KAVAN NYA / KAVAN HEALTH CLINIC,02/03/10/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/128185/128185-1677735563.pdf,false
+ADAMAWA,GANYE,YEBBI,KUBI LISABI/ KJ LISABI,02/03/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/3079/3079-1677730834.pdf,false
+ADAMAWA,GANYE,YEBBI,KAIKA/ BAKIN TASHA KAIKA,02/03/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/3077/3077-1677730326.pdf,true
+ADAMAWA,GANYE,YEBBI,JANPULI/ KJ JANPULI,02/03/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/3076/3076-1677729894.pdf,false
+ADAMAWA,GANYE,YEBBI,GBANIN/ KJ GBANIN,02/03/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/3075/3075-1677729488.pdf,false
+ADAMAWA,GANYE,YEBBI,GANJUKEN G. LARI/ GANG JUKEN,02/03/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/3074/3074-1677728970.pdf,true
+ADAMAWA,GANYE,YEBBI,GANGJUBI KAVAN NYA/ GANJUB PRY. SCH.,02/03/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/3073/3073-1677712758.pdf,false
+ADAMAWA,GANYE,YEBBI,GANJARI JARANDE/ KJ JARANDE,02/03/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/3072/3072-1677712098.pdf,false
+ADAMAWA,GANYE,YEBBI,DIMBIWERI SANI NAGANA/ DIMBI PRY. SCH. II,02/03/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/3071/3071-1677710197.pdf,false
+ADAMAWA,GANYE,YEBBI,DIMBIWERI SANI NAGANA/ DIMBI PRY. SCH. I,02/03/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/3070/3070-1677709659.pdf,false
+ADAMAWA,GANYE,YEBBI,BASULE/ KJ BASULE,02/03/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3122/ward/17740/pu/3069/3069-1677704899.pdf,false
+ADAMAWA,GANYE,YEBBI,KOFAR GANGYAWARE/ KJ KAKUSUM,02/03/10/010,,false

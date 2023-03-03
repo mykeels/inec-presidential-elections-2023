@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,NUMAN,,BYEMTI/ BYEMTI PRI. SCH.,02/16/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3135/ward/17877/pu/4609/4609-1677602487.pdf,true
-ADAMAWA,NUMAN,,NZORUWE/ NZORUWE PRI. SCH.,02/16/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3135/ward/17877/pu/4613/4613-1677600691.pdf,false
-ADAMAWA,NUMAN,,KWAHUBA/ KWAHUBA PRI. SCH.,02/16/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3135/ward/17877/pu/4612/4612-1677596205.pdf,false
-ADAMAWA,NUMAN,,BULKUN/ BULKUN PRI. SCH.,02/16/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3135/ward/17877/pu/4608/4608-1677593136.pdf,true
-ADAMAWA,NUMAN,,KULKON/ K.MAI ANG. MWASARON,02/16/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/004/004-1677400946.pdf,false
-ADAMAWA,NUMAN,,KIKAN DISPENSARY,02/16/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/013/013-1677400191.pdf,false
-ADAMAWA,NUMAN,,KIKAN/ K.J. NZOMOTO LUWARENO,02/16/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/003/003-1677399661.pdf,false
-ADAMAWA,NUMAN,,VOTI KODOMTI/ K. JAURO MR MICHEAL MUNNON,02/16/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/008/008-1677399446.pdf,false
-ADAMAWA,NUMAN,,VOTI SHAFORON/ K. JAURO ZABADI GOMA,02/16/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/009/009-1677398332.pdf,false
-ADAMAWA,NUMAN,,NZORUWE HEALTH CENTER,02/16/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/012/012-1677397775.pdf,false
-ADAMAWA,NUMAN,,VUDEGBEKTO/ KODOMTI PRI. SCH.,02/16/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/010/010-1677396661.pdf,false
-ADAMAWA,NUMAN,,PULLUM PRI.SCH.I,02/16/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/011/011-1677396144.pdf,false
-ADAMAWA,NUMAN,,PULLUM/ K. JAURO KLAH LUGAINO,02/16/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/007/007-1677395928.pdf,false
+ADAMAWA,NUMAN,KODOMTI,BYEMTI/ BYEMTI PRI. SCH.,02/16/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3135/ward/17877/pu/4609/4609-1677602487.pdf,true
+ADAMAWA,NUMAN,KODOMTI,NZORUWE/ NZORUWE PRI. SCH.,02/16/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3135/ward/17877/pu/4613/4613-1677600691.pdf,false
+ADAMAWA,NUMAN,KODOMTI,KWAHUBA/ KWAHUBA PRI. SCH.,02/16/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3135/ward/17877/pu/4612/4612-1677596205.pdf,false
+ADAMAWA,NUMAN,KODOMTI,BULKUN/ BULKUN PRI. SCH.,02/16/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3135/ward/17877/pu/4608/4608-1677593136.pdf,true
+ADAMAWA,NUMAN,KODOMTI,KULKON/ K.MAI ANG. MWASARON,02/16/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/004/004-1677400946.pdf,false
+ADAMAWA,NUMAN,KODOMTI,KIKAN DISPENSARY,02/16/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/013/013-1677400191.pdf,false
+ADAMAWA,NUMAN,KODOMTI,KIKAN/ K.J. NZOMOTO LUWARENO,02/16/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/003/003-1677399661.pdf,false
+ADAMAWA,NUMAN,KODOMTI,VOTI KODOMTI/ K. JAURO MR MICHEAL MUNNON,02/16/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/008/008-1677399446.pdf,false
+ADAMAWA,NUMAN,KODOMTI,VOTI SHAFORON/ K. JAURO ZABADI GOMA,02/16/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/009/009-1677398332.pdf,false
+ADAMAWA,NUMAN,KODOMTI,NZORUWE HEALTH CENTER,02/16/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/012/012-1677397775.pdf,false
+ADAMAWA,NUMAN,KODOMTI,VUDEGBEKTO/ KODOMTI PRI. SCH.,02/16/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/010/010-1677396661.pdf,false
+ADAMAWA,NUMAN,KODOMTI,PULLUM PRI.SCH.I,02/16/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/011/011-1677396144.pdf,false
+ADAMAWA,NUMAN,KODOMTI,PULLUM/ K. JAURO KLAH LUGAINO,02/16/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/16/ward/05/pu/007/007-1677395928.pdf,false

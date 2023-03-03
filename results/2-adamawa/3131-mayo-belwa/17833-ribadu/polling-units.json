@@ -26,6 +26,7 @@
     "pu_code_string": "021210006",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "RIBADU",
     "document": {
       "external": true,
       "status": 1,
@@ -89,6 +90,7 @@
     "pu_code_string": "021210007",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "RIBADU",
     "document": {
       "external": false,
       "status": 1,
@@ -176,6 +178,7 @@
     "pu_code_string": "021210005",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "RIBADU",
     "document": {
       "external": false,
       "status": 1,
@@ -223,6 +226,7 @@
     "pu_code_string": "021210004",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "RIBADU",
     "document": {
       "external": false,
       "status": 1,
@@ -270,6 +274,7 @@
     "pu_code_string": "021210003",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "RIBADU",
     "document": {
       "external": false,
       "status": 1,
@@ -317,6 +322,7 @@
     "pu_code_string": "021210002",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "RIBADU",
     "document": {
       "external": false,
       "status": 1,
@@ -420,6 +426,7 @@
     "pu_code_string": "021210001",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "RIBADU",
     "document": {
       "external": false,
       "status": 1,
@@ -483,6 +490,7 @@
     "pu_code_string": "021210008",
     "state_name": "ADAMAWA",
     "lga_name": "MAYO - BELWA",
+    "ward_name": "RIBADU",
     "document": {
       "external": true,
       "status": 1,

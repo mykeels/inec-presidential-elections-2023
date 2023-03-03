@@ -26,6 +26,7 @@
     "pu_code_string": "020901009",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "DUBWANGUN",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "020901007",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "DUBWANGUN",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "020901006",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "DUBWANGUN",
     "document": {
       "external": false,
       "status": 1,
@@ -149,6 +152,7 @@
     "pu_code_string": "020901005",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "DUBWANGUN",
     "document": {
       "external": false,
       "status": 1,
@@ -187,6 +191,7 @@
     "pu_code_string": "020901004",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "DUBWANGUN",
     "document": {
       "external": false,
       "status": 1,
@@ -234,6 +239,7 @@
     "pu_code_string": "020901003",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "DUBWANGUN",
     "document": {
       "external": false,
       "status": 1,
@@ -281,6 +287,7 @@
     "pu_code_string": "020901001",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "DUBWANGUN",
     "document": {
       "external": false,
       "status": 1,
@@ -319,6 +326,7 @@
     "pu_code_string": "020901002",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "DUBWANGUN",
     "document": {
       "external": false,
       "status": 1,
@@ -357,6 +365,7 @@
     "pu_code_string": "020901010",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "DUBWANGUN",
     "document": {
       "external": false,
       "status": 1,
@@ -395,6 +404,7 @@
     "pu_code_string": "020901011",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "DUBWANGUN",
     "document": {
       "external": false,
       "status": 1,
@@ -433,6 +443,7 @@
     "pu_code_string": "020901008",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "DUBWANGUN",
     "old_documents": [],
     "has_old_documents": false
   }

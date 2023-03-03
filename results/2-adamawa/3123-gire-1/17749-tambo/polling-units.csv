@@ -1,15 +1,15 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,GIRE 1,,BAKOPI/ BAKOPI PRY. SCH.,02/04/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17749/pu/3148/3148-1677507411.pdf,false
-ADAMAWA,GIRE 1,,BABURI BOREHOLE,02/04/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17749/pu/128251/128251-1677506896.pdf,false
-ADAMAWA,GIRE 1,,KPONGNO/ KPONGNO PRY. SCH.,02/04/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17749/pu/3150/3150-1677506662.pdf,false
-ADAMAWA,GIRE 1,,MURPOSA/ MURPOSA MARKET,02/04/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17749/pu/3152/3152-1677505846.pdf,false
-ADAMAWA,GIRE 1,,LURU/ LURU PRY. SCH.,02/04/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17749/pu/3151/3151-1677505266.pdf,false
-ADAMAWA,GIRE 1,,TAMBO TUMOROYI,02/04/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17749/pu/128248/128248-1677504906.pdf,false
-ADAMAWA,GIRE 1,,BALLA  PRI.SCH,02/04/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17749/pu/128250/128250-1677504212.pdf,false
-ADAMAWA,GIRE 1,,BIDIMCHI/ BIDIMCHI PRY. SCH.,02/04/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17749/pu/3149/3149-1677503602.pdf,false
-ADAMAWA,GIRE 1,,SUYI/ KOFAR JAURO ETHAN,02/04/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17749/pu/3156/3156-1677502390.pdf,false
-ADAMAWA,GIRE 1,,TAMBO JIMOH / TAMBO JIMOH PRY. SCH.,02/04/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17749/pu/3154/3154-1677501545.pdf,false
-ADAMAWA,GIRE 1,,PUPORO/ KOFAR JAURO TIKI TIKI,02/04/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17749/pu/3153/3153-1677500014.pdf,false
-ADAMAWA,GIRE 1,,TAMBO MANGA/ TAMBO PRY. SCH.,02/04/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17749/pu/3155/3155-1677497600.pdf,false
-ADAMAWA,GIRE 1,,GDSS BAKOPI,02/04/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17749/pu/128252/128252-1677493929.pdf,false
-ADAMAWA,GIRE 1,,MARBALI VILLAGE,02/04/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/011/011-1677389446.pdf,false
+ADAMAWA,GIRE 1,TAMBO,BAKOPI/ BAKOPI PRY. SCH.,02/04/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17749/pu/3148/3148-1677507411.pdf,false
+ADAMAWA,GIRE 1,TAMBO,BABURI BOREHOLE,02/04/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17749/pu/128251/128251-1677506896.pdf,false
+ADAMAWA,GIRE 1,TAMBO,KPONGNO/ KPONGNO PRY. SCH.,02/04/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17749/pu/3150/3150-1677506662.pdf,false
+ADAMAWA,GIRE 1,TAMBO,MURPOSA/ MURPOSA MARKET,02/04/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17749/pu/3152/3152-1677505846.pdf,false
+ADAMAWA,GIRE 1,TAMBO,LURU/ LURU PRY. SCH.,02/04/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17749/pu/3151/3151-1677505266.pdf,false
+ADAMAWA,GIRE 1,TAMBO,TAMBO TUMOROYI,02/04/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17749/pu/128248/128248-1677504906.pdf,false
+ADAMAWA,GIRE 1,TAMBO,BALLA  PRI.SCH,02/04/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17749/pu/128250/128250-1677504212.pdf,false
+ADAMAWA,GIRE 1,TAMBO,BIDIMCHI/ BIDIMCHI PRY. SCH.,02/04/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17749/pu/3149/3149-1677503602.pdf,false
+ADAMAWA,GIRE 1,TAMBO,SUYI/ KOFAR JAURO ETHAN,02/04/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17749/pu/3156/3156-1677502390.pdf,false
+ADAMAWA,GIRE 1,TAMBO,TAMBO JIMOH / TAMBO JIMOH PRY. SCH.,02/04/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17749/pu/3154/3154-1677501545.pdf,false
+ADAMAWA,GIRE 1,TAMBO,PUPORO/ KOFAR JAURO TIKI TIKI,02/04/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17749/pu/3153/3153-1677500014.pdf,false
+ADAMAWA,GIRE 1,TAMBO,TAMBO MANGA/ TAMBO PRY. SCH.,02/04/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17749/pu/3155/3155-1677497600.pdf,false
+ADAMAWA,GIRE 1,TAMBO,GDSS BAKOPI,02/04/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3123/ward/17749/pu/128252/128252-1677493929.pdf,false
+ADAMAWA,GIRE 1,TAMBO,MARBALI VILLAGE,02/04/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/09/pu/011/011-1677389446.pdf,false

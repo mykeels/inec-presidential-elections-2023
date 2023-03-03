@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,MAIHA,,PARNYEL/ KOFAR JAURO,02/11/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17815/pu/3910/3910-1677588095.pdf,true
-ADAMAWA,MAIHA,,MURKUMA/ KOFAR JAURO,02/11/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17815/pu/3909/3909-1677587880.pdf,true
-ADAMAWA,MAIHA,,MUDURUSA/ KOFAR JAURO,02/11/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17815/pu/3908/3908-1677587609.pdf,true
-ADAMAWA,MAIHA,,LUBUM/ KOFAR JAURO,02/11/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17815/pu/3907/3907-1677587335.pdf,true
-ADAMAWA,MAIHA,,KWALAVAYA/ BEHIND AYUBA'S HOUSE,02/11/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17815/pu/3906/3906-1677587125.pdf,true
-ADAMAWA,MAIHA,,HUMBUTUDI  PRY SCH,02/11/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17815/pu/3905/3905-1677586886.pdf,true
-ADAMAWA,MAIHA,,HUMBUTUDI/ HUMBUTUDI PRY. SCH.  II,02/11/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17815/pu/3904/3904-1677586621.pdf,true
-ADAMAWA,MAIHA,,HUMBUTUDI/ HUMBUTUDI PRY. SCH. I,02/11/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17815/pu/3903/3903-1677586419.pdf,false
-ADAMAWA,MAIHA,,DILWACIRA/ MBALAGI PRY. SCH.,02/11/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17815/pu/3902/3902-1677586140.pdf,false
-ADAMAWA,MAIHA,,DALEHI/ DALEHI DISPENSARY,02/11/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17815/pu/3901/3901-1677585744.pdf,false
-ADAMAWA,MAIHA,,BASULUM/ LUGDIRA PRY. SCH.,02/11/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17815/pu/3900/3900-1677584867.pdf,false
+ADAMAWA,MAIHA,HUMBUTUDI,PARNYEL/ KOFAR JAURO,02/11/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17815/pu/3910/3910-1677588095.pdf,true
+ADAMAWA,MAIHA,HUMBUTUDI,MURKUMA/ KOFAR JAURO,02/11/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17815/pu/3909/3909-1677587880.pdf,true
+ADAMAWA,MAIHA,HUMBUTUDI,MUDURUSA/ KOFAR JAURO,02/11/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17815/pu/3908/3908-1677587609.pdf,true
+ADAMAWA,MAIHA,HUMBUTUDI,LUBUM/ KOFAR JAURO,02/11/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17815/pu/3907/3907-1677587335.pdf,true
+ADAMAWA,MAIHA,HUMBUTUDI,KWALAVAYA/ BEHIND AYUBA'S HOUSE,02/11/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17815/pu/3906/3906-1677587125.pdf,true
+ADAMAWA,MAIHA,HUMBUTUDI,HUMBUTUDI  PRY SCH,02/11/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17815/pu/3905/3905-1677586886.pdf,true
+ADAMAWA,MAIHA,HUMBUTUDI,HUMBUTUDI/ HUMBUTUDI PRY. SCH.  II,02/11/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17815/pu/3904/3904-1677586621.pdf,true
+ADAMAWA,MAIHA,HUMBUTUDI,HUMBUTUDI/ HUMBUTUDI PRY. SCH. I,02/11/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17815/pu/3903/3903-1677586419.pdf,false
+ADAMAWA,MAIHA,HUMBUTUDI,DILWACIRA/ MBALAGI PRY. SCH.,02/11/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17815/pu/3902/3902-1677586140.pdf,false
+ADAMAWA,MAIHA,HUMBUTUDI,DALEHI/ DALEHI DISPENSARY,02/11/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17815/pu/3901/3901-1677585744.pdf,false
+ADAMAWA,MAIHA,HUMBUTUDI,BASULUM/ LUGDIRA PRY. SCH.,02/11/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3130/ward/17815/pu/3900/3900-1677584867.pdf,false

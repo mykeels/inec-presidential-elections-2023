@@ -26,6 +26,7 @@
     "pu_code_string": "020903014",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "LAFIYA",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "020903008",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "LAFIYA",
     "document": {
       "external": false,
       "status": 1,
@@ -111,6 +113,7 @@
     "pu_code_string": "020903019",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "LAFIYA",
     "document": {
       "external": false,
       "status": 1,
@@ -158,6 +161,7 @@
     "pu_code_string": "020903004",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "LAFIYA",
     "document": {
       "external": false,
       "status": 1,
@@ -196,6 +200,7 @@
     "pu_code_string": "020903016",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "LAFIYA",
     "document": {
       "external": false,
       "status": 1,
@@ -243,6 +248,7 @@
     "pu_code_string": "020903006",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "LAFIYA",
     "document": {
       "external": false,
       "status": 1,
@@ -322,6 +328,7 @@
     "pu_code_string": "020903021",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "LAFIYA",
     "document": {
       "external": false,
       "status": 1,
@@ -360,6 +367,7 @@
     "pu_code_string": "020903015",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "LAFIYA",
     "document": {
       "external": false,
       "status": 1,
@@ -407,6 +415,7 @@
     "pu_code_string": "020903005",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "LAFIYA",
     "document": {
       "external": false,
       "status": 1,
@@ -454,6 +463,7 @@
     "pu_code_string": "020903017",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "LAFIYA",
     "document": {
       "external": false,
       "status": 1,
@@ -501,6 +511,7 @@
     "pu_code_string": "020903010",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "LAFIYA",
     "document": {
       "external": false,
       "status": 1,
@@ -539,6 +550,7 @@
     "pu_code_string": "020903012",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "LAFIYA",
     "document": {
       "external": false,
       "status": 1,
@@ -586,6 +598,7 @@
     "pu_code_string": "020903018",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "LAFIYA",
     "document": {
       "external": false,
       "status": 1,
@@ -633,6 +646,7 @@
     "pu_code_string": "020903020",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "LAFIYA",
     "document": {
       "external": false,
       "status": 1,
@@ -671,6 +685,7 @@
     "pu_code_string": "020903009",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "LAFIYA",
     "document": {
       "external": false,
       "status": 1,
@@ -709,6 +724,7 @@
     "pu_code_string": "020903003",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "LAFIYA",
     "document": {
       "external": false,
       "status": 1,
@@ -747,6 +763,7 @@
     "pu_code_string": "020903011",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "LAFIYA",
     "document": {
       "external": false,
       "status": 1,
@@ -794,6 +811,7 @@
     "pu_code_string": "020903002",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "LAFIYA",
     "document": {
       "external": false,
       "status": 1,
@@ -841,6 +859,7 @@
     "pu_code_string": "020903001",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "LAFIYA",
     "document": {
       "external": false,
       "status": 1,
@@ -888,6 +907,7 @@
     "pu_code_string": "020903013",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "LAFIYA",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -918,6 +938,7 @@
     "pu_code_string": "020903007",
     "state_name": "ADAMAWA",
     "lga_name": "LAMURDE",
+    "ward_name": "LAFIYA",
     "old_documents": [],
     "has_old_documents": false
   }

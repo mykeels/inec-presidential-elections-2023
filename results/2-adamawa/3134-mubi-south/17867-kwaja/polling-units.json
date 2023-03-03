@@ -26,6 +26,7 @@
     "pu_code_string": "021505001",
     "state_name": "ADAMAWA",
     "lga_name": "MUBI SOUTH",
+    "ward_name": "KWAJA",
     "document": {
       "external": false,
       "status": 1,
@@ -73,6 +74,7 @@
     "pu_code_string": "021505002",
     "state_name": "ADAMAWA",
     "lga_name": "MUBI SOUTH",
+    "ward_name": "KWAJA",
     "document": {
       "external": false,
       "status": 1,
@@ -111,6 +113,7 @@
     "pu_code_string": "021505004",
     "state_name": "ADAMAWA",
     "lga_name": "MUBI SOUTH",
+    "ward_name": "KWAJA",
     "document": {
       "external": false,
       "status": 1,
@@ -149,6 +152,7 @@
     "pu_code_string": "021505005",
     "state_name": "ADAMAWA",
     "lga_name": "MUBI SOUTH",
+    "ward_name": "KWAJA",
     "document": {
       "external": false,
       "status": 1,
@@ -187,6 +191,7 @@
     "pu_code_string": "021505007",
     "state_name": "ADAMAWA",
     "lga_name": "MUBI SOUTH",
+    "ward_name": "KWAJA",
     "document": {
       "external": false,
       "status": 1,
@@ -225,6 +230,7 @@
     "pu_code_string": "021505006",
     "state_name": "ADAMAWA",
     "lga_name": "MUBI SOUTH",
+    "ward_name": "KWAJA",
     "document": {
       "external": false,
       "status": 1,
@@ -263,6 +269,7 @@
     "pu_code_string": "021505003",
     "state_name": "ADAMAWA",
     "lga_name": "MUBI SOUTH",
+    "ward_name": "KWAJA",
     "old_documents": [],
     "has_old_documents": false
   }

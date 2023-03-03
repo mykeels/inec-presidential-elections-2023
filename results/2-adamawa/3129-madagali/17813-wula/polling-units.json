@@ -26,6 +26,7 @@
     "pu_code_string": "021010001",
     "state_name": "ADAMAWA",
     "lga_name": "MADAGALI",
+    "ward_name": "WULA",
     "document": {
       "external": false,
       "status": 1,
@@ -89,6 +90,7 @@
     "pu_code_string": "021010003",
     "state_name": "ADAMAWA",
     "lga_name": "MADAGALI",
+    "ward_name": "WULA",
     "document": {
       "external": false,
       "status": 1,
@@ -136,6 +138,7 @@
     "pu_code_string": "021010005",
     "state_name": "ADAMAWA",
     "lga_name": "MADAGALI",
+    "ward_name": "WULA",
     "document": {
       "external": false,
       "status": 1,
@@ -174,6 +177,7 @@
     "pu_code_string": "021010006",
     "state_name": "ADAMAWA",
     "lga_name": "MADAGALI",
+    "ward_name": "WULA",
     "document": {
       "external": false,
       "status": 1,
@@ -212,6 +216,7 @@
     "pu_code_string": "021010004",
     "state_name": "ADAMAWA",
     "lga_name": "MADAGALI",
+    "ward_name": "WULA",
     "document": {
       "external": false,
       "status": 1,
@@ -250,6 +255,7 @@
     "pu_code_string": "021010002",
     "state_name": "ADAMAWA",
     "lga_name": "MADAGALI",
+    "ward_name": "WULA",
     "old_documents": [],
     "has_old_documents": false
   }

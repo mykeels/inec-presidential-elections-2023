@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,MADAGALI,,WUROGAS I/ WUROGAS PRY. SCH.,02/10/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17810/pu/3855/3855-1677820465.pdf,true
-ADAMAWA,MADAGALI,,WUDUMULMU/ PALLAM PRY. SCH.,02/10/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17810/pu/3854/3854-1677819968.pdf,true
-ADAMAWA,MADAGALI,,WUDIFI/ OPEN SQUARE,02/10/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17810/pu/3853/3853-1677819405.pdf,true
-ADAMAWA,MADAGALI,,KYALDE/ IN FRONT OF BULAMAS HOUSE,02/10/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17810/pu/3851/3851-1677817017.pdf,true
-ADAMAWA,MADAGALI,,KWAPALMA/ WUDUFI DURIYA,02/10/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17810/pu/3850/3850-1677816148.pdf,true
-ADAMAWA,MADAGALI,,GIWA GULAK/ MARKET SQUARE,02/10/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17810/pu/3846/3846-1677814888.pdf,true
-ADAMAWA,MADAGALI,,GARI/ IN FRONT OF BULAMAS HOUSE,02/10/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17810/pu/3845/3845-1677792559.pdf,true
-ADAMAWA,MADAGALI,,WUROGAS II/ OPEN SQUARE,02/10/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17810/pu/3856/3856-1677609687.pdf,false
-ADAMAWA,MADAGALI,,SIDAGHA/ OPEN SQUARE,02/10/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/07/pu/008/008-1677403404.pdf,false
-ADAMAWA,MADAGALI,,KWAFUR/ DZUEL PRY. SCH.,02/10/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/07/pu/005/005-1677402583.pdf,false
-ADAMAWA,MADAGALI,,KAUYE/ KAUYE PRY. SCH.,02/10/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/07/pu/004/004-1677402289.pdf,false
-ADAMAWA,MADAGALI,,HUSADA/ HUSADA PRY. SCH.,02/10/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/07/pu/003/003-1677400535.pdf,false
+ADAMAWA,MADAGALI,PALLAM,WUROGAS I/ WUROGAS PRY. SCH.,02/10/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17810/pu/3855/3855-1677820465.pdf,true
+ADAMAWA,MADAGALI,PALLAM,WUDUMULMU/ PALLAM PRY. SCH.,02/10/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17810/pu/3854/3854-1677819968.pdf,true
+ADAMAWA,MADAGALI,PALLAM,WUDIFI/ OPEN SQUARE,02/10/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17810/pu/3853/3853-1677819405.pdf,true
+ADAMAWA,MADAGALI,PALLAM,KYALDE/ IN FRONT OF BULAMAS HOUSE,02/10/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17810/pu/3851/3851-1677817017.pdf,true
+ADAMAWA,MADAGALI,PALLAM,KWAPALMA/ WUDUFI DURIYA,02/10/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17810/pu/3850/3850-1677816148.pdf,true
+ADAMAWA,MADAGALI,PALLAM,GIWA GULAK/ MARKET SQUARE,02/10/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17810/pu/3846/3846-1677814888.pdf,true
+ADAMAWA,MADAGALI,PALLAM,GARI/ IN FRONT OF BULAMAS HOUSE,02/10/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17810/pu/3845/3845-1677792559.pdf,true
+ADAMAWA,MADAGALI,PALLAM,WUROGAS II/ OPEN SQUARE,02/10/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3129/ward/17810/pu/3856/3856-1677609687.pdf,false
+ADAMAWA,MADAGALI,PALLAM,SIDAGHA/ OPEN SQUARE,02/10/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/07/pu/008/008-1677403404.pdf,false
+ADAMAWA,MADAGALI,PALLAM,KWAFUR/ DZUEL PRY. SCH.,02/10/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/07/pu/005/005-1677402583.pdf,false
+ADAMAWA,MADAGALI,PALLAM,KAUYE/ KAUYE PRY. SCH.,02/10/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/07/pu/004/004-1677402289.pdf,false
+ADAMAWA,MADAGALI,PALLAM,HUSADA/ HUSADA PRY. SCH.,02/10/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/10/ward/07/pu/003/003-1677400535.pdf,false

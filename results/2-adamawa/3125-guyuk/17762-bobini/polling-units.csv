@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,GUYUK,,ANGUWAN KULGO BOBINI,02/06/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17762/pu/128331/128331-1677503209.pdf,false
-ADAMAWA,GUYUK,,ANGUWAN WAJA BOBANI,02/06/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17762/pu/128330/128330-1677502931.pdf,false
-ADAMAWA,GUYUK,,ANGUWAN FULANI GWALAM,02/06/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17762/pu/128328/128328-1677502471.pdf,false
-ADAMAWA,GUYUK,,JAURO JALO/ K/JAURO JALO,02/06/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17762/pu/3293/3293-1677502006.pdf,false
-ADAMAWA,GUYUK,,JANKARAM/ JANKARAM PRY. SCH.,02/06/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17762/pu/3292/3292-1677501725.pdf,false
-ADAMAWA,GUYUK,,DANGU/ DANGU PRY. SCH.,02/06/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17762/pu/3290/3290-1677501343.pdf,false
-ADAMAWA,GUYUK,,KRISTA/ BOBINI PRY. SCH.,02/06/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17762/pu/3294/3294-1677486679.pdf,false
-ADAMAWA,GUYUK,,ARAH TEH/ TEH PRY. SCH.,02/06/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17762/pu/3288/3288-1677486151.pdf,false
-ADAMAWA,GUYUK,,GDSS ARAH TEH,02/06/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/02/pu/008/008-1677401701.pdf,false
-ADAMAWA,GUYUK,,BILASI/ K/DAGACIN BOBINI,02/06/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/02/pu/002/002-1677395683.pdf,false
-ADAMAWA,GUYUK,,SABON KASUWA GWALAM,02/06/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/02/pu/010/010-1677392877.pdf,false
-ADAMAWA,GUYUK,,GWALAM/ GWALAM PRY. SCH.,02/06/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/02/pu/004/004-1677373428.pdf,false
+ADAMAWA,GUYUK,BOBINI,ANGUWAN KULGO BOBINI,02/06/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17762/pu/128331/128331-1677503209.pdf,false
+ADAMAWA,GUYUK,BOBINI,ANGUWAN WAJA BOBANI,02/06/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17762/pu/128330/128330-1677502931.pdf,false
+ADAMAWA,GUYUK,BOBINI,ANGUWAN FULANI GWALAM,02/06/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17762/pu/128328/128328-1677502471.pdf,false
+ADAMAWA,GUYUK,BOBINI,JAURO JALO/ K/JAURO JALO,02/06/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17762/pu/3293/3293-1677502006.pdf,false
+ADAMAWA,GUYUK,BOBINI,JANKARAM/ JANKARAM PRY. SCH.,02/06/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17762/pu/3292/3292-1677501725.pdf,false
+ADAMAWA,GUYUK,BOBINI,DANGU/ DANGU PRY. SCH.,02/06/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17762/pu/3290/3290-1677501343.pdf,false
+ADAMAWA,GUYUK,BOBINI,KRISTA/ BOBINI PRY. SCH.,02/06/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17762/pu/3294/3294-1677486679.pdf,false
+ADAMAWA,GUYUK,BOBINI,ARAH TEH/ TEH PRY. SCH.,02/06/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3125/ward/17762/pu/3288/3288-1677486151.pdf,false
+ADAMAWA,GUYUK,BOBINI,GDSS ARAH TEH,02/06/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/02/pu/008/008-1677401701.pdf,false
+ADAMAWA,GUYUK,BOBINI,BILASI/ K/DAGACIN BOBINI,02/06/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/02/pu/002/002-1677395683.pdf,false
+ADAMAWA,GUYUK,BOBINI,SABON KASUWA GWALAM,02/06/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/02/pu/010/010-1677392877.pdf,false
+ADAMAWA,GUYUK,BOBINI,GWALAM/ GWALAM PRY. SCH.,02/06/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/02/pu/004/004-1677373428.pdf,false

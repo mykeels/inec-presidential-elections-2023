@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-ADAMAWA,MICHIKA,,MUHALE / KULANGE - KOFAR BULAMA,02/13/12/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/008/008-1677417422.pdf,false
-ADAMAWA,MICHIKA,,WADAWOLI PRI.SCH,02/13/12/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/015/015-1677415039.pdf,false
-ADAMAWA,MICHIKA,,KASUWAN THENYGYE,02/13/12/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/017/017-1677415076.pdf,false
-ADAMAWA,MICHIKA,,MITAMA TSALA / KOFAR BULAMA,02/13/12/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/006/006-1677414465.pdf,false
-ADAMAWA,MICHIKA,,MITSA / KOFAR BULAMA BITRUS ZIRA,02/13/12/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/007/007-1677413640.pdf,false
-ADAMAWA,MICHIKA,,MUTANA MUGHA,02/13/12/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/010/010-1677413238.pdf,false
-ADAMAWA,MICHIKA,,DRISHI / UNG. BULAMA,02/13/12/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/003/003-1677412680.pdf,false
-ADAMAWA,MICHIKA,,ZAH LAGU / ZAHMUGHA PRI. SCH.,02/13/12/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/014/014-1677411897.pdf,false
-ADAMAWA,MICHIKA,,MUNGABA / KOFAR BULAMA,02/13/12/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/009/009-1677411423.pdf,false
-ADAMAWA,MICHIKA,,BUPPA / KOFAR BULAMA,02/13/12/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/001/001-1677411397.pdf,false
-ADAMAWA,MICHIKA,,KALU KAZZHIWA / KOFAR BULAMA,02/13/12/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/005/005-1677411341.pdf,false
-ADAMAWA,MICHIKA,,KASUWAN MINTE,02/13/12/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/018/018-1677411192.pdf,false
-ADAMAWA,MICHIKA,,ZAH KURE / KARAZA - KOFAR BULAMA,02/13/12/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/013/013-1677410981.pdf,false
-ADAMAWA,MICHIKA,,ZAH GAPPA / KOFAR BULAMA,02/13/12/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/011/011-1677410929.pdf,false
-ADAMAWA,MICHIKA,,PRIANDE PRI.SCH.,02/13/12/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/016/016-1677410731.pdf,false
-ADAMAWA,MICHIKA,,BUPPA DRISHA / KOFAR BULAMA,02/13/12/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/002/002-1677410751.pdf,false
-ADAMAWA,MICHIKA,,KALU KASA / KOFAR BULAMA,02/13/12/004,,false
-ADAMAWA,MICHIKA,,ZAH GRETIA / ZAH GRETIA PRI. SCH.,02/13/12/012,,false
+ADAMAWA,MICHIKA,THUKUDOU / SUFUKU / ZAH,MUHALE / KULANGE - KOFAR BULAMA,02/13/12/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/008/008-1677417422.pdf,false
+ADAMAWA,MICHIKA,THUKUDOU / SUFUKU / ZAH,WADAWOLI PRI.SCH,02/13/12/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/015/015-1677415039.pdf,false
+ADAMAWA,MICHIKA,THUKUDOU / SUFUKU / ZAH,KASUWAN THENYGYE,02/13/12/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/017/017-1677415076.pdf,false
+ADAMAWA,MICHIKA,THUKUDOU / SUFUKU / ZAH,MITAMA TSALA / KOFAR BULAMA,02/13/12/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/006/006-1677414465.pdf,false
+ADAMAWA,MICHIKA,THUKUDOU / SUFUKU / ZAH,MITSA / KOFAR BULAMA BITRUS ZIRA,02/13/12/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/007/007-1677413640.pdf,false
+ADAMAWA,MICHIKA,THUKUDOU / SUFUKU / ZAH,MUTANA MUGHA,02/13/12/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/010/010-1677413238.pdf,false
+ADAMAWA,MICHIKA,THUKUDOU / SUFUKU / ZAH,DRISHI / UNG. BULAMA,02/13/12/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/003/003-1677412680.pdf,false
+ADAMAWA,MICHIKA,THUKUDOU / SUFUKU / ZAH,ZAH LAGU / ZAHMUGHA PRI. SCH.,02/13/12/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/014/014-1677411897.pdf,false
+ADAMAWA,MICHIKA,THUKUDOU / SUFUKU / ZAH,MUNGABA / KOFAR BULAMA,02/13/12/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/009/009-1677411423.pdf,false
+ADAMAWA,MICHIKA,THUKUDOU / SUFUKU / ZAH,BUPPA / KOFAR BULAMA,02/13/12/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/001/001-1677411397.pdf,false
+ADAMAWA,MICHIKA,THUKUDOU / SUFUKU / ZAH,KALU KAZZHIWA / KOFAR BULAMA,02/13/12/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/005/005-1677411341.pdf,false
+ADAMAWA,MICHIKA,THUKUDOU / SUFUKU / ZAH,KASUWAN MINTE,02/13/12/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/018/018-1677411192.pdf,false
+ADAMAWA,MICHIKA,THUKUDOU / SUFUKU / ZAH,ZAH KURE / KARAZA - KOFAR BULAMA,02/13/12/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/013/013-1677410981.pdf,false
+ADAMAWA,MICHIKA,THUKUDOU / SUFUKU / ZAH,ZAH GAPPA / KOFAR BULAMA,02/13/12/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/011/011-1677410929.pdf,false
+ADAMAWA,MICHIKA,THUKUDOU / SUFUKU / ZAH,PRIANDE PRI.SCH.,02/13/12/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/016/016-1677410731.pdf,false
+ADAMAWA,MICHIKA,THUKUDOU / SUFUKU / ZAH,BUPPA DRISHA / KOFAR BULAMA,02/13/12/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/13/ward/12/pu/002/002-1677410751.pdf,false
+ADAMAWA,MICHIKA,THUKUDOU / SUFUKU / ZAH,KALU KASA / KOFAR BULAMA,02/13/12/004,,false
+ADAMAWA,MICHIKA,THUKUDOU / SUFUKU / ZAH,ZAH GRETIA / ZAH GRETIA PRI. SCH.,02/13/12/012,,false
