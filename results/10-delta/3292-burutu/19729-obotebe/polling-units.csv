@@ -1,21 +1,21 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,BURUTU,,KEREMO  -  PRIMARY  SCHOOL HALL,10/04/10/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29175/result_144899_1677712702_thumb.jpg,false
-DELTA,BURUTU,,YEYE  -  PRIMARY SCHOOL  HALL,10/04/10/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29174/result_144898_1677712634_thumb.jpg,false
-DELTA,BURUTU,,STADIUM  ROAD  -  TEMPORARY  STADIUM,10/04/10/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29173/result_144897_1677712566_thumb.jpg,false
-DELTA,BURUTU,,PREBOYEGBENE  -  PREBOYE   P/G,10/04/10/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29172/result_144896_1677712490_thumb.jpg,false
-DELTA,BURUTU,,PUDUGBENE  -  PRIMARY  SCHOOL HALL,10/04/10/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29171/result_144895_1677712402_thumb.jpg,false
-DELTA,BURUTU,,NPA  QUARTERS  -  CINEMA  HALL,10/04/10/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29170/result_144894_1677712322_thumb.jpg,false
-DELTA,BURUTU,,AMBA/IKOYI  -  OFOU  PRIMARY  SCHOOL HALL,10/04/10/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29169/result_144893_1677712237_thumb.jpg,false
-DELTA,BURUTU,,SOKU/OGULEYE  -  SOKU   P/G,10/04/10/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-DELTA,BURUTU,,AGGREY  ROAD/SOR  -  OLD LIBRARY II,10/04/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29167/result_144891_1677712044_thumb.jpg,false
-DELTA,BURUTU,,AGGREY  ROAD/SOR  -  OLD LIBRARY I,10/04/10/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29166/result_144890_1677711925_thumb.jpg,false
-DELTA,BURUTU,,CHRISTIAN BEACH  -  COURT  HALL,10/04/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29165/result_144889_1677711833_thumb.jpg,false
-DELTA,BURUTU,,OKORODUDU  -  TARABE  PRIMARY  SCHOOL HALL,10/04/10/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29164/result_144888_1677711738_thumb.jpg,false
-DELTA,BURUTU,,OKOKODIAGBENE  -   OKOKODIAGBENE   P/G,10/04/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29163/result_144887_1677711665_thumb.jpg,false
-DELTA,BURUTU,,KENLEGBENE  -   KENLEGBENE    P/G,10/04/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29162/result_144886_1677711582_thumb.jpg,false
-DELTA,BURUTU,,LABOLOUSEIGHA  -   LABOLOUSEIGHA   P/G,10/04/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29161/result_144885_1677711472_thumb.jpg,false
-DELTA,BURUTU,,SCHOOL AREA  -  PRIMARY SCHOOL HALL,10/04/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29160/result_144884_1677711403_thumb.jpg,false
-DELTA,BURUTU,,ASENEKIRI - ASENEKIRI   P/G,10/04/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29159/result_144883_1677711324_thumb.jpg,false
-DELTA,BURUTU,,FALOWEI  -  FALOWEI   P/G,10/04/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29158/result_144882_1677711251_thumb.jpg,false
-DELTA,BURUTU,,EZUEBODO  -  PRIMARY  SCHOOL  HALL,10/04/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29157/result_144881_1677711171_thumb.jpg,false
-DELTA,BURUTU,,OGBENDISI  -  OKPE  RETS  HOUSE,10/04/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29156/result_144880_1677711070_thumb.jpg,false
+DELTA,BURUTU,OBOTEBE,KEREMO  -  PRIMARY  SCHOOL HALL,10/04/10/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29175/result_144899_1677712702_thumb.jpg,false
+DELTA,BURUTU,OBOTEBE,YEYE  -  PRIMARY SCHOOL  HALL,10/04/10/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29174/result_144898_1677712634_thumb.jpg,false
+DELTA,BURUTU,OBOTEBE,STADIUM  ROAD  -  TEMPORARY  STADIUM,10/04/10/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29173/result_144897_1677712566_thumb.jpg,false
+DELTA,BURUTU,OBOTEBE,PREBOYEGBENE  -  PREBOYE   P/G,10/04/10/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29172/result_144896_1677712490_thumb.jpg,false
+DELTA,BURUTU,OBOTEBE,PUDUGBENE  -  PRIMARY  SCHOOL HALL,10/04/10/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29171/result_144895_1677712402_thumb.jpg,false
+DELTA,BURUTU,OBOTEBE,NPA  QUARTERS  -  CINEMA  HALL,10/04/10/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29170/result_144894_1677712322_thumb.jpg,false
+DELTA,BURUTU,OBOTEBE,AMBA/IKOYI  -  OFOU  PRIMARY  SCHOOL HALL,10/04/10/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29169/result_144893_1677712237_thumb.jpg,false
+DELTA,BURUTU,OBOTEBE,SOKU/OGULEYE  -  SOKU   P/G,10/04/10/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+DELTA,BURUTU,OBOTEBE,AGGREY  ROAD/SOR  -  OLD LIBRARY II,10/04/10/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29167/result_144891_1677712044_thumb.jpg,false
+DELTA,BURUTU,OBOTEBE,AGGREY  ROAD/SOR  -  OLD LIBRARY I,10/04/10/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29166/result_144890_1677711925_thumb.jpg,false
+DELTA,BURUTU,OBOTEBE,CHRISTIAN BEACH  -  COURT  HALL,10/04/10/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29165/result_144889_1677711833_thumb.jpg,false
+DELTA,BURUTU,OBOTEBE,OKORODUDU  -  TARABE  PRIMARY  SCHOOL HALL,10/04/10/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29164/result_144888_1677711738_thumb.jpg,false
+DELTA,BURUTU,OBOTEBE,OKOKODIAGBENE  -   OKOKODIAGBENE   P/G,10/04/10/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29163/result_144887_1677711665_thumb.jpg,false
+DELTA,BURUTU,OBOTEBE,KENLEGBENE  -   KENLEGBENE    P/G,10/04/10/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29162/result_144886_1677711582_thumb.jpg,false
+DELTA,BURUTU,OBOTEBE,LABOLOUSEIGHA  -   LABOLOUSEIGHA   P/G,10/04/10/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29161/result_144885_1677711472_thumb.jpg,false
+DELTA,BURUTU,OBOTEBE,SCHOOL AREA  -  PRIMARY SCHOOL HALL,10/04/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29160/result_144884_1677711403_thumb.jpg,false
+DELTA,BURUTU,OBOTEBE,ASENEKIRI - ASENEKIRI   P/G,10/04/10/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29159/result_144883_1677711324_thumb.jpg,false
+DELTA,BURUTU,OBOTEBE,FALOWEI  -  FALOWEI   P/G,10/04/10/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29158/result_144882_1677711251_thumb.jpg,false
+DELTA,BURUTU,OBOTEBE,EZUEBODO  -  PRIMARY  SCHOOL  HALL,10/04/10/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29157/result_144881_1677711171_thumb.jpg,false
+DELTA,BURUTU,OBOTEBE,OGBENDISI  -  OKPE  RETS  HOUSE,10/04/10/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29156/result_144880_1677711070_thumb.jpg,false

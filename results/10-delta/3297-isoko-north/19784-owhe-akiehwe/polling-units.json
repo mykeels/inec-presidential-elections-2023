@@ -26,6 +26,7 @@
     "pu_code_string": "100906001",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "OWHE/AKIEHWE",
     "document": {
       "external": true,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "100906008",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "OWHE/AKIEHWE",
     "document": {
       "external": true,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "100906012",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "OWHE/AKIEHWE",
     "document": {
       "external": false,
       "status": 1,
@@ -140,6 +143,7 @@
     "pu_code_string": "100906003",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "OWHE/AKIEHWE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -170,6 +174,7 @@
     "pu_code_string": "100906013",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "OWHE/AKIEHWE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -200,6 +205,7 @@
     "pu_code_string": "100906018",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "OWHE/AKIEHWE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -230,6 +236,7 @@
     "pu_code_string": "100906006",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "OWHE/AKIEHWE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -260,6 +267,7 @@
     "pu_code_string": "100906011",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "OWHE/AKIEHWE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -290,6 +298,7 @@
     "pu_code_string": "100906016",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "OWHE/AKIEHWE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -320,6 +329,7 @@
     "pu_code_string": "100906005",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "OWHE/AKIEHWE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -350,6 +360,7 @@
     "pu_code_string": "100906010",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "OWHE/AKIEHWE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -380,6 +391,7 @@
     "pu_code_string": "100906015",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "OWHE/AKIEHWE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -410,6 +422,7 @@
     "pu_code_string": "100906020",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "OWHE/AKIEHWE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -440,6 +453,7 @@
     "pu_code_string": "100906002",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "OWHE/AKIEHWE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -470,6 +484,7 @@
     "pu_code_string": "100906004",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "OWHE/AKIEHWE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -500,6 +515,7 @@
     "pu_code_string": "100906007",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "OWHE/AKIEHWE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -530,6 +546,7 @@
     "pu_code_string": "100906009",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "OWHE/AKIEHWE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -560,6 +577,7 @@
     "pu_code_string": "100906014",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "OWHE/AKIEHWE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -590,6 +608,7 @@
     "pu_code_string": "100906017",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "OWHE/AKIEHWE",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -620,6 +639,7 @@
     "pu_code_string": "100906019",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "OWHE/AKIEHWE",
     "old_documents": [],
     "has_old_documents": false
   }

@@ -1,39 +1,39 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,ANIOCHA - SOUTH,,"ONIHE P/S, AGIDIEHE/IDUMU ODAFE",10/02/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28777/result_144362_1677676871_thumb.jpg,false
-DELTA,ANIOCHA - SOUTH,,"ANI-NSHI, ASEI/AGIDIESE II",10/02/03/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28793/result_144378_1677519020_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,"OGOMA P/S, OGBE ONICHA II",10/02/03/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28784/result_144369_1677506783_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,"ANI-NSHI, UMU-OKWUNI",10/02/03/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28791/result_144376_1677519292_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,"UMU-NEZE HALL, UMUOKWE II",10/02/03/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28789/result_144374_1677613554_thumb.jpg,false
-DELTA,ANIOCHA - SOUTH,,OGBE-ISHIAGO VILLAGE SQUARE,10/02/03/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/628958/result_144388_1677613296_thumb.jpg,false
-DELTA,ANIOCHA - SOUTH,,DELTA STATE INSTITUTE OF CONTINUING EDUCATION I,10/02/03/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/628956/result_144386_1677518918_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,UMU-ONICHA/UMU-OLU/UMUOBAHI,10/02/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28787/result_144372_1677519098_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,AGIDIEHE VILLAGE SQUARE,10/02/03/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/628955/result_144385_1677506459_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,"ANI-NSHI, OGBE AHIOR/OGBE ANI",10/02/03/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28790/result_144375_1677588576_thumb.jpg,false
-DELTA,ANIOCHA - SOUTH,,UMU-ONICHA VILLAGE SQUARE,10/02/03/036,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/628967/result_144397_1677587476_thumb.jpg,false
-DELTA,ANIOCHA - SOUTH,,ADAIGBO SECONDARY SCHOOL II,10/02/03/034,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/034/034-1677428503.pdf,false
-DELTA,ANIOCHA - SOUTH,,OGWASHI-UKU CENTRAL MARKET II,10/02/03/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/023/023-1677427786.pdf,false
-DELTA,ANIOCHA - SOUTH,,"ONIHE P/S, OGBE-ONIHE II",10/02/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/003/003-1677427181.pdf,false
-DELTA,ANIOCHA - SOUTH,,CENTRAL MOTOR PARK ANIOCHA-SOUTH LGA OGWASHI,10/02/03/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/018/018-1677426836.pdf,false
-DELTA,ANIOCHA - SOUTH,,DELTA STATE INSTITUTE OF CONTINUING EDUCATION II,10/02/03/026,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/026/026-1677426776.pdf,false
-DELTA,ANIOCHA - SOUTH,,"ONIHE P/S, OGBE-ONIHE I",10/02/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/002/002-1677426485.pdf,false
-DELTA,ANIOCHA - SOUTH,,"ASEI P/S, AGIDIESE I",10/02/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/004/004-1677425987.pdf,false
-DELTA,ANIOCHA - SOUTH,,"OPEN SPACE OPP. DELTA STATE POLY, OGWASHI-UKU",10/02/03/035,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/035/035-1677425411.pdf,false
-DELTA,ANIOCHA - SOUTH,,IGBO WELFARE ASSOCIATION HALL,10/02/03/038,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/038/038-1677424891.pdf,false
-DELTA,ANIOCHA - SOUTH,,DELTA STATE LIBRARY BOARD,10/02/03/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/021/021-1677424068.pdf,false
-DELTA,ANIOCHA - SOUTH,,UMU-OKWUNI HALL,10/02/03/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/020/020-1677423627.pdf,false
-DELTA,ANIOCHA - SOUTH,,"UMUOKWE COMMUNITY HALL, OGWASHI-UKU",10/02/03/037,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/037/037-1677421964.pdf,false
-DELTA,ANIOCHA - SOUTH,,"ASEI P/S, AGIDIESE II",10/02/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/005/005-1677421507.pdf,false
-DELTA,ANIOCHA - SOUTH,,UMUISAGBA-OGAI SQUARE,10/02/03/032,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/032/032-1677421179.pdf,false
-DELTA,ANIOCHA - SOUTH,,NSHIAGU SECONDARY SCHOOL II,10/02/03/030,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/030/030-1677420456.pdf,false
-DELTA,ANIOCHA - SOUTH,,ADAIGBO SECONDARY SCHOOL I,10/02/03/033,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/033/033-1677419563.pdf,false
-DELTA,ANIOCHA - SOUTH,,OGWASHI-UKU TOWN HALL,10/02/03/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/019/019-1677419472.pdf,false
-DELTA,ANIOCHA - SOUTH,,"ANI-NSHI, ASEI/AGIDIESE I",10/02/03/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/016/016-1677418552.pdf,false
-DELTA,ANIOCHA - SOUTH,,NSHIAGU SECONDARY SCHOOL I,10/02/03/029,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/029/029-1677416904.pdf,false
-DELTA,ANIOCHA - SOUTH,,"OGOMA P/S, OGBE-IHEGO",10/02/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/006/006-1677416868.pdf,false
-DELTA,ANIOCHA - SOUTH,,"OGOMA P/S, UMU-OKWE/OGBE ONICHA",10/02/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/007/007-1677414985.pdf,false
-DELTA,ANIOCHA - SOUTH,,OGWASHI-UKU CENTRAL MARKET I,10/02/03/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/022/022-1677413896.pdf,false
-DELTA,ANIOCHA - SOUTH,,"NNABUWA P/S, OGBE-OFU I",10/02/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/009/009-1677412579.pdf,false
-DELTA,ANIOCHA - SOUTH,,UKWUOJI MARKET,10/02/03/031,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/031/031-1677409433.pdf,false
-DELTA,ANIOCHA - SOUTH,,OGBE-ONICHA HALL,10/02/03/028,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/028/028-1677408903.pdf,false
-DELTA,ANIOCHA - SOUTH,,"UMU-NEZE HALL, UMUOKWE I",10/02/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/012/012-1677406620.pdf,false
-DELTA,ANIOCHA - SOUTH,,"NNABUWA P/S, OGBE-OFU II",10/02/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/010/010-1677404974.pdf,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,"ONIHE P/S, AGIDIEHE/IDUMU ODAFE",10/02/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28777/result_144362_1677676871_thumb.jpg,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,"ANI-NSHI, ASEI/AGIDIESE II",10/02/03/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28793/result_144378_1677519020_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,"OGOMA P/S, OGBE ONICHA II",10/02/03/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28784/result_144369_1677506783_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,"ANI-NSHI, UMU-OKWUNI",10/02/03/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28791/result_144376_1677519292_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,"UMU-NEZE HALL, UMUOKWE II",10/02/03/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28789/result_144374_1677613554_thumb.jpg,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,OGBE-ISHIAGO VILLAGE SQUARE,10/02/03/027,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/628958/result_144388_1677613296_thumb.jpg,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,DELTA STATE INSTITUTE OF CONTINUING EDUCATION I,10/02/03/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/628956/result_144386_1677518918_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,UMU-ONICHA/UMU-OLU/UMUOBAHI,10/02/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28787/result_144372_1677519098_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,AGIDIEHE VILLAGE SQUARE,10/02/03/024,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/628955/result_144385_1677506459_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,"ANI-NSHI, OGBE AHIOR/OGBE ANI",10/02/03/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28790/result_144375_1677588576_thumb.jpg,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,UMU-ONICHA VILLAGE SQUARE,10/02/03/036,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/628967/result_144397_1677587476_thumb.jpg,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,ADAIGBO SECONDARY SCHOOL II,10/02/03/034,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/034/034-1677428503.pdf,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,OGWASHI-UKU CENTRAL MARKET II,10/02/03/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/023/023-1677427786.pdf,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,"ONIHE P/S, OGBE-ONIHE II",10/02/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/003/003-1677427181.pdf,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,CENTRAL MOTOR PARK ANIOCHA-SOUTH LGA OGWASHI,10/02/03/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/018/018-1677426836.pdf,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,DELTA STATE INSTITUTE OF CONTINUING EDUCATION II,10/02/03/026,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/026/026-1677426776.pdf,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,"ONIHE P/S, OGBE-ONIHE I",10/02/03/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/002/002-1677426485.pdf,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,"ASEI P/S, AGIDIESE I",10/02/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/004/004-1677425987.pdf,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,"OPEN SPACE OPP. DELTA STATE POLY, OGWASHI-UKU",10/02/03/035,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/035/035-1677425411.pdf,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,IGBO WELFARE ASSOCIATION HALL,10/02/03/038,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/038/038-1677424891.pdf,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,DELTA STATE LIBRARY BOARD,10/02/03/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/021/021-1677424068.pdf,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,UMU-OKWUNI HALL,10/02/03/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/020/020-1677423627.pdf,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,"UMUOKWE COMMUNITY HALL, OGWASHI-UKU",10/02/03/037,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/037/037-1677421964.pdf,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,"ASEI P/S, AGIDIESE II",10/02/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/005/005-1677421507.pdf,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,UMUISAGBA-OGAI SQUARE,10/02/03/032,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/032/032-1677421179.pdf,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,NSHIAGU SECONDARY SCHOOL II,10/02/03/030,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/030/030-1677420456.pdf,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,ADAIGBO SECONDARY SCHOOL I,10/02/03/033,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/033/033-1677419563.pdf,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,OGWASHI-UKU TOWN HALL,10/02/03/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/019/019-1677419472.pdf,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,"ANI-NSHI, ASEI/AGIDIESE I",10/02/03/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/016/016-1677418552.pdf,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,NSHIAGU SECONDARY SCHOOL I,10/02/03/029,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/029/029-1677416904.pdf,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,"OGOMA P/S, OGBE-IHEGO",10/02/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/006/006-1677416868.pdf,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,"OGOMA P/S, UMU-OKWE/OGBE ONICHA",10/02/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/007/007-1677414985.pdf,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,OGWASHI-UKU CENTRAL MARKET I,10/02/03/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/022/022-1677413896.pdf,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,"NNABUWA P/S, OGBE-OFU I",10/02/03/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/009/009-1677412579.pdf,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,UKWUOJI MARKET,10/02/03/031,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/031/031-1677409433.pdf,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,OGBE-ONICHA HALL,10/02/03/028,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/028/028-1677408903.pdf,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,"UMU-NEZE HALL, UMUOKWE I",10/02/03/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/012/012-1677406620.pdf,false
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU II,"NNABUWA P/S, OGBE-OFU II",10/02/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/010/010-1677404974.pdf,false

@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,ANIOCHA - SOUTH,,"IGWE PRIMARY SCHOOL, UMUOGBE",10/02/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28873/result_144489_1677516747_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,"UNU PRIMARY SCHOOL, ANI UDO",10/02/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3290/ward/19708/pu/28885/28885-1677505707.pdf,false
-DELTA,ANIOCHA - SOUTH,,"UNU PRIMARY SCHOOL, OGBE UZU",10/02/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/008/008-1677422842.pdf,false
-DELTA,ANIOCHA - SOUTH,,"ULOGWE PRIMARY SCHOOL, UMUTE II",10/02/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/010/010-1677421843.pdf,false
-DELTA,ANIOCHA - SOUTH,,"IGWE PRIMARY SCHOOL, UMUCHI",10/02/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/006/006-1677421554.pdf,false
-DELTA,ANIOCHA - SOUTH,,"ULOGWE PRIMARY SCHOOL, UMUTE I",10/02/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/009/009-1677420233.pdf,false
-DELTA,ANIOCHA - SOUTH,,ORTHODOX SECONDARY SCHOOL UMUSHU,10/02/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/011/011-1677419721.pdf,false
-DELTA,ANIOCHA - SOUTH,,"IMEANI STREET, IMEANI",10/02/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/004/004-1677418514.pdf,false
-DELTA,ANIOCHA - SOUTH,,"IDUMU OKETE STREET, IDUMU OKETE",10/02/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/003/003-1677417660.pdf,false
-DELTA,ANIOCHA - SOUTH,,"ANIGE PRIMARY SCHOOL, IKOKOGBE I",10/02/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/001/001-1677415586.pdf,false
-DELTA,ANIOCHA - SOUTH,,"ANIGE PRIMARY SCHOOL, IKOKOGBE II",10/02/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/002/002-1677411231.pdf,false
+DELTA,ANIOCHA - SOUTH,ABA - UNOR,"IGWE PRIMARY SCHOOL, UMUOGBE",10/02/10/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28873/result_144489_1677516747_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,ABA - UNOR,"UNU PRIMARY SCHOOL, ANI UDO",10/02/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3290/ward/19708/pu/28885/28885-1677505707.pdf,false
+DELTA,ANIOCHA - SOUTH,ABA - UNOR,"UNU PRIMARY SCHOOL, OGBE UZU",10/02/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/008/008-1677422842.pdf,false
+DELTA,ANIOCHA - SOUTH,ABA - UNOR,"ULOGWE PRIMARY SCHOOL, UMUTE II",10/02/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/010/010-1677421843.pdf,false
+DELTA,ANIOCHA - SOUTH,ABA - UNOR,"IGWE PRIMARY SCHOOL, UMUCHI",10/02/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/006/006-1677421554.pdf,false
+DELTA,ANIOCHA - SOUTH,ABA - UNOR,"ULOGWE PRIMARY SCHOOL, UMUTE I",10/02/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/009/009-1677420233.pdf,false
+DELTA,ANIOCHA - SOUTH,ABA - UNOR,ORTHODOX SECONDARY SCHOOL UMUSHU,10/02/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/011/011-1677419721.pdf,false
+DELTA,ANIOCHA - SOUTH,ABA - UNOR,"IMEANI STREET, IMEANI",10/02/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/004/004-1677418514.pdf,false
+DELTA,ANIOCHA - SOUTH,ABA - UNOR,"IDUMU OKETE STREET, IDUMU OKETE",10/02/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/003/003-1677417660.pdf,false
+DELTA,ANIOCHA - SOUTH,ABA - UNOR,"ANIGE PRIMARY SCHOOL, IKOKOGBE I",10/02/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/001/001-1677415586.pdf,false
+DELTA,ANIOCHA - SOUTH,ABA - UNOR,"ANIGE PRIMARY SCHOOL, IKOKOGBE II",10/02/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/10/pu/002/002-1677411231.pdf,false

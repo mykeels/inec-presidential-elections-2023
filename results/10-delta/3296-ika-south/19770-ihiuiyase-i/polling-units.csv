@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,IKA - SOUTH,,"AMAHIA OKI TOWN HALL, IHU - IYASE I",10/08/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/04/pu/007/007-1677420090.pdf,false
-DELTA,IKA - SOUTH,,"IDUMU-AZE TOWN HALL, IHU - IYASE I",10/08/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/04/pu/009/009-1677420035.pdf,false
-DELTA,IKA - SOUTH,,"IDUMU-AZE TOWN HALL, IHU - IYASE II",10/08/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/04/pu/010/010-1677419724.pdf,false
-DELTA,IKA - SOUTH,,"EWURU COMMUNITY HALL, IHU-IYASE I, AGBOR",10/08/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/04/pu/011/011-1677419708.pdf,false
-DELTA,IKA - SOUTH,,"ALIHAGWU  PRIMARY SCHOOL, IHU - IYASE I",10/08/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/04/pu/005/005-1677419409.pdf,false
-DELTA,IKA - SOUTH,,"UWEIFO PRIMARY SCHOOL, IHU - IYASE I",10/08/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/04/pu/003/003-1677419346.pdf,false
-DELTA,IKA - SOUTH,,"IDUMUOZA PRIMARY SCHOOL, IHU - IYASE I",10/08/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/04/pu/008/008-1677419318.pdf,false
-DELTA,IKA - SOUTH,,"UWEIFO PRIMARY SCHOOL, IHU - IYASE II",10/08/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/04/pu/004/004-1677419041.pdf,false
-DELTA,IKA - SOUTH,,"ALIHAGWU  PRIMARY SCHOOL, IHU - IYASE II",10/08/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/04/pu/006/006-1677418891.pdf,false
-DELTA,IKA - SOUTH,,"ALIFEKEDE PRIMARY SCHOOL, IHU - IYASE II",10/08/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/04/pu/002/002-1677418859.pdf,false
-DELTA,IKA - SOUTH,,"ALIFEKEDE PRIMARY SCHOOL, IHU - IYASE I",10/08/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/04/pu/001/001-1677418759.pdf,false
+DELTA,IKA - SOUTH,IHIUIYASE I,"AMAHIA OKI TOWN HALL, IHU - IYASE I",10/08/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/04/pu/007/007-1677420090.pdf,false
+DELTA,IKA - SOUTH,IHIUIYASE I,"IDUMU-AZE TOWN HALL, IHU - IYASE I",10/08/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/04/pu/009/009-1677420035.pdf,false
+DELTA,IKA - SOUTH,IHIUIYASE I,"IDUMU-AZE TOWN HALL, IHU - IYASE II",10/08/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/04/pu/010/010-1677419724.pdf,false
+DELTA,IKA - SOUTH,IHIUIYASE I,"EWURU COMMUNITY HALL, IHU-IYASE I, AGBOR",10/08/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/04/pu/011/011-1677419708.pdf,false
+DELTA,IKA - SOUTH,IHIUIYASE I,"ALIHAGWU  PRIMARY SCHOOL, IHU - IYASE I",10/08/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/04/pu/005/005-1677419409.pdf,false
+DELTA,IKA - SOUTH,IHIUIYASE I,"UWEIFO PRIMARY SCHOOL, IHU - IYASE I",10/08/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/04/pu/003/003-1677419346.pdf,false
+DELTA,IKA - SOUTH,IHIUIYASE I,"IDUMUOZA PRIMARY SCHOOL, IHU - IYASE I",10/08/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/04/pu/008/008-1677419318.pdf,false
+DELTA,IKA - SOUTH,IHIUIYASE I,"UWEIFO PRIMARY SCHOOL, IHU - IYASE II",10/08/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/04/pu/004/004-1677419041.pdf,false
+DELTA,IKA - SOUTH,IHIUIYASE I,"ALIHAGWU  PRIMARY SCHOOL, IHU - IYASE II",10/08/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/04/pu/006/006-1677418891.pdf,false
+DELTA,IKA - SOUTH,IHIUIYASE I,"ALIFEKEDE PRIMARY SCHOOL, IHU - IYASE II",10/08/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/04/pu/002/002-1677418859.pdf,false
+DELTA,IKA - SOUTH,IHIUIYASE I,"ALIFEKEDE PRIMARY SCHOOL, IHU - IYASE I",10/08/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/04/pu/001/001-1677418759.pdf,false

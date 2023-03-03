@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,BURUTU,,EYENEMUGHA  -  PRIMARY  SCHOOL HALL,10/04/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29138/result_144862_1677698245_thumb.jpg,false
-DELTA,BURUTU,,OLOMIE  -  OLOMIE   P/G,10/04/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29137/result_144861_1677698187_thumb.jpg,false
-DELTA,BURUTU,,DIBEYE  QUARTERS  III  -  DIBEYE  P/G,10/04/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29136/result_144860_1677698141_thumb.jpg,false
-DELTA,BURUTU,,DIBEYE  QUARTERS  II  -  DIBEYE  P/G,10/04/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29135/result_144859_1677698101_thumb.jpg,false
-DELTA,BURUTU,,DIBEYE  QUARTERS  I  -  DIBEYE  P/G,10/04/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29134/result_144858_1677698064_thumb.jpg,false
-DELTA,BURUTU,,KPAKABIRI  -  PRIMARY SCHOOL HALL,10/04/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29133/result_144857_1677697998_thumb.jpg,false
-DELTA,BURUTU,,GBALE QUARTERS  -  PRIMARY SCHOOL HALL,10/04/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29132/result_144856_1677697945_thumb.jpg,false
-DELTA,BURUTU,,MATOLO  -  MATOLO    P/G,10/04/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29131/result_144855_1677697902_thumb.jpg,false
-DELTA,BURUTU,,ATIMAGBENE  -  ATIMAGBENE   P/G,10/04/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29130/result_144854_1677697860_thumb.jpg,false
-DELTA,BURUTU,,OYIBOBA  -  OYIBOBA   P/G,10/04/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29129/result_144853_1677697818_thumb.jpg,false
-DELTA,BURUTU,,FUNWARE  -  FUNWARE   P/G,10/04/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29128/result_144852_1677697775_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  II,EYENEMUGHA  -  PRIMARY  SCHOOL HALL,10/04/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29138/result_144862_1677698245_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  II,OLOMIE  -  OLOMIE   P/G,10/04/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29137/result_144861_1677698187_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  II,DIBEYE  QUARTERS  III  -  DIBEYE  P/G,10/04/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29136/result_144860_1677698141_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  II,DIBEYE  QUARTERS  II  -  DIBEYE  P/G,10/04/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29135/result_144859_1677698101_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  II,DIBEYE  QUARTERS  I  -  DIBEYE  P/G,10/04/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29134/result_144858_1677698064_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  II,KPAKABIRI  -  PRIMARY SCHOOL HALL,10/04/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29133/result_144857_1677697998_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  II,GBALE QUARTERS  -  PRIMARY SCHOOL HALL,10/04/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29132/result_144856_1677697945_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  II,MATOLO  -  MATOLO    P/G,10/04/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29131/result_144855_1677697902_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  II,ATIMAGBENE  -  ATIMAGBENE   P/G,10/04/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29130/result_144854_1677697860_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  II,OYIBOBA  -  OYIBOBA   P/G,10/04/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29129/result_144853_1677697818_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  II,FUNWARE  -  FUNWARE   P/G,10/04/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29128/result_144852_1677697775_thumb.jpg,false

@@ -1,23 +1,23 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,BURUTU,,OMOROWARE - AWONU   P/G,10/04/07/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29126/result_144849_1677791911_thumb.jpg,false
-DELTA,BURUTU,,OYANGBENE  -  EKAYE  QAURTERS   P/G,10/04/07/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29123/result_144846_1677791856_thumb.jpg,false
-DELTA,BURUTU,,ASSESAGHABIRI  I  -  YALABOFA   P/G,10/04/07/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29112/result_144835_1677791614_thumb.jpg,false
-DELTA,BURUTU,,OBODO PRIMARY SCHOOL,10/04/07/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629077/result_144851_1677683433_thumb.jpg,false
-DELTA,BURUTU,,EKORO  -  EKORO   P/G,10/04/07/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29127/result_144850_1677683298_thumb.jpg,false
-DELTA,BURUTU,,OMOROWARE - ESIMOGBENE   P/G,10/04/07/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29125/result_144848_1677683202_thumb.jpg,false
-DELTA,BURUTU,,OGBOROGBENE  -  OGBOROGBENE   P/G,10/04/07/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29124/result_144847_1677683135_thumb.jpg,false
-DELTA,BURUTU,,"EBEINGBENE  -  PRIMARY  SCHOOL, HALL",10/04/07/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29122/result_144845_1677682993_thumb.jpg,false
-DELTA,BURUTU,,SOSEGBENE  -  SOSEGBENE   P/G,10/04/07/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29121/result_144844_1677682927_thumb.jpg,false
-DELTA,BURUTU,,"NEWTOWN - PRIMARY SCHOOL, HALL",10/04/07/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29120/result_144843_1677682857_thumb.jpg,false
-DELTA,BURUTU,,OKOKODIAGBENE   -   OKOKODIAGBENE  P/G,10/04/07/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29119/result_144842_1677682806_thumb.jpg,false
-DELTA,BURUTU,,GRA   -   KEDIKUMO   HALL,10/04/07/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29118/result_144841_1677682580_thumb.jpg,false
-DELTA,BURUTU,,BOUKONGHA  -  OSEIMOKUMO  HALL,10/04/07/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29117/result_144840_1677682433_thumb.jpg,false
-DELTA,BURUTU,,OZUBOUGBENE  -  AREREBO  HALL,10/04/07/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29116/result_144839_1677682338_thumb.jpg,false
-DELTA,BURUTU,,BOUBOUGBENE  - BOUBOUGBENE   P/G,10/04/07/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29115/result_144838_1677682236_thumb.jpg,false
-DELTA,BURUTU,,TAMOKUNDU  -  AYABOTU   P/G,10/04/07/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29114/result_144837_1677682152_thumb.jpg,false
-DELTA,BURUTU,,ASSESAGHABIRI  II  -  YALABOFA   P/G,10/04/07/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29113/result_144836_1677682101_thumb.jpg,false
-DELTA,BURUTU,,EMOKPO  QAURTERS  -  AGBEREDU   P/G,10/04/07/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29111/result_144834_1677681582_thumb.jpg,false
-DELTA,BURUTU,,DIAMOR   -   DIAMOR   P/G,10/04/07/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29110/result_144833_1677681432_thumb.jpg,false
-DELTA,BURUTU,,AZIBOR   -   PRIMARY  SCHOOL HALL,10/04/07/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29109/result_144832_1677681159_thumb.jpg,false
-DELTA,BURUTU,,AKUBIRI  II  COURT HALL,10/04/07/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29108/result_144831_1677680972_thumb.jpg,false
-DELTA,BURUTU,,AKUBIRI  I  COURT HALL,10/04/07/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29107/result_144830_1677676452_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  I,OMOROWARE - AWONU   P/G,10/04/07/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29126/result_144849_1677791911_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  I,OYANGBENE  -  EKAYE  QAURTERS   P/G,10/04/07/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29123/result_144846_1677791856_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  I,ASSESAGHABIRI  I  -  YALABOFA   P/G,10/04/07/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29112/result_144835_1677791614_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  I,OBODO PRIMARY SCHOOL,10/04/07/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629077/result_144851_1677683433_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  I,EKORO  -  EKORO   P/G,10/04/07/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29127/result_144850_1677683298_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  I,OMOROWARE - ESIMOGBENE   P/G,10/04/07/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29125/result_144848_1677683202_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  I,OGBOROGBENE  -  OGBOROGBENE   P/G,10/04/07/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29124/result_144847_1677683135_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  I,"EBEINGBENE  -  PRIMARY  SCHOOL, HALL",10/04/07/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29122/result_144845_1677682993_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  I,SOSEGBENE  -  SOSEGBENE   P/G,10/04/07/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29121/result_144844_1677682927_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  I,"NEWTOWN - PRIMARY SCHOOL, HALL",10/04/07/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29120/result_144843_1677682857_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  I,OKOKODIAGBENE   -   OKOKODIAGBENE  P/G,10/04/07/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29119/result_144842_1677682806_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  I,GRA   -   KEDIKUMO   HALL,10/04/07/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29118/result_144841_1677682580_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  I,BOUKONGHA  -  OSEIMOKUMO  HALL,10/04/07/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29117/result_144840_1677682433_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  I,OZUBOUGBENE  -  AREREBO  HALL,10/04/07/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29116/result_144839_1677682338_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  I,BOUBOUGBENE  - BOUBOUGBENE   P/G,10/04/07/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29115/result_144838_1677682236_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  I,TAMOKUNDU  -  AYABOTU   P/G,10/04/07/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29114/result_144837_1677682152_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  I,ASSESAGHABIRI  II  -  YALABOFA   P/G,10/04/07/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29113/result_144836_1677682101_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  I,EMOKPO  QAURTERS  -  AGBEREDU   P/G,10/04/07/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29111/result_144834_1677681582_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  I,DIAMOR   -   DIAMOR   P/G,10/04/07/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29110/result_144833_1677681432_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  I,AZIBOR   -   PRIMARY  SCHOOL HALL,10/04/07/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29109/result_144832_1677681159_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  I,AKUBIRI  II  COURT HALL,10/04/07/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29108/result_144831_1677680972_thumb.jpg,false
+DELTA,BURUTU,NGBILEBIRI  I,AKUBIRI  I  COURT HALL,10/04/07/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29107/result_144830_1677676452_thumb.jpg,false

@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,BOMADI,,ANUWARE/ASEKPE     O/S OGODOBIRI,10/03/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19719/pu/28982/28982-1677516268.pdf,false
-DELTA,BOMADI,,BROFIEKUMO/OKOLOMOR II  O/S  EZEBIRI,10/03/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19719/pu/28987/28987-1677515768.pdf,false
-DELTA,BOMADI,,"ABIALA/EKPADUMU, O/S OGODOBIRI",10/03/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19719/pu/28981/28981-1677514898.pdf,false
-DELTA,BOMADI,,"WAREBO/ARENU/OGIDI, O/S OGODOBIRI",10/03/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19719/pu/28980/28980-1677514531.pdf,false
-DELTA,BOMADI,,EKPARIKIRI  QUARTERS II  O/S  EZEBIRI,10/03/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19719/pu/28990/28990-1677514000.pdf,false
-DELTA,BOMADI,,EKPARIKIRI QUARTERS I  O/S  EZEBIRI,10/03/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19719/pu/28985/28985-1677513561.pdf,false
-DELTA,BOMADI,,"SOJA-KURIAPRE QTRS, OGODOBIRI.",10/03/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19719/pu/136346/136346-1677513221.pdf,false
-DELTA,BOMADI,,ABILA/AKPADUMU II    O/S   OGODOBIRI,10/03/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19719/pu/28984/28984-1677512590.pdf,false
-DELTA,BOMADI,,BROFIEKUMO/OKOLOMOR I  O/S  EZEBIRI,10/03/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19719/pu/28986/28986-1677511988.pdf,false
-DELTA,BOMADI,,EKPARIKIRI  QUARTERS  O/S  EZEBIRI,10/03/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19719/pu/28988/28988-1677511456.pdf,false
-DELTA,BOMADI,,AWIYO/ASEGBE      O/S OGODOBIRI,10/03/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19719/pu/28983/28983-1677510812.pdf,false
-DELTA,BOMADI,,"BRIOFIEKUMO, NEW QUARTERS  O/S  EZEBIRI",10/03/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19719/pu/28989/28989-1677509519.pdf,false
+DELTA,BOMADI,OGO - EZE,ANUWARE/ASEKPE     O/S OGODOBIRI,10/03/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19719/pu/28982/28982-1677516268.pdf,false
+DELTA,BOMADI,OGO - EZE,BROFIEKUMO/OKOLOMOR II  O/S  EZEBIRI,10/03/10/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19719/pu/28987/28987-1677515768.pdf,false
+DELTA,BOMADI,OGO - EZE,"ABIALA/EKPADUMU, O/S OGODOBIRI",10/03/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19719/pu/28981/28981-1677514898.pdf,false
+DELTA,BOMADI,OGO - EZE,"WAREBO/ARENU/OGIDI, O/S OGODOBIRI",10/03/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19719/pu/28980/28980-1677514531.pdf,false
+DELTA,BOMADI,OGO - EZE,EKPARIKIRI  QUARTERS II  O/S  EZEBIRI,10/03/10/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19719/pu/28990/28990-1677514000.pdf,false
+DELTA,BOMADI,OGO - EZE,EKPARIKIRI QUARTERS I  O/S  EZEBIRI,10/03/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19719/pu/28985/28985-1677513561.pdf,false
+DELTA,BOMADI,OGO - EZE,"SOJA-KURIAPRE QTRS, OGODOBIRI.",10/03/10/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19719/pu/136346/136346-1677513221.pdf,false
+DELTA,BOMADI,OGO - EZE,ABILA/AKPADUMU II    O/S   OGODOBIRI,10/03/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19719/pu/28984/28984-1677512590.pdf,false
+DELTA,BOMADI,OGO - EZE,BROFIEKUMO/OKOLOMOR I  O/S  EZEBIRI,10/03/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19719/pu/28986/28986-1677511988.pdf,false
+DELTA,BOMADI,OGO - EZE,EKPARIKIRI  QUARTERS  O/S  EZEBIRI,10/03/10/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19719/pu/28988/28988-1677511456.pdf,false
+DELTA,BOMADI,OGO - EZE,AWIYO/ASEGBE      O/S OGODOBIRI,10/03/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19719/pu/28983/28983-1677510812.pdf,false
+DELTA,BOMADI,OGO - EZE,"BRIOFIEKUMO, NEW QUARTERS  O/S  EZEBIRI",10/03/10/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19719/pu/28989/28989-1677509519.pdf,false

@@ -1,10 +1,10 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,ANIOCHA - SOUTH,,"OKITI MIX. SECONDARY SCHOOL, NEW ROAD/OGBE OFU I",10/02/11/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28886/result_144503_1677517020_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,"EZEMU SQUARE, UMU-UTE/OGBETITI/IDUMU ASHAMA",10/02/11/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28882/result_144499_1677516458_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,"ASHABA OKITI TOWN HALL, ASHABA OKITI/IDUMU ISA",10/02/11/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28881/result_144498_1677516245_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,"HEALTH CENTRE, IDUMU OGBONO/IDUMU OGELE/ABUEDO UGBO II",10/02/11/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28885/result_144502_1677516913_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,ABUEDO UTU/OGBE-AKWU,10/02/11/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28880/result_144497_1677515945_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,"UTOLI PRIMARY SCHOOL, IDUMU-UTU/OGBE-AKWU",10/02/11/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28879/result_144496_1677515653_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,"HEALTH CENTRE, IDUMU OGBONO/IDUMU OGELE/ABUEDO UGBO I",10/02/11/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28884/result_144501_1677516786_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,"ASHABA OKITI PRIMARY SCHOOL, IDUMU OZOMA/OGBEABO",10/02/11/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28883/result_144500_1677516632_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,"OKITI MIX. SECONDARY SCHOOL, NEW ROAD/OGBE OFU II",10/02/11/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28887/result_144504_1677517144_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,UBULU OKITI,"OKITI MIX. SECONDARY SCHOOL, NEW ROAD/OGBE OFU I",10/02/11/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28886/result_144503_1677517020_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,UBULU OKITI,"EZEMU SQUARE, UMU-UTE/OGBETITI/IDUMU ASHAMA",10/02/11/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28882/result_144499_1677516458_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,UBULU OKITI,"ASHABA OKITI TOWN HALL, ASHABA OKITI/IDUMU ISA",10/02/11/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28881/result_144498_1677516245_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,UBULU OKITI,"HEALTH CENTRE, IDUMU OGBONO/IDUMU OGELE/ABUEDO UGBO II",10/02/11/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28885/result_144502_1677516913_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,UBULU OKITI,ABUEDO UTU/OGBE-AKWU,10/02/11/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28880/result_144497_1677515945_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,UBULU OKITI,"UTOLI PRIMARY SCHOOL, IDUMU-UTU/OGBE-AKWU",10/02/11/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28879/result_144496_1677515653_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,UBULU OKITI,"HEALTH CENTRE, IDUMU OGBONO/IDUMU OGELE/ABUEDO UGBO I",10/02/11/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28884/result_144501_1677516786_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,UBULU OKITI,"ASHABA OKITI PRIMARY SCHOOL, IDUMU OZOMA/OGBEABO",10/02/11/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28883/result_144500_1677516632_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,UBULU OKITI,"OKITI MIX. SECONDARY SCHOOL, NEW ROAD/OGBE OFU II",10/02/11/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28887/result_144504_1677517144_thumb.jpg,true

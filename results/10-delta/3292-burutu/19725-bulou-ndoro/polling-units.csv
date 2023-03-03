@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,BURUTU,,EGRANGBENE  PRIMARY SCHOOL  HALL II,10/04/06/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-DELTA,BURUTU,,EGRANGBENE  PRIMARY SCHOOL  HALL I,10/04/06/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29105/result_144828_1677704411_thumb.jpg,false
-DELTA,BURUTU,,EBEBEREGBENE  -  TOWN  HALL,10/04/06/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29104/result_144827_1677704359_thumb.jpg,false
-DELTA,BURUTU,,EBIUNA  -  TOWN  HALL,10/04/06/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29103/result_144826_1677704297_thumb.jpg,false
-DELTA,BURUTU,,ORUGBENE  TOWN  HALL,10/04/06/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29102/result_144825_1677704221_thumb.jpg,false
-DELTA,BURUTU,,"ORUGBENE  ZION - PRIMARY SCHOOL, HALL",10/04/06/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29101/result_144824_1677704139_thumb.jpg,false
-DELTA,BURUTU,,ABADIAMA  -  ABADIAMA  PRIMARY  SCHOOL,10/04/06/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29100/result_144823_1677704091_thumb.jpg,false
-DELTA,BURUTU,,MARKET  AREA  -  ASOBORE  P/G,10/04/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29099/result_144822_1677704028_thumb.jpg,false
-DELTA,BURUTU,,DOWEI/OKUBO  -  EVA   P/G,10/04/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29098/result_144821_1677702958_thumb.jpg,false
-DELTA,BURUTU,,LABOWARE/EKOGBENE  -  ESAMA   P/G,10/04/06/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29097/result_144820_1677702887_thumb.jpg,false
-DELTA,BURUTU,,SIGEDE  QUARTERS  -  SIGEDE   P/G,10/04/06/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29096/result_144819_1677702795_thumb.jpg,false
-DELTA,BURUTU,,KADULA  ZION  -  ZION  P/G,10/04/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29095/result_144818_1677702733_thumb.jpg,false
-DELTA,BURUTU,,QUAZI  QAURTERS  - QUAZI   P/G,10/04/06/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29094/result_144817_1677702665_thumb.jpg,false
-DELTA,BURUTU,,AYAMA  -  ALABOR   P/G,10/04/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29093/result_144816_1677702594_thumb.jpg,false
-DELTA,BURUTU,,TAMBOBIRI  QUARTERS - TAMABOBIRI   P/G II,10/04/06/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29092/result_144815_1677702535_thumb.jpg,false
-DELTA,BURUTU,,TAMBOBIRI  QUARTERS - TAMABOBIRI   P/G I,10/04/06/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29091/result_144814_1677702456_thumb.jpg,false
-DELTA,BURUTU,,PEREGEDE  -  PEREGEDE   P/G,10/04/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29090/result_144813_1677702377_thumb.jpg,false
-DELTA,BURUTU,,"BOLOU-NDORO  -  PRIMARY  SCHOOL, HALL",10/04/06/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29089/result_144812_1677702288_thumb.jpg,false
+DELTA,BURUTU,BULOU - NDORO,EGRANGBENE  PRIMARY SCHOOL  HALL II,10/04/06/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+DELTA,BURUTU,BULOU - NDORO,EGRANGBENE  PRIMARY SCHOOL  HALL I,10/04/06/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29105/result_144828_1677704411_thumb.jpg,false
+DELTA,BURUTU,BULOU - NDORO,EBEBEREGBENE  -  TOWN  HALL,10/04/06/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29104/result_144827_1677704359_thumb.jpg,false
+DELTA,BURUTU,BULOU - NDORO,EBIUNA  -  TOWN  HALL,10/04/06/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29103/result_144826_1677704297_thumb.jpg,false
+DELTA,BURUTU,BULOU - NDORO,ORUGBENE  TOWN  HALL,10/04/06/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29102/result_144825_1677704221_thumb.jpg,false
+DELTA,BURUTU,BULOU - NDORO,"ORUGBENE  ZION - PRIMARY SCHOOL, HALL",10/04/06/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29101/result_144824_1677704139_thumb.jpg,false
+DELTA,BURUTU,BULOU - NDORO,ABADIAMA  -  ABADIAMA  PRIMARY  SCHOOL,10/04/06/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29100/result_144823_1677704091_thumb.jpg,false
+DELTA,BURUTU,BULOU - NDORO,MARKET  AREA  -  ASOBORE  P/G,10/04/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29099/result_144822_1677704028_thumb.jpg,false
+DELTA,BURUTU,BULOU - NDORO,DOWEI/OKUBO  -  EVA   P/G,10/04/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29098/result_144821_1677702958_thumb.jpg,false
+DELTA,BURUTU,BULOU - NDORO,LABOWARE/EKOGBENE  -  ESAMA   P/G,10/04/06/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29097/result_144820_1677702887_thumb.jpg,false
+DELTA,BURUTU,BULOU - NDORO,SIGEDE  QUARTERS  -  SIGEDE   P/G,10/04/06/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29096/result_144819_1677702795_thumb.jpg,false
+DELTA,BURUTU,BULOU - NDORO,KADULA  ZION  -  ZION  P/G,10/04/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29095/result_144818_1677702733_thumb.jpg,false
+DELTA,BURUTU,BULOU - NDORO,QUAZI  QAURTERS  - QUAZI   P/G,10/04/06/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29094/result_144817_1677702665_thumb.jpg,false
+DELTA,BURUTU,BULOU - NDORO,AYAMA  -  ALABOR   P/G,10/04/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29093/result_144816_1677702594_thumb.jpg,false
+DELTA,BURUTU,BULOU - NDORO,TAMBOBIRI  QUARTERS - TAMABOBIRI   P/G II,10/04/06/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29092/result_144815_1677702535_thumb.jpg,false
+DELTA,BURUTU,BULOU - NDORO,TAMBOBIRI  QUARTERS - TAMABOBIRI   P/G I,10/04/06/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29091/result_144814_1677702456_thumb.jpg,false
+DELTA,BURUTU,BULOU - NDORO,PEREGEDE  -  PEREGEDE   P/G,10/04/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29090/result_144813_1677702377_thumb.jpg,false
+DELTA,BURUTU,BULOU - NDORO,"BOLOU-NDORO  -  PRIMARY  SCHOOL, HALL",10/04/06/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29089/result_144812_1677702288_thumb.jpg,false

@@ -1,20 +1,20 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,ETHIOPE  WEST,,JOHN HOLT QUARTERS/UDUAKA PRIMARY SCHOOL,10/06/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29475/result_145320_1677660273_thumb.jpg,false
-DELTA,ETHIOPE  WEST,,APRRA QUARTERS/UHEREVIE PRIMARY SCHOOL,10/06/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29471/result_145316_1677499107_thumb.jpg,true
-DELTA,ETHIOPE  WEST,,APRRA QUARTERS II UHEREVIE P/S (SNR),10/06/09/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29480/result_145325_1677504415_thumb.jpg,true
-DELTA,ETHIOPE  WEST,,OREKI SECONDARY SCH. OGHARA,10/06/09/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629208/result_145328_1677505319_thumb.jpg,true
-DELTA,ETHIOPE  WEST,,OTUBU QUARTERS/UHEREVIE PRIMARY SCHOOL,10/06/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29472/result_145317_1677511519_thumb.jpg,true
-DELTA,ETHIOPE  WEST,,OVIE PALACE/UHEREVIE PRIMARY SCHOOL,10/06/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29469/result_145314_1677595251_thumb.jpg,false
-DELTA,ETHIOPE  WEST,,OFOTOKUN LANE/UDUAKA PRIMARY SCHOOL,10/06/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29476/result_145321_1677594566_thumb.jpg,false
-DELTA,ETHIOPE  WEST,,OREKI SECONDARY SCH. J.SS 3 BLOCK,10/06/09/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629209/result_145329_1677590661_thumb.jpg,false
-DELTA,ETHIOPE  WEST,,OREKI SECONDARY SCHOOL II,10/06/09/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-DELTA,ETHIOPE  WEST,,OGHAREKI TOWN/OGHAREKI T. HALL,10/06/09/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29479/result_145324_1677590413_thumb.jpg,false
-DELTA,ETHIOPE  WEST,,OGHAREKI TOWN HALL /OGHAREKI T.HALL,10/06/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29477/result_145322_1677592415_thumb.jpg,false
-DELTA,ETHIOPE  WEST,,"OPEN SPACE FRONT OF GENERAL HOSPITAL GATE, OGHARA",10/06/09/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629206/result_145326_1677591103_thumb.jpg,false
-DELTA,ETHIOPE  WEST,,UDUAKA PRI. SCH. OGHAREKI,10/06/09/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629212/result_145332_1677589922_thumb.jpg,false
-DELTA,ETHIOPE  WEST,,OMAFUVWE QUARTERS/AROUND MAMA M. OKOTIE COMPOUND,10/06/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29478/result_145323_1677591699_thumb.jpg,false
-DELTA,ETHIOPE  WEST,,OVIE SAWMILL ROAD/SAWMILL YARD,10/06/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19750/pu/29483/29483-1677500582.pdf,false
-DELTA,ETHIOPE  WEST,,IGBIMI DAKA QUARTERS/CHIEF IGHO'S COMP,10/06/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19750/pu/29484/29484-1677499898.pdf,false
-DELTA,ETHIOPE  WEST,,COMMUNITY ROAD/OVIE SAW MILL,10/06/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19750/pu/29480/29480-1677497109.pdf,false
-DELTA,ETHIOPE  WEST,,OREKI PRIMARY SCHOOL I,10/06/09/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19750/pu/136480/136480-1677489655.pdf,false
-DELTA,ETHIOPE  WEST,,"POST PRI. EDUCATION BOARD ZONAL OFFICE, OGHARA",10/06/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19750/pu/136477/136477-1677489621.pdf,false
+DELTA,ETHIOPE  WEST,OGHARA III,JOHN HOLT QUARTERS/UDUAKA PRIMARY SCHOOL,10/06/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29475/result_145320_1677660273_thumb.jpg,false
+DELTA,ETHIOPE  WEST,OGHARA III,APRRA QUARTERS/UHEREVIE PRIMARY SCHOOL,10/06/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29471/result_145316_1677499107_thumb.jpg,true
+DELTA,ETHIOPE  WEST,OGHARA III,APRRA QUARTERS II UHEREVIE P/S (SNR),10/06/09/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29480/result_145325_1677504415_thumb.jpg,true
+DELTA,ETHIOPE  WEST,OGHARA III,OREKI SECONDARY SCH. OGHARA,10/06/09/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629208/result_145328_1677505319_thumb.jpg,true
+DELTA,ETHIOPE  WEST,OGHARA III,OTUBU QUARTERS/UHEREVIE PRIMARY SCHOOL,10/06/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29472/result_145317_1677511519_thumb.jpg,true
+DELTA,ETHIOPE  WEST,OGHARA III,OVIE PALACE/UHEREVIE PRIMARY SCHOOL,10/06/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29469/result_145314_1677595251_thumb.jpg,false
+DELTA,ETHIOPE  WEST,OGHARA III,OFOTOKUN LANE/UDUAKA PRIMARY SCHOOL,10/06/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29476/result_145321_1677594566_thumb.jpg,false
+DELTA,ETHIOPE  WEST,OGHARA III,OREKI SECONDARY SCH. J.SS 3 BLOCK,10/06/09/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629209/result_145329_1677590661_thumb.jpg,false
+DELTA,ETHIOPE  WEST,OGHARA III,OREKI SECONDARY SCHOOL II,10/06/09/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+DELTA,ETHIOPE  WEST,OGHARA III,OGHAREKI TOWN/OGHAREKI T. HALL,10/06/09/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29479/result_145324_1677590413_thumb.jpg,false
+DELTA,ETHIOPE  WEST,OGHARA III,OGHAREKI TOWN HALL /OGHAREKI T.HALL,10/06/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29477/result_145322_1677592415_thumb.jpg,false
+DELTA,ETHIOPE  WEST,OGHARA III,"OPEN SPACE FRONT OF GENERAL HOSPITAL GATE, OGHARA",10/06/09/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629206/result_145326_1677591103_thumb.jpg,false
+DELTA,ETHIOPE  WEST,OGHARA III,UDUAKA PRI. SCH. OGHAREKI,10/06/09/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629212/result_145332_1677589922_thumb.jpg,false
+DELTA,ETHIOPE  WEST,OGHARA III,OMAFUVWE QUARTERS/AROUND MAMA M. OKOTIE COMPOUND,10/06/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29478/result_145323_1677591699_thumb.jpg,false
+DELTA,ETHIOPE  WEST,OGHARA III,OVIE SAWMILL ROAD/SAWMILL YARD,10/06/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19750/pu/29483/29483-1677500582.pdf,false
+DELTA,ETHIOPE  WEST,OGHARA III,IGBIMI DAKA QUARTERS/CHIEF IGHO'S COMP,10/06/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19750/pu/29484/29484-1677499898.pdf,false
+DELTA,ETHIOPE  WEST,OGHARA III,COMMUNITY ROAD/OVIE SAW MILL,10/06/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19750/pu/29480/29480-1677497109.pdf,false
+DELTA,ETHIOPE  WEST,OGHARA III,OREKI PRIMARY SCHOOL I,10/06/09/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19750/pu/136480/136480-1677489655.pdf,false
+DELTA,ETHIOPE  WEST,OGHARA III,"POST PRI. EDUCATION BOARD ZONAL OFFICE, OGHARA",10/06/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19750/pu/136477/136477-1677489621.pdf,false

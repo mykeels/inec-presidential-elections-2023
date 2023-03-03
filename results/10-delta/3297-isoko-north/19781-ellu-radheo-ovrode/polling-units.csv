@@ -1,24 +1,24 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,ISOKO NORTH,,OKPARA STREET HALL,10/09/03/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629353/result_145838_1677819418_thumb.jpg,false
-DELTA,ISOKO NORTH,,EWENSI STREET HALL,10/09/03/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629352/result_145837_1677819367_thumb.jpg,false
-DELTA,ISOKO NORTH,,"OPEN SPACE, ELO STREET JUNCTION",10/09/03/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629351/result_145836_1677819323_thumb.jpg,false
-DELTA,ISOKO NORTH,,AKAJE HALL,10/09/03/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629350/result_145835_1677819268_thumb.jpg,false
-DELTA,ISOKO NORTH,,"OPEN SPACE, OFAH/IMEDO",10/09/03/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629349/result_145834_1677819213_thumb.jpg,false
-DELTA,ISOKO NORTH,,EMO-ENI GRAMMAR SCHOOL,10/09/03/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629348/result_145833_1677819162_thumb.jpg,false
-DELTA,ISOKO NORTH,,"OPEN SPACE, URUEDE/ODHUKWE STREET",10/09/03/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629347/result_145832_1677819103_thumb.jpg,false
-DELTA,ISOKO NORTH,,"OPEN SPACE, EREH/EDHEMOKO JUNCTION",10/09/03/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629346/result_145831_1677819048_thumb.jpg,false
-DELTA,ISOKO NORTH,,OVIE STREET HALL,10/09/03/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629345/result_145830_1677818998_thumb.jpg,false
-DELTA,ISOKO NORTH,,"EPS OVRODE, USEH/ODHEGU, OVRODE",10/09/03/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29827/result_145829_1677818848_thumb.jpg,false
-DELTA,ISOKO NORTH,,"OVRODE TOWN HALL, OVRODE TOWN",10/09/03/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29826/result_145828_1677818795_thumb.jpg,false
-DELTA,ISOKO NORTH,,"EPS OVRODE, OWHE/OKPA STREET, OVRODE II",10/09/03/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29825/result_145827_1677818745_thumb.jpg,false
-DELTA,ISOKO NORTH,,"EPS OVRODE, OWHE/OKPA STREET, OVRODE I",10/09/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29824/result_145826_1677818687_thumb.jpg,false
-DELTA,ISOKO NORTH,,"OVRODE TOWN HALL, EVRO/OGU STREET, OVRODE",10/09/03/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29823/result_145825_1677818631_thumb.jpg,false
-DELTA,ISOKO NORTH,,"EDEGBU HALL, EDEGBU QUARTERS, ARADHE",10/09/03/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29822/result_145824_1677818571_thumb.jpg,false
-DELTA,ISOKO NORTH,,"ARADHE TOWN HALL, AKREKE STREET, ARADHE",10/09/03/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29821/result_145823_1677818512_thumb.jpg,false
-DELTA,ISOKO NORTH,,"ARADHE TOWN HALL, ARADHE",10/09/03/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29820/result_145822_1677818455_thumb.jpg,false
-DELTA,ISOKO NORTH,,"OSA HALL,  OSA/URUEN I/EMETA, ELLU",10/09/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29818/result_145820_1677818350_thumb.jpg,false
-DELTA,ISOKO NORTH,,"IDONI HALL, IDONI VILLAGE",10/09/03/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29819/result_145821_1677818399_thumb.jpg,false
-DELTA,ISOKO NORTH,,"EPS ELLU, OSA/URUEN I/EMETA, ELLU",10/09/03/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29817/result_145819_1677818295_thumb.jpg,false
-DELTA,ISOKO NORTH,,"EPS ELLU, OKPARA/OSA/URUME/OTEKPO, ELLU",10/09/03/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29816/result_145818_1677818246_thumb.jpg,false
-DELTA,ISOKO NORTH,,"TOWN HALL , OTEKPO, ELLU",10/09/03/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29815/result_145817_1677818193_thumb.jpg,false
-DELTA,ISOKO NORTH,,"AKALUBA HALL, AKALUBA/OVIE/OKPARA, ELLU",10/09/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29814/result_145816_1677818121_thumb.jpg,false
+DELTA,ISOKO NORTH,ELLU/RADHEO/OVRODE,OKPARA STREET HALL,10/09/03/023,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629353/result_145838_1677819418_thumb.jpg,false
+DELTA,ISOKO NORTH,ELLU/RADHEO/OVRODE,EWENSI STREET HALL,10/09/03/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629352/result_145837_1677819367_thumb.jpg,false
+DELTA,ISOKO NORTH,ELLU/RADHEO/OVRODE,"OPEN SPACE, ELO STREET JUNCTION",10/09/03/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629351/result_145836_1677819323_thumb.jpg,false
+DELTA,ISOKO NORTH,ELLU/RADHEO/OVRODE,AKAJE HALL,10/09/03/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629350/result_145835_1677819268_thumb.jpg,false
+DELTA,ISOKO NORTH,ELLU/RADHEO/OVRODE,"OPEN SPACE, OFAH/IMEDO",10/09/03/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629349/result_145834_1677819213_thumb.jpg,false
+DELTA,ISOKO NORTH,ELLU/RADHEO/OVRODE,EMO-ENI GRAMMAR SCHOOL,10/09/03/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629348/result_145833_1677819162_thumb.jpg,false
+DELTA,ISOKO NORTH,ELLU/RADHEO/OVRODE,"OPEN SPACE, URUEDE/ODHUKWE STREET",10/09/03/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629347/result_145832_1677819103_thumb.jpg,false
+DELTA,ISOKO NORTH,ELLU/RADHEO/OVRODE,"OPEN SPACE, EREH/EDHEMOKO JUNCTION",10/09/03/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629346/result_145831_1677819048_thumb.jpg,false
+DELTA,ISOKO NORTH,ELLU/RADHEO/OVRODE,OVIE STREET HALL,10/09/03/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629345/result_145830_1677818998_thumb.jpg,false
+DELTA,ISOKO NORTH,ELLU/RADHEO/OVRODE,"EPS OVRODE, USEH/ODHEGU, OVRODE",10/09/03/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29827/result_145829_1677818848_thumb.jpg,false
+DELTA,ISOKO NORTH,ELLU/RADHEO/OVRODE,"OVRODE TOWN HALL, OVRODE TOWN",10/09/03/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29826/result_145828_1677818795_thumb.jpg,false
+DELTA,ISOKO NORTH,ELLU/RADHEO/OVRODE,"EPS OVRODE, OWHE/OKPA STREET, OVRODE II",10/09/03/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29825/result_145827_1677818745_thumb.jpg,false
+DELTA,ISOKO NORTH,ELLU/RADHEO/OVRODE,"EPS OVRODE, OWHE/OKPA STREET, OVRODE I",10/09/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29824/result_145826_1677818687_thumb.jpg,false
+DELTA,ISOKO NORTH,ELLU/RADHEO/OVRODE,"OVRODE TOWN HALL, EVRO/OGU STREET, OVRODE",10/09/03/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29823/result_145825_1677818631_thumb.jpg,false
+DELTA,ISOKO NORTH,ELLU/RADHEO/OVRODE,"EDEGBU HALL, EDEGBU QUARTERS, ARADHE",10/09/03/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29822/result_145824_1677818571_thumb.jpg,false
+DELTA,ISOKO NORTH,ELLU/RADHEO/OVRODE,"ARADHE TOWN HALL, AKREKE STREET, ARADHE",10/09/03/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29821/result_145823_1677818512_thumb.jpg,false
+DELTA,ISOKO NORTH,ELLU/RADHEO/OVRODE,"ARADHE TOWN HALL, ARADHE",10/09/03/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29820/result_145822_1677818455_thumb.jpg,false
+DELTA,ISOKO NORTH,ELLU/RADHEO/OVRODE,"OSA HALL,  OSA/URUEN I/EMETA, ELLU",10/09/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29818/result_145820_1677818350_thumb.jpg,false
+DELTA,ISOKO NORTH,ELLU/RADHEO/OVRODE,"IDONI HALL, IDONI VILLAGE",10/09/03/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29819/result_145821_1677818399_thumb.jpg,false
+DELTA,ISOKO NORTH,ELLU/RADHEO/OVRODE,"EPS ELLU, OSA/URUEN I/EMETA, ELLU",10/09/03/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29817/result_145819_1677818295_thumb.jpg,false
+DELTA,ISOKO NORTH,ELLU/RADHEO/OVRODE,"EPS ELLU, OKPARA/OSA/URUME/OTEKPO, ELLU",10/09/03/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29816/result_145818_1677818246_thumb.jpg,false
+DELTA,ISOKO NORTH,ELLU/RADHEO/OVRODE,"TOWN HALL , OTEKPO, ELLU",10/09/03/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29815/result_145817_1677818193_thumb.jpg,false
+DELTA,ISOKO NORTH,ELLU/RADHEO/OVRODE,"AKALUBA HALL, AKALUBA/OVIE/OKPARA, ELLU",10/09/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29814/result_145816_1677818121_thumb.jpg,false

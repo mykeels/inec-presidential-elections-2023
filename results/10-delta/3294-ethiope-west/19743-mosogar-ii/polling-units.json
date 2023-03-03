@@ -26,6 +26,7 @@
     "pu_code_string": "100602008",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  WEST",
+    "ward_name": "MOSOGAR II",
     "document": {
       "external": true,
       "status": 1,
@@ -81,6 +82,7 @@
     "pu_code_string": "100602012",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  WEST",
+    "ward_name": "MOSOGAR II",
     "document": {
       "external": true,
       "status": 1,
@@ -136,6 +138,7 @@
     "pu_code_string": "100602013",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  WEST",
+    "ward_name": "MOSOGAR II",
     "document": {
       "external": true,
       "status": 1,
@@ -191,6 +194,7 @@
     "pu_code_string": "100602006",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  WEST",
+    "ward_name": "MOSOGAR II",
     "document": {
       "external": true,
       "status": 1,
@@ -262,6 +266,7 @@
     "pu_code_string": "100602009",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  WEST",
+    "ward_name": "MOSOGAR II",
     "document": {
       "external": true,
       "status": 1,
@@ -333,6 +338,7 @@
     "pu_code_string": "100602011",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  WEST",
+    "ward_name": "MOSOGAR II",
     "document": {
       "external": true,
       "status": 1,
@@ -371,6 +377,7 @@
     "pu_code_string": "100602001",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  WEST",
+    "ward_name": "MOSOGAR II",
     "document": {
       "external": true,
       "status": 1,
@@ -409,6 +416,7 @@
     "pu_code_string": "100602010",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  WEST",
+    "ward_name": "MOSOGAR II",
     "document": {
       "external": false,
       "status": 1,
@@ -447,6 +455,7 @@
     "pu_code_string": "100602003",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  WEST",
+    "ward_name": "MOSOGAR II",
     "document": {
       "external": false,
       "status": 1,
@@ -485,6 +494,7 @@
     "pu_code_string": "100602002",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  WEST",
+    "ward_name": "MOSOGAR II",
     "document": {
       "external": false,
       "status": 1,
@@ -523,6 +533,7 @@
     "pu_code_string": "100602004",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  WEST",
+    "ward_name": "MOSOGAR II",
     "document": {
       "external": false,
       "status": 1,
@@ -561,6 +572,7 @@
     "pu_code_string": "100602005",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  WEST",
+    "ward_name": "MOSOGAR II",
     "document": {
       "external": false,
       "status": 1,
@@ -599,6 +611,7 @@
     "pu_code_string": "100602007",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  WEST",
+    "ward_name": "MOSOGAR II",
     "document": {
       "external": false,
       "status": 1,

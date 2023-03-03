@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,ANIOCHA - SOUTH,,"EJEME SECONDARY SCHOOL, EJEME ANIOGOR",10/02/08/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/013/013-1677422664.pdf,false
-DELTA,ANIOCHA - SOUTH,,HEALTH CENTER OGBE-OBI EJEME,10/02/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/011/011-1677422253.pdf,false
-DELTA,ANIOCHA - SOUTH,,EJEME ANIOGOR TOWN HALL,10/02/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/012/012-1677421708.pdf,false
-DELTA,ANIOCHA - SOUTH,,"OBI EGBUDU PRIMARY SCHOOL, ANIEFUNE",10/02/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/010/010-1677421001.pdf,false
-DELTA,ANIOCHA - SOUTH,,"ILLOH PRIMARY SCHOOL, OLENE ALUNELIE",10/02/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/009/009-1677420590.pdf,false
-DELTA,ANIOCHA - SOUTH,,"ILLOH PRIMARY SCHOOL, OGBE-OBI/AKWU QUARTERS II",10/02/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/008/008-1677419773.pdf,false
-DELTA,ANIOCHA - SOUTH,,"ADOFI PRIMARY SCHOOL, UMUOKPALE II",10/02/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/006/006-1677418190.pdf,false
-DELTA,ANIOCHA - SOUTH,,"ADOFI PRIMARY SCHOOL, UMUOKPALE I",10/02/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/005/005-1677417530.pdf,false
-DELTA,ANIOCHA - SOUTH,,"DUGBO PRIMARY SCHOOL, OBI DUGBO",10/02/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/004/004-1677417186.pdf,false
-DELTA,ANIOCHA - SOUTH,,"ILLOH PRIMARY SCHOOL, OGBE-OBI/AKWU QUARTERS I",10/02/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/007/007-1677417005.pdf,false
-DELTA,ANIOCHA - SOUTH,,"ANIOGOR PRIMARY SCHOOL, UMUJEME II",10/02/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/002/002-1677416761.pdf,false
-DELTA,ANIOCHA - SOUTH,,"ANIOGOR PRIMARY SCHOOL, UMUJEME I",10/02/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/001/001-1677415967.pdf,false
-DELTA,ANIOCHA - SOUTH,,"ANIOGOR PRIMARY SCHOOL, UMUJEME III",10/02/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/003/003-1677415243.pdf,false
+DELTA,ANIOCHA - SOUTH,EJEME,"EJEME SECONDARY SCHOOL, EJEME ANIOGOR",10/02/08/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/013/013-1677422664.pdf,false
+DELTA,ANIOCHA - SOUTH,EJEME,HEALTH CENTER OGBE-OBI EJEME,10/02/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/011/011-1677422253.pdf,false
+DELTA,ANIOCHA - SOUTH,EJEME,EJEME ANIOGOR TOWN HALL,10/02/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/012/012-1677421708.pdf,false
+DELTA,ANIOCHA - SOUTH,EJEME,"OBI EGBUDU PRIMARY SCHOOL, ANIEFUNE",10/02/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/010/010-1677421001.pdf,false
+DELTA,ANIOCHA - SOUTH,EJEME,"ILLOH PRIMARY SCHOOL, OLENE ALUNELIE",10/02/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/009/009-1677420590.pdf,false
+DELTA,ANIOCHA - SOUTH,EJEME,"ILLOH PRIMARY SCHOOL, OGBE-OBI/AKWU QUARTERS II",10/02/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/008/008-1677419773.pdf,false
+DELTA,ANIOCHA - SOUTH,EJEME,"ADOFI PRIMARY SCHOOL, UMUOKPALE II",10/02/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/006/006-1677418190.pdf,false
+DELTA,ANIOCHA - SOUTH,EJEME,"ADOFI PRIMARY SCHOOL, UMUOKPALE I",10/02/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/005/005-1677417530.pdf,false
+DELTA,ANIOCHA - SOUTH,EJEME,"DUGBO PRIMARY SCHOOL, OBI DUGBO",10/02/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/004/004-1677417186.pdf,false
+DELTA,ANIOCHA - SOUTH,EJEME,"ILLOH PRIMARY SCHOOL, OGBE-OBI/AKWU QUARTERS I",10/02/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/007/007-1677417005.pdf,false
+DELTA,ANIOCHA - SOUTH,EJEME,"ANIOGOR PRIMARY SCHOOL, UMUJEME II",10/02/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/002/002-1677416761.pdf,false
+DELTA,ANIOCHA - SOUTH,EJEME,"ANIOGOR PRIMARY SCHOOL, UMUJEME I",10/02/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/001/001-1677415967.pdf,false
+DELTA,ANIOCHA - SOUTH,EJEME,"ANIOGOR PRIMARY SCHOOL, UMUJEME III",10/02/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/08/pu/003/003-1677415243.pdf,false

@@ -26,6 +26,7 @@
     "pu_code_string": "100611008",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  WEST",
+    "ward_name": "OGHARA V",
     "document": {
       "external": true,
       "status": 1,
@@ -73,6 +74,7 @@
     "pu_code_string": "100611002",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  WEST",
+    "ward_name": "OGHARA V",
     "document": {
       "external": true,
       "status": 1,
@@ -120,6 +122,7 @@
     "pu_code_string": "100611009",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  WEST",
+    "ward_name": "OGHARA V",
     "document": {
       "external": true,
       "status": 1,
@@ -167,6 +170,7 @@
     "pu_code_string": "100611012",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  WEST",
+    "ward_name": "OGHARA V",
     "document": {
       "external": true,
       "status": 1,
@@ -214,6 +218,7 @@
     "pu_code_string": "100611015",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  WEST",
+    "ward_name": "OGHARA V",
     "document": {
       "external": true,
       "status": 1,
@@ -252,6 +257,7 @@
     "pu_code_string": "100611010",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  WEST",
+    "ward_name": "OGHARA V",
     "document": {
       "external": true,
       "status": 1,
@@ -290,6 +296,7 @@
     "pu_code_string": "100611007",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  WEST",
+    "ward_name": "OGHARA V",
     "document": {
       "external": false,
       "status": 1,
@@ -328,6 +335,7 @@
     "pu_code_string": "100611014",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  WEST",
+    "ward_name": "OGHARA V",
     "document": {
       "external": false,
       "status": 1,
@@ -366,6 +374,7 @@
     "pu_code_string": "100611001",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  WEST",
+    "ward_name": "OGHARA V",
     "document": {
       "external": false,
       "status": 1,
@@ -404,6 +413,7 @@
     "pu_code_string": "100611003",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  WEST",
+    "ward_name": "OGHARA V",
     "document": {
       "external": false,
       "status": 1,
@@ -442,6 +452,7 @@
     "pu_code_string": "100611006",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  WEST",
+    "ward_name": "OGHARA V",
     "document": {
       "external": false,
       "status": 1,
@@ -480,6 +491,7 @@
     "pu_code_string": "100611004",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  WEST",
+    "ward_name": "OGHARA V",
     "document": {
       "external": false,
       "status": 1,
@@ -518,6 +530,7 @@
     "pu_code_string": "100611013",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  WEST",
+    "ward_name": "OGHARA V",
     "document": {
       "external": false,
       "status": 1,
@@ -556,6 +569,7 @@
     "pu_code_string": "100611005",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  WEST",
+    "ward_name": "OGHARA V",
     "document": {
       "external": false,
       "status": 1,
@@ -594,6 +608,7 @@
     "pu_code_string": "100611011",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  WEST",
+    "ward_name": "OGHARA V",
     "document": {
       "external": false,
       "status": 1,
@@ -632,6 +647,7 @@
     "pu_code_string": "100611016",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  WEST",
+    "ward_name": "OGHARA V",
     "document": {
       "external": false,
       "status": 1,

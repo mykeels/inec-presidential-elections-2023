@@ -1,15 +1,15 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,ANIOCHA NORTH,,KANIDILIMA P/S - OGBE ISSE,10/01/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19689/pu/28662/28662-1677454816.pdf,false
-DELTA,ANIOCHA NORTH,,OFUOKWU P/S - OGBE AGIDI I,10/01/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19689/pu/28667/28667-1677453172.pdf,false
-DELTA,ANIOCHA NORTH,,"COMPREHENSIVE SEC SCH OGBE ISSE, ONICHA-UKU",10/01/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19689/pu/136145/136145-1677452719.pdf,false
-DELTA,ANIOCHA NORTH,,"PRY HEALTH CARE ISHIEKPE QTRS, ONICHA-UKU",10/01/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19689/pu/136144/136144-1677452234.pdf,false
-DELTA,ANIOCHA NORTH,,KANIDILIMA P/S - ISHIEKPE QUARTERS,10/01/01/001,https://docs.inecelectionresults.net/elections/1292/1677451358-28660.pdf,false
-DELTA,ANIOCHA NORTH,,"UKPALI PRY SCH IDUMU OZEI III, OBIOR",10/01/01/014,https://docs.inecelectionresults.net/elections/1292/1677450750-136147.pdf,false
-DELTA,ANIOCHA NORTH,,"UKPALI PRY SCH OGBE UTU QTRS III, OBIOR",10/01/01/013,https://docs.inecelectionresults.net/elections/1292/1677450221-136146.pdf,false
-DELTA,ANIOCHA NORTH,,UKPALI P/S - IDUMU OZEI II,10/01/01/007,https://docs.inecelectionresults.net/elections/1292/1677449676-28666.pdf,false
-DELTA,ANIOCHA NORTH,,UKPALI P/S - OGBE UTU QUARTERS II,10/01/01/005,https://docs.inecelectionresults.net/elections/1292/1677449232-28664.pdf,false
-DELTA,ANIOCHA NORTH,,OFUOKWU P/S - OGBE AGIDI II,10/01/01/009,https://docs.inecelectionresults.net/elections/1292/1677448572-28668.pdf,false
-DELTA,ANIOCHA NORTH,,UKPALI P/S - IDUMU OZEI I,10/01/01/006,https://docs.inecelectionresults.net/elections/1292/1677448005-28665.pdf,false
-DELTA,ANIOCHA NORTH,,UKPALI P/S - OGBE UTU QUARTERS I,10/01/01/004,https://docs.inecelectionresults.net/elections/1292/1677447254-28663.pdf,false
-DELTA,ANIOCHA NORTH,,"OPEN SPACE UNDER MANGO TREE  BY IYASE PALACE, ONICHA-UKU",10/01/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/01/pu/010/010-1677370445.pdf,false
-DELTA,ANIOCHA NORTH,,KANIDILIMA P/S - OGBE AKWU,10/01/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/01/pu/002/002-1677358913.pdf,false
+DELTA,ANIOCHA NORTH,OBIOR,KANIDILIMA P/S - OGBE ISSE,10/01/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19689/pu/28662/28662-1677454816.pdf,false
+DELTA,ANIOCHA NORTH,OBIOR,OFUOKWU P/S - OGBE AGIDI I,10/01/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19689/pu/28667/28667-1677453172.pdf,false
+DELTA,ANIOCHA NORTH,OBIOR,"COMPREHENSIVE SEC SCH OGBE ISSE, ONICHA-UKU",10/01/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19689/pu/136145/136145-1677452719.pdf,false
+DELTA,ANIOCHA NORTH,OBIOR,"PRY HEALTH CARE ISHIEKPE QTRS, ONICHA-UKU",10/01/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19689/pu/136144/136144-1677452234.pdf,false
+DELTA,ANIOCHA NORTH,OBIOR,KANIDILIMA P/S - ISHIEKPE QUARTERS,10/01/01/001,https://docs.inecelectionresults.net/elections/1292/1677451358-28660.pdf,false
+DELTA,ANIOCHA NORTH,OBIOR,"UKPALI PRY SCH IDUMU OZEI III, OBIOR",10/01/01/014,https://docs.inecelectionresults.net/elections/1292/1677450750-136147.pdf,false
+DELTA,ANIOCHA NORTH,OBIOR,"UKPALI PRY SCH OGBE UTU QTRS III, OBIOR",10/01/01/013,https://docs.inecelectionresults.net/elections/1292/1677450221-136146.pdf,false
+DELTA,ANIOCHA NORTH,OBIOR,UKPALI P/S - IDUMU OZEI II,10/01/01/007,https://docs.inecelectionresults.net/elections/1292/1677449676-28666.pdf,false
+DELTA,ANIOCHA NORTH,OBIOR,UKPALI P/S - OGBE UTU QUARTERS II,10/01/01/005,https://docs.inecelectionresults.net/elections/1292/1677449232-28664.pdf,false
+DELTA,ANIOCHA NORTH,OBIOR,OFUOKWU P/S - OGBE AGIDI II,10/01/01/009,https://docs.inecelectionresults.net/elections/1292/1677448572-28668.pdf,false
+DELTA,ANIOCHA NORTH,OBIOR,UKPALI P/S - IDUMU OZEI I,10/01/01/006,https://docs.inecelectionresults.net/elections/1292/1677448005-28665.pdf,false
+DELTA,ANIOCHA NORTH,OBIOR,UKPALI P/S - OGBE UTU QUARTERS I,10/01/01/004,https://docs.inecelectionresults.net/elections/1292/1677447254-28663.pdf,false
+DELTA,ANIOCHA NORTH,OBIOR,"OPEN SPACE UNDER MANGO TREE  BY IYASE PALACE, ONICHA-UKU",10/01/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/01/pu/010/010-1677370445.pdf,false
+DELTA,ANIOCHA NORTH,OBIOR,KANIDILIMA P/S - OGBE AKWU,10/01/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/01/pu/002/002-1677358913.pdf,false

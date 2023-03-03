@@ -1,15 +1,15 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,NDOKWA EAST,,"ISELEGU PRIMARY SCHOOL, ISELEGU, ISELEGU",10/11/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30141/result_146312_1677507579_thumb.jpg,true
-DELTA,NDOKWA EAST,,OBIOGWA OBETIM - OBETIM,10/11/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3299/ward/19804/pu/136806/136806-1677570250.pdf,true
-DELTA,NDOKWA EAST,,ETIM - UKU PRIMARY SCHOOL,10/11/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3299/ward/19804/pu/136805/136805-1677568785.pdf,true
-DELTA,NDOKWA EAST,,"ETITI PRIMARY SCHOOL, AFOR, UMUACHI AFOR",10/11/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3299/ward/19804/pu/30147/30147-1677567928.pdf,true
-DELTA,NDOKWA EAST,,"AMENYI PRIMARY SCHOOL, OBIKWELE II",10/11/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3299/ward/19804/pu/30154/30154-1677523128.pdf,false
-DELTA,NDOKWA EAST,,"UMUACHI PRIMARY SCHOOL, UMUACHI",10/11/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3299/ward/19804/pu/136804/136804-1677519570.pdf,false
-DELTA,NDOKWA EAST,,"OGBODIGBO PRIMARY SCHOOL, OGBODIGBO",10/11/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3299/ward/19804/pu/30148/30148-1677519045.pdf,false
-DELTA,NDOKWA EAST,,"OGBETITI TOWN HALL, OGBETITI AFOR",10/11/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3299/ward/19804/pu/136802/136802-1677516966.pdf,false
-DELTA,NDOKWA EAST,,"AMENYI PRIMARY SCHOOL,  OBIKWELE I",10/11/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3299/ward/19804/pu/30153/30153-1677515179.pdf,false
-DELTA,NDOKWA EAST,,"OKOLORI PRIMARY SCHOOL, OKOLORI, OKOLORI/UMUACHI - OGO",10/11/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3299/ward/19804/pu/30149/30149-1677515086.pdf,false
-DELTA,NDOKWA EAST,,"ISELEGU PRIMARY SCHOOL, UMUACHI-OGO, ISELEGU",10/11/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3299/ward/19804/pu/30150/30150-1677510879.pdf,false
-DELTA,NDOKWA EAST,,"OBETIM SECONDARY SCHOOL, CHUKWUMA/ANUAMA/OGWECHI/UDEMA CAMP",10/11/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3299/ward/19804/pu/136807/136807-1677509992.pdf,false
-DELTA,NDOKWA EAST,,OBIOGWA UMUOKPALA,10/11/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/02/pu/006/006-1677367028.pdf,false
-DELTA,NDOKWA EAST,,"OGBEDIGBO TOWN HALL, OGBEDIGBO",10/11/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/02/pu/010/010-1677365884.pdf,false
+DELTA,NDOKWA EAST,AFOR/OBIKWELE,"ISELEGU PRIMARY SCHOOL, ISELEGU, ISELEGU",10/11/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30141/result_146312_1677507579_thumb.jpg,true
+DELTA,NDOKWA EAST,AFOR/OBIKWELE,OBIOGWA OBETIM - OBETIM,10/11/02/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3299/ward/19804/pu/136806/136806-1677570250.pdf,true
+DELTA,NDOKWA EAST,AFOR/OBIKWELE,ETIM - UKU PRIMARY SCHOOL,10/11/02/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3299/ward/19804/pu/136805/136805-1677568785.pdf,true
+DELTA,NDOKWA EAST,AFOR/OBIKWELE,"ETITI PRIMARY SCHOOL, AFOR, UMUACHI AFOR",10/11/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3299/ward/19804/pu/30147/30147-1677567928.pdf,true
+DELTA,NDOKWA EAST,AFOR/OBIKWELE,"AMENYI PRIMARY SCHOOL, OBIKWELE II",10/11/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3299/ward/19804/pu/30154/30154-1677523128.pdf,false
+DELTA,NDOKWA EAST,AFOR/OBIKWELE,"UMUACHI PRIMARY SCHOOL, UMUACHI",10/11/02/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3299/ward/19804/pu/136804/136804-1677519570.pdf,false
+DELTA,NDOKWA EAST,AFOR/OBIKWELE,"OGBODIGBO PRIMARY SCHOOL, OGBODIGBO",10/11/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3299/ward/19804/pu/30148/30148-1677519045.pdf,false
+DELTA,NDOKWA EAST,AFOR/OBIKWELE,"OGBETITI TOWN HALL, OGBETITI AFOR",10/11/02/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3299/ward/19804/pu/136802/136802-1677516966.pdf,false
+DELTA,NDOKWA EAST,AFOR/OBIKWELE,"AMENYI PRIMARY SCHOOL,  OBIKWELE I",10/11/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3299/ward/19804/pu/30153/30153-1677515179.pdf,false
+DELTA,NDOKWA EAST,AFOR/OBIKWELE,"OKOLORI PRIMARY SCHOOL, OKOLORI, OKOLORI/UMUACHI - OGO",10/11/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3299/ward/19804/pu/30149/30149-1677515086.pdf,false
+DELTA,NDOKWA EAST,AFOR/OBIKWELE,"ISELEGU PRIMARY SCHOOL, UMUACHI-OGO, ISELEGU",10/11/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3299/ward/19804/pu/30150/30150-1677510879.pdf,false
+DELTA,NDOKWA EAST,AFOR/OBIKWELE,"OBETIM SECONDARY SCHOOL, CHUKWUMA/ANUAMA/OGWECHI/UDEMA CAMP",10/11/02/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3299/ward/19804/pu/136807/136807-1677509992.pdf,false
+DELTA,NDOKWA EAST,AFOR/OBIKWELE,OBIOGWA UMUOKPALA,10/11/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/02/pu/006/006-1677367028.pdf,false
+DELTA,NDOKWA EAST,AFOR/OBIKWELE,"OGBEDIGBO TOWN HALL, OGBEDIGBO",10/11/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/11/ward/02/pu/010/010-1677365884.pdf,false

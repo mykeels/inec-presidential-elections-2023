@@ -1,22 +1,22 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,BURUTU,,AMANADUMU III & IV - TIMIYO  P/G,10/04/01/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29001/result_144717_1677694277_thumb.jpg,false
-DELTA,BURUTU,,AMANADUMU III & IV - TIMIYO  P/G,10/04/01/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29000/result_144716_1677694229_thumb.jpg,false
-DELTA,BURUTU,,AKWARE VII - OROROGHA   P/G,10/04/01/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28999/result_144715_1677694159_thumb.jpg,false
-DELTA,BURUTU,,AKWARE V & VI - OROROGHA   P/G,10/04/01/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28998/result_144714_1677694102_thumb.jpg,false
-DELTA,BURUTU,,AKWARE IV - FOUKONOU  P/G,10/04/01/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28997/result_144713_1677694054_thumb.jpg,false
-DELTA,BURUTU,,AKWAWARE III   - FOUKONOUP    P/G,10/04/01/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28996/result_144712_1677694005_thumb.jpg,false
-DELTA,BURUTU,,AKWAWARE II  - DEDI    P/G,10/04/01/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28995/result_144711_1677693936_thumb.jpg,false
-DELTA,BURUTU,,AKWAWARE I - AGUBELON P/G,10/04/01/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28994/result_144710_1677693869_thumb.jpg,false
-DELTA,BURUTU,,PEACE ZION - ZION P/G,10/04/01/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28993/result_144709_1677693817_thumb.jpg,false
-DELTA,BURUTU,,MARKET - EFEFAWAREOWE  P/G,10/04/01/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28992/result_144708_1677693768_thumb.jpg,false
-DELTA,BURUTU,,DOUEBIOGBO  -  DOUEBIOGBO P/G,10/04/01/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28991/result_144707_1677693690_thumb.jpg,false
-DELTA,BURUTU,,AZUAWARE IV  - AMADIYE    P/G,10/04/01/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28990/result_144706_1677693644_thumb.jpg,false
-DELTA,BURUTU,,AZUAWARE III  - ESERIFA   P/G,10/04/01/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28989/result_144705_1677693591_thumb.jpg,false
-DELTA,BURUTU,,AZUAWARE I - AZUAWARE REST HOUSE,10/04/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28987/result_144703_1677693485_thumb.jpg,false
-DELTA,BURUTU,,AZUAWARE II - IKOROYE P/G,10/04/01/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28988/result_144704_1677693540_thumb.jpg,false
-DELTA,BURUTU,,KOROWARE  IV   - KOROWARE   P/G,10/04/01/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28986/result_144702_1677693441_thumb.jpg,false
-DELTA,BURUTU,,KOROWARE  III  - TAMARAU   P/G,10/04/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28985/result_144701_1677693381_thumb.jpg,false
-DELTA,BURUTU,,KOROWARE  II  - OMORUMO  P/G,10/04/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28984/result_144700_1677693312_thumb.jpg,false
-DELTA,BURUTU,,"KOROWARE  I - PRIMARY SCHOOL, HALL",10/04/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28983/result_144699_1677693212_thumb.jpg,false
-DELTA,BURUTU,,AMANADUMU  II - ZIOKE  P/G,10/04/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28982/result_144698_1677693161_thumb.jpg,false
-DELTA,BURUTU,,AMANADUMU  I  - GOVERNMENT DISPENSARY,10/04/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28981/result_144697_1677693099_thumb.jpg,false
+DELTA,BURUTU,TORUGBENE,AMANADUMU III & IV - TIMIYO  P/G,10/04/01/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29001/result_144717_1677694277_thumb.jpg,false
+DELTA,BURUTU,TORUGBENE,AMANADUMU III & IV - TIMIYO  P/G,10/04/01/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29000/result_144716_1677694229_thumb.jpg,false
+DELTA,BURUTU,TORUGBENE,AKWARE VII - OROROGHA   P/G,10/04/01/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28999/result_144715_1677694159_thumb.jpg,false
+DELTA,BURUTU,TORUGBENE,AKWARE V & VI - OROROGHA   P/G,10/04/01/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28998/result_144714_1677694102_thumb.jpg,false
+DELTA,BURUTU,TORUGBENE,AKWARE IV - FOUKONOU  P/G,10/04/01/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28997/result_144713_1677694054_thumb.jpg,false
+DELTA,BURUTU,TORUGBENE,AKWAWARE III   - FOUKONOUP    P/G,10/04/01/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28996/result_144712_1677694005_thumb.jpg,false
+DELTA,BURUTU,TORUGBENE,AKWAWARE II  - DEDI    P/G,10/04/01/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28995/result_144711_1677693936_thumb.jpg,false
+DELTA,BURUTU,TORUGBENE,AKWAWARE I - AGUBELON P/G,10/04/01/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28994/result_144710_1677693869_thumb.jpg,false
+DELTA,BURUTU,TORUGBENE,PEACE ZION - ZION P/G,10/04/01/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28993/result_144709_1677693817_thumb.jpg,false
+DELTA,BURUTU,TORUGBENE,MARKET - EFEFAWAREOWE  P/G,10/04/01/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28992/result_144708_1677693768_thumb.jpg,false
+DELTA,BURUTU,TORUGBENE,DOUEBIOGBO  -  DOUEBIOGBO P/G,10/04/01/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28991/result_144707_1677693690_thumb.jpg,false
+DELTA,BURUTU,TORUGBENE,AZUAWARE IV  - AMADIYE    P/G,10/04/01/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28990/result_144706_1677693644_thumb.jpg,false
+DELTA,BURUTU,TORUGBENE,AZUAWARE III  - ESERIFA   P/G,10/04/01/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28989/result_144705_1677693591_thumb.jpg,false
+DELTA,BURUTU,TORUGBENE,AZUAWARE I - AZUAWARE REST HOUSE,10/04/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28987/result_144703_1677693485_thumb.jpg,false
+DELTA,BURUTU,TORUGBENE,AZUAWARE II - IKOROYE P/G,10/04/01/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28988/result_144704_1677693540_thumb.jpg,false
+DELTA,BURUTU,TORUGBENE,KOROWARE  IV   - KOROWARE   P/G,10/04/01/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28986/result_144702_1677693441_thumb.jpg,false
+DELTA,BURUTU,TORUGBENE,KOROWARE  III  - TAMARAU   P/G,10/04/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28985/result_144701_1677693381_thumb.jpg,false
+DELTA,BURUTU,TORUGBENE,KOROWARE  II  - OMORUMO  P/G,10/04/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28984/result_144700_1677693312_thumb.jpg,false
+DELTA,BURUTU,TORUGBENE,"KOROWARE  I - PRIMARY SCHOOL, HALL",10/04/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28983/result_144699_1677693212_thumb.jpg,false
+DELTA,BURUTU,TORUGBENE,AMANADUMU  II - ZIOKE  P/G,10/04/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28982/result_144698_1677693161_thumb.jpg,false
+DELTA,BURUTU,TORUGBENE,AMANADUMU  I  - GOVERNMENT DISPENSARY,10/04/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28981/result_144697_1677693099_thumb.jpg,false

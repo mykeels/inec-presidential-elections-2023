@@ -1,18 +1,18 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,ANIOCHA - SOUTH,,"EBITEH PRIMARY SCHOOL, ISAH OGWASHI",10/02/01/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28758/result_144326_1677505006_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,"AZAGBA JUNCTION SQUARE, AZAGBA JUNCTION",10/02/01/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28756/result_144324_1677504648_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,"OMEZI PRIMARY SCHOOL, OLLOH",10/02/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28753/result_144321_1677504338_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,"OLLODU PRIMARY SCHOOL, OLLODU",10/02/01/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28752/result_144320_1677504242_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,"ISIANWAI PRIMARY SCHOOL, ISIANWAI/UZO EDO I",10/02/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28749/result_144317_1677503742_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,"UMUOKWE PRIMARY SCHOOL, ABOH OGWASHI",10/02/01/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28759/result_144327_1677505113_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,"ISIENUGU PRIMARY SCHOOL, OTULU-ISIENUGWU/IDUMU - ETITI II",10/02/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28748/result_144316_1677503258_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,"OMEZI PRIMARY SCHOOL, OLLOH CAMPS",10/02/01/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28754/result_144322_1677504442_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,OBIUWAJE NEW SQUARE,10/02/01/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/628971/result_144328_1677505230_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,AZAGBA TOWN HALL,10/02/01/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/628972/result_144329_1677505366_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,"ISIANWAI PRIMARY SCHOOL, ISIANWAI/UZO EDO II",10/02/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28750/result_144318_1677503861_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,"ABOH MARKET SQUARE, ABOH OGWASHI",10/02/01/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/628974/result_144331_1677505546_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,"ISIENUGU PRIMARY SCHOOL, OTULU-ISIENUGWU/IDUMU - ETITI I",10/02/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28747/result_144315_1677502975_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,"ASHINZE PRIMARY SCHOOL, AZAGBA OGWASHI/UMUJEA",10/02/01/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28755/result_144323_1677504532_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,AKUNEKEHE OLLO,10/02/01/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/628973/result_144330_1677505452_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,"EDO VILLAGE SQUARE, EDO/EDO NEW ROAD",10/02/01/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28757/result_144325_1677504816_thumb.jpg,true
-DELTA,ANIOCHA - SOUTH,,"ABUISI SQUARE, ABUISI",10/02/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28751/result_144319_1677504109_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU VILLAGE,"EBITEH PRIMARY SCHOOL, ISAH OGWASHI",10/02/01/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28758/result_144326_1677505006_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU VILLAGE,"AZAGBA JUNCTION SQUARE, AZAGBA JUNCTION",10/02/01/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28756/result_144324_1677504648_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU VILLAGE,"OMEZI PRIMARY SCHOOL, OLLOH",10/02/01/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28753/result_144321_1677504338_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU VILLAGE,"OLLODU PRIMARY SCHOOL, OLLODU",10/02/01/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28752/result_144320_1677504242_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU VILLAGE,"ISIANWAI PRIMARY SCHOOL, ISIANWAI/UZO EDO I",10/02/01/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28749/result_144317_1677503742_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU VILLAGE,"UMUOKWE PRIMARY SCHOOL, ABOH OGWASHI",10/02/01/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28759/result_144327_1677505113_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU VILLAGE,"ISIENUGU PRIMARY SCHOOL, OTULU-ISIENUGWU/IDUMU - ETITI II",10/02/01/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28748/result_144316_1677503258_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU VILLAGE,"OMEZI PRIMARY SCHOOL, OLLOH CAMPS",10/02/01/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28754/result_144322_1677504442_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU VILLAGE,OBIUWAJE NEW SQUARE,10/02/01/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/628971/result_144328_1677505230_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU VILLAGE,AZAGBA TOWN HALL,10/02/01/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/628972/result_144329_1677505366_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU VILLAGE,"ISIANWAI PRIMARY SCHOOL, ISIANWAI/UZO EDO II",10/02/01/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28750/result_144318_1677503861_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU VILLAGE,"ABOH MARKET SQUARE, ABOH OGWASHI",10/02/01/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/628974/result_144331_1677505546_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU VILLAGE,"ISIENUGU PRIMARY SCHOOL, OTULU-ISIENUGWU/IDUMU - ETITI I",10/02/01/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28747/result_144315_1677502975_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU VILLAGE,"ASHINZE PRIMARY SCHOOL, AZAGBA OGWASHI/UMUJEA",10/02/01/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28755/result_144323_1677504532_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU VILLAGE,AKUNEKEHE OLLO,10/02/01/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/628973/result_144330_1677505452_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU VILLAGE,"EDO VILLAGE SQUARE, EDO/EDO NEW ROAD",10/02/01/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28757/result_144325_1677504816_thumb.jpg,true
+DELTA,ANIOCHA - SOUTH,OGWASHI - UKU VILLAGE,"ABUISI SQUARE, ABUISI",10/02/01/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/28751/result_144319_1677504109_thumb.jpg,true

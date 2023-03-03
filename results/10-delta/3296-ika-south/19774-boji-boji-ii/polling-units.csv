@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,IKA - SOUTH,,"ODILI  PRIMARY SCHOOL, BOJI-BOJI II - I",10/08/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29746/result_145711_1677586579_thumb.jpg,false
-DELTA,IKA - SOUTH,,"ODILI  PRIMARY SCHOOL, BOJI-BOJI II - II",10/08/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29747/result_145712_1677586949_thumb.jpg,false
-DELTA,IKA - SOUTH,,"ALISIMIE HALL, BOJI-BOJI II - IV",10/08/08/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29754/result_145719_1677589525_thumb.jpg,false
-DELTA,IKA - SOUTH,,"ALISIMIE HALL, BOJI-BOJI II - I",10/08/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29751/result_145716_1677588268_thumb.jpg,false
-DELTA,IKA - SOUTH,,"IHIOMA PRIMARY SCHOOL, BOJI BOJI II - II, AGBOR",10/08/08/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629323/result_145721_1677590621_thumb.jpg,false
-DELTA,IKA - SOUTH,,"EKUKU - AGBOR MOTOR PARK, BOJI-BOJI II - II",10/08/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29744/result_145709_1677585386_thumb.jpg,false
-DELTA,IKA - SOUTH,,"OGBEMUDEIN COMMUNITY HALL, BOJI BOJI  II - II, AGBOR",10/08/08/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629325/result_145723_1677591212_thumb.jpg,false
-DELTA,IKA - SOUTH,,"IGUMBOR OTIKU  PRIMARY SCHOOL, BOJI-BOJI II",10/08/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29750/result_145715_1677588063_thumb.jpg,false
-DELTA,IKA - SOUTH,,"EKUKU - AGBOR MOTOR PARK, BOJI-BOJI II - I",10/08/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29743/result_145708_1677585227_thumb.jpg,false
-DELTA,IKA - SOUTH,,"MARIERE SQUARE, BOJI BOJI II, AGBOR",10/08/08/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629327/result_145725_1677591641_thumb.jpg,false
-DELTA,IKA - SOUTH,,"IHIOMA PRIMARY SCHOOL, BOJI BOJI II - I, AGBOR",10/08/08/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629322/result_145720_1677590024_thumb.jpg,false
-DELTA,IKA - SOUTH,,"ALISIMIE HALL, BOJI-BOJI II - II",10/08/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29752/result_145717_1677588773_thumb.jpg,false
-DELTA,IKA - SOUTH,,"ALISIMIE HALL, BOJI-BOJI II - III",10/08/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29753/result_145718_1677589182_thumb.jpg,false
-DELTA,IKA - SOUTH,,"IKECHUKWU OSAHOR SQUARE, BOJI BOJI II, AGBOR",10/08/08/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629326/result_145724_1677591507_thumb.jpg,false
-DELTA,IKA - SOUTH,,"IGUMBOR OTIKU  PRIMARY SCHOOL, BOJI-BOJI II -I",10/08/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29748/result_145713_1677587388_thumb.jpg,false
-DELTA,IKA - SOUTH,,"EKUKU - AGBOR MOTOR PARK, BOJI-BOJI II - III",10/08/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29745/result_145710_1677585783_thumb.jpg,false
-DELTA,IKA - SOUTH,,"IGUMBOR OTIKU  PRIMARY SCHOOL, BOJI-BOJI II - II",10/08/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29749/result_145714_1677587792_thumb.jpg,false
-DELTA,IKA - SOUTH,,"OGBEMUDEIN COMMUNITY HALL, BOJI-BOJI II - I, AGBOR",10/08/08/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629324/result_145722_1677590937_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI II,"ODILI  PRIMARY SCHOOL, BOJI-BOJI II - I",10/08/08/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29746/result_145711_1677586579_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI II,"ODILI  PRIMARY SCHOOL, BOJI-BOJI II - II",10/08/08/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29747/result_145712_1677586949_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI II,"ALISIMIE HALL, BOJI-BOJI II - IV",10/08/08/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29754/result_145719_1677589525_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI II,"ALISIMIE HALL, BOJI-BOJI II - I",10/08/08/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29751/result_145716_1677588268_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI II,"IHIOMA PRIMARY SCHOOL, BOJI BOJI II - II, AGBOR",10/08/08/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629323/result_145721_1677590621_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI II,"EKUKU - AGBOR MOTOR PARK, BOJI-BOJI II - II",10/08/08/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29744/result_145709_1677585386_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI II,"OGBEMUDEIN COMMUNITY HALL, BOJI BOJI  II - II, AGBOR",10/08/08/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629325/result_145723_1677591212_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI II,"IGUMBOR OTIKU  PRIMARY SCHOOL, BOJI-BOJI II",10/08/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29750/result_145715_1677588063_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI II,"EKUKU - AGBOR MOTOR PARK, BOJI-BOJI II - I",10/08/08/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29743/result_145708_1677585227_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI II,"MARIERE SQUARE, BOJI BOJI II, AGBOR",10/08/08/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629327/result_145725_1677591641_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI II,"IHIOMA PRIMARY SCHOOL, BOJI BOJI II - I, AGBOR",10/08/08/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629322/result_145720_1677590024_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI II,"ALISIMIE HALL, BOJI-BOJI II - II",10/08/08/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29752/result_145717_1677588773_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI II,"ALISIMIE HALL, BOJI-BOJI II - III",10/08/08/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29753/result_145718_1677589182_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI II,"IKECHUKWU OSAHOR SQUARE, BOJI BOJI II, AGBOR",10/08/08/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629326/result_145724_1677591507_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI II,"IGUMBOR OTIKU  PRIMARY SCHOOL, BOJI-BOJI II -I",10/08/08/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29748/result_145713_1677587388_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI II,"EKUKU - AGBOR MOTOR PARK, BOJI-BOJI II - III",10/08/08/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29745/result_145710_1677585783_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI II,"IGUMBOR OTIKU  PRIMARY SCHOOL, BOJI-BOJI II - II",10/08/08/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29749/result_145714_1677587792_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI II,"OGBEMUDEIN COMMUNITY HALL, BOJI-BOJI II - I, AGBOR",10/08/08/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629324/result_145722_1677590937_thumb.jpg,false

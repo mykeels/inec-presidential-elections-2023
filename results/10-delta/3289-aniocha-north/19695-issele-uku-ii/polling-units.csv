@@ -1,23 +1,23 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,ANIOCHA NORTH,,OMADO P/S - OGBE OFU  QUARTERS I,10/01/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19695/pu/28714/28714-1677476133.pdf,false
-DELTA,ANIOCHA NORTH,,MARTINS PRY SCH OGBE NTI QTRS,10/01/07/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19695/pu/136191/136191-1677473898.pdf,false
-DELTA,ANIOCHA NORTH,,MARTINS COLLEGE OGBE OFU QTRS III,10/01/07/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19695/pu/136190/136190-1677459410.pdf,false
-DELTA,ANIOCHA NORTH,,MARTINS COLLEGE OGBE OFU QTRS II,10/01/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19695/pu/136189/136189-1677459033.pdf,false
-DELTA,ANIOCHA NORTH,,ADAMS P/S - OGBOLI  QUARTERS III,10/01/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19695/pu/28724/28724-1677458429.pdf,false
-DELTA,ANIOCHA NORTH,,OGBE OLI TOWN HALL,10/01/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19695/pu/136184/136184-1677458367.pdf,false
-DELTA,ANIOCHA NORTH,,ADAMS P/S - ISHIEKPE QUARTERS III,10/01/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19695/pu/28721/28721-1677457249.pdf,false
-DELTA,ANIOCHA NORTH,,UNITY HALL OGBE OWELLE  QTRS,10/01/07/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19695/pu/136193/136193-1677455217.pdf,false
-DELTA,ANIOCHA NORTH,,UNITY HALL OGBE OWELLE  QTRS,10/01/07/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19695/pu/136192/136192-1677454669.pdf,false
-DELTA,ANIOCHA NORTH,,"ADAMS PRY SCH, ISHIEKPE QTRS I",10/01/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19695/pu/136185/136185-1677454156.pdf,false
-DELTA,ANIOCHA NORTH,,MARTINS P/S - OGBE-NTI QUARTERS,10/01/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19695/pu/28718/28718-1677453687.pdf,false
-DELTA,ANIOCHA NORTH,,ADAMS P/S - ISHIEKPE QUARTERS I,10/01/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19695/pu/28719/28719-1677453143.pdf,false
-DELTA,ANIOCHA NORTH,,ADAMS P/S - OGBOLI  QUARTERS II,10/01/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19695/pu/28723/28723-1677452632.pdf,false
-DELTA,ANIOCHA NORTH,,ADAMS P/S - ISHIEKPE QUARTERS II,10/01/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19695/pu/28720/28720-1677452004.pdf,false
-DELTA,ANIOCHA NORTH,,ADAMS P/S - OGBOLI  QUARTERS I,10/01/07/009,https://docs.inecelectionresults.net/elections/1292/1677451310-28722.pdf,false
-DELTA,ANIOCHA NORTH,,OMADO P/S - OGBE OFU  QUARTERS II,10/01/07/002,https://docs.inecelectionresults.net/elections/1292/1677450611-28715.pdf,false
-DELTA,ANIOCHA NORTH,,"ADAMS PRY SCH, ISHIEKPE QTRS II",10/01/07/014,https://docs.inecelectionresults.net/elections/1292/1677450108-136186.pdf,false
-DELTA,ANIOCHA NORTH,,"ADAMS PRY SCH, ISHIEKPE QTRS II",10/01/07/015,https://docs.inecelectionresults.net/elections/1292/1677449476-136187.pdf,false
-DELTA,ANIOCHA NORTH,,UNITY HALL OGBE OWELLE  QTRS,10/01/07/022,https://docs.inecelectionresults.net/elections/1292/1677448411-136194.pdf,false
-DELTA,ANIOCHA NORTH,,"NIG. UNION OF TEACHERS, OGBE OFU QTRS( OPEN SPACE)",10/01/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/07/pu/016/016-1677389393.pdf,false
-DELTA,ANIOCHA NORTH,,MARTINS P/S - OGBE-OWELE QUARTERS,10/01/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/07/pu/004/004-1677370355.pdf,false
-DELTA,ANIOCHA NORTH,,OMADO P/S - OGBE OFU  QUARTERS III,10/01/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/07/pu/003/003-1677362874.pdf,false
+DELTA,ANIOCHA NORTH,ISSELE UKU II,OMADO P/S - OGBE OFU  QUARTERS I,10/01/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19695/pu/28714/28714-1677476133.pdf,false
+DELTA,ANIOCHA NORTH,ISSELE UKU II,MARTINS PRY SCH OGBE NTI QTRS,10/01/07/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19695/pu/136191/136191-1677473898.pdf,false
+DELTA,ANIOCHA NORTH,ISSELE UKU II,MARTINS COLLEGE OGBE OFU QTRS III,10/01/07/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19695/pu/136190/136190-1677459410.pdf,false
+DELTA,ANIOCHA NORTH,ISSELE UKU II,MARTINS COLLEGE OGBE OFU QTRS II,10/01/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19695/pu/136189/136189-1677459033.pdf,false
+DELTA,ANIOCHA NORTH,ISSELE UKU II,ADAMS P/S - OGBOLI  QUARTERS III,10/01/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19695/pu/28724/28724-1677458429.pdf,false
+DELTA,ANIOCHA NORTH,ISSELE UKU II,OGBE OLI TOWN HALL,10/01/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19695/pu/136184/136184-1677458367.pdf,false
+DELTA,ANIOCHA NORTH,ISSELE UKU II,ADAMS P/S - ISHIEKPE QUARTERS III,10/01/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19695/pu/28721/28721-1677457249.pdf,false
+DELTA,ANIOCHA NORTH,ISSELE UKU II,UNITY HALL OGBE OWELLE  QTRS,10/01/07/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19695/pu/136193/136193-1677455217.pdf,false
+DELTA,ANIOCHA NORTH,ISSELE UKU II,UNITY HALL OGBE OWELLE  QTRS,10/01/07/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19695/pu/136192/136192-1677454669.pdf,false
+DELTA,ANIOCHA NORTH,ISSELE UKU II,"ADAMS PRY SCH, ISHIEKPE QTRS I",10/01/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19695/pu/136185/136185-1677454156.pdf,false
+DELTA,ANIOCHA NORTH,ISSELE UKU II,MARTINS P/S - OGBE-NTI QUARTERS,10/01/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19695/pu/28718/28718-1677453687.pdf,false
+DELTA,ANIOCHA NORTH,ISSELE UKU II,ADAMS P/S - ISHIEKPE QUARTERS I,10/01/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19695/pu/28719/28719-1677453143.pdf,false
+DELTA,ANIOCHA NORTH,ISSELE UKU II,ADAMS P/S - OGBOLI  QUARTERS II,10/01/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19695/pu/28723/28723-1677452632.pdf,false
+DELTA,ANIOCHA NORTH,ISSELE UKU II,ADAMS P/S - ISHIEKPE QUARTERS II,10/01/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3289/ward/19695/pu/28720/28720-1677452004.pdf,false
+DELTA,ANIOCHA NORTH,ISSELE UKU II,ADAMS P/S - OGBOLI  QUARTERS I,10/01/07/009,https://docs.inecelectionresults.net/elections/1292/1677451310-28722.pdf,false
+DELTA,ANIOCHA NORTH,ISSELE UKU II,OMADO P/S - OGBE OFU  QUARTERS II,10/01/07/002,https://docs.inecelectionresults.net/elections/1292/1677450611-28715.pdf,false
+DELTA,ANIOCHA NORTH,ISSELE UKU II,"ADAMS PRY SCH, ISHIEKPE QTRS II",10/01/07/014,https://docs.inecelectionresults.net/elections/1292/1677450108-136186.pdf,false
+DELTA,ANIOCHA NORTH,ISSELE UKU II,"ADAMS PRY SCH, ISHIEKPE QTRS II",10/01/07/015,https://docs.inecelectionresults.net/elections/1292/1677449476-136187.pdf,false
+DELTA,ANIOCHA NORTH,ISSELE UKU II,UNITY HALL OGBE OWELLE  QTRS,10/01/07/022,https://docs.inecelectionresults.net/elections/1292/1677448411-136194.pdf,false
+DELTA,ANIOCHA NORTH,ISSELE UKU II,"NIG. UNION OF TEACHERS, OGBE OFU QTRS( OPEN SPACE)",10/01/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/07/pu/016/016-1677389393.pdf,false
+DELTA,ANIOCHA NORTH,ISSELE UKU II,MARTINS P/S - OGBE-OWELE QUARTERS,10/01/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/07/pu/004/004-1677370355.pdf,false
+DELTA,ANIOCHA NORTH,ISSELE UKU II,OMADO P/S - OGBE OFU  QUARTERS III,10/01/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/01/ward/07/pu/003/003-1677362874.pdf,false

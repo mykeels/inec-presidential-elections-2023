@@ -1,17 +1,17 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,ETHIOPE  WEST,,PAN OCEAN CAMP/UGBEVWE/-EKUOMAGBA PRIMARY SCHOOL,10/06/11/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29504/result_145361_1677505926_thumb.jpg,true
-DELTA,ETHIOPE  WEST,,ADEGBOYERIN I/OKUMENU PRIMARY SCHOOL,10/06/11/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29498/result_145355_1677503174_thumb.jpg,true
-DELTA,ETHIOPE  WEST,,ADEGBOYERIN II/OKUMEMU PRIMARY SCHOOL,10/06/11/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29505/result_145362_1677504971_thumb.jpg,true
-DELTA,ETHIOPE  WEST,,"OVADE TOWN HALL I, OGHARA",10/06/11/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629218/result_145365_1677502351_thumb.jpg,true
-DELTA,ETHIOPE  WEST,,"OVADE SECONDARY SCHOOL I, OGHARA",10/06/11/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629221/result_145368_1677576058_thumb.jpg,false
-DELTA,ETHIOPE  WEST,,OKURODE/ADJEKETA II/ONOGBORHE PRIMARY SCHOOL,10/06/11/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29506/result_145363_1677575970_thumb.jpg,false
-DELTA,ETHIOPE  WEST,,ONOGHOVO/CHIEF OKO'S COMPOUND,10/06/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19752/pu/29513/29513-1677504711.pdf,false
-DELTA,ETHIOPE  WEST,,"OVADE CLINIC, OGHARA",10/06/11/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19752/pu/136490/136490-1677500842.pdf,false
-DELTA,ETHIOPE  WEST,,OTUMARA/OKUMENU PRIMARY SCHOOL,10/06/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19752/pu/29507/29507-1677499472.pdf,false
-DELTA,ETHIOPE  WEST,,OBROMUDU/OTUMARA PRIMARY SCHOOL,10/06/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19752/pu/29509/29509-1677494308.pdf,false
-DELTA,ETHIOPE  WEST,,NEW SITE/ONOGBOHE PRIMARY SCHOOL,10/06/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19752/pu/29512/29512-1677492562.pdf,false
-DELTA,ETHIOPE  WEST,,OVADE/OKUHEVIE QUARTERS/ONOGBORHE PRIMARY SCHOOL,10/06/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19752/pu/29510/29510-1677492461.pdf,false
-DELTA,ETHIOPE  WEST,,"OVADE TOWN HALL II, OGHARA",10/06/11/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19752/pu/136489/136489-1677490570.pdf,false
-DELTA,ETHIOPE  WEST,,OKURODE/ADJEKETA QUARTERS I/ONOGBORHE PRIMARY SCHOOL,10/06/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19752/pu/29511/29511-1677488279.pdf,false
-DELTA,ETHIOPE  WEST,,"OKUMENU PRIMARY SCHOOL, OTUMARA II",10/06/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19752/pu/29517/29517-1677487097.pdf,false
-DELTA,ETHIOPE  WEST,,"OVADE SECONDARY SCHOOL II, OGHARA",10/06/11/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19752/pu/136492/136492-1677485460.pdf,false
+DELTA,ETHIOPE  WEST,OGHARA V,PAN OCEAN CAMP/UGBEVWE/-EKUOMAGBA PRIMARY SCHOOL,10/06/11/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29504/result_145361_1677505926_thumb.jpg,true
+DELTA,ETHIOPE  WEST,OGHARA V,ADEGBOYERIN I/OKUMENU PRIMARY SCHOOL,10/06/11/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29498/result_145355_1677503174_thumb.jpg,true
+DELTA,ETHIOPE  WEST,OGHARA V,ADEGBOYERIN II/OKUMEMU PRIMARY SCHOOL,10/06/11/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29505/result_145362_1677504971_thumb.jpg,true
+DELTA,ETHIOPE  WEST,OGHARA V,"OVADE TOWN HALL I, OGHARA",10/06/11/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629218/result_145365_1677502351_thumb.jpg,true
+DELTA,ETHIOPE  WEST,OGHARA V,"OVADE SECONDARY SCHOOL I, OGHARA",10/06/11/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629221/result_145368_1677576058_thumb.jpg,false
+DELTA,ETHIOPE  WEST,OGHARA V,OKURODE/ADJEKETA II/ONOGBORHE PRIMARY SCHOOL,10/06/11/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29506/result_145363_1677575970_thumb.jpg,false
+DELTA,ETHIOPE  WEST,OGHARA V,ONOGHOVO/CHIEF OKO'S COMPOUND,10/06/11/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19752/pu/29513/29513-1677504711.pdf,false
+DELTA,ETHIOPE  WEST,OGHARA V,"OVADE CLINIC, OGHARA",10/06/11/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19752/pu/136490/136490-1677500842.pdf,false
+DELTA,ETHIOPE  WEST,OGHARA V,OTUMARA/OKUMENU PRIMARY SCHOOL,10/06/11/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19752/pu/29507/29507-1677499472.pdf,false
+DELTA,ETHIOPE  WEST,OGHARA V,OBROMUDU/OTUMARA PRIMARY SCHOOL,10/06/11/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19752/pu/29509/29509-1677494308.pdf,false
+DELTA,ETHIOPE  WEST,OGHARA V,NEW SITE/ONOGBOHE PRIMARY SCHOOL,10/06/11/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19752/pu/29512/29512-1677492562.pdf,false
+DELTA,ETHIOPE  WEST,OGHARA V,OVADE/OKUHEVIE QUARTERS/ONOGBORHE PRIMARY SCHOOL,10/06/11/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19752/pu/29510/29510-1677492461.pdf,false
+DELTA,ETHIOPE  WEST,OGHARA V,"OVADE TOWN HALL II, OGHARA",10/06/11/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19752/pu/136489/136489-1677490570.pdf,false
+DELTA,ETHIOPE  WEST,OGHARA V,OKURODE/ADJEKETA QUARTERS I/ONOGBORHE PRIMARY SCHOOL,10/06/11/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19752/pu/29511/29511-1677488279.pdf,false
+DELTA,ETHIOPE  WEST,OGHARA V,"OKUMENU PRIMARY SCHOOL, OTUMARA II",10/06/11/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19752/pu/29517/29517-1677487097.pdf,false
+DELTA,ETHIOPE  WEST,OGHARA V,"OVADE SECONDARY SCHOOL II, OGHARA",10/06/11/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19752/pu/136492/136492-1677485460.pdf,false

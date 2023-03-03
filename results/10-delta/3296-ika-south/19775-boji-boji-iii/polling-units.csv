@@ -1,17 +1,17 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,IKA - SOUTH,,"OGBEMUDEIN SECONDARY SCHOOL, BOJI BOJI III - II, AGBOR",10/08/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629329/result_145735_1677577049_thumb.jpg,false
-DELTA,IKA - SOUTH,,"ITAMAZE PRIMARY SCHOOL, BOJI - BOJI   III - I",10/08/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29761/result_145732_1677576816_thumb.jpg,false
-DELTA,IKA - SOUTH,,"ENI PRIMARY SCHOOL, BOJI - BOJI  III - I",10/08/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29759/result_145730_1677576636_thumb.jpg,false
-DELTA,IKA - SOUTH,,"DDPA UNIT, BOJI BOJI III - I, AGBOR",10/08/09/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629330/result_145736_1677577124_thumb.jpg,false
-DELTA,IKA - SOUTH,,"DDPA UNIT, BOJI BOJI III - II AGBOR",10/08/09/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629331/result_145737_1677577207_thumb.jpg,false
-DELTA,IKA - SOUTH,,"ELUONYE SQUARE BOJI BOJI III - II, AGBOR",10/08/09/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629335/result_145741_1677577478_thumb.jpg,false
-DELTA,IKA - SOUTH,,"ITAMAZE PRIMARY SCHOOL, BOJI - BOJI   III - II",10/08/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29762/result_145733_1677576884_thumb.jpg,false
-DELTA,IKA - SOUTH,,"OGBEMUDEIN SECONDARY SCHOOL BOJI BOJI III - I, AGBOR",10/08/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629328/result_145734_1677576958_thumb.jpg,false
-DELTA,IKA - SOUTH,,"AGBOR MODEL PRIMARY SCHOOL, BOJI - BOJI  III - I",10/08/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29755/result_145726_1677576321_thumb.jpg,false
-DELTA,IKA - SOUTH,,"AGBOR MODEL PRIMARY SCHOOL, BOJI - BOJI  III - II",10/08/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29756/result_145727_1677576420_thumb.jpg,false
-DELTA,IKA - SOUTH,,"CHARLES/IMUDIA STREET, BOJI - BOJI  III",10/08/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29757/result_145728_1677576486_thumb.jpg,false
-DELTA,IKA - SOUTH,,"CT.C. MARKET, BOJI - BOJI  III",10/08/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29758/result_145729_1677576556_thumb.jpg,false
-DELTA,IKA - SOUTH,,"ELUONYE SQUARE BOJI BOJI III - I, AGBOR",10/08/09/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629334/result_145740_1677577401_thumb.jpg,false
-DELTA,IKA - SOUTH,,"EKUKU AGBOR COMMUNITY HALL BOJI BOJI III - I, AGBOR",10/08/09/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629332/result_145738_1677577272_thumb.jpg,false
-DELTA,IKA - SOUTH,,"ENI PRIMARY SCHOOL , BOJI - BOJI  III - II",10/08/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29760/result_145731_1677576750_thumb.jpg,false
-DELTA,IKA - SOUTH,,"EKUKU AGBOR COMMUNITY HALL BOJI BOJI III - II, AGBOR",10/08/09/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629333/result_145739_1677577343_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI III,"OGBEMUDEIN SECONDARY SCHOOL, BOJI BOJI III - II, AGBOR",10/08/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629329/result_145735_1677577049_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI III,"ITAMAZE PRIMARY SCHOOL, BOJI - BOJI   III - I",10/08/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29761/result_145732_1677576816_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI III,"ENI PRIMARY SCHOOL, BOJI - BOJI  III - I",10/08/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29759/result_145730_1677576636_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI III,"DDPA UNIT, BOJI BOJI III - I, AGBOR",10/08/09/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629330/result_145736_1677577124_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI III,"DDPA UNIT, BOJI BOJI III - II AGBOR",10/08/09/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629331/result_145737_1677577207_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI III,"ELUONYE SQUARE BOJI BOJI III - II, AGBOR",10/08/09/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629335/result_145741_1677577478_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI III,"ITAMAZE PRIMARY SCHOOL, BOJI - BOJI   III - II",10/08/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29762/result_145733_1677576884_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI III,"OGBEMUDEIN SECONDARY SCHOOL BOJI BOJI III - I, AGBOR",10/08/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629328/result_145734_1677576958_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI III,"AGBOR MODEL PRIMARY SCHOOL, BOJI - BOJI  III - I",10/08/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29755/result_145726_1677576321_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI III,"AGBOR MODEL PRIMARY SCHOOL, BOJI - BOJI  III - II",10/08/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29756/result_145727_1677576420_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI III,"CHARLES/IMUDIA STREET, BOJI - BOJI  III",10/08/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29757/result_145728_1677576486_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI III,"CT.C. MARKET, BOJI - BOJI  III",10/08/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29758/result_145729_1677576556_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI III,"ELUONYE SQUARE BOJI BOJI III - I, AGBOR",10/08/09/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629334/result_145740_1677577401_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI III,"EKUKU AGBOR COMMUNITY HALL BOJI BOJI III - I, AGBOR",10/08/09/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629332/result_145738_1677577272_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI III,"ENI PRIMARY SCHOOL , BOJI - BOJI  III - II",10/08/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29760/result_145731_1677576750_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI III,"EKUKU AGBOR COMMUNITY HALL BOJI BOJI III - II, AGBOR",10/08/09/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629333/result_145739_1677577343_thumb.jpg,false

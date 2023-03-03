@@ -1,14 +1,14 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,ETHIOPE  WEST,,AKWODO/AROUND BAPTIST CHURCH,10/06/02/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29374/result_145175_1677502998_thumb.jpg,true
-DELTA,ETHIOPE  WEST,,GOVERNMENT SECONDARY SCHOOL OKUOMORE MOSOGAR,10/06/02/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629177/result_145179_1677501290_thumb.jpg,true
-DELTA,ETHIOPE  WEST,,IGHOYETA SECONDARY SCHOOL UGBOKPA,10/06/02/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629178/result_145180_1677486631_thumb.jpg,true
-DELTA,ETHIOPE  WEST,,UGBAKELE I/UGBAKELE PRIMARY SCHOOL,10/06/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29372/result_145173_1677499826_thumb.jpg,true
-DELTA,ETHIOPE  WEST,,OGE VILLAGE/OPEN SPACE,10/06/02/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29375/result_145176_1677485727_thumb.jpg,true
-DELTA,ETHIOPE  WEST,,UDUAKA SECONDARY SCHOOL MOSOGAR,10/06/02/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629176/result_145178_1677601561_thumb.jpg,false
-DELTA,ETHIOPE  WEST,,OKUEGBAPHA/OPEN SPACE,10/06/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29367/result_145168_1677580148_thumb.jpg,false
-DELTA,ETHIOPE  WEST,,AKWODO II/AROUND BAPTIST CHURCH,10/06/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19743/pu/29386/29386-1677499131.pdf,false
-DELTA,ETHIOPE  WEST,,EVWONOGBOR II/ EVWONOGBOR PRIMARY SCHOOL,10/06/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19743/pu/29379/29379-1677493273.pdf,false
-DELTA,ETHIOPE  WEST,,EVWONOGBOR I/ EVWONOGBOR PRIMARY SCHOOL,10/06/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19743/pu/29378/29378-1677492760.pdf,false
-DELTA,ETHIOPE  WEST,,UGBOKPA I EVWONOGBOR PRIMARY SCHOOL,10/06/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19743/pu/29380/29380-1677491860.pdf,false
-DELTA,ETHIOPE  WEST,,UGBOKPA II/ EVWONOGBOR PRIMARY SCHOOL,10/06/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19743/pu/29381/29381-1677489583.pdf,false
-DELTA,ETHIOPE  WEST,,UGBAKELE II/UGBAKELE PRIMARY SCHOOL,10/06/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19743/pu/29383/29383-1677483378.pdf,false
+DELTA,ETHIOPE  WEST,MOSOGAR II,AKWODO/AROUND BAPTIST CHURCH,10/06/02/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29374/result_145175_1677502998_thumb.jpg,true
+DELTA,ETHIOPE  WEST,MOSOGAR II,GOVERNMENT SECONDARY SCHOOL OKUOMORE MOSOGAR,10/06/02/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629177/result_145179_1677501290_thumb.jpg,true
+DELTA,ETHIOPE  WEST,MOSOGAR II,IGHOYETA SECONDARY SCHOOL UGBOKPA,10/06/02/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629178/result_145180_1677486631_thumb.jpg,true
+DELTA,ETHIOPE  WEST,MOSOGAR II,UGBAKELE I/UGBAKELE PRIMARY SCHOOL,10/06/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29372/result_145173_1677499826_thumb.jpg,true
+DELTA,ETHIOPE  WEST,MOSOGAR II,OGE VILLAGE/OPEN SPACE,10/06/02/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29375/result_145176_1677485727_thumb.jpg,true
+DELTA,ETHIOPE  WEST,MOSOGAR II,UDUAKA SECONDARY SCHOOL MOSOGAR,10/06/02/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629176/result_145178_1677601561_thumb.jpg,false
+DELTA,ETHIOPE  WEST,MOSOGAR II,OKUEGBAPHA/OPEN SPACE,10/06/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29367/result_145168_1677580148_thumb.jpg,false
+DELTA,ETHIOPE  WEST,MOSOGAR II,AKWODO II/AROUND BAPTIST CHURCH,10/06/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19743/pu/29386/29386-1677499131.pdf,false
+DELTA,ETHIOPE  WEST,MOSOGAR II,EVWONOGBOR II/ EVWONOGBOR PRIMARY SCHOOL,10/06/02/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19743/pu/29379/29379-1677493273.pdf,false
+DELTA,ETHIOPE  WEST,MOSOGAR II,EVWONOGBOR I/ EVWONOGBOR PRIMARY SCHOOL,10/06/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19743/pu/29378/29378-1677492760.pdf,false
+DELTA,ETHIOPE  WEST,MOSOGAR II,UGBOKPA I EVWONOGBOR PRIMARY SCHOOL,10/06/02/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19743/pu/29380/29380-1677491860.pdf,false
+DELTA,ETHIOPE  WEST,MOSOGAR II,UGBOKPA II/ EVWONOGBOR PRIMARY SCHOOL,10/06/02/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19743/pu/29381/29381-1677489583.pdf,false
+DELTA,ETHIOPE  WEST,MOSOGAR II,UGBAKELE II/UGBAKELE PRIMARY SCHOOL,10/06/02/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3294/ward/19743/pu/29383/29383-1677483378.pdf,false

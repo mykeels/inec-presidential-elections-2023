@@ -26,6 +26,7 @@
     "pu_code_string": "100907017",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "EMEVOR",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "100907002",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "EMEVOR",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "100907003",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "EMEVOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -132,6 +135,7 @@
     "pu_code_string": "100907008",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "EMEVOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -162,6 +166,7 @@
     "pu_code_string": "100907013",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "EMEVOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -192,6 +197,7 @@
     "pu_code_string": "100907001",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "EMEVOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -222,6 +228,7 @@
     "pu_code_string": "100907006",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "EMEVOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -252,6 +259,7 @@
     "pu_code_string": "100907011",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "EMEVOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -282,6 +290,7 @@
     "pu_code_string": "100907016",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "EMEVOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -312,6 +321,7 @@
     "pu_code_string": "100907005",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "EMEVOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -342,6 +352,7 @@
     "pu_code_string": "100907010",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "EMEVOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -372,6 +383,7 @@
     "pu_code_string": "100907015",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "EMEVOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -402,6 +414,7 @@
     "pu_code_string": "100907004",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "EMEVOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -432,6 +445,7 @@
     "pu_code_string": "100907009",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "EMEVOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -462,6 +476,7 @@
     "pu_code_string": "100907007",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "EMEVOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -492,6 +507,7 @@
     "pu_code_string": "100907012",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "EMEVOR",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -522,6 +538,7 @@
     "pu_code_string": "100907014",
     "state_name": "DELTA",
     "lga_name": "ISOKO NORTH",
+    "ward_name": "EMEVOR",
     "old_documents": [],
     "has_old_documents": false
   }

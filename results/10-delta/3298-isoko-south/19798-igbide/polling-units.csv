@@ -1,23 +1,23 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,ISOKO SOUTH,,"EKPO/IGBIDE UNION SECRETARIAT/BY EKPO ROUND ABOUT, IGBIDE TOWN",10/10/07/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629490/result_146224_1677684886_thumb.jpg,false
-DELTA,ISOKO SOUTH,,"MARKET SQUARE BUS STOP, URUEKI QUARTERS OWODOKPOKPO.",10/10/07/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629489/result_146223_1677684805_thumb.jpg,false
-DELTA,ISOKO SOUTH,,"UBRENYE HALL, UBRENYE QUARTERS II",10/10/07/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30070/result_146222_1677684564_thumb.jpg,false
-DELTA,ISOKO SOUTH,,"URUEYAE HALL, URUWHRE",10/10/07/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30069/result_146221_1677684482_thumb.jpg,false
-DELTA,ISOKO SOUTH,,UBINI/ATTA - IGBIDE GRAMMAR SCHOOL  URUWHRE,10/10/07/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30068/result_146220_1677684413_thumb.jpg,false
-DELTA,ISOKO SOUTH,,"URUWHRE HALL, URUWHRE QUARTERS",10/10/07/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30067/result_146219_1677684310_thumb.jpg,false
-DELTA,ISOKO SOUTH,,"EKREMERUO HALL, URUWHRE QUARTERS",10/10/07/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30066/result_146218_1677684231_thumb.jpg,false
-DELTA,ISOKO SOUTH,,"ERU PRIMARY SCHOOL, OKPOHRO QUARTERS",10/10/07/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30064/result_146216_1677684084_thumb.jpg,false
-DELTA,ISOKO SOUTH,,"T.D.B. HALL, OKPOHRO QUARTERS",10/10/07/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30063/result_146215_1677683794_thumb.jpg,false
-DELTA,ISOKO SOUTH,,"OTIBIO HALL, OKPOHRO QUARTERS",10/10/07/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30062/result_146214_1677683675_thumb.jpg,false
-DELTA,ISOKO SOUTH,,"OKPOHRO HALL, OKPOHRO QUARTERS",10/10/07/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30061/result_146213_1677683592_thumb.jpg,false
-DELTA,ISOKO SOUTH,,"ILOGE HALL, OTERI - IGBIDE",10/10/07/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30060/result_146212_1677683478_thumb.jpg,false
-DELTA,ISOKO SOUTH,,"EGBO PRIMARY SCHOOLL, OTERI - IGBIDE",10/10/07/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30059/result_146211_1677683409_thumb.jpg,false
-DELTA,ISOKO SOUTH,,"OTERI HALL, OTERI - IGBIDE II",10/10/07/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30058/result_146210_1677683328_thumb.jpg,true
-DELTA,ISOKO SOUTH,,"AMADHE HALL, OWODOKPOKPO",10/10/07/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30052/result_146204_1677682504_thumb.jpg,true
-DELTA,ISOKO SOUTH,,"ERU PRIMARY SCHOOL II EKPO QUARTERS, IGBIDE.",10/10/07/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629491/result_146225_1677682413_thumb.jpg,false
-DELTA,ISOKO SOUTH,,"OTERI HALL, OTERI - IGBIDE I",10/10/07/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30057/result_146209_1677543994_thumb.jpg,true
-DELTA,ISOKO SOUTH,,"UREIKI HALL,  OWODOKPOKPO",10/10/07/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30056/result_146208_1677543676_thumb.jpg,true
-DELTA,ISOKO SOUTH,,"URIE PRIMARY SCHOOL,  OWODOKPOKPO",10/10/07/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30055/result_146207_1677543252_thumb.jpg,true
-DELTA,ISOKO SOUTH,,"UVRUDU HALL, OWODOKPOKPO",10/10/07/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30054/result_146206_1677542856_thumb.jpg,true
-DELTA,ISOKO SOUTH,,"URUOVO HALL, OWODOKPOKPO",10/10/07/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30053/result_146205_1677542483_thumb.jpg,true
-DELTA,ISOKO SOUTH,,"UBRENYE HALL, UBRENYE QUARTERS I",10/10/07/014,,false
+DELTA,ISOKO SOUTH,IGBIDE,"EKPO/IGBIDE UNION SECRETARIAT/BY EKPO ROUND ABOUT, IGBIDE TOWN",10/10/07/021,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629490/result_146224_1677684886_thumb.jpg,false
+DELTA,ISOKO SOUTH,IGBIDE,"MARKET SQUARE BUS STOP, URUEKI QUARTERS OWODOKPOKPO.",10/10/07/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629489/result_146223_1677684805_thumb.jpg,false
+DELTA,ISOKO SOUTH,IGBIDE,"UBRENYE HALL, UBRENYE QUARTERS II",10/10/07/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30070/result_146222_1677684564_thumb.jpg,false
+DELTA,ISOKO SOUTH,IGBIDE,"URUEYAE HALL, URUWHRE",10/10/07/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30069/result_146221_1677684482_thumb.jpg,false
+DELTA,ISOKO SOUTH,IGBIDE,UBINI/ATTA - IGBIDE GRAMMAR SCHOOL  URUWHRE,10/10/07/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30068/result_146220_1677684413_thumb.jpg,false
+DELTA,ISOKO SOUTH,IGBIDE,"URUWHRE HALL, URUWHRE QUARTERS",10/10/07/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30067/result_146219_1677684310_thumb.jpg,false
+DELTA,ISOKO SOUTH,IGBIDE,"EKREMERUO HALL, URUWHRE QUARTERS",10/10/07/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30066/result_146218_1677684231_thumb.jpg,false
+DELTA,ISOKO SOUTH,IGBIDE,"ERU PRIMARY SCHOOL, OKPOHRO QUARTERS",10/10/07/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30064/result_146216_1677684084_thumb.jpg,false
+DELTA,ISOKO SOUTH,IGBIDE,"T.D.B. HALL, OKPOHRO QUARTERS",10/10/07/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30063/result_146215_1677683794_thumb.jpg,false
+DELTA,ISOKO SOUTH,IGBIDE,"OTIBIO HALL, OKPOHRO QUARTERS",10/10/07/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30062/result_146214_1677683675_thumb.jpg,false
+DELTA,ISOKO SOUTH,IGBIDE,"OKPOHRO HALL, OKPOHRO QUARTERS",10/10/07/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30061/result_146213_1677683592_thumb.jpg,false
+DELTA,ISOKO SOUTH,IGBIDE,"ILOGE HALL, OTERI - IGBIDE",10/10/07/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30060/result_146212_1677683478_thumb.jpg,false
+DELTA,ISOKO SOUTH,IGBIDE,"EGBO PRIMARY SCHOOLL, OTERI - IGBIDE",10/10/07/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30059/result_146211_1677683409_thumb.jpg,false
+DELTA,ISOKO SOUTH,IGBIDE,"OTERI HALL, OTERI - IGBIDE II",10/10/07/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30058/result_146210_1677683328_thumb.jpg,true
+DELTA,ISOKO SOUTH,IGBIDE,"AMADHE HALL, OWODOKPOKPO",10/10/07/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30052/result_146204_1677682504_thumb.jpg,true
+DELTA,ISOKO SOUTH,IGBIDE,"ERU PRIMARY SCHOOL II EKPO QUARTERS, IGBIDE.",10/10/07/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629491/result_146225_1677682413_thumb.jpg,false
+DELTA,ISOKO SOUTH,IGBIDE,"OTERI HALL, OTERI - IGBIDE I",10/10/07/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30057/result_146209_1677543994_thumb.jpg,true
+DELTA,ISOKO SOUTH,IGBIDE,"UREIKI HALL,  OWODOKPOKPO",10/10/07/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30056/result_146208_1677543676_thumb.jpg,true
+DELTA,ISOKO SOUTH,IGBIDE,"URIE PRIMARY SCHOOL,  OWODOKPOKPO",10/10/07/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30055/result_146207_1677543252_thumb.jpg,true
+DELTA,ISOKO SOUTH,IGBIDE,"UVRUDU HALL, OWODOKPOKPO",10/10/07/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30054/result_146206_1677542856_thumb.jpg,true
+DELTA,ISOKO SOUTH,IGBIDE,"URUOVO HALL, OWODOKPOKPO",10/10/07/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/30053/result_146205_1677542483_thumb.jpg,true
+DELTA,ISOKO SOUTH,IGBIDE,"UBRENYE HALL, UBRENYE QUARTERS I",10/10/07/014,,false

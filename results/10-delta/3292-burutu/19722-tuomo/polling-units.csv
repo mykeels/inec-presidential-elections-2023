@@ -1,21 +1,21 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,BURUTU,,AKEREBUNU QUARTERS PLAYGROUND,10/04/03/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629090/result_144751_1677697507_thumb.jpg,false
-DELTA,BURUTU,,GARUWA PRIMARY SCHOOL,10/04/03/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629089/result_144750_1677697458_thumb.jpg,false
-DELTA,BURUTU,,GOVERNMENT DAYCARE CENTER,10/04/03/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629088/result_144749_1677697406_thumb.jpg,false
-DELTA,BURUTU,,TUO PRIMARY SCHOOL,10/04/03/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629087/result_144748_1677697361_thumb.jpg,false
-DELTA,BURUTU,,BOLOU  TUBEGBE  -  PRIMARY  SCHOOL,10/04/03/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29031/result_144747_1677697310_thumb.jpg,false
-DELTA,BURUTU,,KOUWARE  - OFFICE  P/G,10/04/03/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29030/result_144746_1677697237_thumb.jpg,false
-DELTA,BURUTU,,TRINITY ZION - ZION  P/G,10/04/03/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29029/result_144745_1677697188_thumb.jpg,false
-DELTA,BURUTU,,AYAMA (OGBOBAGBENE) - REST HOUSE,10/04/03/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29028/result_144744_1677697130_thumb.jpg,false
-DELTA,BURUTU,,OGBOBAGBENE /ORUBEBEBIRI - TIMIKORO  P/G,10/04/03/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29027/result_144743_1677697074_thumb.jpg,false
-DELTA,BURUTU,,"OGBOBAGBENE I/EBIKEME - PRIMARY SCHOOL, HALL",10/04/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29026/result_144742_1677697017_thumb.jpg,false
-DELTA,BURUTU,,"OGBOBAGBENE I EBIKEME - PRIMARY SCHOOL, HALL",10/04/03/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29025/result_144741_1677696863_thumb.jpg,false
-DELTA,BURUTU,,AKENKI/DEWARE  -  AKEKIDE  P/G,10/04/03/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29024/result_144740_1677696806_thumb.jpg,false
-DELTA,BURUTU,,"EKEREMOBIRI II & III  - PRIMARY SCHOOL, HALL",10/04/03/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29023/result_144739_1677696754_thumb.jpg,false
-DELTA,BURUTU,,EKEREMOBIRI I - EKEREMOBIRI    P/G,10/04/03/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29022/result_144738_1677696688_thumb.jpg,false
-DELTA,BURUTU,,"AKEREBUNU III  - PRIMARY SCHOOL, HALL    P/G",10/04/03/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29021/result_144737_1677696636_thumb.jpg,false
-DELTA,BURUTU,,AKEREBUNU II  - AREREBUNU   P/G,10/04/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29020/result_144736_1677696554_thumb.jpg,false
-DELTA,BURUTU,,AKEREBUNU I - EGBONWARE  P/G,10/04/03/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29019/result_144735_1677696507_thumb.jpg,false
-DELTA,BURUTU,,AYAMA  MARKET - MARKET  P/G,10/04/03/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29018/result_144734_1677696414_thumb.jpg,false
-DELTA,BURUTU,,"FOUKUNOU II & III  -  PRIMARY SCHOOL, HALL",10/04/03/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29017/result_144733_1677696368_thumb.jpg,false
-DELTA,BURUTU,,FOUKUNOU I - ASU  P/G,10/04/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+DELTA,BURUTU,TUOMO,AKEREBUNU QUARTERS PLAYGROUND,10/04/03/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629090/result_144751_1677697507_thumb.jpg,false
+DELTA,BURUTU,TUOMO,GARUWA PRIMARY SCHOOL,10/04/03/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629089/result_144750_1677697458_thumb.jpg,false
+DELTA,BURUTU,TUOMO,GOVERNMENT DAYCARE CENTER,10/04/03/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629088/result_144749_1677697406_thumb.jpg,false
+DELTA,BURUTU,TUOMO,TUO PRIMARY SCHOOL,10/04/03/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/629087/result_144748_1677697361_thumb.jpg,false
+DELTA,BURUTU,TUOMO,BOLOU  TUBEGBE  -  PRIMARY  SCHOOL,10/04/03/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29031/result_144747_1677697310_thumb.jpg,false
+DELTA,BURUTU,TUOMO,KOUWARE  - OFFICE  P/G,10/04/03/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29030/result_144746_1677697237_thumb.jpg,false
+DELTA,BURUTU,TUOMO,TRINITY ZION - ZION  P/G,10/04/03/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29029/result_144745_1677697188_thumb.jpg,false
+DELTA,BURUTU,TUOMO,AYAMA (OGBOBAGBENE) - REST HOUSE,10/04/03/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29028/result_144744_1677697130_thumb.jpg,false
+DELTA,BURUTU,TUOMO,OGBOBAGBENE /ORUBEBEBIRI - TIMIKORO  P/G,10/04/03/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29027/result_144743_1677697074_thumb.jpg,false
+DELTA,BURUTU,TUOMO,"OGBOBAGBENE I/EBIKEME - PRIMARY SCHOOL, HALL",10/04/03/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29026/result_144742_1677697017_thumb.jpg,false
+DELTA,BURUTU,TUOMO,"OGBOBAGBENE I EBIKEME - PRIMARY SCHOOL, HALL",10/04/03/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29025/result_144741_1677696863_thumb.jpg,false
+DELTA,BURUTU,TUOMO,AKENKI/DEWARE  -  AKEKIDE  P/G,10/04/03/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29024/result_144740_1677696806_thumb.jpg,false
+DELTA,BURUTU,TUOMO,"EKEREMOBIRI II & III  - PRIMARY SCHOOL, HALL",10/04/03/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29023/result_144739_1677696754_thumb.jpg,false
+DELTA,BURUTU,TUOMO,EKEREMOBIRI I - EKEREMOBIRI    P/G,10/04/03/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29022/result_144738_1677696688_thumb.jpg,false
+DELTA,BURUTU,TUOMO,"AKEREBUNU III  - PRIMARY SCHOOL, HALL    P/G",10/04/03/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29021/result_144737_1677696636_thumb.jpg,false
+DELTA,BURUTU,TUOMO,AKEREBUNU II  - AREREBUNU   P/G,10/04/03/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29020/result_144736_1677696554_thumb.jpg,false
+DELTA,BURUTU,TUOMO,AKEREBUNU I - EGBONWARE  P/G,10/04/03/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29019/result_144735_1677696507_thumb.jpg,false
+DELTA,BURUTU,TUOMO,AYAMA  MARKET - MARKET  P/G,10/04/03/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29018/result_144734_1677696414_thumb.jpg,false
+DELTA,BURUTU,TUOMO,"FOUKUNOU II & III  -  PRIMARY SCHOOL, HALL",10/04/03/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29017/result_144733_1677696368_thumb.jpg,false
+DELTA,BURUTU,TUOMO,FOUKUNOU I - ASU  P/G,10/04/03/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false

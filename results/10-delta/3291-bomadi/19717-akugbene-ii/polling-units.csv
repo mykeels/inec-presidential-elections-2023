@@ -1,23 +1,23 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,BOMADI,,EBIKABOWEI/AGORO AKUGBENE II.,10/03/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/136317/136317-1677523751.pdf,false
-DELTA,BOMADI,,WAIDE/DENORUBO HALL AKUGBENE II.,10/03/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/136320/136320-1677523387.pdf,false
-DELTA,BOMADI,,OKOKOLO/PEREKEYERIMENE AKUGBENE II.,10/03/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/136318/136318-1677522862.pdf,false
-DELTA,BOMADI,,"AKUGBENE TOWN HALL, AKUGBENE",10/03/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/28970/28970-1677522489.pdf,false
-DELTA,BOMADI,,TUADIBOFA/PEREBOKEYEI AKUGBENE II.,10/03/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/136319/136319-1677522185.pdf,false
-DELTA,BOMADI,,"LUKE/AMERICANO, EDON TOWN HALL AKUGBENE",10/03/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/28966/28966-1677522166.pdf,false
-DELTA,BOMADI,,BINEMUGHAN/ANGODIDE/SEKEBOLOR HALL AKUGBENEII|.,10/03/08/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/136327/136327-1677521339.pdf,false
-DELTA,BOMADI,,PENAOWEI ODIGIRIMA AKUGBENE II.,10/03/08/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/136323/136323-1677521020.pdf,false
-DELTA,BOMADI,,BIN OPEN SPACE AKUGBENE II.,10/03/08/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/136322/136322-1677520894.pdf,false
-DELTA,BOMADI,,EBIKABOWEI-AGORO HALL.,10/03/08/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/136326/136326-1677520432.pdf,false
-DELTA,BOMADI,,TAREBO HALL AKUGBENE II.,10/03/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/136321/136321-1677519975.pdf,false
-DELTA,BOMADI,,"ENEDE/KENEKE, ODIGIRIMA TOWN HALL AKUGBENE",10/03/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/28968/28968-1677519756.pdf,false
-DELTA,BOMADI,,AFANGI HALL AKUGBENE II,10/03/08/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/136324/136324-1677519556.pdf,false
-DELTA,BOMADI,,CARTER/BLACK  CARTER TOWN HALL AKUGBENE,10/03/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/28964/28964-1677518806.pdf,false
-DELTA,BOMADI,,"DOGBO/ANGOTAN, DOGBO TOWN HALL AKUGBENE",10/03/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/28965/28965-1677518600.pdf,false
-DELTA,BOMADI,,BENITU/TUATIMIYAI HALL AKUGBENE II.,10/03/08/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/136331/136331-1677518123.pdf,false
-DELTA,BOMADI,,"OYAYEFA/EBIKABOERE, OYAYEFA TOWN HALL AKUGBENE",10/03/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/28967/28967-1677518140.pdf,false
-DELTA,BOMADI,,"LUKE/AMERICANO, EDON TOWN HALL AKUGBENE",10/03/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/28969/28969-1677517597.pdf,false
-DELTA,BOMADI,,AKPODIBALAKUMO/OWEIZIOTUBO STR AKUGBENE II.,10/03/08/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/136328/136328-1677517416.pdf,false
-DELTA,BOMADI,,WEREBAKUMO/TUBOKEYEI STR AKUGBENE II.,10/03/08/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/136330/136330-1677517297.pdf,false
-DELTA,BOMADI,,"ADESEYAIKPO-EMI HALL, AKUGBENE II.",10/03/08/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/136325/136325-1677516971.pdf,false
-DELTA,BOMADI,,EDEMBOR/AKPA HALL AKUGBENE II.,10/03/08/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/136329/136329-1677516644.pdf,false
+DELTA,BOMADI,AKUGBENE  II,EBIKABOWEI/AGORO AKUGBENE II.,10/03/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/136317/136317-1677523751.pdf,false
+DELTA,BOMADI,AKUGBENE  II,WAIDE/DENORUBO HALL AKUGBENE II.,10/03/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/136320/136320-1677523387.pdf,false
+DELTA,BOMADI,AKUGBENE  II,OKOKOLO/PEREKEYERIMENE AKUGBENE II.,10/03/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/136318/136318-1677522862.pdf,false
+DELTA,BOMADI,AKUGBENE  II,"AKUGBENE TOWN HALL, AKUGBENE",10/03/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/28970/28970-1677522489.pdf,false
+DELTA,BOMADI,AKUGBENE  II,TUADIBOFA/PEREBOKEYEI AKUGBENE II.,10/03/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/136319/136319-1677522185.pdf,false
+DELTA,BOMADI,AKUGBENE  II,"LUKE/AMERICANO, EDON TOWN HALL AKUGBENE",10/03/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/28966/28966-1677522166.pdf,false
+DELTA,BOMADI,AKUGBENE  II,BINEMUGHAN/ANGODIDE/SEKEBOLOR HALL AKUGBENEII|.,10/03/08/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/136327/136327-1677521339.pdf,false
+DELTA,BOMADI,AKUGBENE  II,PENAOWEI ODIGIRIMA AKUGBENE II.,10/03/08/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/136323/136323-1677521020.pdf,false
+DELTA,BOMADI,AKUGBENE  II,BIN OPEN SPACE AKUGBENE II.,10/03/08/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/136322/136322-1677520894.pdf,false
+DELTA,BOMADI,AKUGBENE  II,EBIKABOWEI-AGORO HALL.,10/03/08/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/136326/136326-1677520432.pdf,false
+DELTA,BOMADI,AKUGBENE  II,TAREBO HALL AKUGBENE II.,10/03/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/136321/136321-1677519975.pdf,false
+DELTA,BOMADI,AKUGBENE  II,"ENEDE/KENEKE, ODIGIRIMA TOWN HALL AKUGBENE",10/03/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/28968/28968-1677519756.pdf,false
+DELTA,BOMADI,AKUGBENE  II,AFANGI HALL AKUGBENE II,10/03/08/015,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/136324/136324-1677519556.pdf,false
+DELTA,BOMADI,AKUGBENE  II,CARTER/BLACK  CARTER TOWN HALL AKUGBENE,10/03/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/28964/28964-1677518806.pdf,false
+DELTA,BOMADI,AKUGBENE  II,"DOGBO/ANGOTAN, DOGBO TOWN HALL AKUGBENE",10/03/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/28965/28965-1677518600.pdf,false
+DELTA,BOMADI,AKUGBENE  II,BENITU/TUATIMIYAI HALL AKUGBENE II.,10/03/08/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/136331/136331-1677518123.pdf,false
+DELTA,BOMADI,AKUGBENE  II,"OYAYEFA/EBIKABOERE, OYAYEFA TOWN HALL AKUGBENE",10/03/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/28967/28967-1677518140.pdf,false
+DELTA,BOMADI,AKUGBENE  II,"LUKE/AMERICANO, EDON TOWN HALL AKUGBENE",10/03/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/28969/28969-1677517597.pdf,false
+DELTA,BOMADI,AKUGBENE  II,AKPODIBALAKUMO/OWEIZIOTUBO STR AKUGBENE II.,10/03/08/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/136328/136328-1677517416.pdf,false
+DELTA,BOMADI,AKUGBENE  II,WEREBAKUMO/TUBOKEYEI STR AKUGBENE II.,10/03/08/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/136330/136330-1677517297.pdf,false
+DELTA,BOMADI,AKUGBENE  II,"ADESEYAIKPO-EMI HALL, AKUGBENE II.",10/03/08/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/136325/136325-1677516971.pdf,false
+DELTA,BOMADI,AKUGBENE  II,EDEMBOR/AKPA HALL AKUGBENE II.,10/03/08/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19717/pu/136329/136329-1677516644.pdf,false

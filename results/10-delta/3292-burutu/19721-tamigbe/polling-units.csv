@@ -1,15 +1,15 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,BURUTU,,HOLY CITY ZION - ZION  P/G,10/04/02/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29015/result_144731_1677695857_thumb.jpg,false
-DELTA,BURUTU,,HOLY CITY ZION - ZION  P/G,10/04/02/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29014/result_144730_1677695805_thumb.jpg,false
-DELTA,BURUTU,,BOUTAMAGBENE  -  BOUTAMA  P/G,10/04/02/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29013/result_144729_1677695749_thumb.jpg,false
-DELTA,BURUTU,,FOUKAMOGBENE -FOUKAMOGBENE  P/G,10/04/02/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29012/result_144728_1677695688_thumb.jpg,false
-DELTA,BURUTU,,ISREALLO  -  ZION P/G,10/04/02/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29011/result_144727_1677695595_thumb.jpg,false
-DELTA,BURUTU,,DOUBIGBO  ZION - ZION P/G,10/04/02/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29010/result_144726_1677695536_thumb.jpg,false
-DELTA,BURUTU,,TON-TONAMA - TONTONAMA P/G,10/04/02/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29009/result_144725_1677695410_thumb.jpg,false
-DELTA,BURUTU,,"OKUBOKPEDIGHA  - PRIMARY SCHOOL, HALL",10/04/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29008/result_144724_1677695278_thumb.jpg,false
-DELTA,BURUTU,,OGULAWARE - EMBRE P/G,10/04/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29007/result_144723_1677695156_thumb.jpg,false
-DELTA,BURUTU,,OZIARAWARE  -  NAMA  P/G,10/04/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29006/result_144722_1677694979_thumb.jpg,false
-DELTA,BURUTU,,OPUWARE  -  FEKETE  P/G,10/04/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29005/result_144721_1677694837_thumb.jpg,false
-DELTA,BURUTU,,BEBETONGBOLOMO  -  YANKEE  P/G,10/04/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29004/result_144720_1677694778_thumb.jpg,false
-DELTA,BURUTU,,PEREDE  -  TON TONAMA  P/G,10/04/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29003/result_144719_1677694690_thumb.jpg,false
-DELTA,BURUTU,,"OZIARAUOPOMU  -  PRIMARY SCHOOL, HALL",10/04/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29002/result_144718_1677694621_thumb.jpg,false
+DELTA,BURUTU,TAMIGBE,HOLY CITY ZION - ZION  P/G,10/04/02/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29015/result_144731_1677695857_thumb.jpg,false
+DELTA,BURUTU,TAMIGBE,HOLY CITY ZION - ZION  P/G,10/04/02/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29014/result_144730_1677695805_thumb.jpg,false
+DELTA,BURUTU,TAMIGBE,BOUTAMAGBENE  -  BOUTAMA  P/G,10/04/02/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29013/result_144729_1677695749_thumb.jpg,false
+DELTA,BURUTU,TAMIGBE,FOUKAMOGBENE -FOUKAMOGBENE  P/G,10/04/02/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29012/result_144728_1677695688_thumb.jpg,false
+DELTA,BURUTU,TAMIGBE,ISREALLO  -  ZION P/G,10/04/02/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29011/result_144727_1677695595_thumb.jpg,false
+DELTA,BURUTU,TAMIGBE,DOUBIGBO  ZION - ZION P/G,10/04/02/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29010/result_144726_1677695536_thumb.jpg,false
+DELTA,BURUTU,TAMIGBE,TON-TONAMA - TONTONAMA P/G,10/04/02/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29009/result_144725_1677695410_thumb.jpg,false
+DELTA,BURUTU,TAMIGBE,"OKUBOKPEDIGHA  - PRIMARY SCHOOL, HALL",10/04/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29008/result_144724_1677695278_thumb.jpg,false
+DELTA,BURUTU,TAMIGBE,OGULAWARE - EMBRE P/G,10/04/02/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29007/result_144723_1677695156_thumb.jpg,false
+DELTA,BURUTU,TAMIGBE,OZIARAWARE  -  NAMA  P/G,10/04/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29006/result_144722_1677694979_thumb.jpg,false
+DELTA,BURUTU,TAMIGBE,OPUWARE  -  FEKETE  P/G,10/04/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29005/result_144721_1677694837_thumb.jpg,false
+DELTA,BURUTU,TAMIGBE,BEBETONGBOLOMO  -  YANKEE  P/G,10/04/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29004/result_144720_1677694778_thumb.jpg,false
+DELTA,BURUTU,TAMIGBE,PEREDE  -  TON TONAMA  P/G,10/04/02/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29003/result_144719_1677694690_thumb.jpg,false
+DELTA,BURUTU,TAMIGBE,"OZIARAUOPOMU  -  PRIMARY SCHOOL, HALL",10/04/02/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29002/result_144718_1677694621_thumb.jpg,false

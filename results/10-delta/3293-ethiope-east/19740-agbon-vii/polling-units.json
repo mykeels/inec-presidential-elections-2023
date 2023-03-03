@@ -26,6 +26,7 @@
     "pu_code_string": "100510005",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  EAST",
+    "ward_name": "AGBON  VII",
     "document": {
       "external": false,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "100510006",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  EAST",
+    "ward_name": "AGBON  VII",
     "document": {
       "external": false,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "100510002",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  EAST",
+    "ward_name": "AGBON  VII",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -132,6 +135,7 @@
     "pu_code_string": "100510007",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  EAST",
+    "ward_name": "AGBON  VII",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -162,6 +166,7 @@
     "pu_code_string": "100510012",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  EAST",
+    "ward_name": "AGBON  VII",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -192,6 +197,7 @@
     "pu_code_string": "100510010",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  EAST",
+    "ward_name": "AGBON  VII",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -222,6 +228,7 @@
     "pu_code_string": "100510015",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  EAST",
+    "ward_name": "AGBON  VII",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -252,6 +259,7 @@
     "pu_code_string": "100510004",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  EAST",
+    "ward_name": "AGBON  VII",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -282,6 +290,7 @@
     "pu_code_string": "100510009",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  EAST",
+    "ward_name": "AGBON  VII",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -312,6 +321,7 @@
     "pu_code_string": "100510014",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  EAST",
+    "ward_name": "AGBON  VII",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -342,6 +352,7 @@
     "pu_code_string": "100510001",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  EAST",
+    "ward_name": "AGBON  VII",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -372,6 +383,7 @@
     "pu_code_string": "100510011",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  EAST",
+    "ward_name": "AGBON  VII",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -402,6 +414,7 @@
     "pu_code_string": "100510003",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  EAST",
+    "ward_name": "AGBON  VII",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -432,6 +445,7 @@
     "pu_code_string": "100510008",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  EAST",
+    "ward_name": "AGBON  VII",
     "old_documents": [],
     "has_old_documents": false
   },
@@ -462,6 +476,7 @@
     "pu_code_string": "100510013",
     "state_name": "DELTA",
     "lga_name": "ETHIOPE  EAST",
+    "ward_name": "AGBON  VII",
     "old_documents": [],
     "has_old_documents": false
   }

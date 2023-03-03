@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,IKA - SOUTH,,"OLD COURT HALL, EKUKU - AGBOR III",10/08/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/007/007-1677419054.pdf,false
-DELTA,IKA - SOUTH,,"IDUHOR  PRIMARY SCHOOL, EKUKU - AGBOR",10/08/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/011/011-1677418572.pdf,false
-DELTA,IKA - SOUTH,,"OLD COURT HALL, EKUKU - AGBOR II",10/08/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/006/006-1677418508.pdf,false
-DELTA,IKA - SOUTH,,"OMIE PRIMARY SCHOOL, EKUKU - AGBOR IV",10/08/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/004/004-1677418332.pdf,false
-DELTA,IKA - SOUTH,,"UMU  PRIMARY SCHOOL, EKUKU - AGBOR II",10/08/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/013/013-1677418201.pdf,false
-DELTA,IKA - SOUTH,,"UMUOSUN
+DELTA,IKA - SOUTH,EKUKU - AGBOR,"OLD COURT HALL, EKUKU - AGBOR III",10/08/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/007/007-1677419054.pdf,false
+DELTA,IKA - SOUTH,EKUKU - AGBOR,"IDUHOR  PRIMARY SCHOOL, EKUKU - AGBOR",10/08/05/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/011/011-1677418572.pdf,false
+DELTA,IKA - SOUTH,EKUKU - AGBOR,"OLD COURT HALL, EKUKU - AGBOR II",10/08/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/006/006-1677418508.pdf,false
+DELTA,IKA - SOUTH,EKUKU - AGBOR,"OMIE PRIMARY SCHOOL, EKUKU - AGBOR IV",10/08/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/004/004-1677418332.pdf,false
+DELTA,IKA - SOUTH,EKUKU - AGBOR,"UMU  PRIMARY SCHOOL, EKUKU - AGBOR II",10/08/05/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/013/013-1677418201.pdf,false
+DELTA,IKA - SOUTH,EKUKU - AGBOR,"UMUOSUN
 COMMUNITY HALL, EKUKU AGBOR",10/08/05/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/016/016-1677418022.pdf,false
-DELTA,IKA - SOUTH,,"OMU-IZEHEN PRIMARY SCHOOL, EKUKU AGBOR II",10/08/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/009/009-1677417890.pdf,false
-DELTA,IKA - SOUTH,,"OMIE PRIMARY SCHOOL, EKUKU - AGBOR II",10/08/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/002/002-1677417770.pdf,false
-DELTA,IKA - SOUTH,,"UMU  PRIMARY SCHOOL, EKUKU - AGBOR I",10/08/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/012/012-1677417686.pdf,false
-DELTA,IKA - SOUTH,,"OMIE PRIMARY SCHOOL, EKUKU - AGBOR I",10/08/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/001/001-1677417660.pdf,false
-DELTA,IKA - SOUTH,,"OMIE PRIMARY SCHOOL, EKUKU - AGBOR III",10/08/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/003/003-1677417399.pdf,false
-DELTA,IKA - SOUTH,,"SHOW THE LIGHT COMMUNITY HALL, EKUKU AGBOR",10/08/05/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/015/015-1677417242.pdf,false
-DELTA,IKA - SOUTH,,"EKUKU AGBOR OPEN SPACE, EKUKU AGBOR",10/08/05/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/017/017-1677416995.pdf,false
-DELTA,IKA - SOUTH,,"OMU-IZEHEN PRIMARY SCHOOL, EKUKU AGBOR I",10/08/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/008/008-1677416920.pdf,false
-DELTA,IKA - SOUTH,,"OLD COURT HALL, EKUKU - AGBOR I",10/08/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/005/005-1677416803.pdf,false
-DELTA,IKA - SOUTH,,"IDUMUISIOGI  COMMUNITY HALL, EKUKU AGBOR",10/08/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/014/014-1677416756.pdf,false
-DELTA,IKA - SOUTH,,"ALAKADA PRIMARY SCHOOL, EKUKU - AGBOR",10/08/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/010/010-1677416419.pdf,false
+DELTA,IKA - SOUTH,EKUKU - AGBOR,"OMU-IZEHEN PRIMARY SCHOOL, EKUKU AGBOR II",10/08/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/009/009-1677417890.pdf,false
+DELTA,IKA - SOUTH,EKUKU - AGBOR,"OMIE PRIMARY SCHOOL, EKUKU - AGBOR II",10/08/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/002/002-1677417770.pdf,false
+DELTA,IKA - SOUTH,EKUKU - AGBOR,"UMU  PRIMARY SCHOOL, EKUKU - AGBOR I",10/08/05/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/012/012-1677417686.pdf,false
+DELTA,IKA - SOUTH,EKUKU - AGBOR,"OMIE PRIMARY SCHOOL, EKUKU - AGBOR I",10/08/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/001/001-1677417660.pdf,false
+DELTA,IKA - SOUTH,EKUKU - AGBOR,"OMIE PRIMARY SCHOOL, EKUKU - AGBOR III",10/08/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/003/003-1677417399.pdf,false
+DELTA,IKA - SOUTH,EKUKU - AGBOR,"SHOW THE LIGHT COMMUNITY HALL, EKUKU AGBOR",10/08/05/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/015/015-1677417242.pdf,false
+DELTA,IKA - SOUTH,EKUKU - AGBOR,"EKUKU AGBOR OPEN SPACE, EKUKU AGBOR",10/08/05/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/017/017-1677416995.pdf,false
+DELTA,IKA - SOUTH,EKUKU - AGBOR,"OMU-IZEHEN PRIMARY SCHOOL, EKUKU AGBOR I",10/08/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/008/008-1677416920.pdf,false
+DELTA,IKA - SOUTH,EKUKU - AGBOR,"OLD COURT HALL, EKUKU - AGBOR I",10/08/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/005/005-1677416803.pdf,false
+DELTA,IKA - SOUTH,EKUKU - AGBOR,"IDUMUISIOGI  COMMUNITY HALL, EKUKU AGBOR",10/08/05/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/014/014-1677416756.pdf,false
+DELTA,IKA - SOUTH,EKUKU - AGBOR,"ALAKADA PRIMARY SCHOOL, EKUKU - AGBOR",10/08/05/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/05/pu/010/010-1677416419.pdf,false

@@ -1,25 +1,25 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,BOMADI,,"GBODOKUMOR/OMUNGBE 2, OGRIAGBENE.",10/03/04/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/136286/136286-1677567140.pdf,true
-DELTA,BOMADI,,"ZISINGHAN, OGRIAGBENE.",10/03/04/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/136289/136289-1677565916.pdf,true
-DELTA,BOMADI,,"FEBUA, OGRIAGBENE.",10/03/04/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/136288/136288-1677565473.pdf,true
-DELTA,BOMADI,,"ASOLOWARE/ABBI 1, OGRIAGBENE.",10/03/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/136277/136277-1677565181.pdf,true
-DELTA,BOMADI,,GBODOKUMOR/OKUBO O/S  OGRIAGBENE,10/03/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/28933/28933-1677564773.pdf,true
-DELTA,BOMADI,,GBODOKUMOR/OKUBO     O/S,10/03/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/28939/28939-1677564165.pdf,true
-DELTA,BOMADI,,OTOBO LANE O/S   OGRIAGBENE,10/03/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/28934/28934-1677563078.pdf,true
-DELTA,BOMADI,,"GBODOKUMOR 1, OGRIAGBENE.",10/03/04/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/136283/136283-1677562501.pdf,true
-DELTA,BOMADI,,"GBODOKUMOR 2, OGRIAGBENE.",10/03/04/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/136284/136284-1677537783.pdf,false
-DELTA,BOMADI,,AMOUKOROGHA   O/S   OGRIAGBENE,10/03/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/28935/28935-1677537364.pdf,false
-DELTA,BOMADI,,"GBODOKUMOR/OMUNGBE 3, OGRIAGBENE.",10/03/04/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/136287/136287-1677536207.pdf,false
-DELTA,BOMADI,,GBODOKUMOR/OKUBO     O/S   OGRIAGBENE II,10/03/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/28938/28938-1677535726.pdf,false
-DELTA,BOMADI,,"AYAMA HALL, OGRIAGBENE.",10/03/04/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/136281/136281-1677534856.pdf,false
-DELTA,BOMADI,,ONORUN/OKUBO/BEINMBOU  O/S    OGRIAGBENE,10/03/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/28940/28940-1677534149.pdf,false
-DELTA,BOMADI,,"OTOBO/ANGADI, OGRIAGBENE.",10/03/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/136279/136279-1677533881.pdf,false
-DELTA,BOMADI,,"GBODOKUMOR/OMUNGBE, OGRIAGBENE.",10/03/04/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/136285/136285-1677533715.pdf,false
-DELTA,BOMADI,,ATAMA 1 & 2  O/S  OGRIAGBENE,10/03/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/28941/28941-1677532752.pdf,false
-DELTA,BOMADI,,"ASOLOWARE/ORUABENA/ABBI 2, OGRIAGBENE.",10/03/04/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/136282/136282-1677532581.pdf,false
-DELTA,BOMADI,,OKOROWARE/FEBUGHA    O/S   OGRIAGBENE,10/03/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/28936/28936-1677531446.pdf,false
-DELTA,BOMADI,,"EKPEDENGHA/ONURUN, OGRIAGBENE.",10/03/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/136278/136278-1677530946.pdf,false
-DELTA,BOMADI,,ASOLOWARE/AKPEDENGHA OGRIAGBENE,10/03/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/04/pu/001/001-1677384137.pdf,false
-DELTA,BOMADI,,"OTOBO/BULOUPESIBO HALL, OGRIAGBENE,",10/03/04/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/04/pu/015/015-1677380484.pdf,false
-DELTA,BOMADI,,"AMOUKORAGHA/ANDUOWARE HALL, OGRIAGBENE.",10/03/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/04/pu/011/011-1677379259.pdf,false
-DELTA,BOMADI,,GBODOKUMOR/OKUBO     O/S   OGRIAGBENE I,10/03/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/04/pu/006/006-1677377086.pdf,false
+DELTA,BOMADI,OGRIAGBENE,"GBODOKUMOR/OMUNGBE 2, OGRIAGBENE.",10/03/04/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/136286/136286-1677567140.pdf,true
+DELTA,BOMADI,OGRIAGBENE,"ZISINGHAN, OGRIAGBENE.",10/03/04/024,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/136289/136289-1677565916.pdf,true
+DELTA,BOMADI,OGRIAGBENE,"FEBUA, OGRIAGBENE.",10/03/04/023,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/136288/136288-1677565473.pdf,true
+DELTA,BOMADI,OGRIAGBENE,"ASOLOWARE/ABBI 1, OGRIAGBENE.",10/03/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/136277/136277-1677565181.pdf,true
+DELTA,BOMADI,OGRIAGBENE,GBODOKUMOR/OKUBO O/S  OGRIAGBENE,10/03/04/002,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/28933/28933-1677564773.pdf,true
+DELTA,BOMADI,OGRIAGBENE,GBODOKUMOR/OKUBO     O/S,10/03/04/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/28939/28939-1677564165.pdf,true
+DELTA,BOMADI,OGRIAGBENE,OTOBO LANE O/S   OGRIAGBENE,10/03/04/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/28934/28934-1677563078.pdf,true
+DELTA,BOMADI,OGRIAGBENE,"GBODOKUMOR 1, OGRIAGBENE.",10/03/04/018,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/136283/136283-1677562501.pdf,true
+DELTA,BOMADI,OGRIAGBENE,"GBODOKUMOR 2, OGRIAGBENE.",10/03/04/019,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/136284/136284-1677537783.pdf,false
+DELTA,BOMADI,OGRIAGBENE,AMOUKOROGHA   O/S   OGRIAGBENE,10/03/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/28935/28935-1677537364.pdf,false
+DELTA,BOMADI,OGRIAGBENE,"GBODOKUMOR/OMUNGBE 3, OGRIAGBENE.",10/03/04/022,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/136287/136287-1677536207.pdf,false
+DELTA,BOMADI,OGRIAGBENE,GBODOKUMOR/OKUBO     O/S   OGRIAGBENE II,10/03/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/28938/28938-1677535726.pdf,false
+DELTA,BOMADI,OGRIAGBENE,"AYAMA HALL, OGRIAGBENE.",10/03/04/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/136281/136281-1677534856.pdf,false
+DELTA,BOMADI,OGRIAGBENE,ONORUN/OKUBO/BEINMBOU  O/S    OGRIAGBENE,10/03/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/28940/28940-1677534149.pdf,false
+DELTA,BOMADI,OGRIAGBENE,"OTOBO/ANGADI, OGRIAGBENE.",10/03/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/136279/136279-1677533881.pdf,false
+DELTA,BOMADI,OGRIAGBENE,"GBODOKUMOR/OMUNGBE, OGRIAGBENE.",10/03/04/020,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/136285/136285-1677533715.pdf,false
+DELTA,BOMADI,OGRIAGBENE,ATAMA 1 & 2  O/S  OGRIAGBENE,10/03/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/28941/28941-1677532752.pdf,false
+DELTA,BOMADI,OGRIAGBENE,"ASOLOWARE/ORUABENA/ABBI 2, OGRIAGBENE.",10/03/04/017,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/136282/136282-1677532581.pdf,false
+DELTA,BOMADI,OGRIAGBENE,OKOROWARE/FEBUGHA    O/S   OGRIAGBENE,10/03/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/28936/28936-1677531446.pdf,false
+DELTA,BOMADI,OGRIAGBENE,"EKPEDENGHA/ONURUN, OGRIAGBENE.",10/03/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19713/pu/136278/136278-1677530946.pdf,false
+DELTA,BOMADI,OGRIAGBENE,ASOLOWARE/AKPEDENGHA OGRIAGBENE,10/03/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/04/pu/001/001-1677384137.pdf,false
+DELTA,BOMADI,OGRIAGBENE,"OTOBO/BULOUPESIBO HALL, OGRIAGBENE,",10/03/04/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/04/pu/015/015-1677380484.pdf,false
+DELTA,BOMADI,OGRIAGBENE,"AMOUKORAGHA/ANDUOWARE HALL, OGRIAGBENE.",10/03/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/04/pu/011/011-1677379259.pdf,false
+DELTA,BOMADI,OGRIAGBENE,GBODOKUMOR/OKUBO     O/S   OGRIAGBENE I,10/03/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/04/pu/006/006-1677377086.pdf,false

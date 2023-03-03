@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,BOMADI,,AGBOR  CAMP  O/S OGBEINAMA,10/03/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19715/pu/28955/28955-1677527501.pdf,false
-DELTA,BOMADI,,PRIMARY SCHOOL/KOROWEI/NAKADE  O/S  OGBEINAMA,10/03/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19715/pu/28954/28954-1677526302.pdf,false
-DELTA,BOMADI,,EKPARON/KOTOKIRI/AGOBO VI    O/S  OGBEINAMA,10/03/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19715/pu/28952/28952-1677526198.pdf,false
-DELTA,BOMADI,,GODDAY/MANAGER/TEIBOWEI O/S OGBEINAMA,10/03/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/06/pu/001/001-1677406175.pdf,false
-DELTA,BOMADI,,"TEKEME, OGBEIAMA SEC. SCH.OGBEIAMA.",10/03/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/06/pu/012/012-1677404387.pdf,false
-DELTA,BOMADI,,OROUNA/OBURUMU/YOUNBAI  O/S  OGBEINAMA,10/03/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/06/pu/004/004-1677404332.pdf,false
-DELTA,BOMADI,,"AKA/KENE/DASIWARE/AMABRA/AGURE,  OKOLOBA",10/03/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/06/pu/007/007-1677404332.pdf,false
-DELTA,BOMADI,,GOVT. SECONDARY SCH. AGUWARE OKOLOBA.,10/03/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/06/pu/009/009-1677404325.pdf,false
-DELTA,BOMADI,,WORDU/ZIPAMOH/SIENTEBE   O/S  OGBEINAMA,10/03/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/06/pu/002/002-1677404295.pdf,false
-DELTA,BOMADI,,"FOUKUNOU/AKPEKEME/TANGBEKUMOR HALL, OGBEIAMA/OKOLOBA.",10/03/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/06/pu/011/011-1677400178.pdf,false
-DELTA,BOMADI,,GOVT. MATERNITY ASAWARE OKOLOBA.,10/03/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/06/pu/008/008-1677399664.pdf,false
-DELTA,BOMADI,,OKOLOBA PRY. SCH. OKOLOBA.,10/03/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/06/pu/010/010-1677358599.pdf,false
+DELTA,BOMADI,OGBEINAMA/OKOLOBA,AGBOR  CAMP  O/S OGBEINAMA,10/03/06/006,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19715/pu/28955/28955-1677527501.pdf,false
+DELTA,BOMADI,OGBEINAMA/OKOLOBA,PRIMARY SCHOOL/KOROWEI/NAKADE  O/S  OGBEINAMA,10/03/06/005,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19715/pu/28954/28954-1677526302.pdf,false
+DELTA,BOMADI,OGBEINAMA/OKOLOBA,EKPARON/KOTOKIRI/AGOBO VI    O/S  OGBEINAMA,10/03/06/003,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3291/ward/19715/pu/28952/28952-1677526198.pdf,false
+DELTA,BOMADI,OGBEINAMA/OKOLOBA,GODDAY/MANAGER/TEIBOWEI O/S OGBEINAMA,10/03/06/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/06/pu/001/001-1677406175.pdf,false
+DELTA,BOMADI,OGBEINAMA/OKOLOBA,"TEKEME, OGBEIAMA SEC. SCH.OGBEIAMA.",10/03/06/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/06/pu/012/012-1677404387.pdf,false
+DELTA,BOMADI,OGBEINAMA/OKOLOBA,OROUNA/OBURUMU/YOUNBAI  O/S  OGBEINAMA,10/03/06/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/06/pu/004/004-1677404332.pdf,false
+DELTA,BOMADI,OGBEINAMA/OKOLOBA,"AKA/KENE/DASIWARE/AMABRA/AGURE,  OKOLOBA",10/03/06/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/06/pu/007/007-1677404332.pdf,false
+DELTA,BOMADI,OGBEINAMA/OKOLOBA,GOVT. SECONDARY SCH. AGUWARE OKOLOBA.,10/03/06/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/06/pu/009/009-1677404325.pdf,false
+DELTA,BOMADI,OGBEINAMA/OKOLOBA,WORDU/ZIPAMOH/SIENTEBE   O/S  OGBEINAMA,10/03/06/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/06/pu/002/002-1677404295.pdf,false
+DELTA,BOMADI,OGBEINAMA/OKOLOBA,"FOUKUNOU/AKPEKEME/TANGBEKUMOR HALL, OGBEIAMA/OKOLOBA.",10/03/06/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/06/pu/011/011-1677400178.pdf,false
+DELTA,BOMADI,OGBEINAMA/OKOLOBA,GOVT. MATERNITY ASAWARE OKOLOBA.,10/03/06/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/06/pu/008/008-1677399664.pdf,false
+DELTA,BOMADI,OGBEINAMA/OKOLOBA,OKOLOBA PRY. SCH. OKOLOBA.,10/03/06/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/06/pu/010/010-1677358599.pdf,false

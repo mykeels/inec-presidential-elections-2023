@@ -1,18 +1,18 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-DELTA,IKA - SOUTH,,"CHARLES BURR  PRIMARY SCHOOL, BOJI - BOJI  I - III",10/08/07/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29738/result_145698_1677655203_thumb.jpg,false
-DELTA,IKA - SOUTH,,"FEDERAL HEALTH CENTRE, BOJI BOJI I, AGBOR",10/08/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/015/015-1677424877.pdf,false
-DELTA,IKA - SOUTH,,"EDIKE INTERNATIONAL MARKET, BOJI BOJI I, AGBOR",10/08/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/014/014-1677424815.pdf,false
-DELTA,IKA - SOUTH,,"OPEN SPACE BY UROMI JUNCTION, BOJI BOJI I, AGBOR",10/08/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/016/016-1677424699.pdf,false
-DELTA,IKA - SOUTH,,"OROGODO PRIMARY SCHOOL, BOJI - BOJI  I - I",10/08/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/002/002-1677424298.pdf,false
-DELTA,IKA - SOUTH,,"CHARLES BURR  PRIMARY SCHOOL, BOJI - BOJI  I - II",10/08/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/007/007-1677424064.pdf,false
-DELTA,IKA - SOUTH,,"OROGODO PRIMARY SCHOOL, BOJI - BOJI  I - III",10/08/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/004/004-1677423859.pdf,false
-DELTA,IKA - SOUTH,,"ALIBAUBA PRIMARY SCHOOL, BOJI BOJI I, AGBOR",10/08/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/017/017-1677423828.pdf,false
-DELTA,IKA - SOUTH,,"CHARLES BURR  PRIMARY SCHOOL, BOJI - BOJI  I - IV",10/08/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/009/009-1677423612.pdf,false
-DELTA,IKA - SOUTH,,"CHARLES BURR  PRIMARY SCHOOL, BOJI - BOJI  I - I",10/08/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/006/006-1677423298.pdf,false
-DELTA,IKA - SOUTH,,"OROGODO PRIMARY SCHOOL, BOJI - BOJI  I - II",10/08/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/003/003-1677423230.pdf,false
-DELTA,IKA - SOUTH,,"AGBOR TECH COLLEGE, BOJI - BOJI  I",10/08/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/012/012-1677423130.pdf,false
-DELTA,IKA - SOUTH,,"CHARLES BURR  PRIMARY SCHOOL, BOJI - BOJI  I - V",10/08/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/010/010-1677423005.pdf,false
-DELTA,IKA - SOUTH,,"UROMI/AUCHI MOTOR PARK, BOJI - BOJI  I",10/08/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/011/011-1677422831.pdf,false
-DELTA,IKA - SOUTH,,"IKA NATIONAL HALL, BOJI-BOJI I",10/08/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/001/001-1677422792.pdf,false
-DELTA,IKA - SOUTH,,"OROGODO PRIMARY SCHOOL, BOJI - BOJI  I - IV",10/08/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/005/005-1677422645.pdf,false
-DELTA,IKA - SOUTH,,"OPEN SPACE BY OTEKILE JUNCTION, BOJI BOJI I, AGBOR",10/08/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/013/013-1677386873.pdf,false
+DELTA,IKA - SOUTH,BOJI - BOJI I,"CHARLES BURR  PRIMARY SCHOOL, BOJI - BOJI  I - III",10/08/07/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/29738/result_145698_1677655203_thumb.jpg,false
+DELTA,IKA - SOUTH,BOJI - BOJI I,"FEDERAL HEALTH CENTRE, BOJI BOJI I, AGBOR",10/08/07/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/015/015-1677424877.pdf,false
+DELTA,IKA - SOUTH,BOJI - BOJI I,"EDIKE INTERNATIONAL MARKET, BOJI BOJI I, AGBOR",10/08/07/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/014/014-1677424815.pdf,false
+DELTA,IKA - SOUTH,BOJI - BOJI I,"OPEN SPACE BY UROMI JUNCTION, BOJI BOJI I, AGBOR",10/08/07/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/016/016-1677424699.pdf,false
+DELTA,IKA - SOUTH,BOJI - BOJI I,"OROGODO PRIMARY SCHOOL, BOJI - BOJI  I - I",10/08/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/002/002-1677424298.pdf,false
+DELTA,IKA - SOUTH,BOJI - BOJI I,"CHARLES BURR  PRIMARY SCHOOL, BOJI - BOJI  I - II",10/08/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/007/007-1677424064.pdf,false
+DELTA,IKA - SOUTH,BOJI - BOJI I,"OROGODO PRIMARY SCHOOL, BOJI - BOJI  I - III",10/08/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/004/004-1677423859.pdf,false
+DELTA,IKA - SOUTH,BOJI - BOJI I,"ALIBAUBA PRIMARY SCHOOL, BOJI BOJI I, AGBOR",10/08/07/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/017/017-1677423828.pdf,false
+DELTA,IKA - SOUTH,BOJI - BOJI I,"CHARLES BURR  PRIMARY SCHOOL, BOJI - BOJI  I - IV",10/08/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/009/009-1677423612.pdf,false
+DELTA,IKA - SOUTH,BOJI - BOJI I,"CHARLES BURR  PRIMARY SCHOOL, BOJI - BOJI  I - I",10/08/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/006/006-1677423298.pdf,false
+DELTA,IKA - SOUTH,BOJI - BOJI I,"OROGODO PRIMARY SCHOOL, BOJI - BOJI  I - II",10/08/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/003/003-1677423230.pdf,false
+DELTA,IKA - SOUTH,BOJI - BOJI I,"AGBOR TECH COLLEGE, BOJI - BOJI  I",10/08/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/012/012-1677423130.pdf,false
+DELTA,IKA - SOUTH,BOJI - BOJI I,"CHARLES BURR  PRIMARY SCHOOL, BOJI - BOJI  I - V",10/08/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/010/010-1677423005.pdf,false
+DELTA,IKA - SOUTH,BOJI - BOJI I,"UROMI/AUCHI MOTOR PARK, BOJI - BOJI  I",10/08/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/011/011-1677422831.pdf,false
+DELTA,IKA - SOUTH,BOJI - BOJI I,"IKA NATIONAL HALL, BOJI-BOJI I",10/08/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/001/001-1677422792.pdf,false
+DELTA,IKA - SOUTH,BOJI - BOJI I,"OROGODO PRIMARY SCHOOL, BOJI - BOJI  I - IV",10/08/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/005/005-1677422645.pdf,false
+DELTA,IKA - SOUTH,BOJI - BOJI I,"OPEN SPACE BY OTEKILE JUNCTION, BOJI BOJI I, AGBOR",10/08/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/08/ward/07/pu/013/013-1677386873.pdf,false
