@@ -1,0 +1,16 @@
+state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
+KADUNA,SANGA,,MAITOZO,18/20/04/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55914/result_117686_1677615631_thumb.jpg,false
+KADUNA,SANGA,,KWASSU,18/20/04/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55915/result_117687_1677615364_thumb.jpg,false
+KADUNA,SANGA,,DOROWA,18/20/04/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/55920/result_117692_1677614904_thumb.jpg,false
+KADUNA,SANGA,,SAMBE,18/20/04/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/04/pu/007/007-1677362355.pdf,false
+KADUNA,SANGA,,KWASU TITI,18/20/04/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/04/pu/004/004-1677388370.pdf,false
+KADUNA,SANGA,,UNG KAURA II,18/20/04/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/04/pu/010/010-1677362312.pdf,false
+KADUNA,SANGA,,LEA PRI SCH,18/20/04/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/04/pu/015/015-1677361302.pdf,false
+KADUNA,SANGA,,NINCHE,18/20/04/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/04/pu/005/005-1677360198.pdf,false
+KADUNA,SANGA,,UNG KAURA I,18/20/04/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/04/pu/006/006-1677359588.pdf,false
+KADUNA,SANGA,,FADAN WATE,18/20/04/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/04/pu/001/001-1677359473.pdf,false
+KADUNA,SANGA,,LEA PRI SCH MAITOZO II,18/20/04/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/04/pu/012/012-1677359361.pdf,false
+KADUNA,SANGA,,KWASSU II,18/20/04/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/04/pu/009/009-1677358676.pdf,false
+KADUNA,SANGA,,LEA PRI SCH MAITOZO III,18/20/04/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/04/pu/013/013-1677358655.pdf,false
+KADUNA,SANGA,,LEA PRI SCH,18/20/04/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/04/pu/014/014-1677358593.pdf,false
+KADUNA,SANGA,,MODEL PRI SCH,18/20/04/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/20/ward/04/pu/011/011-1677358583.pdf,false
