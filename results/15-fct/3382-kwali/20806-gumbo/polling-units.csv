@@ -1,19 +1,19 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-FCT,KWALI,,JUNIOR SEC. SCH. PIRI.,37/05/08/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636451/result_97715_1677602016_thumb.jpg,false
-FCT,KWALI,,ELE VILLAGE,37/05/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618046/result_97709_1677596492_thumb.jpg,false
-FCT,KWALI,,PRI HEALTH CARE CENTRE KWAITA HAUSA,37/05/08/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636453/result_97713_1677591941_thumb.jpg,false
-FCT,KWALI,,KAMADI SABO SCH. II PRI,37/05/08/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/017/017-1677385832.pdf,false
-FCT,KWALI,,PIRI  /  PRIMARY SCHOOL,37/05/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/003/003-1677385292.pdf,false
-FCT,KWALI,,KWAITA HAUSA  /  PRIMARY SCHOL,37/05/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/002/002-1677384861.pdf,false
-FCT,KWALI,,KAMADI SABO/PRIMARY SCHOOL,37/05/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/005/005-1677384032.pdf,false
-FCT,KWALI,,LEA.PRI SCH.II,37/05/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/010/010-1677383669.pdf,false
-FCT,KWALI,,GUMBO  /  PRIMARY SCHOL,37/05/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/001/001-1677383240.pdf,false
-FCT,KWALI,,GUMBO VILLAGE SQ.,37/05/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/009/009-1677383083.pdf,false
-FCT,KWALI,,JUNIOR SEC. SCH KWAITA HAUSA,37/05/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/011/011-1677382792.pdf,false
-FCT,KWALI,,LEA.PRIMARY SCH.II,37/05/08/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/013/013-1677382484.pdf,false
-FCT,KWALI,,PIRI VILLAGE,37/05/08/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/015/015-1677382312.pdf,false
-FCT,KWALI,,HEALTH CENTRE GUMBO,37/05/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/006/006-1677381930.pdf,false
-FCT,KWALI,,SHAPKATE,37/05/08/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/018/018-1677381420.pdf,false
-FCT,KWALI,,LUKODA VILLAGE,37/05/08/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/016/016-1677381224.pdf,false
-FCT,KWALI,,ANINI VILLAGE SQUARE,37/05/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/004/004-1677380425.pdf,false
-FCT,KWALI,,KWAITA GANGARE,37/05/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/007/007-1677378872.pdf,false
+FCT,KWALI,GUMBO,JUNIOR SEC. SCH. PIRI.,37/05/08/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636451/result_97715_1677602016_thumb.jpg,false
+FCT,KWALI,GUMBO,ELE VILLAGE,37/05/08/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618046/result_97709_1677596492_thumb.jpg,false
+FCT,KWALI,GUMBO,PRI HEALTH CARE CENTRE KWAITA HAUSA,37/05/08/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636453/result_97713_1677591941_thumb.jpg,false
+FCT,KWALI,GUMBO,KAMADI SABO SCH. II PRI,37/05/08/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/017/017-1677385832.pdf,false
+FCT,KWALI,GUMBO,PIRI  /  PRIMARY SCHOOL,37/05/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/003/003-1677385292.pdf,false
+FCT,KWALI,GUMBO,KWAITA HAUSA  /  PRIMARY SCHOL,37/05/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/002/002-1677384861.pdf,false
+FCT,KWALI,GUMBO,KAMADI SABO/PRIMARY SCHOOL,37/05/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/005/005-1677384032.pdf,false
+FCT,KWALI,GUMBO,LEA.PRI SCH.II,37/05/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/010/010-1677383669.pdf,false
+FCT,KWALI,GUMBO,GUMBO  /  PRIMARY SCHOL,37/05/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/001/001-1677383240.pdf,false
+FCT,KWALI,GUMBO,GUMBO VILLAGE SQ.,37/05/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/009/009-1677383083.pdf,false
+FCT,KWALI,GUMBO,JUNIOR SEC. SCH KWAITA HAUSA,37/05/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/011/011-1677382792.pdf,false
+FCT,KWALI,GUMBO,LEA.PRIMARY SCH.II,37/05/08/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/013/013-1677382484.pdf,false
+FCT,KWALI,GUMBO,PIRI VILLAGE,37/05/08/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/015/015-1677382312.pdf,false
+FCT,KWALI,GUMBO,HEALTH CENTRE GUMBO,37/05/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/006/006-1677381930.pdf,false
+FCT,KWALI,GUMBO,SHAPKATE,37/05/08/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/018/018-1677381420.pdf,false
+FCT,KWALI,GUMBO,LUKODA VILLAGE,37/05/08/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/016/016-1677381224.pdf,false
+FCT,KWALI,GUMBO,ANINI VILLAGE SQUARE,37/05/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/004/004-1677380425.pdf,false
+FCT,KWALI,GUMBO,KWAITA GANGARE,37/05/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/08/pu/007/007-1677378872.pdf,false

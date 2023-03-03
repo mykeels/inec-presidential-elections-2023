@@ -1,17 +1,17 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-FCT,KUJE,,DUDA  /  PRIMARY SCHOOL,37/04/05/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-FCT,KUJE,,ANGWAN TIV,37/04/05/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618001/result_97475_1677597947_thumb.jpg,false
-FCT,KUJE,,JIGBA PRI SCH,37/04/05/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636609/result_97476_1677597555_thumb.jpg,false
-FCT,KUJE,,TUDE/ PRIMARY SCHOOL,37/04/05/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-FCT,KUJE,,TUGBA PRI SCH,37/04/05/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636613/result_97472_1677596931_thumb.jpg,false
-FCT,KUJE,,AGWAI/PRIMARY SCHOOL,37/04/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/42075/result_97466_1677596371_thumb.jpg,false
-FCT,KUJE,,KUMA PRI SCHOOL,37/04/05/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636607/result_97477_1677595726_thumb.jpg,false
-FCT,KUJE,,GUMAYI/ PRIMARY SCHOOL,37/04/05/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/42076/result_97467_1677595041_thumb.jpg,false
-FCT,KUJE,,TAKWA PRI SCH,37/04/05/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636614/result_97471_1677593815_thumb.jpg,false
-FCT,KUJE,,KASHIMORO PRI SCH,37/04/05/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636608/result_97478_1677593561_thumb.jpg,false
-FCT,KUJE,,KWAKU SABO RESSETLEMENT,37/04/05/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636611/result_97474_1677592324_thumb.jpg,false
-FCT,KUJE,,KABIN MANGORO HEALTH CENTRE,37/04/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636612/result_97473_1677593184_thumb.jpg,false
-FCT,KUJE,,ACHIMBI / PRIMARY SCHOOL,37/04/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/42079/result_97470_1677577023_thumb.jpg,false
-FCT,KUJE,,KUTADA PRIMARY SCH,37/04/05/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3381/ward/20793/pu/123627/123627-1677581915.pdf,true
-FCT,KUJE,,KABI KASSA/PRIMARY SCHOOL,37/04/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3381/ward/20793/pu/42121/42121-1677581562.pdf,true
-FCT,KUJE,,KABI MANGORO/PRIMARY SCHOOL,37/04/05/002,,false
+FCT,KUJE,KABI,DUDA  /  PRIMARY SCHOOL,37/04/05/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+FCT,KUJE,KABI,ANGWAN TIV,37/04/05/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618001/result_97475_1677597947_thumb.jpg,false
+FCT,KUJE,KABI,JIGBA PRI SCH,37/04/05/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636609/result_97476_1677597555_thumb.jpg,false
+FCT,KUJE,KABI,TUDE/ PRIMARY SCHOOL,37/04/05/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+FCT,KUJE,KABI,TUGBA PRI SCH,37/04/05/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636613/result_97472_1677596931_thumb.jpg,false
+FCT,KUJE,KABI,AGWAI/PRIMARY SCHOOL,37/04/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/42075/result_97466_1677596371_thumb.jpg,false
+FCT,KUJE,KABI,KUMA PRI SCHOOL,37/04/05/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636607/result_97477_1677595726_thumb.jpg,false
+FCT,KUJE,KABI,GUMAYI/ PRIMARY SCHOOL,37/04/05/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/42076/result_97467_1677595041_thumb.jpg,false
+FCT,KUJE,KABI,TAKWA PRI SCH,37/04/05/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636614/result_97471_1677593815_thumb.jpg,false
+FCT,KUJE,KABI,KASHIMORO PRI SCH,37/04/05/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636608/result_97478_1677593561_thumb.jpg,false
+FCT,KUJE,KABI,KWAKU SABO RESSETLEMENT,37/04/05/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636611/result_97474_1677592324_thumb.jpg,false
+FCT,KUJE,KABI,KABIN MANGORO HEALTH CENTRE,37/04/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636612/result_97473_1677593184_thumb.jpg,false
+FCT,KUJE,KABI,ACHIMBI / PRIMARY SCHOOL,37/04/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/42079/result_97470_1677577023_thumb.jpg,false
+FCT,KUJE,KABI,KUTADA PRIMARY SCH,37/04/05/016,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3381/ward/20793/pu/123627/123627-1677581915.pdf,true
+FCT,KUJE,KABI,KABI KASSA/PRIMARY SCHOOL,37/04/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3381/ward/20793/pu/42121/42121-1677581562.pdf,true
+FCT,KUJE,KABI,KABI MANGORO/PRIMARY SCHOOL,37/04/05/002,,false

@@ -1,21 +1,21 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-FCT,ABAJI,,ABAJI EAST/ABAJI EAST PRIMARY SCHOOL I,37/01/06/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41866/result_96397_1677582380_thumb.jpg,false
-FCT,ABAJI,,NUKU / NUKU PRY. SCHOOL,37/01/06/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41865/result_96396_1677586653_thumb.jpg,false
-FCT,ABAJI,,MANDEREGI/MANDEREGI PRIMARY SCHOOL,37/01/06/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41867/result_96398_1677583028_thumb.jpg,false
-FCT,ABAJI,,UNG AKWAI ALLAH GIDAN AKWAI ALLAH,37/01/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637474/result_96400_1677582199_thumb.jpg,false
-FCT,ABAJI,,NUKU/NUKU PRIMARY SCHOOL,37/01/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41864/result_96395_1677592863_thumb.jpg,false
-FCT,ABAJI,,ABAJI EAST/ABAJI EAST PRIMARY SCHOOL,37/01/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637471/result_96403_1677593134_thumb.jpg,false
-FCT,ABAJI,,ABAJI EAST/ABAJI EAST PRIMARY SCHOOL,37/01/06/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637467/result_96407_1677592441_thumb.jpg,false
-FCT,ABAJI,,NUKU/NUKU PRIMARY SCHOOL,37/01/06/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637461/result_96413_1677584809_thumb.jpg,false
-FCT,ABAJI,,ABAJI EAST/ABAJI EAST PRIMARY SCHOOL,37/01/06/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637469/result_96405_1677582135_thumb.jpg,false
-FCT,ABAJI,,SABO GARI  PHASE III NEW EXTENTION,37/01/06/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/617898/result_96408_1677592332_thumb.jpg,false
-FCT,ABAJI,,ABAJI EAST/ABAJI EAST PRIMARY SCHOOL,37/01/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-FCT,ABAJI,,UNG AKWAI ALLAH GIDAN AKWAI ALLAH,37/01/06/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637473/result_96401_1677584844_thumb.jpg,false
-FCT,ABAJI,,KEKESHI VILLAGE SQUARE,37/01/06/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637463/result_96411_1677584138_thumb.jpg,false
-FCT,ABAJI,,KEKESHI VILLAGE SQUARE,37/01/06/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637462/result_96412_1677583841_thumb.jpg,false
-FCT,ABAJI,,ABAJI EAST/ABAJI EAST PRIMARY SCHOOL,37/01/06/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637468/result_96406_1677583556_thumb.jpg,false
-FCT,ABAJI,,MADEREGI /MADEREGI PRIMARY SCHOOL,37/01/06/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637464/result_96410_1677585087_thumb.jpg,false
-FCT,ABAJI,,UNG. AKWAI ALLAH/GIDAN AKWAI ALLAH,37/01/06/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41863/result_96394_1677583488_thumb.jpg,false
-FCT,ABAJI,,KEKESHI/ KEKESHI VILLAGE,37/01/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41868/result_96399_1677591676_thumb.jpg,false
-FCT,ABAJI,,LOW COST,37/01/06/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/617899/result_96409_1677583889_thumb.jpg,false
-FCT,ABAJI,,NUKU/NUKU PRIMARY SCHOOL,37/01/06/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637472/result_96402_1677586614_thumb.jpg,false
+FCT,ABAJI,NUKU,ABAJI EAST/ABAJI EAST PRIMARY SCHOOL I,37/01/06/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41866/result_96397_1677582380_thumb.jpg,false
+FCT,ABAJI,NUKU,NUKU / NUKU PRY. SCHOOL,37/01/06/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41865/result_96396_1677586653_thumb.jpg,false
+FCT,ABAJI,NUKU,MANDEREGI/MANDEREGI PRIMARY SCHOOL,37/01/06/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41867/result_96398_1677583028_thumb.jpg,false
+FCT,ABAJI,NUKU,UNG AKWAI ALLAH GIDAN AKWAI ALLAH,37/01/06/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637474/result_96400_1677582199_thumb.jpg,false
+FCT,ABAJI,NUKU,NUKU/NUKU PRIMARY SCHOOL,37/01/06/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41864/result_96395_1677592863_thumb.jpg,false
+FCT,ABAJI,NUKU,ABAJI EAST/ABAJI EAST PRIMARY SCHOOL,37/01/06/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637471/result_96403_1677593134_thumb.jpg,false
+FCT,ABAJI,NUKU,ABAJI EAST/ABAJI EAST PRIMARY SCHOOL,37/01/06/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637467/result_96407_1677592441_thumb.jpg,false
+FCT,ABAJI,NUKU,NUKU/NUKU PRIMARY SCHOOL,37/01/06/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637461/result_96413_1677584809_thumb.jpg,false
+FCT,ABAJI,NUKU,ABAJI EAST/ABAJI EAST PRIMARY SCHOOL,37/01/06/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637469/result_96405_1677582135_thumb.jpg,false
+FCT,ABAJI,NUKU,SABO GARI  PHASE III NEW EXTENTION,37/01/06/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/617898/result_96408_1677592332_thumb.jpg,false
+FCT,ABAJI,NUKU,ABAJI EAST/ABAJI EAST PRIMARY SCHOOL,37/01/06/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+FCT,ABAJI,NUKU,UNG AKWAI ALLAH GIDAN AKWAI ALLAH,37/01/06/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637473/result_96401_1677584844_thumb.jpg,false
+FCT,ABAJI,NUKU,KEKESHI VILLAGE SQUARE,37/01/06/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637463/result_96411_1677584138_thumb.jpg,false
+FCT,ABAJI,NUKU,KEKESHI VILLAGE SQUARE,37/01/06/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637462/result_96412_1677583841_thumb.jpg,false
+FCT,ABAJI,NUKU,ABAJI EAST/ABAJI EAST PRIMARY SCHOOL,37/01/06/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637468/result_96406_1677583556_thumb.jpg,false
+FCT,ABAJI,NUKU,MADEREGI /MADEREGI PRIMARY SCHOOL,37/01/06/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637464/result_96410_1677585087_thumb.jpg,false
+FCT,ABAJI,NUKU,UNG. AKWAI ALLAH/GIDAN AKWAI ALLAH,37/01/06/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41863/result_96394_1677583488_thumb.jpg,false
+FCT,ABAJI,NUKU,KEKESHI/ KEKESHI VILLAGE,37/01/06/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41868/result_96399_1677591676_thumb.jpg,false
+FCT,ABAJI,NUKU,LOW COST,37/01/06/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/617899/result_96409_1677583889_thumb.jpg,false
+FCT,ABAJI,NUKU,NUKU/NUKU PRIMARY SCHOOL,37/01/06/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637472/result_96402_1677586614_thumb.jpg,false

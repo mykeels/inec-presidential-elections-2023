@@ -1,9 +1,9 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-FCT,ABAJI,,CHAPU AGULO PRIMARY SCHOOL,37/01/07/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/617900/result_96419_1677618791_thumb.jpg,false
-FCT,ABAJI,,MAMAGI/MAMAGI  PRIMARY SCHOL,37/01/07/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637460/result_96418_1677586591_thumb.jpg,false
-FCT,ABAJI,,MAWOGI PRIMARY SCHOOL,37/01/07/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637457/result_96421_1677587354_thumb.jpg,false
-FCT,ABAJI,,ALU/ALU PRIMARY SCHOOL,37/01/07/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41870/result_96415_1677587960_thumb.jpg,false
-FCT,ABAJI,,MAMAGI/MAMAGI/  PRIMARY SCHOOL/MAWOGI,37/01/07/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41871/result_96416_1677585863_thumb.jpg,false
-FCT,ABAJI,,MAMAGI/MAMAGI PRIMARY SCHOOL,37/01/07/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41869/result_96414_1677589833_thumb.jpg,false
-FCT,ABAJI,,ALU PRIMARY SCHOOL,37/01/07/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637458/result_96420_1677584203_thumb.jpg,false
-FCT,ABAJI,,PACIWA/PACIWA/ PRIMARY SCHOOL,37/01/07/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41872/result_96417_1677584981_thumb.jpg,false
+FCT,ABAJI,ALU MAMAGI,CHAPU AGULO PRIMARY SCHOOL,37/01/07/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/617900/result_96419_1677618791_thumb.jpg,false
+FCT,ABAJI,ALU MAMAGI,MAMAGI/MAMAGI  PRIMARY SCHOL,37/01/07/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637460/result_96418_1677586591_thumb.jpg,false
+FCT,ABAJI,ALU MAMAGI,MAWOGI PRIMARY SCHOOL,37/01/07/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637457/result_96421_1677587354_thumb.jpg,false
+FCT,ABAJI,ALU MAMAGI,ALU/ALU PRIMARY SCHOOL,37/01/07/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41870/result_96415_1677587960_thumb.jpg,false
+FCT,ABAJI,ALU MAMAGI,MAMAGI/MAMAGI/  PRIMARY SCHOOL/MAWOGI,37/01/07/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41871/result_96416_1677585863_thumb.jpg,false
+FCT,ABAJI,ALU MAMAGI,MAMAGI/MAMAGI PRIMARY SCHOOL,37/01/07/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41869/result_96414_1677589833_thumb.jpg,false
+FCT,ABAJI,ALU MAMAGI,ALU PRIMARY SCHOOL,37/01/07/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637458/result_96420_1677584203_thumb.jpg,false
+FCT,ABAJI,ALU MAMAGI,PACIWA/PACIWA/ PRIMARY SCHOOL,37/01/07/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41872/result_96417_1677584981_thumb.jpg,false

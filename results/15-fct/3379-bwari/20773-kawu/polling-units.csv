@@ -1,17 +1,17 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-FCT,BWARI,,NOMADIC CENTRE KAWU/NPS BURTI,37/02/05/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/675200/result_96609_1677491193_thumb.jpg,false
-FCT,BWARI,,YAZHINDNA VILLAGE,37/02/05/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/617920/result_96612_1677491900_thumb.jpg,false
-FCT,BWARI,,SABON KAWU PRIMARY SCH.,37/02/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637330/result_96606_1677492106_thumb.jpg,true
-FCT,BWARI,,TUDUN FULANI (NOMADIC CENTRE),37/02/05/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/617918/result_96608_1677490978_thumb.jpg,false
-FCT,BWARI,,LEA PRY SCH. KIKUMI,37/02/05/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637327/result_96610_1677491399_thumb.jpg,false
-FCT,BWARI,,KUTE II VILLAGE SQUARE,37/02/05/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/617919/result_96611_1677491745_thumb.jpg,false
-FCT,BWARI,,KAWU VILLAGE SQUARE,37/02/05/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637331/result_96607_1677490699_thumb.jpg,false
-FCT,BWARI,,KARAKO/KARAKO VILLAGE SQUARE,37/02/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3379/ward/20773/pu/41941/41941-1677454384.pdf,false
-FCT,BWARI,,KUTE/KUTE PRIMARY SCH.,37/02/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3379/ward/20773/pu/41940/41940-1677453319.pdf,false
-FCT,BWARI,,DOKUMA/DOKUMA PRIMARY SCH.,37/02/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3379/ward/20773/pu/41939/41939-1677451852.pdf,false
-FCT,BWARI,,ADAKA GBAGYI CHIEF'S PALACE,37/02/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/006/006-1677392525.pdf,false
-FCT,BWARI,,TUNGA BIJIMI/TUNGA BIMIJI VILLAGE SQUARE,37/02/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/005/005-1677391049.pdf,false
-FCT,BWARI,,PADAN GWARI VILLAGE SQUARE,37/02/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/004/004-1677390256.pdf,false
-FCT,BWARI,,KAUDASHI  /   KAUDASHI SQUARE,37/02/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/003/003-1677389208.pdf,false
-FCT,BWARI,,KURUMIN DAUDU/KURUMIN DAUDU VILLAGE SQUARE,37/02/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/002/002-1677382771.pdf,false
-FCT,BWARI,,KAWU/KAWU PRIMARY SCH.,37/02/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/001/001-1677382201.pdf,false
+FCT,BWARI,KAWU,NOMADIC CENTRE KAWU/NPS BURTI,37/02/05/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/675200/result_96609_1677491193_thumb.jpg,false
+FCT,BWARI,KAWU,YAZHINDNA VILLAGE,37/02/05/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/617920/result_96612_1677491900_thumb.jpg,false
+FCT,BWARI,KAWU,SABON KAWU PRIMARY SCH.,37/02/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637330/result_96606_1677492106_thumb.jpg,true
+FCT,BWARI,KAWU,TUDUN FULANI (NOMADIC CENTRE),37/02/05/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/617918/result_96608_1677490978_thumb.jpg,false
+FCT,BWARI,KAWU,LEA PRY SCH. KIKUMI,37/02/05/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637327/result_96610_1677491399_thumb.jpg,false
+FCT,BWARI,KAWU,KUTE II VILLAGE SQUARE,37/02/05/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/617919/result_96611_1677491745_thumb.jpg,false
+FCT,BWARI,KAWU,KAWU VILLAGE SQUARE,37/02/05/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637331/result_96607_1677490699_thumb.jpg,false
+FCT,BWARI,KAWU,KARAKO/KARAKO VILLAGE SQUARE,37/02/05/009,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3379/ward/20773/pu/41941/41941-1677454384.pdf,false
+FCT,BWARI,KAWU,KUTE/KUTE PRIMARY SCH.,37/02/05/008,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3379/ward/20773/pu/41940/41940-1677453319.pdf,false
+FCT,BWARI,KAWU,DOKUMA/DOKUMA PRIMARY SCH.,37/02/05/007,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3379/ward/20773/pu/41939/41939-1677451852.pdf,false
+FCT,BWARI,KAWU,ADAKA GBAGYI CHIEF'S PALACE,37/02/05/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/006/006-1677392525.pdf,false
+FCT,BWARI,KAWU,TUNGA BIJIMI/TUNGA BIMIJI VILLAGE SQUARE,37/02/05/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/005/005-1677391049.pdf,false
+FCT,BWARI,KAWU,PADAN GWARI VILLAGE SQUARE,37/02/05/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/004/004-1677390256.pdf,false
+FCT,BWARI,KAWU,KAUDASHI  /   KAUDASHI SQUARE,37/02/05/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/003/003-1677389208.pdf,false
+FCT,BWARI,KAWU,KURUMIN DAUDU/KURUMIN DAUDU VILLAGE SQUARE,37/02/05/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/002/002-1677382771.pdf,false
+FCT,BWARI,KAWU,KAWU/KAWU PRIMARY SCH.,37/02/05/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/05/pu/001/001-1677382201.pdf,false

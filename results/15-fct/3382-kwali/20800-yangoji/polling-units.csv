@@ -1,21 +1,21 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-FCT,KWALI,,OPEN SPACE BY GARDEN EGG MARKET SQUARE,37/05/02/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-FCT,KWALI,,IJA  /  DABUTA /  PRIMARY SCHOOL,37/05/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/42126/result_97591_1677603703_thumb.jpg,false
-FCT,KWALI,,IJA PADA  PRIMARY  SCHOOL II,37/05/02/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636530/result_97604_1677603166_thumb.jpg,false
-FCT,KWALI,,ANGWAN KARA VILLAGE SQUARE,37/05/02/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636535/result_97599_1677601649_thumb.jpg,false
-FCT,KWALI,,YANGOJI PRIMARY  SCHOOL III,37/05/02/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636539/result_97595_1677601156_thumb.jpg,false
-FCT,KWALI,,KUROKO  /  PRIMARY SCHOOL,37/05/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/42124/result_97589_1677599911_thumb.jpg,false
-FCT,KWALI,,OPEN SPACE  BY SUKUKU ROAD,37/05/02/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636537/result_97597_1677599098_thumb.jpg,false
-FCT,KWALI,,KUROKO  HEALTH CENTRE,37/05/02/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636531/result_97603_1677598690_thumb.jpg,false
-FCT,KWALI,,UNGWAN FULANI,37/05/02/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618023/result_97601_1677598097_thumb.jpg,false
-FCT,KWALI,,DAADU VILLAGE,37/05/02/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618025/result_97606_1677597846_thumb.jpg,false
-FCT,KWALI,,ALHERI VILLAGE,37/05/02/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618022/result_97600_1677596462_thumb.jpg,false
-FCT,KWALI,,DAKA TAMPE/PRIMARY SCHOOL,37/05/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/42128/result_97593_1677595133_thumb.jpg,false
-FCT,KWALI,,IJA PADA  / PRIMARY SCHOOL,37/05/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/42125/result_97590_1677594175_thumb.jpg,false
-FCT,KWALI,,IJA DABUTA PRIMARY SCHOOL II,37/05/02/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636529/result_97605_1677592447_thumb.jpg,false
-FCT,KWALI,,YANGOJI / PRIMARY SCHOOL,37/05/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/02/pu/001/001-1677390945.pdf,false
-FCT,KWALI,,SUKUKU  /  PRIMARY SCHOOL,37/05/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/02/pu/002/002-1677390173.pdf,false
-FCT,KWALI,,YANGOJI PRIMARY   SCHOOL II,37/05/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/02/pu/008/008-1677376222.pdf,false
-FCT,KWALI,,KUROKO  PRIMARY SCHOOL II,37/05/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/02/pu/016/016-1677372646.pdf,false
-FCT,KWALI,,IJA TAMPE/PRIMARY SCHOOL,37/05/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/02/pu/006/006-1677372214.pdf,false
-FCT,KWALI,,YANGOJI HEALTH  CENTRE,37/05/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/02/pu/010/010-1677370924.pdf,false
+FCT,KWALI,YANGOJI,OPEN SPACE BY GARDEN EGG MARKET SQUARE,37/05/02/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+FCT,KWALI,YANGOJI,IJA  /  DABUTA /  PRIMARY SCHOOL,37/05/02/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/42126/result_97591_1677603703_thumb.jpg,false
+FCT,KWALI,YANGOJI,IJA PADA  PRIMARY  SCHOOL II,37/05/02/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636530/result_97604_1677603166_thumb.jpg,false
+FCT,KWALI,YANGOJI,ANGWAN KARA VILLAGE SQUARE,37/05/02/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636535/result_97599_1677601649_thumb.jpg,false
+FCT,KWALI,YANGOJI,YANGOJI PRIMARY  SCHOOL III,37/05/02/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636539/result_97595_1677601156_thumb.jpg,false
+FCT,KWALI,YANGOJI,KUROKO  /  PRIMARY SCHOOL,37/05/02/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/42124/result_97589_1677599911_thumb.jpg,false
+FCT,KWALI,YANGOJI,OPEN SPACE  BY SUKUKU ROAD,37/05/02/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636537/result_97597_1677599098_thumb.jpg,false
+FCT,KWALI,YANGOJI,KUROKO  HEALTH CENTRE,37/05/02/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636531/result_97603_1677598690_thumb.jpg,false
+FCT,KWALI,YANGOJI,UNGWAN FULANI,37/05/02/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618023/result_97601_1677598097_thumb.jpg,false
+FCT,KWALI,YANGOJI,DAADU VILLAGE,37/05/02/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618025/result_97606_1677597846_thumb.jpg,false
+FCT,KWALI,YANGOJI,ALHERI VILLAGE,37/05/02/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618022/result_97600_1677596462_thumb.jpg,false
+FCT,KWALI,YANGOJI,DAKA TAMPE/PRIMARY SCHOOL,37/05/02/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/42128/result_97593_1677595133_thumb.jpg,false
+FCT,KWALI,YANGOJI,IJA PADA  / PRIMARY SCHOOL,37/05/02/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/42125/result_97590_1677594175_thumb.jpg,false
+FCT,KWALI,YANGOJI,IJA DABUTA PRIMARY SCHOOL II,37/05/02/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636529/result_97605_1677592447_thumb.jpg,false
+FCT,KWALI,YANGOJI,YANGOJI / PRIMARY SCHOOL,37/05/02/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/02/pu/001/001-1677390945.pdf,false
+FCT,KWALI,YANGOJI,SUKUKU  /  PRIMARY SCHOOL,37/05/02/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/02/pu/002/002-1677390173.pdf,false
+FCT,KWALI,YANGOJI,YANGOJI PRIMARY   SCHOOL II,37/05/02/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/02/pu/008/008-1677376222.pdf,false
+FCT,KWALI,YANGOJI,KUROKO  PRIMARY SCHOOL II,37/05/02/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/02/pu/016/016-1677372646.pdf,false
+FCT,KWALI,YANGOJI,IJA TAMPE/PRIMARY SCHOOL,37/05/02/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/02/pu/006/006-1677372214.pdf,false
+FCT,KWALI,YANGOJI,YANGOJI HEALTH  CENTRE,37/05/02/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/02/pu/010/010-1677370924.pdf,false

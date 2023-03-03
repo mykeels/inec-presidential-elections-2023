@@ -26,6 +26,7 @@
     "pu_code_string": "370205013",
     "state_name": "FCT",
     "lga_name": "BWARI",
+    "ward_name": "KAWU",
     "document": {
       "external": true,
       "status": 1,
@@ -64,6 +65,7 @@
     "pu_code_string": "370205016",
     "state_name": "FCT",
     "lga_name": "BWARI",
+    "ward_name": "KAWU",
     "document": {
       "external": true,
       "status": 1,
@@ -102,6 +104,7 @@
     "pu_code_string": "370205010",
     "state_name": "FCT",
     "lga_name": "BWARI",
+    "ward_name": "KAWU",
     "document": {
       "external": true,
       "status": 1,
@@ -149,6 +152,7 @@
     "pu_code_string": "370205012",
     "state_name": "FCT",
     "lga_name": "BWARI",
+    "ward_name": "KAWU",
     "document": {
       "external": true,
       "status": 1,
@@ -187,6 +191,7 @@
     "pu_code_string": "370205014",
     "state_name": "FCT",
     "lga_name": "BWARI",
+    "ward_name": "KAWU",
     "document": {
       "external": true,
       "status": 1,
@@ -225,6 +230,7 @@
     "pu_code_string": "370205015",
     "state_name": "FCT",
     "lga_name": "BWARI",
+    "ward_name": "KAWU",
     "document": {
       "external": true,
       "status": 1,
@@ -263,6 +269,7 @@
     "pu_code_string": "370205011",
     "state_name": "FCT",
     "lga_name": "BWARI",
+    "ward_name": "KAWU",
     "document": {
       "external": true,
       "status": 1,
@@ -301,6 +308,7 @@
     "pu_code_string": "370205009",
     "state_name": "FCT",
     "lga_name": "BWARI",
+    "ward_name": "KAWU",
     "document": {
       "external": false,
       "status": 1,
@@ -339,6 +347,7 @@
     "pu_code_string": "370205008",
     "state_name": "FCT",
     "lga_name": "BWARI",
+    "ward_name": "KAWU",
     "document": {
       "external": false,
       "status": 1,
@@ -377,6 +386,7 @@
     "pu_code_string": "370205007",
     "state_name": "FCT",
     "lga_name": "BWARI",
+    "ward_name": "KAWU",
     "document": {
       "external": false,
       "status": 1,
@@ -415,6 +425,7 @@
     "pu_code_string": "370205006",
     "state_name": "FCT",
     "lga_name": "BWARI",
+    "ward_name": "KAWU",
     "document": {
       "external": false,
       "status": 1,
@@ -453,6 +464,7 @@
     "pu_code_string": "370205005",
     "state_name": "FCT",
     "lga_name": "BWARI",
+    "ward_name": "KAWU",
     "document": {
       "external": false,
       "status": 1,
@@ -491,6 +503,7 @@
     "pu_code_string": "370205004",
     "state_name": "FCT",
     "lga_name": "BWARI",
+    "ward_name": "KAWU",
     "document": {
       "external": false,
       "status": 1,
@@ -529,6 +542,7 @@
     "pu_code_string": "370205003",
     "state_name": "FCT",
     "lga_name": "BWARI",
+    "ward_name": "KAWU",
     "document": {
       "external": false,
       "status": 1,
@@ -567,6 +581,7 @@
     "pu_code_string": "370205002",
     "state_name": "FCT",
     "lga_name": "BWARI",
+    "ward_name": "KAWU",
     "document": {
       "external": false,
       "status": 1,
@@ -605,6 +620,7 @@
     "pu_code_string": "370205001",
     "state_name": "FCT",
     "lga_name": "BWARI",
+    "ward_name": "KAWU",
     "document": {
       "external": false,
       "status": 1,

@@ -26,6 +26,7 @@
     "pu_code_string": "370501030",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": null,
     "old_documents": [
       {
@@ -66,6 +67,7 @@
     "pu_code_string": "370501034",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": true,
       "status": 1,
@@ -104,6 +106,7 @@
     "pu_code_string": "370501015",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": true,
       "status": 1,
@@ -142,6 +145,7 @@
     "pu_code_string": "370501006",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": true,
       "status": 1,
@@ -180,6 +184,7 @@
     "pu_code_string": "370501013",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": true,
       "status": 1,
@@ -218,6 +223,7 @@
     "pu_code_string": "370501025",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": true,
       "status": 1,
@@ -256,6 +262,7 @@
     "pu_code_string": "370501014",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": true,
       "status": 1,
@@ -294,6 +301,7 @@
     "pu_code_string": "370501017",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": true,
       "status": 1,
@@ -332,6 +340,7 @@
     "pu_code_string": "370501016",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": true,
       "status": 1,
@@ -370,6 +379,7 @@
     "pu_code_string": "370501033",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": true,
       "status": 1,
@@ -408,6 +418,7 @@
     "pu_code_string": "370501019",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": false,
       "status": 1,
@@ -446,6 +457,7 @@
     "pu_code_string": "370501023",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": false,
       "status": 1,
@@ -484,6 +496,7 @@
     "pu_code_string": "370501032",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": false,
       "status": 1,
@@ -522,6 +535,7 @@
     "pu_code_string": "370501026",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": false,
       "status": 1,
@@ -560,6 +574,7 @@
     "pu_code_string": "370501024",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": false,
       "status": 1,
@@ -598,6 +613,7 @@
     "pu_code_string": "370501021",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": false,
       "status": 1,
@@ -636,6 +652,7 @@
     "pu_code_string": "370501005",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": false,
       "status": 1,
@@ -674,6 +691,7 @@
     "pu_code_string": "370501031",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": false,
       "status": 1,
@@ -712,6 +730,7 @@
     "pu_code_string": "370501012",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": false,
       "status": 1,
@@ -750,6 +769,7 @@
     "pu_code_string": "370501027",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": false,
       "status": 1,
@@ -788,6 +808,7 @@
     "pu_code_string": "370501028",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": false,
       "status": 1,
@@ -826,6 +847,7 @@
     "pu_code_string": "370501020",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": false,
       "status": 1,
@@ -864,6 +886,7 @@
     "pu_code_string": "370501018",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": false,
       "status": 1,
@@ -902,6 +925,7 @@
     "pu_code_string": "370501003",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": false,
       "status": 1,
@@ -940,6 +964,7 @@
     "pu_code_string": "370501002",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": false,
       "status": 1,
@@ -978,6 +1003,7 @@
     "pu_code_string": "370501001",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": false,
       "status": 1,
@@ -1016,6 +1042,7 @@
     "pu_code_string": "370501008",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": false,
       "status": 1,
@@ -1054,6 +1081,7 @@
     "pu_code_string": "370501004",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": false,
       "status": 1,
@@ -1092,6 +1120,7 @@
     "pu_code_string": "370501009",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": false,
       "status": 1,
@@ -1130,6 +1159,7 @@
     "pu_code_string": "370501007",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": false,
       "status": 1,
@@ -1168,6 +1198,7 @@
     "pu_code_string": "370501010",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": false,
       "status": 1,
@@ -1206,6 +1237,7 @@
     "pu_code_string": "370501029",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": false,
       "status": 1,
@@ -1244,6 +1276,7 @@
     "pu_code_string": "370501011",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": false,
       "status": 1,
@@ -1282,6 +1315,7 @@
     "pu_code_string": "370501022",
     "state_name": "FCT",
     "lga_name": "KWALI",
+    "ward_name": "KWALI WARD",
     "document": {
       "external": false,
       "status": 1,

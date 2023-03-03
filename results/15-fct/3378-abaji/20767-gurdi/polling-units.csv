@@ -1,13 +1,13 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-FCT,ABAJI,,GURDI/ GURDI PRIMARY SCHOOL,37/01/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637452/result_96443_1677595179_thumb.jpg,false
-FCT,ABAJI,,KWAKWA/KWAKWA  PRIMARY SCHOOL,37/01/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
-FCT,ABAJI,,KWAKWATA VILLAGE SQUARE,37/01/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41889/result_96442_1677587364_thumb.jpg,false
-FCT,ABAJI,,GURDI/GURDI PRIMARY SCHOOL,37/01/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41881/result_96434_1677587140_thumb.jpg,false
-FCT,ABAJI,,PAIKON BASSA /PAIKON  PRIMARY SCHOOL,37/01/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41885/result_96438_1677587938_thumb.jpg,false
-FCT,ABAJI,,RAFIN DAJI PRIMARY SCHOOL,37/01/09/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637450/result_96445_1677589611_thumb.jpg,false
-FCT,ABAJI,,CHAKUMI/CHAKUMI VILLAGE SQUARE,37/01/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41888/result_96441_1677587685_thumb.jpg,false
-FCT,ABAJI,,BARABARI/BARABARI  PRIMARY SCHOOL,37/01/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41887/result_96440_1677588891_thumb.jpg,false
-FCT,ABAJI,,UNGWAN YUNUSA,37/01/09/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637451/result_96444_1677584964_thumb.jpg,false
-FCT,ABAJI,,KUTAKARA/KUTAKARA PRIMARY SCHOOL,37/01/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41883/result_96436_1677586676_thumb.jpg,false
-FCT,ABAJI,,TEKPESHE  PRIMARY SCHOOL,37/01/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41882/result_96435_1677586753_thumb.jpg,false
-FCT,ABAJI,,GULIDA/GULIDA  PRIMARY SCHOOL,37/01/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41884/result_96437_1677588643_thumb.jpg,false
+FCT,ABAJI,GURDI,GURDI/ GURDI PRIMARY SCHOOL,37/01/09/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637452/result_96443_1677595179_thumb.jpg,false
+FCT,ABAJI,GURDI,KWAKWA/KWAKWA  PRIMARY SCHOOL,37/01/09/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com,false
+FCT,ABAJI,GURDI,KWAKWATA VILLAGE SQUARE,37/01/09/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41889/result_96442_1677587364_thumb.jpg,false
+FCT,ABAJI,GURDI,GURDI/GURDI PRIMARY SCHOOL,37/01/09/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41881/result_96434_1677587140_thumb.jpg,false
+FCT,ABAJI,GURDI,PAIKON BASSA /PAIKON  PRIMARY SCHOOL,37/01/09/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41885/result_96438_1677587938_thumb.jpg,false
+FCT,ABAJI,GURDI,RAFIN DAJI PRIMARY SCHOOL,37/01/09/012,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637450/result_96445_1677589611_thumb.jpg,false
+FCT,ABAJI,GURDI,CHAKUMI/CHAKUMI VILLAGE SQUARE,37/01/09/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41888/result_96441_1677587685_thumb.jpg,false
+FCT,ABAJI,GURDI,BARABARI/BARABARI  PRIMARY SCHOOL,37/01/09/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41887/result_96440_1677588891_thumb.jpg,false
+FCT,ABAJI,GURDI,UNGWAN YUNUSA,37/01/09/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637451/result_96444_1677584964_thumb.jpg,false
+FCT,ABAJI,GURDI,KUTAKARA/KUTAKARA PRIMARY SCHOOL,37/01/09/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41883/result_96436_1677586676_thumb.jpg,false
+FCT,ABAJI,GURDI,TEKPESHE  PRIMARY SCHOOL,37/01/09/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41882/result_96435_1677586753_thumb.jpg,false
+FCT,ABAJI,GURDI,GULIDA/GULIDA  PRIMARY SCHOOL,37/01/09/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41884/result_96437_1677588643_thumb.jpg,false

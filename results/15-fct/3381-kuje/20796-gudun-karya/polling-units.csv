@@ -1,21 +1,21 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-FCT,KUJE,,ZAGABUTU PRI HEALTH CENTRE,37/04/08/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/019/019-1677392506.pdf,false
-FCT,KUJE,,GUDUN KAR YAGADE  / KOFAR SARKI,37/04/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/008/008-1677401779.pdf,false
-FCT,KUJE,,AFFA/PRIMARY SCHOOL,37/04/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/004/004-1677398947.pdf,false
-FCT,KUJE,,GUDUNKARYA GBAYI CHIEF PALACE,37/04/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/009/009-1677397591.pdf,false
-FCT,KUJE,,BUGA/PRIMARY SCHOOL,37/04/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/006/006-1677393760.pdf,false
-FCT,KUJE,,HUNI  / PRIMARY SCHOOL,37/04/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/002/002-1677393577.pdf,false
-FCT,KUJE,,CHIEF PALACE TUTURUTU VILLAGE,37/04/08/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/020/020-1677392910.pdf,false
-FCT,KUJE,,GUDUNKARYA KOFAR SARKIN SHABA,37/04/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/010/010-1677392474.pdf,false
-FCT,KUJE,,HUNI GWARI CHIEF PALACE,37/04/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/012/012-1677392437.pdf,false
-FCT,KUJE,,AFFA II. PRI SCHOOL,37/04/08/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/017/017-1677392386.pdf,false
-FCT,KUJE,,DARKA HEALTH CARE,37/04/08/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/015/015-1677392145.pdf,false
-FCT,KUJE,,ZAGABUTU/PRIMARY SCHOOL,37/04/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/007/007-1677391963.pdf,false
-FCT,KUJE,,BUGA GWARI,37/04/08/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/013/013-1677391423.pdf,false
-FCT,KUJE,,GOVA PRIMARY SCHOOL,37/04/08/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/018/018-1677390604.pdf,false
-FCT,KUJE,,DARKA  / PRIMARY SCHOOL,37/04/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/003/003-1677390502.pdf,false
-FCT,KUJE,,ADEGBA TASHARA/PRIMARY SCHOOL,37/04/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/005/005-1677389743.pdf,false
-FCT,KUJE,,TASHARA ANGWAN GWARI,37/04/08/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/014/014-1677371008.pdf,false
-FCT,KUJE,,GUDUN KARYA  /  PRIMARY SCHOOL,37/04/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/001/001-1677367953.pdf,false
-FCT,KUJE,,DARKA CHIEF PALACE,37/04/08/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/016/016-1677362068.pdf,false
-FCT,KUJE,,JUNIOR SECONDARY SCHOOL HUNI GADE,37/04/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/011/011-1677361128.pdf,false
+FCT,KUJE,GUDUN KARYA,ZAGABUTU PRI HEALTH CENTRE,37/04/08/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/019/019-1677392506.pdf,false
+FCT,KUJE,GUDUN KARYA,GUDUN KAR YAGADE  / KOFAR SARKI,37/04/08/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/008/008-1677401779.pdf,false
+FCT,KUJE,GUDUN KARYA,AFFA/PRIMARY SCHOOL,37/04/08/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/004/004-1677398947.pdf,false
+FCT,KUJE,GUDUN KARYA,GUDUNKARYA GBAYI CHIEF PALACE,37/04/08/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/009/009-1677397591.pdf,false
+FCT,KUJE,GUDUN KARYA,BUGA/PRIMARY SCHOOL,37/04/08/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/006/006-1677393760.pdf,false
+FCT,KUJE,GUDUN KARYA,HUNI  / PRIMARY SCHOOL,37/04/08/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/002/002-1677393577.pdf,false
+FCT,KUJE,GUDUN KARYA,CHIEF PALACE TUTURUTU VILLAGE,37/04/08/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/020/020-1677392910.pdf,false
+FCT,KUJE,GUDUN KARYA,GUDUNKARYA KOFAR SARKIN SHABA,37/04/08/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/010/010-1677392474.pdf,false
+FCT,KUJE,GUDUN KARYA,HUNI GWARI CHIEF PALACE,37/04/08/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/012/012-1677392437.pdf,false
+FCT,KUJE,GUDUN KARYA,AFFA II. PRI SCHOOL,37/04/08/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/017/017-1677392386.pdf,false
+FCT,KUJE,GUDUN KARYA,DARKA HEALTH CARE,37/04/08/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/015/015-1677392145.pdf,false
+FCT,KUJE,GUDUN KARYA,ZAGABUTU/PRIMARY SCHOOL,37/04/08/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/007/007-1677391963.pdf,false
+FCT,KUJE,GUDUN KARYA,BUGA GWARI,37/04/08/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/013/013-1677391423.pdf,false
+FCT,KUJE,GUDUN KARYA,GOVA PRIMARY SCHOOL,37/04/08/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/018/018-1677390604.pdf,false
+FCT,KUJE,GUDUN KARYA,DARKA  / PRIMARY SCHOOL,37/04/08/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/003/003-1677390502.pdf,false
+FCT,KUJE,GUDUN KARYA,ADEGBA TASHARA/PRIMARY SCHOOL,37/04/08/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/005/005-1677389743.pdf,false
+FCT,KUJE,GUDUN KARYA,TASHARA ANGWAN GWARI,37/04/08/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/014/014-1677371008.pdf,false
+FCT,KUJE,GUDUN KARYA,GUDUN KARYA  /  PRIMARY SCHOOL,37/04/08/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/001/001-1677367953.pdf,false
+FCT,KUJE,GUDUN KARYA,DARKA CHIEF PALACE,37/04/08/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/016/016-1677362068.pdf,false
+FCT,KUJE,GUDUN KARYA,JUNIOR SECONDARY SCHOOL HUNI GADE,37/04/08/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/08/pu/011/011-1677361128.pdf,false

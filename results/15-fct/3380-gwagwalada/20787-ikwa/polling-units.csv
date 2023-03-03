@@ -1,21 +1,21 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-FCT,GWAGWALADA,,SHAGA/BASSAN ZUBA /SHAGA PRI. SCH.,37/03/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/003/003-1677403765.pdf,false
-FCT,GWAGWALADA,,YIMI PRIMARY HEALTH CARE YIMI .,37/03/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/012/012-1677403455.pdf,false
-FCT,GWAGWALADA,,IKWA LEA  PRIMARY SCHOOL IKWA.,37/03/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/010/010-1677403410.pdf,false
-FCT,GWAGWALADA,,TUNGAN LADAN LEA PRIMARY SCHOOL.,37/03/09/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/015/015-1677402910.pdf,false
-FCT,GWAGWALADA,,IKWA LEA  PRIMARY SCHOOL IKWA.,37/03/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/008/008-1677402182.pdf,false
-FCT,GWAGWALADA,,IKWA LEA  PRIMARY SCHOOL IKWA.,37/03/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/005/005-1677401731.pdf,false
-FCT,GWAGWALADA,,IKWA LEA  PRIMARY SCHOOL IKWA.,37/03/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/007/007-1677401530.pdf,false
-FCT,GWAGWALADA,,CHITIMU LEA PRIMARY SCHOOL,37/03/09/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/019/019-1677400109.pdf,false
-FCT,GWAGWALADA,,IKWA LEA  PRIMARY SCHOOL IKWA.,37/03/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/009/009-1677399149.pdf,false
-FCT,GWAGWALADA,,IKWA LEA  PRIMARY SCHOOL IKWA.,37/03/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/006/006-1677398890.pdf,false
-FCT,GWAGWALADA,,UNG SARKI IKWA  PRIMARY HEATH CARE IKWA.,37/03/09/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/020/020-1677398042.pdf,false
-FCT,GWAGWALADA,,TUNGAN LADAN/PRI. SCH.,37/03/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/002/002-1677397920.pdf,false
-FCT,GWAGWALADA,,GAJI LEA PRIMARY SCHOOL .,37/03/09/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/017/017-1677397472.pdf,false
-FCT,GWAGWALADA,,YIMI PRIMARY SCHOOL,37/03/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/014/014-1677396311.pdf,false
-FCT,GWAGWALADA,,IKWA/YIMI MACHADA.,37/03/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/011/011-1677395815.pdf,false
-FCT,GWAGWALADA,,CHITUMU/KOFAR GIDAN SARKI,37/03/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/004/004-1677395658.pdf,false
-FCT,GWAGWALADA,,MACHADA  PROPOSED SITES LEA PRIMARY SCHOOL MACHADA.,37/03/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/013/013-1677394781.pdf,false
-FCT,GWAGWALADA,,IKWA/IKWA PRI. SCH.,37/03/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/001/001-1677392092.pdf,false
-FCT,GWAGWALADA,,SHAGA/BASSA ZUBA LEA PRIMARY SCHOOL.,37/03/09/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/016/016-1677391651.pdf,false
-FCT,GWAGWALADA,,CHITIMU LEA PRIMARY SCHOOL,37/03/09/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/018/018-1677389212.pdf,false
+FCT,GWAGWALADA,IKWA,SHAGA/BASSAN ZUBA /SHAGA PRI. SCH.,37/03/09/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/003/003-1677403765.pdf,false
+FCT,GWAGWALADA,IKWA,YIMI PRIMARY HEALTH CARE YIMI .,37/03/09/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/012/012-1677403455.pdf,false
+FCT,GWAGWALADA,IKWA,IKWA LEA  PRIMARY SCHOOL IKWA.,37/03/09/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/010/010-1677403410.pdf,false
+FCT,GWAGWALADA,IKWA,TUNGAN LADAN LEA PRIMARY SCHOOL.,37/03/09/015,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/015/015-1677402910.pdf,false
+FCT,GWAGWALADA,IKWA,IKWA LEA  PRIMARY SCHOOL IKWA.,37/03/09/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/008/008-1677402182.pdf,false
+FCT,GWAGWALADA,IKWA,IKWA LEA  PRIMARY SCHOOL IKWA.,37/03/09/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/005/005-1677401731.pdf,false
+FCT,GWAGWALADA,IKWA,IKWA LEA  PRIMARY SCHOOL IKWA.,37/03/09/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/007/007-1677401530.pdf,false
+FCT,GWAGWALADA,IKWA,CHITIMU LEA PRIMARY SCHOOL,37/03/09/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/019/019-1677400109.pdf,false
+FCT,GWAGWALADA,IKWA,IKWA LEA  PRIMARY SCHOOL IKWA.,37/03/09/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/009/009-1677399149.pdf,false
+FCT,GWAGWALADA,IKWA,IKWA LEA  PRIMARY SCHOOL IKWA.,37/03/09/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/006/006-1677398890.pdf,false
+FCT,GWAGWALADA,IKWA,UNG SARKI IKWA  PRIMARY HEATH CARE IKWA.,37/03/09/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/020/020-1677398042.pdf,false
+FCT,GWAGWALADA,IKWA,TUNGAN LADAN/PRI. SCH.,37/03/09/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/002/002-1677397920.pdf,false
+FCT,GWAGWALADA,IKWA,GAJI LEA PRIMARY SCHOOL .,37/03/09/017,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/017/017-1677397472.pdf,false
+FCT,GWAGWALADA,IKWA,YIMI PRIMARY SCHOOL,37/03/09/014,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/014/014-1677396311.pdf,false
+FCT,GWAGWALADA,IKWA,IKWA/YIMI MACHADA.,37/03/09/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/011/011-1677395815.pdf,false
+FCT,GWAGWALADA,IKWA,CHITUMU/KOFAR GIDAN SARKI,37/03/09/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/004/004-1677395658.pdf,false
+FCT,GWAGWALADA,IKWA,MACHADA  PROPOSED SITES LEA PRIMARY SCHOOL MACHADA.,37/03/09/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/013/013-1677394781.pdf,false
+FCT,GWAGWALADA,IKWA,IKWA/IKWA PRI. SCH.,37/03/09/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/001/001-1677392092.pdf,false
+FCT,GWAGWALADA,IKWA,SHAGA/BASSA ZUBA LEA PRIMARY SCHOOL.,37/03/09/016,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/016/016-1677391651.pdf,false
+FCT,GWAGWALADA,IKWA,CHITIMU LEA PRIMARY SCHOOL,37/03/09/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/03/ward/09/pu/018/018-1677389212.pdf,false

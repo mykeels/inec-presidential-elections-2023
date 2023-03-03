@@ -1,61 +1,61 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-FCT,MUNICIPAL,,"AREA B, FAAN STAFF QUARTERS",37/06/07/051,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/674691/result_98738_1677498106_thumb.jpg,true
-FCT,MUNICIPAL,,AMAPAPWA ESTATE TOGE,37/06/07/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635634/result_98703_1677497523_thumb.jpg,false
-FCT,MUNICIPAL,,TUNGAN NASARA,37/06/07/060,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/674700/result_98747_1677496201_thumb.jpg,false
-FCT,MUNICIPAL,,LEA PRIMARY SCHOOL BARWA,37/06/07/058,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618101/result_98745_1677495589_thumb.jpg,false
-FCT,MUNICIPAL,,LEA PRIMARY SCHOOL GUI 1. GOSA,37/06/07/032,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635618/result_98719_1677499024_thumb.jpg,false
-FCT,MUNICIPAL,,UNGWAN IYA TOGE VILLAGEÊÊ,37/06/07/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635633/result_98704_1677499410_thumb.jpg,false
-FCT,MUNICIPAL,,NIGERIA IMMIGRATION HEAD QUARTERS,37/06/07/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635628/result_98709_1677498573_thumb.jpg,false
-FCT,MUNICIPAL,,UNGWAN FADAMA,37/06/07/039,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635611/result_98726_1677499810_thumb.jpg,false
-FCT,MUNICIPAL,,LEA PRIMARY SCHOOL MAKANIMA,37/06/07/040,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635610/result_98727_1677499905_thumb.jpg,false
-FCT,MUNICIPAL,,KUYAMA NEW SITE TOGE,37/06/07/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635631/result_98706_1677499744_thumb.jpg,false
-FCT,MUNICIPAL,,PRIMARY HEALTH CARE CENTRE TOGE,37/06/07/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635635/result_98702_1677497202_thumb.jpg,false
-FCT,MUNICIPAL,,TUNGAN KWASO,37/06/07/059,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/674699/result_98746_1677496034_thumb.jpg,false
-FCT,MUNICIPAL,,KUYAMA PRIMARY SCHOOL TOGE VILLAGE,37/06/07/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635632/result_98705_1677499621_thumb.jpg,false
-FCT,MUNICIPAL,,UNGWAN HAUSAWA,37/06/07/035,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635615/result_98722_1677499329_thumb.jpg,false
-FCT,MUNICIPAL,,UNGWAN HAKIMI TOGE,37/06/07/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635636/result_98701_1677496072_thumb.jpg,false
-FCT,MUNICIPAL,,UNGWAN BASSA,37/06/07/036,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635614/result_98723_1677499421_thumb.jpg,false
-FCT,MUNICIPAL,,JUNIOR SECONDARY SCHOOL IDDO SARKI,37/06/07/038,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635612/result_98725_1677499715_thumb.jpg,false
-FCT,MUNICIPAL,,JSS GOSA,37/06/07/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635620/result_98717_1677498715_thumb.jpg,false
-FCT,MUNICIPAL,,KPANYI KPANYI GOSA,37/06/07/033,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635617/result_98720_1677499106_thumb.jpg,false
-FCT,MUNICIPAL,,ANGWAN TAILOR,37/06/07/031,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635619/result_98718_1677498908_thumb.jpg,false
-FCT,MUNICIPAL,,MAWEYA VILLAGE,37/06/07/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635622/result_98715_1677498404_thumb.jpg,false
-FCT,MUNICIPAL,,GOSA SARKI I VILLAGE,37/06/07/029,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635621/result_98716_1677498784_thumb.jpg,true
-FCT,MUNICIPAL,,UNGWAN DALATU,37/06/07/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635616/result_98721_1677500097_thumb.jpg,true
-FCT,MUNICIPAL,,PRIMARY HEALTH CARE,37/06/07/037,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635613/result_98724_1677499525_thumb.jpg,true
-FCT,MUNICIPAL,,UNGWAN BASSA,37/06/07/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635630/result_98707_1677499872_thumb.jpg,true
-FCT,MUNICIPAL,,UNIVERSITY PERMANENT SITE,37/06/07/057,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3383/ward/20815/pu/124892/124892-1677488698.pdf,false
-FCT,MUNICIPAL,,MOBILE POLICE BARRACK,37/06/07/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3383/ward/20815/pu/124856/124856-1677469587.pdf,false
-FCT,MUNICIPAL,,CIVIL DEFENCE HEAD QUARTERS,37/06/07/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/023/023-1677428521.pdf,false
-FCT,MUNICIPAL,,UNGWAN SEYAWA,37/06/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/013/013-1677428470.pdf,false
-FCT,MUNICIPAL,,ACO ESTATE BY SECURITY POST,37/06/07/056,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/056/056-1677428254.pdf,false
-FCT,MUNICIPAL,,JEDO ESTATE SHOPPING COMPLEX,37/06/07/055,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/055/055-1677428074.pdf,false
-FCT,MUNICIPAL,,JSS GBESSA,37/06/07/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/024/024-1677427772.pdf,false
-FCT,MUNICIPAL,,"MAFOWA MINI MARKET, AIRFORCE BASE",37/06/07/054,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/054/054-1677427673.pdf,false
-FCT,MUNICIPAL,,YETU QUARTERS GBESSA,37/06/07/025,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/025/025-1677427260.pdf,false
-FCT,MUNICIPAL,,UNGWAN BASSA,37/06/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/012/012-1677427183.pdf,false
-FCT,MUNICIPAL,,ÊGUI PADA VILLAGE SQUARE,37/06/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/011/011-1677426852.pdf,false
-FCT,MUNICIPAL,,"AIRFORCE BASE, THE MESS.",37/06/07/053,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/053/053-1677426788.pdf,false
-FCT,MUNICIPAL,,"AREA B, STAFF QUARTERS 2, FAAN QUARTERS",37/06/07/052,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/052/052-1677426418.pdf,false
-FCT,MUNICIPAL,,T/WAKILI TUNGAN WAKILI VILLAGE,37/06/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/010/010-1677426125.pdf,false
-FCT,MUNICIPAL,,PRIMARY HEALTH CARE CENTRE,37/06/07/027,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/027/027-1677426087.pdf,false
-FCT,MUNICIPAL,,NUWAREGE/NUWAREGE,37/06/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/008/008-1677425481.pdf,false
-FCT,MUNICIPAL,,IDDO SARKI/IDDO SARKI PRI. SCH.,37/06/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/006/006-1677425147.pdf,false
-FCT,MUNICIPAL,,IDDO MAZHI /IDDO MAZHI,37/06/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/007/007-1677424737.pdf,false
-FCT,MUNICIPAL,,BAKWA NEW RESETTLEMENT VILLAGE,37/06/07/026,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/026/026-1677424413.pdf,false
-FCT,MUNICIPAL,,GOSA/GOSA PRI. SCHOOL,37/06/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/005/005-1677424064.pdf,false
-FCT,MUNICIPAL,,GBESSA/GBESSA PRI. SCH.,37/06/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/004/004-1677423723.pdf,false
-FCT,MUNICIPAL,,SAUKA/SAUKA VILLAGE,37/06/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/003/003-1677423119.pdf,false
-FCT,MUNICIPAL,,TOGE/TOGE VILLAGE,37/06/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/002/002-1677422586.pdf,false
-FCT,MUNICIPAL,,AIRPORT STAFF QUARTERS OPPOSITE SHOPPING COMPLEX,37/06/07/050,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/050/050-1677422401.pdf,false
-FCT,MUNICIPAL,,GUI PADA/GUI VILLAGE,37/06/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/001/001-1677422216.pdf,false
-FCT,MUNICIPAL,,DAYISANA VILLAGE MIELD FIELDER ESTATE,37/06/07/049,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/049/049-1677422055.pdf,false
-FCT,MUNICIPAL,,KUYAMA RESETTLEMENT VILLAGE,37/06/07/048,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/048/048-1677421705.pdf,false
-FCT,MUNICIPAL,,ZAMANI VILLAGE NWALEGE,37/06/07/047,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/047/047-1677421341.pdf,false
-FCT,MUNICIPAL,,NIGERIA CORRECTIONAL SERVICE HEADQUARTERS,37/06/07/046,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/046/046-1677420917.pdf,false
-FCT,MUNICIPAL,,UNGWAN SARKI NWAREGE,37/06/07/045,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/045/045-1677420388.pdf,false
-FCT,MUNICIPAL,,NWAREGE VILLAGE,37/06/07/044,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/044/044-1677419502.pdf,false
-FCT,MUNICIPAL,,FORT ROYAL ESTATE,37/06/07/043,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/043/043-1677418534.pdf,false
-FCT,MUNICIPAL,,IDDO MAZHI VILLAGE SQUARE,37/06/07/042,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/042/042-1677417811.pdf,false
-FCT,MUNICIPAL,,IDDO SABO VILLAGE,37/06/07/041,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/041/041-1677417137.pdf,false
-FCT,MUNICIPAL,,AIRPORT/G.S.S. AIRPORT,37/06/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/009/009-1677365711.pdf,false
+FCT,MUNICIPAL,GUI,"AREA B, FAAN STAFF QUARTERS",37/06/07/051,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/674691/result_98738_1677498106_thumb.jpg,true
+FCT,MUNICIPAL,GUI,AMAPAPWA ESTATE TOGE,37/06/07/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635634/result_98703_1677497523_thumb.jpg,false
+FCT,MUNICIPAL,GUI,TUNGAN NASARA,37/06/07/060,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/674700/result_98747_1677496201_thumb.jpg,false
+FCT,MUNICIPAL,GUI,LEA PRIMARY SCHOOL BARWA,37/06/07/058,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618101/result_98745_1677495589_thumb.jpg,false
+FCT,MUNICIPAL,GUI,LEA PRIMARY SCHOOL GUI 1. GOSA,37/06/07/032,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635618/result_98719_1677499024_thumb.jpg,false
+FCT,MUNICIPAL,GUI,UNGWAN IYA TOGE VILLAGEÊÊ,37/06/07/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635633/result_98704_1677499410_thumb.jpg,false
+FCT,MUNICIPAL,GUI,NIGERIA IMMIGRATION HEAD QUARTERS,37/06/07/022,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635628/result_98709_1677498573_thumb.jpg,false
+FCT,MUNICIPAL,GUI,UNGWAN FADAMA,37/06/07/039,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635611/result_98726_1677499810_thumb.jpg,false
+FCT,MUNICIPAL,GUI,LEA PRIMARY SCHOOL MAKANIMA,37/06/07/040,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635610/result_98727_1677499905_thumb.jpg,false
+FCT,MUNICIPAL,GUI,KUYAMA NEW SITE TOGE,37/06/07/019,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635631/result_98706_1677499744_thumb.jpg,false
+FCT,MUNICIPAL,GUI,PRIMARY HEALTH CARE CENTRE TOGE,37/06/07/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635635/result_98702_1677497202_thumb.jpg,false
+FCT,MUNICIPAL,GUI,TUNGAN KWASO,37/06/07/059,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/674699/result_98746_1677496034_thumb.jpg,false
+FCT,MUNICIPAL,GUI,KUYAMA PRIMARY SCHOOL TOGE VILLAGE,37/06/07/018,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635632/result_98705_1677499621_thumb.jpg,false
+FCT,MUNICIPAL,GUI,UNGWAN HAUSAWA,37/06/07/035,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635615/result_98722_1677499329_thumb.jpg,false
+FCT,MUNICIPAL,GUI,UNGWAN HAKIMI TOGE,37/06/07/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635636/result_98701_1677496072_thumb.jpg,false
+FCT,MUNICIPAL,GUI,UNGWAN BASSA,37/06/07/036,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635614/result_98723_1677499421_thumb.jpg,false
+FCT,MUNICIPAL,GUI,JUNIOR SECONDARY SCHOOL IDDO SARKI,37/06/07/038,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635612/result_98725_1677499715_thumb.jpg,false
+FCT,MUNICIPAL,GUI,JSS GOSA,37/06/07/030,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635620/result_98717_1677498715_thumb.jpg,false
+FCT,MUNICIPAL,GUI,KPANYI KPANYI GOSA,37/06/07/033,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635617/result_98720_1677499106_thumb.jpg,false
+FCT,MUNICIPAL,GUI,ANGWAN TAILOR,37/06/07/031,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635619/result_98718_1677498908_thumb.jpg,false
+FCT,MUNICIPAL,GUI,MAWEYA VILLAGE,37/06/07/028,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635622/result_98715_1677498404_thumb.jpg,false
+FCT,MUNICIPAL,GUI,GOSA SARKI I VILLAGE,37/06/07/029,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635621/result_98716_1677498784_thumb.jpg,true
+FCT,MUNICIPAL,GUI,UNGWAN DALATU,37/06/07/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635616/result_98721_1677500097_thumb.jpg,true
+FCT,MUNICIPAL,GUI,PRIMARY HEALTH CARE,37/06/07/037,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635613/result_98724_1677499525_thumb.jpg,true
+FCT,MUNICIPAL,GUI,UNGWAN BASSA,37/06/07/020,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/635630/result_98707_1677499872_thumb.jpg,true
+FCT,MUNICIPAL,GUI,UNIVERSITY PERMANENT SITE,37/06/07/057,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3383/ward/20815/pu/124892/124892-1677488698.pdf,false
+FCT,MUNICIPAL,GUI,MOBILE POLICE BARRACK,37/06/07/021,https://docs.inecelectionresults.net/elections_prod/1292/state/1/lga/3383/ward/20815/pu/124856/124856-1677469587.pdf,false
+FCT,MUNICIPAL,GUI,CIVIL DEFENCE HEAD QUARTERS,37/06/07/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/023/023-1677428521.pdf,false
+FCT,MUNICIPAL,GUI,UNGWAN SEYAWA,37/06/07/013,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/013/013-1677428470.pdf,false
+FCT,MUNICIPAL,GUI,ACO ESTATE BY SECURITY POST,37/06/07/056,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/056/056-1677428254.pdf,false
+FCT,MUNICIPAL,GUI,JEDO ESTATE SHOPPING COMPLEX,37/06/07/055,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/055/055-1677428074.pdf,false
+FCT,MUNICIPAL,GUI,JSS GBESSA,37/06/07/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/024/024-1677427772.pdf,false
+FCT,MUNICIPAL,GUI,"MAFOWA MINI MARKET, AIRFORCE BASE",37/06/07/054,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/054/054-1677427673.pdf,false
+FCT,MUNICIPAL,GUI,YETU QUARTERS GBESSA,37/06/07/025,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/025/025-1677427260.pdf,false
+FCT,MUNICIPAL,GUI,UNGWAN BASSA,37/06/07/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/012/012-1677427183.pdf,false
+FCT,MUNICIPAL,GUI,ÊGUI PADA VILLAGE SQUARE,37/06/07/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/011/011-1677426852.pdf,false
+FCT,MUNICIPAL,GUI,"AIRFORCE BASE, THE MESS.",37/06/07/053,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/053/053-1677426788.pdf,false
+FCT,MUNICIPAL,GUI,"AREA B, STAFF QUARTERS 2, FAAN QUARTERS",37/06/07/052,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/052/052-1677426418.pdf,false
+FCT,MUNICIPAL,GUI,T/WAKILI TUNGAN WAKILI VILLAGE,37/06/07/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/010/010-1677426125.pdf,false
+FCT,MUNICIPAL,GUI,PRIMARY HEALTH CARE CENTRE,37/06/07/027,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/027/027-1677426087.pdf,false
+FCT,MUNICIPAL,GUI,NUWAREGE/NUWAREGE,37/06/07/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/008/008-1677425481.pdf,false
+FCT,MUNICIPAL,GUI,IDDO SARKI/IDDO SARKI PRI. SCH.,37/06/07/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/006/006-1677425147.pdf,false
+FCT,MUNICIPAL,GUI,IDDO MAZHI /IDDO MAZHI,37/06/07/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/007/007-1677424737.pdf,false
+FCT,MUNICIPAL,GUI,BAKWA NEW RESETTLEMENT VILLAGE,37/06/07/026,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/026/026-1677424413.pdf,false
+FCT,MUNICIPAL,GUI,GOSA/GOSA PRI. SCHOOL,37/06/07/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/005/005-1677424064.pdf,false
+FCT,MUNICIPAL,GUI,GBESSA/GBESSA PRI. SCH.,37/06/07/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/004/004-1677423723.pdf,false
+FCT,MUNICIPAL,GUI,SAUKA/SAUKA VILLAGE,37/06/07/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/003/003-1677423119.pdf,false
+FCT,MUNICIPAL,GUI,TOGE/TOGE VILLAGE,37/06/07/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/002/002-1677422586.pdf,false
+FCT,MUNICIPAL,GUI,AIRPORT STAFF QUARTERS OPPOSITE SHOPPING COMPLEX,37/06/07/050,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/050/050-1677422401.pdf,false
+FCT,MUNICIPAL,GUI,GUI PADA/GUI VILLAGE,37/06/07/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/001/001-1677422216.pdf,false
+FCT,MUNICIPAL,GUI,DAYISANA VILLAGE MIELD FIELDER ESTATE,37/06/07/049,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/049/049-1677422055.pdf,false
+FCT,MUNICIPAL,GUI,KUYAMA RESETTLEMENT VILLAGE,37/06/07/048,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/048/048-1677421705.pdf,false
+FCT,MUNICIPAL,GUI,ZAMANI VILLAGE NWALEGE,37/06/07/047,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/047/047-1677421341.pdf,false
+FCT,MUNICIPAL,GUI,NIGERIA CORRECTIONAL SERVICE HEADQUARTERS,37/06/07/046,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/046/046-1677420917.pdf,false
+FCT,MUNICIPAL,GUI,UNGWAN SARKI NWAREGE,37/06/07/045,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/045/045-1677420388.pdf,false
+FCT,MUNICIPAL,GUI,NWAREGE VILLAGE,37/06/07/044,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/044/044-1677419502.pdf,false
+FCT,MUNICIPAL,GUI,FORT ROYAL ESTATE,37/06/07/043,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/043/043-1677418534.pdf,false
+FCT,MUNICIPAL,GUI,IDDO MAZHI VILLAGE SQUARE,37/06/07/042,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/042/042-1677417811.pdf,false
+FCT,MUNICIPAL,GUI,IDDO SABO VILLAGE,37/06/07/041,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/041/041-1677417137.pdf,false
+FCT,MUNICIPAL,GUI,AIRPORT/G.S.S. AIRPORT,37/06/07/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/06/ward/07/pu/009/009-1677365711.pdf,false

@@ -1,35 +1,35 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-FCT,KWALI,,UPPER NIGER RIVER GATE,37/05/01/030,,true
-FCT,KWALI,,HEALTH CENTRE LAMBATA,37/05/01/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/675314/result_97586_1677600846_thumb.jpg,false
-FCT,KWALI,,OLD ECWA DCC  SECRETARIAT,37/05/01/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636560/result_97567_1677600606_thumb.jpg,false
-FCT,KWALI,,KWALI NORMARDIC RUGAN FULANI,37/05/01/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/42121/result_97558_1677598616_thumb.jpg,false
-FCT,KWALI,,PILOT PRI.SCH III,37/05/01/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636562/result_97565_1677597413_thumb.jpg,false
-FCT,KWALI,,BONUGO VILLAGE,37/05/01/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618019/result_97577_1677597253_thumb.jpg,false
-FCT,KWALI,,PILOT PRI.SCH. IV,37/05/01/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636561/result_97566_1677596340_thumb.jpg,false
-FCT,KWALI,,ISLAMIYYA PRI.SCH. II,37/05/01/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636558/result_97569_1677595542_thumb.jpg,false
-FCT,KWALI,,GOVT. ISLAMIA  PRI .SCH.,37/05/01/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636559/result_97568_1677595254_thumb.jpg,false
-FCT,KWALI,,LAMBATA PRI. SCH,37/05/01/033,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/675313/result_97585_1677594490_thumb.jpg,false
-FCT,KWALI,,CIVIL DEFENCE GATE TOWN HALL,37/05/01/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/019/019-1677428727.pdf,false
-FCT,KWALI,,AGENCY  FOR MASS EDUCATION,37/05/01/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/023/023-1677427727.pdf,false
-FCT,KWALI,,LAMBATA,37/05/01/032,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/032/032-1677427261.pdf,false
-FCT,KWALI,,UNGWAN HAKIMI VILLAGE SQARE,37/05/01/026,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/026/026-1677426962.pdf,false
-FCT,KWALI,,BONUGO NORMADIC SCH,37/05/01/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/024/024-1677426649.pdf,false
-FCT,KWALI,,CENTRAL MOTOR PARK,37/05/01/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/021/021-1677425736.pdf,false
-FCT,KWALI,,UNGWAN HAKIMI /  NEAR PEOPLE'S BANK,37/05/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/005/005-1677424940.pdf,false
-FCT,KWALI,,NORMADIC PRI. SCH 1.,37/05/01/031,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/031/031-1677423739.pdf,false
-FCT,KWALI,,PILOT PRI. SCH. II,37/05/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/012/012-1677423342.pdf,false
-FCT,KWALI,,UNGWAN HAKIMI II,37/05/01/027,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/027/027-1677421537.pdf,false
-FCT,KWALI,,UNGUWAN CASHEW,37/05/01/028,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/028/028-1677421414.pdf,false
-FCT,KWALI,,KWALI GUEST  HOUSE,37/05/01/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/020/020-1677420902.pdf,false
-FCT,KWALI,,OLD ECWA DCC SECT,37/05/01/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/018/018-1677419971.pdf,false
-FCT,KWALI,,KWALI YAMMAH / VIEWING CENTRE,37/05/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/003/003-1677417719.pdf,false
-FCT,KWALI,,KWALI II / CENTRAL PRIMARY SCHOOL,37/05/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/002/002-1677415562.pdf,false
-FCT,KWALI,,KWALI I / HEALTH CENTRE,37/05/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/001/001-1677415461.pdf,false
-FCT,KWALI,,HEALTH CENTRE III,37/05/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/008/008-1677398452.pdf,false
-FCT,KWALI,,BONUGO / PRIMARY SCHOOL,37/05/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/004/004-1677397904.pdf,false
-FCT,KWALI,,LADI KWALI,37/05/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/009/009-1677395515.pdf,false
-FCT,KWALI,,HEALTH CENTRE II,37/05/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/007/007-1677392220.pdf,false
-FCT,KWALI,,CASSAVA PROCESSING  CENTRE,37/05/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/010/010-1677389953.pdf,false
-FCT,KWALI,,POLICE BARACKS,37/05/01/029,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/029/029-1677388969.pdf,false
-FCT,KWALI,,OVERSEA QUARTERS,37/05/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/011/011-1677359679.pdf,false
-FCT,KWALI,,BONUGO PRI.SCH. II,37/05/01/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/022/022-1677359616.pdf,false
+FCT,KWALI,KWALI WARD,UPPER NIGER RIVER GATE,37/05/01/030,,true
+FCT,KWALI,KWALI WARD,HEALTH CENTRE LAMBATA,37/05/01/034,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/675314/result_97586_1677600846_thumb.jpg,false
+FCT,KWALI,KWALI WARD,OLD ECWA DCC  SECRETARIAT,37/05/01/015,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636560/result_97567_1677600606_thumb.jpg,false
+FCT,KWALI,KWALI WARD,KWALI NORMARDIC RUGAN FULANI,37/05/01/006,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/42121/result_97558_1677598616_thumb.jpg,false
+FCT,KWALI,KWALI WARD,PILOT PRI.SCH III,37/05/01/013,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636562/result_97565_1677597413_thumb.jpg,false
+FCT,KWALI,KWALI WARD,BONUGO VILLAGE,37/05/01/025,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/618019/result_97577_1677597253_thumb.jpg,false
+FCT,KWALI,KWALI WARD,PILOT PRI.SCH. IV,37/05/01/014,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636561/result_97566_1677596340_thumb.jpg,false
+FCT,KWALI,KWALI WARD,ISLAMIYYA PRI.SCH. II,37/05/01/017,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636558/result_97569_1677595542_thumb.jpg,false
+FCT,KWALI,KWALI WARD,GOVT. ISLAMIA  PRI .SCH.,37/05/01/016,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/636559/result_97568_1677595254_thumb.jpg,false
+FCT,KWALI,KWALI WARD,LAMBATA PRI. SCH,37/05/01/033,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/675313/result_97585_1677594490_thumb.jpg,false
+FCT,KWALI,KWALI WARD,CIVIL DEFENCE GATE TOWN HALL,37/05/01/019,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/019/019-1677428727.pdf,false
+FCT,KWALI,KWALI WARD,AGENCY  FOR MASS EDUCATION,37/05/01/023,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/023/023-1677427727.pdf,false
+FCT,KWALI,KWALI WARD,LAMBATA,37/05/01/032,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/032/032-1677427261.pdf,false
+FCT,KWALI,KWALI WARD,UNGWAN HAKIMI VILLAGE SQARE,37/05/01/026,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/026/026-1677426962.pdf,false
+FCT,KWALI,KWALI WARD,BONUGO NORMADIC SCH,37/05/01/024,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/024/024-1677426649.pdf,false
+FCT,KWALI,KWALI WARD,CENTRAL MOTOR PARK,37/05/01/021,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/021/021-1677425736.pdf,false
+FCT,KWALI,KWALI WARD,UNGWAN HAKIMI /  NEAR PEOPLE'S BANK,37/05/01/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/005/005-1677424940.pdf,false
+FCT,KWALI,KWALI WARD,NORMADIC PRI. SCH 1.,37/05/01/031,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/031/031-1677423739.pdf,false
+FCT,KWALI,KWALI WARD,PILOT PRI. SCH. II,37/05/01/012,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/012/012-1677423342.pdf,false
+FCT,KWALI,KWALI WARD,UNGWAN HAKIMI II,37/05/01/027,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/027/027-1677421537.pdf,false
+FCT,KWALI,KWALI WARD,UNGUWAN CASHEW,37/05/01/028,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/028/028-1677421414.pdf,false
+FCT,KWALI,KWALI WARD,KWALI GUEST  HOUSE,37/05/01/020,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/020/020-1677420902.pdf,false
+FCT,KWALI,KWALI WARD,OLD ECWA DCC SECT,37/05/01/018,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/018/018-1677419971.pdf,false
+FCT,KWALI,KWALI WARD,KWALI YAMMAH / VIEWING CENTRE,37/05/01/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/003/003-1677417719.pdf,false
+FCT,KWALI,KWALI WARD,KWALI II / CENTRAL PRIMARY SCHOOL,37/05/01/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/002/002-1677415562.pdf,false
+FCT,KWALI,KWALI WARD,KWALI I / HEALTH CENTRE,37/05/01/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/001/001-1677415461.pdf,false
+FCT,KWALI,KWALI WARD,HEALTH CENTRE III,37/05/01/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/008/008-1677398452.pdf,false
+FCT,KWALI,KWALI WARD,BONUGO / PRIMARY SCHOOL,37/05/01/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/004/004-1677397904.pdf,false
+FCT,KWALI,KWALI WARD,LADI KWALI,37/05/01/009,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/009/009-1677395515.pdf,false
+FCT,KWALI,KWALI WARD,HEALTH CENTRE II,37/05/01/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/007/007-1677392220.pdf,false
+FCT,KWALI,KWALI WARD,CASSAVA PROCESSING  CENTRE,37/05/01/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/010/010-1677389953.pdf,false
+FCT,KWALI,KWALI WARD,POLICE BARACKS,37/05/01/029,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/029/029-1677388969.pdf,false
+FCT,KWALI,KWALI WARD,OVERSEA QUARTERS,37/05/01/011,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/011/011-1677359679.pdf,false
+FCT,KWALI,KWALI WARD,BONUGO PRI.SCH. II,37/05/01/022,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/05/ward/01/pu/022/022-1677359616.pdf,false

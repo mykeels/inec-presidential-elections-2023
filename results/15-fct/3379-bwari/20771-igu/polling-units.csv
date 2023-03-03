@@ -1,11 +1,11 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-FCT,BWARI,,KIAMA II,37/02/03/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/617915/result_96572_1677582492_thumb.jpg,false
-FCT,BWARI,,TOKULO  /  TOKULO PRIMARY SCHOOL,37/02/03/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41911/result_96565_1677582423_thumb.jpg,false
-FCT,BWARI,,IGU   /  IGU PRIMARY SCHOOL,37/02/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/001/001-1677382754.pdf,false
-FCT,BWARI,,PANUNUKE  /  PANUNUKE VILLAGE SQUARE,37/02/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/004/004-1677391089.pdf,false
-FCT,BWARI,,IGU VILLAGE/BESIDE HAUSA CHIEFS PALACE OPEN SPACE,37/02/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/007/007-1677391081.pdf,false
-FCT,BWARI,,KAIMA  /  KAIMA PRIMARY SCHOOL,37/02/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/003/003-1677383785.pdf,false
-FCT,BWARI,,TOKULO VILLAGE/OPEN SPACE NEAR CHIEF PALACE,37/02/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/008/008-1677383766.pdf,false
-FCT,BWARI,,IGU VILLAGE/SKILL ACQUISITION CENTER,37/02/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/010/010-1677383756.pdf,false
-FCT,BWARI,,IGU VILLAGE/IGU PRIMARY SCHOOL,37/02/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/006/006-1677383414.pdf,false
-FCT,BWARI,,IGU KORO   /  INFRONT OF CHIEF'S PALACE,37/02/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/005/005-1677368475.pdf,false
+FCT,BWARI,IGU,KIAMA II,37/02/03/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/617915/result_96572_1677582492_thumb.jpg,false
+FCT,BWARI,IGU,TOKULO  /  TOKULO PRIMARY SCHOOL,37/02/03/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41911/result_96565_1677582423_thumb.jpg,false
+FCT,BWARI,IGU,IGU   /  IGU PRIMARY SCHOOL,37/02/03/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/001/001-1677382754.pdf,false
+FCT,BWARI,IGU,PANUNUKE  /  PANUNUKE VILLAGE SQUARE,37/02/03/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/004/004-1677391089.pdf,false
+FCT,BWARI,IGU,IGU VILLAGE/BESIDE HAUSA CHIEFS PALACE OPEN SPACE,37/02/03/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/007/007-1677391081.pdf,false
+FCT,BWARI,IGU,KAIMA  /  KAIMA PRIMARY SCHOOL,37/02/03/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/003/003-1677383785.pdf,false
+FCT,BWARI,IGU,TOKULO VILLAGE/OPEN SPACE NEAR CHIEF PALACE,37/02/03/008,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/008/008-1677383766.pdf,false
+FCT,BWARI,IGU,IGU VILLAGE/SKILL ACQUISITION CENTER,37/02/03/010,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/010/010-1677383756.pdf,false
+FCT,BWARI,IGU,IGU VILLAGE/IGU PRIMARY SCHOOL,37/02/03/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/006/006-1677383414.pdf,false
+FCT,BWARI,IGU,IGU KORO   /  INFRONT OF CHIEF'S PALACE,37/02/03/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/02/ward/03/pu/005/005-1677368475.pdf,false

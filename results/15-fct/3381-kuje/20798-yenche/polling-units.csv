@@ -1,8 +1,8 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-FCT,KUJE,,CHIEF PALACE YENCE OPEN SPACE,37/04/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/10/pu/006/006-1677365459.pdf,false
-FCT,KUJE,,GYANA/ANGWAN SARKI,37/04/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/10/pu/007/007-1677365239.pdf,false
-FCT,KUJE,,YENCHE/PRIMARY SCHOOL,37/04/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/10/pu/001/001-1677364096.pdf,false
-FCT,KUJE,,DNAGO / PRIMARY SCHOOL,37/04/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/10/pu/004/004-1677364014.pdf,false
-FCT,KUJE,,GBEDE / PRIMARY SCHOOL,37/04/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/10/pu/003/003-1677362887.pdf,false
-FCT,KUJE,,GBAMFA / PRIMARY SCHOOL,37/04/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/10/pu/002/002-1677362314.pdf,false
-FCT,KUJE,,YABA / KOFAR SARKI,37/04/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/10/pu/005/005-1677361220.pdf,false
+FCT,KUJE,YENCHE,CHIEF PALACE YENCE OPEN SPACE,37/04/10/006,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/10/pu/006/006-1677365459.pdf,false
+FCT,KUJE,YENCHE,GYANA/ANGWAN SARKI,37/04/10/007,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/10/pu/007/007-1677365239.pdf,false
+FCT,KUJE,YENCHE,YENCHE/PRIMARY SCHOOL,37/04/10/001,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/10/pu/001/001-1677364096.pdf,false
+FCT,KUJE,YENCHE,DNAGO / PRIMARY SCHOOL,37/04/10/004,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/10/pu/004/004-1677364014.pdf,false
+FCT,KUJE,YENCHE,GBEDE / PRIMARY SCHOOL,37/04/10/003,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/10/pu/003/003-1677362887.pdf,false
+FCT,KUJE,YENCHE,GBAMFA / PRIMARY SCHOOL,37/04/10/002,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/10/pu/002/002-1677362314.pdf,false
+FCT,KUJE,YENCHE,YABA / KOFAR SARKI,37/04/10/005,https://docs.inecelectionresults.net/elections_prod/1292/state/01/lga/04/ward/10/pu/005/005-1677361220.pdf,false

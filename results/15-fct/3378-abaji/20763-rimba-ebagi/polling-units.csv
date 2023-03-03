@@ -1,12 +1,12 @@
 state_name,lga_name,ward_name,name,pu_code,document.url,has_old_documents
-FCT,ABAJI,,NAHARATI SABO PRIMARY SHOOL,37/01/05/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637478/result_96390_1677595483_thumb.jpg,false
-FCT,ABAJI,,EBAGI/EBAGI PRIMARYSCHOOL,37/01/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637479/result_96389_1677594379_thumb.jpg,false
-FCT,ABAJI,,NAHARATI SABO PRIMARY SHOOL,37/01/05/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637477/result_96391_1677594230_thumb.jpg,false
-FCT,ABAJI,,NAHARATI SABO PRIMARY SHOOL,37/01/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637476/result_96392_1677594109_thumb.jpg,false
-FCT,ABAJI,,TUPA/TUPA PRIMARY SCHOOL,37/01/05/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41861/result_96387_1677592660_thumb.jpg,false
-FCT,ABAJI,,NAHARATI TSOHO/NHARATI TSOHO PRIMARY SCHOOL,37/01/05/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41860/result_96386_1677591320_thumb.jpg,false
-FCT,ABAJI,,NAHARATI SABO/NAHARATI PRIMARY SCHOOL,37/01/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41859/result_96385_1677592105_thumb.jpg,false
-FCT,ABAJI,,RIMBA / RIMBA PRIMARY SCHOOL,37/01/05/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41858/result_96384_1677591645_thumb.jpg,false
-FCT,ABAJI,,NAHARATI SABO PRIMARY SHOOL,37/01/05/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637475/result_96393_1677592104_thumb.jpg,false
-FCT,ABAJI,,EBAGI / EBAGI PRIMARY SCHOOL,37/01/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41857/result_96383_1677591039_thumb.jpg,false
-FCT,ABAJI,,RIMBA GWARI/RIMBA GWARI VILLAGE SQUARE,37/01/05/006,,false
+FCT,ABAJI,RIMBA EBAGI,NAHARATI SABO PRIMARY SHOOL,37/01/05/008,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637478/result_96390_1677595483_thumb.jpg,false
+FCT,ABAJI,RIMBA EBAGI,EBAGI/EBAGI PRIMARYSCHOOL,37/01/05/007,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637479/result_96389_1677594379_thumb.jpg,false
+FCT,ABAJI,RIMBA EBAGI,NAHARATI SABO PRIMARY SHOOL,37/01/05/009,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637477/result_96391_1677594230_thumb.jpg,false
+FCT,ABAJI,RIMBA EBAGI,NAHARATI SABO PRIMARY SHOOL,37/01/05/010,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637476/result_96392_1677594109_thumb.jpg,false
+FCT,ABAJI,RIMBA EBAGI,TUPA/TUPA PRIMARY SCHOOL,37/01/05/005,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41861/result_96387_1677592660_thumb.jpg,false
+FCT,ABAJI,RIMBA EBAGI,NAHARATI TSOHO/NHARATI TSOHO PRIMARY SCHOOL,37/01/05/004,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41860/result_96386_1677591320_thumb.jpg,false
+FCT,ABAJI,RIMBA EBAGI,NAHARATI SABO/NAHARATI PRIMARY SCHOOL,37/01/05/003,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41859/result_96385_1677592105_thumb.jpg,false
+FCT,ABAJI,RIMBA EBAGI,RIMBA / RIMBA PRIMARY SCHOOL,37/01/05/002,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41858/result_96384_1677591645_thumb.jpg,false
+FCT,ABAJI,RIMBA EBAGI,NAHARATI SABO PRIMARY SHOOL,37/01/05/011,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/637475/result_96393_1677592104_thumb.jpg,false
+FCT,ABAJI,RIMBA EBAGI,EBAGI / EBAGI PRIMARY SCHOOL,37/01/05/001,https://inec-cvr-cache.s3.eu-west-1.amazonaws.com/cached/results/41857/result_96383_1677591039_thumb.jpg,false
+FCT,ABAJI,RIMBA EBAGI,RIMBA GWARI/RIMBA GWARI VILLAGE SQUARE,37/01/05/006,,false
