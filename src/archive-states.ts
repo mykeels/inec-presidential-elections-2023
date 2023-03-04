@@ -1,3 +1,7 @@
+/**
+ * This script archives the data for all states, lgas, and wards in the INEC API.
+ */
+
 import axios from "axios";
 import { StateSchema } from "./schema";
 import fs from "fs";

@@ -1,3 +1,12 @@
+/**
+ * This script crawls through all results/[state]/[lga]/[ward]/polling-units.csv files,
+ * and aggregates them by state.
+ *
+ * The output is a single file, results/[state]/polling-units.csv
+ *
+ * https://docs.google.com/spreadsheets/d/1YOFqQ-DYZR7xYuNSGhwkmqbT8_6pKqL9Ty1-eU47ZYw/edit#gid=0
+ */
+
 import fs from "fs";
 import path from "path";
 import fg from "fast-glob";

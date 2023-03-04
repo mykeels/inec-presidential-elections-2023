@@ -1,10 +1,18 @@
+/**
+ * This script archives the polling-units data for each ward
+ * 
+ * Each row in the data including INEC info about the polling-unit. 
+ * It may also include the document containing the results, and a list of old documents, 
+ * which we believe may be previous upload iterations.
+ */
+
 import fs from "fs";
 import path from "path";
 import fg from "fast-glob";
 import axios from "axios";
 import { json2csv } from "json-2-csv";
 
-import { PollingUnitSchema, Ward, WardSchema } from "./schema";
+import { ResPollingUnitSchema, Ward, WardSchema } from "./schema";
 import { assert } from "./utils/assert.utils";
 
 const resultsDir = path.join(__dirname, "..", "results");
@@ -35,7 +43,7 @@ const archiveWard = async (
   const res = await axios.get(
     `https://lv001-g.inecelectionresults.ng/api/v1/elections/63f8f25b594e164f8146a213/pus?ward=${ward._id}`
   );
-  const data = PollingUnitSchema.parse(res.data).data;
+  const data = ResPollingUnitSchema.parse(res.data).data;
   const pollingUnits = data.map((row) => ({
     ...row.polling_unit,
     state_name: ward.state_name,
