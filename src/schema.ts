@@ -86,8 +86,10 @@ export const StateSchema = z.object({
   ),
 });
 
-export type PollingUnit = z.infer<typeof PollingUnitSchema>["data"][number];
-export const PollingUnitSchema = z.object({
+export type ResPollingUnit = z.infer<
+  typeof ResPollingUnitSchema
+>["data"][number];
+export const ResPollingUnitSchema = z.object({
   success: z.boolean(),
   request_time: z.number(),
   data: z.array(
@@ -130,14 +132,17 @@ export const PollingUnitSchema = z.object({
       created_at: z.string(),
       updated_at: z.string(),
       __v: z.number(),
-      document: z.object({
-        external: z.boolean(),
-        status: z.number(),
-        _id: z.string(),
-        url: z.string(),
-        size: z.number(),
-        updated_at: z.string(),
-      }).optional().nullable(),
+      document: z
+        .object({
+          external: z.boolean(),
+          status: z.number(),
+          _id: z.string(),
+          url: z.string(),
+          size: z.number(),
+          updated_at: z.string(),
+        })
+        .optional()
+        .nullable(),
       document_id: z.number().optional(),
       old_documents: z.array(z.unknown()).optional(),
       session: z.string().optional(),
@@ -169,3 +174,56 @@ export const WardSchema = z.object({
   updated_at: z.string(),
   __v: z.number(),
 });
+
+export type PollingUnitList = z.infer<typeof PollingUnitListSchema>;
+export type PollingUnit = z.infer<typeof PollingUnitListSchema>[number];
+export const PollingUnitListSchema = z.array(
+  z.object({
+    status: z.string(),
+    generation: z.number(),
+    db_generation: z.number(),
+    is_accredited: z.number(),
+    _id: z.string(),
+    state_id: z.number(),
+    state: z.string(),
+    lga_id: z.number(),
+    ward_id: z.number(),
+    state_constituency_id: z.number(),
+    state_constituency: z.string(),
+    federal_constituency_id: z.number(),
+    federal_constituency: z.string(),
+    senatorial_district_id: z.number(),
+    senatorial_district: z.string(),
+    name: z.string(),
+    code: z.string(),
+    pu_code: z.string(),
+    old_name: z.string(),
+    polling_unit_id: z.number(),
+    created_at: z.string(),
+    updated_at: z.string(),
+    __v: z.number(),
+    pu_code_string: z.string(),
+    state_name: z.string(),
+    lga_name: z.string(),
+    ward_name: z.string(),
+    document: z.object({
+      external: z.boolean(),
+      status: z.number(),
+      _id: z.string(),
+      url: z.string(),
+      size: z.number(),
+      updated_at: z.string(),
+    }).optional().nullable(),
+    old_documents: z.array(
+      z.object({
+        external: z.boolean(),
+        status: z.number(),
+        _id: z.string(),
+        url: z.string(),
+        size: z.number(),
+        updated_at: z.string(),
+      })
+    ).optional(),
+    has_old_documents: z.boolean(),
+  })
+);
