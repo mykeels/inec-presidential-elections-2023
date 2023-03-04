@@ -41,10 +41,10 @@ export async function aggregateWards(stateDir: string) {
     const pollingUnits = PollingUnitListSchema.parse(json);
     for (let pu of pollingUnits) {
       aggregates.push({
-        state_name: pu.state_name,
-        lga_name: pu.lga_name,
-        ward_name: pu.ward_name,
-        name: pu.name,
+        state_name: pu.state_name.replace(/\n/g, ""),
+        lga_name: pu.lga_name.replace(/\n/g, ""),
+        ward_name: pu.ward_name.replace(/\n/g, ""),
+        name: pu.name.replace(/\n/g, ""),
         pu_code: pu.pu_code,
         document: pu.document?.url,
         has_old_documents: pu.has_old_documents,
