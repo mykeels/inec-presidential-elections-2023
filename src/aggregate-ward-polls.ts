@@ -51,7 +51,7 @@ export async function aggregateWards(stateDir: string) {
         uploaded_at: pu.document?.updated_at,
         json_url: [
           `https://raw.githubusercontent.com/mykeels/inec-presidential-elections-2023/master/results`,
-          path.join(stateDirBaseName, filePath),
+          path.join(stateDirBaseName, filePath).replace(/\\/g, "/"),
         ].join("/"),
       });
     }
